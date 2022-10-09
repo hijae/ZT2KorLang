@@ -1,13 +1,13 @@
 <ZT2Strings>
-      <LOC_STRING _locID="entityname:AgaveCactus_Desert"  >American Agave</LOC_STRING>
-      <LOC_STRING _locID="entityname:AgaveCactus_Desert_stt"  >American agave</LOC_STRING>
-      <LOC_STRING _locID="entityname:AgaveCactus_Desert_lower"  >the American agave</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert"  >용설란</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_stt"  >용설란</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_lower"  >용설란</LOC_STRING>
       <LOC_STRING _locID="entityname:AgaveCactus_Desert_ltt"  >
 		   <color r="255" g="248" b="178">
-		      <b>American agave</b>
+		      <b>용설란</b>
 		   </color>
 		   <br/>
-		         Click to select and then place an American agave, a plant that takes a quarter of a century to bloom.
+		         용설란을 적당한 위치에 심으세요. 이 식물은 개화하는데 25년이 걸립니다.
       </LOC_STRING>
    
 </ZT2Strings>
