@@ -31,5 +31,5 @@ jobs:
       with:
         artifacts: "ZZZZZZKorlang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ZT2_Kor-${{ steps.date.outputs.date }}
+        tag: ver-${{ github.sha }}
         name: ZT2 Korean Patch V${{ steps.date.outputs.date }}
