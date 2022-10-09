@@ -17,22 +17,22 @@ jobs:
         echo $RELEASE_VERSION
         echo ${{ env.RELEASE_VERSION }}
 
-        
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+ 
     - uses: actions/checkout@master
     - name: Archive Release
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'ZZZZZZuKorlang.z2f'
+        filename: '${{ steps.date.outputs.date }}ZZZZZZKorlang.z2f'
         
-    - name: Get current date
-      id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "ZZZZZZKorlang.z2f"
+        artifacts: "${{ steps.date.outputs.date }}ZZZZZZKorlang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ver-${{ github.sha }}
+        tag: ver-${{ steps.date.outputs.date }}
         name: ZT2 Korean Patch ${{ steps.date.outputs.date }}
