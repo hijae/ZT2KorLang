@@ -13,3 +13,10 @@ jobs:
       with:
         type: 'zip'
         filename: '한글lang.z2f'
+
+
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "한글lang.z2f"
+        token: ${{ secrets.GITHUB_TOKEN }}
