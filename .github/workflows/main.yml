@@ -24,7 +24,10 @@ jobs:
       with:
         type: 'zip'
         filename: 'ZZZZZZuKorlang.z2f'
-    
+        
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
@@ -32,4 +35,4 @@ jobs:
         artifacts: "ZZZZZZKorlang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ver-${{ github.sha }}
-        name: ZT2 Korean Patch V${{ steps.date.outputs.date }}
+        name: ZT2 Korean Patch ${{ steps.date.outputs.date }}
