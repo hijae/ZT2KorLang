@@ -37,3 +37,5 @@ jobs:
       with:
         artifacts: "한글lang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
