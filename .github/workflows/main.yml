@@ -1,8 +1,6 @@
 name: Create Archive
 on:
   push:
-    tags:
-      - 'v*.*.*'
     branches:
       main
 jobs:
@@ -33,4 +31,4 @@ jobs:
       with:
         artifacts: "한글lang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "v1.0.0"
+        tag: ver-${{ github.sha }}
