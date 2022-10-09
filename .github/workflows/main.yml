@@ -23,12 +23,13 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: '한글lang.z2f'
+        filename: 'ZZZZZZuKorlang.z2f'
     
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "한글lang.z2f"
+        artifacts: "ZZZZZZKorlang.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ver-${{ github.sha }}
+        tag: ZT2_Kor-${{ steps.date.outputs.date }}
+        name: ZT2 Korean Patch V${{ steps.date.outputs.date }}
