@@ -1,0 +1,79 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoostatus:survey_recommendzoo">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               친구들한테도 와 보라고 해야겠다!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_enjoyedzoo">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               이 동물원이 마음에 들어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_wasentertained">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               이 동물원은 정말 재미있었어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_waseducated">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               유익한 정보를 많이 얻었어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_foundfood">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               맛있는 음식이 많아서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_founddrink">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               맛있는 음료수가 많아서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_founddessert">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               간식거리가 많아서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_foundfavfood">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               내가 좋아하는 음식이 있어서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_founddonate">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               기부함이 많이 있어서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_foundgift">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               기념품이 많아서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:survey_foundbathroom">
+         <font name="굴림" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               화장실이 곳곳에 있어서 좋았어!
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

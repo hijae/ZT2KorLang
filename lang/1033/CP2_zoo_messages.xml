@@ -1,0 +1,7 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoomessages" version="10" />
+      <LOC_STRING _locID="zoomessages:CloningCenterReady" version="10"  >연구가 완료되었습니다. %s은(는) 멸종 동물을 만들 준비가 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:EntertainerFailure" version="10"  >엔터테이너가 %s에 다가갈 수 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:NewStatue" version="10"  >이제 %s을(를) 배치할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:PaleoFailure" version="10"  >고생물학자가 %s에 다가갈 수 없습니다!</LOC_STRING>
+</ZT2Strings>

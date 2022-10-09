@@ -1,0 +1,496 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_styracosaurus:entry"  >Styracosaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_styracosaurus:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropical Rainforest<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">North America</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_North_America.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: <i>Archosauria</i>
+                  <br/>
+                  Order: <i>Ornithischia</i>
+                  <br/>
+                  Family: <i>Ceratopsidae</i>
+                  <br/>
+                  Genus: <i>Styracosaurus</i>
+                  <br/>
+                  Species: <i>albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Styracosaurus Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styracosaurus is an ancestor of the better-known Triceratops.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styracosaurus had a horn and spiked frill for protection against carnivorous predators such as Tyrannosaurus rex and Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styracosaurus was an herbivore that ate the leaves of cycads such as the king sago palm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styracosaurus probably traveled and foraged in herds.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Styracosaurus in challenge or campaign games, you must earn a 1-star zoo fame rating for your zoo.</color>
+            <p/>Styracosaurus was an herbivore (plant-eater) that lived during the Cretaceous Period, more than 65 million years ago. Styracosaurus was a smaller ancestor of Triceratops and lived about 10 million years earlier. An adult Styracosaurus was approximately 5 m (18 ft) long, 1.8 m (6 feet) tall, and weighed up to 3 metric tons. It had one large horn on its snout, a small horn above each eye, and a neck frill adorned with several long spikes. The neck frill provided protection from carnivorous predators such as Tyrannosaurus and also made Styracosaurus look larger and more threatening (and maybe more appealing during mating rituals). Like Triceratops, Styracosaurus had a sharp beak that it used to cut leaves from low-growing foliage such as cycads, and powerful jaws to chew the tough leaves. Styracosaurus was discovered in 1915 in Red Deer Valley, Alberta, Canada. 
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops:entry"  >Triceratops</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Boreal Forest</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">North America</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: <i>Archosauria</i>
+                  <br/>
+                  Order: <i>Ornithischia</i>
+                  <br/>
+                  Family: <i>Ceratopsidae</i>
+                  <br/>
+                  Genus: <i>Triceratops</i>
+                  <br/>
+                  Species: <i>horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Triceratops Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops is a descendant of Styracosaurus.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops had three horns and a bony neck shield called a frill.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops used its horns and frill as defense against predators such as Tyrannosaurus rex and Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops was an herbivore that ate the leaves of cycads such as the king sago palm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops had a sharp beak that it used to cut through vegetation, and its jaws could open sideways to gather foliage.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Triceratops in challenge or campaign games, you must earn a 4-star zoo fame rating for your zoo.</color>
+            <p/>Triceratops is a genus of four-legged, plant-eating dinosaurs that lived during the Cretaceous Period, more than 65 million years ago. Triceratops had three horns on its skull -- one on its snout and one above each eye. The name is derived from the Greek words treis ("three"), kerat ("horn"), and ops ("face"). Triceratops was one of the largest horned dinosaurs. The animalâ€™s other defining features include a beak and a neck shield, or frill. Triceratops belonged to a diverse group of ornithischian ("bird-hipped") dinosaurs called ceratopsians ("horn-face"), which populated North America and Asia toward the end of the age of dinosaurs. Many skulls have been recovered from sediments that were deposited 67 million to 65 million years ago on low, coastal plains near a seaway that covered the interior of the United States and Canada.
+            
+				<p/>An adult Triceratops was approximately 8 m (26 ft) long and weighed up to 12 metric tons. Skulls of adults were 2.5 m (8 ft) long and ended in a narrow, birdlike beak. Within the beak, its teeth were compressed into rows that resembled large shears. The animal could open its jaws sideways to gather foliage by rotating the joint between its head and neck. Once the food was gathered, the animal then rotated its head back and chopped up the food between its powerful jaws. The underside of the neck frill contained a dense network of blood vessels. Fossil evidence indicates that heat was radiated from the frill through these blood vessels in much the same way elephants transport blood to their ears to radiate heat. Some scientists believe that Triceratops could gallop like a rhinoceros, but others suggest that the animal was too heavy and clumsy for such movement.
+				
+				<p/>Skeletal remains of Triceratops have been found over a vast alluvial plain that resembled the modern lowlands bordering the lower part of the Mississippi River near the Gulf of Mexico. The jaws of Triceratops were well suited to reap fibrous plants such as cattails and palmettos, which are known to have grown in that plain. The animalâ€™s large size suggests that Triceratops inhabited an environment with an abundant food supply. Partly healed puncture wounds in their skulls indicate that they fought one another like modern horned mammals, such as male goats and deer. However, some paleontologists believe that Triceratopsâ€™ horns may have played a role in species recognition between males and females, and in other aspects of social behavior, particularly in group dominance and mating. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:entry"  >Tyrannosaurus Rex</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropical Rainforest<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">North America</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: <i>Archosauria</i>
+                  <br/>
+                  Order: <i>Saurischia</i>
+                  <br/>
+                  Family: <i>Tyrannosauridae</i>
+                  <br/>
+                  Genus: <i>Tyrannosaurus</i>
+                  <br/>
+                  Species: <i>rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Tyrannosaurus Rex Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Scientists know more about Tyrannosaurus than any other predatory dinosaur.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tyrannosaurus was a carnivore (meat-eater) that often preyed upon herbivores such as Triceratops and Styracosaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The frill of a Triceratops was found in the fossilized dung of a Tyrannosaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tyrannosaurus had a lattice of bone to protect its abdomen from the sharp horns of retaliating herbivores.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The stomach of the Tyrannosaurus held more than half a metric ton of meat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Scientists recently discovered evidence indicating that Tyrannosaurus young may have been covered in downy feathers for warmth.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Tyrannosaurus rex in challenge or campaign games, you must earn a 5-star zoo fame rating for your zoo.</color>
+          	<p/>Tyrannosaurus is the name of a genus of large, two-legged, meat-eating dinosaurs that lived in the late Cretaceous Period, about 65 million years ago. The name Tyrannosaurus is derived from the Greek words tyrannos, "tyrant," and sauros, "lizard." Instantly recognizable by its size, upright posture, serrated teeth, and small, two-fingered forelimbs, Tyrannosaurus was one of the largest meat-eating land animals that ever existed.
+
+		<p/>Scientists know more about Tyrannosaurus than they do about any other predatory dinosaur. They have found dozens of skeletons of these giant saurischians ("lizard-hipped" dinosaurs) in Mongolia and throughout the western United States and Canada. A particularly large and complete skeleton named Sue is on display at the Field Museum in Chicago. Another fossilized Tyrannosaurus, discovered in Montana, was so well preserved that blood vessels and other soft tissue remained within its thighbone.
+
+		<p/>Tyrannosaurus was among the largest of the flesh-eating terrestrial animals, exceeded in size only by Giganotosaurus and Carcharodontosaurus. They reached 12.5 m (41 ft) in length and 5 m (16 ft) in height, and they weighed over 5 metric tons. The skull of Tyrannosaurus was large and flexible, and contained a brain comparable in size to those of modern reptiles. Its bone-crushing bite was probably more powerful than that of any other flesh-eating dinosaur. The bridge of the nose contained wartlike knobs and pits. The animals had a broad field of vision but could focus their eyes directly to the front. Tyrannosaurus had short arms with few nerves running through them. This limited nerve development suggests that the arm movements must have been unwieldy and clumsy. The barrel-shaped chest of these dinosaurs indicates that the lungs were very large. A latticework of bones protected the stomach and other internal organs. The legs were long and slender.
+
+		<p/>Tyrannosaurus probably preferred open terrain, such as broad game trails and open forests, where it could move its large body and see unimpeded by brush. Scientists estimate that Tyrannosaurus could walk rapidly and may have been able to run at speeds up to 40 km/h (25 mph) when chasing prey. They also could lie in ambush upon a strong pelvic extension, with chin on the ground, watching for prey with their high-placed eyes. 
+
+		<p/>Scientists debate whether Tyrannosaurus was warm-blooded like modern mammals. Evidence suggests that the creatures had a uniform body temperature, which would require a metabolic rate higher than that of other reptiles. Some scientists have even suggested that Tyrannosaurus had feathers, not for flying but for insulation.
+
+		<p/>A higher body temperature would require Tyrannosaurus to eat more often than other reptiles. The stomach of the dinosaur could hold more than half a metric ton of flesh, which would be consumed every few weeks. Scientists have found a 2-liter (2.1-qt) lump of fossilized dung that contains direct evidence of the prey of Tyrannosaurus: partly digested bone fragments of young plant-eating dinosaurs. Further evidence of their diet includes a Triceratops pelvis that exhibits deep punctures and grooves made by Tyrannosaurus teeth. Like most active carnivores, Tyrannosaurus probably also fed on the decaying bodies of dinosaurs killed by starvation and floods. Tooth marks on some Tyrannosaurus skulls indicate that the animals fought with one another by biting on the face. 
+
+         </cell>
+
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus:entry"  >Carnotaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Boreal Forest</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">South America</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_South_America.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: <i>Archosauria</i>
+                  <br/>
+                  Order: <i>Saurischia</i>
+                  <br/>
+                  Family: <i>Abelisauridae</i>
+                  <br/>
+                  Genus: <i>Carnotaurus</i>
+                  <br/>
+                  Species: <i>sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Carnotaurus Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The name Carnotaurus means "meat eater with horns."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The knobby horns over the eyes of Carnotaurus may have been used for head butting competitions or mating rituals.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Carnotaurus' head and jaw were bluntly shaped (similar to a bulldog), unlike most other carnivores.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Although it walked upright, had tiny arms, and looked similar to the T. rex, the two are not related.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Carnotaurus in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+            <p/>Carnotaurus was an unusual dinosaur. Its name means "meat eater with horns," referring to the knobby horns over its eyebrows. While most dinosaur fossils have been found in North America, Carnotaurus was discovered in South America. A single fossil was also discovered quite recently (1984) in Argentina, but the fossil was so well preserved that rough bumps were visible on its skin.
+
+		<p/>Carnotaurus lived during the mid-Cretaceous period, about 113 to 91 million years ago. It measured approximately 7.5 m (about 25 ft) in length and weighed about 1,000 kg (1 ton). It featured two large horns above its eyes, tiny arms (smaller even than those of T. rex), and four-fingered "hands," each with a backward-pointing spike. Although, like most carnivores, it walked on its hind legs, Carnotaurus is unrelated to familiar meat-eaters such as Giganotosaurus, Allosaurus, and T. rex. Instead, it belongs to a group of explicitly southern hemisphere meat-eaters called abelisaurs.
+
+
+         </cell>
+      </LOC_STRING>
+  
+</ZT2Strings>

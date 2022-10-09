@@ -1,0 +1,79 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="cp1_tutorial1:welcome"  >Zoo Tycoon 2: African Adventure를 익힐 수 있는 연습 게임입니다. 이 연습 게임에서는 지프 탑승장과 도로를 설치하는 방법과 1인칭 시점에서 지프에 탑승하는 방법을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstructionHeading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstruction"  >현재 동물원의 지프 투어 노선은 거의 마무리 단계입니다. 약간만 손대면 완성할 수 있습니다. 그럼 노선을 완성해 봅시다. 먼저 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstructionCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTabHeading"  >이동 시설 탭</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTab"  >이동 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTabCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStationBuyButtonHeading"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStationBuyButton"  >지프 투어를 만들려면 탑승장이 1개 이상 필요합니다. 지프 탑승장을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStationBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeGroundStationHeading"  >지프 탑승장 설치</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeGroundStation"  >지프 탑승장을 4개의 화단 중앙에 놓으세요. 관람객이 들어갈 수 있도록 >를 사용해 탑승장 입구를 돌린 다음 지프 탑승장을 설치합니다.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeGroundStationCompleted"  >잘했습니다! 이제 도로를 설치해 봅시다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundTrackBuyButtonHeading"  >도로</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundTrackBuyButton"  >도로를 클릭해 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundTrackBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:connectGroundCircuitHeading"  >노선 완성</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:connectGroundCircuit"  >지프 탑승장 옆의 화단 2개 사이에 있는 빈 공간을 클릭하고 뱀잡이수리 우리 안의 도로까지 커서를 끌어다 놓으세요. 클릭하여 도로를 연결하고 노선을 완성하세요. 울타리는 신경 쓰지 마세요!</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:connectGroundCircuitCompleted"  >잘했습니다! 지프 노선이 완성되었습니다. 울타리에 차량 출입문이 자동으로 생겼네요. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStationHeading"  >탑승장 선택</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStation"  >노선을 완성했고 탑승장이 개장되었습니다. 이제 지프 탑승장을 클릭해 차량을 구입하고 관람객이 지프를 타고 투어를 즐기게 하세요. 커서에 도로 아이콘이 남아 있으면 마우스 오른쪽 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectGroundStationCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:purchaseVehiclesHeading"  >지프 구입</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:purchaseVehicles"  >지프 5대를 구입하려면 차량 구입 단추를 5번 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:purchaseVehiclesCompleted"  >지프를 구입하면 지프 탑승장에 지프가 생기고 투어 노선을 따라 운행을 시작합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstruction2Heading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstruction2"  >탑승장을 벗어나자마자 도로와 인도가 교차하는군요. 보행자가 건너갈 수 있도록 지프의 속도가 자동으로 느려지지만 이로 인해 지프 투어가 지연될 수 있습니다. 건널목 차단기를 설치하려면 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:openConstruction2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTab2Heading"  >이동 시설</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTab2"  >이동 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectTransportationTab2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectCrossingGateBuyButtonHeading"  >건널목 차단기 선택</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectCrossingGateBuyButton"  >건널목 차단기를 클릭하세요. </LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:selectCrossingGateBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeCrossingGateHeading"  >건널목 설치</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeCrossingGate"  >이제 도로와 인도가 교차하는 곳에 건널목 차단기를 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:placeCrossingGateCompleted"  >잘했습니다! 차량이 접근하면 건널목 차단기가 자동으로 내려와 교차로의 통행이 훨씬 원활해졌습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:enterFirstPersonHeading"  >차량 탑승</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:enterFirstPerson"  >지프에 탑승하려면 먼저 1인칭 시점으로 전환하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:enterFirstPersonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:boardVehicleHeading"  >지프 탑승</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:boardVehicle"  >이제 1인칭 시점입니다. 지프 가까이 가서 스페이스바를 눌러 올라타세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:boardVehicleCompleted"  >잘했습니다! 잠시 자리에 편히 앉아 경치를 감상하세요! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:changeSeatPositionHeading"  >좌석 바꾸기</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:changeSeatPosition"  >탑승 중 차량 내에서 좌석을 바꾸려면 좌석 번호를 누르세요. 조수석으로 바꿔 앉으려면 2를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:changeSeatPositionCompleted"  >4인승 지프에서는 1에서 4까지, 5인승 지프에서는 1에서 5까지, 7인승 지프에서는 1에서 7까지 좌석을 선택해 앉을 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:photoModeHeading"  >사진 찍기 모드</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:photoMode"  >지프를 타고 가면서 카메라로 경치를 찍을 수도 있습니다. 사진 찍기 모드로 전환하려면 &lt;C&gt;를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:photoModeCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:takePictureHeading"  >사진 찍기</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:takePicture"  >스페이스바를 눌러 직접 사진을 찍어 보세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:takePictureCompleted"  >잘 찍었습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:overheadViewHeading"  >평면도 보기</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:overheadView"  >이제 평면도 보기 단추를 클릭해 평면도 보기로 전환하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:overheadViewCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:zoostatsHeading"  >동물원 운영 현황</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:zoostats"  >끝으로 포상에 대해 알아보겠습니다. 동물원 운영 현황 단추나 동물원 출입문을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:zoostatsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:awardsHeading"  >수상 내역 탭</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:awards"  >수상 내역 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:awardsCompleted"  >수상 내역에는 여러분이 지금까지 받은 상과 앞으로 받을 수 있는 상이 모두 표시됩니다. 상을 선택하면 수상 조건이 아래쪽에 표시되며, 지정된 조건이 여러 개일 경우(예: 관람객 수 100명)는 조건 달성 진행률이 표시됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:persistantAwardsHeading"  >보유하고 있는 포상 내역</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:persistantAwards"  >수상 내역 패널에는 게임을 성공시키면 받는 포상 정보도 표시됩니다. 일부 포상은 현재 게임에서만 사용할 수 있지만 보유하고 있는 포상의 경우 모든 게임에서 사용할 수 있습니다. 보유하고 있는 포상 내역 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:persistantAwardsCompleted"  >상과 포상을 모두 받아 최고의 동물원 경영자가 되세요! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="cp1_tutorial1:tutorial_complete"  >
+         축하합니다! Zoo Tycoon 2: African Adventure의 연습 게임을 마쳤습니다. 이제 본격적으로 게임을 즐겨 보세요!
+			<p/>
+			Zoo Tycoon 2 게임 방법을 더 배우려면 다른 연습 게임을 시도해 보세요. 연습 게임은 책 아이콘으로 표시되어 있습니다.
+<img src="ui/shared/tutorial_icon.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>			
+         <p/>
+         
+      주 메뉴로 돌아가려면 X 단추를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp1_campaignname"  >African Adventure 연습 게임</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp1_T1"  >지프</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp1_T1short"  >지프</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp1_T1overviewshort"  >이 연습 게임에서는 지프 탑승장 및 도로를 설치하는 방법과 1인칭 시점에서 지프에 타는 방법을 익힐 수 있습니다.</LOC_STRING>
+</ZT2Strings>

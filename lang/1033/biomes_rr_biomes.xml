@@ -1,0 +1,591 @@
+<ZT2Strings>
+      <LOC_STRING _locID="biometype:montane"  >산악</LOC_STRING>
+      <LOC_STRING _locID="biometype:montane_ltt"  >
+         <color r="255" g="255" b="255">
+            산악
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperaterainforest"  >온대강우림</LOC_STRING>
+      <LOC_STRING _locID="biometype:temperaterainforest_ltt"  >
+         <color r="255" g="255" b="255">
+            온대강우림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:desertred"  >사막</LOC_STRING>
+      <LOC_STRING _locID="biometype:desertred_ltt"  >
+         <color r="255" g="255" b="255">
+            사막
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:colddesert"  >한대사막</LOC_STRING>
+      <LOC_STRING _locID="biometype:colddesert_ltt"  >
+         <color r="255" g="255" b="255">
+            한대사막
+         </color>
+         <br/>
+      </LOC_STRING>
+	  <LOC_STRING _locID="biometype:mediterranean"  >지중해 관목림</LOC_STRING>
+      <LOC_STRING _locID="biometype:mediterranean_ltt"  >
+         <color r="255" g="255" b="255">
+            지중해 관목림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:freshwater"  >담수</LOC_STRING>
+      <LOC_STRING _locID="biometype:freshwater_ltt"  >
+         <color r="255" g="255" b="255">
+            담수
+         </color>
+         <br/>
+      </LOC_STRING> 
+	  <LOC_STRING _locID="biometype:tropicaldryforest"  >열대건조림</LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicaldryforest_ltt"  >
+         <color r="255" g="255" b="255">
+            열대건조림
+         </color>
+         <br/>
+      </LOC_STRING> 
+	  <LOC_STRING _locID="biometype:polarice"  >극지방</LOC_STRING>
+      <LOC_STRING _locID="biometype:polarice_ltt"  >
+         <color r="255" g="255" b="255">
+            극지방
+         </color>
+         <br/>
+      </LOC_STRING>    
+	  
+	  
+      <LOC_STRING _locID="montane:icon_stt"  >Montane</LOC_STRING>
+      <LOC_STRING _locID="montane:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="montane:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="montane:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="montane:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="montane:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:ground"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:ground_stt"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Dirt
+         </color>
+         <br/>
+         Click to select dirt. Place the cursor over the world, and then click to create dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:ground-cover"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="montane:ground-cover_stt"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="montane:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass
+         </color>
+         <br/>
+         Click to select grass. Place the cursor over the world, and then click to create grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:mix"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:mix_stt"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass and Dirt
+         </color>
+         <br/>
+         Click to select grass and dirt. Place the cursor over the world, and then click to create an area of grass and dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix"  >Alpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix_stt"  >Alpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Alpine Tundra
+         </color>
+         <br/>
+         Click to select alpine tundra. Place the cursor over the world, and then click to place rocks and plants associated with the Alpine Tundra biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix-terrain"  >Subalpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix-terrain_stt"  >Subalpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Subalpine Tundra
+         </color>
+         <br/>
+         Click to select subalpine tundra. Place the cursor over the world, and then click to create a subalpine tundra area of rocks, plants, trees, and tall grass.
+      </LOC_STRING>
+	  
+	  
+      <LOC_STRING _locID="temperaterainforest:icon_stt"  >r="255" g="255" b="255"</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground"  >Soil</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground_stt"  >Soil</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Soil
+         </color>
+         <br/>
+         Click to select soil. Place the cursor over the world, and then click to create soil.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground-cover"  >Moss</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground-cover_stt"  >Moss</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Moss
+         </color>
+         <br/>
+         Click to select moss. Place the cursor over the world, and then click to create moss.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:mix"  >Moss and Soil bed</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:mix_stt"  >Moss and soil bed</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Moss and Soil bed
+         </color>
+         <br/>
+         Click to select moss and soil bed. Place the cursor over the world, and then click to create an area of moss and soil bed.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix"  >Forest Clearing</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix_stt"  >Forest Clearing</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Forest Clearing
+         </color>
+         <br/>
+         Click to select forest clearing. Place the cursor over the world, and then click to place rocks and plants associated with the Temperate Rainforest biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix-terrain"  >Temperate Raindorest</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix-terrain_stt"  >Temperate rainforest</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Temperate rainforest
+         </color>
+         <br/>
+         Click to select temperate rainforest. Place the cursor over the world, and then click to create a temeprate rainforest area of rocks, plants, trees, and tall grass.
+      </LOC_STRING>
+	  
+	  
+      <LOC_STRING _locID="desertred:icon_stt"  >Red Desert</LOC_STRING>
+      <LOC_STRING _locID="desertred:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="desertred:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="desertred:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="desertred:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="desertred:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:ground"  >Red Rock</LOC_STRING>
+      <LOC_STRING _locID="desertred:ground_stt"  >Red Rock</LOC_STRING>
+      <LOC_STRING _locID="desertred:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            Red Rock
+         </color>
+         <br/>
+         Click to select red rock. Place the cursor over the world, and then click to create red rock.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:ground-cover"  >Red Sand</LOC_STRING>
+      <LOC_STRING _locID="desertred:ground-cover_stt"  >Red Sand</LOC_STRING>
+      <LOC_STRING _locID="desertred:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            Red Sand
+         </color>
+         <br/>
+         Click to select red sand. Place the cursor over the world, and then click to create red sand.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:mix"  >Red Sand and Rock</LOC_STRING>
+      <LOC_STRING _locID="desertred:mix_stt"  >Red Sand and Rock</LOC_STRING>
+      <LOC_STRING _locID="desertred:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            Red Sand and Rock
+         </color>
+         <br/>
+         Click to select red sand and rock. Place the cursor over the world, and then click to create an area of red sand and rock.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix"  >Red Desert</LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix_stt"  >Red Desert</LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+             Red Desert
+         </color>
+         <br/>
+         Click to select red desert. Place the cursor over the world, and then click to place rocks and plants associated with the Red Desert biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix-terrain"  >Outback Bush</LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix-terrain_stt"  >Outback Bush</LOC_STRING>
+      <LOC_STRING _locID="desertred:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            Outback Bush
+         </color>
+         <br/>
+         Click to select outback bush. Place the cursor over the world, and then click to create a red red area of rocks, plants, trees, and tall soil.
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:colddesert"  >Cold Desert</LOC_STRING>
+      <LOC_STRING _locID="biometype:colddesert_ltt"  >
+         <color r="255" g="255" b="255">
+            Cold Desert
+         </color>
+         <br/>
+	  </LOC_STRING>
+	  
+      <LOC_STRING _locID="colddesert:icon_stt"  >Cold desert</LOC_STRING>
+      <LOC_STRING _locID="colddesert:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="colddesert:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="colddesert:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="colddesert:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="colddesert:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground"  >Dry Dirt</LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground_stt"  >Dry Dirt</LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            Dry Dirt
+         </color>
+         <br/>
+         Click to select dry dirt. Place the cursor over the world, and then click to create dry dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground-cover"  >Dry Grass</LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground-cover_stt"  >Dry Grass</LOC_STRING>
+      <LOC_STRING _locID="colddesert:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            Dry Grass
+         </color>
+         <br/>
+         Click to select dry grass. Place the cursor over the world, and then click to create dry grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:mix"  >Dry Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="colddesert:mix_stt"  >Dry Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="colddesert:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            Dry Grass and Dirt
+         </color>
+         <br/>
+         Click to select dry grass and dirt. Place the cursor over the world, and then click to create an area of dry grass and dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix"  >Steppe</LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix_stt"  >Steppe</LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            Steppe
+         </color>
+         <br/>
+         Click to select steppe. Place the cursor over the world, and then click to place dirts and plants associated with the Cold Desert biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix-terrain"  >Steppe Shrubland</LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix-terrain_stt"  >Steppe shrubland</LOC_STRING>
+      <LOC_STRING _locID="colddesert:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            Steppe Shrubland
+         </color>
+         <br/>
+         Click to select steppe shrubland. Place the cursor over the world, and then click to create a cold desert area of dirts, plants, trees, and tall soil.
+      </LOC_STRING>
+
+      <LOC_STRING _locID="mediterranean:icon_stt"  >Mediterranean Scrub</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground_stt"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Dirt
+         </color>
+         <br/>
+         Click to select dirt. Place the cursor over the world, and then click to create dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground-cover"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground-cover_stt"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass
+         </color>
+         <br/>
+         Click to select grass. Place the cursor over the world, and then click to create grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:mix"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:mix_stt"  >Grass and dirt</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass and Dirt
+         </color>
+         <br/>
+         Click to select grass and dirt. Place the cursor over the world, and then click to create an area of grass and dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix"  >Broken Terrain</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix_stt"  >Broken Terrain</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Broken Terrain
+         </color>
+         <br/>
+         Click to select broken terrain. Place the cursor over the world, and then click to place low-lying plants and rocks.
+      </LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix-terrain"  >Sparse Brush</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix-terrain_stt"  >Sparse Brush</LOC_STRING>
+      <LOC_STRING _locID="mediterranean:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Sparse Brush
+         </color>
+         <br/>
+         Click to select sparse brush. Place the cursor over the world, and then click to place rocks, trees, and low-lying plants.
+      </LOC_STRING>
+	  
+	  
+      <LOC_STRING _locID="tropicaldryforest:icon_stt"  >Tropical Dry Forest</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground_stt"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Dirt
+         </color>
+         <br/>
+         Click to select dirt. Place the cursor over the world, and then click to create dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground-cover"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground-cover_stt"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass
+         </color>
+         <br/>
+         Click to select grass. Place the cursor over the world, and then click to create grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:mix"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:mix_stt"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass and Dirt
+         </color>
+         <br/>
+         Click to select grass and dirt. Place the cursor over the world, and then click to create an area of grass and dirt.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix"  >Dry Forest</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix_stt"  >Dry Forest</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Dry Forest
+         </color>
+         <br/>
+         Click to select dry forest. Place the cursor over the world, and then click to place rocks and plants associated with the Alpine Tundra biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix-terrain"  >Monsoon Forest</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix-terrain_stt"  >Monsoon Forest</LOC_STRING>
+      <LOC_STRING _locID="tropicaldryforest:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Monsoon Forest
+         </color>
+         <br/>
+         Click to select monsoon forest. Place the cursor over the world, and then click to create a monsoon forest area of rocks, plants, trees, and tall grass.
+      </LOC_STRING>  
+	  
+	  
+      <LOC_STRING _locID="freshwater:icon_stt"  >Wetlands Marsh</LOC_STRING>
+      <LOC_STRING _locID="freshwater:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="freshwater:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="freshwater:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="freshwater:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="freshwater:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground"  >Sand</LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground_stt"  >Sand</LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Sand
+         </color>
+         <br/>
+         Click to select sand. Place the cursor over the world, and then click to create sand.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground-cover"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground-cover_stt"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="freshwater:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass
+         </color>
+         <br/>
+         Click to select grass. Place the cursor over the world, and then click to create grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:mix"  >Grass and Sand</LOC_STRING>
+      <LOC_STRING _locID="freshwater:mix_stt"  >Grass and Sand</LOC_STRING>
+      <LOC_STRING _locID="freshwater:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Grass and Sand
+         </color>
+         <br/>
+         Click to select grass and sand. Place the cursor over the world, and then click to create an area of grass and sand.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix"  >Flooded Prairie</LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix_stt"  >Flooded Prairie</LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Flooded Prairie
+         </color>
+         <br/>
+         Click to select flooded prarie. Place the cursor over the world, and then click to place rocks and plants associated with the Wetlands Marsh biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix-terrain"  >Fen</LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix-terrain_stt"  >Fen</LOC_STRING>
+      <LOC_STRING _locID="freshwater:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Fen
+         </color>
+         <br/>
+         Click to select fen. Place the cursor over the world, and then click to create a fen area of rocks, plants, trees, and tall grass.
+      </LOC_STRING>
+	  
+	  
+      <LOC_STRING _locID="polarice:icon_stt"  >Polar Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:deepwater"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="polarice:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="polarice:deepwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Deep Water
+         </color>
+         <br/>
+         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:shallowwater"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="polarice:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="polarice:shallowwater_ltt"  >
+         <color r="255" g="255" b="255">
+            Shallow Water
+         </color>
+         <br/>
+         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:ground"  >Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:ground_stt"  >Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:ground_ltt"  >
+         <color r="255" g="255" b="255">
+            Ice
+         </color>
+         <br/>
+         Click to select ice. Place the cursor over the world, and then click to create ice.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:ground-cover"  >Snow</LOC_STRING>
+      <LOC_STRING _locID="polarice:ground-cover_stt"  >Snow</LOC_STRING>
+      <LOC_STRING _locID="polarice:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            Snow
+         </color>
+         <br/>
+         Click to select snow. Place the cursor over the world, and then click to create snow.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:mix"  >Snow and Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:mix_stt"  >Snow and Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Snow and Ice
+         </color>
+         <br/>
+         Click to select snow and ice. Place the cursor over the world, and then click to create an area of snow and ice.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix"  >Ice Plain</LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix_stt"  >Ice plain</LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Ice Plain
+         </color>
+         <br/>
+         Click to select ice plain. Place the cursor over the world, and then click to place rocks and plants associated with the ice cap biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix-terrain"  >Polar Ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix-terrain_stt"  >Polar ice</LOC_STRING>
+      <LOC_STRING _locID="polarice:foliage-mix-terrain_ltt"  >
+         <color r="255" g="255" b="255">
+            Polar Ice
+         </color>
+         <br/>
+         Click to select polar ice. Place the cursor over the world, and then click to create a polar ice area of rocks, plants, trees, and tall grass.
+      </LOC_STRING>
+</ZT2Strings>

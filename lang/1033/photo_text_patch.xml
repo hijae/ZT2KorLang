@@ -1,0 +1,148 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext" version="2" />
+      <LOC_STRING _locID="PhotoChallengetext:BistroMagazinetext" version="2"  >
+      <PHBistroMagazinePhotos>월간 동물들의 식사</PHBistroMagazinePhotos>
+      <PHBistroMagazine>
+         
+         
+         
+		월간 동물들의 식사 잡지사에서는 이번 호 특별 기사에		특이한 먹이통에 담긴 먹이를 먹는 동물들의 사진을 싣고 싶어합니다. 그들이 요청한 사진은
+		지정된 먹이통에 담긴 먹이를 먹는 치타, 그물무늬 기린, 호랑이꼬리여우원숭이의 사진입니다. 
+		사진을 제출하면 사진 한 장당 $2,000를 받게 됩니다. 
+		
+         
+         
+         <br/>
+         
+         
+         
+   		난이도: 중급
+   	
+      
+      
+      </PHBistroMagazine>
+      <PHBistroMagazineShort>
+         
+         
+         
+   		다음 사진을 제공해야 합니다.  
+   		
+         
+         
+         <p/>
+         
+         
+         
+   		*  뼈 위에 놓인 고기를 먹는 치타
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  나무 기둥에 놓인 나뭇잎을 먹고 있는 그물무늬 기린
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  나무 계단에 놓인 먹이를 먹고 있는 호랑이꼬리여우원숭이
+   	
+      
+      
+      </PHBistroMagazineShort>
+      <PHBistroMagazineSuccess>
+		월간 동물들의 식사 잡지사 편집장은 제출한 사진에 크게 만족했습니다. 뼈 위에 놓인 고기를 먹는 치타의 모습은 
+		바비큐가 등장하는 기사에 잘 들어맞는 배경 사진이 되었습니다. 또한 나무 기둥에 놓인 나뭇잎을 먹는 기린의 모습은 		샐러드를 소개하는 기사와 잘 어울렸습니다. 
+	</PHBistroMagazineSuccess>
+      <PHBistroMagazineSuccessShort>
+   		재미있는 모양의 먹이통에서 먹이를 먹고 있는 동물의 사진 덕분에 $6,000를 벌었습니다!
+   	</PHBistroMagazineSuccessShort>
+      <stt_CheetahEatMeatCarcass>뼈 위에 놓인 고기를 먹고 있는 치타의 사진을 찍으세요.</stt_CheetahEatMeatCarcass>
+      <stt_GiraffeEatBranchesBrowseHolder>나무 기둥에 놓인 나뭇잎을 먹고 있는 그물무늬 기린의 사진을 찍으세요.</stt_GiraffeEatBranchesBrowseHolder>
+      <stt_LemurEatElevatedDish>나무 계단에 놓인 먹이를 먹고 있는 호랑이꼬리여우원숭이의 사진을 찍으세요.</stt_LemurEatElevatedDish>
+   </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:AnimalInstinctstext" version="2"  >
+      <PHAnimalInstinctsPhotos>동물의 본능</PHAnimalInstinctsPhotos>
+      <PHAnimalInstincts>
+         
+         
+         
+		동물 행동학자 단체는 동물들의 본능적 행동에 대한 연구를 위해 우리 동물원을 방문할 것입니다. 
+		그들은 효과적인 연구를 할 수 있도록
+		 특정 장면을 사진으로 찍어 달라고 요청했습니다. 이 요청을 받아들이면 동물 행동학자들이 우리 동물원을 방문해서 
+		동물 본능에 대한 지식을 관람객들에게 알려 주고, 
+		동물원 명성이 올라갈 것입니다. 그들이 요청한 사진은 
+		호랑이꼬리여우원숭이, 사자, 타조, 그물무늬 기린입니다.
+		
+         
+         
+         <br/>
+         
+         
+         
+   		난이도: 고급
+   	
+      
+      
+      </PHAnimalInstincts>
+      <PHAnimalInstinctsShort>
+         
+         
+         
+   		다음 동물의 행동을 사진으로 찍어야 합니다.:  
+   		
+         
+         
+         <p/>
+         
+         
+         
+   		*  서로 손질해 주면서 사회적 및 위생적 본능을 충족하는 호랑이꼬리여우원숭이
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  수컷 한 마리, 암컷 세 마리, 새끼 한 마리로 구성된 사자 무리
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  짝짓기를 하기 위한 몸짓을 하는 타조
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  어미를 부르고 있는 새끼 기린   		
+   	
+      
+      
+      </PHAnimalInstinctsShort>
+      <PHAnimalInstinctsSuccess>
+		동물 행동학자들은 동물들의 다양한 행동 양식을 접할 수 있어서 대단히 만족스러워 했고 
+		자신들의 지식을 관람객과 기꺼이 공유했습니다. 학자들이 동물원 방문 결과가 매우 긍정적이었다고 
+		생각하여 애초 일정보다 두 배나 길게 동물원에 머물렀습니다. 동물원 관람객들은
+		동물 본능에 대한 전문적인 지식을 듣게 되어 좋아하게 되었으며 동물원 명성이 올라갔습니다.
+	</PHAnimalInstinctsSuccess>
+      <PHAnimalInstinctsSuccessShort>
+   		동물 행동학자들의 방문이 대성공을 거두었고 관람객들은 동물에 대해 더 많은 것을 배울 수 있게 되어 좋아했습니다.
+   	</PHAnimalInstinctsSuccessShort>
+      <stt_LemursGrooming>서로 손질해 주고 있는 호랑이꼬리여우원숭이의 사진을 찍으세요.</stt_LemursGrooming>
+      <stt_LionsSleepinShade>사자 무리의 사진을 찍으세요.</stt_LionsSleepinShade>
+      <stt_OstrichMatingDance>구애 몸짓을 하고 있는 타조의 사진을 찍으세요.</stt_OstrichMatingDance>
+      <stt_YoungGiraffeCalling>어미를 부르고 있는 새끼 기린의 사진을 찍으세요.</stt_YoungGiraffeCalling>
+   </LOC_STRING> 
+ 
+</ZT2Strings>

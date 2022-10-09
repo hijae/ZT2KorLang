@@ -1,0 +1,464 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_label:label">
+         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="250" b="200">
+               동물원 백과사전
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:body_text">
+         <font name="굴림" size="9" shadowx="0" shadowy="0" shadowa="0">
+            <color r="74" g="74" b="74">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_entity_label">
+         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="255" g="250" b="200">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_secondary_label">
+         <font name="굴림" size="11" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="225" g="225" b="165">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toc:format">
+         <font name="굴림" size="10" shadowx="1" shadowy="-1" shadowa="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:entry">동물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에 등장하는 동물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 동물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:entry">서식 환경</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 10가지 형태의 서식 환경이 등장합니다. 각 서식 환경은 
+			기후와 날씨 등의 환경에 따라 독특한 식물군과 동물군이 형성됩니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			서식 환경에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 서식 환경의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:entry">장난감</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             실제로 동물원에서 일하는 사육사들은 장난감을 이용해서 동물들이 최대한 야생 상태에 가까운 활동을 할 수 있도록 돕습니다.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             예를 들어, 야생 상태에서 먹이를 구하려고 얼음을 파는 행동을 하는 북극곰을 위해서 먹이를 얼음에 넣은 상태로 줍니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			나뭇가지에 매달려 이리저리 옮겨 다니는 침팬지는 구름다리를 설치해 주면 야생 상태와 똑같은 행동을 할 수 있기 때문에 좋아합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			장난감에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 장난감의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:entry">길</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             적절한 위치에 길이 나 있으면 원하는 곳으로 쉽게 갈 수 있기 때문에 관람객들의 만족도가 높아집니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			길에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 길의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:entry">건물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 관람객들이 필요로 하는 여러 물품과 서비스를 제공하는 다양한 건물이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			건물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 건물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:entry">직원</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             동물원 운영에 도움을 주는 3가지 형태의 직원을 고용할 수 있습니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			직원에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 직원을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:entry">먹이통</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 다양한 종류의 먹이통이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			먹이통에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 먹이통의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:entry">먹이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             여러 가지 먹이를 잘 활용하여 동물들의 배고픔을 해결해 주세요.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			먹이에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 먹이의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:entry">우리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 다양한 종류의 우리가 등장합니다.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:entry">시설물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 동물원을 아름답게 꾸밀 수 있는 다양한 시설물이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			시설물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 시설물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:entry">울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 우리를 만들거나 조경용으로 쓸 수 있는 다양한 울타리가 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			울타리에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 울타리의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:entry">초목</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 각 서식 환경에 맞는 다양한 형태의 식물이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		식물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 식물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:entry">덤불과 지피 식물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 각 서식 환경에 맞는 다양한 형태의 식물이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		식물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 식물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:entry">나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 각 서식 환경에 맞는 다양한 형태의 식물이 등장합니다.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		식물에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 식물의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:entry">바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2에는 각 서식 환경에 맞는 다양한 형태의 바위가 등장합니다.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             바위에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 바위의 이름을 클릭하세요.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:entry">도움말/정보</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+Zoo Tycoon 2의 저작권 정보를 보려면 왼쪽의 목록에서 항목 이름을 클릭하세요.              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

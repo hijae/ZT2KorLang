@@ -1,0 +1,52 @@
+﻿<ZT2Strings>
+      <LOC_STRING version="9" _locID="shell:filter_alpine"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        고산
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_borealforest"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        북방림
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_desert"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        사막
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_grassland"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        초원
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_savannah"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        사바나
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_scrub"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        관목림
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_temperateforest"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        온대림
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_tropicalrainforest"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        열대우림
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_tundra"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        툰드라
+      </font>
+    </LOC_STRING>
+      <LOC_STRING version="9" _locID="shell:filter_wetlands"  >
+      <font name="굴림" size="9" shadowx="-1" shadowy="1">
+        습지대
+      </font>
+    </LOC_STRING>
+</ZT2Strings>

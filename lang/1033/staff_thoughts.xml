@@ -1,0 +1,21 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffthoughts:WorkerSweepTrash">난 쓰레기를 치우기 위해 태어났어.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:WorkerEmptyTrashcan">사람들이 쓰레기통에 휴지를 버리니 기분이 좋군.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:WaitingForTask">난 내 일이 너무 좋아.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:WaitingForTaskBench">이 벤치는 참 편한걸.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:WaitingForTaskCenter">관리 사무소에 들러야겠어.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorGotoEducateGuests">빨리 관람객에게 동물에 대해 알려 주고 싶어.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorEducateGuests">난 설명하는 게 좋아.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperGoFillDish">동물들이 배가 고픈가 봐.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperFillDish">동물들이 이 먹이를 좋아하면 좋겠어.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperRakePoo">지저분하지만 누군가는 해야겠지.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperGoHealAnimal">병든 동물은 내 도움이 필요해!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperHealAnimal">다행히 제때 동물을 치료했어.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperGoCrateAnimal">동물이 관람객을 공격했어!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperCrateAnimal">동물을 상자 안에 넣었으니 이젠 모두 안전해.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperCheckupBaby">아기 동물들을 돌보는 게 좋아.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:StaffFailure">%s 근처로 갈 수 없어!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:RunningFromAnimal">도와주세요, %s이(가) 미쳤나 봐요!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperGoCleanAnimal">동물이 때가 많은 걸 보니 씻길 때가 됐군.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:KeeperCleanAnimal">철저한 위생 관리는 동물 건강에 필수적이지!</LOC_STRING>
+</ZT2Strings>

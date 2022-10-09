@@ -1,0 +1,474 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:satisfied">만족</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:pressing">불만족</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:critical">위험 상태</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:healthy">건강함</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:unhealthy">건강하지 않음</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:sick">아픔</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment">환경: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment_ltt">
+         <color r="255" g="248" b="178">
+            환경
+         </color>
+         <br/>
+         동물이 현재 우리에서 얼마나 편안함을 느끼고 있는지를 나타냅니다. 동물은 물론 관람객들도 천연 서식지에 가까운 환경의 우리를 좋아합니다.
+         
+         
+         
+         
+         
+         
+         
+           
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_space">공간: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_biome">서식 환경: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger">배고픔: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger_ltt">
+         <color r="255" g="248" b="178">
+            배고픔
+         </color>
+         <br/>
+         
+         동물이 현재 얼마나 배가 고픈지를 나타냅니다. 모든 동물은 먹이와 물을 먹어야 살 수 있습니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst">갈증: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst_ltt">
+         <color r="255" g="248" b="178">
+            갈증
+         </color>
+         <br/>
+         
+         
+         
+         
+   동물이 현재 얼마나 목이 마른지를 나타냅니다. 모든 동물은 언제든 원할 때 깨끗한 물을 마실 수 있어야 합니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest">휴식: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest_ltt">
+         <color r="255" g="248" b="178">
+            휴식
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         동물이 현재 얼마나 휴식을 취하고 있는지를 나타냅니다. 지친 동물은 아무 곳에서나 잠을 잡니다. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene">위생: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene_ltt">
+         <color r="255" g="248" b="178">
+            위생
+         </color>
+         <br/>
+         동물이 현재 얼마나 깨끗한지를 나타냅니다. 몸이 더러운 동물은 병에 걸릴 확률이 높으며 동물 스스로 자기 몸을 핥아 청결을 유지하기도 합니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise">운동: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise_ltt">
+         <color r="255" g="248" b="178">
+            운동
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         동물의 현재 운동 상태를 나타냅니다. 동물들은 우리 안을 돌아다니거나 다른 동물과 장난을 치고, 때로는 장난감을 가지고 놀며 운동을 합니다.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter">우리: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter_ltt">
+         <color r="255" g="248" b="178">
+            우리
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          여러분은 볼 수 없습니다.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy">은신처: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy_ltt">
+         <color r="255" g="248" b="178">
+            은신처
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         조용히 쉴 수 있는 공간이 충분한지를 나타냅니다. 관람객이 많을수록 동물들은 조용히 쉴 수 있는 우리나 수풀, 그늘 같은 은신처가 필요합니다.     
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction">번식률: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction_ltt">
+         <color r="255" g="248" b="178">
+            번식률
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          여러분은 볼 수 없습니다.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social">친구: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social_ltt">
+         <color r="255" g="248" b="178">
+            친구
+         </color>
+         <br/>
+         
+다른 동물과 얼마나 잘 어울려 지내고 있는지를 나타냅니다. 외로움을 많이 느끼는 동물에게는 보다 많은 동물 친구를 만들어 주는 것이 좋습니다.         
+         
+         
+         
+         
+         
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation">흥밋거리: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation_ltt">
+         <color r="255" g="248" b="178">
+            흥밋거리
+         </color>
+         <br/>
+         
+  동물에게 현재 얼마나 많은 흥밋거리가 있는지를 나타냅니다. 동물들은 다양한 동물 장난감을 가지고 놀면서 흥밋거리에 대한 욕구를 충족시킵니다.       
+         
+         
+         
+         
+         
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy">만족도: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy_ltt">
+         <color r="255" g="248" b="178">
+            만족도
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         동물이 만족하고 행복한 상태입니다.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy">만족도: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy_ltt">
+         <color r="255" g="248" b="178">
+            만족도
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         동물이 만족하지 못하고 있습니다. 관람객들은 시무룩한 동물을 보는 것을 좋아하지 않습니다.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well">건강: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well_ltt">
+         <color r="255" g="248" b="178">
+            건강
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         동물이 건강합니다.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick">건강: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick_ltt">
+         <color r="255" g="248" b="178">
+            건강
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         동물이 병에 걸렸습니다. 당장 치료하지 않으면 죽을 수도 있습니다. 동물 치료는 사육사가 담당합니다. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant">임신 상태: 임신하지 않음</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            임신 상태
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         임신하지 않았습니다.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant">임신 상태: 임신</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            임신 상태
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         동물이 임신했습니다. 아이콘이 빨간색으로 바뀌면 출산을 하게 됩니다. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy">만족도: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy_ltt">
+         <color r="255" g="248" b="178">
+            만족도
+         </color>
+         <br/>
+         
+         
+       관람객이 현재 얼마나 만족을 느끼고 있는지를 나타냅니다. 관람객은 음식과 음료를 충분히 섭취하고 즐거울 때 만족을 느낍니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger">배고픔: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger_ltt">
+         <color r="255" g="248" b="178">
+            배고픔
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         관람객이 현재 얼마나 배고픔을 느끼고 있는지를 나타냅니다. 관람객들은 음식 판매대, 가판대, 레스토랑 등에서 다양한 음식을 먹습니다.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst">갈증: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst_ltt">
+         <color r="255" g="248" b="178">
+            갈증
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         관람객이 현재 얼마나 갈증을 느끼고 있는지를 나타냅니다. 관람객들은 음식 판매대에서 다양한 음료를 사서 마십니다. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest">휴식: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest_ltt">
+         <color r="255" g="248" b="178">
+            휴식
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         관람객이 현재 얼마나 피로를 느끼고 있는지를 나타냅니다. 동물원을 돌아다니다가 지친 관람객들은 벤치나 쉼터 등에서 휴식을 취합니다. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom">화장실: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            화장실
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         관람객이 얼마나 화장실에 가고 싶은지를 나타냅니다. 관람객들은 식사를 마치거나 음료수를 마신 뒤에 화장실에 가는 경우가 많습니다. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement">즐거움: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement_ltt">
+         <color r="255" g="248" b="178">
+            즐거움
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         관람객이 현재 얼마나 즐거워 하는지를 나타냅니다. 관람객들은 분수대, 아치형 입구, 동상 등 재미있는 시설물을 좋아합니다.
+      
+      </LOC_STRING>
+</ZT2Strings>

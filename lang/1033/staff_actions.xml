@@ -1,0 +1,56 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffactions:GoFillDish"  >먹이 그릇을 채우러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoFeedAnimal"  >동물에게 먹이를 주러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:FeedAnimal"  >먹이를 줍니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:FillDish"  >그릇을 채웁니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoWaterAnimal"  >동물에게 물을 주러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaterAnimal"  >먹이를 줍니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:RakePoo"  >배설물을 치웁니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoRakePoo"  >배설물을 치우러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoSweepTrash"  >쓰레기를 치우러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:SweepTrash"  >쓰레기를 치웁니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoEmptyTrashcan"  >쓰레기통을 비우러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EmptyTrashcan"  >쓰레기통을 비웁니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoEducateGuests"  >연단으로 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EducateGuests"  >관람객에게 동물에 대해 설명합니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitingForTask"  >지시를 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitingForTaskBench"  >벤치에 앉으러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitingForTaskCenter"  >관리 사무소에 공급품을 가지러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:StaffPlaced"  >동물원을 평가합니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoHealAnimal"  >%s을(를) 치료하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:HealAnimal"  >%s을(를) 치료합니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoCrateAnimal"  >%s을(를) 잡으러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CrateAnimal"  >%s을(를) 잡습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoCheckupBaby"  >새끼의 건강 상태를 확인하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CheckupBaby"  >%s의 건강 상태를 확인합니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:RunningFromAnimal"  >%s에게서 달아나고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoCleanAnimal"  >%s을(를) 씻기러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CleanAnimal"  >%s을(를) 씻기고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:format"  >
+         <font name="휴먼태그래픽" size="22">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="superstaff:food"  >%s을(를) 보충하려면 스페이스바를 누르세요. </LOC_STRING>
+      <LOC_STRING _locID="superstaff:gate"  >문을 열려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_heal"  >%s을(를) 치료하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_wash"  >%s을(를) 씻기려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_groom"  >%s을(를) 손질해 주려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_poop"  >%s을(를) 청소하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:clean_trash"  >%s을(를) 청소하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:empty_trash"  >%s을(를) 비우려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:summon"  >%s을(를) 부르려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:clean_recycle"  >%s을(를) 청소하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:compost"  >퇴비를 팔려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:ridevehicle"  >타려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:exitvehicle"  >내리려면 스페이스바를 누르세요.</LOC_STRING>
+
+	<superstaff>
+      <tranq_animal>%s을(를) 진정시키려면 스페이스바를 누르세요.</tranq_animal>
+      <take_sample>%s에서 샘플을 가져오려면 스페이스바를 누르세요.</take_sample>
+      <already_sampled>이미 %s에서 샘플을 가져왔습니다.</already_sampled>
+      <animal_search_cure>%s의 치료법을 찾으려면 스페이스바를 누르세요.</animal_search_cure>
+      <animal_cure>%s을(를) 치료하려면 스페이스바를 누르세요.</animal_cure>
+      <dig_artifact>이 곳을 발굴하려면 스페이스바를 누르세요.</dig_artifact>
+      <artifact_blocked>이 구역은 %s에 의해 차단되었습니다!</artifact_blocked>
+      <artifact_inaccessible>이 발굴 구역은 무언가에 의해 차단되었습니다!</artifact_inaccessible>
+   </superstaff>
+</ZT2Strings>

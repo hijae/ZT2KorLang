@@ -1,0 +1,2355 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aardvark:entry"  >땅돼지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aardvark:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/aardvark/Aardvark_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">관목림<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 땅돼지목 (Tubulidentata)
+                  <br/>
+                  과: 땅돼지과 (Orycteropodidae)
+                  <br/>
+                  속: Orycteropus
+                  <br/>
+                  종: afer
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">땅돼지에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">땅돼지는 다양한 환경에 잘 적응합니다. 습기가 많은 열대우림이나 건조한 사바나 지역 등 어떤 기후에서도 잘 삽니다. 흰개미만 있다면 말이죠!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">땅돼지는 동굴에서 지내다가 밤에만 나와서 활동하지만 가끔씩은 몸을 따뜻하게 하기 위해 해가 뜬 뒤에도 밖에 머뭅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">땅돼지는 일반적으로 끈적한 혀를 이용해 흰개미를 잡아먹습니다. 하지만 땅에 있는 구멍에 주둥이를 대고 벌레 따위를 빨아들여서 먹기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사자, 하이에나, 표범 등에게 공격을 받으면 굴로(없으면 재빨리 파서) 들어가 숨습니다. 만약 굴을 팔 수 없는 상황이라면 네 발과 꼬리를 이용해서 싸웁니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 땅돼지를 입양하려면 동물원 명성을 별 2개 반까지 올려야 합니다.</color>
+            <p/>땅돼지는 굴을 파서 살며 개미를 주식으로 하는 포유류를 통칭하는 이름입니다. 땅돼지는 이집트 남부에서 남아프리카 공화국 희망봉까지 아프리카 전역에서 서식합니다. 야행성인 이들은 동굴에서 생활하며 흰개미를 비롯한 개미를 먹이로 삼지만 때때로 다른 곤충, 통통한 생쥐, 야생 오이 등을 먹기도 합니다.
+<p/>꼬리를 포함한 최대 길이는 2.3m에 이릅니다. 꼬리는 살집이 많으며 끝으로 갈수록 가늘어 집니다. 이 꼬리를 이용해 굴을 팔 때 흙을 뒤로 보냅니다. 등은 아치 모양이고, 주둥이는 원통형이며 귀는 크고 바짝 서 있습니다. 땅돼지는 조각칼 모양의 분화된 발톱으로 단단한 진흙으로 만들어진 흰개미 굴을 부수고, 끈적한 혀로 굴안에 있는 흰개미를 붙여서 잡아먹습니다. 이빨이 없는 개미핥기와는 달리 땅돼지는 뿌리가 없는 이빨 20개가 있으며, 이 이빨은 평생동안 계속 자랍니다.
+<p/>암컷은 보통 새끼 1마리를 낳지만 가끔 2마리를 낳기도 합니다. 새끼는 6개월이 되면 직접 굴을 팔 수 있습니다. 땅돼지는 겁이 많지만 도망칠 수 없거나 굴을 파서 숨을 수 없는 상황에서는 적에 맞서 싸웁니다. 싸울 때는 강력한 발톱으로 방어하거나 꼬리나 어깨로 적을 공격합니다.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_apebarbary:entry"  >바바리에이프원숭이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_apebarbary:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ApeBarbary/ApeBarbary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">온대림<br/></color>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카 북서부</color>
+						<br/>
+						<img src="ui/icon_maplocations/TemperateForest_Africa_NorthWest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 영장목 (Primata)
+                  <br/>
+                  과: 긴꼬리원숭이과 (Cercopithecidae)
+                  <br/>
+                  속: Macaca
+                  <br/>
+                  종: sylvanus
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">바바리에이프원숭이에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">유럽에는 영장류 동물이 단 2종뿐입니다. 그 중 하나가 바바리에이프원숭이, 나머지 하나는 인간입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">이름에 "Ape(유인원)"라는 단어가 들어가지만 유인원과는 전혀 무관한 동물로, 실제로는 꼬리가 없는 원숭이입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">바바리에이프원숭이는 10에서 30마리 정도가 암컷 중심으로 무리를 이뤄서 생활합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">수컷들은 새끼들과 많은 시간을 보내면서 새끼를 기르는 것을 돕습니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 바바리에이프원숭이를 입양하려면 동물원 명성을 별 두개 반 까지 올려야 합니다.</color>
+            <p/>바바리에이프원숭이는 몸길이 61cm 정도이며 꼬리가 없고 초록빛을 띠는 갈색털로 덮여 있습니다. 이들은 아시아 이외의 지역에 서식하는 유일한 짧은꼬리원숭이로 북아프리카 일부 지역에서 많이 발견됩니다. 현재 야생 바바리에이프원숭이는 모로코와 알제리의 아틀라스 산맥내 삼나무와 떡갈나무 숲에 서식하며 개체 수는 14,000에서 23,000마리 정도로 추정됩니다.
+
+<p/>바바리에이프원숭이는 홍적세(250만 년에서 1만 년 전) 때의 화석이 발견되는 종으로 현재 유럽에 서식하는 유일한 원숭이입니다. 하지만 이들은 다른 지역에서 유입되었을 가능성이 있습니다. 유럽의 바바리에이프원숭이는 지브롤터 지역에서 서식하는데 그 수를 240여 마리로 제한하고 있습니다. 이를 초과할 경우 잉여 개체는 동물원으로 보내집니다.
+            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">초원<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카</color>
+						<br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 조류 (Aves)
+                  <br/>
+                  목: 매목 (Falconiformes)
+                  <br/>
+                  과: 수리과 (Sagittariidae)
+                  <br/>
+                  속: Sagittarius
+                  <br/>
+                  종: serpentarius
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">뱀잡이수리에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">뱀잡이수리는 때때로 긴 다리로 걸어서 하루에 최대 32km를 이동합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">남아프리카에서는 뱀과 쥐를 잡는 뱀잡이수리를 애완용으로 기르기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">뱀은 뱀잡이수리가 가장 좋아하는 먹이입니다. 뱀잡이수리는 발가락으로 뱀을 잡아 땅에 내리치면서, 뱀이 물지 못하도록 날개로 막습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">뱀잡이수리는 한번 짝을 지은 상대와 죽을 때까지 함께 살며, 같은 둥지에서 오래 생활합니다. 많은 시간을 혼자서 보내지만, 일반적으로 짝과 멀리 떨어지지 않은 곳에서 생활합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">뱀잡이수리는 거의 소리를 내지 않습니다. 이 새가 내는 유일한 소리는 짝짓기 상대에게 과시할 때 내는 까악까악거리는 소리입니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 뱀잡이수리를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</color>
+            <p/>뱀잡이수리는 사하라 사막 남쪽의 아프리카에서 서식하는 대형 맹금류를 통칭하는 이름입니다. 몸길이는 1m 이상이며, 다리와 꼬리가 매우 길고, 갈고리 모양의 부리는 매우 강력합니다. 많은 책에서 이 새의 영어 이름(secretary bird)은 귀 뒤쪽에 있는 긴 깃털로 이루어진 볏이 마치 깃털 달린 펜이 잔뜩 붙어 있는 것과 닮아서 지어졌다고 기술하고 있습니다. 하지만 실제로는 이 새의 아랍어 이름을 잘못 발음해서 굳어진 것입니다. 색깔은 보통 푸르스름한 회색이며 넓적다리나 꼬리 부분은 검은색입니다. 먹이는 작은 동물이나 파충류이며, 특히 뱀을 좋아하고, 일반적으로 먹이에 몰래 접근해서 잡아먹습니다. 뱀잡이수리는 날아다니는 경우가 드뭅니다. 둥지는 나뭇가지를 이용해서 크고 단단하게 지으며, 알은 한 번에 2개씩 낳습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bongo:entry"  >넓적뿔영양</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bongo:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Bongo/Bongo_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">열대우림<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">중앙 아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 소과 (Bovidae)
+                  <br/>
+                  속: Tragelaphus
+                  <br/>
+                  종: eurycerus
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">넓적뿔영양에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">넓적뿔영양은 아프리카 영양 중에서 가장 크고 화려한 색을 지녔습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">넓적뿔영양의 천적은 표범입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">넓적뿔영양은 숲 속을 달릴 때 뿔을 목 뒷부분으로 움츠려서 나무에 걸리지 않도록 합니다. 너무 자주 이러다 보니 대부분의 넓적뿔영양들은 뿔에 의해 털이 벗겨진 부위를 가지고 있습니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 넓적뿔영양을 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.</color>
+            <p/>넓적뿔영양은 아프리카 중부 및 서부 숲에 서식하는 갈색 영양입니다. 일부 다른 영양들처럼 이들도 어깨 아래로 독특한 흰색 세로 줄이 있습니다. 암수 모두 나선형의 뿔을 갖고 있습니다.
+
+<p/>먹이는 나무 뿌리, 나무순, 새싹, 고구마 등이지만 소금과 미네랄을 얻기 위해 흙이나 불에 탄 나무를 먹기도 합니다. 넓적뿔영양은 혀로 먹잇감을 감을 수 있어서 키가 큰 식물에서 쉽게 먹이를 얻을 수 있습니다.
+
+<p/>넓적뿔영양은 숲 영양 가운데 유일하게 무리 생활을 합니다. 이들은 겁이 많고 조용한 환경을 좋아해서 조금만 위협이 느껴져도 도망칩니다. 숲을 은신처로 삼기 때문에 환경 파괴는 이들에게 큰 위협이 됩니다.
+
+         </cell>       
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buffaloafrican:entry"  >아프리카들소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buffaloafrican:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">습지대<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카</color>
+						<br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 소과 (Bovidae)
+                  <br/>
+                  속: Syncerus
+                  <br/>
+                  종: caffer
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">아프리카들소에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카들소는 주로 풀을 먹는 초식 동물입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카들소의 천적은 사자입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">무리 중 한 마리라도 맹수의 공격을 받게 되면 다른 아프리카들소들이 뭉쳐서 돕습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카들소 수컷 뿔에 있는 보호판은 "보스"라고 부릅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카들소는 사회성이 강한 동물로 대규모 집단을 이뤄서 이동합니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 아프리카들소를 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.</color>
+            <p/>아프리카들소(아프리카물소라고도 함)는 아프리카가 원산지인 야생 황소입니다. 가축으로 키우는 소나 일부 다른 소목 동물과 마찬가지로 아프리카들소도 되새김질을 하며 갈라진 발굽과 영구적인 뿔을 갖지만, 일반 소에 비해 더 크고 강합니다.
+            <p/>아프리카 중부 및 남부 대부분 지역에 서식하는 아프리카들소는 거대하고 위협적인 동물로 아프리카 대형 동물 중에서 가장 위험한 종으로 알려져 있습니다. 몸무게는 500에서 900kg이며 키는 어깨까지 1.7m 정도입니다. 뿔의 아래 부분이 거대해서 이마 위에 헬멧 같은 모양을 형성하며 그 길이는 1m에 이릅니다.
+            <p/>서식 지역은 반건조 사바나에서 열대우림, 저지대 습지와 갈대밭에서 고산 초원에 이르기까지 다양합니다. 아프리카들소는 남획, 거주 및 농경을 위한 개발, 전염병 등으로 인해 많은 지역에서 자취를 감췄습니다. 하지만 아직 백만 마리 이상이 생존해 있는 것으로 추정됩니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_caracal:entry"  >카라칼</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_caracal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Caracal/Caracal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">관목림<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카 및 아시아</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 고양이과 (Felidae)
+                  <br/>
+                  속: Caracal
+                  <br/>
+                  종: caracal
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">카라칼에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">카라칼은 비슷한 크기의 고양이과 동물 중 가장 빠릅니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">카라칼은 동작이 매우 민첩해서 낮게 나는 새를 잡는 경우도 있다고 합니다!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">"페르시아스라소니"로 불리는 경우도 있지만 실제로 카라칼은 스라소니와 관련이 없으며 현재의 이란에 해당하는 페르시아 지역이 아닌 아프리카 남쪽과 같이 페르시아에서 멀리 떨어진 곳에 살고 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">한 번에 먹을 수 없을 정도로 큰 먹잇감을 잡았을 때는 다른 동물이 빼앗을 수 없도록 나무 위로 끌고 올라갑니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 카라칼을 입양하려면 동물원 명성을 별 4개 반까지 올려야 합니다.</color>
+            <p/>카라칼은 아프리카와 아시아의 사바나 지역, 건조 지역, 암반 언덕 등에 서식하는 고양이과 동물입니다. 몸길이는 머리에서 몸통까지가 60에서 92cm이며, 꼬리 길이는 23에서 31cm입니다. 키는 어깨까지 38에서 50cm이며, 몸무게는 13에서 19kg 가량입니다. 털은 붉은빛이 감도는 갈색이며 배 부분은 흰색, 귀 끝은 검은색입니다("카라칼"이라는 이름은 터키어로 "검은 귀"를 뜻함). 먹이는 쥐, 새, 작은 영양입니다. 인도와 이란에서는 민첩하고 날쌘 카라칼을 길들여서 사냥에 이용하기도 합니다. 카라칼은 나무 꼭대기에 있는 둥지를 틀고 있는 새를 사냥하기도 하며, 독수리를 공격하기도 합니다. 카라칼은 한때 남획되기도 하였으나 현재는 보호 종으로 지정되어 있습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gelada:entry"  >겔라다개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gelada:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Gelada/Gelada_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Gelada/Gelada_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+					 <cell width="128">
+					  <color r="255" g="255" b="255">고산 지대<br/></color>
+					  <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					 </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">에티오피아</color>
+						<br/>
+						<img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 영장목 (Primata)
+                  <br/>
+                  과: 긴꼬리원숭이과 (Cercopithecidae)
+                  <br/>
+                  속: Theropithecus
+                  <br/>
+                  종: gelada
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">겔라다개코원숭이에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">겔라다개코원숭이 가족은 수컷을 중심으로 이루어져 있지만 수컷이 우위에 있지는 않습니다. 암컷은 수컷에 비해 몸집이 작지만 여럿이 뭉칠 경우에는 매우 강합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">주변에 맹수가 있을 경우 수컷 겔라다개코원숭이는 마치 "와후"처럼 들리는 두 단계의 소리를 냅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">겔라다개코원숭이의 사회 구조는 상당히 복잡해서 이를 유지하려면 상당한 수준의 의사 소통 능력이 필요합니다. 이들은 27가지 소리와 접촉, 표정을 통해 의사를 전달합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">무리에 있는 어린 수컷은 암컷들 주위를 맴돌다가 어린 암컷들을 데리고 독립해 새로운 무리를 구성합니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 겔라다개코원숭이를 입양하려면 동물원 명성을 별 세 개 반까지 올려야 합니다.</color>
+            <p/>겔라다개코원숭이는 생물학적으로 개코원숭이와 가깝지만, 개코원숭이에 비해서 콧구멍이 입에서 훨씬 멀리 떨어져 있습니다. 다 자란 수컷 겔라다개코원숭이는 머리에서 등 뒤쪽으로 매우 특징적인 털이 나 있습니다.
+
+<p/>서식 지역은 아프리카 에티오피아의 산악 초원입니다. 이들을 발견할 수 있는 지역은 해발 1,400에서 4,400m 지대입니다. 먹이는 주로 풀, 일부 식물의 뿌리, 구근 등이지만 경우에 따라서는 메뚜기를 비롯한 곤충을 먹기도 합니다. 이렇게 먹이가 제한적이기 때문에 충분한 영양 공급을 위해 대부분의 시간을 풀을 뜯어먹으면서 보냅니다.
+
+<p/>겔라다개코원숭이 무리는 수컷 중심의 많은 가족이 모여서 이루어집니다. 수컷 한 마리는 동시에 12마리 정도의 암컷을 거느려서 가족을 형성합니다. 이런 가족이 수백 개 정도 모여서 거대한 무리를 이뤄 함께 먹이를 찾아 이동합니다. 이런 무리가 여럿 뭉쳐 더욱 거대한 무리를 이루기도 합니다.
+            
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gerenuk:entry"  >게레눅</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gerenuk:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Gerenuk/Gerenuk_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Gerenuk/Gerenuk_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">관목림<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카</color>
+                  <br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 소과 (Bovidae)
+                  <br/>
+                  속: Litocranius
+                  <br/>
+                  종: walleri
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">게레눅에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">게레눅은 소말리아 언어로 "기린 목을 가진 동물"이라는 뜻입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">게레눅은 1.8에서 2.4m 높이의 나무에서도 먹이를 구할 수 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">이들은 키가 큰 나무에서만 먹이를 얻기 때문에 키작은 식물을 먹고 사는 다른 동물들과 싸울 일 없이 평화롭게 지냅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">짝짓기때 수컷은 암컷에게 다가가 암컷의 배를 앞발로 계속 건드립니다.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 게레눅을 입양하려면 동물원 명성을 별 2개까지 올려야 합니다.</color>
+            <p/>게레눅은 생물학적으로 가젤과 가깝습니다. 하지만 가젤에 비해 목이 길고 두개골이 더 단단하다는 차이점이 있습니다. 뿔은 수컷에게만 있습니다.
+
+게레눅은 작은 무리를 이뤄 생활합니다. 일부 무리는 암컷과 새끼들만 이루어져 있으며, 일부무리는 오직 수컷만으로 이루어져 있습니다. 수컷들은 자신의 세력권을 가지고 살아가는데 반해 암컷 무리는 떠도는 생활을 하며, 종종 다수의 수컷 세력권을 통과합니다. 게레눅은 짝짓기 시기가 따로 정해져 있지 않습니다. 이들은 다양한 먹이에 적응할 수 있기 때문에 일년 중 아무 때나 짝짓기를 할 수 있습니다.
+
+게레눅은 초식 동물로 긴 목을 이용해서 키가 큰 식물에서 먹이를 얻습니다. 필요하다면 뒷다리로 선 상태에서 앞다리로 나뭇가지를 끌어내리기도 합니다. 이들의 천적은 치타, 표범, 사자, 자칼입니다.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffemasai:entry"  >마사이기린</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffemasai:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GiraffeMasai/GiraffeMasai_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">사바나<br/></color>
+				  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255"> 	  				아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 기린과 (Giraffidae)
+                  <br/>
+                  속: Giraffa
+                  <br/>
+                  종: camelopardalis
+                  <br/>
+                  아종: tippelskirchi                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">마사이기린에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">마사이기린은 육상 동물 중에서 가장 키가 큽니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">또한 소와 같이 되새김질을 하며 발굽이 있는 반추동물 중에서도 가장 큽니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">어미기린은 새끼 위에 서서 날카로운 발굽으로 사자, 하이에나 등의 공격을 막습니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 마사이기린을 입양하려면 동물원 명성을 별 한 개까지 올려야 합니다.</color>
+            <p/>마사이기린은 기린과에 속하는 9개의 아종 중 하나입니다. 털은 짧고 촘촘하며, 황갈색을 띤 노란색에서 갈색에 이르는 복잡한 얼룩무늬를 가지고 있습니다. 이런 색깔 덕분에 주변 나무와 구별이 잘 되지 않으므로 맹수들의 눈을 피할 수 있습니다. 기린의 무늬는 지문처럼 모두 다르게 생겼지만, 같은 아종의 기린이 갖는 일부 부분적인 무늬는 공통적이면서 독특해서, 생물학자들은 이 무늬로 수많은 기린 아종을 구별해왔습니다. 가장 독특한 무늬를 갖는 아종은 그물무늬 기린입니다. 뚜렷한 가는 선으로 둘러싸인 큼직한 갈색 무늬는 마치 그물처럼 보입니다. 마사이기린은 복잡하고 들쭉날쭉한 무늬가 특징입니다. 기린은 종에 관계없이 나이가 들면서 점점 털 색깔이 진해지는 경향이 있습니다. 사육되는 기린의 최대 수명은 35년 정도지만 야생 상태에서는 25년을 넘기기가 힘듭니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hippopotamuspygmy:entry"  >애기하마</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hippopotamuspygmy:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/HippopotamusPygmy/HippopotamusPygmy_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     멸종 위기
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">열대우림<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">중앙 아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 하마과 (Hippopotamidae)
+                  <br/>
+                  속: Hexaprotodon
+                  <br/>
+                  종: liberiensis
+                  <br/>
+                  아종: heslopi                  
+                  
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">애기하마에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">현재 미국 각지의 동물원에 있는 애기하마는 대부분 1927년 캘빈 쿨리지 대통령이 선물 받은 애기하마의 후손입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">애기하마는 어미에게 수영법을 배워야 헤엄을 칠 수 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">물에서 오랜 시간을 보내는 애기하마는 흰색 기름을 분비해서 피부를 보호합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">나일강같은 큰 강에 사는 다른 하마들과는 달리 애기하마는 생물학적으로 멧돼지의 일종인 페커리나 돼지에 더 가깝습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 애기하마를 입양하려면 동물원 명성을 별 4개까지 올려야 합니다.</color>
+            <p/>일반 하마와 애기하마의 가장 큰 차이점은 크기입니다. 애기하마는 키가 어깨까지 75cm, 몸무게도 158에서 248kg 정도에 불과합니다. 이것도 인간의 기준으로 보면 상당한 무게지만 일반 하마가 보통 3,600kg에 이르는 것을 감안하면 매우 작은 크기입니다.
+
+<p/>일반 하마에 비하면 애기하마의 생태에 대한 연구는 상당히 미진한 수준입니다. 그것은 애기하마가 희귀하기도 하지만 야행성인데다 혼자서 생활하기 때문에(짝짓기 기간에만 함께 생활함) 야생 상태에서 관찰하기 어렵다는 점이 크게 작용했습니다. 아프리카 대륙 전역에 넓게 분포하는 일반 하마와는 달리 애기하마는 아프리카 서부의 일부 지역에서만 서식합니다.
+
+<p/>다른 하마들과 마찬가지로 애기하마도 초식성입니다. 이들의 먹이는 풀, 다육 식물, 떨어진 과일 및 저지대 초목입니다.
+
+<p/>야생 애기하마에게 가장 위협적인 존재는 인간입니다. 야생 상태에서는 서식지 파괴와 남획에 의해 개체 수가 크게 줄어들고 있지만, 동물원의 개체군은 안정된 상태를 유지하고 있습니다.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hyenastriped:entry"  >줄무늬하이에나</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hyenastriped:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/HyenaStriped/HyenaStriped_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">사막<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">	북아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 하이에나과 (Hyaenidae)
+                  <br/>
+                  속: Hyaena
+                  <br/>
+                  종: hyaena
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">줄무늬하이에나에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">줄무늬하이에나는 치타나 표범이 잡은 먹이를 빼앗는 것으로 유명합니다. 하지만 이렇게 빼앗은 먹이는 더 큰 점박이하이에나에게 빼앗깁니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카 일부 부락에서는 줄무늬하이에나가 먹을 수 있도록 밤에 음식 찌꺼기를 놓아두기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">줄무늬하이에나는 먹이를 두고 벌어지는 다툼을 피하기 위해서 혼자 식사하는 경우가 많습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">줄무늬하이에나는 주로 썩은 고기를 먹지만 뛰어올라서 날아다니는 나방이나 곤충을 잡아먹기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">줄무늬하이에나는 사막이나 물이 없는 곳(물이 있는 곳에서 10km 이상이 되는 지역)은 피해서 살아갑니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 줄무늬하이에나를 입양하려면 동물원 명성을 별 4개까지 올려야 합니다.</color>
+            <p/>하이에나는 초원의 청소부로 잘 알려진 육식 동물입니다. 언뜻 보기에는 개와 비슷한 이 동물은 턱 힘이 매우 강해서 다른 맹수들이 먹지 못하는 커다란 뼈까지 부술 수 있습니다. 서식 지역은 아프리카, 중동, 인도를 포함한 아시아 남서부입니다. 선사 시대에는 유럽에서도 서식했다고 합니다. 하이에나는 평야나 초원을 좋아하지만 암석 지대, 관목림, 넓은 숲에 살기도 합니다.
+
+<p/>하이에나에는 줄무늬하이에나, 점박이하이에나, 갈색하이에나의 3종이 있습니다. 그 중에서 점박이하이에나가 가장 큽니다. 줄무늬하이에나는 30cm정도의 꼬리를 포함한 몸길이가 1.2에서 1.5m이고 몸무게는 25에서 55kg입니다. 줄무늬하이에나는 노란빛을 띤 갈색에 짙은색 줄무늬가 있으며 목과 등에 갈기가 있습니다.
+
+<p/>하이에나는 종에 관계없이 앞다리는 크고 근육이 발달했지만 뒷다리는 상대적으로 작고 약해서 뒤쪽으로 뚜렷하게 경사를 이루는 등을 가지고 있습니다. 발에는 4개의 발가락이 있으며 항상 발톱이 밖으로 나와 있어서 평지를 달리기에 좋습니다. 머리는 작지만 턱과 이빨은 큽니다. 길고 덥수룩한 꼬리 아래에 있는 냄새샘을 이용해서 영역 표시를 합니다.
+
+<p/>하이에나는 야행성이며 다른 맹수가 남긴 동물 사체의 찌꺼기를 먹이로 합니다. 이들은 질긴 가죽을 물어뜯고, 큰 뼈도 부숴서 소화시킬 수 있습니다. 털이나 뿔 등 소화시킬 수 없는 부분은 소화 기관에서 뭉쳐져 입으로 토하게 됩니다. 직접 사냥에 나서기도 하는 하이에나는 최대 시속 65km로 달릴 수 있습니다. 혼자 사냥할 때는 양, 염소, 누 등의 동물을 공격하지만, 10마리 이상이 무리를 이루면 얼룩말도 잡습니다.
+
+<p/>하이에나는 일반적으로 소굴을 중심으로 무리를 이루며 영역을 지키는 경향이 강합니다. 한 무리는 암컷 10에서 12마리, 새끼 20마리, 우두머리 수컷 몇 마리로 구성됩니다. 이들은 특별히 짝을 정하지는 않으며 수컷보다 덩치가 큰 암컷이 직접 짝짓기 대상을 결정합니다. 임신은 일년 중 언제나 가능하며 92에서 110일의 임신 기간을 거쳐 1에서 5마리의 새끼를 낳습니다.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mandrill:entry"  >맨드릴개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mandrill:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Mandrill/Mandrill_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Mandrill/Mandrill_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">열대우림<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">중앙 아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 영장목 (Primata)
+                  <br/>
+                  과: 긴꼬리원숭이과 (Cercopithecidae)
+                  <br/>
+                  속: Mandrillus
+                  <br/>
+                  종: sphinx
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">맨드릴개코원숭이에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">수컷 맨드릴개코원숭이는 포유류 중에서 가장 화려한 색을 가지고 있습니다!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">맨드릴개코원숭이는 볼 안에 많은 먹이를 저장할 수 있습니다. 맹수에게서 도망치느라 네 다리를 다 써야할 때 최대한 많은 먹이를 볼에 저장한 후에 뜁니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">맨드릴개코원숭이는 숲에 살지만 지상에서 생활하는 원숭이입니다. 이들은 잠을 자거나 맹수를 피할 때를 제외하면 나무에 오르지 않습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">맨드릴개코원숭이의 천적은 표범입니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 맨드릴개코원숭이를 입양하려면 동물원 명성을 별 4개 반까지 올려야 합니다.</color>
+            <p/>맨드릴개코원숭이는 아프리카 서부 열대 지역에 사는 개코원숭이입니다. 육상 동물인 맨드릴개코원숭이는 육중하고 튼튼한 몸에 강한 다리를 갖고 있습니다. 몸에 난 털은 부드러우며 위쪽은 황갈색, 아래쪽은 회색이며 아래 턱에는 노란색 턱수염이 있고 머리에는 갈기 모양의 털이 나 있습니다. 눈 주위는 상당히 도드라져 보이고, 깊숙이 들어가 있는 작은 눈은 가운데로 몰려 있습니다. 특히 송곳니가 크기 때문에 인상이 더 험악해 보입니다. 눈 사이로 튀어나온 주둥이를 따라 뼈대굵은 콧등이 발달되어있는데, 이 코는 세로로 주름진 털이없는 피부로 덮여있습니다. 다 자란 맨드릴개코원숭이는 몸길이가 90cm이며 꼬리는 작습니다. 암컷은 수컷에 비해 덜 화려하며 크기가 더 작고 날씬합니다.
+
+<p/>다 자란 맨드릴개코원숭이 수컷은 화려하고 밝은 얼굴 색깔로 쉽게 눈에 띕니다. 주둥이의 주름진 부분은 강렬한 암청색, 그 양 옆은 검은색, 코 가운데는 밝은 주홍색입니다. 파란색은 본래 피부색이며 빨간색은 색소에 의한 것입니다. 작고 뾰족한 귀는 푸르스름한 검은색, 턱수염과 얼굴의 털은 노란색을 띤 흰색입니다. 엉덩이와 다리 안쪽에는 털이 없고 피부가 주홍색으로 점점 엷은 자색, 파란색, 검은색으로 변합니다. 수컷이 완전히 성장하고 특유의 색을 띠려면 약 9년이 걸립니다.
+
+<p/>현재 맨드릴개코원숭이는 무분별한 남획과 서식지 감소로 멸종 위기에 처해 있습니다.       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:entry"  >미어캣</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">관목림<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카 남부</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 사향고양이과 (Viverridae)
+                  <br/>
+                  속: Suricata
+                  <br/>
+                  종: suricatta
+                  <br/>
+                  아종: suricata                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">미어캣에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">미어캣은 사회성이 강한 동물로, 무리를 이뤄 생활하고, 공동 화장실을 사용하며 공동으로 새끼를 키웁니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">미어캣은 보통 5에서 30마리 정도의 무리를 형성하는데 이 무리를 "몹"이라고 부릅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">손쉬운 먹잇감으로 항상 맹수들의 위협에 시달리는 미어캣은 동료들이 잠을 자거나 식사를 할 때 항상 한 마리가 망을 봅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">미어캣은 딱정벌레, 거미, 지네, 귀뚜라미, 전갈을 먹이로 하며 먹이의 독에 대해 면역력을 가지고 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">미어캣은 꼬리로 균형을 잡고 동료들과 의사소통을 합니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 미어캣을 입양하려면 동물원 명성을 별 3개 반까지 올려야 합니다.</color>
+            <p/>"슈리케이트"로 불리기도 하는 미어캣은 몽구스과 중에서도 작은 편에 속하며 주로 아프리카 남부에 서식합니다. 이들은 앞발을 들고 서 있는 독특한 자세와 뛰어난 사회성으로 유명합니다.
+
+<p/>건조한 개활지나 사바나 지역에 주로 서식하는 미어캣은 앙골라 남서부에서 남아프리카에 걸친 지역에서 발견됩니다. 사회성이 높은 이들은 땅굴을 팔 수 있는 모래가 있는 곳에서 집단 생활을 합니다.
+
+<p/>꼬리를 제외한 몸길이가 25에서 35cm 정도이며 다른 몽구스에 비해 날씬합니다. 입은 뾰족하고 털은 은빛을 띤 갈색이며, 궁둥이 부분에는 불규칙한 짙은색 줄무늬가 있습니다. 얼굴은 흰색이며 귀와 눈 주위는 짙은색입니다. 각 발에 5개의 발가락을 갖는 다른 몽구스와는 달리 미어캣의 발가락은 4개입니다.
+
+<p/>미어캣은 오직 낮에만 먹이를 찾아다니며 주로 딱정벌레, 거미, 노래기와 같은 곤충을 먹습니다. 경우에 따라서는 작은 척추동물, 알, 식물 뿌리를 먹기도 합니다. 미어캣은 11주의 임신 기간을 거쳐 가을이나 초겨울에 2에서 4마리의 새끼를 낳습니다. 새끼를 보호하고 양육하는 일은 암수 모두가 합니다.
+
+<p/>미어캣은 뒷다리나 심지어는 뒷발가락으로 똑바로 서서 바람에 실려 오는 맹수의 냄새를 맡고 자신을 공격해오는 맹금류를 살핍니다. 시각이 매우 발달해서 멀리까지 볼 수 있으며 10가지 이상의 소리를 낼 수 있습니다.
+
+<p/>미어캣은 광견병을 옮길 수 있다는 이유로 사람들에게 사냥되거나 땅굴에 가스를 주입해 제거되기도 했습니다만, 개체수가 심각하게 줄어들지는 않았습니다. 남아프리카에서는 귀엽고 쉽게 길들일 수 있다는 특징 때문에 미어캣을 애완용으로 기르기도 합니다.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monitornile:entry"  >나일왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monitornile:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MonitorNile/MonitorNile_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">습지대<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카</color>
+						<br/>
+						<img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 파충류 (Reptilia)
+                  <br/>
+                  목: 뱀목 (Squamata)
+                  <br/>
+                  과: 왕도마뱀과 (Varanidae)
+                  <br/>
+                  속: Varanus
+                  <br/>
+                  종: niloticus
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">나일왕도마뱀에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">나일왕도마뱀은 아프리카에서 가장 큰 도마뱀입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">나일왕도마뱀은 현존하는 세계 최대의 도마뱀인 코모도왕도마뱀과 생물학적으로 유사합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">나일왕도마뱀은 수백만 년 전에 존재했던 대형 해양 파충류인 모사사우루스와도 유사합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">비록 다리는 짧지만 나일왕도마뱀은 뛰어난 달리기 선수입니다.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 나일왕도마뱀을 입양하려면 동물원 명성을 별 1개 반까지 올려야 합니다.</color>
+            <p/>나일왕도마뱀은 현존하는 최대의 도마뱀 중 하나입니다. 이들은 공격적이고 턱, 다리, 꼬리 힘이 매우 강합니다. 먹잇감을 공격하거나 다른 왕도마뱀과 싸울 때 꼬리가 강력한 무기로  사용됩니다.
+
+<p/>나일왕도마뱀은 육식성으로 뱀처럼 먹이를 통째로 삼켜서 먹습니다. 먹이는 메뚜기나 딱정벌레 같은 곤충에서부터 새, 물고기, 설치 동물, 심지어 다른 도마뱀까지 매우 다양합니다.
+
+<p/>"물 왕도마뱀"으로 불리기도 하는 나일왕도마뱀은 아프리카 사하라 사막 이남의 강이나 개울에 서식합니다. 다 자라면 몸길이가 1.8m에 이르는 이들은 주로 물가의 땅에서 생활하며, 나무에 올라가 새 둥지에서 알을 훔쳐 먹기도 합니다.
+
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ratel:entry"  >라텔</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ratel:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Ratel/Ratel_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">초원<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카 및 아시아</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 족제비과 (Mustelidae)
+                  <br/>
+                  속: Mellivora
+                  <br/>
+                  종: capensis
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">라텔에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">라텔은 다리가 짧지만 지구력은 매우 강합니다. 이들은 자신보다 큰 먹잇감이라도 끝까지 따라가서 그들이 지쳐 쓰러지게 만듭니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">라텔은 어린 사자들을 쫓아내고 먹이를 빼앗아 먹기도 합니다!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">라텔은 천적이 별로 없습니다. 이들의 가죽은 매우 질겨서 뱀의 이빨로도 뚫지 못합니다!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">라텔의 귀는 피부로 싸여있어서 구멍을 팔 때 흙이 들어가는 일이 없습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">라텔은 육식동물을 쫓아 내기 위해 종종 냄새 나는 분비액을 방출합니다. 이 냄새는 벌들을 벌집에서 몰아내고 꿀을 먹을 때에도 사용됩니다.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 라텔을 입양하려면 동물원 명성을 별 2개까지 올려야 합니다.</color>
+            <p/>꿀을 좋아해서 꿀먹이오소리라고도 불리우는 라텔은 스컹크와 비슷한 모습의 중간 크기 포유류로 아프리카와 아시아 일부 지역이 원산지입니다. 꿀을 좋아하는 이들은 성질이 사납고 대담하여 코브라는 물론 소, 들소 등을 공격하기도 합니다.
+
+<p/>라텔은 아프리카 대부분 지역과 아라비아 반도에서 인도, 네팔에 이르는 아시아 남부 및 중부 지역에서 발견됩니다. 라텔은 숲과 넓은 초원, 건조한 사바나 지역에 서식합니다.
+
+<p/>단단한 몸을 가진 라텔은 꼬리를 제외한 몸길이가 60에서 77cm이고, 꼬리 길이가 20에서 30cm, 몸무게가 13kg 정도입니다. 라텔의 무늬는 매우 특징적으로 머리, 목, 등은 회색빛을 띤 흰색의 거친 털로 덮여 있으며 얼굴, 다리, 배, 꼬리는 완전히 검은색입니다. 일부 라텔은 몸 전체가 검은색을 띠기도 합니다. 짧은 다리와 크고 단단한 발톱은 땅을 파기에 적당합니다.
+
+<p/>라텔은 죽이기가 매우 어렵습니다. 이들의 가죽은 유난히 질기고 몸에 딱 달라붙어 있지 않아서 다른 동물이 붙잡기가 어렵습니다. 일반적으로 동물의 이빨, 벌의 침, 호저의 가시로는 라텔의 가죽을 뚫지 못합니다. 게다가 항문샘에서 지독한 냄새를 풍기는 액체를 내뿜기 때문에 맹수들도 라텔을 공격할 생각을 하지 않습니다.
+
+<p/>라텔는 꿀을 매우 좋아합니다. 아프리카 지역에 사는 라텔는 벌의 애벌레를 먹이로 하는 꿀안내새의 도움을 받아 벌집을 찾습니다. 꿀안내새는 벌집을 발견하면 독특한 울음소리를 내서 이를 라텔에게 알리고, 라텔는 강력한 발톱과 이빨을 사용해서 벌집을 엽니다. 그런 다음 각자 원하는 먹이를 먹습니다. 그 밖에 라텔가 먹는 먹이로는 곤충, 알, 새, 도마뱀, 뱀, 식물, 작은 포유류 등이 있습니다. 이들은 밤낮을 가리지 않고 먹이를 찾습니다.
+
+<p/>라텔은 자신이 직접 판 땅굴에서 생활합니다. 이들은 집단 생활을 하지만 사냥은 혼자하거나 짝을 지어서 합니다. 짝짓기 후에 수정란은 바로 착상되지 않고, 수개월 동안 발생이 지연됩니다. 이런 지연 기간을 포함해서 임신 기간은 약 6개월 정도로 추정됩니다. 암컷은 풀이 깔린 보금자리에서 1에서 4마리의 새끼를 낳습니다.
+
+<p/>이들은 자신의 보금자리를 침범할 경우 말, 소, 영양, 물소 등의 대형 동물까지도 공격할 정도로 대담합니다. 자기 방어에 철저한 성질 덕에 털을 노리고 사냥하는 사람도 드물었습니다. 이렇게 사나운 성질을 가지고 있지만, 새끼 때 잡으면 길들일 수 있어서 애완용으로 길러지기도 합니다. 애완용일지라도 다 자란 라텔은 힘이 매우 세서 새장 등 물건을 손상시키거나 별다른 이유도 없이 공격해 오기도 합니다.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoceroswhite:entry"  >흰코뿔소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoceroswhite:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RhinocerosWhite/RhinocerosWhite_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+				 <cell width="128">
+				  <color r="255" g="255" b="255">관목림<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카 남부</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 말목 (Perissodactyla)
+                  <br/>
+                  과: 코뿔소과 (Rhinocerotidae)
+                  <br/>
+                  속: Ceratotherium
+                  <br/>
+                  종: simum
+                  <br/>
+                  아종: simum                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">흰코뿔소에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰코뿔소는 초식 동물 중에서 가장 큽니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">이름과는 달리 흰코뿔소는 흰색이 아닙니다. 흰코뿔소라는 이름은 "폭이 넓다"라는 뜻의 아프리칸스어 "weit"에서 유래했으며, 이는 흰코뿔소의 폭이 넓은 입을 가리킵니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰코뿔소는 시력이 매우 좋지 않아서 후각에 의존하여 생활합니다. 이들의 후각 기관은 뇌보다도 더 큽니다!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 흰코뿔소를 입양하려면 동물원 명성을 별 2개 반까지 올려야 합니다.</color>
+            <p/>흰코뿔소는 현존하는 5종의 코뿔소 중 하나입니다. 5종 중 3종은 아시아에, 나머지 2종(흰코뿔소, 검은코뿔소)은 아프리카에 서식합니다.
+
+<p/>흰코뿔소는 모든 코뿔소 중에서 가장 크며 온순합니다. 검은코뿔소는 크기가 흰코뿔소의 절반에 불과하지만 훨씬 더 공격적입니다. 검은코뿔소와 흰코뿔소 모두 코 끝에 2개의 뿔이 있습니다. 코뿔소의 뿔은 소나 영양처럼 뼈로 이루어진게 아니라, 머리카락을 구성하고 있는 것과 같은 단백질인 케라틴 섬유로 이루어져 있습니다.
+
+<p/>모든 코뿔소는 초식 동물입니다. 검은코뿔소는 나뭇잎과 나뭇가지를 먹는 반면, 흰코뿔소는 거의 전적으로 풀만 먹습니다. 실제로 흰코뿔소가 먹는 풀의 양은 엄청나게 많습니다.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tortoiseafricanspurred:entry"  >아프리카가시거북</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tortoiseafricanspurred:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">사막<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 파충류 (Reptilia)
+                  <br/>
+                  목: 거북목 (Testudines)
+                  <br/>
+                  과: 남생이과 (Testudinidae)
+                  <br/>
+                  속: Geochelone
+                  <br/>
+                  종: sulcata
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">아프리카가시거북에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카가시거북은 날씨가 너무 더우면 몸에 타액을 분비하여 열기를 식힙니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카가시거북은 섬유질이 풍부한 식물을 먹이로 하며, 이들에게 과일은 좋지 않습니다. 실제로 인간이 먹는 대부분의 농산물은 당분과 단백질이 지나치게 많아 아프리카가시거북이 소화시킬 수 없습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">아프리카가시거북은 세계에서 세 번째로 큰 거북입니다. 이들보다 큰 거북은 갈라파고스코끼리거북과 알다브라왕거북뿐입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">일부 거북과는 달리 아프리카가시거북은 동면을 취하지 않습니다. 그들이 서식하는 사하라 사막 남쪽 지역의 기온이 동면할 정도로 낮아지지 않기 때문입니다.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 아프리카가시거북을 입양하려면 동물원 명성을 별 1개까지 올려야 합니다.</color>
+            <p/>아프리카 대륙에서 가장 큰 지상 거북인 아프리카가시거북은 몸무게가 105kg에 이릅니다. 이들은 몸집이 큰 만큼 넓은 공간을 필요로 합니다. 또한 힘도 세서 동물원에서 기를 경우 매우 튼튼한 우리가 필요합니다.
+
+<p/>아프리카가시거북은 건강을 유지하기위해서 섬유질이 풍부한 먹이를 필요로 합니다. 야생 아프리카가시거북은 각종 풀, 클로버, 프리클리페어선인장의 속살을 먹습니다. 또한 큰 몸집으로 성장하기 위해 칼슘이 풍부한 먹이도 섭취해야 합니다. 물은 수분이 풍부한 다육 식물에서 얻습니다.
+
+<p/>부화 시기가 되면 서로에 대해 매우 공격적으로 변합니다. 수컷은 서로 들이받으면서 상대방을 뒤집으려고 합니다.
+
+<p/>날씨가 너무 더울 때는 땅굴을 파고 들어가서 탈수되는 것을 방지합니다. 만약 더운 날 주변에 진흙이 있다면 그 속으로 파고들거나 몸을 뒤집어서 최대한 많은 부위에 진흙을 묻힙니다. 한낮의 땡볕을 피하기 위해서 이들은 주로 해가 뜨거나 질 무렵에 활동합니다. 추운 밤을 보낸 뒤에는 몸을 따뜻하게 하기 위해서 아침 햇볕을 쬐기도 합니다.
+
+         </cell>       
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warthog:entry"  >혹멧돼지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warthog:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Warthog/Warthog_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Warthog/Warthog_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">사바나<br/></color>
+				  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 멧돼지과 (Suidae)
+                  <br/>
+                  속: Phacochoerus
+                  <br/>
+                  종: africanus
+                  <br/>
+                  아종: aetheopicus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">혹멧돼지에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">혹멧돼지는 굴에서 쉬고 잠을 자지만, 직접 땅을 파서 굴을 만들기보다는 다른 동물(특히 땅돼지)의 굴을 빼앗는 경우가 많습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">혹멧돼지는 위협을 느끼면 콧김을 내뿜으며 씩씩거리거나, 꿀꿀거리면서 귀를 내리고 땅속으로 들어가서 엄니만 내놓고 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">혹멧돼지는 모래 목욕을 하거나 나무, 흰개미집에 몸을 비비면서 몸을 단장합니다. 이때 몸에 붙은 곤충은 새가 먹습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">혹멧돼지는 초식 동물로 단단한 굳은살이 박인 무릎을 땅에 대고 키가 작은 풀을 뜯어먹습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">혹멧돼지의 천적은 사자와 표범입니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 혹멧돼지를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</color>
+            <p/>혹멧돼지는 엄니 2쌍과 함께 길고 넓은 머리에 사마귀처럼 생긴 2쌍의 돌기가 나 있는 야생 돼지입니다. 땅딸막한 몸집에 다리는 가늘며 긴 꼬리에는 술이 달려 있습니다. 아프리카 평원과 드넓은 삼림에 폭넓게 분포하는 혹멧돼지는 주로 풀, 열매, 나무껍질과 뿌리, 썩은 고기를 먹습니다. 주로 낮에 활동하며 밤에는 굴에서 지내지만 사람들이 많은 곳에서는 야행성의 행태를 보이기도 합니다. 혹멧돼지 무리는 한두 마리의 암컷과 새끼들로 구성되며 수컷은 짝짓기 기간에만 잠깐 합류합니다. 어린 수컷들은 따로 무리를 형성하지만 늙은 수컷은 혼자서 생활합니다. 새끼 수컷은 늦어도 15개월 정도가 지나면 어미로부터 독립합니다. 새끼 암컷은 평생 어미와 같은 무리에 머물기도 합니다. 암수에 관계없이 모든 새끼는 새로운 새끼가 태어나면 어미 곁을 떠났다가 때때로 나중에 다시 어미에게로 돌아오기도 합니다. 혹멧돼지의 엄니는 날카로워서 사자 같은 맹수를 상대할 때 무기로 사용됩니다. 다른 혹멧돼지와는 주로 밀치면서 싸우고 엄니는 거의 사용하지 않습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wildebeest:entry"  >누</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wildebeest:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/wildebeest/wildebeest_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">사바나</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">아프리카</color>
+						<br/>
+						<img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 소목 (Artiodactyla)
+                  <br/>
+                  과: 소과 (Bovidae)
+                  <br/>
+                  속: Connochaetus
+                  <br/>
+                  종: taurinus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">누에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">누는 주로 풀을 먹습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">누의 천적은 사자와 하이에나입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">누는 안전을 위해 커다란 무리를 지어 생활합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">누는 끙끙대는 소리, 크게 우는 소리, 콧김을 내뿜는 소리 등을 내는 시끄러운 동물입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">누 무리는 일 년에 최대 1,920km 정도를 이동한다고 합니다.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 누를 입양하려면 동물원 명성을 별 1개 반까지 올려야 합니다.</color>
+            <p/>누는 몸집이 큰 아프리카 영양으로 머리, 뿔, 어깨 모양이 황소와 비슷합니다. 얼굴의 털과 갈기는 뻣뻣한 편이며 꼬리는 말과 비슷하게 생겼습니다. 현존하는 두 종의 누 중 하나인 검은누는 한때 남아프리카에서 번성했으나 현재는 1만 마리 정도만 남아 있습니다. 나머지 한 종인 푸른누는 케냐 남부에서 남아프리카 북부에 이르는 초원 지대에 무리를 이뤄 삽니다. 두 종의 암수 모두 매끄러운 큰 뿔을 가지고 있는데, 이 뿔은 아래쪽에서 옆쪽으로 구부러진 다음 위쪽으로 휘어져 있습니다.
+
+<p/>푸른누는 푸른빛을 띤 회색에서 갈색까지 다양한 털 색깔을 지니고 있습니다. 아프리카 남부의 드넓은 삼림과 초원이 원산지이며, 이 지역에서 가장 빠른 동물 중 하나입니다. 몸무게는 대략 272kg이고, 키는 137cm 정도입니다. 큰 머리와 짧은 목은 61cm가 넘는 큰 뿔을 지탱하고 있습니다. 무엇보다 이들이 지닌 최대의 방어 수단은 끊임없이 달리는 능력입니다. 얼굴에 난 뻣뻣한 털과 넓은 어깨 때문에 위협적으로 보이긴 하지만 실제로 가까이 다가가면 침입자 근처로 와 주위를 맴돌며 빤히 쳐다보는 장난스러운 행동을 보입니다.
+
+<p/>누는 30에서 500마리 정도가 무리를 이뤄 아프리카 사바나 지역을 활보하며, 세렌게티 평원에만 백만 마리 이상이 서식한다고 합니다. 암컷은 한 번에 한 마리의 새끼만 낳으며, 갓 태어난 새끼는 몇 분 만에 걸을 수 있습니다. 같은 무리에 있는 암컷들은 동시에 출산을 하기 때문에 한꺼번에 태어난 많은 새끼들은 맹수들의 좋은 먹이가 됩니다. 새끼는 주로 하이에나에게, 다 자란 누는 사자에게 잡아먹힙니다. 수컷들은 각자의 세력권을 갖고 생활하며 영역으로 넘어오는 발정난 암컷에게 구애합니다. 자신의 세력권을 확보하지 못한 수컷들끼리는 무리를 이루어 삽니다. 건기에는 일부 무리가 대규모 집단으로 모여서 이동합니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wolfethiopian:entry"  >에티오피아늑대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wolfethiopian:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WolfEthiopian/WolfEthiopian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     멸종 위기
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+					 <cell width="128">
+					  <color r="255" g="255" b="255">고산 지대<br/></color>
+					  <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					 </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">에티오피아</color>
+						<br/>
+						<img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 개과 (Canidae)
+                  <br/>
+                  속: Canis
+                  <br/>
+                  종: simensis
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">에티오피아늑대에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">에티오피아늑대는 아프리카에 서식하는 유일한 늑대입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">에티오피아늑대는 주로 낮에 활동하지만 주변에 인간이 있어 위협을 느낄 때는 야행성이 되기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">무리의 우두머리 수컷과 암컷만이 짝짓기를 통해 새끼를 낳으며 나머지 늑대들은 새끼를 기르는 것을 돕습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">에티오피아늑대는 강한 냄새의 소변으로 그들의 세력권을 표시합니다.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 에티오피아늑대를 입양하려면 동물원 명성을 별 5개까지 올려야 합니다.</color>
+            <p/>자칼과는 먼 친척 관계인 에티오피아늑대는 시멘쟈칼이라고도 불리며, 아프리카에 서식하는 유일한 늑대로 에티오피아와 에리트레아 지역의 일부 산맥에서만 발견됩니다.
+
+<p/>육식성인 에티오피아늑대는 주로 커다란 뒤쥐 같은 설치 동물을 먹이로 삼습니다. 이들은 설치 동물이 들어 있는 땅굴을 파헤쳐서 잡거나, 슬금슬금 걷다가 먹이떼가 있는 곳으로 갑자기 뛰어들어 한 마리를 쫓아가서 낚아채는 방법으로 사냥합니다. 드물기는 하지만 서로 협력하여 어린 영양이나 양 등의 큰 먹잇감을 사냥하기도 합니다.
+
+<p/>현재 에티오피아늑대는 매우 심각한 멸종 위기 상태에 있습니다. 세계를 통틀어 다 자란 에티오피아늑대는 400마리 정도에 불과합니다. 에티오피아 정부는 이들을 보호종으로 지정했으며, 영국 옥스퍼드 대학에는 에티오피아늑대 보호 기구가 있습니다.
+
+         </cell>       
+      </LOC_STRING>
+</ZT2Strings>

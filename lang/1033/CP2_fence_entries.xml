@@ -1,0 +1,49 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_extinctfence:entry"  >Extinct-Themed Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	The extinct-themed fence works best with extinct animal exhibits and nearby public areas. Both high and low versions can contain your less-aggressive extinct animals.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:entry"  >Extinct-Themed Window Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Guests enjoy the extinct-themed window fence. It contains your extinct animals and offers guests a great view of them.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:entry"  >Electric Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	A cheaper and weaker alternative to the dinosaur fence, this electrified chain link fence should do a decent job of keeping your smaller dinosaurs contained.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

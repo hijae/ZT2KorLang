@@ -1,0 +1,94 @@
+<ZT2Strings>	 
+      <LOC_STRING _locID="worldlocation:cp2extinct"  >Extinct Animals</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:europe_iceage"  >유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:europe_iceage_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>유럽</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_south"  >남아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_south_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>남아메리카</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_north"  >북아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_north_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>북아메리카</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:newzealand"  >뉴질랜드</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:newzealand_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>뉴질랜드</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_south"  >남아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_south_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>남아프리카</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:falklandislands"  >포클랜드 제도</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:falklandislands_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>포클랜드 제도</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:mediterraneanislands"  >지중해 섬</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:mediterraneanislands_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>지중해 섬</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_north_east"  >북아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:america_north_east_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>북아메리카</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eurasia"  >유라시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eurasia_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>유라시아</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:mauritius"  >모리셔스</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:mauritius_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>모리셔스</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:caribbean"  >카리브해 섬</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:caribbean_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>카리브해 섬</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:tasmania"  >태즈메이니아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:tasmania_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>태즈메이니아</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:asia_central"  >중앙아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:asia_central_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>중앙아시아</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+</ZT2Strings>

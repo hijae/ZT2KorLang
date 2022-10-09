@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_balloonbouquet" version="9" />
+      <LOC_STRING _locID="zoopedia_balloonbouquet:entry" version="9"  >Balloon Bouquet</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_balloonbouquet:text" version="9"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\scenery\MylarBalloons_df\MylarBalloons_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+     <p/>
+Whenever an endangered, critically endangered or extinct animal in your zoo has a baby, you receive a balloon bouquet as a colorful souvenir!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings> 

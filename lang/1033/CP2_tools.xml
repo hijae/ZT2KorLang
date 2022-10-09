@@ -1,0 +1,73 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tools" version="2" />
+      <LOC_STRING _locID="tools:insert_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Insert Node</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Insert Event </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Spline Size</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Scoring Prox</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:visible_stt" version="2"  >Toggle Spline Visibility</LOC_STRING>
+      <LOC_STRING _locID="tools:visible_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Spline Visible</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:eventhidden_stt" version="2"  >Toggle Memory Event</LOC_STRING>
+      <LOC_STRING _locID="tools:event_hidden_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Memory Event</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_override_stt" version="2"  >Event Score Override</LOC_STRING>
+      <LOC_STRING _locID="tools:event_score_override_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Event Override</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_speed_stt" version="2"  >Change Spline Tracing Speed.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_tracing_speed_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Tracing Speed</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_tracing_speed_display" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_speed_label" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Change Spline Tracing Speed</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_stt" version="2"  >Change Event Scale.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_label" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Event Scale</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_display" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_header" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Change Event Scale</b>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,194 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHMantaPhotoPhotos"  >쥐가오리 사진</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMantaPhoto"  >해양 전문대학의 연구원들은 미지의 동물로 남아 있는 쥐가오리를 연구하고 있습니다. 이들은 이 멋진 생명체가 가끔씩 물 위로 뛰어오르는 이유를 밝히려고 합니다.
+			<p/>
+해양 전문대학 연구원들은 쥐가오리가 물 위로 뛰어오르는 장면을 찍은 사진을 제공하면 $1,250를 지불하겠다고 합니다. 연구원들은 쥐가오리가 뛰어오르는 것은 청결을 유지하기 위한 것으로 보인다고 합니다. 쥐가오리가 뛰어오르는 동작을 사진에 담으려면 쥐가오리를 씻어주지 말고 위생을 청결히 해주는 조개 기포발생기도 설치하지 마세요.
+			<p/>
+   			난이도: 초급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMantaPhotoShort"  >쥐가오리가 물 위로 뛰어오르는 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMantaPhotoSuccess"  >물 위로 뛰어오르는 쥐가오리 사진은 연구에 큰 도움이 될 것입니다. 대학에서 사진에 대한 대가로 $1,250를 지불했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMantaPhotoSuccessShort"  >물 위로 뛰어오르는 쥐가오리 사진을 제공한 대가로 $1,250를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_MantaRayBreaching"  >쥐가오리가 물 위로 뛰어오르는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBelugaPhotoPhotos"  >흰돌고래 사진</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBelugaPhoto"  >월간 동물원 뉴스의 편집장은 북극 고래에 대한 특집 기사를 준비한다고 합니다. 관람객이 흰돌고래를 구경하는 사진을 잡지사에 제공하면 $750를 지불하겠다고 합니다.
+			<p/>난이도: 초급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBelugaPhotoShort"  >관람객이 흰돌고래를 구경하는 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBelugaPhotoSuccess"  >관람객이 흰돌고래를 구경하는 사진이 월간 동물원 뉴스의 다음 호에 실리게 되었습니다. 사진의 대가로 $750를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBelugaPhotoSuccessShort"  >관람객이 흰돌고래를 구경하는 사진을 제공한 대가로 $750를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BelugaAndGuest"  >관람객이 흰돌고래를 구경하는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitPhotos"  >탐험가의 방문</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisit"  >(해양 동물 챌린지) 저명한 해저 탐험가 스테판 발레인 씨가 동물원을 방문한다고 합니다! 발레인 씨는 세계적인 TV 쇼의 진행자이자 상어 전문가입니다. 그는 특별히 2종의 동물을 보기 위해 동물원을 찾는다고 합니다. 그 중 하나는 수심 1200m 이하에서만 서식한다는 신비의 동물 고블린상어입니다. 나머지 한 종은 특이한 머리 모양과 공격성으로 유명한 홍살귀상어입니다.
+					
+		<p/>스테판 발레인 씨가 고블린상어와 홍살귀상어를 관찰하는 사진을 찍을 수 있다면 동물원의 인기가 높아져 관람객이 크게 늘고 관람객의 만족도도 높아질 것입니다. 유명인이 동물원을 방문했다는 사실을 알면 모든 사람들이 만족할 것입니다!
+		<p/>두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!
+					<br/>
+   			난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitShort"  >다음 사진을 찍으세요:
+					<br/>
+*  해저 탐험가 스테판 발레인 씨가 고블린상어를 관찰하는 사진  
+					<br/>
+*  해저 탐험가 스테판 발레인 씨가 홍살귀상어를 관찰하는 사진
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitSuccess"  >스테판 발레인 씨의 사진이 지역 신문에 실렸습니다. 관람객이 크게 늘고 관람객들의 만족도도 높아졌습니다. 저명한 해양 탐험가가 동물원을 방문했다는 사실에 모든 사람들이 흥분을 감추지 못하고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitSuccessShort"  >스테판 발레인 씨의 사진이 신문에 실리면서 관람객의 만족도가 높아지고 동물원을 방문하는 관람객 수도 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitFailure"  >필요한 사진을 찍기 전에 스테판 발레인 씨가 동물원을 떠났습니다. 더 많은 관람객을 유치할 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitFailureShort"  >사진을 찍기 전에 스테판 발레인 씨가 동물원을 떠났습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExplorerVisitExplorerName"  >스테판 발레인</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ExplorerVisitArrival"  >스테판 발레인 씨가 방금 동물원에 도착했습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ExplorerGoblinShark"  >스테판 발레인 씨가 고블린상어를 관찰하는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ExplorerHammerhead"  >스테판 발레인 씨가 홍살귀상어를 관찰하는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHWildlifeCalendarsPhotos"  >세계 야생동물 달력</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHWildlifeCalendars"  >(해양 동물 챌린지) 세계 야생동물 달력은 야생동물의 모습을 담은 멋진 벽걸이 달력을 제작하는 회사입니다. 이 회사에서 내년 달력의 주제인 "바다의 야생동물"에 적합한 다음 세 사진을 제공하면 $7,000를 지불하겠다고 합니다. 
+					<br/>
+*  물속에서 걷고 있는 하마 사진 
+					<br/>
+*  물로 뛰어드는 황제 펭귄 사진 한 장
+					<br/>
+*  물에서 몸을 굴리거나 돌리고 있는 북극곰 사진 한 장
+		<p/>두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!
+<br/>
+난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHWildlifeCalendarsShort"  >다음 사진을 찍으세요:
+					<br/>
+*  물속에서 걷고 있는 하마 사진  
+					<br/>
+*  물로 뛰어드는 황제 펭귄 사진 한 장 
+					<br/>
+*  물에서 몸을 굴리거나 돌리고 있는 북극곰 사진 한 장		
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHWildlifeCalendarsSuccess"  >세계 야생동물 달력에서 내년 달력에 실릴 멋진 사진의 대가로 $7,000를 지불했습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHWildlifeCalendarsSuccessShort"  >세계 야생동물 달력에 제공할 물속 동물들의 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WildlifeCalendarsHippo"  >물속에서 걷고 있는 하마 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WildlifeCalendarsPenguin"  >물로 뛰어드는 황제 펭귄 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WildlifeCalendarsPolarBear"  >물속에서 몸을 굴리거나 돌리고 있는 북극곰 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPeerlessPostersPhotos"  >짱 포스터</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPeerlessPosters"  >(해양 공연 챌린지) 짱 포스터는 고급 야생동물 포스터와 사진을 제작하는 회사입니다. 이 회사에서 두 마리의 병코돌고래가 함께 서서 걷기 묘기를 부리는 사진을 원하고 있습니다. 짱 포스터에 그들이 원하는 사진을 제공하면 $4,500를 받을 수 있습니다.
+		<p/>두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!		
+					<br/>
+난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPeerlessPostersShort"  >두 마리 병코돌고래가 함께 서서 걷기 묘기를 부리는 사진을 찍으세요.	
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPeerlessPostersSuccess"  >잘했습니다! 두 마리 병코돌고래가 함께 서서 걷기 묘기를 부리는 사진이 멋진 포스터로 제작될 것입니다. 사진의 대가로 짱 포스터로부터 $4,500를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPeerlessPostersSuccessShort"  >두 마리 병코돌고래가 함께 서서 걷기 묘기를 부리는 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PeerlessPostersTrick"  >두 마리 병코돌고래가 함께 서서 걷기 묘기를 부리는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHCetaceanDigestPhotos"  >월간 고래 다이제스트</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHCetaceanDigest"  >(해양 공연 챌린지) 월간 고래 다이제스트에서는 묘기를 부리는 돌고래와 고래 사진을 사겠다고 합니다. 고래 다이제스트에서는 다음 세 사진을 원합니다. 
+					<br/>
+*  점프 묘기를 부리는 동물 사진 
+					<br/>
+*  지느러미로 물 튀기기 묘기를 부리는 동물 사진
+					<br/>
+*  머리 들기 묘기를 부리는 동물 사진
+					<br/>
+월간 고래 다이제스트에서 지불하는 금액은 사진에 담긴 동물의 인기도에 따라 결정됩니다. 인기가 높을수록 금액이 많아집니다. 최소 $2,000지만 더 많은 돈을 받을 수 있습니다!
+<p/>두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!
+<br/>
+난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHCetaceanDigestShort"  >다음 사진을 찍으세요:
+					<br/>
+*  점프 묘기를 부리는 동물 사진 한 장  
+					<br/>
+*  지느러미로 물 튀기기 묘기를 부리는 동물 사진 한 장 
+					<br/>
+*  머리 들기 묘기를 부리는 동물 사진 한 장		
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHCetaceanDigestSuccess"  >월간 고래 다이제스트는 사진에 깊은 감명을 받았다고 합니다! 동물의 인기도에 따라 금액을 지불했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHCetaceanDigestSuccessShort"  >묘기를 부리는 동물 사진을 찍어 월간 고래 다이제스트에 제공했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CetaceanDigestTrick1"  >점프 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CetaceanDigestTrick2"  >지느러미로 물 튀기기 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CetaceanDigestTrick3"  >머리 들기 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPinnipedTrainersQuarterlyPhotos"  >계간 물개 조련사</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPinnipedTrainersQuarterly"  >(해양 공연 챌린지) 계간 물개 조련사에서 바다사자나 바다코끼리가 묘기를 부리는 사진을 다음 호에 실을 예정이라고 합니다. 잡지사에서는 다음 사진을 원합니다. 
+					<br/>
+*  코로 공 균형잡기 묘기를 부리는 동물 사진 
+					<br/>
+*  미끄러지기 묘기를 부리는 동물 사진
+					<br/>
+*  나팔 연주하기 묘기를 부리는 동물 사진
+					<br/>
+계간 물개 조련사에서 지급하는 금액은 사진에 담긴 동물의 인기도에 따라 결정됩니다. 인기가 높을수록 지급액은 많아집니다. 최소 $2,000지만 더 많은 돈을 받을 수 있습니다!
+<p/>두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!
+<br/>
+난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPinnipedTrainersQuarterlyShort"  >다음 사진을 찍으세요:
+					<br/>
+*  코로 공 균형잡기 묘기를 부리는 동물 사진 한 장  
+					<br/>
+*  미끄러지기 묘기를 부리는 동물 사진 한 장 
+					<br/>
+*  나팔 연주하기 묘기를 부리는 동물 사진 한 장		
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPinnipedTrainersQuarterlySuccess"  >계간 물개 조련사에서 사진에 만족해했습니다! 동물의 인기도에 따라 금액을 지불했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPinnipedTrainersQuarterlySuccessShort"  >묘기를 부리는 동물 사진을 찍어 계간 물개 조련사에 제공했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PinnipedTrainersQuarterlyTrick1"  >코로 공 균형잡기 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PinnipedTrainersQuarterlyTrick2"  >미끄러지기 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PinnipedTrainersQuarterlyTrick3"  >나팔 연주하기 묘기를 부리는 동물 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalOceanographerPhotos"  >국제 해양학자</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalOceanographer"  >(해양 동물 챌린지) 월간 국제 해양학자에서는 여러분의 동물원과 함께 잡지를 홍보하고 싶어합니다. 동물원에서 물속에 있는 동물 사진 찍어주면 잡지사에서는 그 사진으로 포스터를 만들어 광고를 하겠다고 합니다. 잡지사에서는 다음 사진을 원합니다. 
+					<br/>
+*  물속에 있는 청새치 두 마리 사진 한 장 
+					<br/>
+*  물속에서 해파리를 먹고 있는 장수거북 사진 한 장
+					<br/>
+*  물속에 있는 들쇠고래 사진 한 장
+					<br/>
+이 사진을 국제 해양학자에 제공하면 잡지사에서는 그 사진으로 포스터나 팜플렛을 만들어 광고할 것입니다. 광고가 나가면 관람객이 늘고 동물원 명성도 높아질 것입니다.
+		<p/>두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!
+<br/>
+난이도: 초급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalOceanographerShort"  >다음 사진을 찍으세요:
+					<br/>
+*  물속에 있는 청새치 두 마리 사진 한 장  
+					<br/>
+*  물속에서 해파리를 먹고 있는 장수거북 사진 한 장 
+					<br/>
+*  물속에 있는 들쇠고래 사진 한 장		
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalOceanographerSuccess"  >국제 해양학자에서 동물원이 제공한 사진으로 전국적인 광고를 시작했습니다. 광고를 본 사람들이 동물원에 관심을 갖게 되면서 관람객이 늘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalOceanographerSuccessShort"  >국제 해양학자에 제공한 사진 덕분에 관람객이 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_InternationalOceanographerMarlins"  >물속에 있는 청새치 두 마리 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_InternationalOceanographerLeatherbackTurtle"  >물속에서 해파리를 먹고 있는 장수거북 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_InternationalOceanographerPilotWhale"  >물속에 있는 들쇠고래 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitPhotos"  >파커 씨의 방문</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisit"  >파커 씨가 동물원을 방문한다는 소식입니다! 파커 씨는 자신의 이름을 딴 해산물 전문 레스토랑의 설립자로 유명합니다. 해적이라는 별명처럼 성격이 까다롭긴 하지만 파커 씨가 동물원을 방문했을 때 기념사진을 찍어 언론사에 제공하면 큰 돈을 벌 수 있습니다. 그는 자신의 마음에 들면 기꺼이 기부하는 것으로도 유명합니다. 어쩌면 파커 씨가 동물원을 떠나기 전에 선물을 줄 지도 모릅니다.
+		<p/>
+<!-- Note that you should get paid for each photo when you take it.-->	
+		다음 사진을 찍으면 한 장마다 $2,000를 받습니다.
+					<br/>
+*  해양 분수대에서 즐거운 시간을 보내는 파커 씨 사진 한 장  
+					<br/>
+*  등대 쉼터에서 쉬고 있는 파커 씨 사진 한 장 
+					<br/>
+*  수족관을 구경하는 파커 씨 사진 한 장
+					<br/>
+   			난이도: 중급			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitShort"  >다음 사진을 찍으세요:
+					<br/>
+*  해양 분수대에서 즐거운 시간을 보내는 파커 씨 사진 한 장  
+					<br/>
+*  등대 쉼터에서 쉬고 있는 파커 씨 사진 한 장. 등대 쉼터와 파커 씨가 모두 잘 보이는 사진이어야 합니다! 
+					<br/>
+*  수족관을 구경하는 파커 씨 사진 한 장		
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitPhotoTaken"  >잘했습니다! 파커 씨의 사진을 찍어 $2,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitSuccess"  >세 장의 사진을 팔아서 돈을 벌었을 뿐만 아니라 동물원이 파커 씨에게 강한 인상을 남겼습니다. 그는 즐겁게 지낸 데 대한 보상으로 깜짝 선물을 주었습니다. 파커 씨의 선물은 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitSuccessShort"  >파커 씨의 사진 세 장을 팔고 그에게서 선물도 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitFailure"  >파커 씨가 동물원을 떠났습니다! 필요한 사진을 다 찍기 전에 떠나고 말았지만 파커 씨는 동물원에서 즐거운 시간을 보냈습니다. 그래서 그는 동물원에 선물을 남겼습니다. 파커 씨의 깜짝 선물은 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitFailureShort"  >사진을 다 찍기 전에 파커 씨가 동물원을 떠났습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHPirateVisitPirateName"  >파커</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PirateVisitFountain"  >해양 분수대에서 즐거운 시간을 보내는 파커 씨 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PirateVisitGazebo"  >등대 쉼터에서 쉬고 있는 파커 씨 사진을 찍으세요. 등대 쉼터와 파커 씨가 모두 잘 보이는 사진이어야 합니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PirateVisitAquarium"  >수족관을 구경하는 파커 씨 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_PirateVisitArrival"  >파커 씨가 방금 동물원에 도착했습니다!</LOC_STRING>
+</ZT2Strings>

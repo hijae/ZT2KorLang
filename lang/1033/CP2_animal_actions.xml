@@ -1,0 +1,25 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:ShooOther"  >Shooing %s away</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Shoo"  >Shooing</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooAngry"  >Mooing in anger</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooHappy"  >Mooing in contentment</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooAt"  >Mooing at %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BeckonOther"  >Beckoning %s closer</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Beckon"  >Beckoning</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MotionOther"  >Motioning to %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MotionOtherBack"  >Motioning back to %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:PlayInWater"  >Playing in water</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GapeAt"  >Gaping at %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GapeAnswer"  >Gaping back at %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:StandTwoLegs"  >Trying to stand on two legs</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WaitingToRub"  >Waiting to rub %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToRollInSnow"  >Going to roll in the snow</LOC_STRING>
+      <LOC_STRING _locID="animalactions:RollingInSnow"  >Rolling in the snow</LOC_STRING>
+      <LOC_STRING _locID="animalactions:AggressiveAngry"  >Behaving aggressively</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WanderAimless"  >Wandering aimlessly</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToBashBuilding"  >Going to bash %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BashingBuilding"  >Bashing %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:AttemptBash"  >Failing to damage %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:RunningAroundRampage"  >Running around rampaging</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GettingShocked"  >Getting shocked by %s</LOC_STRING>
+</ZT2Strings>

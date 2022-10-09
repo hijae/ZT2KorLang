@@ -1,0 +1,22 @@
+﻿ <ZT2Strings>
+      <LOC_STRING _locID="EndangeredAnimals" version="6" />
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonations" version="6"  >
+베어드테이퍼가 잘 적응하고 있습니다! 기본적인 생활 조건을 모두 만족시켜 주었습니다.
+      <p/>
+베어드테이퍼가 건강하게 잘 지내는 모습을 보고 시의회에서는 동물원의 재정 안정을 위해 기부금을 모으도록 요청했습니다. 동물 기부금으로 $3,000를 모아 여러분의 관람객 유치 능력을 보여 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirColony" version="6"  >
+잘했습니다! 동물 기부금으로 $3,000 이상 모았습니다. 시의회에서는 여러분의 동물원 운영에 대해 만족해하고 있습니다.
+      <p/>
+시의회는 매우 흡족해하며 베어드테이퍼 수를 늘리도록 요청했습니다. 시나리오를 완료하려면 베어드테이퍼가 5마리 이상 있는 우리를 만드세요!
+      <p/>
+베어드테이퍼를 5마리로 늘리는 방법으로는 번식과 입양이 있습니다. 입양은 속도가 빠르지만 비용이 많이 드는 반면 번식은 속도는 느리지만 비용이 들지 않습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirSuccessOverview" version="6"  >
+여러분이 만든 베어드테이퍼 우리는 대성공이었습니다. 베어드테이퍼가 5마리로 늘어나 적어도 이 곳에서는 베어드테이퍼가 종족을 번창시킬 수 있을 것입니다. 시의회에서도 기뻐하고 있습니다. 축하합니다!     
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonationsGoal" version="6"  >동물 기부금으로 $3,000를 모으세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonationsGoalDone" version="6"  >동물 기부금으로 $3,000 이상을 모아 관람객 유치 능력을 증명해 보였습니다.</LOC_STRING>
+   
+
+</ZT2Strings>

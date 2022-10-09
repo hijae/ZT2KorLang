@@ -1,0 +1,2027 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:weak"  >허약한 </LOC_STRING>
+      <LOC_STRING _locID="entityname:super"  >슈퍼 </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus"  >안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_stt"  >안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_lower"  >안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            안킬로사우루스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place an ankylosaurus, a heavily armored dinosaur with a large clubbed tail.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch"  >오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_stt"  >오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_lower"  >오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_ltt"  >
+         <color r="255" g="248" b="178">
+            오록스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place an aurochs, an ancestor of many modern-day cattle breeds.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced"  >짧은얼굴곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_stt"  >짧은얼굴곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_lower"  >짧은얼굴곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_ltt"  >
+         <color r="255" g="248" b="178">
+            짧은얼굴곰
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a short-faced bear, the largest bear to have ever lived.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant"  >코끼리새</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_stt"  >코끼리새</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_lower"  >코끼리새</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_ltt"  >
+         <color r="255" g="248" b="178">
+            코끼리새
+         </color>
+         <br/>
+         
+         
+         Click to select and then place an elephant bird, a giant fruit-eating bird that laid the largest eggs in the animal kingdom.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck"  >파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_stt"  >파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_lower"  >파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_ltt"  >
+         <color r="255" g="248" b="178">
+            파란영양
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Bluebuck, a recently extinct relative of the sable antelope and roan antelope. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant"  >거대 낙타</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_stt"  >거대 낙타</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_lower"  >거대 낙타</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            거대 낙타
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a giant camel.  One of the world's largest camels, they are also known by the name Titanotylopus.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed"  >검치호</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_stt"  >검치호</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_lower"  >검치호</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_ltt"  >
+         <color r="255" g="248" b="178">
+            검치호
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a saber-toothed cat, a predatory cat known for its two giant saberlike incisors and bob-tail.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered"  >에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_stt"  >에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_lower"  >에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_ltt"  >
+         <color r="255" g="248" b="178">
+            에우클라도케로스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a bush-antlered deer, also known as eucladoceros.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus"  >데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_stt"  >데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_lower"  >데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_ltt"  >
+         <color r="255" g="248" b="178">
+            데이노니쿠스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a deinonychus, a swift, agile, carnivorous dinosaur.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus"  >데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_stt"  >데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_lower"  >데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_ltt"  >
+         <color r="255" g="248" b="178">
+            데이노수쿠스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a deinosuchus, the world's largest known alligator.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon"  >디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_stt"  >디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_lower"  >디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_ltt"  >
+         <color r="255" g="248" b="178">
+            디메트로돈
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a dimetrodon, an ancient reptile from before the time of the dinosaurs.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon"  >디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_stt"  >디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_lower"  >디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_ltt"  >
+         <color r="255" g="248" b="178">
+            디프로토돈
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Diprotodon, the largest marsupial to have ever lived.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo"  >도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_stt"  >도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_lower"  >도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_ltt"  >
+         <color r="255" g="248" b="178">
+            도도새
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a dodo, a peaceful frugivore that lived without fear of predators.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus"  >도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_stt"  >도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_lower"  >도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_ltt"  >
+         <color r="255" g="248" b="178">
+            도에디쿠루스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Doedicurus, a giant relative of the armadillo with a spiked clublike tail.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian"  >난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_stt"  >난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_lower"  >난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_ltt"  >
+         <color r="255" g="248" b="178">
+            난쟁이코끼리
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a dwarf Sicilian elephant, one of the smallest elephants.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus"  >기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_stt"  >기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_lower"  >기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_ltt"  >
+         <color r="255" g="248" b="178">
+            기간토피테쿠스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Gigantopithecus, the largest ape that ever lived.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus"  >켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_stt"  >켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_lower"  >켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            켄트로사우루스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a kentrosaurus, a stegosaur known for their many of spikes.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave"  >동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_stt"  >동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_lower"  >동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_ltt"  >
+         <color r="255" g="248" b="178">
+            동굴사자
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a cave lion, the largest predatory cat that ever existed.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican"  >마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_stt"  >마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_lower"  >마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_ltt"  >
+         <color r="255" g="248" b="178">
+            마스토돈
+         </color>
+         <br/>
+         
+         
+         Click to select and then place an American mastodon, a large boreal herbivore.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx"  >프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_stt"  >프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_lower"  >프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_ltt"  >
+         <color r="255" g="248" b="178">
+            프로트아르케옵테릭스
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a protarchaeopteryx, the first feathered dinosaur discovered.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly"  >털코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_stt"  >털코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_lower"  >털코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_ltt"  >
+         <color r="255" g="248" b="178">
+            털코뿔소
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a woolly rhinoceros, an ancient relative of the Sumatran rhino.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium"  >시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_stt"  >시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_lower"  >시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_ltt"  >
+         <color r="255" g="248" b="178">
+            시바테리움
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Sivatherium, an extinct member of the family Giraffidae with close family ties to the okapi.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant"  >메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_stt"  >메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_lower"  >메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            메가테리움
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a giant ground sloth, a giant bipedal omnivore related to the modern ground sloth.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus"  >스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_stt"  >스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_lower"  >스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            스테고사우루스
+         </color>
+         <br/>
+         
+         
+         Click to select, and then place a Stegosaurus, a dinosaur that used its bony plates to control its body temperature.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus"  >스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_stt"  >스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_lower"  >스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            스토케소사우루스
+         </color>
+         <br/>
+         
+         
+         Click to select, and then place a Stokesosaurus, a small tyrannosaur from the Jurassic Period.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine"  >태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_stt"  >태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_lower"  >태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_ltt"  >
+         <color r="255" g="248" b="178">
+            태즈메이니아주머니늑대
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a thylacine, a marsupial predator with the widest gape of any animal.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor"  >유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_stt"  >유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_lower"  >유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_ltt"  >
+         <color r="255" g="248" b="178">
+            유타랍토르
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a utahraptor, a large carnivorous dinosaur that walked upright on its hind legs.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor"  >벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_stt"  >벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_lower"  >벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_ltt"  >
+         <color r="255" g="248" b="178">
+            벨로키랍토르
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a Velociraptor, a small, feathered raptor from the Cretaceous period.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah"  >포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_stt"  >포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_lower"  >포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_ltt"  >
+         <color r="255" g="248" b="178">
+            포클랜드늑대
+         </color>
+         <br/>
+         
+         
+         Click to select, and then place a Warrah, the only canid known to become extinct in modern historical times.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant"  >거대 흑멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_stt"  >거대 흑멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_lower"  >거대 흑멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            거대 흑멧돼지
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a giant warthog, one of the largest warthogs to have ever existed.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga"  >콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_stt"  >콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_lower"  >콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_ltt"  >
+         <color r="255" g="248" b="178">
+            콰가
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a quagga, a relative of the modern zebra.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller"  >킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_stt"  >킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_lower"  >킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_ltt"  >
+         <color r="255" g="248" b="178">
+            킬러펭귄
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a killer penguin. Careful, they can be dangerous to other animals!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare"  >날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_stt"  >날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_lower"  >날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_ltt"  >
+         <color r="255" g="248" b="178">
+            날쥐
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a spring hare.  Careful, it's water soluble!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel"  >다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_stt"  >다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_lower"  >다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_ltt"  >
+         <color r="255" g="248" b="178">
+            다람쥐
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a squirrel.  Careful, it's water soluble!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant"  >거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_stt"  >거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_lower"  >거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            거대 황소개구리
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a giant bullfrog.  Careful, it's water soluble!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant"  >거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_stt"  >거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_lower"  >거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            거대 왕나비
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a giant monarch butterfly.  Careful, it's water soluble!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant"  >코끼리새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_stt"  >코끼리새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_lower"  >코끼리새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_ltt"  >
+         <color r="255" g="248" b="178">
+            코끼리새 똥
+         </color>
+         <br/>
+         Click to select and then place elephant bird poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick"  >코끼리새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_stt"  >코끼리새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_lower"  >코끼리새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            코끼리새 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place elephant bird poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon"  >디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_stt"  >디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_lower"  >디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_ltt"  >
+         <color r="255" g="248" b="178">
+            디프로토돈 똥
+         </color>
+         <br/>
+         Click to select and then place diprotodon poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick"  >디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_stt"  >디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_lower"  >디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            디프로토돈 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place diprotodon poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo"  >도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_stt"  >도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_lower"  >도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_ltt"  >
+         <color r="255" g="248" b="178">
+            도도새 똥
+         </color>
+         <br/>
+         Click to select and then place dodo poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick"  >도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_stt"  >도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_lower"  >도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            도도새 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place dodo poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus"  >도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_stt"  >도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_lower"  >도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_ltt"  >
+         <color r="255" g="248" b="178">
+            도에디쿠루스 똥
+         </color>
+         <br/>
+         Click to select and then place doedicurus poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick"  >도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_stt"  >도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_lower"  >도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            도에디쿠루스 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place doedicurus poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant"  >메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_stt"  >메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_lower"  >메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            메가테리움 똥
+         </color>
+         <br/>
+         Click to select and then place giant ground sloth poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick"  >메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_stt"  >메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_lower"  >메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            메가테리움 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place giant ground sloth poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift"  >Ankylosaurus Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_stt"  >Ankylosaurus hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_lower"  >the ankylosaurus hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Ankylosaurus Hat
+         </color>
+         <br/>
+         Guests who enjoy watching the ankylosaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift"  >Aurochs Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_stt"  >Aurochs hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_lower"  >the aurochs hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Aurochs Hat
+         </color>
+         <br/>
+         Guests who enjoy watching the aurochs will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift"  >Short-faced Bear Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_stt"  >Short-faced bear hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_lower"  >the short-faced bear hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Short-faced Bear Hip Pack
+         </color>
+         <br/>
+         Guests who enjoy watching the short-faced bear will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift"  >Elephant Bird Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_stt"  >Elephant bird hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_lower"  >the elephant bird hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Elephant Bird Hat
+         </color>
+         <br/>
+         Guests who enjoy watching the elephant bird will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift"  >Bluebuck Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_stt"  >Bluebuck shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_lower"  >the Bluebuck shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Bluebuck Shirt
+         </color>
+         <br/>
+         Guests who enjoy watching the Bluebuck will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift"  >Giant Camel Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_stt"  >Giant camel backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_lower"  >the giant camel backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Giant Camel Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the giant camel will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift"  >Saber-Toothed Cat Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_stt"  >Saber-toothed cat puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_lower"  >the saber-toothed cat puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Saber-Toothed Cat Puppet
+         </color>
+         <br/>
+         Guests who enjoy watching the saber-toothed cat will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift"  >Bush-Antlered Deer Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_stt"  >Bush-antlered deer hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_lower"  >the bush-antlered deer hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Bush-Antlered Deer Hat
+         </color>
+         <br/>
+         Guests who enjoy watching the bush-antlered deer will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift"  >Deinonychus Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_stt"  >Deinonychus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_lower"  >the deinonychus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Deinonychus Shirt
+         </color>
+         <br/>
+         Guests who enjoy watching the deinonychus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift"  >Deinosuchus Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_stt"  >Deinosuchus stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_lower"  >the deinosuchus stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Deinosuchus Stuffed Animal
+         </color>
+         <br/>
+         Guests who enjoy watching the deinosuchus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift"  >Dimetrodon Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_stt"  >Dimetrodon backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_lower"  >the dimetrodon backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Dimetrodon Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the dimetrodon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift"  >Diprotodon Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_stt"  >Diprotodon backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_lower"  >the Diprotodon backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Diprotodon Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the Diprotodon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift"  >Dodo Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_stt"  >Dodo stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_lower"  >the dodo stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Dodo Stuffed Animal
+         </color>
+         <br/>
+         Guests who enjoy watching the dodo will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift"  >Doedicurus Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_stt"  >Doedicurus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_lower"  >the Doedicurus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Doedicurus Shirt
+         </color>
+         <br/>
+         Guests who enjoy watching the Doedicurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift"  >Dwarf Sicilian Elephant Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_stt"  >dwarf Sicilian elephant shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_lower"  >the dwarf Sicilian elephant shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Dwarf Sicilian Elephant Shirt
+         </color>
+         <br/>
+         Guests who enjoy watching the dwarf Sicilian elephant will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift"  >Gigantopithecus Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_stt"  >Gigantopithecus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_lower"  >the Gigantopithecus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Gigantopithecus Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the Gigantopithecus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift"  >Kentrosaurus Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_stt"  >Kentrosaurus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_lower"  >the kentrosaurus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Kentrosaurus Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the kentrosaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift"  >Cave Lion Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_stt"  >Cave lion hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_lower"  >the cave lion hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Cave Lion Hip Pack
+         </color>
+         <br/>
+         Guests who enjoy watching the cave lion will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift"  >American Mastodon Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_stt"  >American mastodon stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_lower"  >the American mastodon stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            American Mastodon Stuffed Animal
+         </color>
+         <br/>
+         Guests who enjoy watching the American mastodon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift"  >Protarchaeopteryx Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_stt"  >Protarchaeopteryx hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_lower"  >the protarchaeopteryx hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Protarchaeopteryx Hip Pack
+         </color>
+         <br/>
+         Guests who enjoy watching the protarchaeopteryx will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift"  >Woolly Rhinoceros Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_stt"  >Woolly rhinoceros hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_lower"  >the woolly rhinoceros hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Woolly Rhinoceros Hat
+         </color>
+         <br/>
+         Guests who enjoy watching the woolly rhinoceros will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift"  >Sivatherium Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_stt"  >Sivatherium backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_lower"  >the Sivatherium backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Sivatherium Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the Sivatherium will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift"  >Giant Ground Sloth Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_stt"  >Giant ground sloth stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_lower"  >the giant ground sloth stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Giant Ground Sloth Stuffed Animal
+         </color>
+         <br/>
+         Guests who enjoy watching the giant ground sloth will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift"  >Stegosaurus Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_stt"  >Stegosaurus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_lower"  >the stegosaurus backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Stegosaurus Backpack
+         </color>
+         <br/>
+         Guests who enjoy watching the stegosaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift"  >Stokesosaurus Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_stt"  >Stokesosaurus puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_lower"  >the stokesosaurus puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Stokesosaurus Puppet
+         </color>
+         <br/>
+         Guests who enjoy watching the stokesosaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift"  >Thylacine Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_stt"  >Thylacine puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_lower"  >the thylacine puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Thylacine Puppet
+         </color>
+         <br/>
+         Guests who enjoy watching the thylacine will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift"  >Utahraptor Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_stt"  >Utahraptor puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_lower"  >the utahraptor puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Utahraptor Puppet
+         </color>
+         <br/>
+         Guests who enjoy watching the utahraptor will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift"  >Velociraptor Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_stt"  >Velociraptor stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_lower"  >the Velociraptor stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Velociraptor Stuffed Animal
+         </color>
+         <br/>
+         Guests who enjoy watching the Velociraptor will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift"  >Warrah Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_stt"  >Warrah hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_lower"  >the Warrah hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Warrah Hip Pack
+         </color>
+         <br/>
+         Guests who enjoy watching the Warrah will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift"  >Giant Warthog Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_stt"  >Giant warthog puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_lower"  >the giant warthog puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Giant Warthog Puppet
+         </color>
+         <br/>
+         Guests who enjoy watching the giant warthog will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest"  >안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_stt"  >안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_lower"  >안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            안킬로사우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a ankylosaurus nest, where ankylosaurs lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest"  >데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_stt"  >데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_lower"  >데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            데이노니쿠스 둥지
+         </color>
+         <br/>
+         Click to select and then place a deinonychus nest, where deinonychus lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest"  >켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_stt"  >켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_lower"  >켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            켄트로사우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a kentrosaurus nest, where kentrosaurs lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest"  >스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_stt"  >스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_lower"  >스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            스테고사우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a stegosaurus nest, where stegosaurs lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest"  >스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_stt"  >스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_lower"  >스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            스토케소사우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a stokesosaurus nest, where stokesosaurs lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest"  >유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_stt"  >유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_lower"  >유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_ltt"  >
+         <color r="255" g="248" b="178">
+            유타랍토르 둥지
+         </color>
+         <br/>
+         Click to select and then place a utahraptor nest, where utahraptors lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest"  >벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_stt"  >벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_lower"  >벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_ltt"  >
+         <color r="255" g="248" b="178">
+            벨로키랍토르 둥지
+         </color>
+         <br/>
+         Click to select and then place a Velociraptor nest, where Velociraptors lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots"  >Roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_stt"  >Roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_lower"  >the roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_ltt"  >
+         <color r="255" g="248" b="178">
+            Roots
+         </color>
+         <br/>
+         
+         
+         Click to select and then place roots, which are popular as a food source and a nesting material.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots"  >Food Dish with Roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_stt"  >Food dish with roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_lower"  >the food dish</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_ltt"  >
+         <color r="255" g="248" b="178">
+            Food Dish with Roots
+         </color>
+         <br/>
+         
+         
+          Click to select, and then place the food dish with roots. Because it's small, food dishes need to be refilled often.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots"  >Food Trough with Roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_stt"  >Food trough with roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_lower"  >the food trough</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_ltt"  >
+         <color r="255" g="248" b="178">
+            Food Trough with Roots
+         </color>
+         <br/>
+         
+         
+         Click to select and then place the food trough with roots. A food trough can accommodate up to six small animals at a time.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots"  >Substrate Pile with Roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_stt"  >Substrate pile with roots</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_lower"  >the substrate pile</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_ltt"  >
+         <color r="255" g="248" b="178">
+            Substrate Pile with Roots
+         </color>
+         <br/>
+         
+         Click to select and then place a pile of forest bark and other organic materials mixed with roots.
+.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct"  >검치호 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_stt"  >검치호 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_lower"  >검치호 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_ltt"  >
+         <color r="255" g="248" b="178">
+            검치호 엔터테이너
+         </color>
+         <br/>
+         
+         
+          Click to hire the saber-toothed cat entertainer, a clever performer who entertains guests with small shows at stages.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur"  >공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_stt"  >공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_lower"  >공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 엔터테이너
+         </color>
+         <br/>
+         
+         
+          Click to hire the dinosaur entertainer. Entertainers perform small shows at stages to entertain guests.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist"  >고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_stt"  >고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_lower"  >고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_ltt"  >
+         <color r="255" g="248" b="178">
+            고생물학자
+         </color>
+         <br/>
+         
+         
+          Click to hire the paleontologist, who will help your zoo by finding fossils and educating your guests about extinct animal fossils.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam"  >공룡 생포 팀 요원</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_stt"  >공룡 생포 팀 요원t</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_lower"  >공룡 생포 팀 요원</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 요원
+         </color>
+         <br/>
+         
+         
+          Click to hire the dino capture team agent, who will work as a group with other agents to recover dinosaurs that have escaped their exhibits.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot"  >공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_stt"  >공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_lower"  >공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 로봇
+         </color>
+         <br/>
+         
+         
+          Click to hire the dino capture team robot, used by dino capture team agents as a decoy when dealing with dangerous dinosaurs.  Made from organic materials safe for dinosaur consumption.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit"  >Play Dig Pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_stt"  >Play dig pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_lower"  >the play dig pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_ltt"  >
+         <color r="255" g="248" b="178">
+            Play Dig Pit
+         </color>
+         <br/>
+         
+         Click to select and then place the play dig pit.  Guests get a chance to learn while digging in the dirt.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter"  >Extinct Education Center</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_stt"  >Extinct Education Center</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_lower"  >the Extinct Education Center</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Education Center
+         </color>
+         <br/>
+         
+         Click to select and then place the Extinct Education Center. Educators and paleontologists lecture here and guests help build extinct statues from bones they find at the play dig pit.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk"  >Irish Elk Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_stt"  >Irish elk statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_lower"  >the Irish elk statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_ltt"  >
+         <color r="255" g="248" b="178">
+            Irish Elk Statue
+         </color>
+         <br/>
+         Click to select and then place an Irish elk statue. Guests appreciate the beauty of a well-placed statue, especially one they helped create.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth"  >Imperial Mammoth Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_stt"  >Imperial mammoth statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_lower"  >the imperial mammoth statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_ltt"  >
+         <color r="255" g="248" b="178">
+            Imperial Mammoth Statue
+         </color>
+         <br/>
+         Click to select and then place an imperial mammoth statue. Guests appreciate the beauty of a well-placed statue, especially one they helped create.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex"  >Tyrannosaurus rex Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_stt"  >Tyrannosaurus rex statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_lower"  >the Tyrannosaurus rex statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_ltt"  >
+         <color r="255" g="248" b="178">
+            Tyrannosaurus rex Statue
+         </color>
+         <br/>
+         Click to select and then place a Tyrannosaurus rex statue. Guests appreciate the beauty of a well-placed statue, especially one they helped create.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon"  >Pteranodon Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_stt"  >Pteranodon statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_lower"  >the pteranodon statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_ltt"  >
+         <color r="255" g="248" b="178">
+            Imperial Pteranodon Statue
+         </color>
+         <br/>
+         Click to select and then place a pteranodon statue. Guests appreciate the beauty of a well-placed statue, especially one they helped create.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural"  >Size Comparison Mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_stt"  >Size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_lower"  >the size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_ltt"  >
+         <color r="255" g="248" b="178">
+            Size Comparison Mural
+         </color>
+         <br/>
+         
+         Click to select and then place the size comparison mural.  Guests are amused and educated by comparing their size to the size of these extinct animals.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt"  >Family Restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_stt"  >Family restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_lower"  >the family restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Family Restroom
+         </color>
+         <br/>
+         
+         Click to select and then place the family restroom. They cost more than small restrooms, but accommodate up to six guests.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt"  >Small Restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_stt"  >Small restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_lower"  >the small restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Small Restroom
+         </color>
+         <br/>
+         
+         Click to select and then place the small restroom, which accommodates one guest at a time.
+  
+     </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt"  >Fruit Cup Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_stt"  >Fruit cup cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_lower"  >the fruit cup cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Fruit Cup Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the fruit cup cart. Many guests enjoy fruit as a healthy snack.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt"  >Ice Cream Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_stt"  >Ice cream cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_lower"  >the ice cream cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Ice Cream Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the ice cream cart, a big favorite with young zoo guests.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt"  >Pretzel Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_stt"  >Pretzel cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_lower"  >the pretzel cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Pretzel Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the pretzel cart. Pretzels may make guests thirsty.   
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt"  >Cotton Candy Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_stt"  >Cotton candy cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_lower"  >the cotton candy cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Cotton Candy Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the cotton candy cart. Cotton candy is a classic kids' treat.
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt"  >Cheesecake Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_stt"  >Cheesecake cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_lower"  >the cheesecake cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Cheesecake Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the cheesecake cart. Adult guests love cheesecake for dessert.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt"  >Popcorn Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_stt"  >Popcorn cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_lower"  >the popcorn cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Popcorn Cart
+         </color>
+         <br/>
+         
+         Click to select and then place the popcorn cart. Popcorn is a filling snack that may make guests thirsty.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt"  >Coffee Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_stt"  >Coffee drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_lower"  >the coffee drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Coffee Drink Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the coffee drink stand. Adult guests love the caffeine jolt, and some younger guests are willing to try it, too.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt"  >Shish Kebab Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_stt"  >Shish kebab food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_lower"  >the shish kebab food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Shish Kebab Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the shish kebab food stand, which offers protein-rich food at a reasonable price.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt"  >Hot Dog Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_stt"  >Hot dog food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_lower"  >the hot dog food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Hot Dog Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the hot dog food stand. Especially popular with kids, hot dogs are a classic American food.
+            
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt"  >Hamburger Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_stt"  >Hamburger food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_lower"  >the hamburger food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Hamburger Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the hamburger food stand. Hamburgers are reasonably priced and reasonably filling.     
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt"  >Salad Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_stt"  >Salad food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_lower"  >the salad food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Salad Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the salad food stand. Kids usually don't like salads, but adults love them.
+            
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt"  >Soda Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_stt"  >Soda drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_lower"  >the soda drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Soda Drink Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the soda drink stand. Sodas are the most popular drink among most zoo guests. 
+           
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt"  >Sub Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_stt"  >Sub food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_lower"  >the sub food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Sub Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the sub food stand. Subs are meat-filled sandwiches that are commonly devoured for lunch.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt"  >Sushi Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_stt"  >Sushi food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_lower"  >the sushi food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Sushi Food Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the sushi food stand. An expensive food choice, sushi is more popular with adults than kids.
+           
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt"  >Water Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_stt"  >Water drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_lower"  >the water drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Water Drink Stand
+         </color>
+         <br/>
+         
+         Click to select and then place the water drink stand. Water satisfies your guests' most basic thirst needs.  
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt"  >Extinct Gift Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_stt"  >Extinct Gift Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_lower"  >the Extinct gift cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Gift Cart
+         </color>
+         <br/>
+         
+         
+         Click to select and then place an Extinct gift cart, where guests can buy extinct animal souvenirs.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter"  >멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_stt"  >멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_lower"  >멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 동물 연구소
+         </color>
+         <br/>
+         
+         The Extinct Research Lab is the home base for extinct animals. You find fossils, assemble them, create extinct animals, and cure diseases here.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall"  >Cave Painting Hall</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_stt"  >Cave Painting Hall</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_lower"  >the Cave Painting Hall</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_ltt"  >
+         <color r="255" g="248" b="178">
+            Cave Painting Hall
+         </color>
+         <br/>
+         
+         Click to select and then place the Cave Painting Hall, where guests see how animals were depicted thousands of years ago.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer"  >엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_stt"  >엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_lower"  >엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_ltt"  >
+         <color r="255" g="248" b="178">
+            엔터테이너 무대
+         </color>
+         <br/>
+         
+         Click to select and then place the entertainer stage, where your costumed staff members delight and amuse guests.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding"  >공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_stt"  >공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_lower"  >공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 벙커
+         </color>
+         <br/>
+         
+         Click to select and then place the Dino Capture Team bunker.  Topped with a decorative statue to keep it hidden from view, this building houses your elite dino-catching squad.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker"  >화석 발굴지</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_stt"  >화석 발굴지</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_lower"  >화석 발굴지</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_ltt"  >
+         <color r="255" g="248" b="178">
+            화석 발굴지
+         </color>
+         <br/>
+         
+         Click to select and then place the Flagged Fossil Site.  This dig site could contain extinct fossils!
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock"  >도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_stt"  >도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_lower"  >도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_ltt"  >
+         <color r="255" g="248" b="178">
+            도도새 돌
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a dodo rock, a rock that aids the dodo in digesting food.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny"  >난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_stt"  >난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_lower"  >난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_ltt"  >
+         <color r="255" g="248" b="178">
+            난쟁이코끼리 통나무
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a tiny elephant log, an enrichment item designed just for your dwarf Sicilian elephant.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier"  >빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_stt"  >빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_lower"  >빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_ltt"  >
+         <color r="255" g="248" b="178">
+            빙하
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a glacier. It pleases tundra, boreal, and alpine animals by making an exhibit colder.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall"  >안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_stt"  >안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_lower"  >안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_ltt"  >
+         <color r="255" g="248" b="178">
+            안개가 자욱한 샘
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a misty spring. It pleases your grassland, wetlands and tropical rainforest animals by making an exhibit warmer and more humid.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit"  >타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_stt"  >타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_lower"  >타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_ltt"  >
+         <color r="255" g="248" b="178">
+            타르 구덩이
+         </color>
+         <br/>
+         
+         
+         Click to select and then place a tar pit. It pleases your desert, scrub and savannah animals by making an exhibit hotter.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large"  >대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_stt"  >대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_lower"  >대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 초원 굴
+         </color>
+         <br/>
+         Click to select and then place a grasslands large burrow, which the Warrah and other grassland animals use for shelter.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter"  >바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_stt"  >바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_lower"  >바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 은신처
+         </color>
+         <br/>
+         Click to select and then place a rock shelter, a very large shelter for very large animals.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine"  >에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_stt"  >에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_lower"  >에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_ltt"  >
+		   <color r="255" g="248" b="178">
+		      에델바이스
+		   </color>
+		   <br/>
+		         Click to select and then place an edelweiss, a flower native to the Europe's alpine regions.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine"  >칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_stt"  >칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_lower"  >칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_ltt"  >
+		   <color r="255" g="248" b="178">
+		      칠레소나무
+		   </color>
+		   <br/>
+		         Click to select and then place a monkey puzzle tree, a large evergreen tree with razor-sharp leaves, often referred to as a living fossil.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine"  >포아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_stt"  >포아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_lower"  >포아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_ltt"  >
+		   <color r="255" g="248" b="178">
+		      포아풀
+		   </color>
+		   <br/>
+		         Click to select and then place speargrass, an evergreen perennial with scented flowers native to New Zealand.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert"  >용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_stt"  >용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_lower"  >용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_ltt"  >
+		   <color r="255" g="248" b="178">
+		      용설란선인장
+		   </color>
+		   <br/>
+		         Click to select and then place an agave cactus. Animals from the desert enjoy the agave cactus.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert"  >알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_stt"  >알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_lower"  >알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_ltt"  >
+		   <color r="255" g="248" b="178">
+		      알로에 베라
+		   </color>
+		   <br/>
+		         Click to select and then place an aloe vera, a stemless desert plant with fleshy, serrated leaves and known for its use in herbal medicines.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert"  >사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_stt"  >사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_lower"  >사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_ltt"  >
+		   <color r="255" g="248" b="178">
+		      사와로선인장
+		   </color>
+		   <br/>
+		         Click to select and then place a saguaro cactus, a slow-growing endangered cactus native to Central and North America.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland"  >네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_stt"  >네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_lower"  >네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_ltt"  >
+		   <color r="255" g="248" b="178">
+		      네군도단풍나무
+		   </color>
+		   <br/>
+		         Click to select and then place a boxelder, a maple tree native to North America.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland"  >데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_stt"  >데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_lower"  >데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_ltt"  >
+		   <color r="255" g="248" b="178">
+		      데이지 꽃
+		   </color>
+		   <br/>
+		         Click to select and then place daisies, a flower native to Europe and common to North America.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland"  >키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_stt"  >키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_lower"  >키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_ltt"  >
+		   <color r="255" g="248" b="178">
+		      키 큰 미역취
+		   </color>
+		   <br/>
+		         Click to select and then place a tall goldenrod. Common to North America, it grows in woods and meadows, on hills, and even in rocky habitats.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra"  >난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_stt"  >난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_lower"  >난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_ltt"  >
+		   <color r="255" g="248" b="178">
+		      난쟁이 진달래
+		   </color>
+		   <br/>
+		         Click to select and then place a dwarf azalea, a hardy plant known for its many clusters of small flowers.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt"  >Extinct Bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_stt"  >Extinct bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_lower"  >the Extinct bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_ltt"  >
+		   <color r="255" g="248" b="178">
+		      Extinct Bench
+		   </color>
+		   <br/>
+		         Click to select and then place an extinct-themed bench. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt"  >Extinct Donation Box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_stt"  >Extinct donation box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_lower"  >the Extinct donation box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_ltt"  >
+		   <color r="255" g="248" b="178">
+		            Extinct Donation Box
+		   </color>
+		   <br/>
+		   Click to select and then place an extinct-themed donation box. Guests won't donate money if they can't find a donation box, so place them all over your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt"  >Extinct Umbrella Table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_stt"  >Extinct umbrella table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_lower"  >the Extinct umbrella table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_ltt"  >
+		   <color r="255" g="248" b="178">
+		      Extinct Umbrella Table
+		   </color>
+		   <br/>
+		         Click to select and then place an extinct-themed umbrella table, which provides guests with a shaded place to rest and eat.      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt"  >Extinct Viewing Canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_stt"  >Extinct viewing canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_lower"  >the Extinct viewing canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Viewing Canopy
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed viewing canopy, which allows guests to view animals in shaded comfort.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt"  >Extinct Lamp Post</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_stt"  >Extinct lamp post</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_lower"  >the Extinct lamp post</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_ltt"  >
+		   <color r="255" g="248" b="178">
+		      Extinct Lamp Post
+		   </color>
+		   <br/>
+		         Click to select and then place an extinct-themed lamp post. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt"  >Extinct Trash Can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_stt"  >Extinct trash can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_lower"  >the Extinct trash can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Trash Can
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed trash can. Trash cans should be placed all over your zoo so that guests can dispose of their garbage.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt"  >Extinct Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_stt"  >Extinct statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_lower"  >the Extinct statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Statue
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed statue. Guests appreciate the beauty of a well-placed statue.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt"  >Extinct Arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_stt"  >Extinct arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_lower"  >the Extinct arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Arch
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed arch, which can be an attractive addition to paths or entrances to themed areas in your zoo. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt"  >Extinct Decorative Tar Pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_stt"  >Extinct decorative tar pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_lower"  >the Extinct decorative tar pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Decorative Tar Pit
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed decorative tar pit. Guests appreciate the beauty of well-placed decorative items.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt"  >Extinct Music Rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_stt"  >Extinct music rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_lower"  >the Extinct music rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Music Rock
+         </color>
+         <br/>
+         Click to select and then place an extinct-themed music rock, which plays music from speakers hidden inside of it.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide"  >Brachiosaurus Slide</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_stt"  >Brachiosaurus slide</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_lower"  >the brachiosaurus slide</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_ltt"  >
+         <color r="255" g="248" b="178">
+            Brachiosaurus Slide
+         </color>
+         <br/>
+         Click to select and then place a brachiosaurus slide, an enormous slide your young guests can play on.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt"  >멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_stt"  >멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_lower"  >멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 테마 울타리
+         </color>
+         <br/>
+         Click to select and then place sections of Extinct fence. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt"  >낮은 멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_stt"  >낮은 멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_lower"  >낮은 멸종 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 멸종 테마 울타리
+         </color>
+         <br/>
+         Click to select and then place sections of low Extinct fence. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt"  >멸종 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_stt"  >멸종 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_lower"  >멸종 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 테마 창문 울타리
+         </color>
+         <br/>
+         Click to select and then place sections of Extinct window fence. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence"  >전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_stt"  >전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_lower"  >전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_ltt"  >
+         <color r="255" g="248" b="178">
+            전기 울타리
+         </color>
+         <br/>
+         Click to select and then place sections of electric fence. A weak fence with a small electric charge to discourage animals from escaping.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt"  >멸종 테마 보도</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_stt"  >Extinct path</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_lower"  >the extinct path</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_ltt"  >
+		         <color r="255" g="248" b="178">
+		            Extinct Path
+		         </color>
+		         <br/>
+		         Click to select and then place sections of extinct-themed path. Guests enjoy visiting themed areas in your zoo.     
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade"  >Traquilization Grenade</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_stt"  >Traquilization grenade</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_lower"  >the traquilization grenade</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_ltt"  >
+         <color r="255" g="248" b="178">
+            Traquilization Grenade
+         </color>
+         <br/>
+         This remote tranquilization device is used to make animals go to sleep.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble"  >Hotdog</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_stt"  >Hotdog</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_lower"  >the hotdog</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_ltt"  >
+         <color r="255" g="248" b="178">
+            Hotdog
+         </color>
+         <br/>
+         Remnants of a food stand, animals will enjoy playing with and eatting the hotdog.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood"  >Wood Fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_stt"  >Wood fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_lower"  >the wood fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            Wood Fragment
+         </color>
+         <br/>
+         Remnants of a wooden building, animals will enjoy playing with the rubble.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete"  >Concrete Fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_stt"  >Concrete fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_lower"  >the concrete fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_ltt"  >
+         <color r="255" g="248" b="178">
+            Concrete Fragment
+         </color>
+         <br/>
+         Remnants of a concrete building, animals will enjoy playing with the rubble.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete"  >Concrete Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_stt"  >Concrete rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_lower"  >the concrete rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_ltt"  >
+         <color r="255" g="248" b="178">
+            Concrete Rubble
+         </color>
+         <br/>
+         Remnants of a concrete building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df"  >Building Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_stt"  >Building rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_lower"  >the building rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_ltt"  >
+         <color r="255" g="248" b="178">
+            Building Rubble
+         </color>
+         <br/>
+         Remnants of a building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end"  >Endangered themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_stt"  >Endangered themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_lower"  >the endangered themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_ltt"  >
+         <color r="255" g="248" b="178">
+            Endangered Themed Rubble
+         </color>
+         <br/>
+         Remnants of a endangered themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et"  >Desert Themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_stt"  >Desert themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_lower"  >the desert themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_ltt"  >
+         <color r="255" g="248" b="178">
+            Desert Themed Rubble
+         </color>
+         <br/>
+         Remnants of a desert themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt"  >Jungle Themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_stt"  >Jungle themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_lower"  >the jungle themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_ltt"  >
+         <color r="255" g="248" b="178">
+            Jungle Themed Rubble
+         </color>
+         <br/>
+         Remnants of a jungle themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st"  >Safari Themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_stt"  >Safari themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_lower"  >the safari themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_ltt"  >
+         <color r="255" g="248" b="178">
+            Safari Themed Rubble
+         </color>
+         <br/>
+         Remnants of a safari themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt"  >Tundra Themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_stt"  >Tundra themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_lower"  >the tundra themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_ltt"  >
+         <color r="255" g="248" b="178">
+            Tundra Themed Rubble
+         </color>
+         <br/>
+         Remnants of a tundra themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood"  >Wood Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_stt"  >Wood rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_lower"  >the wood rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_ltt"  >
+         <color r="255" g="248" b="178">
+            Wood Rubble
+         </color>
+         <br/>
+         Remnants of a wood building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt"  >Extinct Themed Rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_stt"  >Extinct themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_lower"  >the extinct themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_ltt"  >
+         <color r="255" g="248" b="178">
+            Extinct Themed Rubble
+         </color>
+         <br/>
+         Remnants of an extinct themed building.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk"  >Destroyed Insect Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_stt"  >Destroyed insect kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_lower"  >the destroyed insect kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_ltt"  >
+         <color r="255" g="248" b="178">
+            Destroyed Insect Kiosk
+         </color>
+         <br/>
+         Pieces of a destroyed insect kiosk.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal"  >Destroyed Food Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_stt"  >Destroyed food cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_lower"  >the destroyed food cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_ltt"  >
+         <color r="255" g="248" b="178">
+            Destroyed Food Cart
+         </color>
+         <br/>
+         Remnants of a destroyed food cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk"  >Destroyed Reptile Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_stt"  >Destroyed reptile kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_lower"  >the destroyed reptile kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_ltt"  >
+         <color r="255" g="248" b="178">
+            Destroyed Reptile Kiosk
+         </color>
+         <br/>
+         Pieces of a destroyed reptile kiosk.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural"  >Destroyed Size Comparison Mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_stt"  >Destroyed size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_lower"  >the destroyed size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_ltt"  >
+         <color r="255" g="248" b="178">
+            Destroyed Size Comparison Mural
+         </color>
+         <br/>
+         Remnants of an destroyed size comparison mural.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:stump"  >Tree Stump</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_stt"  >Tree stump</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_lower"  >the tree stump</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_ltt"  >
+         <color r="255" g="248" b="178">
+            Tree Stump
+         </color>
+         <br/>
+         A stump left over from a destroyed tree.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump"  >Cactus Remains</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_stt"  >Cactus remains</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_lower"  >the cactus remains</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_ltt"  >
+         <color r="255" g="248" b="178">
+            Cactus Remains
+         </color>
+         <br/>
+         Remains of a destroyed cactus.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil"  >Dig Pit Bone</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_stt"  >Dig pit bone</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_lower"  >the dig pit bone</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_ltt"  >
+         <color r="255" g="248" b="178">
+            Dig Pit Bone
+         </color>
+         <br/>
+         Guests really like looking at the bone, their piece of a bigger puzzle.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub"  >Caveman Club</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_stt"  >Caveman club</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_lower"  >the caveman club</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_ltt"  >
+         <color r="255" g="248" b="178">
+            Caveman Club
+         </color>
+         <br/>
+         Guests who really liked the caveman buy this fun and safe replica of a club, made to the highest safety standards.
+	</LOC_STRING>
+</ZT2Strings>

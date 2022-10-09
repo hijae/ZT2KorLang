@@ -1,0 +1,78 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_glacier:entry"  >Glacier</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_glacier:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/Glacier/Glacier_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      The glacier is an enormous chunk of ice and compressed snow. Animals from the tundra, alpine, and boreal biomes are used to being around glaciers in the wild, as are many animals from the Ice Age! Place a glacier to help make them more comfortable when your zoo is a warm-climate biome.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tarpit:entry"  >Tar Pit</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tarpit:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/tarpit/tarpit_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+	The tar pit is a pool of bubbling hot asphalt. Animals from the desert, scrub, and savannah biomes sometimes encounter these in the wild. Place a tar pit to help make them more comfortable when your zoo is in a cold-climate biome.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mistywaterfall:entry"  >Misty Spring</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mistywaterfall:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/MistyWaterfall/MistyWaterfall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+	The misty spring is a gentle cascade of water that animals from the tropical rainforest, wetlands, and grassland biomes love. Place a misty spring to help make them more comfortable when your zoo is in a dry-climate biome.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dodorock:entry"  >Dodo Rock</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dodorock:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/DodoRock/DodoRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+	Like many birds today, the dodo swallowed bits of rock to help with digestion. Because the dodo was a fairly big bird, it actually swallowed small stones, instead of tiny bits of rock. Your zoo's dodos appreciate the fist-sized dodo rock.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantlogtiny:entry"  >Elephant Log, Tiny</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantlogtiny:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/ElephantLog_df/ElephantLog_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+	The tiny elephant log is perfect for the tiny dwarf Sicilian elephant. It likes to lift the log using its trunk and carry it around the exhibit.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

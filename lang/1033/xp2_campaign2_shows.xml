@@ -1,0 +1,392 @@
+﻿ <ZT2Strings>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerIntro"  >해양 공연 사진작가</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverviewShort"  >멋진 공연 사진을 찍으면서 해양 공연의 진수를 느껴보세요! 이 캠페인의 모든 시나리오를 마치면 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverview"  >해양 동물원인 바다나라에서 언론에 공개할 인기 해양 공연의 사진을 찍어 달라는 부탁을 했습니다. 멋진 공연 사진을 찍으려면 뛰어난 안목과 재빠른 순간 포착이 중요합니다. 하지만 너무 걱정하지 마세요. 멋진 장면을 놓쳤다면 다음 공연을 기다리면 되니까요!
+      <p/>
+      바다나라에서는 우선 태평양바다코끼리의 사진을 찍어 달라고 합니다. 다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  소리치기 묘기를 부리는 태평양바다코끼리 사진
+			<br/>
+			*  점프 묘기를 부리는 태평양바다코끼리 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Goals"  >
+      다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  소리치기 묘기를 부리는 태평양바다코끼리 사진 
+			<br/>
+			*  점프 묘기를 부리는 태평양바다코끼리 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1GoalsDone"  >첫 번째 해양 공연 사진들을 멋지게 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2"  >바다나라에서는 처음으로 찍은 해양 공연 사진에 크게 만족하고 있습니다! 다음에는 병코돌고래가 묘기를 부리는 장면을 찍어 달라고 합니다.
+      <p/>
+      다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  비틀기 묘기를 부리는 병코돌고래 사진
+			<br/>
+			*  후프 점프 묘기를 부리는 병코돌고래 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Goals"  >
+      다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  비틀기 묘기를 부리는 병코돌고래 사진
+			<br/>
+			*  후프 점프 묘기를 부리는 병코돌고래 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2GoalsDone"  >두 번째 해양 공연 사진들을 멋지게 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3"  >
+바다나라에서는 사진에 크게 만족하고 있습니다! 이번에는 캘리포니아바다사자의 사진을 찍어 달라고 합니다.
+      <p/>
+      다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  미끄럼틀 타기 묘기를 부리는 캘리포니아바다사자 사진
+			<br/>
+			*  나팔 연주하기 묘기를 부리는 캘리포니아바다사자 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Goals"  >
+      다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  미끄럼틀 타기 묘기를 부리는 캘리포니아바다사자 사진
+			<br/>
+			*  나팔 연주하기 묘기를 부리는 캘리포니아바다사자 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3GoalsDone"  >세 번째 해양 공연 사진들을 멋지게 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4"  >
+잘했습니다! 바다나라에서 마지막으로 한 번만 더 사진을 찍어 달라고 부탁했습니다. 이번에는 가장 인기가 높은 범고래입니다.
+      <p/>
+      시나리오를 마치려면 다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  점프 묘기를 부리는 범고래 사진
+			<br/>
+			*  머리 들기 묘기를 부리는 범고래 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Goals"  >
+      시나리오를 마치려면 다음 해양 공연 사진을 찍으세요:
+      <br/>
+			*  점프 묘기를 부리는 범고래 사진
+			<br/>
+			*  머리 들기 묘기를 부리는 범고래 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4GoalsDone"  >마지막 해양 공연 사진들을 멋지게 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerSuccessOverview"  >
+훌륭합니다! 바다나라에서 모든 사진이 멋지다며 크게 만족하고 있습니다. 지금까지 사진을 찍으면서 해양 공연에서 어떤 장면을 연출할 수 있는지 잘 보셨나요? 이제 직접 해양 공연을 연출해보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverallGoal"  >카메라로 해양 공연 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo1Goal"  >
+      소리치기 묘기를 부리는 태평양바다코끼리 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo1GoalDone"  >소리치기 묘기를 부리는 태평양바다코끼리 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo2Goal"  >
+      점프 묘기를 부리는 태평양바다코끼리 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo2GoalDone"  >점프 묘기를 부리는 태평양바다코끼리 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo1Goal"  >
+      비틀기 묘기를 부리는 병코돌고래 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo1GoalDone"  >비틀기 묘기를 부리는 병코돌고래 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo2Goal"  >
+      후프 점프 묘기를 부리는 병코돌고래 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo2GoalDone"  >후프 점프 묘기를 부리는 병코돌고래 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo1Goal"  >
+      미끄럼틀 타기 묘기를 부리는 캘리포니아바다사자 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo1GoalDone"  >미끄럼틀 타기 묘기를 부리는 캘리포니아바다사자 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo2Goal"  >
+      나팔 연주하기 묘기를 부리는 캘리포니아바다사자 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo2GoalDone"  >나팔 연주하기 묘기를 부리는 캘리포니아바다사자 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo1Goal"  >
+      점프 묘기를 부리는 범고래 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo1GoalDone"  >점프 묘기를 부리는 범고래 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo2Goal"  >
+      머리 들기 묘기를 부리는 범고래 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo2GoalDone"  >머리 들기 묘기를 부리는 범고래 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerAttendance"  >바다나라에서는 80명 이상의 관람객이 동물원을 방문하면 보너스로 $10,000를 지급하겠다고 약속했습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerAttendanceSuccess"  >80명 이상의 관람객이 방문했습니다! 보너스로 $10,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerAttendanceGoal"  >(선택 사항) 80명 이상의 관람객이 방문하면 보너스로 $10,000를 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerAttendanceGoalDone"  >80명 이상의 관람객이 방문했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerCriticalNeeds"  >공연에 참여하는 동물 중 한 마리의 생활 조건이 위험 상태가 되어 공연에서 빠지게 되었습니다. 공연 일정에 휴식을 늘려서 동물이 건강하고 행복한 상태를 유지할 수 있도록 해주세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowIntro"  >공연 되살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverviewShort"  >여러분은 따분하고 보잘 것 없는 해양 공연을 신나는 공연으로 꾸미는 임무를 받고 고용되었습니다. 과연 별 3개짜리 공연을 만들어 관람객들에게 짜릿한 경험을 안겨줄 수 있을까요? 이 캠페인의 모든 시나리오를 마치면 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverview"  >동물원에서는 최근에 진행한 공연인 "신기한 바다코끼리 왈도"의 결과에 크게 실망했습니다. 그래서 여러분을 고용해 신나는 공연으로 꾸며보려고 합니다.
+      <p/>
+		동물원 이사회는 여러분이 공연 명성을 별 3개까지 올려주길 바라고 있습니다. 이 조건과는 별도로 공연에 다른 동물을 추가하자는 제안도 했습니다. 여러분이 동물을 추가하고 공연 명성이 별 1개까지 오르면 $20,000를 지급하겠다고 합니다.
+		<p/>
+		공연에 참여하는 동물들이 행복하고 건강한 상태를 유지하도록 신경 쓰세요. 동물들을 잘 돌보지 않으면 시나리오를 마칠 수 없습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStars"  >
+      상황이 좋아지고 있습니다. 여러분의 노력으로 공연 명성이 별 1개까지 올랐습니다. 동물원 이사회에서는 장려금으로 $20,000를 지급했습니다. 공연 명성이 별 2개까지 오르면 $40,000를 더 지급하겠다고 약속했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStars"  >
+      여러분의 노력 덕분에 공연 명성이 별 2개까지 올랐습니다! 동물원 이사회는 약속대로 $40,000를 지급했습니다.
+      <p/>
+      동물원 이사회는 공연 명성이 한 단계 더 높아지기를 바라고 있습니다. 공연 명성을 별 3개까지 올리면 시나리오를 마치면서 해양 공연 분야에 이름을 떨칠 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverallGoal"  >시나리오를 마치려면 공연 명성을 별 3개까지 올리세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverallGoalDone"  >공연 명성을 별 3개까지 올렸습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOneStarGoal"  >공연 명성을 별 1개까지 올리고 $20,000를 받으세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOneStarGoalDone"  >공연 명성을 별 1개까지 올렸습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStarGoal"  >공연 명성을 별 2개까지 올리고 $40,000를 받으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStarGoalDone"  >공연 명성을 별 2개까지 올렸습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStarGoal"  >공연 명성을 별 3개까지 올리고 시나리오를 마치세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStarGoalDone"  >공연 명성을 별 3개까지 올려서 시나리오를 마쳤습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowSuccessOverview"  >
+      축하합니다! 여러분의 공연 명성이 별 3개까지 올랐습니다! 동물원 이사회는 공연을 되살린 열정에 큰 감명을 받았습니다. 해양 공연 분야에서 여러분의 미래는 밝아 보이는군요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhale"  >동물원 이사회는 여러분이 해양 공연 관련 기부금으로 $7,500를 모으면 들쇠고래를 기증하겠다고 약속했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleSuccess"  >동물원 이사회에서는 해양 공연 관련 기부금이 $7,500를 넘어서자 깊은 감명을 받았습니다! 약속대로 동물원 이사회는 들쇠고래를 기증했습니다. 들쇠고래는 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleGoal"  >(선택 사항) 공연 관련 기부금으로 $7,500를 모아서 들쇠고래를 기증받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleDone"  >공연 관련 기부금으로 $7,500를 모아서 들쇠고래를 기증받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorer"  >해저 탐험가 스테판 발레인 씨가 방금 동물원에 도착했다고 합니다! 발레인 씨가 해양 공연을 관람하고 있는 사진을 찍으면 이사회가 보너스로 $10,000를 지급한다고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerSuccess"  >세계적인 해저 탐험가 스테판 발레인 씨가 해양 공연을 관람하는 사진을 찍었습니다! 동물원 이사회는 큰 홍보 효과를 볼 수 있는 사진에 대한 보너스로 $10,000를 지급했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerGoal"  >(선택 사항) 스테판 발레인 씨가 해양 공연을 관람하는 사진을 찍고 $10,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerGoalDone"  >스테판 발레인 씨가 해양 공연을 관람하는 사진을 찍어 $10,000를 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerEntered"  >
+스테판 발레인 씨가 동물원에 왔습니다! 그가 해양 공연을 관람하는 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowFailureExplorer"  >
+해저 탐험가 스테판 발레인 씨가 해양 공연을 관람하는 사진을 찍기 전에 동물원을 떠나고 말았습니다. 보너스로 $10,000를 받을 기회를 놓쳤습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerName"  >스테판 발레인</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowCriticalNeeds"  >공연에 참여하는 동물 중 한 마리의 생활 조건이 위험 상태가 되어 공연에서 빠지게 되었습니다. 공연 일정에 휴식을 늘려서 동물들이 행복하고 건강한 상태를 유지할 수 있도록 해주세요.
+		<p/>
+		동물원 이사회로부터 엄중한 경고를 받았습니다. 다시 이런 일이 발생하면 시나리오에 실패하게 됩니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowCriticalNeedsFailure"  >또 다시 공연에 참여하는 동물 중 한 마리의 생활 조건이 위험 상태가 되어 공연에서 빠지는 상황이 벌어졌습니다. 이미 한 차례 경고를 받은 상황이기 때문에 동물원 이사회로부터 해고 통보를 받으면서 시나리오에 실패하고 말았습니다. 다음에는 공연에 참여하는 동물을 잘 돌보도록 하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowWalrusName"  >왈도</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureIntro"  >두 배의 재미</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverviewShort"  >멋진 해양 공연이 있는 동물원보다 더 멋진 건 무엇일까요? 바로 두 개의 멋진 공연이 펼쳐지는 동물원입니다! 이 캠페인의 모든 시나리오를 마치면 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverview"  >여러분은 두 개의 해양 공연을 동시에 진행하는 임무로 고용되었습니다. 이사회에서는 동물원에 있는 다양한 해양 동물들을 관람객들이 구경할 수 있도록 두 개의 공연을 만들어 달라고 부탁했습니다. 한 공연은 반드시 고래류(돌고래와 고래)가 참여해야 하며, 다른 공연은 기각류(물개, 캘리포니아바다사자, 태평양바다코끼리)가 참여해야 합니다.
+		<p/>
+		고래류 공연과 기각류 공연을 만들고, 각 공연을 150명의 관람객이 구경하면 시나리오를 마칠 수 있습니다!
+		<p/>
+		힌트: 들쇠고래 공연 같은 고래류 공연을 만들면 원하는 경우 범고래 같은 다른 동물로 바꿀 수 있습니다. 단, 고래류 공연에는 고래류 동물이, 기각류 공연에는 기각류 동물이 반드시 한 마리 이상 참여해야 합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetup"  >
+      고래류 동물이 등장하는 공연을 만들었습니다! 동물원 이사회는 $10,000의 장려금을 지급했습니다. 고래류 공연을 150명의 관람객이 구경하면 $15,000를 더 지급하겠다는 약속도 했습니다. 힌트: 한 마리 이상의 고래류 동물이 항상 공연에 참여해야 합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuests"  >
+      고래류 공연 관람객이 150명을 넘었습니다! 이사회로부터 장려금 $20,000를 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetup"  >
+      기각류 동물이 등장하는 공연을 만들었습니다! 동물원 이사회는 $15,000의 장려금을 지급했습니다. 기각류 공연을 150명의 관람객이 구경하면 $20,000를 더 지급하겠다는 약속도 했습니다. 힌트: 한 마리 이상의 기각류 동물이 항상 공연에 참여해야 합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuests"  >
+		기각류 공연 관람객이 150명을 넘었습니다! 이사회로부터 장려금 $20,000를 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverallGoal"  >각각 고래류 동물과 기각류 동물이 등장하는 두 개의 공연을 만들어 공연마다 150명의 관람객을 유치하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverallGoalDone"  >고래류 공연과 기각류 공연을 만들었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetupGoal"  >고래류 동물이 등장하는 공연을 만들어 $15,000를 받으세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetupGoalDone"  >고래류 동물이 등장하는 공연을 만들었습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuestGoal"  >고래류 공연에 150명의 관람객을 유치해 $20,000를 받으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuestGoalDone"  >고래류 공연을 구경한 관람객이 150명을 넘었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetupGoal"  >기각류 동물이 등장하는 공연을 만들어 $15,000를 받으세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetupGoalDone"  >기각류 동물이 등장하는 공연을 만들었습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuestGoal"  >기각류 공연에 150명의 관람객을 유치해 $20,000를 받으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuestGoalDone"  >기각류 공연을 구경한 관람객이 150명을 넘었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureSuccessOverview"  >
+      잘했습니다! 두 공연 모두 관람객이 150명을 넘었습니다. 두 가지 해양 동물 공연을 만드는 일을 훌륭하게 수행했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographer"  >세계적인 야생동물 사진작가 엘리너 씨가 방금 동물원에 도착했습니다! 다음 사진을 찍어서 $20,000를 받으세요.
+      <br/>
+			*  음식을 먹거나 음료수를 마시는 엘리너 씨 사진
+			<br/>
+			*  사진을 찍고 있는 엘리너 씨 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerSuccess"  >잘했습니다! 세계적인 야생동물 사진작가 엘리너 씨의 사진을 찍어 $20,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerGoal"  >(선택 사항) 다음 사진을 찍어 $20,000를 받으세요.
+      <br/>
+			*  음식을 먹거나 음료수를 마시는 엘리너 씨 사진
+			<br/>
+			*  사진을 찍고 있는 엘리너 씨 사진
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerGoalDone"  >세계적인 야생동물 사진작가 엘리너 씨의 사진을 찍어 $20,000를 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEntered"  >
+야생동물 사진작가 엘리너 씨가 동물원에 왔습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerFailure"  >
+야생동물 사진작가 엘리너 씨가 사진을 찍기 전에 동물원을 떠나고 말았습니다. 보너스로 $20,000를 받을 기회를 놓치고 말았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerName"  >엘리너</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEatingGoal"  >
+      음식을 먹거나 음료수를 마시는 엘리너 씨 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEatingGoalDone"  >
+      음식을 먹거나 음료수를 마시는 엘리너 씨 사진을 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerPhotographing"  >
+      사진을 찍고 있는 엘리너 씨 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerPhotographingDone"  >
+      사진을 찍고 있는 엘리너 씨 사진을 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanFailure"  >
+      공연에서 모든 고래류 동물을 빼버리는 실수를 저질러 동물원 이사회로부터 해고 통보를 받았습니다! 이사회에서는 자신들의 지시가 무시당했다는 사실에 충격을 받았습니다. 시나리오에 실패했습니다!       
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedFailure"  >
+      공연에서 모든 기각류 동물을 빼버리는 실수를 저질러 동물원 이사회로부터 해고 통보를 받았습니다! 이사회에서는 자신들의 지시가 무시당했다는 사실에 충격을 받았습니다. 시나리오에 실패했습니다!    
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCriticalNeeds"  >공연에 참여하는 동물 중 한 마리의 생활 조건이 위험 상태가 되어 공연에서 빠지게 되었습니다. 공연 일정에 휴식을 늘려서 공연에 참여하는 동물들이 행복하고 건강한 상태를 유지할 수 있도록 하세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksIntro"  >스타 키우기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverviewShort"  >철부지 꼬마 돌고래를 해양 공연 스타로 훈련시키세요! 이 캠페인의 모든 시나리오를 마치면 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverview"  >
+      동물원 입구에 새로 입양한 병코돌고래 투푸푸를 담은 상자가 도착했습니다! 여러분의 임무는 이 재주가 많은 돌고래를 해양 공연의 스타로 훈련시키는 것입니다. 
+		<p/>
+		첫 번째 목표는 투푸푸에게 기초적인 기술을 가르치는 것입니다. 다음 묘기를 점 3개까지 가르치세요.
+      <br/>
+			*  점프하기
+			<br/>
+			*  공 치기
+			<br/>
+			*  테더볼 치기
+		<p/>
+		물론 투푸푸를 잘 돌보는 일도 여러분의 몫입니다. 투푸푸를 행복하고 건강한 상태로 보살피세요. 그렇지 않으면 시나리오에 실패합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOne"  >
+      투푸푸가 점프하기 묘기를 점 3개까지 익혔습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwo"  >
+      투푸푸가 공 치기 묘기를 점 3개까지 익혔습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThree"  >
+      투푸푸가 테더볼 치기 묘기를 점 3개까지 익혔습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrick"  >
+		여러분이 인내심을 갖고 꾸준히 훈련시킨 덕분에 투푸푸가 3가지 기본 묘기를 익혔습니다! 이제 고난도 기술을 가르쳐 해양 공연의 스타로 키워야 합니다. 투푸푸가 묘기 중 하나를 점 5개까지 익혀서 다음 묘기를 가르칠 수 있게 되면 시나리오를 마치게 됩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverallGoal"  >투푸푸를 해양 공연의 스타로 키우세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverallGoalDone"  >여러분의 훈련 덕분에 이제 투푸푸는 스타가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksThreeTricksGoal"  >투푸푸에게 세 가지 묘기를 점 3개까지 가르치세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksThreeTricksGoalDone"  >투푸푸에게 세 가지 묘기를 점 3개까지 가르쳤습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOneGoal"  >투푸푸에게 점프 묘기를 점 3개까지 가르치세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOneGoalDone"  >투푸푸가 점프 묘기를 점 3개까지 익혔습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwoGoal"  >투푸푸에게 공 치기 묘기를 점 3개까지 가르치세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwoGoalDone"  >투푸푸가 공 치기 묘기를 점 3개까지 익혔습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThreeGoal"  >투푸푸의 테더볼 치기 묘기를 점 3개까지 가르치세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThreeGoalDone"  >투푸푸가 테더볼 치기 묘기를 점 3개까지 익혔습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrickGoal"  >투푸푸가 다음 묘기를 익힐 수 있도록 묘기 중 하나를 점 5개까지 가르쳐서 시나리오를 마치세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrickGoalDone"  >투푸푸가 묘기 중 하나를 점 5개까지 익혀서 다음 묘기를 가르칠 수 있게 되었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksSuccessOverview"  >
+      축하합니다! 투푸푸가 묘기 중 하나를 완벽하게 익히면서 해양 공연의 스타가 되는 길에 들어섰습니다! 투푸푸를 돌보면서 훈련까지 시키는 어려운 임무를 훌륭하게 수행했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendance"  >훈련을 장려하기 위해 동물원 이사회에서는 동물원 관람객이 100명을 넘으면 $20,000의 보너스를 지급하기로 결정했습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendanceSuccess"  >동물원 관람객이 100명을 넘었습니다! 약속대로 보너스 $20,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendanceGoal"  >(선택 사항) 동물원 관람객이 100명을 넘으면 보너스로 $20,000를 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendanceGoalDone"  >동물원 관람객이 100명을 넘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonations"  >공연 관람객 유치를 돕기 위해 동물원 이사회에서는 장려금을 지급하기로 결정했습니다. 공연 관련 기부금을 낸 관람객이 100명을 넘으면 보너스로 $20,000를 받을 수 있습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsSuccess"  >공연 관련 기부금을 낸 관람객이 100명을 넘었습니다! 약속대로 보너스 $20,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsGoal"  >(선택 사항) 공연 관련 기부금을 낸 관람객이 100명을 넘으면 보너스로 $20,000를 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsGoalDone"  >공연 관련 기부금을 낸 관람객이 100명을 넘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksCriticalNeeds"  >공연 중에 투푸푸의 생활 조건이 위험 상태가 되어 공연에서 빠지게 되었습니다. 휴식 횟수를 늘려서 투푸푸를 행복하고 건강한 상태로 보살펴주세요. 다시 한 번 이런 일이 생기면 시나리오에 실패하게 됩니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksCriticalNeedsFailure"  >또 다시 공연 중에 투푸푸의 생활 조건이 위험 상태가 되어 공연에서 빠졌습니다. 동물원 이사회는 투푸푸가 스타가 될 실력을 갖추긴 했지만 더 이상 여러분에게 투푸푸를 맡기지 않기로 결정하고 해고 통지를 했습니다. 다음에는 투푸푸를 좀 더 잘 보살피도록 하세요!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDolphinDeadFailure"  >투푸푸를 훈련시킬 수 없게 되어 해양 공연 스타로 키우려는 목표가 무산되고 말았습니다! 시나리오에 실패했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDolphinName"  >투푸푸</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowIntro"  >해양 공연의 제왕</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverviewShort"  >별 5개짜리 해양 공연을 만들어 최고의 공연 연출가가 되어 보세요! 이 캠페인의 모든 시나리오를 마치면 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverview"  >한 소형 동물원의 이사회에서 여러분의 화려한 해양 공연 연출 경력을 높이 샀습니다. 이사회는 여러분에게 동물원을 관리하면서 별 5개짜리 해양 공연을 만들어 달라는 주문을 했습니다. 동물원을 발전시키면서 멋진 해양 공연을 만들어보세요.
+      <p/>
+      한 가지 문제는 동물원 이사회가 충분한 초기 자금을 지원하지 못한다는 것입니다. 대신 공연 명성이 별 1개씩 오를 때마다 지원금을 지급하겠다고 합니다. 우선 공연 명성이 별 1개까지 오르면 $10,000를 지원하기로 약속했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStars"  >
+      여러분이 만든 공연 명성이 별 1개까지 올랐습니다! 동물원 이사회는 약속대로 $10,000의 지원금을 지급했습니다. 앞으로 공연 명성이 별 2개까지 오르면 $20,000를 더 지원하겠다고 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStars"  >
+      별 2개짜리 공연이 입소문을 타고 많은 사람들에게 알려지고 있습니다! 동물원 이사회는 만족을 표시하면서 약속대로 $20,000를 지급했습니다. 이사회에서는 공연이 더 향상되기를 바라고 있습니다. 공연 명성이 별 3개까지 오르면 $40,000를 지원하기로 약속했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStars"  >
+      공연 명성이 별 3개까지 올라서 전국에서 수백 명의 관람객이 몰려들고 있습니다. 동물원 이사회는 크게 기뻐하면서 $40,000를 지급했습니다. 공연 명성이 별 4개까지 오르면 $60,000를 지원하겠다고 합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFiveStars"  >
+      공연 명성이 계속 올라서 우수 공연으로 인정되는 별 4개가 되었습니다! 동물원 이사회는 약속대로 $60,000를 지급했습니다. 이 자금을 이용해서 최고 수준의 공연인 별 5개짜리 공연을 만드세요! 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowSuccessOverview"  >
+      별 5개짜리 환상의 공연이 탄생했습니다! 덕분에 공연과 동물원 모두 엄청난 성공을 거두게 되었습니다. 무엇보다 가장 의미 있는 것은 전 세계 사람들에게 놀라운 능력을 지닌 해양 동물을 이해할 수 있는 기회를 제공하고 있다는 점입니다.
+      <p/>
+이 캠페인을 마쳐서 그늘 지붕이 달린 고급 무대를 사용할 수 있게 되었습니다. 이제 Zoo Tycoon 2: Marine Mania의 모든 게임에서 그늘 지붕이 달린 고급 무대를 사용할 수 있습니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendance"  >공연 분야에서 유명한 격언으로 '성공이 성공을 부른다'라는 말이 있습니다. 100명의 관람객이 공연을 구경하고 나면 입에서 입으로 소문이 전해져 더 많은 관람객이 공연과 동물원을 찾을 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverallGoal"  >별 5개짜리 공연을 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOneStarGoal"  >공연 명성을 별 1개까지 올려서 지원금을 받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOneStarGoalDone"  >공연 명성이 별 1개가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStarsGoal"  >공연 명성을 별 2개까지 올려서 지원금을 받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStarsGoalDone"  >공연 명성이 별 2개가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStarsGoal"  >공연 명성을 별 3개까지 올려서 지원금을 받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStarsGoalDone"  >공연 명성이 별 3개가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStarsGoal"  >공연 명성을 별 4개까지 올려서 지원금을 받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStarsGoalDone"  >공연 명성이 별 4개가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendanceGoal"  >100명 이상의 공연 관람객을 유치해서 더 많은 관람객이 동물원을 방문하도록 하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendanceGoalDone"  >공연을 구경한 관람객이 100명을 넘었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignshort"  >해양 공연</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS1"  >해양 공연 사진작가</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS1short"  >해양 공연 사진작가</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS2"  >공연 되살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS2short"  >공연 되살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS3"  >두 배의 재미</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS3short"  >두 배의 재미</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS4"  >스타 키우기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS4short"  >스타 키우기</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS5"  >해양 공연의 제왕</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS5short"  >해양 공연의 제왕</LOC_STRING>
+   
+</ZT2Strings>

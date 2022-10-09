@@ -1,0 +1,531 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_alpineseaholly:entry"  >씨홀리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_alpineseaholly:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/AlpineSeaHolly/AlpineSeaHolly_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+시홀리는 엉겅퀴와 비슷한 다년생 식물로 한여름과 늦여름 사이에 매우 인상적인 파란색 꽃과 줄기가 돋아납니다. 이 때 피는 꽃은 지구상에서 가장 아름다운 꽃이라는 찬사를 자아냅니다. 현재 정원에서는 흔히 볼 수 있지만 원산지인 유럽의 알프스 산맥에서는 멸종 위기에 처한 상태입니다.
+     </cell>
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bigbluestem:entry"  >큰쇠풀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bigbluestem:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/BigBluestem/BigBluestem_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+큰쇠풀은 청록색의 부드러운 줄기를 가지며 200여 종이 넘는 벼과 식물을 총칭하는 이름입니다. 대부분의 큰쇠풀은 북아메리카 동부의 키가 큰 풀로 무성한 대평원을 원산지로 하지만, 일부 큰쇠풀은 유라시아와 북아프리카에서 서식합니다. 이 식물은 관상용으로 키우거나 대평원을 예전 모습으로 되돌리기 위해 심습니다.
+     <p/>
+큰쇠풀은 최소 3년 정도 사는 다년생 식물로서 대부분의 벼과 식물이 줄기가 비어 있는데 반해 큰쇠풀 줄기는 속이 차 있습니다. 큰쇠풀 꽃은 밀알처럼 생긴 낟알 두 개가 모인 작은 수상화가 가늘고 긴 꽃대에 달리는데, 꽃자루가 없이 꽃이 달리는 수상꽃차레를 형성하거나, 짧은 꽃자루에 꽃이 달리는 총상꽃차례를 형성합니다.
+     <p/>
+보통 큰쇠풀은 1m-2m까지 자라서 무성한 수풀을 형성하며 8월에서 11월 사이에 꽃이 핍니다. 줄기는 종종 부드러운 잔털로 덮여있고 끝부분은 가지처럼 갈라졌으며 납작한 잎사귀는 2cm까지 자랍니다. 꽃송이가 발가락이 세 개뿐인 칠면조의 발을 닮았다 하여 칠면조발풀이라고도 부르는 큰쇠풀의 자줏빛을 띄는 총상꽃차례는 그 크기가 5cm-10cm 정도입니다. 큰쇠풀은 종종 땅 속으로 줄기가 뻗는데 이를 땅속줄기라고 하며 여기에서 새로운 개체가 자랍니다.     
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_evergreenoak:entry"  >상록 참나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_evergreenoak:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/EvergreenOak/Tree_EvergreenOak_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+참나무는 북온대에 널리 분포하는 활엽수로 이루어진 커다란 속을 일컫는 이름입니다. 참나무속에는 450여 종이 있으며 작은 꽃들이 모여 송이(유이꽃차례)를 형성하는 특징을 가진 너도밤나무과에 속합니다. 너도밤나무과에 속하는 다른 10여 속의 식물과 구별되는 참나무 속의 특징은 참나무만 있는 열매 즉 도토리를 맺는 것입니다. 캘리포니아와 오리건 연안 지역에서 자라는 탠참나무도 도토리가 열리지만 다른 참나무 속 식물과는 달리 수꽃이삭이 늘어지지 않고 위를 향해 자랍니다.
+    <p/>
+미국과 캐나다에 걸쳐 약 60종의 오크가 분포하며 멕시코에만 150여 종이 서식하고 있습니다. 이 식물은 해안에서 높고 경사진 산악 지대, 습한 저지에서 높고 건조한 메사에 이르기까지 다양하게 분포합니다. 봄이 되면 새 잎이 돋기 전 꽃이 피기 시작해 상당히 많은 양의 꽃가루가 바람에 날립니다. 나무는 가을에 잎이 떨어지는 낙엽성이거나 늘 푸른나무(상록수)입니다. 미국 동부에 서식하는 종 대부분은 낙엽성이지만 동남부 해안가 평원에 서식하는 live oak만 예외입니다. 반면 미 서부 지역에는 상록수(늘 푸른나무)와 낙엽성의 참나무 둘 다 서식하고 있습니다.    
+    <p/>
+참나무는 튼튼하고 단단해 고가의 목재용으로 사용, 고급 가구와 통, 마루 바닥, 널빤지를 만드는데 사용됩니다. 지중해 연안에서 자라는 코르크참나무의 두껍고 해면질의 껍질(수피)로는 코르크를 만듭니다. 또한 다른 종의 참나무에서는 타닌 성분을 얻어 가죽을 무두질할 때 사용하고 어떤 종의 껍질에서는 염색약을 얻을 수 있습니다. 참나무는 원예학적으로 중요하지만 일반적으로 자라는 속도가 느려 사유지보다는 공원 등에서 많이 볼 수 있습니다. 반면 스칼렛오크, 윌로우오크 및 핀오크는 빠르게 자라 사유지와 공원 모두에서 기르고 있습니다.    
+            <p/>
+제공:
+            <br/>
+마샬 R. 크로스비(Marshall R. Crosby)
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giantsequoia:entry"  >자이언트세쿼이아</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giantsequoia:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/GiantSequoia/Tree_GiantSequoia_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+빅트리로도 불리는 자이언트세쿼이아(Sequoiadendron giganteum)는 키가 83m까지 자라는 현재 살아있는 식물 중 가장 큰 나무입니다. 또 그 수명이 2,400년-4,000년으로 지구상에서 가장 오래 사는 종 중 하나이기도 합니다.
+     <p/>
+자이언트세쿼이아 즉 "빅트리"는 시에라네바다 산맥의 해발 약 900m-2,400m 서부 능선에 300km 정도 길고 좁게 펼쳐져 있는 땅에 분포하고 있습니다. 살아있는 식물 중 가장 큰 나무이며 세쿼이아 국립 공원에서도 가장 큰 나무인 "General Sherman Tree"는 높이만 84m에 밑동 지름이 11.1m이며 무게는 1990년대 초에 약 2,500톤으로 추정되었습니다. 반면 다른 자이언트세쿼이아의 키는 46m-99m이며 지름은 9m입니다. 그루터기에서 나이테를 조사하면 수명은 보통 2,300년 정도 되지만 몇몇은 4,000년 가까이 산 것도 있습니다.     
+     <p/>
+비늘 모양의 자이언트세쿼이아 잎은 가지에 바짝 붙어 납니다. 또한 나무 껍질은 세로로 홈이 나 있는 수피에 해면질의 조직을 갖는데 큰 개체의 경우 수피의 두께가 60cm에 다다릅니다. 나무는 가볍고 표면이 거칠어 곤충의 피해를 거의 받지 않으며 불에도 잘 타지 않습니다. 자이언트세쿼이아는 대부분 국립 공원 시스템이나 정부의 보호를 받고 있어 함부로 벌채할 수 없습니다.     
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_joshuatree:entry"  >조슈아나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_joshuatree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/JoshuaTree/JoshuaTree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+조슈아나무는 미국 남서부 모하비 사막에 서식하며 키는 약 9m까지 자랍니다. 나무의 가지가 창을 든 채 고대 그리스의 성읍 아이를 향해 손을 뻗은 예언자 여호수아의 팔을 생각나게 하기 때문에 이런 이름이 붙여졌습니다.
+     <p/>
+유카과에 속하는 조슈아나무는 뻣뻣한 잎을 가진 상록의 관목과 교목으로 이루어진 속으로,약 30종의 식물이 있으며, 원산지는 북아메리카와 서인도 제도입니다. 많은 종이 장식적인 효과가 뛰어나고 꽃이 아름다워 널리 재배됩니다. 창 끝처럼 뾰족한 잎은 밑동에서 다발로 나며, 잎다발 가운데에서 커다란 꽃자루가 자라 방울 모양의 축 늘어진 꽃송이가 핍니다. 수분은 유카나방이 전담합니다.
+     <p/>
+많은 유카 식물의 줄기와 잎에서 얻은 거친 섬유 조직은 밧줄을 만들 때 사용됩니다. 미 남동부에 서식하는 유카 식물은 bear grass로도 알려져 있으며 풀처럼 생긴 잎은 의자 쿠션이나 베게 속 재료로 사용됩니다. 일부 종의 뿌리에서는 지방을 추출해 비누를 만들기도 합니다. 유카라는 이름은 일반적으로 쓰이지만 대추 야자 유카에는 사용하지 않습니다.     
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ladyfern:entry"  >레이디고사리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ladyfern:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/LadyFern/LadyFern_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+레이디고사리는 약 100종의 고사리속을 통칭합니다. 대부분 따뜻한 지역이 원산지이며 널따란 숲에 크게 무리를 지어 북온대에 광범위하게 분포합니다. 부드럽고 정교한 모양의 잎은 91cm-122cm까지 자랍니다. 몇몇 다른 종은 생동감 있고 다채로운 색깔의 잎 때문에 온실 안이나 정원에서 재배됩니다.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pinkladyslipper:entry"  >분홍개불알꽃</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pinkladyslipper:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/PinkLadySlipper/PinkLadySlipper_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+모카신 플라워로도 알려져 있는 분홍개불알꽃은 크고 불룩한 잎과 슬리퍼처럼 생긴 한 송이 또는 여러 송이의 꽃이 줄기에 달리는 난초속 식물을 총칭합니다. 활짝 핀 주머니 같은 슬리퍼 모양의 입술꽃잎이 있으며 난초 중에서는 특이하게 가능한 꽃밥(꽃가루가 만들어지는 부분)을 두 개 갖습니다.
+     <p/>
+북아메리카개불알꽃은 보통 유라시아에 서식하고 있는 약 50종으로 이루어진 속에 포함되는 식물입니다. 한편 개불알꽃속으로 분류되는 꽃은 보통 두 속으로 나눌 수 있는데, 하나는 아시아의 열대 지방에 서식하는 약 60종으로 이루어진 속이고 또 하나는 남아메리카 및 중앙 아메리카에 서식하는 약 12종으로 이루어진 속입니다. 이 꽃은 온실과 같은 조건에서 재배해야 합니다. 그 밖의 난초 2종 역시 꽃 모양 때문에 개불알꽃으로 불립니다.     
+     <p/>
+제공:
+            <br/>
+마샬 R. 크로스비(Marshall R. Crosby)     
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_puyaplant:entry"  >푸이아</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_puyaplant:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/Puya/Puya_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+160종 이상의 푸이아 종이 있는데 대부분은 남아메리카의 안데스 지역에서 볼 수 있습니다. 봄에 푸이아는 큰 꽃을 여러 송이 피워 꽃물을 먹는 벌레들뿐만 아니라 잡식성인 곰들도 아주 좋아합니다. 
+     </cell>
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buroak:entry"  >가시참나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buroak:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/BurOak/BurOak_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+ 모시컵 오크로도 알려진 가시참나무는 크기가 크고 북아메리카에 서식하는 가장 큰 나무 중 하나입니다.
+     <p/>
+ 참나무는 북온대에 널리 분포하는 활엽수로 이루어진 커다란 속을 일컫는 이름입니다. 참나무속에는 450여 종이 있으며 작은 꽃들이 모여 송이(유이꽃차례)를 형성하는 특징을 가진 너도밤나무과에 속합니다. 너도밤나무과에 속하는 다른 10여 속의 식물과 구별되는 참나무 속의 특징은 참나무만 있는 열매 즉 도토리를 맺는 것입니다. 캘리포니아와 오리건 연안 지역에서 자라는 탠참나무도 도토리가 열리지만 다른 참나무 속 식물과는 달리 수꽃이삭이 늘어지지 않고 위를 향해 자랍니다.
+     <p/>
+ 미국과 캐나다에 걸쳐 약 60종의 오크가 분포하며 멕시코에만 150여 종이 서식하고 있습니다. 이 식물은 해안에서 높고 경사진 산악 지대, 습한 저지에서 높고 건조한 메사에 이르기까지 다양하게 분포합니다. 봄이 되면 새 잎이 돋기 전 꽃이 피기 시작해 상당히 많은 양의 꽃가루가 바람에 날립니다. 나무는 가을에 잎이 떨어지는 낙엽성이거나 늘 푸른나무(상록수)입니다. 미국 동부에 서식하는 종 대부분은 낙엽성이지만 동남부 해안가 평원에 서식하는 live oak만 예외입니다. 반면 미 서부 지역에는 상록수(늘 푸른나무)와 낙엽성의 참나무 둘 다 서식하고 있습니다.
+    <p/>
+ 참나무는 튼튼하고 단단해 고가의 목재용으로 사용, 고급 가구와 통, 마루 바닥, 널빤지를 만드는데 사용됩니다. 지중해 연안에서 자라는 코르크참나무의 두껍고 해면질의 껍질(수피)로는 코르크를 만듭니다. 또한 다른 종의 참나무에서는 타닌 성분을 얻어 가죽을 무두질할 때 사용하고 어떤 종의 껍질에서는 염색약을 얻을 수 있습니다. 참나무는 원예학적으로 중요하지만 일반적으로 자라는 속도가 느려 사유지보다는 공원 등에서 많이 볼 수 있습니다. 반면 스칼렛오크, 윌로우오크 및 핀오크는 빠르게 자라 사유지와 공원 모두에서 기르고 있습니다.
+      <p/>
+ 제공:
+             <br/>
+마샬 R. 크로스비(Marshall R. Crosby)  
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_feathertopwiregrass:entry"  >페더탑그래스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_feathertopwiregrass:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/FeathertopWiregrass/FeathertopWiregrass_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+페더탑그래스는 땅에 뿌리를 얕게 내리는 식물로 오스트레일리아 북부와 중앙 지역이 원산지입니다. 그런데 원산지인 오스트레일리아에서 양과 소를 치는 사람들에게 환영 받지 못하고 있습니다. 더 생산적인 목초가 자라는 것을 방해하고 뾰족한(침처럼 생긴) 씨가 풀을 뜯는 양털에 잘 달라붙기 때문입니다. 날씨가 건조하면 말라 버리거나 종종 관리 하에 놓은 불에 타버리기도 합니다.
+     </cell>
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_goldenbarrelcactus:entry"  >금호</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_goldenbarrelcactus:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/GoldenBarrelCactus/GoldenBarrelCactus_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+금호는 멕시코 중부가 원산지로 선인장과에서 가장 인기가 많은 종 중 하나입니다.
+     <p/>
+선인장은 가시가 있고 수분을 많이 포함하고 있는 독특한 식물과를 총칭하며 미국이 원산지입니다. 선인장과는 약 1,650여 종이나 되며 대부분 건조한 기후에도 잘 견디며 자랍니다. 원산지에서 선인장의 열매는 중요한 음식 재료이자 음료수입니다. 별다른 보살핌도 필요 없고 모양도 특이해 가정에서 많이 키웠는데 그 결과 개체가 기하학적으로 증가했습니다. 그러나 금호를 포함, 17종 이상의 선인장은 소유를 목적으로 불법 채취를 일삼거나 전문적으로 밀렵하는 인간들 때문에 특히 미국 남서부와 멕시코 북부에서 멸종 위기에 놓여있습니다. 
+     <p/>
+선인장은 보통 가시가 돋친 줄기와 뿌리로 되어있습니다. 잎은 거의 흔적이 없거나 아예 사라졌습니다. 오직 두 속만이 제대로 형태를 갖춘 잎을 갖습니다. 줄기는 보통 통통하고 다육질이어서 물을 저장하기에 적합하여 수분을 많이 함유하고 있으며 뿌리가 비를 직접 흡수하도록 다양한 모양을 갖습니다. 역시 땅 표면에 가깝고 넓게 펼쳐져 뿌리를 내려 선인장이 되도록 넓은 영역에서 많은 수분을 흡수할 수 있도록 합니다. 그래서 사막에 서식하는 선인장은 보통 넓게 퍼져 분포합니다. 
+     <p/>
+선인장이 갖는 가장 두드러진 특징은 뻣뻣하고 날카로운 가시가 돋아있는 줄기에 가시자리라는 생장점이 있다는 것입니다. 어떤 종은 가시자리에 가시 대신 털이나 뾰족하고 가시가 돋친 미모가 나기도 합니다. 가시자리는 줄기의 측아(옆눈)에서 생기며, 매우 분화된 가지입니다.
+     <p/>
+선인장 꽃은 보통 크고 화려하며 여러 송이의 꽃이 다발로 피기보다는 한 송이의 꽃이 핍니다. 화피는 꽃받침과 꽃잎이 크게 구별되지 않고, 화피는 잎이 변형된 포가 여러 개 모여서 이루어져 있으며, 이 포가 꽃받침으로 변했다가 마침내 화려한 꽃잎으로 변합니다. 꽃에는 수술이 많으며 씨방은 꽃 아래쪽에 있고 화피와 연결되어있습니다. 열매는 대부분 밝은 색을 띠며 다육질입니다.
+     <p/>
+현재 130여 속이 넘는 선인장이 대부분 재배되고 있는데 그 중에서도 작고 천천히 자라는 종이 모양이나 색 그리고 가시의 크기나 색이 다양해서 가장 인기가 높습니다. 가장 잘 알려진 선인장은 밤이면 아름다운 꽃을 피우는 사와로 선인장입니다. 일부 분류학자들은 이 사와로 선인장을 10개 의 다른 속으로 분류하기도 합니다. 널리 분포되어 서식하는 것은 크리스마스 선인장을 포함한 군입니다. 이 군은 열대우림 지역에서 자라는 착생 선인장(에어플랜트)으로 땅딸막한 데다 수분이 많아서 사막에 서식하는 선인장과는 확연히 구별됩니다. 그러나 연구 결과 줄기에 선인장과에서 갖는 독특한 가시자리가 있으며 꽃 역시 전형적인 선인장의 특징을 그대로 갖습니다.
+     <p/>
+선인장과 관련이 없는 다른 식물도 건조한 지역에서 환경에 적응해 잘 자라며 모양도 선인장과 흡사해집니다. 이것은 평행진화의 예로, 전혀 다른 생물이라도 비슷한 환경에 놓이면 종종 해부학적으로나 기능적인 면에서 비슷한 특징을 갖게 된다는 것입니다. 가령 선인장은 찾아볼 수도 없는 아프리카의 건조한 지역에서 자라는 대극속 역시 잎이 없는 가시가 돋힌 다육질의 줄기를 갖습니다.
+     <p/>
+제공:
+     <br/>
+마샬 R. 크로스비(Marshall R. Crosby)   
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redoatgrass:entry"  >솔새</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redoatgrass:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/RedOatGrass/RedOatGrass_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+오스트레일리아가 원산지인 다년생 식물인 솔새의 학명은 Themeda trandra입니다. 캥거루풀이라고도 알려져 있는 이 식물은 내륙에서 산이나 해안에 이르기까지 오스트레일리아 대륙 전역에 걸쳐 자라고 있습니다.
+     <p/>
+오스트레일리아 원주민은 캥거루풀을 사용해 어망을 만들며 뉴 사우스 웨일즈 주의 고지에서는 씨를 갈아 빵을 굽기도 합니다.
+     <p/>
+캥거루풀은 매우 건조하고 뜨거운 기후에도 잘 견디며 오스트레일리아에 서식하는 초식 동물이 좋아하는 먹잇감이기도 합니다.
+     </cell>
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shepardstree:entry"  >셰퍼즈나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shepardstree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/ShepardsTree/ShepardsTree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+셰퍼즈나무는 작은 상록수로 먹을 것이 부족할 때 그 뿌리를 가축에게 먹일 수 있어 아프리카의 농부들에겐 인기가 높은 유용한 식물입니다. 그래서 "구황 식량"으로도 불립니다. 그런가 하면 은신처와 햇볕을 피해 쉴 수 있는 그늘을 제공하며 아프리카 남부, 특히 칼라하리 사막에 서식하는 동물에게는 먹잇감이 됩니다. 
+     </cell>
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowipetree:entry"  >옐로우이페나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowipetree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/YellowIpeTree/YellowIpeTree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+트럼펫나무로도 불리는 옐로우이페나무는 남아메리카의 아마존 밀림에 서식하는 가장 중요한 식물 중 하나입니다.
+     <p/>
+트럼펫나무는 크고 화려하며 트럼펫 모양의 꽃이 피는 약 100종의 관목 또는 교목이 속하는 속을 통칭하는 말입니다. 원산지는 미 대륙 내 열대 지방으로, 전 세계 열대 지방과 아열대 지방에서 관상용으로 재배되고 있습니다. 이 식물은 비옥한 토양과 햇볕이 잘 드는 곳에서 잘 자랍니다.
+     <p/>
+옐로우이페나무 즉 황금 나무는 파라과이와 아르헨티나 그리고 브라질이 원산지이며 키는 8m까지 자랍니다. 은색의 겹잎(가운데 자루를 따라 여러 개의 작은 잎으로 이루어진 잎)은 5개-7개의 작은 잎으로 이루어져 있으며 길이는 각각 6cm-18cm 정도입니다. 황금빛이 도는 노란 꽃의 길이는 6.25cm입니다.
+     <p/>
+옐로우이페나무는 브라질을 대표하는 식물입니다. 한창 건기일 때 아름답게 피는 이 꽃은 모든 것이 메마르고 황량한 때 많은 브라질인에게 희망을 상징합니다.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pricklypearcactus:entry"  >프리클리페어선인장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pricklypearcactus:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/PricklyPearCactus/PricklyPear_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+프리클리페어는 선인장과의 한 속에 속하는 식물을 통칭합니다. 마디가 있는 편평한 줄기에는 glochid, 또는 흔히 가시라고 부르는 뻣뻣한 털이 조금씩 뭉쳐져 나 있습니다. 보통 노란색의 꽃이 피고 그 뒤에 배 모양의 혹처럼 생긴 식용 열매가 열립니다. 가장 중요한 종은 tuna(부채 선인장)과 인도무화과선인장입니다. 미국 아열대와 열대 지방이 원산지인 이 식물은 세계 전역의 열대 지방으로 옮겨졌고 건조한 미 서부 지역에서는 소를 먹이기 위해 재배되고 있습니다.
+   <p/>
+프리클리페어 선인장은 미국 남서부, 바자, 캘리포니아의 열대와 아열대 지역, 그리고 멕시코 소노란 사막이 원산지이지만 전 세계 메마르고 건조한 곳에도 자라고 있습니다. 선인장의 꽃이 지면 인간이 먹을 수 있는 열매가 생깁니다.
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a> (C) 1993-2003 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scythianlamb:entry"  >스키타이램</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scythianlamb:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities\objects\foliage\ScythianLamb\ScythianLamb_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+아시아가 원산지인 스키타이램은 양과 비슷하게 텁수룩한 털이 조밀하게 나고 뿌리줄기에도 털이 많은 나무고사리입니다. 
+   <p/>
+나무처럼 키가 큰 나무고사리는 전 세계 따뜻한 지역에 분포하고 있습니다. 나무고사리는 뿌리줄기라고 알려져 있는 나무 줄기의 내부에 단단한 부분 즉 목질을 가지는데 일부 종은 뿌리줄기가가 길고 가늘지만 일부 종은 굵고 단단합니다. 줄기 윗부분에 크고 우아하며 가늘게 갈라지는 잎이 로제트형(방사형)으로 나며 때때로 그 길이가 3m나 됩니다. 나무고사리의 키는 보통 6m-9m이지만 시아데아속의 일부 종은 최대 15m 이상 자랍니다. 나무고사리는 열대 초목과 같이 모양이 아름다우며 일부 종은 온실에서 기르기도 합니다. 
+	 </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_duriantree:entry"  >두리안나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_duriantree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/DurianTree/DurianTree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+두리안은 동남아시아의 덥고 습한 열대우림 지역이 원산지인 상록수(사철 내내 푸른 나무)로 열매를 얻기 위해 재배됩니다. 두리안이란 이름은 말레이어로 나무 열매를 가리키는 duryon에서 유래되었습니다.
+   <p/>
+두리안은 45m까지 자라는 것으로 알려져 있지만 보통 24m-30m 정도까지 자랍니다. 잎은 최고 17.5cm까지 자라며 뒷면에는 은색이나 구릿빛 비늘 조각이 있습니다. 약 5cm 크기의 꽃은 흰색, 노란색, 분홍색이며, 여러 개가 모여서 송이로 핍니다. 열매를 먹으려면 3달 정도 기다려야 하고 완전히 익은 열매는 나무에서 떨어집니다.
+   <p/>
+두리안 열매는 종종 지구상에서 가장 위험한 열매로 꼽힙니다. 둥글거나 달걀 모양의 열매는 보통 무게가 2.8kg-3.5kg 정도 나가고 두꺼운 겉껍질은 녹색이나 노르스름한 색을 띠며 딱딱하고 뾰족한 가시로 덮여 있습니다. 가시에 찔리지 않기 위해 열매의 자루 부분을 잡아야 합니다. 떨어지는 열매에 맞으면 심한 상처를 입거나 죽을 수도 있습니다. 열매 안에는 각각 길이가 3.5cm나 되는 커다란 씨가 한 개에서 네 개까지 들어있고, 굽거나 튀기거나 끓여서 먹을 수 있습니다. 또 커스타드처럼 연한 과육은 냄새가 고약하지만 맛은 매우 좋습니다. 과육은 주로 그대로 먹기도 하며 케이크, 아이스크림 또는 다른 요리에 곁들여 먹기도 합니다. 코끼리와 호랑이, 코뿔소, 그 외 다른 잘 익은 두리안 열매 냄새에 이끌리고 열매를 차지하려고 싸우기도 합니다.
+    </cell>    
+    </cell>   
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lingonberry:entry"  >링건베리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lingonberry:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/Lingonberry/Lingonberry_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+링건베리는 마운틴 크랜베리의 열매입니다.
+   <p/>
+노르웨이의 동부와 중부의 계곡과 해안 지역에는 울창한 아한대 침엽수림이 있습니다. 이 곳의 숲은 스코틀랜드의 소나무와 노르웨이의 전나무뿐만 아니라 자작나무와 오리나무, 미루나무와 마가목들로 가득합니다. 블루베리, 링건베리, 호로딸기 같은 산딸기는 대부분 이런 삼림 지대에서 자라고 있습니다.
+   <p/>
+크랜베리는 히스과(진달래과)에 속하며 덩굴처럼 땅 위를 기며 자라는 식물로 열매는 작고 신 맛이 나며 씨가 있습니다. 블루베리와 같은 속인 이 식물은 늘어진 분홍 꽃과 작고 두꺼운 늘푸른 잎을 가집니다. 작은 품종인 유럽 크랜베리는 유럽과 북아메리카의 온난한 습지대와 그보다는 기온이 낮은 지역에서 야생으로 자랍니다. 반면 큰 품종의 미국산 크랜베리는 홍수와 가뭄이 번갈아 생기는 미국 북동부의 모래 늪지에서 자라고 있습니다. 홍수로 인해 이 식물은 서리나 영하의 날씨에도 얼지 않고, 홍수 때 식물에 피해를 주는 해충이 박멸됩니다. 매년 미국에서 생산되는 크랜베리 열매는 대부분 소스나 젤리로 만들고 즙을 내어 주스로도 마십니다. 링건베리 즉 마운틴크랜베리는 유럽과 북아메리카에서 흔히 볼 수 있습니다. 많은 양이 채집, 판매되고 있지만 인간이 재배하지는 않습니다. 한편 흰꽃이 무리 지어 피고 진 후 붉은 열매가 열리는 하이부쉬크랜베리는 인동덩굴과의 관목으로 크랜베리 대용으로 열매가 요리에 사용되기도 합니다.
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_greenpitcherplant:entry"  >녹색벌레잡이식물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_greenpitcherplant:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/GreenPitcherPlant/GreenPitcherPlant_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+녹색벌레잡이식물은 주로 미국 남부의 모래로 된 늪지에서 자라며 멸종위기에 직면한 식충식물입니다.
+<p/>
+벌레잡이식물은 꽃이 피는 쌍떡잎 식물 3과를 총칭하는 이름으로, 잎이 변형된 포충낭으로 곤충을 잡아 소화시킵니다. 잎 전체는 관 모양으로 속이 비어 있고 아래쪽을 향한 털이 나 있습니다. 일단 곤충이 그 안으로 들어가면 털을 거슬러 다시 기어 나올 수 없으며 결국 잎 아래쪽으로 떨어져 그 안에서 분비되는 효소에 의해 소화됩니다. 벌레잡이식물은 일반적으로 보통 척박하고 메마른 땅에서 자라기 때문에 곤충을 통해 영양을 보충합니다.
+<p/>
+제공:
+<br/>
+마샬 R. 크로스비(Marshall R. Crosby)
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_labradortea:entry"  >래브라도차 </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_labradortea:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/LabradorTea/LabradorTea_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+래브라도차는 히스과(진달래과)의 작은 관목으로서 여기에 속하는 6종은 주로 북아메리카의 추운 지역이 원산지이며 한 종은 아시아에서 볼 수 있습니다. 보통 1m-2m의 크기까지 자라며, 늘 푸른 잎의 뒷면은 녹빛을 띱니다. 작고 흰 꽃은 5월과 6월에 걸쳐 줄기 끝에 무리 지어 핍니다. 찧으면 향기가 나는 잎에선 마취성분을 갖는 기름이 나옵니다. 미국 독립 전쟁 동안 래브라도차 잎으로 차를 마시기도 했습니다. 미 서부에 서식하는 래브라도차는 양이 먹으면 독성을 가집니다. 보통 래브라도차는 북아메리카 북부 지역에 널리 분포하고 있습니다.
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sydneybluegum:entry"  >시드니블루검나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sydneybluegum:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/SydneyBlueGum/SydneyBlueGum_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+시드니블루검나무는 유카리나무속의 하나인 Eucalyptus saligna를 일컫는 이름입니다.
+   <p/>
+유카리나무속은 도금양과에 속하며 나무와 일부 관목이 포함됩니다. 이 속에는 800여 종의 식물이 포함되며, 오스트레일리아 서쪽 지역 숲에 많이 서식하며 아주 중요한 목재입니다. 가죽질의 흰색 잎은 수직으로 달리며 그 끝은 해를 향합니다. 나무껍질은 울퉁불퉁하며 독특한 향기가 납니다. 이 속에 속하는 나무 중 일부는 지구상에서 가장 키가 큰 나무입니다. 높이가 97m나 되는 나무가 오스트레일리아 멜버른 근처에서 발견되었습니다.
+   <p/>
+많은 종에서 고무 수지를 얻기 때문에 흔히 "고무나무"로도 알려져 있으며 이 중 Sydney blue gum, Cider gum은 목재용으로 많이 쓰입니다. 어떤 종들은 나무껍질(수피) 안쪽에 섬유질이 많기로 유명합니다. 페퍼민트나무, 블랙페퍼민트, 시드니페퍼민트나무 역시 유카리나무속에 속합니다. Ironbark(유칼립투스 류콕실론)는 단단한 회색 껍질로 되어 있어 목재용으로 좋습니다. 검붉은 색을 띄고 무향인 Botany Bay kino는 수렴제와 지혈제로 쓰이고 가죽을 만들거나 염색에도 사용되는데 바로 Ironbark에서 얻을 수 있습니다. 붉은색 나무인 Bloodwood 역시 Botany Bay kino를 생산합니다. 그 밖에 유카리나무속의 다른 종은 Dragon's blood와 타닌, 유칼리 오일과 타르 그리고 산을 생산합니다. 
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_perepattree:entry"  >페레팻나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_perepattree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/PerepatTree/PerepatTree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">     
+페레팻 맹그로브는 말레이시아 해안가의 개펄과 맹그로브 삼림을 이루는 중요한 식물상입니다. 넓게 내린 뿌리는 파도와 조수 간만의 차로 생기는 충격을 막아 코주부원숭이가 살수 있게 맹그로브 숲을 만듭니다.
+   <p/>
+맹그로브나무는 3개의 서로 다른 과에 속하는 여러 열대 꽃식물을 통칭하는 이름입니다. 맹그로브나무는 소금기가 있는 얕은 물에서 잘 자라는 특징이 있어서 특히 해안이나 강 하구의 어귀에서 많이 볼 수 있습니다. 활 모양으로 휘어져 엉켜 있는 뿌리는 썰물 때 지면에 노출되어있으며 일부 맹그로브의 뿌리는 수면 위까지 자라나기도 합니다. 호흡근이라고 하는 수직으로 뻗은 가지는 나무에 산소를 공급하는 역할을 합니다. 맹그로브 중 개체 수가 가장 많고 중요한 종은 붉은색을 띄는 것이 특징인 붉은 맹그로브나무입니다. 목재는 숯의 재료로 쓰이고 가죽 가공에 들어가는 타닌산의 원료로 사용됩니다. 특이하게도 맹그로브나무 씨는 나무에 달려 있는 상태로 발아하며, 묘목이 최대 30cm까지 자라기도 합니다. 묘목은 시가 모양이며 뿌리부분이 잎부분보다 무겁습니다. 묘목은 떨어지면서 어미 나무의 아래쪽 진흙에 자리를 잡습니다. 붉은맹그로브, 흰맹그로브, 버튼맹그로브는 플로리다 남부를 비롯한 여러 열대 지방에 자생합니다. 검은맹그로브는 마편초과에 속합니다.
+   <p/>
+제공:
+<br/>
+마샬 R. 크로스비(Marshall R. Crosby)
+   <p/>
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">
+내용 출처: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2004 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+ 
+</ZT2Strings>

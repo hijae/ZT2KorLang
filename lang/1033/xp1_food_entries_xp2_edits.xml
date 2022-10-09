@@ -1,0 +1,27 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6" />
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6"  >유칼립투스 잎</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+유칼립투스나무는 오스트레일리아 전역에서 흔히 볼 수 있습니다. 잎이 질기고 영양소가 적으며 독성이 있는 기름이 생성되므로 대부분의 동물들은 먹지 못합니다. 그 중    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">코알라</color>
+                     </u>
+                  </a>
+는 향기나는 유칼립투스숲에 주로 서식하는 희귀한 동물로 유칼립투스 독에 내성이 있어 이를 소화시킬 수 있습니다. 또한 신진 대사가 매우 느려 유칼립투스의 적은 영양소만 섭취해도 활동하는 데 지장이 없습니다. 
+                  <p/>
+유칼립투스 잎은 그냥 땅에 놓거나 그릇 또는 나무 계단에 놓으면 됩니다.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

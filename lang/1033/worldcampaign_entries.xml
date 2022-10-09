@@ -1,0 +1,178 @@
+<ZT2Strings>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsintro"  >북아메리카 동물 입양하기</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsoverview"  >
+         
+         
+         
+           성공적으로 운영되고 있는 한 유명 동물원이 3종의 북아메리카 동물을 포함하는 새로운 자매 동물원을 열겠다는 계획을 세웠습니다. 그러나 관계 당국의 외래종 수입에 관한 법규 때문에 북아메리카 동물은 전체 동물 중 30% 미만이어야 합니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+         규정을 지키면서 3종의 북아메리카 동물을 모두 입양하려면 북아메리카 이외 지역의 동물이 8종 이상 있어야 합니다.      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsoverviewshort"  >  성공적으로 운영되고 있는 한 유명 동물원이 새로 자매 동물원을 열면서 북아메리카 동물을 추가하기로 했습니다. 하지만 관계 당국은 북아메리카 동물의 비율을 전체 동물 수의 30% 미만으로 제한하고 있습니다. 규정을 벗어나지 않는 범위에서 요구 조건을 만족하는 새로운 동물원을 건설하세요. 이 캠페인의 시나리오를 모두 마치면 지구 모형을 사용할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsSuccessoverview"  >새로 입양한 북아메리카 동물들이 큰 인기를 끌면서 동물원도 성공적으로 운영되고 있습니다! 북아메리카 동물과 다른 지역 동물의 비율도 규정을 벗어나지 않았습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsresult"  >북아메리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsoverallgoal"  >3종의 북아메리카 동물을 입양하세요. 북아메리카 동물을 모두 전시하려면 북아메리카 이외 지역 동물이 8종 이상 있어야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AmericanAnimalsoverallgoalOK"  >축하합니다! 북아메리카 동물과 다른 지역 동물의 비율 조절에 성공했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsintro"  >아시아 동물 입양하기</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsoverview"  >
+         
+         
+         
+           동물원 이사회 임원들은 앞으로 1년 동안 아시아 동물 4종을 입양하기로 결정했습니다. 하지만 아시아 동물들이 멸종 위기에 처해있어서 세계적으로 아시아 동물 확보에 비상이 걸려 있습니다. 아시아 동물은 명성이 높은 동물원에서만 입양할 수 있습니다. 
+         
+         
+         
+         <p/>
+         
+         
+         
+         아시아 동물 입양에 주어진 기간은 1년 입니다. 아시아 동물이 부족하기 때문에 이사회의 입양 결정을 이행하려면 동물원 명성을 별 넷으로 올려야 합니다.     
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsoverviewshort"  >  동물원 이사회 임원들은 앞으로 1년 동안 아시아 동물 4종을 입양하기로 결정했습니다. 하지만 아시아 동물들이 멸종 위기에 처해있기 때문에 동물원의 명성을 높게 올려야 계획대로 아시아 동물들을 입양할 수 있습니다. 이 캠페인의 시나리오를 모두 마치면 지구 모형을 사용할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsSuccessoverview"  >희귀한 아시아 동물을 입양하자 예상대로 관람객이 많이 늘었습니다. 동물원은 성공적으로 운영되고 있으며 이사회도 매우 만족하고 있습니다. 여러분은 뛰어난 업적을 이룬 공로로 지구 모형을 받게 되었습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsFailureoverview"  >안타깝게도 이사회가 지정한 기간이 지나고 말았습니다. 이사회의 결정에 처음부터 무리가 있었던 것도 사실입니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsresult"  >아시아 동물 입양에 성공했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsoverallgoal"  >1년 안에 아시아 동물 4종을 입양하세요.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsoverallgoalOK"  >축하합니다! 1년 안에 아시아 동물 4종을 입양하는 데 성공했습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AsianAnimalsoverallgoalfailed"  >주어진 시간 안에 아시아 동물 4종을 입양하는 데 실패했습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsintro"  >아프리카 동물의 왕국 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsoverview"  >
+         
+         
+         
+           북유럽의 한 부자가 불가능에 도전했습니다. 비어있는 자신의 땅에 아프리카 동물로만 이루어진 동물 공원을 만들기로 한 것입니다. 이 동물 공원은 충분한 자본금을 가지고 시작하며 새로운 종의 아프리카 동물을 입양할 때마다 추가로 지원금을 받게 됩니다. 12종 이상의 아프리카 동물을 입양하면 동물 공원이 완성됩니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+         동물 공원을 만들려면 세계 곳곳에서 살고 있는 다양한 동물들을 입양해야 한다는 사실을 잘 알고 있지만 자신이 좋아하는 아프리카 동물들로만 공원을 만들고 싶은 부자는 다른 지역에서 온 동물들은 모두 야생으로 되돌려 보내고 싶어합니다.     
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsoverviewshort"  >부자는 아프리카 동물로만 이루어진 동물 공원을 만들고 싶어합니다. 동물 공원에는 12종 이상의 동물이 있어야 합니다. 어떤 동물이라도 입양할 수 있지만 아프리카 동물이 아니면 야생으로 돌려보내야 합니다. 이 캠페인의 시나리오를 모두 마치면 지구 모형을 사용할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsSuccessoverview"  >축하합니다! 아프리카 동물로만 이루어진 동물 공원을 만드는 데 성공했습니다. 우리 공원이 '아프리카 동물의 왕국'으로 관광 안내 책자에 소개되면서 전 세계에서 많은 관람객들이 모여들고 있습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsresult"  >아프리카 동물의 왕국을 완성했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsoverallgoal"  >12종의 아프리카 동물로 이뤄진 동물 공원을 만드세요. 공원을 조성하면서 입양된 동물 중 아프리카 이외의 다른 지역의 동물들은 야생으로 돌려보내야 합니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsoverallgoalOK"  >축하합니다! 아프리카 동물로만 이뤄진 동물 공원을 만드는 데 성공했습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave1"  >첫 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave2"  >두 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave3"  >세 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave4"  >네 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave5"  >다섯 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave6"  >여섯 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave7"  >일곱 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave8"  >여덟 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave9"  >아홉 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave10"  >열 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave11"  >열한 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalshave12"  >열두 번째 아프리카 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:AfricanAnimalsgetridofothers"  >아프리카 동물은 이제 충분하게 입양하였습니다. 다른 지역에서 입양한 동물은 모두 야생으로 돌려보내야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeintro"  >생태계 우리 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeoverview"  >
+         
+         
+         
+           관람객은 동물이 천연 서식지와 비슷한 환경에 있을수록 더 좋아합니다. 그 중에서도 우리 안에 생태계를 완전하게 재현해 놓은 것을 가장 좋아하죠. 초식 동물과 육식 동물이 모두 살고 있는 사바나 우리를 만드세요. 물론, 동물들의 요구를 만족시키는 환경은 필수입니다. 사육사가 계속 먹이를 주면 육식 동물은 초식 동물을 잡아먹지 않습니다. 우리 안에는 최소 6종의 초식 동물과 4종의 육식 동물이 함께 서식해야 합니다. 
+         
+      
+         
+         <p/>
+         
+         
+         
+           4개월 동안 우리를 운영하세요. 우리를 운영하는 동안에는 인건비 등으로 들어가는 각종 비용을 충당할 수 있도록 매달 $2,000의 추가 자금이 지원됩니다.     
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeoverviewshort"  >  초식 동물과 육식 동물이 함께 서식하는 사바나 우리를 만드세요. 육식 동물에게 먹이를 잘 줘야 불의의 사고를 막을 수 있다는 걸 명심하세요!       </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeSuccessoverview"  >4개월의 시험 운영 기간 동안 생태계 우리를 성공적으로 유지하였습니다. 관람객은 생태계 우리를 아주 좋아하는 반면 직원들은 육식 동물에게 먹이를 주느라 정신이 없습니다!      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeFailureoverview"  >육식 동물이 초식 동물을 잡아먹는 사고를 막지 못했기 때문에 생태계 우리를 폐쇄하기로 결정했습니다. 생태계 우리에 대한 모든 지원금도 회수되었습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeFailureWitnessedoverview"  >육식 동물이 초식 동물을 잡아먹는 모습을 한 관람객이 목격하면서 동물원이 심각한 타격을 받게 되었습니다. 생태계 우리는 폐쇄하기로 결정되었으며 잔인한 살육 장면을 아이들에게 보여준 동물원을 향한 부모들의 항의가 빗발치고 있습니다. 성난 부모들이 이미 공동으로 동물원을 고발했고 재판에 질 경우 동물원은 막대한 보상금을 지불해야 할지도 모릅니다.       </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeresult"  >생태계 우리 운영이 성공적으로 이루어졌습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeoverallgoal"  >4종의 육식 동물과 6종의 초식 동물이 함께 서식하는 사바나 우리를 만드세요. 우리가 운영되는 4개월 동안 육식 동물이 초식 동물을 공격하지 않도록 해야 합니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeoverallgoalOK"  >축하합니다! 아무 사고 없이 완전한 생태계를 재현하는 데 성공했습니다.     </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:HugeBiomeoverallgoalfailed"  >끔찍한 사고 때문에 생태계 우리는 실패하고 말았습니다. 육식 동물에게 충분한 먹이를 주지 못한 게 실수입니다!      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesintro"  >세계 서식 환경 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesoverview"  >
+         
+         
+         
+           서식 환경은 해당 지역에 서식하는 식물과 동물, 기후에 따라 분류됩니다. 지구에는 다양한 서식 환경이 있고 각 서식 환경은 온도, 습도, 일조량, 서식 조건 등이 모두 다릅니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+         한 유명 대학의 지리학부에서 초대형 서식 환경 시설 재현 프로젝트에 자금을 지원했습니다. 이 프로젝트를 통해 전 세계의 주요 서식 환경을 재현한 시설을 구현함으로써 동물 연구와 교육 목적에 사용될 것입니다. 서식 환경을 재현한 시설을 일반에 공개하면 교육 효과를 거둘 수 있을 뿐만 아니라 입장료 수입으로 프로젝트에 들어가는 비용을 일부 충당할 수 있습니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+         지시에 따라 동물원 안에 서식 환경을 만드세요. 각 서식 환경에는 최소 한 마리 이상의 동물이 살고 있어야 합니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+         고산, 북방림, 사막, 사바나, 관목림, 온대림, 열대우림, 툰드라, 습지대     
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesoverviewshort"  >  한 유명 대학의 지리학부에서 초대형 서식 환경 재현 프로젝트에 자금을 지원했습니다. 이제 그 조건에 맞는 동물원을 만들어야 합니다. 이 캠페인의 시나리오를 모두 마치면 지구 모형을 사용할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesSuccessoverview"  >세계의 서식 환경을 재현한 우리 동물원은 지역 사회에 커다란 교육 효과를 가져다 주었습니다. 각각의 서식 환경과 그곳에 사는 동식물에 대한 이해는 환경 보존을 위한 첫걸음이 됩니다.       </LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesresult"  >서식 환경 재현 프로젝트가 성공을 거뒀습니다!</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesAlpine"  >고산 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesAlpineOK"  >훌륭합니다! 동물이 살고 있는 고산 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesBorealForest"  >북방림 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesBorealForestOK"  >훌륭합니다! 동물이 살고 있는 북방림 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesDesert"  >사막 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesDesertOK"  >훌륭합니다! 동물이 살고 있는 사막 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesSavannah"  >사바나 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesSavannahOK"  >훌륭합니다! 동물이 살고 있는 사바나 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesScrub"  >관목림 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesScrubOK"  >훌륭합니다! 동물이 살고 있는 관목림 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTemperateForest"  >온대림 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTemperateForestOK"  >훌륭합니다! 동물이 살고 있는 온대림 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTropicalRainforest"  >열대우림 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTropicalRainforestOK"  >훌륭합니다! 동물이 살고 있는 열대우림 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTundra"  >툰드라 지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesTundraOK"  >훌륭합니다! 동물이 살고 있는 툰드라 지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesWetlands"  >습지대 서식 환경 우리를 만들고 적당한 동물을 한 마리 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="TheWorld:TheWorldsBiomesWetlandsOK"  >훌륭합니다! 동물이 살고 있는 습지대 서식 환경 우리가 완성되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignshort"  >지구</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS1"  >북아메리카산 외래종 동물</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS1short"  >외래종 동물</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS2"  >아시아산 희귀종 동물</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS2short"  >아시아산 희귀종 동물</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS3"  >아프리카 동물의 왕국 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS3short"  >아프리카 동물의 왕국 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS4"  >생태계 우리 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS4short"  >생태계 우리 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS5"  >세계 서식 환경 만들기</LOC_STRING>
+      <LOC_STRING _locID="TheWorldLabels:WorldCampaignS5short"  >세계 서식 환경 만들기</LOC_STRING>
+</ZT2Strings>

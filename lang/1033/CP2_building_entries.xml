@@ -1,0 +1,255 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_cloningcenter:entry"  >Extinct Research Lab</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cloningcenter:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The Extinct Research Lab is the zoo building where you start your search for fossil bones that you piece together to recreate exciting extinct animals! The first step in your journey is finding these fossils. All the information you need can be found by looking up 
+	    <a href="zoopedia:zoopedia_fossilfinding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Fossil Finding </color>
+               </u>
+            </a>
+in your Zoopedia. 
+<p/>
+Once you've found enough pieces, drop into the Extinct Animals Lab and get to work! This entry on 
+	    <a href="zoopedia:zoopedia_fossilbuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Fossil Building </color>
+               </u>
+            </a>
+can help you through the process. 
+<p/>            
+Once you unlock an animal by building its fossil, you can play the Extinct Research Lab's 
+	    <a href="zoopedia:zoopedia_cloning:entry">
+               <u>
+                  <color r="255" g="231" b="135">animal creation </color>
+               </u>
+            </a>minigame. To start, select the Create Animals tab on the Extinct Research Lab's info panel. Then, select the animal you want to create from the list of fossils built. Then you are transported into the lab's animal creation room, where you must match the pattern of events on the computer screen as the scan line crosses over them. If you do a great job, you get a super version of the animal you selected. These are the happiest, healthiest, and strongest animals, and guests enjoy them most. Do an okay job and you get a regular version of the extinct animal selected. Fail and you might get an animal no one's ever seen before!
+<p/>
+Now you know how to find, build, and create amazing extinct animals for your zoo!
+<p/>
+Sometimes, one of your animals might catch a disease. Don't worry! The Extinct Research Lab can handle that, too! Go to the 
+	    <a href="zoopedia:zoopedia_diseaseresearch:entry">
+               <u>
+                  <color r="255" g="231" b="135">Disease Curing </color>
+               </u>
+            </a>
+topic in your Zoopedia to learn more about identifying, researching, and curing diseases in your zoo.
+<p/>    
+   </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cavepaintinghall:entry"  >Cave Painting Hall</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cavepaintinghall:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\CavePaintingHall\CavePaintingHall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The Cave Painting Hall is more like a cave than a building. Inside, examples of prehistoric cave drawings cover the walls. Seeing how prehistoric man depicted animals in the wild intrigues and educates your guests.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainerstage:entry"  >Entertainer Stage</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainerstage:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\StageEntertainerExtinct\StageEntertainerExtinct_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The stage is where 
+	    <a href="zoopedia:zoopedia_entertainer:entry">
+               <u>
+                  <color r="255" g="231" b="135">Entertainer</color>
+               </u>
+            </a> staff perform shows. They don't need a stage to be entertaining, but it really shows off their cool tricks!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossileducationcenter:entry"  >Extinct Education Center</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossileducationcenter:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\FossilEducationCenter\FossilEducationCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The Extinct Education Center is where guests learn about extinct animals firsthand.
+
+	<p/>
+
+	Guests build life-size skeletons of extinct animals in the Extinct Education Center. First, they find the animals' bones in the
+	    <a href="zoopedia:zoopedia_fossildigpit:entry">
+               <u>
+                  <color r="255" g="231" b="135">Play Dig Pit</color>
+               </u>
+            </a>
+	. Then they bring them to the Extinct Education Center, where they can see each animal's skeleton take shape. Try building an entire skeleton!
+  
+        <p/>
+        The Extinct Education Center is also a place where zoo educators and paleontologists teach guests about extinct animals and fossils. It's a lot like the 
+  	    <a href="zoopedia:zoopedia_educator_podium:entry">
+                 <u>
+                    <color r="255" g="231" b="135">animal educator podium.</color>
+                 </u>
+            </a>
+  
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossildigpit:entry"  >Play Dig Pit</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossildigpit:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\FossilDigPit\FossilDigPit_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+At the Play Dig Pit, guests get their hands dirty digging for the bones of extinct animals. But guests don't always find fossils ... sometimes they uncover a surprise! But when they do find fossilized bones, they take them to the 
+	    <a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Extinct Education Center</color>
+               </u>
+            </a>
+	to build a skeleton of an extinct animal.	     
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sizecomparisonmural:entry"  >Size Comparison Mural</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sizecomparisonmural:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\SizeMural\SizeMural_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	<p/>
+	At the Size Comparison Mural, guests see just how huge some extinct animals were by comparing how humans measure up today. This clever mural educates and entertains guests at the same time.
+	     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_xt:entry"  >Gift Cart, Extinct</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_xt:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_xt/giftcart_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+		The extinct-themed gift cart is where guests purchase souvenirs to remember their happy day with your extinct animals.
+		<p/>
+		Place the cart in a high-traffic area so guests don't forget to get a gift before leaving your zoo!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorecoverybuilding:entry"  >Dino Capture Team Bunker</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorecoverybuilding:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\dinorecoverybuilding\DinoRecoveryBuilding_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+        The Dino Capture Team bunker is a secret underground building where your 
+	    <a href="zoopedia:zoopedia_drt_gun:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dino Capture Team</color>
+               </u>
+            </a>
+        works.      
+	If you want to have dinosaurs in your zoo, you'd better have a Dino Capture Team bunker. Dinosaurs can sometimes get unruly and start rampaging around your zoo. When they do, call the 
+	    <a href="zoopedia:zoopedia_drt_gun:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dino Capture Team</color>
+               </u>
+            </a>
+	to put your zoo back in order.  
+      <p/>
+        Your guests won't know you have a secret team of dino wranglers ready to pounce when needed. The Dinosaur Capture Team bunker hides under a statue of two dinosaurs playing. When activated, the bunker rises from the ground, and your zoo's
+            <a href="zoopedia:zoopedia_drt_gun:entry">
+	               <u>
+	                  <color r="255" g="231" b="135">Dino Capture Team</color>
+	               </u>
+            </a>
+        springs into action.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brachiosaurusslide:entry"  >Brachiosaurus Slide</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brachiosaurusslide:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BrachiosaurusSlide/BrachiosaurusSlide_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+		Kids love climbing up the Brachiosaurus Slide to get a bird's-eye view of your zoo before they zip down to the bottom of this spiral-thrill ride!
+		<p/>
+		The slide is just about the size of a real Brachiosaurus. Can you imagine having one of these beasts roaming in your zoo? You couldn't keep them enclosed!  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilmarker:entry"  >Flagged Fossil Site</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilmarker:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="UI/minigames/fossilmarker_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+		These areas indicate where you should dig if you want to find interesting things underground. They are placed automatically when you uncover a potential fossil site in the 
+		<a href="zoopedia:zoopedia_fossilfinding:entry">
+	               <u>
+	                  <color r="255" g="231" b="135">Fossil Finding</color>
+	               </u>
+                </a> minigame (see <a href="zoopedia:zoopedia_cloningcenter:entry">
+	               <u>
+	                  <color r="255" g="231" b="135">Extinct Research Lab</color>
+	               </u>
+            </a> for more).  
+		<p/>
+		Your paleontologists also roam your zoo flagging these sites for you, so you can dig them up when you have a break in your zookeeper duties.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>  
+   
+ 
+</ZT2Strings>

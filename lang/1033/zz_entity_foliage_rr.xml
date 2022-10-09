@@ -1,0 +1,425 @@
+<ZT2Strings>
+  <LOC_STRING _locID="entityname:AfricanViolets_Rainforest">African Violets</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_stt">African violets</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_lower">the African violets</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>African Violets</b> </color>
+    <br/>
+    Click to select and then place African violets, a perennial plant native to the mountains of East Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Baobob_Savannah">Baobab Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Baobob_Savannah_stt">Baobab tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Baobob_Savannah_lower">the baobab tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Baobob_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>Baobab Tree</b> </color>
+    <br/>
+    Click to select and then place the baobab tree, a large African tree found primarily in semi-arid regions. </LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaTree_Rainforest">Banana Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaTree_Rainforest_stt">Banana tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaTree_Rainforest_lower">the banana tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaTree_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Banana Tree</b> </color>
+    <br/>
+    Click to select and then place the banana tree, a native of Southeast Asia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterBamboo_Temperate">Water Bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterBamboo_Temperate_stt">Water bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterBamboo_Temperate_lower">the water bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterBamboo_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>Water Bamboo</b> </color>
+    <br/>
+    Click to select and then place a water bamboo plant, a decorative plant that grows in water. </LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaLeaf_Rainforest">Banana Leaf Plant</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_stt">Banana leaf plant</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_lower">the banana leaf plant</LOC_STRING>
+  <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Banana Leaf Plant</b> </color>
+    <br/>
+    Click to select and then place a banana leaf plant. Its large leaves offer shade to hot animals. </LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantEar_Rainforest">Elephant Ear Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantEar_Rainforest_stt">Elephant ear tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantEar_Rainforest_lower">the elephant ear tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantEar_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Elephant Ear Tree</b> </color>
+    <br/>
+    Click to select and then place an elephant ear tree, a large plant that is native to South America. </LOC_STRING>
+  <LOC_STRING _locID="entityname:TreeFern_Rainforest">Tasmanian Tree Fern</LOC_STRING>
+  <LOC_STRING _locID="entityname:TreeFern_Rainforest_stt">Tasmanian tree fern</LOC_STRING>
+  <LOC_STRING _locID="entityname:TreeFern_Rainforest_lower">the Tasmanian tree fern</LOC_STRING>
+  <LOC_STRING _locID="entityname:TreeFern_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Tasmanian Tree Fern</b> </color>
+    <br/>
+    Click to select and then place a Tasmanian tree fern, a tall fern that resembles a tree. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest">Foxtail Palm Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_stt">Foxtail palm tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_lower">the foxtail palm tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Foxtail Palm Tree</b> </color>
+    <br/>
+    Click to select and then place a foxtail palm tree, a native of the tropics of southeast Asia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Kapok_Rainforest">Kapok Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kapok_Rainforest_stt">Kapok tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kapok_Rainforest_lower">the kapok tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kapok_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Kapok Tree</b> </color>
+    <br/>
+    Click to select and then place the kapok tree, a native of Java. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Kily_Rainforest">Tamarind Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kily_Rainforest_stt">Tamarind tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kily_Rainforest_lower">the tamarind tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Kily_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Tamarind Tree</b> </color>
+    <br/>
+    Click to select and then place a tamarind tree, which produces fruit that ring-tailed lemurs love to eat. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Orchid_Rainforest">Orchid Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Orchid_Rainforest_stt">Orchid tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Orchid_Rainforest_lower">the orchid tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Orchid_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Orchid Tree</b> </color>
+    <br/>
+    Click to select and then place an orchid tree, which generally thrives in warm weather. </LOC_STRING>
+  <LOC_STRING _locID="entityname:JuneGrass_Grassland">June Grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:JuneGrass_Grassland_stt">June grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:JuneGrass_Grassland_lower">the june grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:JuneGrass_Grassland_ltt">
+    <color r="255" g="248" b="178"> <b>June Grass</b> </color>
+    <br/>
+    Click to select and then place june grass, a favorite foraging food of deer, elk, and livestock. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Maple_Temperate">Sugar Maple Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Maple_Temperate_stt">Sugar maple tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Maple_Temperate_lower">the sugar maple tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Maple_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>Sugar Maple Tree</b> </color>
+    <br/>
+    Click to select and then place a sugar maple tree, which is widespread in the temperate areas of the northern hemisphere. </LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackThornBush_Savannah">Blackthorn Bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackThornBush_Savannah_stt">Blackthorn bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackThornBush_Savannah_lower">the blackthorn bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackThornBush_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>Blackthorn Bush</b> </color>
+    <br/>
+    Click to select and then place a blackthorn bush, a species of plum with tough, thorny branches. </LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantGrass_Savannah">Uganda Grass </LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantGrass_Savannah_stt">Uganda grass </LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantGrass_Savannah_lower">the Uganda grass </LOC_STRING>
+  <LOC_STRING _locID="entityname:ElephantGrass_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>Uganda Grass</b> </color>
+    <br/>
+    Click this to select and then place Uganda grass, a tall grass that grows along soil-rich lake beds and rivers in Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah">Umbrella Acacia Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_stt">Umbrella acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_lower">the umbrella acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>Umbrella Acacia Tree</b> </color>
+    <br/>
+    Click to select and then place an umbrella acacia tree, a native of tropical Africa and Australia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanDaisy_Savannah">African Daisies</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_stt">African daisies</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_lower">the African daisies</LOC_STRING>
+  <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>African Daisies</b> </color>
+    <br/>
+    Click to select and then place African daisies, an annual plant native to southern Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub">Yellow Fever Acacia Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_stt">Yellow fever acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_lower">the yellow fever acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_ltt">
+    <color r="255" g="248" b="178"> <b>Yellow Fever Acacia Tree</b> </color>
+    <br/>
+    Click to select and then place a yellow fever acacia tree, a native of tropical Africa and Australia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah">Acacia Caffra Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_stt">Acacia caffra tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_lower">the acacia caffra tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_ltt">
+    <color r="255" g="248" b="178"> <b>Acacia Caffra Tree</b> </color>
+    <br/>
+    Click to select and then place an acacia caffra tree, which, according to African tradition, is considered to be a lucky tree. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Toadstools_Rainforest">Toadstools</LOC_STRING>
+  <LOC_STRING _locID="entityname:Toadstools_Rainforest_stt">Toadstools</LOC_STRING>
+  <LOC_STRING _locID="entityname:Toadstools_Rainforest_lower">the toadstools</LOC_STRING>
+  <LOC_STRING _locID="entityname:Toadstools_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Toadstools</b> </color>
+    <br/>
+    Click to select and then place toadstools, a fleshy member of the mushroom family. </LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowCedar_Alpine">Yellow Cedar Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowCedar_Alpine_stt">Yellow cedar tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowCedar_Alpine_lower">the yellow cedar tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:YellowCedar_Alpine_ltt">
+    <color r="255" g="248" b="178"> <b>Yellow Cedar Tree</b> </color>
+    <br/>
+    Click to select and then place a yellow cedar tree, which is common to the western coastal mountain regions of Canada. </LOC_STRING>
+  <LOC_STRING _locID="entityname:RedCedar_Rainforest">Western Red Cedar Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:RedCedar_Rainforest_stt">Western red cedar tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:RedCedar_Rainforest_lower">the Western red cedar tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:RedCedar_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Western Red Cedar Tree</b> </color>
+    <br/>
+    Click to select and then place a red cedar tree, also known as a canoe cedar. </LOC_STRING>
+  <LOC_STRING _locID="entityname:BalsamFir_Boreal">Balsam Fir Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BalsamFir_Boreal_stt">Balsam fir tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BalsamFir_Boreal_lower">the balsam fir tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BalsamFir_Boreal_ltt">
+    <color r="255" g="248" b="178"> <b>Balsam Fir Tree</b> </color>
+    <br/>
+    Click to select and then place a balsam fir tree, a native of the western part of North America. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Birch_Temperate">Gray Birch Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Birch_Temperate_stt">Gray birch tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Birch_Temperate_lower">the gray birch tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Birch_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>Gray Birch Tree</b> </color>
+    <br/>
+    Click to select and then place a gray birch tree, which grows widely in temperate and arctic regions of the northern hemisphere. </LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackSpruce_Boreal">Black Spruce Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackSpruce_Boreal_stt">Black spruce tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackSpruce_Boreal_lower">the black spruce tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:BlackSpruce_Boreal_ltt">
+    <color r="255" g="248" b="178"> <b>Black Spruce Tree</b> </color>
+    <br/>
+    Click to select and then place a black spruce tree, which forms immense forests in Maine, New York, and Canada. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FringedPolygala_Boreal">Fringed Polygala Flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:FringedPolygala_Boreal_stt">Fringed polygala flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:FringedPolygala_Boreal_lower">the fringed polygala flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:FringedPolygala_Boreal_ltt">
+    <color r="255" g="248" b="178"> <b>Fringed Polygala Flower</b> </color>
+    <br/>
+    Click to select and then place a fringed polygala, a low-growing flower that flourishes in damp forest settings. </LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanPine_Alpine">Himalayan Pine Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanPine_Alpine_stt">Himalayan pine tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanPine_Alpine_lower">the Himalayan pine tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanPine_Alpine_ltt">
+    <color r="255" g="248" b="178"> <b>Himalayan Pine Tree</b> </color>
+    <br/>
+    Click to select and then place a Himalayan pine tree, a graceful, elegant, narrow-leaved evergreen tree. </LOC_STRING>
+  <LOC_STRING _locID="entityname:JungleLillies_Rainforest">Oriental Lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:JungleLillies_Rainforest_stt">Oriental lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:JungleLillies_Rainforest_lower">the oriental lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:JungleLillies_Rainforest_ltt">
+    <color r="255" g="248" b="178"> <b>Oriental lilies</b> </color>
+    <br/>
+    Click to select and then place a oriental lilies, one of the most popular (and most fragrant) flowers among florists. </LOC_STRING>
+  <LOC_STRING _locID="entityname:TremblingAspen_Grassland">Trembling Aspen Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:TremblingAspen_Grassland_stt">Trembling aspen tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:TremblingAspen_Grassland_lower">the trembling aspen tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:TremblingAspen_Grassland_ltt">
+    <color r="255" g="248" b="178"> <b>Trembling Aspen Tree</b> </color>
+    <br/>
+    Click to select and then place a trembling aspen tree, which grows in the southern areas of sub-arctic regions. </LOC_STRING>
+  <LOC_STRING _locID="entityname:ReindeerLichen_Boreal">Reindeer Lichen</LOC_STRING>
+  <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_stt">Reindeer lichen</LOC_STRING>
+  <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_lower">the reindeer lichen</LOC_STRING>
+  <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_ltt">
+    <color r="255" g="248" b="178"> <b>Reindeer Lichen</b> </color>
+    <br/>
+    Click to select and then place reindeer lichen, which serves as a primary food source for reindeer and caribou. </LOC_STRING>
+  <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate">Lily Of The Valley Flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_stt">Lily of the valley flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_lower">the lily of the valley flower</LOC_STRING>
+  <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>Lily Of The Valley Flower</b> </color>
+    <br/>
+    Click to select and then place a lily of the valley flower, a perennial herb native to temperate Eurasia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Sedge_Grassland">Sedge Grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:Sedge_Grassland_stt">Sedge grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:Sedge_Grassland_lower">the sedge grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:Sedge_Grassland_ltt">
+    <color r="255" g="248" b="178"> <b>Sedge Grass</b> </color>
+    <br/>
+    Click to select and then place sedge, a grass-like flowering plant that grows abundantly in wet, marshy areas. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Mangrove_Wetland">Black Mangrove Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Mangrove_Wetland_stt">Black mangrove tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Mangrove_Wetland_lower">the black mangrove tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Mangrove_Wetland_ltt">
+    <color r="255" g="248" b="178"> <b>Black Mangrove Tree</b> </color>
+    <br/>
+    Click to select and then place a black mangrove tree, which usually grows in shallow and muddy salt water or brackish waters. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Bluebush_Scrub">Bluebush</LOC_STRING>
+  <LOC_STRING _locID="entityname:Bluebush_Scrub_stt">Bluebush</LOC_STRING>
+  <LOC_STRING _locID="entityname:Bluebush_Scrub_lower">the bluebush</LOC_STRING>
+  <LOC_STRING _locID="entityname:Bluebush_Scrub_ltt">
+    <color r="255" g="248" b="178"> <b>Bluebush</b> </color>
+    <br/>
+    Click to select and then place bluebush, a shrub native to the western Australian wheatbelt. </LOC_STRING>
+  <LOC_STRING _locID="entityname:DatePalm_Desert">Date Palm Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:DatePalm_Desert_stt">Date palm tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:DatePalm_Desert_lower">the date palm tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:DatePalm_Desert_ltt">
+    <color r="255" g="248" b="178"> <b>Date Palm Tree</b> </color>
+    <br/>
+    Click to select and then place a date palm tree, one of the most valued trees that grows in Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FountainBamboo_Temperate">Fountain bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:FountainBamboo_Temperate_stt">Fountain bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:FountainBamboo_Temperate_lower">the fountain bamboo</LOC_STRING>
+  <LOC_STRING _locID="entityname:FountainBamboo_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>Fountain Bamboo</b> </color>
+    <br/>
+    Click to select and then place fountain bamboo, which is native to west and southwest China. </LOC_STRING>
+  <LOC_STRING _locID="entityname:LogMedium_Wetlands">Wetland Log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogMedium_Wetlands_stt">Wetland log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogMedium_Wetlands_lower">the wetland log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogMedium_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Wetland Log</b> </color>
+    <br/>
+    Click to select and then place a wetland log, which can serve as both a shelter and a perch for some wetland animals. </LOC_STRING>
+  <LOC_STRING _locID="entityname:SpinosaBush_Scrub">Spinosa Bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:SpinosaBush_Scrub_stt">Spinosa bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:SpinosaBush_Scrub_lower">the spinosa bush</LOC_STRING>
+  <LOC_STRING _locID="entityname:SpinosaBush_Scrub_ltt">
+    <color r="255" g="248" b="178"> <b>Spinosa Bush</b> </color>
+    <br/>
+    Click to select and then place a spinosa bush, a very important food source for grazing animals, especially the camel. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo">Small Bed of Tulips</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_stt">Small bed of tulips</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_lower">the small bed of tulips</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Small Bed of Tulips</b> </color>
+    <br/>
+    Click to select and then place a small bed of tulips, which can add color and beauty to the public areas in your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo">Large Orange Flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_stt">Large orange flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_lower">the large orange flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Large Orange Flowers</b> </color>
+    <br/>
+    Click to select and then place a large orange flowers, which can add color and beauty to the public areas in your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo">Large Blue Flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_stt">Large blue flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_lower">the large blue flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Large Blue Flowers</b> </color>
+    <br/>
+    Click to select and then place a large blue flowers, which can add color and beauty to the public areas in your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:GambaGrass_Wetlands">Gamba Grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:GambaGrass_Wetlands_stt">Gamba grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:GambaGrass_Wetlands_lower">the gamba grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:GambaGrass_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Gamba Grass</b> </color>
+    <br/>
+    Click to select and then place gamba grass, a tall, tropical pasture grass that is native to Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo">Small Flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_stt">Small flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_lower">the small flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Small Flowers</b> </color>
+    <br/>
+    Click to select and then place a small flowers, which can add color and beauty to the public areas in your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:LogSmall_Wetlands">Small Wetland Log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogSmall_Wetlands_stt">Small wetland log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogSmall_Wetlands_lower">the small wetland log</LOC_STRING>
+  <LOC_STRING _locID="entityname:LogSmall_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Small Wetland Log</b> </color>
+    <br/>
+    Click to select and then place a small wetland log, which can serve as both a shelter and a perch for some wetland animals. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Papyrus_Wetlands">Papyrus</LOC_STRING>
+  <LOC_STRING _locID="entityname:Papyrus_Wetlands_stt">Papyrus</LOC_STRING>
+  <LOC_STRING _locID="entityname:Papyrus_Wetlands_lower">the papyrus</LOC_STRING>
+  <LOC_STRING _locID="entityname:Papyrus_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Papyrus</b> </color>
+    <br/>
+    Click to select and then place papyrus, a plant of the sedge family that grows 3 to 10 feet high. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Larkspur_Alpine">Larkspur</LOC_STRING>
+  <LOC_STRING _locID="entityname:Larkspur_Alpine_stt">Larkspur</LOC_STRING>
+  <LOC_STRING _locID="entityname:Larkspur_Alpine_lower">the larkspur</LOC_STRING>
+  <LOC_STRING _locID="entityname:Larkspur_Alpine_ltt">
+    <color r="255" g="248" b="178"> <b>Larkspur</b> </color>
+    <br/>
+    Click to select and then place larkspur, a member of the buttercup family. </LOC_STRING>
+  <LOC_STRING _locID="entityname:WeepingMyall_Scrub">Weeping Myall</LOC_STRING>
+  <LOC_STRING _locID="entityname:WeepingMyall_Scrub_stt">Weeping myall</LOC_STRING>
+  <LOC_STRING _locID="entityname:WeepingMyall_Scrub_lower">the weeping myall</LOC_STRING>
+  <LOC_STRING _locID="entityname:WeepingMyall_Scrub_ltt">
+    <color r="255" g="248" b="178"> <b>Weeping Myall</b> </color>
+    <br/>
+    Click to select and then place a weeping myall tree, a native of Australia. </LOC_STRING>
+  <LOC_STRING _locID="entityname:DesertGrass_Desert">Desert Grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:DesertGrass_Desert_stt">Desert grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:DesertGrass_Desert_lower">the desert grass</LOC_STRING>
+  <LOC_STRING _locID="entityname:DesertGrass_Desert_ltt">
+    <color r="255" g="248" b="178"> <b>Desert Grass</b> </color>
+    <br/>
+    Click to select and then place desert grass. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Dandelions_Grassland">Dandelions</LOC_STRING>
+  <LOC_STRING _locID="entityname:Dandelions_Grassland_stt">Dandelions</LOC_STRING>
+  <LOC_STRING _locID="entityname:Dandelions_Grassland_lower">the dandelions</LOC_STRING>
+  <LOC_STRING _locID="entityname:Dandelions_Grassland_ltt">
+    <color r="255" g="248" b="178"> <b>Dandelions</b> </color>
+    <br/>
+    Click to select and then place dandelions, a persistent weed found in all temperate regions. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo">Medium Purple Flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_stt">Medium purple flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_lower">the medium purple flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Medium Purple Flowers</b> </color>
+    <br/>
+    Click to select and then place a medium-sized flowers, which can add color and beauty to the public areas of your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo">Medium Yellow Flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_stt">Medium yellow flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_lower">the medium yellow flowers</LOC_STRING>
+  <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_ltt">
+    <color r="255" g="248" b="178"> <b>Medium Yellow Flowers</b> </color>
+    <br/>
+    Click to select and then place a medium-sized flowers, which can add color and beauty to the public areas of your zoo. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Tamarack_Boreal">Tamarack Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Tamarack_Boreal_stt">Tamarack tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Tamarack_Boreal_lower">the tamarack tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Tamarack_Boreal_ltt">
+    <color r="255" g="248" b="178"> <b>Tamarack Tree</b> </color>
+    <br/>
+    Click to select and then place a tamarack tree.
+    Its rough wood is often used for rough construction and railway ties. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Cypress_Wetlands">Bald Cypress Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cypress_Wetlands_stt">Bald cypress tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cypress_Wetlands_lower">the bald cypress tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cypress_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Bald Cypress Tree</b> </color>
+    <br/>
+    Click to select and then place a bald cypress tree, which is often planted for its spreading branches. </LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterLily_Wetlands">Water Lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterLily_Wetlands_stt">Water lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterLily_Wetlands_lower">the water lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WaterLily_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Water Lilies</b> </color>
+    <br/>
+    Click to select and then place water lilies, an aquatic flowering plant with floating leaves. </LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanBirch_Alpine">Himalayan Birch</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_stt">Himalayan birch</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_lower">the Himalayan birch</LOC_STRING>
+  <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_ltt">
+    <color r="255" g="248" b="178"> <b>Himalayan Birch</b> </color>
+    <br/>
+    Click to select and then place the Himalayan birch tree, which is known for its brilliant white bark that strips off easily. </LOC_STRING>
+  <LOC_STRING _locID="entityname:ProteaWildflowers_Desert">King Protea</LOC_STRING>
+  <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_stt">King protea</LOC_STRING>
+  <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_lower">the king protea</LOC_STRING>
+  <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_ltt">
+    <color r="255" g="248" b="178"> <b>King Protea</b> </color>
+    <br/>
+    Click to select and then place the king protea, the state flower of South Africa. </LOC_STRING>
+  <LOC_STRING _locID="entityname:WhiteLillies_Temperate">White Lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WhiteLillies_Temperate_stt">White lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WhiteLillies_Temperate_lower">the white lilies</LOC_STRING>
+  <LOC_STRING _locID="entityname:WhiteLillies_Temperate_ltt">
+    <color r="255" g="248" b="178"> <b>White Lilies</b> </color>
+    <br/>
+    Click to select and then place the white lilies, a perennial plant with large, trumpet-shaped flowers. </LOC_STRING>
+  <LOC_STRING _locID="entityname:Cattails_Wetlands">Cattails</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cattails_Wetlands_stt">Cattails</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cattails_Wetlands_lower">the cattails</LOC_STRING>
+  <LOC_STRING _locID="entityname:Cattails_Wetlands_ltt">
+    <color r="255" g="248" b="178"> <b>Cattails</b> </color>
+    <br/>
+    Click to select and then place the cattails, a tall perennial herb that grows in freshwater swamps. </LOC_STRING>
+  <LOC_STRING _locID="entityname:CamelThornAcacia_Desert">Camel Thorn Acacia Tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_stt">Camel thorn acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_lower">the camel thorn acacia tree</LOC_STRING>
+  <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_ltt">
+    <color r="255" g="248" b="178"> <b>Camel Thorn Acacia Tree</b> </color>
+    <br/>
+    Click to select and then place the camel thorn acacia tree.
+    Elephants and giraffes like to eat the leaves of this tree. </LOC_STRING>
+  <LOC_STRING _locID="entityname:ArcticMoss_Tundra">Arctic Moss</LOC_STRING>
+  <LOC_STRING _locID="entityname:ArcticMoss_Tundra_stt">Arctic moss</LOC_STRING>
+  <LOC_STRING _locID="entityname:ArcticMoss_Tundra_lower">the arctic moss</LOC_STRING>
+  <LOC_STRING _locID="entityname:ArcticMoss_Tundra_ltt">
+    <color r="255" g="248" b="178"> <b>Arctic Moss</b> </color>
+    <br/>
+    Click to select and then place arctic moss, which grows on soil, rocks, and the barks of trees and helps to form tundra. </LOC_STRING>
+</ZT2Strings>
+

@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry"  >조련사</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+조련사는 동물들에게 공연에서 선보일 묘기를 가르칩니다. 특정 동물의 훈련을 배정해 줄 수도 있습니다. 배정된 동물이 없으면 조련사가 스스로 동물을 선택해 훈련시킵니다. 가르칠 묘기도 조련사들이 결정하는데, 먼저 쉬운 묘기부터 시작해서 어려운 묘기로 진행합니다.
+						<p/>
+조련사들이 수조에 있는 동물을 훈련시키려면 수조 입구가 있어야 합니다. 수조 입구가 없으면 수조에 있는 동물을 훈련시킬 수 없습니다.       
+                  <p/>
+조련사는 매달 1일에 동물원 은행 계좌에서 인출되는 돈으로 월급을 받습니다.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

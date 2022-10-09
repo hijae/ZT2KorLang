@@ -1,0 +1,17 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="Challengetext" version="6" />
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeRevealed" version="6"  >동물학 협회에서는 연구 기간 동안 %1s을(를) 임대해 갔습니다. 새로 임대받게 되는 동물인 %2s은(는) 상자에 실려 동물원 입구로 배달될 것입니다. 새로 임대한 동물을 전시해서 1달 안에 $500의 기부금을 받아야 합니다.   </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalSale" version="6"  >한 동물원에서 우리 동물원에 있는 동물을 입양하고 싶다고 연락하면서 그 대가로 기부를 하겠다고 제안했습니다. %1s을(를) 입양시키고 %2s을(를) 받으시겠습니까? 난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalSaleSuccess" version="6"  >%1s을(를) 다른 동물원에 기증하는 대가로 %2s을(를) 기부 받았습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDay" version="6"  >국립 동물 협회 이사회는 전 세계 동물원에 요청서를 발송했습니다. 2개월 앞으로 다가온 %1s의 날을 맞이해서 모든 동물원이 해당 동물을 한 마리 이상 전시해 달라는 것입니다. 동물 협회가 이번 캠페인을 벌이는 2개월 안에 해당 동물을 입양하면 관람객 증가를 통해 수익을 얻을 수 있을 뿐만 아니라 협회로부터 %2s을(를) 현금으로 지원받을 수 있습니다. 난이도: 다양함</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDayShort" version="6"  >%2s의 날 행사에 맞춰 2개월 이내에 %1s을(를) 적어도 한 마리 보유해야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanions" version="6"  >국제 동물 보존 단체에서 우리 동물원에 새끼를 낳게 하기 위해 동물을 보내 주겠다고 제안했습니다. %1s을(를) 임대하려면 %2s을(를) 지불해야 하며 임대 기간은 2개월입니다. 그 기간 안에 새끼를 낳게 된다면 보존 단체에서 임대 비용을 돌려받고 동물과 새끼는 그대로 키울 수 있습니다. 새끼를 낳지 못하면 임대했던 동물은 다시 보내야 하고 임대 비용도 돌려받을 수 없습니다. 그런 일은 없겠지만 혹시 임대한 동물이 임대 기간 안에 죽는 경우 %3s을(를) 벌금으로 납부해야 합니다. 난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalRelease" version="6"  >국제 동물 보존 단체에서 멸종 위기에 처한 동물을 야생으로 돌려보내면 지원금을 지급하겠다고 제안했습니다. 멸종 위기에 처한 동물을 야생으로 돌려보내는 목적은 개체 수를 늘려서 자생력을 갖출 수 있도록 하려는 것입니다. 동물 보존 단체의 재생 프로젝트 대상은 %1s이며, 야생으로 돌려보내는 데 필요한 준비를 위해 %2s의 지원금을 약속했습니다. %3s을(를) 야생으로 돌려보내기 위해 우선 %4s(이)가 지급되었고 나머지 지원금은 동물을 야생으로 무사히 돌려보내고 나면 받게 됩니다. 난이도: 고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseSuccess" version="6"  >축하합니다! %1s을(를) 야생으로 돌려보내는 데 성공하여 멸종 위기에 처했던 이 동물의 개체 수가 늘어났습니다. 남은 계약 금액인 %2s(이)가 계좌에 입금되었습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuest" version="6"  >한 성공한 기업의 회장이 앞으로 몇 달 안에 우리 동물원을 방문한다는 소식이 들어왔습니다. %1s 회장이 가장 좋아하는 동물은 %2s(이)라는 소문이 있으며 우리 동물원에서 %3s 회장이 좋아하는 동물을 본다면 많은 기부금을 낼 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestShort" version="6"  >%1s을(를) %2s 회장이 방문하기 전에 보유해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestSuccessShort" version="6"  >%1s 회장이 자신이 가장 좋아하는 동물인 %2s이(가) 동물원에 있는 것을 보고 상당한 금액을 기부했습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestSuccess" version="6"  >축하합니다! %1s 회장이 동물원에 자신이 가장 좋아하는 동물인 %2s이(가) 있다는 사실에 감동 받아 %3s의 기부금을 냈습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestFailureShort" version="6"  >%1s 회장이 가장 좋아하는 동물인 %2s이(가) 없어서 무척 실망했습니다. 소문에 의하면 %3s 회장이 다른 동물원에 기부를 했다고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestFailure" version="6"  >애석하게도 %1s을(를) %2s 회장이 동물원을 방문할 때 보유하고 있지 못했습니다. 소문에 의하면 그는 %3s의 기부금을 %4s이(가) 있는 다른 동물원에 기부했다고 합니다.</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,66 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_encarta" version="2" />
+      <LOC_STRING _locID="zoopedia_encarta:entry" version="2"  >Encarta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_encarta:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+                  
+                  
+                  
+                  
+                  
+  		Microsoft(c) Encarta(c) 2006 
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+		재미있는 정보가 가득!
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                    		
+		Microsoft Encarta에는 세계 각국에 대한 정확하고 재미있는 최신 정보들로 가득합니다. 무려 50,000개가 넘는 항목과 수만 장의 사진, 소리 파일, 비디오, 애니메이션, 게임, 지도 등은 정보를 탐색하기 위한 길잡이가 됩니다. Encarta에 실린 정보는 모두 세심한 검토 과정을 거쳤으며 연령에 적합한 내용으로 신뢰할 수 있는 근거를 바탕으로 합니다. 또한 정기적인 업데이트를 통해 언제나 정확하고 믿을 수 있는 정보를 제공합니다.
+		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+		자세한 내용을 보려면 다음 사이트를 방문하세요.
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                     http://www.microsoft.com/products/encarta/
+               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

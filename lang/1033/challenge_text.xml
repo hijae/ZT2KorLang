@@ -1,0 +1,555 @@
+<ZT2Strings>
+      <LOC_STRING _locID="Challengetext:easy"  >초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:medium"  >중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:hard"  >고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:variable"  >다양함</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:GenericMoneyGrant"  >지원금을 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:GenericMoneyLoss"  >동물원 계좌에서 현금이 인출되었습니다!    </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:GenericRandomAnimal"  >아무 동물이나 괜찮습니까?</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoney"  >
+         
+         
+         
+         
+         
+         
+         
+         시 의회와 동물 보호 협회에서 지역 주민들에게 동물원 "무료 입장" 행사를 개최해 달라고 요청해 왔습니다. 이번 행사의 취지는 적절한 보살핌과 먹이가 동물들에게 꼭 필요하다는 사실을 지역 주민들에게 알리고 동물원 안의 동물은 물론 야생 동물들에게도 똑같은 관심을 가져 달라고 촉구하는 데 있습니다. 시 의회는 우선 $2,500를 먼저 지불하기로 하고 한 달의 행사 기간 동안 동물이 건강한 상태를 유지한다면 $2,500의 추가 지원금과 함께 입장료 손실액을 모두 지원하기로 했습니다. 동물이 병에 걸리게 되면 행사는 즉시 끝나고 지원금 지급이 중단되며 동물도 격리될 것입니다.                                   
+         
+     
+         
+        
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                         난이도: 초급                      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoneyShort"  >       한 달 동안 동물원 "무료 입장" 행사를 하세요.      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoneySuccess"  >       행사 기간이 끝났으며 동물원 안의 동물들이 그 동안 훌륭한 보살핌을 받았습니다. 시 의회는 이 행사를 대단한 성공으로 받아들여 행사 기간 동안 입은 입장료 손실을 모두         보상해 주었습니다.      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoneySuccessShort"  >       행사가 성공적으로 끝났습니다! 덕분에 추가로 $2,500를 더 받았고 입장료 손실액도 모두 보상받았습니다!       </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoneyFailure"  >불행히도 %s이(가) 병들고 말았습니다. 시 의회에서는 행사의 의미를 전달하기에는 현 상황이 부적절하다고 판단하여 행사를 취소했습니다. 입장료는 다시 원래 가격으로 환원되었지만 그 동안의 입장료 손실에 대해서는 별도의 지원을 받을 수 없습니다. 병에 걸린 동물은 시 의회에서 압수해 다른 동물원으로 보냈습니다.      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoneyFailureShort"  >동물들의 건강 상태가 나빠졌습니다. 행사 기간이 끝났으며 %s이(가) 병에 걸렸기 때문에 다른 동물원으로 보내졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoney2"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            최고의 동물원을 만들고 싶어하는 벤처 투자가가 우리 동물원으로 찾아왔습니다. 그는 $10,000를 지원하면서 동물원 기부금 수익의 40%를 대가로 요구했습니다. 수익금 지급은 투자자가 초기 투자금을 회수하고 추가로 $2,000의 이익을 얻을 때까지 계속됩니다.                                   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 중급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoney2Short"  >투자를 받아들였으며 현재 기부금으로 초기 투자금을 갚고 있는 중입니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoney2Success"  >동물원에서 높은 수익을 올린 덕분에 벤처 투자가에게서 받은 모든 투자금을 갚을 수 있었습니다. 이제부터 벌어들이는 모든 수익금은 우리 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHgrantmoney2SuccessShort"  >투자금을 모두 갚았으므로 동물원에는 빚이 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearConference"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            전 세계의 곰 생태학자들은 곰에 대한 최신 연구 결과와 정보를 공유하기 위한 회의 장소를 찾고 있습니다. 그들은 우리 동물원을 회의 장소로 결정하고 다른 종의 곰을 들여오는 조건으로 $2,000를 지급하기로 결정했습니다. 그들이 제시한 조건에 따라 앞으로 4개월 이내에 다른 종의 곰을 입양해야 합니다. 그렇지 못하면 위약금으로 $3,000를 내야 합니다.                                  
+         
+       
+         
+        
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 중급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearConferenceShort"  >회의를 개최하고 $2,000의 참가비를 받을 수 있도록 곰과의 동물 2종을 입양해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearSuccess"  >훌륭합니다! 최근에 새로운 종의 곰을 공원에서 사육하게 되어 회의를 열 수 있는 조건이 충족되었습니다. $2,000가 계좌에 입금되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearSuccessShort"  >훌륭합니다! 공원에서 2종의 곰과 동물을 사육하게 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearFailureShort"  >정해진 기간 내에 공원에서 2종의 곰과 동물을 확보하는 데 실패했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBearFailure"  >공원에 새로운 종의 곰을 추가해야 하는 기한이 지났으므로 다른 장소에서 회의를 개최할 수밖에 없게 되었습니다. 계약 조건에 따라 계좌에서 $3,000가 빠져나갔습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTrade"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                              동물학 협회에서는 동물 교환 프로그램이 동물원의 활성화에 기여할 수 있는지 조사하고 있습니다. 우리 동물원은 협회 회원 자격으로 1종의 동물을 다른 종으로 한 달 동안 맞교환할 수 있습니다. 이 기간 동안 새로 받은 동물의 건강을 유지하고 $500 이상의 기부금을 받아야 합니다. 이번 연구는 정기적인 동물 교환이 관람객 증가와 운영 상태 개선에 도움이 되는지 확인하는 것입니다. 이 연구가 성공적인 것으로 증명되면 $2,500를 받고 동물도 계속 기를 수 있게 됩니다.             
+         
+     
+         
+        
+         
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                       이 챌린지를 받아들이면 임대하기로 결정된 동물이 상자에 실려 동물원 입구로 배달됩니다. 교환 프로그램 기간이 끝나면 원래 보유하고 있던 동물을 돌려받게 됩니다.                       
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                       난이도: 초급            
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeRevealed"  >동물학 협회에서는 연구 기간 동안 %s을(를) 임대해 갔습니다. 새로 임대받게 되는 동물인 %s은(는) 상자에 실려 동물원 입구로 배달될 것입니다. 새로 임대한 동물을 전시해서 1달 안에 $500의 기부금을 받아야 합니다.   </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeFirstShort"  >빌려 온 동물 %s에 대해 동물원에서 한 달 동안 $500의 기부금을 모아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeFirstSuccessShort"  >기부금의 증가로 협회 회원 동물원간의 동물 교환 프로그램이 큰 성공을 거두었습니다. 여러분의 참여가 연구의 중요한 자산이 된 대가로 $2,500를 받고 동물도 계속 기를 수 있게 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeFailureShort"  >아쉽게도 동물 교환 프로그램을 통해 충분한 수입을 확보하는 데 실패했습니다. 연구는 취소되고 동물도 원래 있던 곳으로 되돌려 보냈습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeFirstSuccess"  >동물학 협회에서는 회원 동물원간의 동물 교환 프로그램을 통해 수익을 창출하는 것에 대한 연구를 마쳤습니다. 여러분에게 상당히 긍정적인 결과가 나타났기 때문에 협회에서는 이 수익을 회원으로 가입한 동물원의 정기적인 수입원으로 만드는 일로 고려할 생각입니다. 이번 일로 $2,500를 받고 동물도 계속 기를 수 있게 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalTradeFailure"  >불행히도 동물 교환 프로그램은 재정적 부담이 큰 것으로 확인되었습니다. $500의 기부금을 확보하지 못하면 얻는 이익보다 동물을 옮기는 비용이 더 큽니다. 동물학 협회에서 이 연구를 취소하고 동물을 되돌려 보냈습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrike"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                       국립 폐기물 수집 연맹은 파업에 들어가기로 결의 했습니다!  새로운 계약에 만족하지 못한 동물원 관리원들이 작업을 거부하고 있습니다. 이번 파업은 한 달 동안 계속될 것으로 예상됩니다. 관리원들이 복귀할 때까지 $4,000를 지불하고 비상 근무 직원을 이용해 쓰레기를 치워야 합니다. 그렇지 않으면 직접 동물원의 쓰레기를 치워서라도 관람객들의 불만을 막아야 합니다. 비상 근무 직원을 고용하시겠습니까?                                    
+         
+     
+         
+        
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 초급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrikeShort"  >관리원들이 업무에 복귀하기 전까지 한 달 동안 동물원을 청소해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrikePayShort"  >관리원들이 업무에 복귀하기 전까지 한 달 동안 청소를 맡을 비상 근무 직원들을 고용했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrikeSuccessShort"  >좋습니다! 파업이 끝나서 관리원들이 업무에 복귀했습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrikePaySuccessShort"  >관리원들이 파업하는 동안 비상 근무 직원들이 업무를 성공적으로 수행했습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGarbageStrikeSuccess"  >관리원들의 파업 사태를 잘 해결했습니다. 모든 문제가 해결되었으며 관리원들은 업무에 복귀하게 되어 기뻐하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStress"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            국립 동물원 감시국에 우리 동물원에 대한 제보가 접수됐습니다. 제보 내용은 '동물들이 학대를 받고 있으며 불편한 생활을 하고 있다'는 것이었습니다. 우리 동물원은 금지 조치에 항의하고 한 달 동안 동물원을 닫은 채 동물들이 병에 걸리거나 불편한 생활을 하고 있는지 재검사를 받을 수도 있고 금지 조치를 받아들인 채 그대로 동물원을 운영할 수도 있습니다. 항의를 할 경우 검사 기간 동안 동물들을 좋은 상태로 유지하지 못하면 $2,500의 벌금이 부과됩니다. 감시국의 조치에 항의 하시겠습니까?
+         
+    
+         
+        
+         
+        
+        
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 고급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressShort"  >한 달 동안 새로운 동물을 입양할 수 없다는 입양 제한 명령을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressArgueShort"  >동물원이 폐쇄되었습니다. 한 달 동안 동물들의 생활 환경을 조사받게 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressSuccessShort"  >새 동물의 입양 제한이 풀렸습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressArgueSuccessShort"  >동물들의 상태가 훌륭한 것으로 판명되었습니다. 정식 사과를 받았으며 그 동안의 손해에 대해 $5,000를 보상받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressArgueFailureShort"  >동물들의 상태가 좋지 못한 것으로 판명되었습니다. $2,500의 벌금이 부과되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressEnd"  >동물원 감시국에서 동물 입양 금지 명령을 풀었습니다. 이번 일을 거울삼아 앞으로는 동물들에게 적합한 환경을 제공하는 동물원으로 가꿔야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressSuccess"  >동물원 감시국이 동물이 제대로 관리되지 않고 있다는 증거를 찾지 못했으므로 우리 동물원에 대한 명령을 거두어들였습니다. 그리고 그 동안의 손해에 대한 대가로 $5,000를 지불했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStressArgueFailure"  >동물원 감시국에서 동물을 소홀히 다룬 증거를 발견하여 위반 상태를 위험 등급으로 올렸습니다. 이와 함께 $2,500의 벌금이 부과되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            우리 동물원은 정처 없이 떠돌아 다니다 구조된 동물을 입양할 수 있게 되었습니다. 확실하게 어떤 종류인지 알려지지 않은 이 동물을 입양하려면 %s을(를) 비용을 내어 주어야 합니다. 이 동물은 온순한 동물인 것으로 추정되며 만약 멸종 위기에 놓인 희귀 동물일 경우 큰 이득이 됩니다. 이 조건을 받아들이면 상자에 실린 동물을 동물원 정문 근처로 보내줄 것입니다.                                  
+         
+        
+         
+        
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 초급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChanceShort"  >새 동물에게 적합한 환경을 제공해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChanceSuccessShort"  >좋습니다! 새 동물은 동물원의 명물이 될 것입니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChanceGreatSuccess"  >축하합니다! 재치있는 결정 덕분에 훌륭한 동물을 아주 저렴한 가격으로 얻었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChanceSuccess"  >이 동물을 저렴한 가격으로 구입했음은 물론이고 이 동물이 떠돌이 생활을 할 때보다 훨씬 나은 상태가 되었습니다. 관람객들 또한 새로 추가된 이 동물을 좋아할 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance2"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            한 익명의 후원자가 우리 동물원에 동물을 판매하겠다고 했지만 정확한 종을 밝히지는 않았습니다. 판매하는 동물이 희귀종일수도 있지만 확실한 것은 아닙니다. 하지만 이 거래는 합법적인 것입니다. 우리 동물원에서 %s을(를) 지불하면 동물을 상자에 실어서 동물원 정문 근처에 보내 주겠다고 했습니다.                                    
+         
+        
+         
+        
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 초급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance2SuccessShort"  >좋습니다! 새 동물은 동물원의 명물이 될 것입니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance2GreatSuccessShort"  >운 좋게도 매우 훌륭한 동물을 얻었습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance2GreatSuccess"  >축하합니다! 재치있는 결정 덕분에 훌륭한 동물을 아주 저렴한 가격으로 얻었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRandomAnimalChance2Success"  >불행히도 익명의 후원자는 진실을 숨기고 있었습니다. 건강한 동물을 얻기는 했지만 기대했던 희귀 동물은 아니었으며 가격 또한 더 비싸게 구입한 것으로 밝혀졌습니다. 그러나 그 못된 "후원자"보다는 여러분의 보살핌에 동물의 상태가 더욱 좋아졌으며 관람객들도 새로 입양된 이 동물을 좋아할 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRaffle"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            비영리 단체인 건강 및 축산 협회에서는 50/50 복권 사업을 주최하면서 %s을(를) 주면 우리 동물원에 복권 10장을 팔겠다고 제안했습니다. 복권 사업의 수익금은 전 세계 가축의 건강 증진을 위해서 쓰일 것입니다. 복권을 구입하시겠습니까?                                     
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 초급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRaffleSuccessShort"  >축하합니다! 50/50 복권에 당첨되었습니다!  </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRaffleSuccess"  >축하합니다! 50/50 복권에 당첨되었습니다! 상금으로 %s을(를) 받았으며 건강 및 축산 협회는 참여해 준 것에 대해 감사의 뜻을 전했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRaffleFailureShort"  >안됐군요! 복권에 당첨되지 않았습니다. 하지만 관람객 중 한 명이 당첨되었습니다!  </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRaffleFailure"  >건강 및 축산 협회의 추첨을 통해 관람객 중 한 명이 %s을(를) 받게 되었습니다. 당첨된 관람객은 기뻐서 어쩔 줄을 모르며 건강 및 축산 협회는 여러분의 참여에 대해 감사의 뜻을 전했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalSale"  >한 동물원에서 우리 동물원에 있는 동물을 입양하고 싶다고 연락하면서 그 대가로 기부를 하겠다고 제안했습니다. %s을(를) 입양시키고 %s을(를) 받으시겠습니까? 난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalSaleSuccessShort"  >동물은 새 동물원으로 보내졌고 여러분은 %s을(를) 기부 받았습니다!  </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalSaleSuccess"  >%s을(를) 다른 동물원에 기증하는 대가로 %s을(를) 기부 받았습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDay"  >국립 동물 협회 이사회는 전 세계 동물원에 요청서를 발송했습니다. 2개월 앞으로 다가온 %s의 날을 맞이해서 모든 동물원이 해당 동물을 한 마리 이상 전시해 달라는 것입니다. 동물 협회가 이번 캠페인을 벌이는 2개월 안에 해당 동물을 입양하면 관람객 증가를 통해 수익을 얻을 수 있을 뿐만 아니라 협회로부터 %s을(를) 현금으로 지원받을 수 있습니다. 난이도: 다양함</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDayShort"  >%s의 날 행사에 맞춰 2개월 이내에 %s을(를) 적어도 한 마리 보유해야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDaySuccessShort"  >%s의 날 행사가 대성공을 거두었습니다! 동물원 관람객 수가 크게 늘어나고 지원금도 받았습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDaySuccess"  >여러분의 참여로 %s의 날 행사가 엄청난 성공을 거두었습니다. 동물원 관람객 수가 크게 늘어나고 계좌에 지원금이 들어왔습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDayFailureShort"  >%s의 날 행사일이 지났습니다. 참여하지 못해서 유감입니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAwarenessDayFailure"  >%s의 날이 지나서 아쉽게도 지원금을 받지 못했습니다. 하지만 캠페인을 통해 동물원에 대한 관심이 증가하면서 관람객이 약간 늘어나는 효과가 생겼습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimals"  >
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            아름다운 가족 협회는 미취학 아동에게 장난감과 자극을 주는 것이 중요하다는 사실과 동물들도 장난감과 자극을 받는 것이 좋다는 사실을 연관시켜 홍보하는 캠페인을 시작했습니다. 전국의 동물원에게 충분한 장난감을 동물에게 제공하는 과제가 주어졌습니다. 기한은 한 달입니다.                                   
+         
+         
+         
+        
+         
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            우리 동물원이 협회의 본부 근처에 위치하고 있기 때문에 홍보 동물원으로 지정되었습니다. 6가지의 새 장난감을 연구하고 우리 안에 비치하여 동물들을 잘 관리하고 있음을 증명해 보여야 합니다.                                   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            만약 성공한다면 동물원이 널리 알려지면서 관람객도 크게 증가할 것입니다. 그러나 기준에 미달될 경우 가차없는 혹평 때문에 관람객이 줄어들 것입니다.                                   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                            난이도: 중급                    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimalsShort"  >한 달 이내에 6가지의 새 장난감을 연구하여 우리 안에 비치해야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimalsSuccessShort"  >동물원에 많은 장난감을 비치한 덕분에 언론으로부터 호의적인 평가를 얻었습니다. 이로 인해 관람객 수가 증가했습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimalsSuccess"  >아름다운 가족 협회는 이렇게 여러 가지 동물용 장난감을 마련한 것에 대해 깊은 인상을 받았습니다. 협회에서 우리 동물원을 지지하는 발언을 하자 유료 홍보보다 훨씬 더 큰 효과를 볼 수 있었습니다. 동물원의 관람객 수가 크게 증가했습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimalsFailureShort"  >동물원에 장난감이 부족하여 언론으로부터 좋지 못한 평가를 받았습니다. 이로 인해 관람객 수가 줄어들었습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHEnrichingAnimalsFailure"  >아름다운 가족 협회가 동물원에 장난감이 부족한 것을 보고 실망했습니다. 동물들이 심심해 하고 별다른 자극을 받지 못하고 있으므로 원하는 의도를 전달하는 데에도 적합하지 않습니다. 협회에서 여러분의 노력을 좋지 않게 평가함에 따라 동물원 관람객 수가 크게 줄어들었습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanions"  >국제 동물 보존 단체에서 우리 동물원에 새끼를 낳게 하기 위해 동물을 보내 주겠다고 제안했습니다. %s을(를) 임대하려면 %s를 지불해야 하며 임대 기간은 2개월입니다. 그 기간 안에 새끼를 낳게 된다면 보존 단체에서 임대 비용을 돌려받고 동물과 새끼는 그대로 키울 수 있습니다. 새끼를 낳지 못하면 임대했던 동물은 다시 보내야 하고 임대 비용도 돌려받을 수 없습니다. 그런 일은 없겠지만 혹시 임대한 동물이 임대 기간 안에 죽는 경우 %s를 벌금으로 납부해야 합니다. 난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsShort"  >임대한 동물이 2개월 이내에 새끼를 낳게 해야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsSuccessShort"  >임대한 동물이 새끼를 낳았습니다. 임대한 동물과 새끼는 동물원에서 계속 기를 수 있으며 임대 비용도 돌려받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsSuccess"  >축하합니다! 임대한 동물이 새끼를 낳는데 성공했습니다. 이 동물과 새끼 모두 우리 동물원에서 기를 수 있으며 임대 비용도 돌려받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsFailureShort"  >임대한 동물이 새끼를 낳지 못했습니다. 동물은 원래 소유자에게 다시 보내졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsFailure"  >계약 기간이 끝나서 동물이 원래 소유자에게 다시 보내졌습니다. 기회가 한 번 더 있다면 더 좋은 결과가 생길 수도 있습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsBadFailureShort"  >임대한 동물을 원래 소유자에게 돌려보낼 수 없게 되었습니다! 벌금을 지불해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCompanionsBadFailure"  >임대한 동물이 죽었기 때문에 원래 소유자에게 돌려보낼 수 없습니다! 계약 조건에 따라 계좌에서 %s가 빠져나갔습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalRelease"  >국제 동물 보존 단체에서 멸종 위기에 처한 동물을 야생으로 돌려보내면 지원금을 지급하겠다고 제안했습니다. 멸종 위기에 처한 동물을 야생으로 돌려보내는 목적은 개체 수를 늘려서 자생력을 갖출 수 있도록 하려는 것입니다. 동물 보존 단체의 재생 프로젝트 대상은 %s이며, 야생으로 돌려보내는 데 필요한 준비를 위해 %s의 지원금을 약속했습니다. %s을(를) 야생으로 돌려보내기 위해 우선 %s가 지급되었고 나머지 지원금은 동물을 야생으로 무사히 돌려보내고 나면 받게 됩니다. 난이도: 고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseShort"  >%s 한 마리를 야생으로 돌려보내야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseSuccessShort"  >축하합니다! %s을(를) 야생으로 돌려보내는 데 성공했습니다!  </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseSuccess"  >축하합니다! %s을(를) 야생으로 돌려보내는 데 성공하여 멸종 위기에 처했던 이 동물의 개체 수가 늘어났습니다. 남은 계약 금액인 %s가 계좌에 입금되었습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseFailureShort"  >더 이상 %s을(를) 야생으로 돌려보낼 수 없습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseFailure"  >불행히도 %s을(를) 위한 동물원의 보존 노력이 한계에 도달한 것 같습니다. 연구 프로젝트의 기금을 제공하는 보존 단체는 야생에서 생활하는 동물의 개체 수를 늘리는 데 실패했다는 소식에 실망했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuest"  >한 성공한 기업의 회장이 앞으로 몇 달 안에 우리 동물원을 방문한다는 소식이 들어왔습니다. %s 회장이 가장 좋아하는 동물은 %s(이)라는 소문이 있으며 우리 동물원에서 %s 회장이 좋아하는 동물을 본다면 많은 기부금을 낼 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestShort"  >%s을(를) %s 회장이 방문하기 전에 보유해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestSuccessShort"  >%s 회장이 자신이 가장 좋아하는 동물인 %s이(가) 동물원에 있는 것을 보고 상당한 금액을 기부했습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestSuccess"  >축하합니다! %s 회장이 동물원에 자신이 가장 좋아하는 동물인 %s이(가) 있다는 사실에 감동 받아 %s의 기부금을 냈습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestFailureShort"  >%s 회장이 가장 좋아하는 동물인 %s이(가) 없어서 무척 실망했습니다. 소문에 의하면 %s 회장이 다른 동물원에 기부를 했다고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHSpecialGuestFailure"  >애석하게도 %s을(를) %s 회장이 동물원을 방문할 때 보유하고 있지 못했습니다. 소문에 의하면 그는 %s의 기부금을 %s이(가) 있는 다른 동물원에 기부했다고 합니다.</LOC_STRING>
+</ZT2Strings>

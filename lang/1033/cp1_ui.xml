@@ -1,0 +1,36 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="mainmenu:legalcopy1"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            (c) &amp; (p) 2007 Microsoft Corporation. All rights reserved.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            본 제품은 Microsoft Corporation을 위하여 Blue Fang Games가 개발하였습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            이 프로그램은 대한민국 및 국제 저작권법의 보호를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            자세한 내용은 도움말/정보에 명시되어 있습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_africa"  >
+         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               Zoo Tycoon 2: African Adventure에서 지프를 사용하는 방법을 배우시겠습니까?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp1_installed_stt"  >African Adventure 설치 완료</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp1_installed_ltt"  >
+         <color r="255" g="248" b="178">
+            African Adventure 설치 완료
+         </color>
+         <br>African Adventure 확장팩이 설치되었습니다. </br>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,136 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2" />
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2"  >자이언트세이블영양</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     멸종 위기
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">사바나<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">아프리카 남부<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      강: 포유류 (Mammalia)<br/>
+      목: 소목 (Artiodactyla)<br/>
+      과: 소과 (Bovidae)<br/>
+      속: Hippotragus<br/>
+      종: niger<br/>
+      아종: variani
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">자이언트세이블영양에 대한 재미있는 상식</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">우아하게 굽은 자이언트세이블영양의 뿔은 최고 1.5m까지 자랍니다.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">자이언트세이블영양의 뿔은 부러지거나 손상을 입으면 다시 자라지 않습니다.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">자이언트세이블영양은 최고 시속 56km로 달릴 수 있으며, 일정 시간 동안 이 속도를 유지할 수 있습니다.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">자이언트세이블영양은 원산지인 앙골라에서 27년간 계속된 내전으로 멸종 위기에 처하기도 했습니다.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">현재 전 세계적으로 고작 1천 마리 정도가 남았으며 대부분 앙골라 중부 루안도 보호 지역과 캉간달라 국립 공원에 서식하고 있습니다.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    챌린지 또는 캠페인 게임에서 자이언트세이블영양을 입양하려면 동물원 명성을 별 두 개까지 올려야 합니다.
+   </color>
+   <p/>
+영양은 소, 염소, 양과 같은 과에 속하며 속이 빈 뿔을 가진 포유류를 통칭하는 이름입니다. 세상에서 가장 민첩하고 우아한 유제류를 포함하여 약 100여 종의 영양이 아프리카와 아시아에 서식하고 있으며, 이 중 일부는 멸종 위기에 처해 있습니다.
+   <p/>
+세이블영양, 론영양, 오릭스영양 및 아닥스영양을 포함하여 호스영양(아과 Hippotraginae)으로 알려져 있는 7종의 영양은 모습이 말과 흡사하며 몸집도 큽니다. 또 아프리카와 아라비아 반도 삼림 지대에서 사막에 이르기까지 다양한 지역에 서식합니다. 호스영양으로 통칭하지만 말과 달리 매우 긴 뿔을 갖고 있어서 말과 쉽게 구별할 수 있습니다. 그런데 뿔을 노린 사냥꾼들의 남획으로 인해 일부는 현재 멸종 위기에 처해 있습니다.
+   <p/>
+매년 뿔갈이를 하는 사슴과 달리 영양은 평생 한 쌍의 뿔만 갖습니다. 뿔은 최대 1.5m까지 자라 위협적으로 보이지만 무기로서는 허점이 많습니다. 영양이 뿔을 무기로 사용하는 경우는 흔치 않지만 뿔을 사용해 적을 찌르거나 심지어 사자만한 육식 동물도 죽일 수 있다고 합니다. 그러나 위험한 상황이 닥치면 영양은 대부분 재빨리 도망칩니다.
+   <p/>
+영양은 어느 정도 소화된 음식물을 토해 내어 다시 씹어먹는 반추 동물입니다. 소, 양과 같은 다른 반추 동물처럼 잘 발달된 어금니로 토해 낸 음식물이 걸쭉해질 때까지 씹습니다. 반면 위쪽 앞니가 없어 풀을 뜯을 때에는 아래쪽 앞니로 위쪽 잇몸을 누르며 음식물을 뜯어 먹습니다.
+   <p/>
+영양은 먹거나 쉴 때에도 예리한 감각으로 주변의 위험 상황을 탐지합니다. 얼굴 옆쪽에 눈이 달려 있고 눈동자를 좌우로 길게 움직일 수 있어 앞뒤에서 접근해 오는 위험을 쉽게 감지해 냅니다. 청각과 후각 역시 뛰어나 어둠을 틈타 먹잇감을 찾아 어슬렁대는 육식 동물이 나타나면 재빨리 도망칠 수 있습니다.
+   <p/>
+생존을 위해 영양은 선천적으로 위험을 감지하고 재빨리 도망치는 능력이 발달해 있습니다. 이러한 방어 체계를 통해 야생에서 육식 동물의 공격으로부터 벗어날 수 있지만 영양의 가죽, 뿔, 고기를 노린 사냥꾼의 총구 앞에서는 속수무책입니다. 특히 서식 환경의 변화에 무기력할 수 밖에 없습니다.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

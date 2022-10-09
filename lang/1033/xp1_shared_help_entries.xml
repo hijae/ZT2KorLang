@@ -1,0 +1,16 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_awards:entry"  >상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_awards:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+동물원 방문객 100명 유치, 멸종 위기 동물 번식시키기 등 정해진 목표를 달성하면 상을 받게 됩니다. 상의 종류를 모두 확인하려면 [동물원 명성]을 클릭하고 [수상 내역] 탭을 클릭합니다.                            
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+   
+</ZT2Strings>

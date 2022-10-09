@@ -1,0 +1,212 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_agavecactus:entry"  >Plant, Agave Cactus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_agavecactus:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/AgaveCactus/AgaveCactus_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+The <i>Agave</i> is a genus of plants native to desert regions of the western hemisphere. The best-known species is the American aloe (not closely related to the <i>Aloe</i> genus), or century plant, which usually flowers only once, between the ages of 10 and 25 years. Shortly before it flowers, a long stalk grows rapidly upward to a height of up to 8 m (25 ft). The flowers are large and greenish, and cover short horizontal branches that spring from the upper half of the stalk. Its thick evergreen leaves can store considerable quantities of water. The large leaves are spiked at the tips and grow to about 2 m (6 ft) in length, forming a cluster around the base of the plant.
+<p/>
+Many species of agave are of economic importance. Sisal, native to the West Indies but now also grown in Mexico and various tropical countries of Eurasia, yields sisal hemp, which is used to make rope. The roots of some species yield a pulp that produces a lather when wet and is used as soap.
+
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aloevera:entry"  >Plant, Aloe Vera</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aloevera:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/aloevera/aloevera_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     <i>Aloe</i> is a genus of plants that includes more than 150 species, most native to South Africa. Usually, the plant's fleshy, pointed leaves are tightly clustered around a short stem, forming a rosette. The red or yellow tubular flowers of the <i>Aloe</i> grow in dense clusters. Species vary in height from several centimeters to more than 9 m (30 ft), and many varieties are commercially important as sources of medicine.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_boxelder:entry"  >Tree, Boxelder</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_boxelder:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/boxelder/boxelder_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     Boxelder is the common name for a small tree of the same genus as the maple. Its compound leaves somewhat resemble those of the ash. In the United States, the boxelder is found everywhere east of the Rocky Mountains, except in eastern New England. Though it grows rapidly, even under unfavorable circumstances, it is perishable and easily harmed by wind and insects. Normally short, it may attain a height of 18 m (60 ft) in well-watered valleys with rich soil. The wood of the boxelder is soft and light, suitable for making woodenware and wood pulp. It is a good shade tree and has been used extensively for windbreaks.
+     <p/>
+     The boxelder produces many slender, one-seeded fruits called samaras that are more commonly known as "helicopter seeds" because of the way they flutter to earth when they fall. 
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>  
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_daisy:entry"  >Plant, Daisy</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_daisy:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/Daisy/Daisy_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     Daisies include a number of flowering herbs in a family of composite flowers. True daisies include the English daisy, a flower with a yellow disk and small white or pink rays, and the western daisy of the United States, which has violet or purple rays. Other species include the African daisy. The black-eyed Susan, of the United States, is a related wildflower with a dark brown disk and yellow rays.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dwarfazalea:entry"  >Plant, Dwarf Azalea</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dwarfazalea:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/dwarfazalea/dwarfazalea_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     The azalea is a flowering bush related to the rhododendron. Some azaleas are deciduous and others are evergreen. They range in size from very low-growing plants to small trees. Their flowers are pink, purple, white, yellow, or orange, and are sometimes fragrant.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_edelweiss:entry"  >Plant, Edelweiss</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_edelweiss:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/edelweiss/edelweiss_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     This densely woolly perennial herb is found at high altitudes in Asia and Europe. Its inconspicuous blossoms are borne in heads surrounded by woolly petal-shaped leaves. The edelweiss is readily cultivated in gardens in Europe and the United States, and grows best in coarse, sandy loam. It is the floral emblem of Switzerland.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeypuzzletree:entry"  >Tree, Monkey Puzzle</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeypuzzletree:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/monkeypuzzletree/monkeypuzzletree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     <i>Araucaria</i> is a genus of evergreen trees native to South America and Australasia. Several are of commercial importance, including the Chile pine, or monkey puzzle tree, a valuable timber tree native to the Chilean Andes, where it grows to a height of 45 m (150 ft). The trunk is straight and free of knots, yielding a beautifully veined, yellowish-white hardwood and abundant resin. Like many pines, the young trees have branches that begin at the base of the trunk, but the older ones have tall, naked stems with a crown of branches.
+     <p/>
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saguarocactus:entry"  >Tree, Saguaro Cactus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saguarocactus:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/saguarocactus/saguarocactus_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     The saguaro (also known as sahuaro) is a spectacular species of cactus that in maturity is as big as a massive tree. Although it grows slowly (it can take up to 75 years to grow the first arm from its vertical body), it reaches a height of about 15 m (about 50 ft) and can live more than 200 years. The saguaro is covered with sharp spines. The creamy white saguaro blossoms are concentrated at the top of the stems. The fruits of the saguaro are edible. Small birds (including woodpeckers, flickers, and owls) and other desert animals may make their homes in the body or arms of the saguaro.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_speargrass:entry"  >Plant, Speargrass</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_speargrass:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/speargrass/speargrass_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+      Also called feather grass or needle grass, this ornamental member of the grass family grows to a height of about 90 cm (3 ft). It is cultivated for its showy flower cluster, called a panicle. The narrow panicle has delicate, feathery bristles that often reach 30 cm (1 ft) in length and are frequently dried for use as decorations.
+      <p/>
+      An Australian species, feather spear grass, was introduced into North America. It is often cultivated for its loose and feathery panicles of flowers that begin blooming in early spring and continue until autumn. The leaves grow to a height of 90 cm (3 ft). It is drought-resistant and thrives in sandy soils.
+      <p/>
+    </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tallgoldenrod:entry"  >Plant, Tall Goldenrod</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tallgoldenrod:text"  >
+   <color r="255" g="255" b="255">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="150">
+      <img src="entities/objects/foliage/tallgoldenrod/tallgoldenrod_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+     </cell>
+     <cell pady="15" width="400">
+     Goldenrod is a common name for certain related plants of the composite family. These widespread autumn flowers of the United States grow in a broad variety of habitats: woods, meadows, hilly terrain, and rocky ground. Goldenrods are perennial herbs with wandlike stems and stalkless leaves. They usually grow to a height of about 1.2 m (4 ft), but environmental conditions and species variations give them a range of 30 cm to 2 m (1 to 6 ft). Their yellow flowers are borne in graceful clusters. The goldenrod is of the genus <i>Solidago</i>, which contains about 100 species, most of which are North American. The Canada goldenrod, one of the more common species, is of average height and has large panicles of small yellow flowers. The smaller sweet goldenrod has anise-scented leaves that are used to make herbal tea. The wreath goldenrod, a low-growing species, is found in shady places. The November goldenrod is the tallest of the goldenrods and bears large, hairy panicles of flowers. Only the European goldenrod is native to Europe.
+     </cell>
+    </cell>
+    <p/>
+    <cell width="260"/>
+    <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+    </cell>
+   </color>
+  </LOC_STRING>
+ 
+</ZT2Strings>

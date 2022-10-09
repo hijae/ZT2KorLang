@@ -1,0 +1,152 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy" version="9" />
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:order" version="9"  >!!!Keeping Guests Happy</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:entry" version="9"  >Keeping Guests Happy</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+
+         All guests who show up at your entrance gate arrive with an interest in their favorite animals, foods, and attractions, not to mention 
+         different levels of thirst, hunger, and fatigue.
+		
+               
+ 
+                  <p/>
+
+               
+               
+               
+		There are two easy ways to quickly check in on your zoo guests to see how they're doing:
+		
+               
+
+                  
+                  <p/>
+                  
+
+               
+               
+		First, click on any individual guest in your zoo to display the Guest Information panel in the lower right corner of 
+		the main game window. The Guest Information panel has lots of information about what that guest is 
+		thinking and feeling.
+		
+               
+
+                  <p/>
+                  
+
+		Second, click the View Quick Stats button on the main game panel to display the complete list of guests currently 
+		in your zoo. On the View Quick Stats screen, you can sort your guest list based on their favorite animals, happiness levels, 
+		bathroom need, and more.
+		
+               
+               
+
+                  <p/>
+                  
+   
+               
+		Check out the tips below for advice on how to keep your zoo guests happy and satisfied.
+		
+ 
+                  <p/>
+
+                  <i>Top 10 tips for attracting guests to your zoo</i>
+
+                  <p/>
+  
+                  1. Give 'em room. Build paths that leave plenty of elbow room for the crowds. Also, large viewing areas near popular exhibits 
+		keep crowds happy. 
+		
+               
+ 
+                  
+                  <p/>
+                  
+
+                  
+                  
+                  2. Keep it clean. Placing recycling bins and trash cans around your zoo helps keep things spotless. 
+		
+    
+                  
+                  <p/>
+                  
+
+                  
+                  3. Showcase popular animals, and add as many different species as possible (this has a huge effect on your zoo fame score!). 
+		
+               
+
+                  
+                  <p/>
+                  
+
+                  
+                  
+                  4. Provide facilities where guests can be fed, hydrated, and rested, and they should be happy. As it happens, they're not so different from your zoo's animal 
+		inhabitants. 
+		
+
+                  
+                  <p/>
+                  
+
+                  
+                  5. Encourage reproduction among your animals. Zoo guests love baby animals. 
+
+
+                  <p/>
+                  
+
+                  
+                  6. Experiment with changing the price of zoo admission and concessions until you find the perfect balance between keeping 
+		guests happy (and spending) and maximizing your profit potential. 
+		
+               
+               
+
+                  <p/>
+ 
+                  
+                  7. Guests like to be amused at the zoo. In addition to viewing animals, they like to admire interesting statues, fountains, 
+		and themed areas. Young guests love to play on playground equipment. 
+		
+                                
+                  
+                  
+                  <p/>
+                  
+                  
+                  8. Pay attention to your zoo's aesthetics. Flowers and fountains can make a real difference in guests' happiness levels. 
+		
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  9. Guests are happiest when viewing happy, healthy animals in well-designed exhibits. 
+		
+               
+                  <p/>
+                  
+                  
+                  10. Guests also want to be educated. Seeing animals in exhibits that represent their natural biomes can prompt guests to donate 
+		more money to your zoo.
+               
+                                           
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+   
+</ZT2Strings>

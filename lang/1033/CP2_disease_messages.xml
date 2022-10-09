@@ -1,0 +1,173 @@
+<ZT2Strings>
+      <LOC_STRING _locID="diseaseresearch:animal0"  >Gather a sample from a diseased animal.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cause0"  >Gather a sample from an item in your zoo.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cause1"  >A sample taken in or near the exhibit could yield clues to the cause.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cause2"  >Research results indicate %s may be the cause.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cure0"  >Gather a sample from another item in your zoo. </LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cure1"  >A sample taken in or near the exhibit may yield the cure.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:cure2"  >Research results indicate %s is effective.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:analyzing"  >Analyzing ...</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:sampleCorrect"  >Data from this sample indicates you're one step closer to finding the cure!</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else, or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:diseaseGone"  >Your zoo is free from the disease, even though the cure was not found.</LOC_STRING>
+      <LOC_STRING _locID="diseaseresearch:diseaseTimeout"  >The disease in your zoo has cleared up, but you didn't find the cure. The disease might return later. </LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:animal0"  >One or more of your animals has digestive difficulties. Gather a sample from one.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cause0"  >To diagnose the disease, gather more samples from around your zoo for analysis.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cause1"  >Something smelly in or near the animal's exhibit may yield a clue.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cause2"  >Ewww, too much poop in the exhibit may be the cause! Gather a sample for further analysis. Ewww!</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cure0"  >What might solve this problem? Gather some samples from around the zoo for analysis.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cure1"  >Maybe we need someplace to put all this poop?</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cure2"  >Research results indicate an organic process could help turn the poop into something useful.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:cure3"  >Gather a sample from a compost building, so your research team can work on a cure.</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:analyzing"  >The lab is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:sampleCorrect"  >Data from this sample indicates you're one step closer to finding the cure!</LOC_STRING>
+      <LOC_STRING _locID="poopingdiseaseresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:animal0"  >Gather a sample from a diseased animal -- one with germ symbols above its head.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cause0"  >An item in or near the animal's exhibit may yield a clue to the cause.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cause1"  >Many of your zoo's extinct animals are not immune to modern-day bacteria.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cause2"  >Something from your guests may be making your extinct animals sick. Gather a sample from an item a guest leaves behind.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cause3"  >Research results indicate your animals have a disease called the Litter Bug!</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cause4"  >Gather a sample from a piece of trash, or even a trash can.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cure0"  >Could a tree hold the key to the cure?</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cure1"  >Gather samples from trees in your extinct animals' exhibits.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cure2"  >Desert, grassland, or alpine? One of these biomes has the tree that unlocks the cure.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:cure3"  >Research indicates a sample of %s is needed.</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:analyzing"  >The lab is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:sampleCorrect"  >That sample has given us more information about the cure!</LOC_STRING>
+      <LOC_STRING _locID="extinctfluresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:animal0"  >We need a sample from an animal with the slowing syndrome. Look for an animal with Z's above it.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cause0"  >Whoa! Your animals are moving more and more slowly. Can you find the reason why?</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cause1"  >Your research team's data on the speedy syndrome may help. Could the two syndromes be connected?</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cause2"  >Your research team is taking an early break after eating hot dogs for lunch.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cause3"  >Did you get a hot dog sample to the lab?</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cure0"  >It's likely that a plant holds the key to the cure.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cure1"  >Desert, grassland, alpine, or tundra? One of these biomes has the plant that unlocks the cure.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:cure2"  >Research indicates a sample of %s is needed.</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:analyzing"  >Your research team is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:sampleCorrect"  >You're one step closer to curing the disease!</LOC_STRING>
+      <LOC_STRING _locID="slowingsyndromeresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:animal0"  >We need a sample from an animal affected by the speedy syndrome.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cause0"  >Your animals are hyperactive! What could have caused this?</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cause1"  >Your research team is taking a coffee break.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cause2"  >Snap! Coffee?! Could caffeine be the cause?</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cause3"  >Gather a sample from a coffee stand in your zoo.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cure0"  >Plants are usually helpful in finding disease cures.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cure1"  >Desert, grassland, alpine, or tundra? One of these biomes has the plant that unlocks the cure.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:cure2"  >Research indicates a sample of %s is needed.</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:analyzing"  >Your research team is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:sampleCorrect"  >That's right! You're closer to finishing the cure!</LOC_STRING>
+      <LOC_STRING _locID="speedysyndromeresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:animal0"  >Meow! Your big cats may have cat-scratch fever. Gather a sample from a cat with 'itchy' symbols above its head.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cause0"  >What's making these cats itch?</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cause1"  >Could a cat enrichment item be the cause?</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cause2"  >Scratch, scratch, scratch ...</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cause3"  >Gather a sample from a scratching post. If the exhibit is without it, add one.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cure0"  >Leaves from certain plants often have medicinal qualities.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cure1"  >Are there any plants that help with itchy skin?</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cure2"  >Perhaps a moisturizing salve would soothe your itchy cats.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cure3"  >Try sampling some desert plants, perhaps from South Africa.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:cure4"  >Your research team thinks that aloe vera might be the piece you're looking for.</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:analyzing"  >Your research team is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:sampleCorrect"  >That's right! You're closer to finishing the cure!</LOC_STRING>
+      <LOC_STRING _locID="catscratchfeverresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:animal0"  >Pink elephants! Oh, my! The research team would like you to gather a sample from one.</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cause0"  >What's causing the elephants to turn pink?</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cause1"  >Could one of their enrichment items be the cause?</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cause2"  >Do your elephants play with anything that's pink?</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cause3"  >Gather a sample from a pursuit ball.</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cure0"  >Your research team wonders if samples from anything pink could hold the key to the cure -- even if it's not in your zoo.</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cure1"  >Search beyond the exhibit. Maybe it's something guests use.</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cure2"  >Hey! What about that fluffy cloud of spun sugar that's also called "candy floss"? Doesn't it come from a pink food cart?!</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:cure3"  >Quick! Gather a sample from a cotton candy cart!</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:analyzing"  >Your research team is testing your sample...</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:sampleCorrect"  >Of course! You're getting closer to curing your pink elephants!</LOC_STRING>
+      <LOC_STRING _locID="pinkelephantdiseaseresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:animal0"  >Your dodo has the Tutorial Love disease! Walk up to the dodo with the hearts around its head, and press the SPACEBAR to take a sample.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:animal1"  >Your first research report! Walk up to the dodo with the hearts around its head, and press the SPACEBAR to take a sample.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:animal2"  >Find the dodo with the hearts over its head. Walk up to it, and press the SPACEBAR to take a sample.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cause0"  >You need to sample some fruit for analysis.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cause1"  >Try sampling the bananas. </LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cause2"  >Walk up to the food dish with bananas, and press the SPACEBAR to take a sample.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cure0"  >The disease cure is bright pink!</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cure1"  >Try getting a sample of the pursuit ball!</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:cure2"  >Walk up to the pursuit ball, and press the SPACEBAR to take a sample.</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:analyzing"  >Your research team is analyzing your sample...</LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:sampleCorrect"  >Yes! You found one of the items to cure the disease! </LOC_STRING>
+      <LOC_STRING _locID="tutoriallovediseaseresearch:sampleIncorrect"  >Analysis indicates this item doesn't unlock the cure. Sample something else or press H for a new research hint.</LOC_STRING>
+      <LOC_STRING _locID="BoxElder_Grassland:hint0"  >Your research team is not interested in a round, young tree. Sample something older.</LOC_STRING>
+      <LOC_STRING _locID="BoxElder_Grassland:hint1"  >The lab is researching helicopter seeds.</LOC_STRING>
+      <LOC_STRING _locID="BoxElder_Grassland:hint2"  >Look for the grassland tree with seeds falling from it.</LOC_STRING>
+      <LOC_STRING _locID="BoxElder_Grassland:hint3"  >Gather a sample from a boxelder tree.</LOC_STRING>
+      <LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint0"  >Your research team is puzzled by this disease.</LOC_STRING>
+      <LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint1"  >Most monkey species don't like cold weather!</LOC_STRING>
+      <LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint2"  >This alpine tree grows in the Andes.</LOC_STRING>
+      <LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint3"  >Gather a sample from a monkey puzzle tree to cure the disease.</LOC_STRING>
+      <LOC_STRING _locID="SaguaroCactus_Desert:hint0"  >The cure you seek may lead you to a tree with prickly, pointy leaves. Watch out!</LOC_STRING>
+      <LOC_STRING _locID="SaguaroCactus_Desert:hint1"  >Small birds and tiny animals live in this tree.</LOC_STRING>
+      <LOC_STRING _locID="SaguaroCactus_Desert:hint2"  >Research results indicate a large desert tree is the cure.</LOC_STRING>
+      <LOC_STRING _locID="SaguaroCactus_Desert:hint3"  >Gather a sample from the saguaro cactus.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint0"  >The plant you seek has thick green leaves.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint1"  >It holds considerable amounts of water.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint2"  >This desert plant blooms once every 100 years.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint3"  >Your research team discovered that the agave cactus century plant is the cure.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_Desert:hint0"  >The plant you seek has thick green leaves.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_Desert:hint1"  >It holds considerable amounts of water</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_Desert:hint2"  >The plant that holds the key to the cure is a desert plant.</LOC_STRING>
+      <LOC_STRING _locID="AgaveCactus_Desert:hint3"  >Your research team discovered that the agave cactus is the cure. </LOC_STRING>
+      <LOC_STRING _locID="AloeVera_Desert:hint0"  >This item is renowned for its medicinal properties.</LOC_STRING>
+      <LOC_STRING _locID="AloeVera_Desert:hint1"  >This plant has fleshy, pointed leaves. </LOC_STRING>
+      <LOC_STRING _locID="AloeVera_Desert:hint2"  >Search the desert biomes for this plant.</LOC_STRING>
+      <LOC_STRING _locID="AloeVera_Desert:hint3"  >The aloe vera unlocks the cure.</LOC_STRING>
+      <LOC_STRING _locID="Daisies_Grassland:hint0"  >Could an herb cure this disease?</LOC_STRING>
+      <LOC_STRING _locID="Daisies_Grassland:hint1"  >This herb sometimes blossoms with pink flowers.</LOC_STRING>
+      <LOC_STRING _locID="Daisies_Grassland:hint2"  >This grassland plant grows all over the world.</LOC_STRING>
+      <LOC_STRING _locID="Daisies_Grassland:hint3"  >Your research team requests a sample of daisies.</LOC_STRING>
+      <LOC_STRING _locID="DwarfAzalea_Tundra:hint0"  >This disease requires a cure from a strong plant.</LOC_STRING>
+      <LOC_STRING _locID="DwarfAzalea_Tundra:hint1"  >This plant is related to the rhododendron.</LOC_STRING>
+      <LOC_STRING _locID="DwarfAzalea_Tundra:hint2"  >This hearty plant found on the tundra holds the key to the cure.</LOC_STRING>
+      <LOC_STRING _locID="DwarfAzalea_Tundra:hint3"  >Sample the dwarf azalea to discover the cure.</LOC_STRING>
+      <LOC_STRING _locID="Edelweiss_Alpine:hint0"  >Something bright and blooming may cure this disease.</LOC_STRING>
+      <LOC_STRING _locID="Edelweiss_Alpine:hint1"  >This plant is the floral emblem of Switzerland.</LOC_STRING>
+      <LOC_STRING _locID="Edelweiss_Alpine:hint2"  >This plant grows high in the Alps.</LOC_STRING>
+      <LOC_STRING _locID="Edelweiss_Alpine:hint3"  >The edelweiss holds the key to the cure.</LOC_STRING>
+      <LOC_STRING _locID="KingSagoPlant_Rainforest:hint0"  >This cycad appeared in a report from your research team.</LOC_STRING>
+      <LOC_STRING _locID="KingSagoPlant_Rainforest:hint1"  >This cycad tree dominated the landscape in the Jurassic Period.</LOC_STRING>
+      <LOC_STRING _locID="KingSagoPlant_Rainforest:hint2"  >It's sometimes called the "king" of rainforest trees.</LOC_STRING>
+      <LOC_STRING _locID="KingSagoPlant_Rainforest:hint3"  >The King Sago Palm unlocks the cure.</LOC_STRING>
+      <LOC_STRING _locID="Speargrass_Alpine:hint0"  >A feathery plant unlocks the cure to this disease.</LOC_STRING>
+      <LOC_STRING _locID="Speargrass_Alpine:hint1"  >Often called feather grass, this plant may not be in your zoo yet.</LOC_STRING>
+      <LOC_STRING _locID="Speargrass_Alpine:hint2"  >An evergreen, you can find it in New Zealand or growing in some alpine biomes.</LOC_STRING>
+      <LOC_STRING _locID="Speargrass_Alpine:hint3"  >A blade of speargrass is just what the doctor ordered. </LOC_STRING>
+      <LOC_STRING _locID="TallGoldenrod_Grassland:hint0"  >The item you seek grows in the meadows of North America.</LOC_STRING>
+      <LOC_STRING _locID="TallGoldenrod_Grassland:hint1"  >Waving in prairie winds, this plant has a golden hue.</LOC_STRING>
+      <LOC_STRING _locID="TallGoldenrod_Grassland:hint2"  >This grassland plant can grow up to 2 m (6 ft)! </LOC_STRING>
+      <LOC_STRING _locID="TallGoldenrod_Grassland:hint3"  >The tall goldenrod holds the key to the cure.</LOC_STRING>
+      <LOC_STRING _locID="TrashGround:cause0"  >What items in or near the exhibit could be the source?</LOC_STRING>
+      <LOC_STRING _locID="TrashGround:cause1"  >Many of your zoo's extinct animals are not immune to modern-day bacteria.</LOC_STRING>
+      <LOC_STRING _locID="TrashGround:cause2"  >Could your guests be making your animals sick? Gather a sample from something a guest leaves behind.</LOC_STRING>
+      <LOC_STRING _locID="TrashGround:cause3"  >Your research team has a name for this disease. They call it the Litter Bug.</LOC_STRING>
+      <LOC_STRING _locID="TrashGround:cause4"  >Gather a sample from a piece of trash, or a trash can. </LOC_STRING>
+      <LOC_STRING _locID="disease_names:poopingdiseasename"  >
+    Digestive Difficulties
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:extinctfluname"  >
+    Litter Bug
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:slowingsyndromename"  >
+    Slowing Syndrome
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:speedysyndromename"  >
+    Speedy Syndrome
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:catscratchfevername"  >
+    Cat-scratch Fever
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:pinkelephantdiseasename"  >
+    Pink Elephants!
+    </LOC_STRING>
+      <LOC_STRING _locID="disease_names:tutoriallovediseasename"  >
+    Tutorial Love
+    </LOC_STRING>
+  
+  
+</ZT2Strings>

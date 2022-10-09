@@ -1,0 +1,132 @@
+<ZT2Strings>
+      <LOC_STRING version="9" _locID="biometype:alpine"  >고산</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:alpine_ltt"  >
+         <color r="255" g="255" b="255">
+            고산
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:borealforest"  >북방림</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:borealforest_ltt"  >
+         <color r="255" g="255" b="255">
+            북방림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:temperateforest"  >온대림</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:temperateforest_ltt"  >
+         <color r="255" g="255" b="255">
+            온대림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:desert"  >사막</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:desert_ltt"  >
+         <color r="255" g="255" b="255">
+            사막
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:grassland"  >초원</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:grassland_ltt"  >
+         <color r="255" g="255" b="255">
+            초원
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:tropicalrainforest"  >열대우림</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:tropicalrainforest_ltt"  >
+         <color r="255" g="255" b="255">
+            열대우림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:savannah"  >사바나</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:savannah_ltt"  >
+         <color r="255" g="255" b="255">
+            사바나
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:scrub"  >관목림</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:scrub_ltt"  >
+         <color r="255" g="255" b="255">
+            관목림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:tundra"  >툰드라</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:tundra_ltt"  >
+         <color r="255" g="255" b="255">
+            툰드라
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:wetlands"  >습지대</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:wetlands_ltt"  >
+         <color r="255" g="255" b="255">
+            습지대
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:coastal"  >연안</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:coastal_ltt"  >
+         <color r="255" g="255" b="255">
+            연안
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:pelagic"  >원양</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:pelagic_ltt"  >
+         <color r="255" g="255" b="255">
+            원양
+         </color>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:reef"  >암초</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:reef_ltt"  >
+         <color r="255" g="255" b="255">
+            암초
+         </color>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:benthic"  >해저</LOC_STRING>
+      <LOC_STRING version="9" _locID="biometype:benthic_ltt"  >
+         <color r="255" g="255" b="255">
+            해저
+         </color>
+      </LOC_STRING>
+      <LOC_STRING version="9" _locID="alpine:icon_stt">고산</LOC_STRING>
+      <LOC_STRING version="9" _locID="benthic:icon_stt">해저</LOC_STRING>
+      <LOC_STRING version="9" _locID="borealforest:icon_stt">북방림</LOC_STRING>
+      <LOC_STRING version="9" _locID="coastal:icon_stt">연안</LOC_STRING>
+      <LOC_STRING version="9" _locID="desert:icon_stt">사막</LOC_STRING>
+      <LOC_STRING version="9" _locID="grassland:icon_stt">초원</LOC_STRING>
+      <LOC_STRING version="9" _locID="pelagic:icon_stt">원양</LOC_STRING>
+      <LOC_STRING version="9" _locID="reef:icon_stt">암초</LOC_STRING>
+      <LOC_STRING version="9" _locID="savannah:icon_stt">사바나</LOC_STRING>
+      <LOC_STRING version="9" _locID="scrub:icon_stt">관목림</LOC_STRING>
+      <LOC_STRING version="9" _locID="temperateforest:icon_stt">온대림</LOC_STRING>
+      <LOC_STRING version="9" _locID="tropicalrainforest:icon_stt">열대우림</LOC_STRING>
+      <LOC_STRING version="9" _locID="tundra:icon_stt">툰드라</LOC_STRING>
+      <LOC_STRING version="9" _locID="wetlands:icon_stt">습지대</LOC_STRING>
+
+
+      <LOC_STRING _locID="alpine:ground-cover"  >눈</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_stt"  >눈</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_ltt"  >
+         <color r="255" g="255" b="255">
+            눈
+         </color>
+         <br/>   
+         Click to select snow Place the cursor over the world, and then click to create snow.  
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:mix"  >Snow and Rock</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_stt"  >Snow and Rock</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_ltt"  >
+         <color r="255" g="255" b="255">
+            Snow and Rock
+         </color>
+         <br/>
+         Click to select snow and rock. Place the cursor over the world, and then click to create an area of snow and rock.     
+      </LOC_STRING>
+
+</ZT2Strings>

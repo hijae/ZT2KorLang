@@ -1,0 +1,4 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoomessages:AnimalGoingToBuildNest"  >%s이(가) 둥지를 지으려고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalBuiltNest"  >%s이(가) 둥지를 짓기 시작했습니다!</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,255 @@
+<ZT2Strings>
+      <LOC_STRING _locID="worldlocation:northamerica">북아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:northamerica_ltt">
+         <color r="255" g="248" b="178">
+            북아메리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southamerica">남아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southamerica_ltt">
+         <color r="255" g="248" b="178">
+            남아메리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralamerica">중앙 아메리카와 카리브 제도</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralamerica_ltt">
+         <color r="255" g="248" b="178">
+            중앙 아메리카와 카리브 제도
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westafrica">아프리카 서부</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westafrica_ltt">
+         <color r="255" g="248" b="178">
+            아프리카 서부
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:northafrica">아프리카 북부</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:northafrica_ltt">
+         <color r="255" g="248" b="178">
+            아프리카 북부
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastafrica">아프리카 동부</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastafrica_ltt">
+         <color r="255" g="248" b="178">
+            아프리카 동부
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralafrica">중앙 아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralafrica_ltt">
+         <color r="255" g="248" b="178">
+            중앙 아프리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southernafrica">아프리카 남부</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southernafrica_ltt">
+         <color r="255" g="248" b="178">
+            아프리카 남부
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southasia">남아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southasia_ltt">
+         <color r="255" g="248" b="178">
+            남아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southeastasia">동남 아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southeastasia_ltt">
+         <color r="255" g="248" b="178">
+            동남 아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralasia">중앙 아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:centralasia_ltt">
+         <color r="255" g="248" b="178">
+            중앙 아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastasia">동아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastasia_ltt">
+         <color r="255" g="248" b="178">
+            동아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:oceania">오세아니아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:oceania_ltt">
+         <color r="255" g="248" b="178">
+            오세아니아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic">북극</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic_ltt">
+         <color r="255" g="248" b="178">
+            북극
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:antarctica">남극</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:antarctica_ltt">
+         <color r="255" g="248" b="178">
+            남극
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westerneurope">서유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westerneurope_ltt">
+         <color r="255" g="248" b="178">
+            서유럽
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southerneurope">남유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southerneurope_ltt">
+         <color r="255" g="248" b="178">
+            남유럽
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:notherneurope">북유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:notherneurope_ltt">
+         <color r="255" g="248" b="178">
+            북유럽
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:easterneurope">동유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:easterneurope_ltt">
+         <color r="255" g="248" b="178">
+            동유럽
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:worldwide">전 세계</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:worldwide_ltt">
+         <color r="255" g="248" b="178">
+            전 세계
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:middleeast">중동</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:middleeast_ltt">
+         <color r="255" g="248" b="178">
+            중동
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:all">전체 서식 환경 지도</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa">아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_ltt">
+         <color r="255" g="248" b="178">
+            아프리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southafrica">남아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southafrica_ltt">
+         <color r="255" g="248" b="178">
+            남아프리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southeastafrica">동남 아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southeastafrica_ltt">
+         <color r="255" g="248" b="178">
+            동남 아프리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southwestafrica">서남 아프리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southwestafrica_ltt">
+         <color r="255" g="248" b="178">
+            서남 아프리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:madagascar">마다가스카르</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:madagascar_ltt">
+         <color r="255" g="248" b="178">
+            마다가스카르
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:asia">아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:asia_ltt">
+         <color r="255" g="248" b="178">
+            아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westernasia">서아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:westernasia_ltt">
+         <color r="255" g="248" b="178">
+            서아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:australia">오스트레일리아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:australia_ltt">
+         <color r="255" g="248" b="178">
+            오스트레일리아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastaustralia">동오스트레일리아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eastaustralia_ltt">
+         <color r="255" g="248" b="178">
+            동오스트레일리아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arcticantarctica">극지방</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arcticantarctica_ltt">
+         <color r="255" g="248" b="178">
+            극지방
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:everglades">플로리다 국립 공원</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:everglades_ltt">
+         <color r="255" g="248" b="178">
+            플로리다 국립 공원
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:outback">오스트레일리아 미개척지</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:outback_ltt">
+         <color r="255" g="248" b="178">
+            오스트레일리아 미개척지
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:europe">유럽</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:europe_ltt">
+         <color r="255" g="248" b="178">
+            유럽
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:china">중국</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:china_ltt">
+         <color r="255" g="248" b="178">
+            중국
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:alps">유럽 고산 지대</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:alps_ltt">
+         <color r="255" g="248" b="178">
+            유럽 고산 지대
+         </color>
+         <br/>
+      </LOC_STRING>
+</ZT2Strings>

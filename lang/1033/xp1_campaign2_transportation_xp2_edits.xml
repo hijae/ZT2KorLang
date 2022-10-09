@@ -1,0 +1,18 @@
+﻿ <ZT2Strings>
+      <LOC_STRING _locID="TransportationCampaign" version="6" />
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelope" version="6"  >
+설문 조사에서 관람객들은 원시 사바나 서식지에 살고 있는 멸종 위기 동물인 자이언트세이블영양에 큰 관심을 나타냈습니다. 다음 달 안에 자이언트세이블영양 2마리를 입양하여 생활 조건을 만족시켜 주면 많은 관람객이 동물원을 찾을 겁니다! 주의: 이것은 선택 사항이며 실패한다고 해도 시나리오의 성공 여부에는 영향을 주지 않습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeSuccess" version="6"  >
+자이언트세이블영양 2마리를 입양하여 욕구를 만족시켰습니다. 관람객들은 원시 사바나 환경에서 살고 있는 희귀하고 매력적인 자이언트세이블영양을 보고 싶어합니다. 덕분에 동물원을 찾는 관람객이 물결을 이룹니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeFailureNeed" version="6"  >
+자이언트세이블영양 2마리를 입양했지만 생활 조건을 만족시키지 못했습니다. 관람객들은 건강하지 않거나 불결한 동물을 별로 보고 싶어하지 않습니다. 더 많은 관람객을 끌어들일 기회를 놓쳤군요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeGoal" version="6"  >(선택 사항) 자이언트세이블영양 2마리를 다음 달 안에 입양하고 생활 조건을 만족시켜 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeGoalDone" version="6"  >자이언트세이블영양 2마리를 입양하고 생활 조건을 만족시켰습니다.</LOC_STRING>
+   
+   
+   
+</ZT2Strings>

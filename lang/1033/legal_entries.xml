@@ -1,0 +1,119 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_about:entry">도움말/Zoo Tycoon 2 정보</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_about:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				Developed by Blue Fang Games(TM) for Microsoft Corporation.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				Blue Fang Games and the Blue Fang logo are trademarks of Blue Fang Games, LLC.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  <p/>
+                  PID를 보려면 Zoo Tycoon 2 디스크를 CD-ROM 드라이브에 삽입하십시오. 	
+                  
+                  
+                  
+                  <br/>
+                  
+디스크를 삽입하면 나타나는 자동 실행 화면에 PID가 표시됩니다. 	            
+                  <p/>
+                  <img src="ui/zoopedia/MsGslogo_white.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/radlogo.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+				Portions of this software are included under license. (c) 1997-2004 Numerical Design, Ltd. All rights reserved.
+				Gamebryo(R) is a registered trademark of Numerical Design, Ltd.
+				
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				Miles Sound System 사용, Copyright 1991-2002 by RAD Game Tools, Inc.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				Bink Video 사용 Copyright (c) 1997-2004 by RAD Game Tools, Inc.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				경고: 이 컴퓨터 프로그램은 저작권법과 국제 협약의 보호를 받습니다. 이 프로그램의 
+				전부 또는 일부를 무단으로 복제, 배포하는 행위는 민사 및 형사법에 의해 엄격히  
+				규제되어 있으며, 기소 사유가 됩니다.
+				
+               
+               
+				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

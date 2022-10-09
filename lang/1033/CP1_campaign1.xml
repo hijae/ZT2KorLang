@@ -1,0 +1,147 @@
+﻿ <ZT2Strings>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsIntro"  >미어캣 무리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsOverview"  >동물원에서는 더 많은 아프리카 동물의 입양을 원하고 있습니다. 근처에 있는 야생 동물 보호 구역에서 미어캣 2마리를 동물원에 기증하겠다고 알려 왔습니다. 입양 비용은 없지만 작고 사회성이 강한 미어캣을 잘 돌봐야 한다는 조건이 있습니다.       
+         <p/>
+         미어캣 2마리는 동물원 정문 근처 상자에 들어 있습니다. 그들을 위한 우리를 만들고 기본적인 생활 조건을 모두 만족시켜 주어야 합니다. 일단 이 2마리를 잘 돌볼 수 있다는 것을 입증하면 야생 동물 보호 구역으로부터 더 많은 미어캣을 기증받을 수 있습니다.
+         <p/>
+         한 가지 명심할 점은 미어캣이 땅을 매우 잘 파기 때문에 울타리 아래로 파고 나올 수 있다는 사실입니다. 이를 방지할 수 있는 울타리가 없다면 우리를 정교하게 만들거나 미어캣이 탈출할 때마다 잡아 오는 수밖에 없습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsOverviewShort"  >개구쟁이 미어캣이 도착했습니다. 사회성이 강한 이 작은 동물을 잘 돌볼 수 있나요? 이 캠페인의 시나리오를 모두 마치면 사막 스타일 건물 및 아이템을 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsPart1SuccessOverview"  >미어캣을 잘 보살펴 주었습니다! 야생 동물 보호 구역에서 여러분의 노력에 큰 감명을 받아 미어캣을 조금 더 기증하기로 했습니다. 그 조금은 무려 6마리나 됩니다! 미어캣은 동물원 정문 근처 상자에 들어 있습니다. 미어캣은 사회성이 강해서 서로 떨어지려고 하지 않으므로 번거롭더라도 모두 같은 우리에 넣어 주어야 합니다.
+      <p/>야생 동물 보호 구역에서는 앞으로 2개월 후에 미어캣의 상태를 확인해 볼 예정이며 모든 미어캣의 기본적인 생활 조건을 만족시키지 못할 경우에는 기증을 취소하고 미어캣을 다른 동물원으로 보낼 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsResult"  >미어캣이 동물원에 추가되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsAdoptFirst"  >미어캣에게 우리를 만들어 주고 기본적인 생활 조건을 만족시켜 주어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishAdoptFirst"  >잘했습니다! 미어캣이 새로운 우리에 잘 적응하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsMeetNeeds"  >미어캣에게 적합한 우리를 만들었으니 이제 기본적인 생활 조건을 만족시켜 주어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishMeetNeeds"  >미어캣의 기본적인 생활 조건을 만족시켰습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsAdoptMore"  >상자에 실린 미어캣 6마리를 우리에 넣어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishAdoptMore"  >좋습니다! 새 미어캣을 모두 상자에서 풀어 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsMeetEnvironmentMore"  >우리의 환경이 모든 미어캣에게 적합해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishMeetEnvironmentMore"  >미어캣에게 적합한 환경을 조성했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsMeetAllNeeds"  >미어캣을 잘 돌보고 모든 생활 조건을 만족시키도록 노력하세요. 2개월 후 미어캣 상태에 대한 평가가 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishMeetAllNeeds"  >미어캣을 잘 보살폈습니다! 이제 이 미어캣들은 동물원 소유가 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFailedMeetNeedsOverview"  >아쉽게도 야생 동물 보호 구역 임원들은 미어캣의 상태에 만족하지 못했습니다. 기증이 취소되고 미어캣들은 다른 동물원으로 보내질 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFailedMeetNeeds"  >미어캣들은 동물원에 잘 적응하지 못한 것으로 판단되어 다른 동물원으로 보내졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsFinishMeetNeedsOverview"  >야생 동물 보호 구역 임원들은 동물원에 기증한 미어캣들의 상태를 확인하기 위해 동물원을 방문했습니다. 그들은 미어캣의 상태에 큰 만족을 표시했습니다! 덕분에 미어캣은 동물원에 계속 남게 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsDonations"  >
+미어캣에 대한 관심을 높이기 위해 야생 동물 보호 구역에서 추가 제안을 했습니다. 미어캣에 대한 기부금 $3,500를 모으면 미어캣 장난감을 무료로 기증할 것이라고 합니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsDonationsGoal"  >(선택 사항) 미어캣에 대한 기부금 $3,500를 모으고 무료로 미어캣 장난감을 받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsDonationsGoalDone"  >미어캣에 대한 기부금 $3,500를 모아 무료로 미어캣 초소를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsSentryPost"  >미어캣의 장난스러운 모습에 큰 즐거움을 느낀 관람객이 낸 기부금이 $3,500를 넘었습니다. 야생 동물 보호 구역에서는 약속한 대로 미어캣 초소를 동물원에 기증했습니다. 미어캣 초소는 동물원 정문 근처 상자에 들어 있습니다.
+	  <p/>
+	  야생 동물 보호 구역에서 마지막으로 한 가지 부탁을 했습니다. 그들은 웹 사이트에 올릴 미어캣 홍보 사진이 필요하다고 합니다. 미어캣 초소 안에 있는 미어캣의 사진을 찍으면 야생 동물 보호 구역에서 $10,000를 기부할 것입니다!
+	  </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsSentryPostSuccess"  >잘했습니다! 미어캣 초소 안에 서 있는 미어캣 사진에 대한 대가로 $10,000의 기부금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsSentryPostGoal"  >(선택 사항) 미어캣 초소 안에 있는 미어캣 사진을 찍고 지원금 $10,000를 받으세요.
+	  </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:MeerkatsSentryPostGoalDone"  >미어캣 초소 안에 있는 미어캣 사진에 대한 대가로 $10,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdIntro"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdOverviewShort"  >뱀잡이수리의 여러 행동을 필름에 담을 수 있을까요? 이 캠페인의 시나리오를 모두 마치면 사막 스타일 건물 및 아이템을 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdOverview"  >뱀잡이수리는 아프리카의 사바나 지역과 초원에서 흔히 볼 수 있는 새입니다. 뱀잡이수리는 다리가 긴 육식 동물로 날 수 있지만 주로 땅 위를 걸어 다니며 도마뱀, 곤충, 설치 동물 등의 먹이를 찾습니다.
+      <p/>
+      맹금류 보호 협회는 전 세계의 육식성 조류 보호에 앞장서고 있는 단체입니다. 이 협회에서 기부한 뱀잡이수리는 동물원 정문 근처 상자에 들어 있습니다. 그들은 기부에 대한 대가로 기금 조성용 달력에 사용할 뱀잡이수리 사진 몇 장을 찍어 달라고 요청해 왔습니다. 
+      <p/>
+      맹금류 보호 협회는 다음 두 사진을 첫 번째로 찍길 바랍니다.
+      <br/>
+			*  날개를 다듬고 있는 뱀잡이수리 사진 한 장. 힌트: 뱀잡이수리는 청결을 유지하기 위해 날개를 다듬습니다.
+			<br/>
+			*  날갯짓을 하고 있는 뱀잡이수리 사진 한 장
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdGuests"  >맹금류 보호 협회에서는 좀 더 많은 사람들이 뱀잡이수리에 대해 관심을 보여 주기를 바랍니다. 동물원에 총 75명의 관람객을 유치할 경우 협회는 $20,000의 기부금을 제공할 것입니다.			
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPart1Goals"  >
+      다음 사진을 찍으세요.
+      <br/>
+			*  날개를 다듬고 있는 뱀잡이수리 사진 한 장
+			<br/>
+			*  날갯짓을 하고 있는 뱀잡이수리 사진 한 장
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPart1GoalsDone"  >첫 번째로 찍어야 할 뱀잡이수리 사진을 모두 찍었습니다. 포상으로 $10,000를 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdBehaviors"  >맹금류 보호 협회는 첫 번째로 제출한 사진에 매우 만족했습니다. 이번에는 뱀잡이수리의 좀 더 고차원적인 행동을 사진으로 찍어 달라고 요청합니다.
+      <p/>
+      다음 사진을 찍으세요.
+      <br/>
+			*  큰 공을 가지고 노는 뱀잡이수리. 힌트: 큰 공을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+			<br/>
+			*  살아있는 도마뱀에 접근하고 있는 뱀잡이수리. 힌트: 살아있는 도마뱀을 사용하려면 동물원 명성을 별 한 개 반까지 올려야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPart2Goals"  >
+      다음 사진을 찍으세요.
+      <br/>
+			*  큰 공을 가지고 노는 뱀잡이수리. 힌트: 큰 공을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+			<br/>
+			*  살아있는 도마뱀에 접근하고 있는 뱀잡이수리. 힌트: 살아있는 도마뱀을 사용하려면 동물원 명성을 별 한 개 반까지 올려야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPart2GoalsDone"  >두 번째로 찍어야 할 뱀잡이수리 사진을 모두 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdBreed"  >
+      맹금류 보호 협회는 두 번째로 제출한 사진을 보고 다시 한 번 큰 감명을 받았습니다. 이제 그들은 달력에 넣을 마지막 사진으로 뱀잡이수리의 알이 담긴 사진을 찍어 달라고 합니다!
+      <p/>
+      알 사진을 찍으려면 수컷 뱀잡이수리를 데리고 와서 짝짓기를 할 수 있게 해 주어야 합니다. 힌트: 알을 낳게 하려면 뱀잡이수리의 추가적인 생활 조건을 모두 만족시켜야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdSuccessOverview"  >
+축하합니다! 뱀잡이수리 사진 덕분에 맹금류 보호 협회 달력이 큰 인기를 끌면서 많은 기금이 마련되었습니다. 이 기금은 전 세계의 맹금류 보호에 큰 보탬이 될 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdOverallGoal"  >카메라를 사용하여 뱀잡이수리 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPreenGoal"  >날개를 다듬고 있는 뱀잡이수리의 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPreenGoalDone"  >뱀잡이수리가 날개를 다듬고 있는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdFlapGoal"  >날갯짓을 하고 있는 뱀잡이수리의 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdFlapGoalDone"  >뱀잡이수리가 날갯짓을 하고 있는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPursuitBallGoal"  >큰 공을 가지고 노는 뱀잡이수리의 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdPursuitBallGoalDone"  >뱀잡이수리가 큰 공을 가지고 노는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdLizardGoal"  >살아있는 도마뱀에 접근하고 있는 뱀잡이수리의 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdLizardGoalDone"  >뱀잡이수리가 살아있는 도마뱀에 접근하고 있는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdEggGoal"  >뱀잡이수리의 알 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdEggGoalDone"  >뱀잡이수리의 알 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdGuestsGoal"  >(선택 사항) 동물원에 75명 이상의 관람객을 유치하고 지원금 $20,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:SecretaryBirdGuestsGoalDone"  >동물원 관람객이 75명을 넘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityIntro"  >아프리카 생태 동물원</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityOverview"  >
+여러분은 다양한 아프리카 야생 동물들이 살아가게 될 새로운 동물원의 건설을 위해 고용되었습니다. 동물원 이사회는 최소한 14종 이상의 아프리카 동물들이 살아갈 수 있는 동물원을 원하고 있습니다. 물론 다른 지역의 동물도 입양할 수 있지만 아프리카 동물을 제외한 다른 동물은 목표치에 포함되지 않습니다.
+         <p/>
+우리 동물원의 설립 목적은 아프리카의 다양한 동물을 사람들에게 보여 주는 것입니다. 따라서 이사회에서는 얼룩말이나 사자 같은 익숙한 사바나 동물보다는 새로운 동물의 입양을 원하고 있습니다. 입양할 14종의 아프리카 동물 중 사바나 동물은 4종을 넘으면 안 됩니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityOverviewShort"  >여러분은 14종의 아프리카 동물들이 살아갈 동물원을 건설해야 합니다. 이 중에서 사바나 동물은 4종으로 제한됩니다. 이 캠페인의 시나리오를 모두 마치면 사막 스타일 건물 및 아이템을 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversitySuccessOverview"  >동물원 이사회는 성공적인 동물원 건설에 크게 고무되었습니다! 여러분은 4종의 사바나 동물들을 포함하여 모두 14종의 아프리카 동물들이 살아가는 동물원을 건설했습니다. 아프리카의 다양한 야생 동물들을 볼 수 있는 근사한 동물원이 탄생한 것을 축하합니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityResult"  >사바나 동물을 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityFourSpecies"  >동물원 이사회는 아프리카 동물 4종을 입양하면 지원금 $20,000를 지급하기로 약속했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityFourSpeciesSuccess"  >아프리카 동물 4종을 입양해서 동물원 이사회로부터 지원금 $20,000를 받았습니다! 이사회는 총 8종의 아프리카 동물을 입양하면 추가로 $40,000를 지원하기로 약속했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityEightSpeciesSuccess"  >잘했습니다! 모두 8종의 아프리카 동물을 입양했습니다. 이사회는 그동안의 노고에 대한 대가로 지원금 $40,000를 지급했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoScrub"  >
+또한 이사회는 관목림 지대에 사는 2종의 아프리카 동물을 입양하면 $10,000를 지원하기로 약속했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoScrubSuccess"  >관목림 지대에 사는 2종의 아프리카 동물을 입양하여 지원금 $10,000를 받았습니다! 이사회는 초원 지대에 사는 2종의 아프리카 동물을 입양하면 추가로 $20,000를 지원하겠다고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoGrasslandsSuccess"  >초원 지대에 사는 아프리카 동물 2종을 입양했습니다. 이사회는 크게 기뻐하며 지원금 $20,000를 지급했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityOverallGoal"  >14종의 아프리카 동물을 입양하세요. 사바나 동물은 최대 4종을 입양할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityOverallGoalDone"  >축하합니다! 사바나 동물이 4종을 넘지 않는 아프리카 야생 동물을 위한 동물원 건설에 성공했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversitySavannahExcess"  >14종 이상의 아프리카 동물을 입양했지만 사바나 동물이 4종이 넘습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityFourSpeciesGoal"  >4종의 아프리카 동물을 입양하고 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityFourSpeciesGoalDone"  >4종의 아프리카 동물을 입양했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityEightSpeciesGoal"  >총 8종의 아프리카 동물을 입양하고 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityEightSpeciesGoalDone"  >8종의 아프리카 동물을 입양했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoScrubGoal"  >(선택 사항) 관목림 지대에 사는 아프리카 동물 2종을 입양하고 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoScrubGoalDone"  >관목림 지대에 사는 2종의 아프리카 동물을 입양했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoGrasslandsGoal"  >(선택 사항) 초원 지대에 사는 아프리카 동물 2종을 입양하고 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:AfricanDiversityTwoGrasslandsGoalDone"  >초원 지대에 사는 2종의 아프리카 동물을 입양했습니다.</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaign:newitemdesert"  >
+축하합니다! 사막 스타일 건물 및 아이템을 사용할 수 있게 되었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignshort"  >아프리카 생태 체험</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS1"  >미어캣 무리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS1short"  >미어캣 무리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS2"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS2short"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS3"  >아프리카 생태 동물원</LOC_STRING>
+      <LOC_STRING _locID="AfricaCampaignLabels:AfricaCampaignS3short"  >아프리카 생태 동물원</LOC_STRING>
+</ZT2Strings>

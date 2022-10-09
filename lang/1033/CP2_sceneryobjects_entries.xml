@@ -1,0 +1,20 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tarfountain:entry"  >Extinct-Themed Decorative Tar Pit</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tarfountain:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\fountain_xt\fountain_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+                  <br/>The extinct-themed decorative tar pit demonstrates what happens when crude oil bubbles to the Earth's surface and forms a sticky pool of asphalt. In nature, the heavy tar has preserved animal bones and teeth for tens of thousands of years. A stone saber-toothed cat in search of higher ground draws curious guests to the decorative tar pit's bubbling ooze, which is safe -- but can be very sticky for guests.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+
+ 
+</ZT2Strings>

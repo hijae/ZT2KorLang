@@ -1,0 +1,137 @@
+		<ZT2Strings>
+      <LOC_STRING _locID="entityname" version="2" />
+      <LOC_STRING _locID="entityname:Kily_Rainforest" version="2"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_stt" version="2"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_lower" version="2"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            킬리나무
+         </color>
+         <br/>
+         
+         
+         킬리나무를 적당한 위치에 심으세요. 킬리나무 열매는 호랑이꼬리여우원숭이가 좋아합니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_Gift" version="2"  >호랑이꼬리여우원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_Gift_stt" version="2"  >호랑이꼬리여우원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_Gift_lower" version="2"  >호랑이꼬리여우원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_Gift_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            호랑이꼬리여우원숭이 인형
+         </color>
+         <br/>
+         호랑이꼬리여우원숭이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Bananas" version="2"  >바나나</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Bananas_stt" version="2"  >바나나</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Bananas_lower" version="2"  >바나나</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Bananas_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            바나나
+         </color>
+         <br/>
+         
+         
+         바나나를 적당한 위치에 놓으세요. 침팬지, 고릴라, 호랑이꼬리여우원숭이가 아주 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed" version="2"  >호랑이꼬리여우원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_stt" version="2"  >호랑이꼬리여우원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_lower" version="2"  >호랑이꼬리여우원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:LemurRingtailed_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            호랑이꼬리여우원숭이
+         </color>
+         <br/>
+         
+         
+         호랑이꼬리여우원숭이를 적당한 우리에 넣어 주세요. 호랑이꼬리여우원숭이는 마다가스카르 섬이 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo" version="2"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_stt" version="2"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_lower" version="2"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            주황색 대형 화단
+         </color>
+         <br/>
+         
+         
+         주황색 대형 화단을 선택하고 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo" version="2"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_stt" version="2"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_lower" version="2"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            파란색 대형 화단
+         </color>
+         <br/>
+         
+         
+         파란색 대형 화단을 선택하고 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo" version="2"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_stt" version="2"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_lower" version="2"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            자주색 중형 화단
+         </color>
+         <br/>
+         
+         
+         중형 화단을 선택하고 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo" version="2"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_stt" version="2"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_lower" version="2"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            노란색 중형 화단
+         </color>
+         <br/>
+         
+         
+         중형 화단을 선택하고 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo" version="2"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_stt" version="2"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_lower" version="2"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            소형 화단
+         </color>
+         <br/>
+         
+         
+         소형 화단을 설치합니다. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShadeStructure_Shelter_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            그늘터
+         </color>
+         <br/>
+         
+         
+         그늘터를 설치합니다. 그늘터는 동물들이 햇빛을 피할 수 있도록 그늘을 만들어 줍니다.
+      
+      
+      </LOC_STRING>
+</ZT2Strings>

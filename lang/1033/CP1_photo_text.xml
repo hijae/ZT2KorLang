@@ -1,0 +1,110 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHMiracleMotorsPhotos"  >마이그레이션 자동차</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMiracleMotors"  >          
+			자동차 제조업체인 마이그레이션 자동차는 "톰슨가젤처럼 빠른 자동차!"라는 슬로건으로 시작하는 새로운 광고에 들어갈 사진이 필요하다고 합니다. 그들에게 톰슨가젤이 달리는 사진을 찍어서 제공하면 $1,500를 지급하겠다고 합니다. 난이도: 초급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMiracleMotorsShort"  >  
+   			다음 사진을 찍으세요.  
+			<p/>   
+		*  이리저리 달리고 있는 톰슨가젤
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMiracleMotorsSuccess"  >여러분이 찍은 톰슨가젤 사진은 마이그레이션 자동차 광고에 딱 들어맞는다고 합니다! 사진 제공에 대한 보답으로 $1,500를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMiracleMotorsSuccessShort"  >톰슨가젤 사진에 대한 대가로 $1,500를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_MiracleMotorsGazellePhoto"  >이리저리 달리고 있는 톰슨가젤의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterlyPhotos"  >동물보호 잡지</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly"  >          
+			동물보호 잡지는 동물원에서 생활하는 대형 유제류에 대한 관리와 먹이에 관한 주제로 기사를 내려고 합니다. 그들은 기사에 싣게 될 아프리카들소를 관찰하고 있는 관람객 사진을 제공하면 $1,500를 지불하겠다고 합니다. 난이도: 초급    
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterlyShort"  >  
+   			다음 사진을 찍으세요.  
+			<p/>   
+		*  아프리카들소를 관찰하고 있는 관람객
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterlySuccess"  >잘했습니다! 아프리카들소를 관찰하고 있는 관람객 사진에 대한 대가로 동물보호 잡지로부터 $1,500를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterlySuccessShort"  >아프리카들소를 관찰하고 있는 관람객 사진에 대한 대가로 $1,500를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AnimalCareQuarterlyBuffaloPhoto"  >아프리카들소를 관찰하고 있는 관람객 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHScrubExhibitionPhotos"  >관목림 서식 동물 전시회</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHScrubExhibition"  >          
+			동물원에서는 관람객을 대상으로 아프리카 관목림 지대에 서식하는 다양한 야생 동물에 대한 교육을 실시할 목적으로 특별 전시회를 준비 중입니다. 전시회에 필요한 사진은 다음과 같습니다.     
+			<br/>         
+		*  주위를 둘러보고 있는 미어캣   
+			<br/>     
+		*  서서 나무 혹은 홀더의 먹이를 먹고 있는 게레눅의 사진을 찍으세요. 
+			<br/>    
+		*  흰개미집의 곤충을 먹고 있는 땅돼지 
+			<br/>
+			이 사진을 모두 찍는다면 동물원에 더 많은 관람객을 유치할 수 있습니다.
+			<br/>
+   			난이도: 중급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHScrubExhibitionShort"  >  
+   			다음 사진을 찍으세요.  
+			<p/>   
+		*  주위를 둘러보고 있는 미어캣   
+			<br/>     
+		*  서서 나무 혹은 홀더의 먹이를 먹고 있는 게레눅의 사진을 찍으세요. 
+			<br/>     
+		*  흰개미집의 곤충을 먹고 있는 땅돼지 
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHScrubExhibitionSuccess"  >여러분이 찍은 사진 덕분에 관목림 지대 동물 전시회가 큰 인기를 끌고 있습니다! 전시회 관람을 위해 엄청나게 많은 사람들이 동물원으로 몰려들고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHScrubExhibitionSuccessShort"  >관목림 지대 동물 사진 덕분에 동물원 관람객이 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ScrubExhibitionMeerkat"  >주위를 둘러보고 있는 미어캣의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ScrubExhibitionGerenuk"  >서서 나무 혹은 홀더의 먹이를 먹고 있는 게레눅의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ScrubExhibitionAardvark"  >흰개미집의 곤충을 먹고 있는 땅돼지의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly2Photos"  >습지 동물과 사막 동물</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly2"  >          
+			동물보호 잡지는 서로 다른 기후에 사는 동물들에 대한 특집호를 계획하고 있습니다. 그 중에서 아프리카 동물 기사에는 습지 동물과 사막 동물을 비교해서 실을 예정이라고 합니다. 그들이 요청한 사진은 다음과 같습니다.     
+			<br/>         
+		*  물속에 있는 아프리카들소   
+			<br/>     
+		*  일광욕 램프 아래에 있는 아프리카가시거북 
+			<br/>     
+		*  물속에 있는 나일왕도마뱀 
+			<br/>
+			잡지사에서 사진 값으로 $6,000를 지불할 것입니다.
+			<br/>
+   			난이도: 중급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly2Short"  >  
+   			다음 사진을 찍으세요.  
+			<p/>   
+		*  물속에 있는 아프리카들소    
+			<br/> 
+		*  일광욕 램프 아래에 있는 아프리카가시거북  
+			<br/> 
+		*  물속에 있는 나일왕도마뱀 
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly2Success"  >동물보호 잡지에 찍은 사진을 제출했으며 잡지사는 제공한 사진에 대해 $6,000를 지불했습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHAnimalCareQuarterly2SuccessShort"  >사진 제공의 대가로 동물보호 잡지로부터 $6,000를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AnimalCareQuarterly2BuffaloPhoto"  >물속에 있는 아프리카들소의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AnimalCareQuarterly2TortoisePhoto"  >일광욕 램프 아래에 있는 아프리카가시거북의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AnimalCareQuarterly2MonitorPhoto"  >물속에 있는 나일왕도마뱀의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBillboardCampaignPhotos"  >광고판 홍보</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBillboardCampaign"  >          
+			홍보부는 동물원 홍보를 위한 광고판에 사용할 다음과 같은 사진을 요청하였습니다.     
+			<br/>         
+		*  뼈를 가지고 놀고 있는 줄무늬하이에나 
+			<br/>     
+		*  삑삑이 장난감을 가지고 놀고 있는 카라칼 
+			<br/>    
+		*  하품하고 있는 맨드릴개코원숭이
+			<br/>
+			홍보부에서 요청한 사진을 찍는다면 광고판 홍보를 통해 더 많은 관람객을 유치할 수 있을 것입니다.
+			<br/>
+   			난이도: 고급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBillboardCampaignShort"  >  
+   			다음 사진을 찍으세요.  
+			<p/>   
+		*  뼈를 가지고 놀고 있는 줄무늬하이에나    
+			<br/> 
+		*  삑삑이 장난감을 가지고 놀고 있는 카라칼 
+			<br/> 
+		*  하품하고 있는 맨드릴개코원숭이
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBillboardCampaignSuccess"  >여러분의 사진을 이용한 광고판 홍보는 성공적이었습니다. 앞으로 더 많은 관람객이 우리 동물원을 찾을 것입니다! </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBillboardCampaignSuccessShort"  >광고판 사진 덕분에 동물원을 찾는 관람객 수가 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BillboardCampaignHyenaPhoto"  >뼈를 가지고 놀고 있는 줄무늬하이에나의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BillboardCampaignCaracalPhoto"  >삑삑이 장난감을 가지고 놀고 있는 카라칼의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BillboardCampaignMandrillPhoto"  >하품하고 있는 맨드릴개코원숭이의 사진을 찍으세요.</LOC_STRING>
+</ZT2Strings>

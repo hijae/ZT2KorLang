@@ -1,0 +1,99 @@
+﻿	<ZT2Strings>
+      <LOC_STRING _locID="Challengetext:CHGenericChallenge"  >그런 일은 없겠지만 혹시 임대한 동물이 임대 기간 안에 죽는 경우 %s를 벌금으로 납부해야 합니다. 난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeShort"  >임대한 동물이 2개월 이내에 새끼를 낳도록 해야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeSuccessShort"  >임대한 동물이 새끼를 낳았습니다. 임대한 동물과 새끼는 동물원에서 계속 기를 수 있으며 임대 비용도 돌려받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeSuccess"  >축하합니다! 임대한 동물이 새끼를 낳는 데 성공했습니다. 임대한 동물과 새끼 모두 우리 동물원에서 기를 수 있으며 임대 비용도 돌려받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeFailureShort"  >임대한 동물이 새끼를 낳지 못했습니다. 동물은 원래 소유자에게 다시 보내졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeFailure"  >계약 기간이 끝나서 동물이 원래 소유자에게 다시 보내졌습니다. 기회가 한 번 더 있다면 더 좋은 결과가 생길 수도 있습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeBadFailureShort"  >임대한 동물을 원래 소유자에게 돌려보낼 수 없게 되었습니다! 벌금을 지불해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHGenericChallengeBadFailure"  >임대한 동물이 죽었기 때문에 원래 소유자에게 돌려보낼 수 없습니다! 계약 조건에 따라 계좌에서 %s가 빠져나갔습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallenge"  >시장이 우리 동물원에 과제를 하나 주었습니다. 앞으로 한 달 안에 %s 한 마리를 입양하면 시에서 $750를 지원해 주겠다고 합니다. 단, 실패할 경우에는 평판이 나빠져 관람객이 약간 줄어들게 됩니다. 난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallengeShort"  >한 달 안에 %s 한 마리를 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallengeSuccessShort"  >%s을(를) 입양한 대가로 시에서 $750를 지원해 주었습니다. 이 사실이 알려져 동물원이 더욱 유명해졌습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallengeSuccess"  >잘했습니다! 한 달 안에 %s을(를) 입양했습니다. 시에서 동물원 운영을 돕기 위해 $750를 지원했습니다. 이 사실이 언론에 알려지면서 동물원이 더욱 유명해졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallengeFailureShort"  >기한 내에 %s을(를) 입양하지 못했습니다. 평판이 나빠져 그 다음달 관람객이 약간 줄었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMayorsChallengeFailure"  >한 달 안에 %s을(를) 입양하지 못했습니다. 지원금을 놓쳤을 뿐만 아니라 이 사실이 언론에 알려지면서 동물원 관람객도 약간 줄었습니다. 다음 한 달간 관람객 수가 약간 줄어듭니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecake"  >바가스치즈케이크제과는 새로 개장한 우리 동물원에서 제품 판매를 검토 중입니다. 관람객들이 동물원에서 돈을 쓰는 것이 확인되면 치즈 케이크를 판매하겠다고 합니다. 여러분은 음식과 음료 판매로 $250의 수익을 올려 이를 확인시켜야 합니다. 그러면 치즈 케이크 가판대가 동물원에 무료로 설치됩니다. 
+			<br/>
+   			난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecakeShort"  >한 달 동안 음식과 음료 판매로 $250의 수익을 올려 치즈 케이크 가판대를 얻으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecakeSuccessShort"  >음식과 음료 판매로 $250 이상의 수익을 올려 바가스치즈케이크제과에서 치즈 케이크 가판대를 무료로 설치해 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecakeSuccess"  >잘했습니다! 음식과 음료 판매로 $250 이상의 수익을 올렸습니다. 바가스치즈케이크제과에서 제품이 잘 팔릴 것으로 판단해 치즈 케이크 가판대를 무료로 설치해 주었습니다. 가판대는 동물원 정문 근처 상자에 들어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecakeFailureShort"  >한 달 동안 음식과 음료 판매로 $250의 수익을 올리지 못했습니다. 치즈 케이크 가판대를 얻지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHVargasCheesecakeFailure"  >안됐군요! 한 달 안에 음식과 음료 판매로 $250의 수익을 올리지 못했습니다. 바가스치즈케이크제과는 치즈 케이크가 동물원에서 잘 팔리지 않을 것으로 판단했습니다. 치즈 케이크 가판대를 얻을 기회를 놓쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusements"  >애크미완구는 이번 달 제품 홍보 차원에서 고급 놀이 기구 샘플을 무료로 나누어 줄 계획인데, 그 대상은 관람객 기부금 모금 실적이 좋은 동물원입니다. 다음 한 달 동안 기부금 $1,000를 모아 애크미완구로부터 흔들 코뿔소 놀이 기구를 무료로 받으세요. 
+			<br/>
+   			난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusementsShort"  >앞으로 한 달 동안 기부금 $1,000를 모아 흔들 코뿔소 놀이 기구를 무료로 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusementsSuccessShort"  >기부금 $1,000를 모아 애크미완구로부터 흔들 코뿔소 놀이 기구를 얻었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusementsSuccess"  >한 달 동안 기부금 $1,000를 모으는 데 성공해 애크미완구에서 흔들 코뿔소를 보내 주었습니다. 흔들 코뿔소 놀이 기구는 동물원 정문 근처 상자에 들어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusementsFailureShort"  >한 달 동안 기부금 $1,000를 모으지 못해 흔들 코뿔소 놀이 기구를 얻지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAcmeAmusementsFailure"  >한 달 동안 기부금 $1,000를 모으지 못했습니다. 애크미완구의 흔들 코뿔소 놀이 기구의 무상 홍보 기간이 끝났습니다. 아까운 기회를 놓쳤군요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiative"  >동물원 외관이 밋밋해 관람객들이 싫증을 느끼고 있습니다. 특히 울타리가 전부 철조망이라 너무 단조롭습니다. 앞으로 한 달 안에 철조망 울타리를 다른 울타리로 모두 바꿔 주면 관람객도 늘어나고 동물원 명성도 올라갈 것입니다. 한 달이 지나도 철조망 울타리가 남아 있으면 그 다음 달 관람객 수가 약간 줄어듭니다. 
+      <br/>      
+      난이도: 다양함</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiativeShort"  >한 달 안에 동물원에 있는 철조망 울타리를 모두 교체하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiativeSuccessShort"  >철조망 울타리를 모두 없앴습니다! 관람객도 늘어나고 동물원 명성도 올라갔습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiativeSuccess"  >잘했습니다! 철조망 울타리를 모두 교체해 동물원 외관이 새롭게 바뀌었군요. 새로워진 동물원 모습을 보려고 관람객이 몰려들고 있습니다. 동물원도 더욱 유명해졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiativeFailureShort"  >철조망 울타리를 모두 없애지 못했습니다. 다음 달 관람객 수가 약간 줄어듭니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRenovationInitiativeFailure"  >한 달이 지났는데 아직도 철조망 울타리가 남아 있군요. 단조로운 동물원 모습에 관람객들이 싫증나 다음 달 관람객 수가 줄어듭니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterRelief"  >동물원에 소규모의 지진이 발생했습니다! 다행히 관람객이나 동물은 다치지 않았지만 울타리가 좀 망가졌고 동물들도 놀랐습니다. 재난 구조 기금에서 울타리 복구를 돕기 위해 자금을 지원하겠다고 합니다. 여러분이 망가진 울타리를 모두 교체하거나 제거하면 재난 구조 기금에서 %s를 지원할 것입니다. 난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterReliefShort"  >복구비를 지원 받으려면 망가진 울타리를 모두 교체하거나 제거하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterReliefSuccessShort"  >망가진 울타리를 모두 제거한 덕분에 재난 구조 기금에서 복구비를 지원 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterReliefSuccess"  >지진 피해를 극복하고 동물원이 원래의 모습을 되찾고 있습니다. 망가진 울타리 복구비를 지원하기 위해 재난 구조 기금에서 %s를 지원했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterReliefFailureShort"  >망가진 울타리를 장기간 방치해 둔 바람에 더 이상 복구비를 지원 받을 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDisasterReliefFailure"  >수 개월이 지났는데도 지진 피해를 복구하지 않았군요! 재난 구조 기금의 복구비 지원 기간이 끝났습니다. 더 이상 복구비를 지원 받을 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistance"  >(멸종 위기 동물 챌린지) 동물 지원 협회는 멸종 위기 동물들의 번식을 적극적으로 돕기 위한 프로그램을 내놓았습니다. 앞으로 두 달 안에 3종의 멸종 위기 동물을 번식시키면 그 비용을 협회가 지불하겠다고 합니다. 번식 비용은 동물마다 다릅니다. 
+      <br/>      
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceShort"  >두 달 안에 멸종 위기 동물 3종을 번식시키세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceSuccessShort"  >멸종 위기 동물 3종이 각각 새끼를 낳아서 번식 비용을 지원 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceSuccess"  >잘했습니다! 멸종 위기 동물 3종을 번식시켰습니다. 동물의 종족 보존에 기여한 공로를 인정해 동물 지원 협회에서 지원금을 제공했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceFailureShort"  >두 달 안에 멸종 위기 동물 3종을 번식시키지 못했습니다. 번식 비용을 지원 받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceFailure"  >두 달이 지났지만 멸종 위기 동물 3종을 번식시키지 못했군요. 동물 지원 협회에서 번식 비용 지원 프로그램이 종료되었음을 통보해 왔습니다. 다음에는 행운을 바랍니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceOneBred"  >축하합니다! 멸종 위기 동물 1종이 새끼를 낳았습니다. 동물 지원 협회로부터 번식 비용을 지원 받으려면 멸종 위기 동물 2종을 더 번식시키세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceTwoBred"  >잘했습니다! 또 다른 멸종 위기 동물 1종이 새끼를 낳았군요. 1종만 더 번식시키면 동물 지원 협회로부터 번식 비용을 지원 받을 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalAssistanceThemePromo"  >2개의 멸종 위기 동물 챌린지를 완료하면 멸종 위기 동물 아이템을 사용할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobal"  >(멸종 위기 동물 챌린지) 세계적 다국적 기업인 컴퓨글로벌 인터내셔널은 우리 동물원에 멸종 위기 동물 보존을 위한 연 단위의 보조금을 지원할 것을 검토 중입니다. 이사 세 명이 방문해 동물원을 평가할 예정인데, 동물원에 멸종 위기 동물이 3종 이상 있는 것을 확인하면 $10,000 지원금을 준다고 합니다! 힌트: 이사들이 동물원을 평가하는 동안 만족할 수 있도록 신경써 주세요. 만족스럽지 못한 부분이 있다면 멸종 위기 동물을 보기도 전에 동물원을 떠날지도 모릅니다.
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalShort"  >컴퓨글로벌 이사들이 동물원에서 멸종 위기 동물 3종을 확인하면 $10,000를 지원할 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalSuccessShort"  >컴퓨글로벌 이사들이 멸종 위기 동물 3종을 확인하고 $10,000를 지원했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalSuccess"  >컴퓨글로벌 이사들이 멸종 위기 동물을 3종 이상 확인했습니다! 동물원에서 잘 살고 있는 멸종 위기 동물들을 보고 기뻐하며 지원금으로 $10,000를 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalFailureShort"  >컴퓨글로벌 이사들은 멸종 위기 동물 3종을 보지 못하고 동물원을 떠났습니다. $10,000를 지원 받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalFailure"  >컴퓨글로벌 이사들은 멸종 위기 동물 3종을 못 보고 동물원을 떠났습니다. 우리 동물원의 멸종 위기 동물의 보존을 위한 노력이 이사들의 기대에 미치지 못했습니다. 멸종 위기 동물 보존 지원금 $10,000를 받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalArrival"  >컴퓨글로벌 이사 세 명이 동물원에 도착했습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalOneSeen"  >지금까지 컴퓨글로벌 이사들은 멸종 위기 동물 1종을 확인했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalTwoSeen"  >지금까지 컴퓨글로벌 이사들은 멸종 위기 동물 2종을 확인했습니다. 1종만 더 확인하면 $10,000를 지원 받게 됩니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalOneGone"  >컴퓨글로벌 이사 중 한 명이 동물원을 떠났습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalTwoGone"  >컴퓨글로벌 이사 중 또 한 명이 동물원을 떠났습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalThemePromo"  >2개의 멸종 위기 동물 챌린지를 완료하면 멸종 위기 동물 아이템을 사용할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalExecutiveName"  >컴퓨글로벌 이사</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalExecutiveName2"  >컴퓨글로벌 이사 2</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCompuglobalExecutiveName3"  >컴퓨글로벌 이사 3</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransport"  >미래항공에서는 멋지고 편리한 최첨단 이동 시설인 리프트의 홍보를 위해 우리 동물원을 무대로 전국적인 광고를 기획하고 있습니다. 리프트 투어 시설의 건설에 동의하면 미래항공은 즉시 $5,000의 지원금을 주겠다고 합니다. 또한 앞으로 두 달 안에 관람객 50명이 리프트를 이용할 경우 $5,000를 추가로 지원하겠다고 합니다. 하지만 정해진 기한 동안 리프트 이용객이 50명도 안 될 경우 동물원의 평판이 나빠져 관람객이 약간 줄어들게 됩니다.  
+      <br/>
+      난이도: 고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransportShort"  >$5,000를 추가로 지원 받으려면 두 달 안에 관람객 50명이 리프트를 타게 만드세요. 실패할 경우에는 관람객 수가 약간 줄어듭니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransportSuccessShort"  >관람객 50명이 리프트를 탔습니다. $5,000를 지원 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransportSuccess"  >잘했습니다! 기한 내에 리프트 이용객을 50명 이상 유치해 리프트의 인기를 증명해 보였습니다. 미래항공에서 $5,000를 추가로 지원했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransportFailureShort"  >두 달 동안 리프트를 이용한 관람객이 50명도 안 됩니다. 동물원 평판이 나빠져 관람객이 약간 줄었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAlternateTransportFailure"  >두 달이 지났는데 리프트 이용객이 50명도 안 되는 군요. 미래항공으로부터 추가 지원금을 받지 못하며, 동물원 평판이 나빠져 다음 달 관람객이 약간 줄어들게 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterly"  >월간 동물원 팬에서 "신나게 달리자"라는 제목으로 동물원 투어에 대한 기사를 준비 중입니다. 여러분이 앞으로 두 달 안에 지프 투어 기부금으로 $1,000를 모으면 다음 호 기사에서 그 성과를 다루겠다고 합니다. 기사가 실리면 동물원 평판이 좋아져 관람객도 늘어나고 동물원 명성도 올라갈 것입니다. 단, 실패할 경우에는 관람객이 약간 줄어들게 됩니다.
+      <br/>
+      난이도: 고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterlyShort"  >두 달 안에 지프 투어 기부금으로 $1,000를 모으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterlySuccessShort"  >지프 투어 기부금으로 $1,000를 모아 관람객이 늘어나고 동물원도 더 유명해졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterlySuccess"  >잘했습니다! 우리 동물원이 지프 투어 기부금으로 $1,000를 모은 소식에 대해 월간 동물원 팬 최신호에서 격찬을 해 주었습니다. 동물원 평판이 좋아져 관람객이 늘어났고 동물원도 더욱 유명해졌습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterlyFailureShort"  >두 달 안에 지프 투어 기부금으로 $1,000를 모으지 못했습니다. 동물원 관람객이 줄었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHZooFanQuarterlyFailure"  >두 달이 지났는데 지프 투어 기부금으로 $1,000를 모으지 못했군요. 월간 동물원 팬에서 이 소식을 다루는 바람에 동물원 평판이 나빠져 관람객이 줄었습니다. 앞으로 한 달간 관람객이 평소보다 줄어들게 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservation"  >열대우림 보존 협회에서는 전 세계의 열대우림 숲과 정글이 처한 현실에 대해 홍보하고 있습니다. 앞으로 두 달 안에 동물원에 정글 스타일 건물을 6채 지으면 협회에서 동물 한 마리를 주겠다고 합니다. 가능하면 현재 우리 동물원에 없는 열대우림 동물을 받을 수 있습니다. 정글 스타일 건물로는 정글 스타일로 된 소형 화장실, 대형 화장실, 음식 판매대, 음료 판매대, 음식 가판대 등이 있습니다.
+      <br/>
+      난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationShort"  >두 달 안에 정글 스타일 건물을 6채 지으세요. 정글 스타일 건물로는 정글 스타일로 된 소형 화장실, 대형 화장실, 음식 판매대, 음료 판매대, 음식 가판대 등이 있습니다. </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationSuccessShort"  >정글 스타일 건물을 6채 지은 대가로 열대우림 보존 협회로부터 동물 한 마리를 얻었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationSuccess"  >잘했습니다! 여러분이 동물원에 정글 스타일 건물을 6채 지어서 열대우림 보존 협회가 만족해하고 있습니다. 협회에서는 열대우림 홍보를 위한 여러분의 노력을 인정해 %s을(를) 주었습니다. %s은(는) 동물원 정문 근처 상자에 들어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationSuccessAlt"  >축하합니다! 여러분이 정글 스타일 건물을 6채 지어서 열대우림 보존 협회에서 매우 만족해하고 있습니다. 우리 동물원에는 열대우림 서식 동물이 빠짐 없이 있어서 대신 %s을(를) 주었습니다. %s은(는) 동물원 정문 근처 상자에 들어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationFailureShort"  >기한 내에 정글 스타일 건물 6채를 짓지 못해 열대우림 보존 협회로부터 동물을 얻지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHRainforestPreservationFailure"  >두 달이 지났는데 정글 스타일 건물을 6채를 짓지 못했군요. 열대우림 보존 협회에서 제안했던 기간이 지나서 이제 동물을 얻을 수 없습니다.</LOC_STRING>
+</ZT2Strings>

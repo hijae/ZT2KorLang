@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_biomedef" version="2" />
+      <LOC_STRING _locID="zoopedia_biomedef:entry" version="2"  >서식 환경 정의</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomedef:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+               생물 분포대라고도 하는 서식 환경은 모든 동식물은 물론 특정 지역의 미생물이나 물리적 환경에 의해 정의되기도 합니다. 서식 환경의 특징은 해당 위치의 기후 조건, 위도와 고도에 의해 결정되는 식물 생장에 따라 달라집니다. 예를 들어 북극에 가까운 북아메리카와 아시아 지역에는 북방림이 존재하지만 그보다 더 북쪽은 기후가 황량하고 계절이 너무 짧아서 나무가 자랄 수 없습니다. 이러한 지역에는 나무 대신 툰드라 지대의 짧은 초목이 많이 자랍니다. 고도가 높은 지역에서도 같은 현상이 발생하여 높은 산악 지역에서는 나무 대신 짧은 고산 식물이 많습니다.
+                  <br/>
+                  <br/>서식 환경은 여러 생태계로 구성되어 있습니다. 생태계는 동물 군집과 식물 군락, 그리고 이들의 서식지(동식물에게 영향을 미치는 물리적 환경)를 나타내는 말입니다. 서식 환경의 경계는 기후로 결정되는 반면 생태계의 경계는 산마루, 강둑 등과 같이 군집을 서로 분리해 놓는 물리적 특징으로 결정됩니다. 동일 서식 환경 내의 생태계에서는 식물의 성장 형태와 동물의 습성이 서로 비슷합니다.
+                  <p/>주요 육지 서식 환경으로는 고산, 
+                  <a href="zoopedia:zoopedia_tropicalrainforest:entry">
+                     <u>
+                        <color r="255" g="231" b="135">열대우림</color>
+                     </u>
+                  </a>, 북방림, 온대림, 툰드라, 사막, 초원,
+                  <a href="zoopedia:zoopedia_savannah:entry">
+                     <u>
+                        <color r="255" g="231" b="135">사바나</color>
+                     </u>
+                  </a>     
+         와 관목 지대가 있습니다. 반드시 해양 환경과 연관된 것은 아니지만, 생태학자들이 서식 환경이라는 용어를 연해 분포대(대륙붕), 
+         심해 분포대(공해), 해저 분포대(바다 바닥) 등 해양 생물 분포대를 설명하는 데 
+         사용하는 경우도 있습니다.
+
+                  <p/>
+                  <p/>내용 출처 
+
+                  <a href="zoopedia:zoopedia_encarta:entry">
+                     <u>
+                        <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                     </u>
+                  </a> 
+					(C) 1993-2003 Microsoft Corporation. All rights reserved.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+
+</ZT2Strings>

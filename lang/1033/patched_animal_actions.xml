@@ -1,0 +1,21 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions" version="2" />
+      <LOC_STRING _locID="animalactions:StrutWalking" version="2"  >과시하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:RoarPlay" version="2"  >%s을(를) 향해 포효하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:ChallengeOther" version="2"  >%s에게 도전하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:TrumpetAt" version="2"  >%s을(를) 향해 울부짖고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Threaten" version="2"  >%s을(를) 위협하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:QuestionAt" version="2"  >%s을(를) 유인하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:QuestionAnswer" version="2"  >%s의 유인 행동에 반응하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BarkAt" version="2"  >%s을(를) 향해 짖고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GruntAt" version="2"  >%s을(를) 향해 꿀꿀거리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GruntAnswer" version="2"  >%s에게 똑같이 꿀꿀거리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Aggressive" version="2"  >%s에게 난폭하게 굴고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Submissive" version="2"  >%s에게 순종하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingInWater" version="2"  >물속에 들어가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Born" version="2"  >새로 태어났습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:ScreamAt" version="2"  >%s을(를) 향해 큰 소리를 내고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WaitingToGroom" version="2"  >%s을(를) 손질하기 위해 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BeingGroomed" version="2"  >%s에게 손질을 받고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WaitingToBeGroomed" version="2"  >%s에게 손질을 받기 위해 기다리고 있습니다.</LOC_STRING>
+</ZT2Strings>

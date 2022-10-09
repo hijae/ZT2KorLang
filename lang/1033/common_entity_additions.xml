@@ -1,0 +1,122 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Poop_Dog"  >개과 동물 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_stt"  >개과 동물 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_lower"  >개과 동물 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_ltt"  >
+         <color r="255" g="248" b="178">
+            개과 동물 배설물
+         </color>
+         <br/>
+         개과 동물 배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_Sick"  >개과 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_Sick_stt"  >개과 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_Sick_lower"  >개과 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dog_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            개과 동물 배설물(아픔)
+         </color>
+         <br/>
+         개과 동물 배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Large_Sick"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Large_Sick_stt"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Large_Sick_lower"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Large_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            배설물(아픔)
+         </color>
+         <br/>
+         배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Medium_Sick"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Medium_Sick_stt"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Medium_Sick_lower"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Medium_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            배설물(아픔)
+         </color>
+         <br/>
+         배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BigCat_Sick"  >맹수 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BigCat_Sick_stt"  >맹수 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BigCat_Sick_lower"  >맹수 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BigCat_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            맹수 배설물(아픔)
+         </color>
+         <br/>
+         맹수 배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Small_Sick"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Small_Sick_stt"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Small_Sick_lower"  >배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Small_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            배설물(아픔)
+         </color>
+         <br/>
+         배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Sick"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Sick_stt"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Sick_lower"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            초식 동물 배설물(아픔)
+         </color>
+         <br/>
+         초식 동물 배설물을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Small_Sick"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Small_Sick_stt"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Small_Sick_lower"  >초식 동물 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Ungulate_Small_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            초식 동물 배설물(아픔)
+         </color>
+         <br/>
+         초식 동물 배설물을 선택하고 적당한 위치에 놓으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Rhinoceros_Sick"  >코뿔소 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Rhinoceros_Sick_stt"  >코뿔소 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Rhinoceros_Sick_lower"  >코뿔소 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Rhinoceros_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            코뿔소 배설물(아픔)
+         </color>
+         <br/>
+         코뿔소 배설물을 선택하고 적당한 위치에 놓으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Bird_Sick"  >새똥(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Bird_Sick_stt"  >새똥(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Bird_Sick_lower"  >새똥(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Bird_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            새똥(아픔)
+         </color>
+         <br/>
+         새똥을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile"  >파충류 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_stt"  >파충류 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_lower"  >파충류 배설물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_ltt"  >
+         <color r="255" g="248" b="178">
+            파충류 배설물
+         </color>
+         <br/>
+         파충류 배설물을 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_Sick"  >파충류 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_Sick_stt"  >파충류 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_Sick_lower"  >파충류 배설물(아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Reptile_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            파충류 배설물(아픔)
+         </color>
+         <br/>
+         파충류 배설물을 적당한 위치에 놓으세요.
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,19 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_saltlick" version="2" />
+      <LOC_STRING _locID="zoopedia_saltlick:entry" version="2"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saltlick:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SaltLick_df/SaltLick_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+필요한 염분을 섭취할 수 있어 유제류 동물이 좋아합니다. 소금 덩어리에는 동물들 건강에 필수적인 철분, 요오드 등의 무기물도 소량 포함되어 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+ 
+</ZT2Strings>

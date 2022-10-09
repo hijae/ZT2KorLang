@@ -1,0 +1,9 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts" version="6" />
+      <LOC_STRING _locID="guestthoughts:TourAnimalsBad1" version="6"  >이번 투어에서는 행복해하는 동물을 별로 보지 못했어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:TourAnimalsBad2" version="6"  >이렇게 동물이 적다니 아쉽군.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:TourAnimalsBad3" version="6"  >동물도 별로 없는데 투어는 왜 만들었지?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:TourAnimalsBad4" version="6"  >동물이 더 많았으면 좋았을 텐데.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:TourEventOK8" version="6"  >%s은(는) 좋았어. 하지만 투어가 좀 단순해서 아쉬워.</LOC_STRING>
+</ZT2Strings>
+                                                                                      

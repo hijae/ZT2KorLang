@@ -1,0 +1,5 @@
+<BFLocaleMgr LocaleID="1033" StringTableRoot="lang/" MinFontSize="12" MinAntiAliasFontSize="12" ForceSinglePixelSpaceAtMinFontMinRes="false" MaxFontScalingResolution="600" ClipScaledFonts="false" MinScreenWidth="800" MinScreenHeight="600" MinScreenDepth="16" DefaultScreenWidth="1024" DefaultScreenHeight="768" DefaultScreenDepth="32" HighScreenWidth="1024" HighScreenHeight="768" HighScreenDepth="32" HighScreenCPU="1800" HighScreenMemory="512" HighScreenVideoMemory="128" LowScreenCPU="1400" LowScreenMemory="512" LowScreenVideoMemory="64" DefaultDetailLevel="High" disableTextEditExtension="true">
+   <Currency CurrencySymbol="locale:currency_symbol"/>
+   <DateFormats MonthYear="locale:month_year" DayDate="locale:day_date" MonthDayYear="locale:month_day_year" MinutesSeconds="locale:minutes_seconds"/>
+   <MonthAbbreviations January="locale:january" February="locale:february" March="locale:march" April="locale:april" May="locale:may" June="locale:june" July="locale:july" August="locale:august" September="locale:september" October="locale:october" November="locale:november" December="locale:december"/>
+</BFLocaleMgr>

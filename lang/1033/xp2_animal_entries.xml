@@ -1,0 +1,2164 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga:entry"  >흰돌고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">툰드라<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북극해</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 일각고래과  (Monodontidae)
+                  <br/>
+                  속: Delphinapterus
+                  <br/>
+                  종: leucas
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">흰돌고래에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰돌고래는 짙은 회색, 갈색 또는 검은색을 띠고 태어나지만 서서히 흰색으로 변하면서 5살 정도가 되면 완전히 흰색이 됩니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰돌고래는 앞뿐만 아니라 뒤를 향해서도 헤엄칠 수 있습니다!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰돌고래는 먹이를 씹지 않고 통째로 삼켜 버립니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰돌고래는 수심이 얕은 지역의 바닥 근처에서 먹이를 구하기 때문에 해저에 머무는 물고기를 주로 먹습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흰돌고래의 목은 매우 유연하여 먹이를 먹으면서도 쉽게 움직일 수 있으며, 입의 흡입력을 강하게 해서 먹히지 않으려고 저항하는 멋잇감을 쉽게 빨아들입니다. </color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 흰돌고래를 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.</color>
+            <p/>이빨고래류인 흰돌고래는 돌고래와 가깝지만 머리모양과 짧은 지느러미로 쉽게 구별할 수 있습니다. 흰돌고래의 영문 명칭인 'Belugas'는 흰색을 뜻하는 러시아어 'byelukha'에서 유래되었습니다. 등지느러미가 없는 흰돌고래는 태어날 때 몸 전체가 검은색이나 짙은 갈색이지만 5살 정도 되면 우윳빛의 흰색으로 변합니다. 수컷은 최대 길이가 7.0m에 몸무게가 1톤까지 나가기도 하며, 암컷은 이보다 조금 작습니다. 수천 마리씩 무리를 지어서 이동하면서 물고기, 문어, 게, 고둥, 오징어를 먹습니다. 주로 북극해에 서식하며 미국의 뉴저지와 유럽의 라인강 유역까지 남하하는 경우도 있습니다.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:entry"  >병코돌고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/DolphinBottlenose/DolphinBottlenose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 돌고래과 (Delphinidae)
+                  <br/>
+                  속: Tursiops
+                  <br/>
+                  종: truncatus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">병코돌고래에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">병코돌고래는 인간보다 뇌가 더 큽니다!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">병코돌고래는 하루에 6-7kg 정도의 물고기를 먹습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">병코돌고래는 가끔 높은 음조의 '틱틱틱'하는 클릭음을 내서 먹잇감을 기절시키기도 합니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 병코돌고래를 입양하려면 동물원 명성을 별 3개 반까지 올려야 합니다.</color>
+            <p/>병코돌고래는 가장 많은 연구가 진행된 돌고래 종으로 가장 널리 알려진 돌고래이기도 합니다. 거의 대부분의 열대 및 온대 연안에서 서식하는 병코돌고래는 대개 20마리가 안 되는 무리를 이루고 생활합니다. 하지만 먼 바다나 심해에서 생활하는 종도 있으며, 이들은 최대 200마리까지 무리를 이루기도 합니다. 일부는 계절에 따라 이동하기도 합니다.
+            <p/>병코돌고래라는 이름은 마치 병의 목처럼 머리에서 두드러지게 돌출된 코에서 따온 것입니다. 일반적으로 등 부분은 짙은 회색이나 검은색이며 배 부분은 보다 연한 색입니다. 다 자란 개체의 길이는 약 2m에서 4m까지 다양합니다. 수컷이 암컷보다 약간 크며, 차가운 바다에 사는 쪽이 따뜻한 바다에 사는 쪽보다 더 큽니다. 멋지게 휘어진 등지느러미는 뒤쪽으로 갈수록 얇아져 끝은 거의 너덜거너덜 찢어져 있습니다. 과학자들은 독특하게 찢어진 등지느러미를 통해 각 개체나 무리를 구별하고 추적합니다.
+            <p/>병코돌고래는 물고기나 새우는 물론 오징어 등의 무척추 동물까지 다양한 먹이를 먹습니다. 해안 부근의 바위 틈을 뒤지거나, 물고기를 뻘로 몰아서 움직일 수 없게 되었을 때 잡거나, 다른 돌고래들과 함께 먹이 떼를 해안 또는 수면으로 몰아서 잡습니다. 병코돌고래는 인간의 어업 활동을 이용해 먹이를 얻기도 합니다. 예를 들면, 새우잡이 어선을 따라가면서 배 밖으로 버려진 먹이나, 어선이 뒤흔들어놓은 새우떼를 잡아 먹곤 합니다.
+            <p/>병코돌고래는 떼를 지어 살며, 대부분은 평생 동안 같은 무리에 머물며 살아갑니다. 암컷은 5-12살이 되면 임신이 가능하고, 수컷은 9-13살이 되어야 짝짓기가 가능합니다. 12개월의 임신 기간이 지나면 1마리의 새끼를 낳습니다. 새끼는 18개월 동안 어미의 젖을 먹습니다. 병코돌고래는 '틱틱틱'거리는 클릭임이나 '휘휘휙'거리는 휘파람 소리 같은 다양한 소리로 의사소통을 하며 일부 개체는 자신만의 독특한 소리를 내기도 합니다. 병코돌고래는 음파 탐지 능력을 갖고 있어서 작은 물체까지도 식별할 수 있습니다. 이들은 고주파의 클릭음을 전방으로 보낸 다음 먹이나 다른 물체에 반사되어 돌아오는 음파를 감지해 이들을 구별합니다.
+            <p/>병코돌고래는 인간들의 활동이 빈번한 항구나 선박의 왕래가 잦은 항로 부근에서도 상당수 서식하고 있기 때문에 고래목 동물 중에서 가장 적응력이 뛰어난 것으로 여겨지고 있습니다. 병코돌고래는 최근에 돌고래 쇼 등의 관광 코스에서 큰 인기를 얻고 있습니다. 동물원이나 대형 수족관에서 볼 수 있는 돌고래 중 대부분이 바로 병코돌고래입니다. 이들은 식용 고기, 비료, 기름 등을 얻기 위해 포획되어왔지만 흑해를 제외한 다른 지역에서는 개체수가 크게 줄진 않았습니다. 흑해에서는 해양 오염과 먹잇감의 부족이 직접적인 포획만큼 돌고래에게 피해를 주고 있습니다.       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:entry"  >카리브바다소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ManateeWestIndian/ManateeWestIndian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">대서양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 바다소목 (Sirenia)
+                  <br/>
+                  과: 바다소과 (Trichechidae)
+                  <br/>
+                  속: Trichechus
+                  <br/>
+                  종: manatus
+                  <br/>
+                  아종: manatus                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">카리브바다소에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">카리브바다소는 청력이 매우 발달해서 어미와 새끼는 높은 음파의 찍찍거리는 소리를 내서 서로의 위치를 확인합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">옛날 선원들은 멀리서 카리브바다소를 보고 인어로 착각하기도 했습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">카리브바다소는 움직임이 느리고 얕은 물을 좋아하기 때문에 선박의 프로펠러가 이들에게 가장 큰 위험요소입니다. </color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 카리브바다소를 입양하려면 동물원 명성을 별 1개 반까지 올려야 합니다.</color>
+            <p/>카리브바다소는 해초나 기타 수생 식물을 먹기 때문에 '바다의 소'로 불리곤 합니다. 카리브바다소는 미국 남동부와 멕시코만에서 카리브해와 브라질 북동부에 이르는 지역의 강이나 해안 부근에 서식합니다.
+            <p/>다 자란 카리브바다소의 몸은 밝은 회색, 짙은 회색 또는 검은색을 띠며 끝으로 갈수록 점점 가늘어져서 수평으로 평평하고 둥근 꼬리와 연결되어있습니다. 종에 따라 몸길이는 2.5-4.5m까지, 몸무게는 200-600kg까지 다양합니다. 비교적 작은 머리에는 똑바르게 주둥이가 있으며 갈라진 윗입술에는 억센 털이 나 있습니다. 주둥이 위쪽에 있는 콧구멍은 물에 들어갈 때 판으로 완전히 닫히게 됩니다. 지느러미 모양의 앞다리는 머리와 가까이 있으며 뒷다리는 퇴화되어 겉으로 보이지 않습니다. 크고 무겁운 뼈와 길고 좁은 폐가 몸통 전체에 걸쳐 뻗어 있기 때문에 균형 잡힌 부력을 얻을 수 있습니다. 암컷은 짝짓기를 한 뒤 1년 정도 후에 대개 한 마리의 새끼를 낳습니다. 새끼는 태어날 때 분홍색입니다.
+            <p/>카리브바다소는 소규모 가족 단위로 생활하지만 이동할 때는 15-20마리가 무리를 이루는 경우도 있습니다. 민물이나 바닷물의 식물을 모두 먹을 수 있으며 하루에 6-8시간 정도 먹이를 먹으면서 지냅니다. 다 자란 카리브바다소는 매일 자기 체중의 5-10%에 해당하는 먹이를 먹습니다. 이들은 비슷한 덩치의 포유류 동물에 비해 신진대사 속도가 느리기 때문에 필요한 에너지도 그만큼 적습니다. 홍수 뒤에 물이 빠지면서 장기간 동안 강둑의 식물을 먹을 수 없는 아마존바다소에게는 이런 특징이 특히 유용합니다.
+            <p/>카리브바다소는 덩치가 크기 때문에 천적이 거의 없습니다. 하지만 가죽, 고기, 기름을 얻기 위한 무분별한 포획 때문에 개체수가 크게 감소했습니다. 또한 선박과 충돌해 부상을 입거나 죽는 일이 빈번하게 발생하고 있습니다. 아프리카와 남아메리카에서는 바다소를 보호하려는 운동이 전통적으로 바다소를 사냥해 생업을 이어가는 사람들과 마찰을 빚곤 합니다. 바다소는 농업과 운송에 사용되는 강의 수로를 막고 있는 식물을 제거해주는 존재라는 사실만으로도 보호할 가치는 충분합니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:entry"  >청새치</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MarlinBlue/MarlinBlue_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">원양<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">대서양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 조기어류 (Actinopterygii)
+                  <br/>
+                  목: 농어목 (Perciformes)
+                  <br/>
+                  과: 청새치과 (Istiophoridae)
+                  <br/>
+                  속: Makaira
+                  <br/>
+                  종: nigricans
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">청새치에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">청새치의 긴 코는 사실 위턱의 일부입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">청새치는 주둥이가 긴 물고기 중에서 가장 큰 종입니다.</color>
+               </cell>            
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 청새치를 입양하려면 동물원 명성을 별 1개까지 올려야 합니다.</color>
+            <p/>청새치는 길고 날카로운 주둥이와 매끈한 초승달 모양의 꼬리로 유명합니다. 문어, 오징어, 참치, 고등어를 먹으며, 뾰족한 주둥이를 무기로 사용하여 주로 낮에 혼자서 사냥합니다. 
+            <p/>청새치는 계절에 따라 이동하는데 겨울에는 적도 부근에서 살다가 여름에는 다른 지역으로 이동하며 대서양 대부분의 지역에서 서식합니다. 날렵한 유선형 몸에 강한 힘을 지닌 청새치는 바다에서 가장 빠른 수영 선수 중 하나입니다. 일부 과학자들은 대서양 청새치(청새치)와 인도-태평양 청새치(백새치)를 다른 종으로 분류합니다. 하지만 일부에서는 대서양, 태평양, 인도양에 서식하는 모든 청새치를 같은 종으로 보고 있습니다.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:entry"  >일각돌고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">툰드라<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북극해</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 일각고래과 (Monodontidae)
+                  <br/>
+                  속: Monodon
+                  <br/>
+                  종: monoceros
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">일각돌고래에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">일각돌고래는 일년 내내 북극해에 머물지만 일부는 지중해까지 남하하기도 합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">바이킹족은 일각돌고래의 뿔로 장식을 했는데 당시에는 그걸 보고 유니콘의 뿔이라고 믿었습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">일각돌고래의 영문 명칭인 'Narwhal'은 고대 스칸디나비아어로 '시체 고래'라는 뜻입니다.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 일각돌고래를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</color>
+            <p/>이빨고래류인 일각돌고래는 튼튼한 몸을 지녔으며 북극해 고위도 지역의 빙하 근처 심해에서만 삽니다. 생물학적으로는 흰돌고래에 가까우며 몸은 검은색과 흰색이 섞인 얼룩 무늬입니다. 암컷은 4.2m까지, 수컷은 4.7m까지 자랍니다. 일각돌고래는 이빨이 단 2개뿐인데 모두 위쪽 턱에 달려 있습니다. 다 자란 수컷의 왼쪽 이빨은 머리 앞쪽으로 나선 모양을 그리면서 계속 자라는데 길이가 3m에 이르기도 합니다. 이 이빨의 길이를 포함하면 늙은 수컷은 전체 길이가 거의 8m에 이르기도 합니다.
+            <p/>일각돌고래는 12마리 정도의 작은 단위를 이루어 생활하며, 이러한 집단이 모여서 거대한 무리를 형성합니다. 이들은 계절에 따라 변화하는 빙하의 가장자리와 함께 이동하며 빙하가 매우 두꺼운 지역에서 발견되기도 합니다. 먹이는 물고기, 오징어, 새우입니다. 집단 내에서도 나이와 성에 따라 무리가 갈리는데 이런 경향은 특히 이동 중에 강하게 나타납니다. 이런 경우에는 이빨 크기를 보면 덜 자란 수컷과 다 자란 수컷의 집단을 쉽게 구별할 수 있습니다.
+            <p/>일각돌고래의 사회 구조에 대해서는 아직 알려진 바가 없지만 과학자들은 수컷들이 암컷을 차지하기 위해 싸우거나 과시하는 행동을 보이는 것으로 믿고 있습니다. 수컷들이 수면이나 수면 위에서 이빨을 이용해 싸우는 모습이 관찰되기도 했습니다. 또한 이빨이 부러지거나 몸에 이빨이 박힌 수컷이 발견되기도 합니다. 하지만 실제로 수컷이 다른 수컷을 이빨로 찌르는 일은 흔치 않습니다. 다 자란 암컷은 3년에 한 번씩 새끼를 낳습니다. 임신 기간은 15개월이며 여름에 한 마리의 새끼를 낳습니다.
+            <p/>이뉴잇족과 일부 북유럽인들은 가죽, 고기, 기름은 물론 특히 이빨을 얻기 위해 일각돌고래를 사냥합니다. 일각돌고래의 이빨은 조각을 하거나 그냥 그대로 장식품으로 사용됩니다. 가끔은 이빨을 갈아서 약으로 쓰는 경우도 있습니다. 일각돌고래의 생존이 위협받는 상황은 아니지만 일부 지역에서 일각돌고래나 그 먹잇감을 남획하고 있기 때문에 개체수가 증가하지는 않고 있습니다.
+         </cell>            
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:entry"  >해달</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OtterSea/OtterSea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     위험
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북태평양 연안</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_north_pacific_coasts.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 족제비과 (Mustelidae)
+                  <br/>
+                  속: Enhydra
+                  <br/>
+                  종: lutris                
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">해달에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">해달은 바다 포유류 중에서 가장 작습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">해달은 최대 6분 동안 물속에 머물 수 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">해달은 수면에 등을 대고 뜬 상태로 가슴에 조개를 올려놓고 돌로 깨서 먹기도 합니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 해달을 입양하려면 동물원 명성을 별 2개 반까지 올려야 합니다.</color>
+            <p/>해달은 북태평양의 아메리카 및 아시아 연안이 원산지로 그 모습과 수중 행태가 유라시아와 북아메리카의 수달과 비슷합니다. 몸은 단단하고 길이는 1에서 1.2m이며 주로 성게나 연체동물을 먹습니다. 해달은 크고 뭉툭한 이빨로 먹이의 껍질을 부수고 먹습니다. 또한 수면에 등을 대고 헤엄치면서 돌로 조개를 깨서 먹기도 합니다.  암컷은 한 번에 한 마리의 새끼를 낳으며 물에 누워서 젖을 먹입니다. 해달은 차가운 바닷물로부터 몸을 보호해주는 단열 지방층이 없는 유일한 바다 포유류입니다. 이런 단점을 보완하기 위해서 이들은 지속적으로 털을 다듬어 청결을 유지하는 동시에 털이 공기를 품어 단열층을 만들게 합니다. 하지만 털이 기름에 오염되면 기름이 털을 엉클어지게하여 열을 유지해주는 공기층이 형성되지 못하기 때문에 차가운 바닷물에 그대로 노출됩니다. 게다가 털을 혀로 다듬다 보면 기름을 먹게 되어 질병에 걸리거나 죽기도 합니다.
+            <p/>해달의 모피는 모피 중에서도 최고급에 속합니다. 갈색인 안쪽 털은 부드럽고, 촘촘하며 복슬복슬하고 끝이 회색인 바깥쪽 털은 좀 더 거칠고 깁니다. 한때 번성했던 해달은 20세기 초반 무분별한 포획으로 멸종 위기에 처했었습니다. 이후 보호 조치가 취해지면서 캘리포니아와 알래스카 연안에서 다시 개체수가 늘고 있습니다.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry"  >록호퍼펭귄</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">남극해 군도</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 조류 (Aves)
+                  <br/>
+                  목: 펭귄목 (Sphenisciformes)
+                  <br/>
+                  과: 펭귄과 (Spheniscidae)
+                  <br/>
+                  속: Eudyptes
+                  <br/>
+                  종: chrysocome
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">록호퍼펭귄에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">암컷은 번식 기간 동안 대개 2개의 알을 낳지만 그 중 하나만 품습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">록호퍼펭귄의 평균 수명은 10년입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">수컷은 머리를 흔들어 머리에 있는 노란색 장식깃으로 시선을 끌면서 암컷에게 구애합니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 록호퍼펭귄을 입양하려면 동물원 명성을 별 2개까지 올려야 합니다.</color>
+            <p/>록호퍼펭귄은 그들의 서식지인 바위 섬에서 바위 사이를 이리저리 뛰어다니는 모습 때문에 'Rock Hopper'라는 이름이 붙었습니다. 이들은 아남극 펭귄종으로 포클랜드, 맥쿼리 섬, 오스트레일리아, 뉴질랜드 등의 남반구 군도에 주로 서식합니다.
+            <p/>멋지고 인상적인 장식깃과 진한 붉은 색의 눈을 지닌 록호퍼펭귄은 강렬한 눈빛처럼 공격적인 성격의 소유자입니다. 이들이 둥지를 틀기에 좋은 바위 지대를 차지하려고 싸우는 모습은 흔하게 볼 수 있습니다. 덩치는 작지만 물갈퀴가 달린 다리와 날개의 힘이 강해서 사냥과 수영 솜씨가 뛰어납니다.
+				<p/>주로 샛비늘치와 크릴 새우를 먹고, 때로 작은 오징어를 잡아 먹기도 합니다. 청새리상어, 레오퍼드바다표범, 물개가 천적이며, 육지에 있는 알이나 새끼는 갈매기를 비롯한 다른 새들에게 쉽게 공격을 받습니다. 
+				<p/>록호퍼펭귄은 해안의 바위 지역에 둥지를 틀기 때문에 물에서 바위까지 뛰어 오르는 기술은 생존과 직결됩니다.  
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:entry"  >쥐가오리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RayManta/RayManta_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">암초<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 홍어목 (Myliobatiformes)
+                  <br/>
+                  과: 매가오리과 (Mobulidae)
+                  <br/>
+                  속: Manta
+                  <br/>
+                  종: birostris
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">쥐가오리에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">일부 고래들처럼 쥐가오리는 헤엄치면서 물과 함께 작은 유기물과 물고기를 입에 넣고 걸러서 먹습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">쥐가오리는 매우 크기 때문에 대형 상어만이 유일한 천적입니다. </color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">쥐가오리는 가오리 중에서 가장 큰 종입니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 쥐가오리를 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.</color>
+            <p/>쥐가오리는 온대와 열대 해양의 연안 및 군도 부근에서 서식합니다. 이 연골어류는 매우 크고 날개처럼 생긴 가슴지느러미를 갖고 있어서 '악마의 가오리'나 '바다 박쥐'로 불리기도 합니다. 가장 큰 대왕쥐가오리의 가슴지느러미는 끝에서 끝까지 7m에 이르기도 합니다. 악마의 뿔을 연상시키는 머리 양쪽의 귀처럼 생긴 돌출부는 수면 가까이 이동할 때 플랑크톤이나 작은 갑각류를 입으로 몰아넣는 역할을 합니다. 이때 플랑크톤은 촘촘한 아가미 갈퀴에 걸러집니다. 쥐가오리는 인간에게 아무런 해도 끼치지 않지만 잡혀서 몸무림칠 때는 위험할 수 있습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:entry"  >캘리포니아바다사자</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">태평양 동부 연안</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 강치과 (Otariidae)
+                  <br/>
+                  속: Zalophus
+                  <br/>
+                  종: californianus
+
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">캘리포니아바다사자에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">캘리포니아바다사자라고 해서 캘리포니아에만 사는 것은 아닙니다! 이들의 서식지는 북아메리카의 태평양 연안 전 지역이며, 일부는 일본 남쪽 바다에서 발견되기도 합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">캘리포니아바다사자의 나이는 이빨 단면의 나이테를 세어보면 알 수 있습니다. 사육되었던 캘리포니아바다사자 중에서 최고 31살까지 살았던 바다사자도 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">먹이는 가리지 않는 편으로 주변 상황에 따라 쉽게 얻을 수 있는 먹이를 먹습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 캘리포니아바다사자를 입양하려면 동물원 명성을 별 1개 반까지 올려야 합니다.</color>
+            <p/>캘리포니아바다사자는 머리가 영리하고 날렵한 몸매를 가진 물개로 서커스에서 균형 잡기 묘기를 보여주는 것으로 유명하며 거의 모든 동물원에서 볼 수 있습니다. 무리를 이루어 생활하고, 육상에서도 뛰어난 속도와 민첩성을 보이며, 활기에 찬 컹컹 짖는 듯한 소리를 내는 이 물개는 훈련시키기도 쉬워서 동물원을 찾은 관람객에게 인기가 많습니다. 야생 상태의 캘리포니아바다사자는 북아메리카 서부 연안의 여러 지역에서 발견되며, 일부는 갈라파고스 군도에서도 살고 있습니다.
+            <p/>
+            다 자란 수컷은 평균 몸무게 360kg에 몸길이가 2.1m입니다. 암컷은 수컷보다 작아서 평균 몸무게 110kg, 몸길이 1.8m정도입니다. 암수 모두 다갈색 털에 개와 비슷한 주둥이를 지녔습니다. 먹이를 씹을 때 사용되는 강력한 근육이 부착된 뼈가 이마 안쪽으로 튀어나와 수컷의 이마는 불룩 솟아 올라 있습니다. 볼락, 고등어, 멸치, 칠성장어 등 다양한 어류와 오징어, 문어를 먹이로 먹습니다. 주로 얕은 물에서 사냥을 하는데, 생물학적으로 가까운 종인 스텔러바다사자와 먹이를 놓고 경쟁하기도 합니다.
+            <p/>
+            6월 초가 되면 수컷은 모래 사장이나 해안 바위 지대에 짝짓기 영역을 확보하고 5-12마리 정도의 암컷 무리와 짝짓기를 합니다. 수컷은 상당한 에너지와 전략으로 자신의 암컷 무리와 영역을 지킵니다. 수컷은 육지와 바다를 돌며 감시하다가 침입자가 나타나면 큰 소리를 내면서 공격 자세를 취하고, 때때로 침입한 수컷들과 싸움을 하기도 합니다.
+            <p/>
+            암컷은 임신 후 약 1년 뒤에 한 마리의 새끼를 낳습니다. 어미와 새끼는 서로의 소리에 금새 익숙해지며 어미는 새끼의 냄새를 기억합니다. 어미는 새끼가 태어나면 바로 물속으로 데리고 들어가며 1년 이상을 돌보고 키웁니다. 이 과정에서 어미와 새끼 사이에는 강력한 유대감이 형성됩니다. 새끼들이 자라면 서로 모여서 장난치고, 먹이를 먹고, 낮잠을 자는 무리를 형성합니다. 새끼가 태어난 지 2-3주가 지나면 어미는 다시 짝짓기를 합니다. 수컷은 짝짓기 기간이 끝나면 여름과 가을을 지내기 위해 북쪽으로 이동하는 반면에 암컷들은 간혹 먼 섬의 해안으로 이동하기도 하지만 대개 서식지 근처에 머무릅니다.
+            <p/>
+            해안에서 생활하는 동물인 캘리포니아바다사자는 오염 물질과 인간에 의한 서식지 파괴에 특히 큰 피해를 입습니다. 이들의 천적은 상어와 범고래이며 과거에는 인간의 사냥 목표가 되기도 했습니다. 하지만 1972년 해양포유동물보호법이 통과되면서 미국 영해에서는 포획과 학대로부터 보호받고 있습니다. 그러나 1980년대 초반까지 매년 1500마리 이상이 그물에 걸려 죽었습니다. 최근에는 캘리포니아주에서 그물을 이용한 어업 활동을 규제하는 정책을 펴면서 캘리포니아바다사자의 피해도 줄고 있습니다.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:entry"  >흑기흉상어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkReefBlackTip/SharkReefBlackTip_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">암초<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">인도-태평양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 흉상어목 (Carcharhiniformes)
+                  <br/>
+                  과: 흉상어과 (Carcharhinidae)
+                  <br/>
+                  속: Carcharhinus
+                  <br/>
+                  종: melanopterus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">흑기흉상어에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흑기흉상어는 바다와 접하는 강 등의 민물에서 주로 서식합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">가끔 얕은 바다를 걷다가 흑기흉상어에게 물리는 사람도 있는데, 이는 사람의 발을 물고기로 착각해서 일어나는 현상입니다. 하지만 진실은 흑기흉상어만 알겠죠.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흑기흉상어를 사육하려면 넓은 공간이 필요합니다. 실제로 사육되던 흑기흉상어가 대형 수족관에서 밖으로 뛰어나오는 경우도 있었습니다. </color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 게임 또는 캠페인 게임에서는 흑기흉상어를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</color>
+            <p/>흑기흉상어는 최대 2m까지 자라기도 하지만 일반적으로 1.6m 미만인 소형 상어입니다. 영문 명칭인 'Blacktip reef shark'는 제 1 등지느러미의 밝은 색 띠 위 쪽의 꼭지 부분이 선명한 검은색을 띠고 있어서 지어진 이름입니다. 또한 이들은 연안 지대와 산호초 지대에 주로 서식합니다. 
+            <p/>먹이는 주로 물고기지만 톱니 모양의 이빨 덕분에 게, 가재 등의 갑각류나 문어, 오징어 등의 두족류도 씹어 먹을 수 있습니다. 오스트레일리아 해안에 서식하는 흑기흉상어는 많은 수의 뱀을 먹기도 합니다.
+            <p/>멸종 위기종으로 보고되지는 않았지만 이들은 임신 기간이 16개월이나 되고 한 번에 낳는 새끼도 2-4마리에 불과하기 때문에 멸종의 위험은 항상 도사리고 있습니다. 또한 일부 고급 식당에서는 흑기흉상어를 식용으로 사용하기도 합니다.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:entry"  >고블린상어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+					  <cell width="32" pady="0">               
+						  <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+					  </cell>                 
+					  <cell width="224" padx="10" pady="0">
+						  <color r="255" g="255" b="255">
+						  보존 상태:
+						  <br/>
+							  <color r="255" g="255" b="0">
+						  취약
+							  </color>
+						  </color>                  
+					</cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">해저<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 악상어목 (Lamniformes)
+                  <br/>
+                  과: 악상어과 (Mitsukurinidae)
+                  <br/>
+                  속: Mitsukurina
+                  <br/>
+                  종: owstoni
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">고블린상어에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">고블린상어는 실제로 매우 못생겨서 고블린(도깨비)이라고 이름지어졌습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">학명인 'owstoni'는 빅토리아 시대의 영국 박물학자인 'Alan Owston'의 이름을 딴 것입니다.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 고블린상어를 입양하려면 동물원 명성을 별 4개까지 올려야 합니다.</color>
+            <p/>고블린상어는 심해 상어로 얕은 연안이나 수면 부근에서는 거의 볼 수 없습니다. 피부는 분홍색을 띤 흰색이며 지느러미는 파란색입니다. 평평하고 긴 코는 매우 커다란 입 앞쪽으로 돌출되어 있습니다. 
+				<p/>
+				고블린상어는 덩치가 상당히 커서 수컷은 몸길이가 3.8m에 이르기도 합니다. 먹이는 해저에 사는 새우, 문어, 오징어 등이며 때때로 게도 먹습니다. 이들은 심해에서 살기 때문에 야생 상태에서 인간과 마주치는 일은 거의 없습니다.
+				<p/>
+				고블린상어는 지구 전역에 분포하는 것으로 알려져 있습니다. 실제로 일본, 오스트레일리아, 남아프리카의 바다에서 관찰되었습니다.
+         </cell>                
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:entry"  >홍살귀상어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkHammerheadScalloped/SharkHammerheadScalloped_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">원양<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 흉상어목 (Carcharhiniformes)
+                  <br/>
+                  과: 귀상어과 (Sphyrnidae)
+                  <br/>
+                  속: Sphyrna
+                  <br/>
+                  종: lewini
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">홍살귀상어에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">귀상어 중 가장 큰 종은 사람을 잡아먹기도 합니다!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">귀상어는 후각이 매우 발달해서 바닷물의 100만 분의 1정도 피가 섞여 있어도 그 냄새를 맡을 수 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">덩치가 작은 종은 그렇지 않지만 홍살귀상어를 포함한 덩치가 큰 귀상어는 인간에게 매우 위험한 동물로 알려져 있습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 홍살귀상어를 입양하려면 동물원 명성을 별 3개 반까지 올려야 합니다.</color>
+            <p/>홍살귀상어는 온대 및 열대 바다에 살고 있는 10 종의 귀상어 중 한 종입니다. 크고 평평하게 옆으로 퍼진 머리 덕분에 수상비행기처럼 빠르게 상승할 수 있으며 다른 상어에 비해 재빠르게 회전할 수 있습니다. 눈과 콧구멍은 머리 양쪽 끝에 멀리 떨어져 있어서 먹잇감을 능숙하게 추격할 수 있습니다. 잠수부를 공격하기도 했던 가장 큰 종은 몸길이 4m 이상으로 큰 이빨을 가졌으며 헤엄을 매우 잘 칩니다. 이외에 다른 두 대형 귀상어 종인 홍살귀상어와 귀상어도 매우 위험한 것으로 알려져 있습니다. 플로리다 연안에서 흔히 발견되는 보닛머리상어 같은 종은 몸길이가 1m 정도로 마름모 모양의 머리를 갖고 있습니다.            
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:entry"  >고래상어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhale/SharkWhale_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">해저<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 수염상어목 (Orectolobiformes)
+                  <br/>
+                  과: 고래상어과 (Rhiniodontidae)
+                  <br/>
+                  속: Rhincodon
+                  <br/>
+                  종: typus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">고래상어에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">고래상어는 우연히 선박과 충돌하는 경우를 제외하면 인간에게 위험하지 않습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">고래상어는 입으로 바닷물을 빨아들인 뒤에 입을 닫고 아가미의 새파 사이로 물을 내뿜어 걸러낸 작은 물고기나 생물체를 먹습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">고래상어는 아가미에 걸린 먹이를 빼내기 위해서 재채기를 하기도 합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">여러분이 입양할 수 있는 고래상어는 청소년기에 있는 종으로 시간이 지나면 더 큰 어른 상어로 자랍니다. 그러므로 그 크기에 맞는 우리를 준비할 수 없다면 더 자라기 전에 야생으로 돌려보내는 것이 좋습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 고래상어를 입양하려면 동물원 명성을 별 4개 반까지 올려야 합니다.</color>
+            <p/>고래상어는 세계의 열대 해양에 서식하는 모든 어류 중에서 가장 큽니다. 이들은 15m 이상까지 자라며 몸무게는 18톤에 이릅니다. 등은 짙은 푸른색이고 배는 흰색이며, 다른 상어에 비해서 색이 훨씬 짙지만 몸에 흰색 반점과 세로 선이 있습니다. 머리와 등에는 가로 방향으로 넓은 융기선이 여럿 있습니다. 입은 넓고 평평한 주둥이의 아래쪽이 아니라 앞쪽에 있으며 턱에는 수많은 작은 이빨이 나있습니다. 아가미 입구는 매우 큽니다. 먹이는 작은 물고기와 플랑크톤이며 긴 아가미의 새파를 통해 걸러서 먹습니다. 인간을 공격하는 일은 없습니다. 고래상어 새끼는 어미의 몸 안에서 수정된 알에서 부화하여 알을 깨고 어미 몸 밖으로 나옵니다.          
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:entry"  >백상아리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">해저<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전 세계의 연안</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 연골어류 (Chondrichthyes)
+                  <br/>
+                  목: 악상어목 (Lamniformes)
+                  <br/>
+                  과: 악상어과 (Lamnidae)
+                  <br/>
+                  속: Carcharodon
+                  <br/>
+                  종: carcharias
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">백상아리에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">백상아리는 배 부분만 흰색입니다. 등쪽은 푸른색을 띤 회색입니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">백상아리는 수직 방향으로도 잘 이동할 수 있기 때문에 먹잇감을 바로 아래쪽에서 공격하기도 합니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 백상아리를 입양하려면 동물원 명성을 별 5개까지 올려야 합니다.</color>
+            <p/>백상아리의 주둥이는 평평하지 않고 원뿔 모양을 하고 있습니다. 눈은 검은색이며 크고 화살촉처럼 생긴 이빨이 톱니처럼 나있습니다. 꼬리의 위 아래 지느러미는 거의 같은 크기이며, 몸의 색깔은 푸른색이나 갈색을 띤 회색이며 배 부분만 흰색입니다.
+				<p/>
+				백상아리는 영화에 악당으로 자주 등장하지만 그들의 행동에 대한 정보는 거의 알려져있지 않습니다. 1964년 뉴욕주 롱아일랜드의 몬턱에서 잡힌 몸길이 5.34m, 몸무게 2,043kg의 백상아리가 지금까지 잡힌 가장 큰 백상아리로 기록되고 있습니다. 백상아리는 자신의 절반 크기인 먹이, 특히 바다표범, 돌고래, 거북, 다른 상어, 고래의 살덩어리, 물고기, 선박 쓰레기 정도는 씹지 않고 그냥 삼켜 버립니다. 1916년에서 1969년까지 32명의 사람이 백상아리의 공격을 받아 13명이 죽었습니다. 선박을 직접 공격한 것은 3번으로 보고되고 있으며, 그 중 캐나다 노바스코샤주의 케이프브레튼에서는 바닥이 평평한 작은 배가 침몰하기도 했습니다. 특히 덩치 큰 백상아리가 많이 잡히는 오스트레일리아 주변의 먼 바다에서는 독특한 흉터를 가진 암컷 백상아리 한 마리가 13년 만에 다시 나타나기도 했습니다.
+				<p/>
+				백상아리는 엄청난 힘을 지녔고 직접 마주친 사람들에게 엄청난 공포를 안기기는 하지만 대부분의 전문가들은 이런 악명은 근거가 없다고 말합니다. 오히려 일부 전문가들은 먹잇감 감소와 인간의 무분별한 포획 때문에 백상아리가 멸종 위기에 처했다고 지적합니다. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>          
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:entry"  >장수거북</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>					 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     멸종 위기
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">원양<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 파충류 (Reptilia)
+                  <br/>
+                  목: 거북목 (Testudines)
+                  <br/>
+                  과: 장수거북과 (Dermochelyidae)
+                  <br/>
+                  속: Dermochelys
+                  <br/>
+                  종: coriacea
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>         
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">장수거북에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">장수거북 암컷은 머리 꼭대기에 분홍색 반점이 있어서 쉽게 구별할 수 있습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">장수거북은 살에 독성이 있어서 식용으로 쓸 수 없기 때문에 포획되지는 않지만 알을 가져가서 멸종 위기에 처하게 되었습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 장수거북을 입양하려면 동물원 명성을 별 2개 반까지 올려야 합니다.</color>
+            <p/>장수거북은 현존하는 거북 중에서 가장 큽니다. 장수거북의 등딱지는 길이 2.4m, 무게 900kg에 이릅니다. 장수거북은 다른 거북에 비해 태평양, 대서양, 인도양 남쪽과 북쪽으로 훨씬 높은 위도까지 분포하며 가끔 지중해에서 발견되기도 합니다. 대부분의 시간은 매우 차가운 바닷물에서 살지만 덩치가 크고 근육을 사용한 활동이 많기 때문에 바닷물의 온도보다 체온을 높게 유지할 수 있습니다. 다른 바다거북과 달리 등딱지와 배딱지에 크고 단단한 각질판이 없습니다. 대신 가죽질의 피부에 작은 골판이 다닥다닥 붙어 있습니다. 등딱지에는 7줄의 세로줄이 튀어나와 있고 가슴에는 5줄이 튀어나와 있습니다. 장수거북은 검은색이나 푸른색을 띤 검은색이며 흰색이나 분홍색의 작은 반점 또는 얼룩이 불규칙하게 퍼져 있습니다. 다리는 튼튼하며 지느러미 모양이어서 먼 거리를 헤엄쳐 가기에 좋습니다. 특히 어린 거북의 경우 앞발이 상당히 큽니다. 수컷은 성장한 뒤에는 바다에서 평생을 보내지만 암컷은 알을 낳을 때만 해변으로 올라옵니다. 장수거북은 식용으로 먹을 수 없고 살에는 기름이 상당히 많습니다. 주로 해파리를 먹지만 해초, 성게, 오징어, 연체동물을 먹기도 합니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:entry"  >푸른바다거북</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     위험
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">연안<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 파충류 (Reptilia)
+                  <br/>
+                  목: 거북목 (Testudines)
+                  <br/>
+                  과: 바다거북과 (Cheloniidae)
+                  <br/>
+                  속: Chelonia
+                  <br/>
+                  종: mydas
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">푸른바다거북에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">푸른바다거북은 딱딱한 껍질을 지닌 바다거북 중에서 가장 큽니다. 장수거북이 더 크지만 장수거북은 껍질이 딱딱하지 않습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">푸른바다거북 새끼는 난치(Egg Tooth)를 사용하여 알을 깨고 나옵니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">푸른바다거북은 알을 깨고 나오는 즉시 지느러미 모양의 앞발을 움직이기 시작하여 알이 묻혀있는 모래 속에 밖으로 나와 바로 바다로 기어가서 멀리 헤엄쳐 갑니다.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 푸른바다거북을 입양하려면 동물원 명성을 별 1개까지 올려야 합니다.</color>
+            <p/>대형 거북인 푸른바다거북은 전체적으로 갈색이지만 지방층이 녹색이기 때문에 이런 이름이 붙었습니다. 푸른바다거북은 물속에서 가장 빠른 거북으로 최대 시속 32km의 속도로 헤엄칠 수 있습니다. 서식 지역은 바닷물이 따뜻한 지역이지만 여름에는 미국과 유럽의 북대서양 연안에서도 발견됩니다. 다 자라면 껍질의 길이가 1m 이상 되며 몸무게는 180kg이 넘습니다. 이 거북은 눈 사이에 한 쌍의 커다란 비늘판, 등딱지 양쪽으로 서로 겹치지 않게 붙어있는 4쌍의 커다란 비늘판, 돌출부가 없는 비교적 부드러운 등딱지를 가지고 있어서 다른 바다거북과 쉽게 구별할 수 있습니다. 수컷은 바다에서 평생 지내는 반면에 암컷은 알을 낳을 때만 뭍으로 올라옵니다. 암컷은 밤 사이 파도가 닿지 않는 모래에 최대 200개의 알을 낳습니다. 태양열로 부화된 알을 깨고 나온 새끼는 즉시 바다로 기어가기 시작합니다. 푸른바다거북은 잡식성이지만 주로 해초를 먹습니다. 푸른바다거북의 고기는 송아지고기와 비슷한 맛이 나서 거북 수프와 거북 스테이크의 재료가 되므로 사냥꾼들의 표적이 되고 있습니다. 또한 알도 식용으로 사용됩니다. 하지만 최근에는 무분별한 포획으로 인해 개체수가 빠르게 감소하고 있습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:entry"  >태평양바다코끼리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     취약
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">툰드라<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북극해</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 식육목 (Carnivora)
+                  <br/>
+                  과: 바다코끼리과 (Odobenidae)
+                  <br/>
+                  속: Odobenus
+                  <br/>
+                  종: rosmarus
+                  <br/>
+                  아종: divergens                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">태평양바다코끼리에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">바다코끼리라는 이름은 '고래-말'이라는 뜻의 고대 스칸디나비아어 'hvall-hross'에서 유래했습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">바다코끼리는 송곳니를 갈고리처럼 이용해서 빙산을 오르기도 합니다!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">바다코끼리가 가장 좋아하는 먹이는 대합조개입니다.</color>
+               </cell> 
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">이들은 해저에 붙은 대합조개를 떼어내기 위해서 강하게 물을 뿜기도 합니다.</color>
+               </cell>       
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 바다코끼리를 입양하려면 동물원 명성을 별 4개 반까지 올려야 합니다.</color>
+            <p/>대형 바다 포유류인 바다코끼리는 캐나다와 시베리아의 북동부 연안, 캄차카 반도, 알래스카 북서부 연안, 그린란드, 노르웨이 북부, 엘즈미어 섬에 이르는 북극권 빙하 지대 외곽을 따라 서식합니다. 현존하는 바다코끼리는 태평양바다코끼리와 대서양바다코끼리 2종뿐입니다.
+            <p/>강치와 마찬가지로 바다코끼리도 뒷다리를 앞쪽으로 돌릴 수 있어서 육상에서 네 다리를 모두 이용해서 이동합니다. 몸길이는 2.7-3.56m이며 몸무게는 800-1700kg입니다. 수컷이 암컷보다 크며, 암수 모두 털이 많고 두껍고 주름이 많은 피부가 육중한 몸을 덮고 있으며 나이가 들면서 피부의 털이 점점 적어집니다. 암수 모두 몸에 비해 머리는 작으며 귀가 있는 자리에는 귓바퀴가 없어서 피부가 접힌 표시만 보입니다. 빳빳한 털이 난 넙적한 입에는 엄청나게 긴 위쪽 송곳니가 엄니처럼 뻗쳐 있습니다. 일부 수컷의 경우 이 송곳니가 1m에 이르기도 하며, 싸울 때 무기로 사용하거나 빙하를 오를 때에는 갈고리처럼 사용합니다. 과거에는 송곳니가 해저에 붙은 조개나 대합조개를 떼어내는 데 사용된다고 추측되었으나 현재는 민감한 수염으로 먹이를 찾아 두꺼운 주둥이로 해저에서 먹이를 떼어낸다고 여겨지고 있습니다.
+            <p/>바다코끼리는 사회성이 매우 강한 동물로 해안이나 빙산 사이에서 무리를 이루어 생활하는데, 때때로 수천 마리가 무리를 이루기도 합니다. 무리가 울부짖는 듯한 소리는 멀리서도 들릴 정도로 큽니다. 바다코끼리는 먼저 공격을 받지 않으면 온순하며 위험에 처한 동료가 있으면 무리 전체가 힘을 모아 지켜줍니다. 주요 천적은 북극곰이이며, 값비싼 송곳니와 고기나 기름을 노리는 인간들도 바다코끼리를 사냥합니다. 현재 과도한 사냥으로 인해 개체수가 크게 감소했습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:entry"  >범고래붙이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleFalseKiller/WhaleFalseKiller_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">연안<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전 세계의 연안</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 돌고래과 (Delphinidae)
+                  <br/>
+                  속: Pseudorca
+                  <br/>
+                  종: crassidens
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">범고래붙이에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">범고래붙이는 사실 돌고래의 일종으로 고래가 아닙니다!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">범고래붙이는 장난을 좋아해서 바다의 선박에 접근하는 것으로 알려져 있습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 범고래붙이를 입양하려면 동물원 명성을 별 4개까지 올려야 합니다.</color>
+            <p/>범고래붙이는 그 모습이 범고래와 비슷해서 붙여진 이름입니다. 두 종은 두개골 모양이 비슷하지만 생물학적으로 전혀 관련이 없습니다. 또한 두 종은 색깔도 비슷하지만 무늬가 다릅니다. 범고래붙이는 검은색과 짙은 회색에 아래에만 흰 무늬가 있지만 범고래는 다른 많은 부위에도 흰 무늬가 있습니다.
+            <p/>범고래붙이는 전 세계의 온대 및 열대 해양에 서식하지만 특정 지역에서 집중적으로 발견되진 않습니다. 먹이는 연어, 참치, 고등어, 만새기 등 다양한 어류와 오징어 등 입니다.
+            <p/>범고래붙이는 무리를 이루어 생활하며, 대규모 무리를 형성하여 이동합니다. 100마리 이하의 무리는 작은 집단에 속하며, 이런 소규모의 집단은 범고래붙이를 유전적인 멸종 위기에 직면하게 합니다. 작은 집단내에서는 개체들이 유전적으로 상당히 유사하기 때문에 머지 않아 근친 교배로 인한 문제를 겪게 될 가능성이 큽니다. 
+         </cell>      
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:entry"  >범고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">툰드라<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">한대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 돌고래과 (Delphinidae)
+                  <br/>
+                  속: Orcinus
+                  <br/>
+                  종: orca
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">범고래에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">범고래는 새끼를 지극정성으로 돌봅니다. 어미는 물론이고 무리에 속한 젊은 암컷들까지 함께 새끼를 보살핍니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">범고래 무리는 각각의 독특한 소리가 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">범고래의 다른 이름인 '킬러 고래'는 이들이 일부 대형 고래를 포함해 거의 모든 바다 생물을 사냥하기 때문에 붙여진 이름입니다. 하지만 인간은 공격하지 않습니다.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 범고래를 입양하려면 동물원 명성을 별 5개까지 올려야 합니다.</color>
+            <p/>수생 포유류인 범고래는 돌고래 중에서 가장 큰 동물입니다. 이들은 물고기, 바닷새, 바다거북, 수생 포유류 등 닥치는 대로 잡아먹기 때문에 '킬러 고래'라는 이름으로도 불립니다. 이 이름 때문에 혼동되기도 하지만 범고래는 돌고래과에 속하는 동물입니다.
+            <p/>범고래 무리는 우두머리 암컷을 중심으로 잘 짜인 사회조직을 갖추고 있습니다. 이들은 의사소통이나 사냥에 주로 소리를 이용하는데, 클릭음, 삑 울리는 소리, 휘파람소리, 고동 소리를 낼 수 있습니다.
+            <p/>범고래는 어떤 수생 포유류보다 넓은 지역에 분포합니다. 이들은 탁 트인 원양이나 연안에서 모두 발견됩니다. 주로 바닷물의 온도가 낮은 지역에 많지만 바하마, 카리브해, 하와이 등 따뜻한 곳에서도 볼 수 있습니다. 심지어 강에서 발견된 적도 있습니다.
+            <p/>잔인한 식습관을 지닌 범고래는 오랜 옛날부터 특히 북서 태평양 지역의 아메리카 원주민들에게 경외와 두려움의 대상이었습니다. 틀링기트족, 콰키우틀족, 하이다족은 범고래를 토템 신앙의 대상으로 삼았으며, 그 모습을 가면, 접시, 투구, 담요 등에 그려넣곤 했습니다. 높은 악명에도 불구하고 틀링기트족을 비롯한 일부 문화권에서는 범고래를 바다의 식량을 지키는 친절한 수호자로 받들었습니다. 그들은 범고래가 더 많은 고기를 잡을 수 있도록 도와준다고 믿었습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:entry"  >들쇠고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">원양<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">전세계의 온대 및 열대 해양</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  강: 포유류 (Mammalia)
+                  <br/>
+                  목: 고래목 (Cetacea)
+                  <br/>
+                  과: 돌고래과 (Delphinidae)
+                  <br/>
+                  속: Globicephala
+                  <br/>
+                  종: macrorhynchus
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">들쇠고래에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">들쇠고래는 사실 돌고래입니다!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">들쇠고래 새끼들은 어미와 무리에 속한 다른 들쇠고래들의 보살핌을 받습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">들쇠고래는 가끔씩 집단으로 사냥을 하며 그 모습이 합창단이 옆으로 줄지어 서 있는 모습과 같습니다. 이 줄은 최대 3.2km에 이르기도 합니다!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 들쇠고래를 입양하려면 동물원 명성을 별 2개까지 올려야 합니다.</color>
+            <p/>들쇠고래는 돌고래과에 속하는 동물입니다. 서식 지역은 전 세계의 열대 및 온대 해양입니다. 들쇠고래와 함께 길잡이고래라 불리우는 참거두고래는 주로 북대서양에 살며 그린란드, 아이슬란드, 노르웨이 북부까지 북상하기도 합니다. 반면 남반구에 사는 무리는 남극 부근의 찬 바다에 나타나기도 합니다. 참거두고래의 서식지역에 북태평양이 포함되기는 하지만 참거두고래의 경우 최근 북태평양에서 거의 관찰되지 않았습니다. 남아메리카와 북대서양의 일부 온대 해양에서는 두 종 모두 발견됩니다.
+            <p/>들쇠고래와 참거두고래는 모두 6m까지 자랍니다. 수컷이 암컷보다 약간 크며, 참거두고래가 들쇠고래보다 약간 큽니다. 두 종 모두 크고 둥근 머리와 매우 큰 등지느러미를 지녔습니다. 색깔은 일반적으로 검은색에서 흑갈색 또는 회색이며 등지느러미 바로 뒤에 자전거 안장 모양의 밝은 반점이 있습니다. 배 위쪽과 턱 바로 아래까지에도 밝은 반점이 있습니다. 두 종 모두 무엇을 긁는 듯한 복잡하고 날카로운 소리로 의사소통을 하며 그 소리로 서로를 구분할 수 있습니다. 이들은 고주파의 클릭음을 전방으로 보내서 물체에 반사되어 돌아오는 메아리를 통해 먹잇감이나 장애물을 구별합니다.
+            <p/>길잡이고래는 깊은 수심까지 잠수할 수 있으며 오징어를 주로 먹습니다. 주로 무리를 이루어 생활하며 수백 마리 단위로 무리를 이룹니다. 수컷은 여러 마리의 암컷과 짝짓기를 하며, 암컷은 한 번에 한 마리의 새끼를 낳습니다. 35살이 넘으면 더 이상 임신을 하지 못하며, 새끼가 최소한 14살 이상이 될 때까지 젖을 먹입니다. 이처럼 양육 기간이 길기 때문에 자녀가 낳은 새끼를 돌보거나 동기간의 새끼를 함께 기르는 경우가 흔하게 발생합니다.
+            <p/>길잡이고래 무리는 다른 고래에 비해 해안으로 올라와 죽는 경우가 많은데 특히 뉴잉글랜드 지방과 뉴질랜드 해안에서 이런 일이 자주 발생합니다. 이런 집단 자살이 방향 감각 상실 때문인지 질병 때문인지 확실하지는 않지만 강한 유대감 때문에 한 두 마리가 해안으로 올라와 죽는 경우 다른 동료들까지 뒤를 따른다는 점은 확실합니다.
+            <p/>길잡이고래 무리는 유대감이 강하기 때문에 상대적으로 사냥하기가 쉬운데, 무리를 얕은 만에 몰아넣고 작살이나 곤봉으로 잡는 방법이 널리 쓰였습니다. 이런 사냥은 역사적으로 널리 사용되어온 방법입니다. 그린란드 연안과 덴마크의 페로 제도 주변에서 참거두고래 사냥은 여전히 계속되고 있으며, 들쇠고래 사냥은 일본 연안에서 계속되고 있습니다. 북대서양에서는 사냥 때문에 이들 길잡이고래의 개체수가 줄어든 것으로 추정되고 있습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+  
+</ZT2Strings>

@@ -1,0 +1,51 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_boreal:entry"  >북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_boreal:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+울버린과 같이 땅속 어두운 곳에서 사는 조그마한 아한대 동물들이 즐겨 사용하는 동굴입니다. 소형 북방림 동굴에는 한 마리가, 대형 북방림 동굴에는 두 마리가 들어갈 수 있습니다.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_desert:entry"  >사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_desert:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+사막 동굴은 페넥여우와 같이 땅속 어두운 곳에서 사는 조그마한 사막 동물에게 적합합니다. 소형 사막 동굴에는 한 마리가, 대형 사막 동굴에는 두 마리가 들어갈 수 있습니다.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_scrub:entry"  >관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_scrub:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+관목림 동굴은 코모도왕도마뱀과 같이 땅속 어두운 곳에서 사는 관목림 지대의 동물에게 적합합니다. 소형 관목림 동굴에는 한 마리가, 대형 관목림 동굴에는 두 마리가 들어갈 수 있습니다.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING> 
+ 
+</ZT2Strings>

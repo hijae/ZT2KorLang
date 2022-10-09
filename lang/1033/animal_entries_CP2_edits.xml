@@ -1,0 +1,181 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_zebra" version="9" />
+      <LOC_STRING _locID="zoopedia_zebra:entry" version="9"  >Zebra, Common</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zebra:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/ZebraCommon/ZebraCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+		</cell>
+		<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>              
+   
+               <cell width="128">   
+                  <color r="255" g="255" b="255">	Savannah</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">	East Africa</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_East.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+
+                     Class:  	Mammals                                                        
+                     <i>(Mammalia)</i>
+                     <br/>
+                     Order:		Odd-Toed Ungulates                                                        
+                     <i>(Perissodactyla)</i>
+                     <br/>
+      Family: Horses / Asses / Zebra <i>(Equidae)</i><br/>
+  		     Genus:		                                                       
+                     <i>Equus</i>
+                     <br/>
+     		     Species:	                                                       
+                     <i>burchelli</i>
+                     <br/>
+       			Subspecies:	                                                       
+                     <i>boehmi</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Common Zebra Facts      					</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Zebras may be able to recognize other zebras by the pattern of stripes on their bodies.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Although they are less cooperative than horses, zebras can be tamed and trained to pull carriages, but they are very difficult to ride.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Zebras signal to each other with body language and sounds in the same way that domesticated horses do. 			Lowered ears, for example, show that a zebra is likely to kick, while a snort shows that it is alarmed.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                                    During the course of a day, a zebra herd may wander 20 km (12 mi) or more in search of food, usually returning to the same resting place each evening.		</color>
+		                 </cell>
+		                 <cell width="32" pady="10">
+		                    <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+		                 </cell>
+		                 <cell width="202" pady="10">
+		                    <color r="255" g="255" b="255">			
+		                    Zoo Tycoon's scientists and breeding experts have been attempting a process of breeding back the 
+		                                <a href="zoopedia:zoopedia_quagga:entry">
+		  		                 <u>
+		  		                    <color r="255" g="231" b="135">quagga</color>
+		  		                 </u>
+		  		              </a> from extinction.  
+		                    </color>
+		                 </cell>               
+		                 <br/>
+		              </cell>
+		           </cell>
+		           <cell width="340">
+		              <color r="255" g="248" b="178">
+		              To unlock the common zebra in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo.
+		              </color>
+		              <p/>
+		            
+		                The zebra, a member of the horse family, has an eye-catching coat of black and white stripes. Zebras are found only in Africa, but their remarkable markings make them among the most familiar mammals in the world. There are three species of zebras, each with a distinctive stripe pattern: Grevy's zebra, the mountain zebra, and the plains zebra (also known as Burchell's zebra).                        
+		              <p/>
+		            
+		                Zebras are members of the family Equidae, which also includes horses and asses. The earliest known ancestor of the animals in this family was a small animal called Hyracotherium, more commonly known as Eohippus, which lived 60 million years ago, during the Pleistocene Epoch. Direct ancestors of the modern horse, ass, and zebra appeared in Europe, Africa, and Asia about 4 million years ago, during the Pliocene Epoch.                        
+
+            <p/>
+
+        	Like other members of the horse family, zebras are primarily grazing animals, feeding on coarse        		grass. Zebras face many predators, particularly          			                        
+            
+            
+            <a href="zoopedia:zoopedia_lion:entry">
+               <u>
+                  <color r="255" g="231" b="135">lions</color>
+               </u>
+            </a> and hyenas, but over the last 200 years humans have posed a greater threat to their survival. The quagga, a zebra with stripes on its head and neck, but often none on its sides and hindquarters, lived in southern Africa until the 1870s, when it was hunted to extinction. Today, both Grevy's zebra and the mountain zebra are endangered by hunting and habitat loss.  
+         
+         
+         
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+
+            
+                                                Content provided courtesy of                         
+            
+            
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+
+            
+                                                              (C) 1993-2003 Microsoft Corporation. All rights reserved.	                                                   
+         
+         
+         
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

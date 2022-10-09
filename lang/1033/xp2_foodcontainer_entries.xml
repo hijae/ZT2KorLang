@@ -1,0 +1,85 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_buoynet:entry"  >그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoynet:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>먹이가 든 그물이 달린 부표입니다.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:entry"  >부표</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>살아있는 먹이가 달린 부표입니다. 사육사들은 이 부표에 항상 먹이가 달려있도록 합니다.
+            </color>            
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:entry"  >먹이 상자</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/FoodBox/FoodBox_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/FoodBox/Foodbox_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>물속에 넣어주는 먹이 상자로 안에는 먹이가 떠 있습니다.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:entry"  >물고기뼈 먹이통</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Chum_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Fish_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>물고기뼈 모양으로 만든 먹이통으로 많은 물고기나 육식성 해양 동물에게 먹이를 줄 때 좋습니다. 이 먹이통에서 먹이를 먹는 동물들의 모습은 관람객들에게 좋은 구경 거리가 됩니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:entry"  >인공 암초</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                 
+                  <p/>대형 해양 동물들은 인공 암초 부근에서 먹이를 찾아 먹는 것을 좋아합니다. 사육사들은 인공 암초에 항상 적당한 먹이를 놓아둡니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING> 
+
+</ZT2Strings>

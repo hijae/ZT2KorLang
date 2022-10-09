@@ -1,0 +1,10 @@
+<ZT2Strings>
+	  <LOC_STRING _locID="FilterText:biome_montane">산악</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_temperaterainforest">온대강우림</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_desertred">사막</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_colddesert">한대사막</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_mediterranean">지중해 관목림</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_tropicaldryforest">열대건조림</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:biome_polarice">극지방</LOC_STRING>	  
+      <LOC_STRING _locID="FilterText:biome_freshwater">담수</LOC_STRING>
+</ZT2Strings>

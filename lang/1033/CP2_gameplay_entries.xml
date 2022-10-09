@@ -1,0 +1,207 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_cloning:entry"  >Creating Extinct Animals</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cloning:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>    
+		The
+			<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Extinct Research Lab </color>
+			       </u> 
+			</a>
+           	is where you create extinct animals.
+		<p/>
+		After completing  
+	    <a href="zoopedia:zoopedia_fossilfinding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Fossil Finding </color>
+               </u>
+            </a>
+		and  
+	    <a href="zoopedia:zoopedia_fossilbuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Fossil Building, </color>
+               </u>
+            </a>
+		you unlock a chance to create that animal in the Extinct Research Lab at no cost! Click the lab to begin, and then select the Create Extinct Animals tab on the Info panel. Select from the list of animals you already assembled. 
+		<p/>
+		Next, review the keyboard/mouse combination that appears on the lab's plasma screen. The challenge is to replicate this combination using your keyboard and mouse. You must replicate each part of the combination just ahead of the green scanner line. It's all about precision and timing. 
+		<p/>
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="UI\fx\traininggestures\cloningcenter_mystery.dds" sx="0" sy="0" sw="0" sh="0" width="64" height="64"/>
+			</color>
+		    </cell>
+		You might see a ? icon replace your key icons when attempting to create a higher star animal. Remember which key was in that spot, and press it when the scan line gets there. No one said creating extinct animals was easy! 
+		<p/>
+		If you do an outstanding job, you get a super version of the extinct animal you selected. These are the happiest, healthiest, and strongest extinct animals -- and guests really like to see them. Do a good job, and you get a regular extinct animal. Fail, and you may get an animal no one's ever seen!
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorampage:entry"  >Dino Rampage</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorampage:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		Occasionally, dinosaurs in captivity rampage. No one knows for sure what causes these massive creatures to become so ferocious. But when they rampage, they're capable of destroying fences, foliage, zoo buildings -- pretty much anything that gets in their way. Eventually, they tire and stop -- but not before causing a lot of costly rampage damage. A less costly -- and safe -- way to stop a rampage is to tranquilize the dangerous dinos. If you're a hands-on zookeeper, click the large Find Rampaging Animals	button in the upper right corner of your screen and then click the Tranquilize button on the dino's Info panel. Are you ready? If so, pick up your tranq gun and spring into action. You must keep the tranq gun focused on the dino until the indicator lights turn green. Then press SPACEBAR to tranquilize your rampaging dino!
+		<p/>
+		If you're a hands-off zookeeper, you can call in the 
+			    <a href="zoopedia:zoopedia_dinorecoveryteam:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Dino Capture Team</color>
+			       </u>
+			    </a>
+		from the  
+				<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Dino Capture Team bunker. </color>
+			       </u> 
+				</a>
+		They can take care of the dino situation for you, but only after suiting up -- which may take some time. It might be faster and cheaper to just do it yourself.             	           	
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_diseaseresearch:entry"  >Disease Curing</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_diseaseresearch:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>		
+		Sometimes animals catch diseases. Fortunately, you have the 
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Extinct Research Lab</color>, 
+			       </u>  
+				</a>
+		where you can conduct research to find a cure. When a zoo message says one of your animals has a disease and needs a cure, select the 
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Extinct Research Lab</color>, 
+			       </u>  
+				</a>
+		and then select the Disease Curing tab on the Info panel. Click the button to start sampling possible cure items. You can also access Disease Curing by clicking on the Find Diseased Animals button, and then clicking on their picture on the diseased animal's Info panel.
+		<p/>
+		First, take a small sample from your diseased animal. After your research team analyzes the sample, you get lab reports with data on what you need to find a cure. By pressing H, you can get a new report that gets you closer to the exact items needed. Every new research report you order detracts from your reward for finding the cure, so if you can find the items on your own, you'll make more money!
+		<p/>
+		When you find the cure, go into Zoo Guest Mode and cure your animals the same way you wash or heal them. You can also give your zookeepers the cure, and they can cure your animals for you!
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilfinding:entry"  >Finding Fossils</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilfinding:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">	
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>
+		Before you can create extinct animals at the 
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Extinct Research Lab</color> 
+               </u>, </a>
+               you'll have to find the fossil pieces buried in your zoo! To do this, select the 
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Extinct Research Lab</color> 
+               </u>, </a>
+		click the Find Fossils tab on the Info panel, and then click the button to begin searching for fossils. 
+		      <p/>
+		      In this game mode, you walk around your zoo with your handheld fossil finder. The vertical bar in the center of your fossil finder lets you know when you're approaching an underground object. When you get really close, a dig site marker automatically appears. Press SPACEBAR to dig at that site, or leave it to continue looking for other sites.   
+		      <p/>
+		      All of the fossils you collect are placed in the 
+			<a href="zoopedia:zoopedia_cloningcenter:entry">
+		       <u>
+			  <color r="255" g="231" b="135">Extinct Research Lab</color> 
+		       </u>. </a>		      
+		      When you have enough pieces to assemble a complete fossil, go to the lab, select the Build Fossils tab and the Assemble a fossil button, and then start the 
+
+			    <a href="zoopedia:zoopedia_fossilbuilding:entry">
+		               <u>
+		                  <color r="255" g="231" b="135">Fossil Building</color> 
+		               </u> game! </a>
+			<p/>
+			When you're done finding fossils and building them, you can move on to the last step, 
+			    <a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Animal Creation</color>
+			       </u>! </a>
+           	
+		</cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilbuilding:entry"  >Building Fossils</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilbuilding:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>
+		After you find a complete set of fossil pieces in the  
+			<a href="zoopedia:zoopedia_fossilfinding:entry">
+		       <u>
+			  <color r="255" g="231" b="135">Fossil Finding</color>
+			  </u> game, 
+			</a>
+
+		assemble the fossil pieces to build a full skeleton of an extinct animal. To do this, select the Build Fossils tab on the Info panel, and then select the extinct animal you want to assemble.
+		<p/>
+		When you've completely assembled your animal skeleton, you can attempt to 
+			    <a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="255" g="231" b="135">create</color>
+			       </u> it </a>
+	       at the 
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Extinct Research Lab</color>
+			       </u>. </a>
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING> 
+
+   
+</ZT2Strings>
+

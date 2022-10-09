@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="worldlocation:warm_oceans_worldwide"  >열대 해양</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:warm_oceans_worldwide_ltt"  >
+         <color r="255" g="248" b="178">
+            열대 해양
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic_ocean"  >북극해</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic_ocean_ltt"  >
+         <color r="255" g="248" b="178">
+            북극해
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:indian_pacific_oceans"  >인도-태평양</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:indian_pacific_oceans_ltt"  >
+         <color r="255" g="248" b="178">
+            인도-태평양
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic_antarctic_oceans"  >극지 주변 해양</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:arctic_antarctic_oceans_ltt"  >
+         <color r="255" g="248" b="178">
+            극지 주변 해양
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:coasts_worldwide"  >전 세계 연안</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:coasts_worldwide_ltt"  >
+         <color r="255" g="248" b="178">
+            전 세계 연안
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:north_pacific_coasts"  >북태평양 연안</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:north_pacific_coasts_ltt"  >
+         <color r="255" g="248" b="178">
+            북태평양 연안
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:east_pacific_coast"  >동태평양 연안</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:east_pacific_coast_ltt"  >
+         <color r="255" g="248" b="178">
+            동태평양 연안
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:atlantic_ocean"  >대서양</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:atlantic_ocean_ltt"  >
+         <color r="255" g="248" b="178">
+            대서양
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southern_ocean_islands"  >남극 군도</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southern_ocean_islands_ltt"  >
+         <color r="255" g="248" b="178">
+            남극 군도
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:indianocean"  >인도양</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:indianocean_ltt"  >
+         <color r="255" g="248" b="178">
+            인도양
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation" version="7" />
+      <LOC_STRING _locID="worldlocation:all" version="7"  >모든 지도 유형</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:marine" version="7"  >Marine Mania</LOC_STRING>
+</ZT2Strings>

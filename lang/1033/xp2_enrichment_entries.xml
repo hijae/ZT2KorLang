@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry"  >조개 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>쥐가오리 등의 해양 동물은 커다란 인공 조개가 내뿜는 기포 사이로 헤엄치는 것을 좋아합니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry"  >생선이 담긴 유리병</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해달은 유리병에 담긴 생선을 꺼내 먹는 것을 좋아합니다. 관람객들은 그 모습을 보면서 즐거워합니다!
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry"  >살아있는 노랑살다랭이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해양 육식 동물들은 살아있는 먹이를 잡아 먹는 것을 좋아합니다! 대부분의 동물원에서 동물들의 활동을 유도하기 위해 살아있는 먹이를 줍니다.
+			<p/>챌린지 모드에서 두 개의 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 먹이로 줄 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry"  >살아있는 극지대구</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해양 육식 동물들은 살아있는 먹이를 잡아 먹는 것을 좋아합니다! 대부분의 동물원에서 동물들의 활동을 유도하기 위해 살아있는 먹이를 줍니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry"  >바다표범 장난감</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>물에 떠있는 바다표범 장난감을 넣어주면 백상아리, 범고래 등의 대형 육식 동물들이 들이받고 물어뜯으면서 즐거워합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

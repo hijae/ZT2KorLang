@@ -1,0 +1,350 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_savannahrocks:entry">사바나 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_savannahrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/savannah/Rock_Savannah_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/savannah/Rock_Savannah_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/savannah/Rock_Savannah_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+				사바나 바위는 코끼리, 얼룩말, 사자 등의 동물이 사는 사바나 환경의 우리에 어울립니다. 
+				또한, 사바나 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rainforestrocks:entry">열대우림 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rainforestrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/tropicalrainforest/Rock_TropicalRainforest_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/tropicalrainforest/Rock_TropicalRainforest_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/tropicalrainforest/Rock_TropicalRainforest_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+				열대우림 바위는 고릴라, 호랑이 등의 동물이 사는 열대우림 환경의 우리에 어울립니다.  
+				또한, 열대우림 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_borealrocks:entry">북방림 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_borealrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/borealforest/Rock_BorealForest_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/borealforest/Rock_BorealForest_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/borealforest/Rock_BorealForest_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                                 
+               북방림 바위는 북방림 초목이 있는 우리에 어울립니다. 
+               북방림 초목으로는 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_fringedpolygala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">톱니 애기풀</color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+               , 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_reindeerlichen:entry">
+                     <u>
+                        <color r="255" g="231" b="135">순록이끼</color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+               , 그리고 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_balsamfir:entry">
+                     <u>
+                        <color r="255" g="231" b="135">발삼전나무</color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+               ,
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_blackspruce:entry">
+                     <u>
+                        <color r="255" g="231" b="135">검은가문비나무</color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+               , 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_tamarack:entry">
+                     <u>
+                        <color r="255" g="231" b="135">아메리카낙엽송 </color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+                이 있습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_alpinerocks:entry">고산 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_alpinerocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/alpine/Rock_Alpine_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/alpine/Rock_Alpine_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/alpine/Rock_Alpine_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               고산 바위는 고산 초목이 있는 우리에 어울립니다. 
+               고산 초목으로는 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_larkspur:entry">
+                     <u>
+                        <color r="255" g="231" b="135">참제비고깔</color>
+                     </u>
+                  </a>
+                  
+                  
+                   
+               , 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_yellowcedar:entry">
+                     <u>
+                        <color r="255" g="231" b="135">알래스카 삼나무 </color>
+                     </u>
+                  </a>
+                  
+                  
+                   
+                , 그리고 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_himalayanbirch:entry">
+                     <u>
+                        <color r="255" g="231" b="135">히말라야 자작나무 </color>
+                     </u>
+                  </a>
+                  
+                  
+                                  
+                 , 
+		     
+                  
+                  
+                  <a href="zoopedia:zoopedia_himalayanpine:entry">
+                     <u>
+                        <color r="255" g="231" b="135">히말라야 소나무 </color>
+                     </u>
+                  </a>
+                  
+                  
+                                   
+		 가 있습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scrubrocks:entry">관목림 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scrubrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/scrub/Rock_Scrub_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/scrub/Rock_Scrub_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/scrub/Rock_Scrub_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               관목림 바위는 캥거루, 겜즈복 등의 동물이 사는 관목림 환경의 우리에 어울립니다. 
+               또한, 관목림 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertrocks:entry">사막 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/desert/Rock_Desert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/desert/Rock_Desert_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/desert/Rock_Desert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               사막 바위는 낙타 등의 동물이 사는 사막 환경의 우리에 어울립니다. 
+               또한, 사막 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wetlandrocks:entry">습지대 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wetlandrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/wetlands/Rock_Wetlands_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/wetlands/Rock_Wetlands_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/wetlands/Rock_Wetlands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               습지대 바위는 하마, 악어, 홍학 등의 동물이 사는 습지대 환경의 우리에 어울립니다. 
+               또한, 습지대 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tundrarocks:entry">툰드라 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tundrarocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/tundra/Rock_Tundra_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/tundra/Rock_Tundra_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/tundra/Rock_Tundra_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               툰드라 바위는 북극곰, 펭귄 등의 동물이 사는 툰드라 환경의 우리에 어울립니다. 
+               또한, 툰드라 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grasslandrocks:entry">초원 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grasslandrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/grassland/Rock_Grassland_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/grassland/Rock_Grassland_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/grassland/Rock_Grassland_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               초원 바위는 초원 환경의 우리에 어울립니다. 
+               또한, 초원 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_temperaterocks:entry">온대림 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_temperaterocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/temperateforest/Rock_TemperateForest_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/temperateforest/Rock_TemperateForest_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/temperateforest/Rock_TemperateForest_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               온대림 바위는 자이언트팬더, 붉은 팬더, 공작 등의 동물이 사는 온대림 환경의 우리에 어울립니다. 
+               또한, 온대림 스타일로 꾸민 지역을 장식하는데 써도 좋습니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

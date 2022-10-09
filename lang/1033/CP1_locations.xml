@@ -1,0 +1,24 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="worldlocation:cp1africa"  >아프리카 생태 체험</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_asia"  >아프리카 및 아시아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_asia_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카 및 아시아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:ethiopia"  >에티오피아</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:ethiopia_ltt"  >
+         <color r="255" g="248" b="178">
+            에티오피아
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_northwest"  >아프리카 북서부</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:africa_northwest_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카 북서부
+         </color>
+         <br/>
+      </LOC_STRING>
+</ZT2Strings>

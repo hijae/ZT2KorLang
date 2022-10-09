@@ -1,0 +1,39 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_about" version="7" />
+      <LOC_STRING _locID="zoopedia_about:entry" version="7"  >도움말/Zoo Tycoon 2 정보</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_about:text" version="7"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+(c) &amp; (p) 2006 Microsoft Corporation. All rights reserved.
+<p/>
+Microsoft, Microsoft Game Studios 로고, Windows, Windows 로고, Zoo Tycoon 및 Marine Mania는 미국, 대한민국 및/또는 기타 국가에서의 Microsoft Corporation 등록 상표 또는 상표입니다.
+<p/>
+본 제품은 Microsoft Corporation을 위하여 Blue Fang Games에 의해 개발된 것입니다. 
+<p/>Blue Fang Games와 Blue Fang 로고는 Blue Fang Games, LLC.의 등록 상표입니다.
+<p/>이 제품은 사용이 허가되었습니다. PID를 보려면 Zoo Tycoon 2: Marine Mania 디스크를 CD-ROM 드라이브에 넣으십시오. 디스크를 넣으면 나타나는 자동 실행 화면에 PID가 표시됩니다. 제어판의 프로그램 추가/제거 창을 열고 설치된 프로그램 목록 중에서 Zoo Tycoon 2: Marine Mania를 선택한 뒤 "지원 정보를 보려면 여기를 클릭하십시오"를 클릭하여 PID를 찾아 볼 수도 있습니다.         
+                  <p/>
+                  <img src="ui/zoopedia/MsGslogo_white.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/bink.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="ui/zoopedia/miles.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64"/>
+                	<img src="ui/zoopedia/jeeplogo_64X128.dds" sx="0" sy="0" sw="128" sh="64"/>               
+                  <p/>
+Portions of this software are included under license. (c) 1997-2006 Numerical Design, Ltd. All rights reserved. Gamebryo(R) is a registered trademark of Numerical Design, Ltd.
+<p/>
+Uses Miles Sound System, Copyright (c) 1991-2006 by RAD Game Tools, Inc. Miles 3D Realistic Sound Experience (RSX) Software Copyright (c) 1997-2006 by Intel Corporation and RAD Game Tools.
+<p/>
+Uses Bink Video Copyright (c) 1997-2006 by RAD Game Tools, Inc.
+<p/>
+Jeep(R) is a registered trademark of DaimlerChrysler Corporation.
+  <p/>
+경고: 이 컴퓨터 프로그램은 저작권법과 국제 협약의 보호를 받습니다. 이 프로그램의 전부 또는 일부를 무단으로 복제, 배포하는 행위는 민사 및 형사법에 의해 엄격히 규제되어 있으며, 기소 사유가 됩니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

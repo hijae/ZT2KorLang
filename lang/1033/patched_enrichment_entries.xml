@@ -1,0 +1,52 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_hollowlog" version="2" />
+      <LOC_STRING _locID="zoopedia_hollowlog:entry" version="2"  >통나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hollowlog:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\HollowLog\HollowLog_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Honey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog_df\HollowLogBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+많은 동물들은 통나무 속에서 먹이를 찾는 행동을 즐깁니다. 통나무는 일종의 천연 먹이통입니다.
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile" version="2" />
+      <LOC_STRING _locID="zoopedia_substratepile:entry" version="2"  >사료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile_df/SubstratePileBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+사료는 나무 조각, 나뭇잎, 잘게 썬 풀, 잔가지, 클로버, 민들레와 유기물에 열매, 상추, 건초, 풀, 나뭇가지, 대나무잎, 벌레 등을 넣은 것입니다. 
+                  <p/>
+많은 동물들은 자연 상태에서 행동하는 것처럼 사료 더미에서 먹이를 찾는 행동을 즐깁니다. 동물들은 이 과정에서 흥미를 느낍니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

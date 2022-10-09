@@ -1,0 +1,11 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffthoughts:GiveTreat"  >%s에게 먹이를 줘서 묘기를 제대로 펼치게 해야겠군.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:ConductShow"  >관람객들이 공연을 좋아했으면 좋겠군.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:FailureReaction"  >안 돼, %s이(가) 실수를 했잖아!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:SuccessReaction"  >%s이(가) 묘기를 멋지게 성공했어!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:CriticalReaction"  >와, %s이(가) 정말 멋진 묘기를 해냈어!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:WaitShow"  >다음 공연은 훨씬 더 멋질 거야!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PreShow"  >다음 공연을 위해 청소 좀 해야겠군.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PostShow"  >이런, 공연장이 더러워졌네.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:Training"  >조금만 더 훈련시키면 %s이(가) 묘기를 완전히 익히겠어.</LOC_STRING>
+</ZT2Strings>

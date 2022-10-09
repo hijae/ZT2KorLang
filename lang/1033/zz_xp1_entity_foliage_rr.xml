@@ -1,0 +1,1711 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname:TestObject"  >Test Object</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_stt"  >Test object</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_lower"  >test object</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Test Object</b>
+         </color>
+         <br/>
+         Click to select and then place a test object.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df"  >Test Object</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_stt"  >Test object</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_lower"  >test object</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Test Object</b>
+         </color>
+         <br/>
+         Click to select and then place a test object.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec"  >Fennec Fox</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_stt"  >Fennec fox</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_lower"  >the fennec fox</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Fennec Fox</b>
+         </color>
+         <br/>
+         Click to select and then place a fennec fox, a fox adapted for living in a desert environment.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled"  >Spectacled Bear</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_stt"  >Spectacled bear</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_lower"  >the spectacled bear</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Spectacled Bear</b>
+         </color>
+         <br/>
+         Click to select and then place a spectacled bear, an arboreal, herbivorous bear with distinct facial markings.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned"  >Scimitar Horned Oryx</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_stt"  >Scimitar horned oryx</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_lower"  >the scimitar horned oryx</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Scimitar Horned Oryx</b>
+         </color>
+         <br/>
+         Click to select and then place a scimitar horned oryx, a nomadic desert oryx.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican"  >American Bison</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_stt"  >American bison</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_lower"  >the American bison</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>American Bison</b>
+         </color>
+         <br/>
+         Click to select and then place an American bison, a large bovine that once roamed North America in great herds.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida"  >Florida Panther</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_stt"  >Florida panther</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_lower"  >the Florida panther</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Florida Panther</b>
+         </color>
+         <br/>
+         Click to select and then place a Florida panther, an endangered subspecies of puma adapted to the wetlands.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan"  >Javan Rhinoceros</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_stt"  >Javan rhinoceros</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_lower"  >the Javan rhinoceros</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Javan Rhinoceros</b>
+         </color>
+         <br/>
+         Click to select and then place a Javan rhinoceros, a reclusive, heavily armored rhinoceros.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds"  >Baird's Tapir</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_stt"  >Baird's tapir</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_lower"  >the Baird's tapir</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Baird's Tapir</b>
+         </color>
+         <br/>
+         Click to select and then place a Baird's Tapir, an endangered ungulate from Central America.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou"  >Barren-Ground Caribou</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_stt"  >Barren-ground caribou</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_lower"  >the barren-ground caribou</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Barren-Ground Caribou</b>
+         </color>
+         <br/>
+         Click to select and then place a barren-ground caribou, also known as a reindeer.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant"  >Giant Sable Antelope</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_stt"  >Giant sable antelope</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_lower"  >the giant sable antelope</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Giant Sable Antelope</b>
+         </color>
+         <br/>
+         Click to select and then place a giant sable antelope, a large, aggressive antelope.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine"  >Wolverine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_stt"  >Wolverine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_lower"  >the wolverine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wolverine</b>
+         </color>
+         <br/>
+         Click to select and then place a wolverine, a small mustelid with enthusiastic eating habits.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala"  >Koala</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_stt"  >Koala</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_lower"  >the koala</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Koala</b>
+         </color>
+         <br/>
+         Click to select and then place a koala, the best known Australian animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray"  >Eastern Timber Wolf</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_stt"  >Eastern timber wolf</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_lower"  >the eastern wolf</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gray Wolf</b>
+         </color>
+         <br/>
+         Click to select and then place a gray wolf, also known as a timber wolf.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan"  >Borenean Orangutan</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_stt"  >Bornean orangutan</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_lower"  >the Bornean orangutan</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bornean Orangutan</b>
+         </color>
+         <br/>
+         Click to select and then place a Bornean orangutan, an endangered primate from Southeast Asia.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican"  >African Wild Dog</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_stt"  >African wild dog</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_lower"  >the African wild dog</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>African Wild Dog</b>
+         </color>
+         <br/>
+         Click to select and then place an African wild dog, easily recognized by its vivid markings.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested"  >Northern White-Cheeked Gibbon</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_stt"  >Northern white-cheeked gibbon</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_lower"  >the northern white-cheeked gibbon</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Northern White-Cheeked Gibbon</b>
+         </color>
+         <br/>
+         Click to select and then place a northern white-cheeked gibbon, an endangered primate from Asia.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild"  >Przewalski's Wild Horse</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_stt"  >Przewalski's wild horse</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_lower"  >the Przewalski's wild horse</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Przewalski's Wild Horse</b>
+         </color>
+         <br/>
+         Click to select and then place a Przewalski's wild horse, an endangered horse from central Asia.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon"  >Komodo Dragon</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_stt"  >Komodo dragon</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_lower"  >the Komodo dragon</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Komodo Dragon</b>
+         </color>
+         <br/>
+         Click to select and then place a Komodo dragon, the largest living lizard.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor"  >Markhor</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_stt"  >Markhor</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_lower"  >the markhor</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Markhor</b>
+         </color>
+         <br/>
+         Click to select and then place a markhor, a nimble-footed alpine animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish"  >Spanish Lynx</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_stt"  >Spanish lynx</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_lower"  >the Spanish lynx</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Spanish Lynx</b>
+         </color>
+         <br/>
+         Click to select and then place a Spanish lynx, a critically endangered big cat.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos"  >Galapagos Giant Tortoise</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_stt"  >Galapagos giant tortoise</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_lower"  >the Galapagos giant tortoise</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Galapagos Giant Tortoise</b>
+         </color>
+         <br/>
+         Click to select and then place a Galapagos giant tortoise, an endangered tortoise from the remote Galapagos islands.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg"  >Galapagos Giant Tortoise Egg</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_stt"  >Galapagos giant tortoise egg</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_lower"  >the Galapagos giant tortoise egg</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Galapagos Giant Tortoise Egg</b>
+         </color>
+         <br/>
+         Click to select and then place a Galapagos giant tortoise egg.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine"  >Alpine Sea Holly</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_stt"  >Alpine sea holly</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_lower"  >the alpine sea holly</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Alpine Sea Holly</b>
+         </color>
+         <br/>
+         Click to select and then place alpine sea holly, a beautiful but endangered blue flower.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine"  >Himalayan Oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_stt"  >Himalayan oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_lower"  >the Himalayan oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Himalayan Oak</b>
+         </color>
+         <br/>
+         Click to select and then place a Himalayan oak, a large hardy tree.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal"  >Giant Sequoia</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_stt"  >Giant sequoia</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_lower"  >the giant sequoia</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Giant Sequoia</b>
+         </color>
+         <br/>
+         Click to select and then place a giant sequoia, the most massive living thing on earth.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert"  >Joshua Tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_stt"  >Joshua tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_lower"  >the Joshua tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Joshua Tree</b>
+         </color>
+         <br/>
+         Click to select and then place a Joshua tree, a spiny yucca tree native to western North America.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal"  >Pink Lady's Slipper</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_stt"  >Pink lady's slipper</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_lower"  >the pink lady's slipper</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Pink Lady's Slipper</b>
+         </color>
+         <br/>
+         Click to select and then place pink lady's slipper, an orchid found in temperate climates.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate"  >Puya Plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_stt"  >Puya plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_lower"  >the puya plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Puya Plant</b>
+         </color>
+         <br/>
+         Click to select and then place a puya plant, a native of South America and a favorite of spectacled bears.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland"  >Bur Oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_stt"  >Bur oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_lower"  >the bur oak</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bur Oak</b>
+         </color>
+         <br/>
+         Click to select and then place a bur oak, a common prairie tree.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub"  >Feathertop Wiregrass</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_stt"  >Feathertop wiregrass</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_lower"  >the feathertop wiregrass</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Feathertop Wiregrass</b>
+         </color>
+         <br/>
+         Click to select and then place feathertop wiregrass, a common Australian grass.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert"  >Golden Barrel Cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_stt"  >Golden barrel cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_lower"  >the golden barrel cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Golden Barrel Cactus</b>
+         </color>
+         <br/>
+         Click to select and then place a golden barrel cactus, which is endangered in the wild due to collectors.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah"  >Red Oat Grass</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_stt"  >Red oat grass</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_lower"  >the red oat grass</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Red Oat Grass</b>
+         </color>
+         <br/>
+         Click to select and then place red oat grass, a common savannah grass in Africa and Australia.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub"  >Shepherd's Tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_stt"  >Shepherd's tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_lower"  >the shepherd's tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Shepherd's Tree</b>
+         </color>
+         <br/>
+         Click to select and then place a shepherd's tree, a common sight in Africa.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah"  >Yellow Ipe Tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_stt"  >Yellow ipe tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_lower"  >the yellow ipe tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Yellow Ipe Tree</b>
+         </color>
+         <br/>
+         Click to select and then place a yellow ipe tree, a typical tree of the South American cerrado.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate"  >Lady Fern</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_stt"  >Lady fern</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_lower"  >the lady fern</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Lady Fern</b>
+         </color>
+         <br/>
+         Click to select and then place a lady fern, a common sight in temperate forests.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland"  >Big Bluestem</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_stt"  >Big bluestem</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_lower"  >the big bluestem</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Big Bluestem</b>
+         </color>
+         <br/>
+         Click to select and then place big bluestem, a prairie grass that can grow up to 10 feet tall.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub"  >Prickly Pear Cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_stt"  >Prickly pear cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_lower"  >the prickly pear cactus</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Prickly Pear Cactus</b>
+         </color>
+         <br/>
+         Click to select and then place a prickly pear cactus, one of the Galapagos giant tortoise's favorite foods.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest"  >Scythian Lamb</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_stt"  >Scythian lamb</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_lower"  >the Scythian lamb</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Scythian Lamb</b>
+         </color>
+         <br/>
+         Click to select and then place a Scythian lamb, an endangered tree fern used in traditional Asian medicine.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest"  >Durian Tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_stt"  >Durian tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_lower"  >the durian tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Durian Tree</b>
+         </color>
+         <br/>
+         Click to select and then place a durian tree, which produces a delicious but pungent fruit.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra"  >Lingonberry</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_stt"  >Lingonberry</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_lower"  >the lingonberry</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Lingonberry</b>
+         </color>
+         <br/>
+         Click to select and then place lingonberry, a member of the cranberry family.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands"  >Green Pitcher Plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_stt"  >Green pitcher plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_lower"  >the green pitcher plant</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Green Pitcher Plant</b>
+         </color>
+         <br/>
+         Click to select and then place a green pitcher plant, an endangered carnivorous plant that traps insects.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra"  >Labrador Tea</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_stt"  >Labrador tea</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_lower"  >the Labrador tea</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Labrador Tea</b>
+         </color>
+         <br/>
+         Click to select and then place Labrador tea, a common bush.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate"  >Sydney Blue Gum</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_stt"  >Sydney blue gum</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_lower"  >the Sydney blue gum</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sydney Blue Gum</b>
+         </color>
+         <br/>
+         Click to select and then place Sydney blue gum, a species of eucalyptus tree.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands"  >Perepat Tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_stt"  >Perepat tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_lower"  >the perepat tree</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Perepat Tree</b>
+         </color>
+         <br/>
+         Click to select and then place a Perepat tree, a type of mangrove.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus"  >Elevated Food Dish with Eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_stt"  >Elevated food dish with eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_lower"  >the elevated food dish with eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Elevated Food Dish with Eucalyptus</b>
+         </color>
+         <br/>
+         Click to select and then place the elevated food dish containing eucalyptus leaves, the koala's favorite food.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries"  >Elevated Food Dish with Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_stt"  >Elevated food dish with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_lower"  >the elevated food dish with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Elevated Food Dish with Berries</b>
+         </color>
+         <br/>
+         Click to select and then place the elevated food dish with berries, which enables tall animals to reach their food more easily.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries"  >Hollow Log with Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_stt"  >Hollow log with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_lower"  >the hollow log with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Hollow Log with Berries</b>
+         </color>
+         <br/>
+         Click to select and then place the hollow log with berries. Many animals instinctively forage for food in hollow logs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus"  >Food Dish with Eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_stt"  >Food dish with eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_lower"  >the food dish with eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Food Dish with Eucalyptus</b>
+         </color>
+         <br/>
+         Click to select and then place the food dish with eucalyptus leaves. Since they're small, food dishes needed to be refilled often.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries"  >Food Dish with Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_stt"  >Food dish with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_lower"  >the food dish with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Food Dish with Berries</b>
+         </color>
+         <br/>
+         Click to select and then place the food dish with berries. Since they're small, food dishes needed to be refilled often.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus"  >Eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_stt"  >Eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_lower"  >the eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Eucalyptus</b>
+         </color>
+         <br/>
+         Click to select and then place eucalyptus leaves, the koala's favorite food.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries"  >Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_stt"  >Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_lower"  >the berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Berries</b>
+         </color>
+         <br/>
+         Click to select and then place berries, a tasty fruit treat for woodland creatures.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries"  >Substrate Pile with Berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_stt"  >Substrate pile with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_lower"  >the substrate pile with berries</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Substrate Pile with Berries</b>
+         </color>
+         <br/>
+         Click to select and then place substrate (a pile of earth and other organic materials) mixed with berries.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog"  >Elephant Enrichment Log</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_stt"  >Elephant enrichment log</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_lower"  >the elephant enrichment log</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Elephant Enrichment Log</b>
+         </color>
+         <br/>
+         Click to select and then place an elephant enrichment log, which elephants love to lift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick"  >Salt Lick</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_stt"  >Salt lick</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_lower"  >the salt lick</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salt Lick</b>
+         </color>
+         <br/>
+         Click to select and then place a salt lick, which all ungulates enjoy.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall"  >Feeder Ball</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_stt"  >Feeder ball</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_lower"  >the feeder ball</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Feeder Ball</b>
+         </color>
+         <br/>
+         Click to select and then place a feeder ball, which primates love to play with and eat from.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df"  >Durian</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_stt"  >Durian</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_lower"  >the durian</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Durian</b>
+         </color>
+         <br/>
+         Click to select and then place a durian, a spiny, pungent fruit beloved by orangutans.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing"  >Tire Swing</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_stt"  >Tire swing</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_lower"  >the tire swing</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Tire Swing</b>
+         </color>
+         <br/>
+         Click to select and then place a tire swing, which primates love to play on.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end"  >Cat Climber</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_stt"  >Cat climber</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_lower"  >the cat climber</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Cat Climber</b>
+         </color>
+         <br/>
+         Click to select and then place a cat climber, which big cats rest on, climb, and scratch.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small"  >Boreal Small Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_stt"  >Boreal small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_lower"  >the boreal small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Boreal Small Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a boreal-themed small burrow, used by animals such as the wolverine.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large"  >Boreal Large Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_stt"  >Boreal large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_lower"  >the boreal large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Boreal Large Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a boreal-themed large burrow, used by animals such as the gray wolf.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small"  >Desert Small Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_stt"  >Desert small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_lower"  >the desert small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Desert Small Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a desert-themed small burrow, used by animals such as the fennec fox.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large"  >Desert Large Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_stt"  >Desert large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_lower"  >the desert large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Desert Large Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a desert-themed large burrow, used by animals such as the fennec fox.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small"  >Scrub Small Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_stt"  >Scrub small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_lower"  >the scrub small burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Scrub Small Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a scrub-themed small burrow, used by animals such as the Komodo dragon.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large"  >Scrub Large Burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_stt"  >Scrub large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_lower"  >the scrub large burrow</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Scrub Large Burrow</b>
+         </color>
+         <br/>
+         Click to select and then place a scrub-themed large burrow, used by animals such as the Komodo dragon.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end"  >Small Restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_stt"  >Small restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_lower"  >the small restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Small Restroom</b>
+         </color>
+         <br/>
+         Click to select and then place the small restroom, which can accommodate one guest at a time.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end"  >Family Restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_stt"  >Family restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_lower"  >the family restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_ltt"  >
+		   <color r="255" g="248" b="178">
+		      <b>Family Restroom</b>
+		   </color>
+		   <br/>
+		   Click to select and then place the family restroom. They cost more than small restrooms, but accommodate six more guests.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end"  >Hamburger Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_stt"  >Hamburger food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_lower"  >the hamburger food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Hamburger Food Stand</b>
+         </color>
+         <br/>
+         Click to select and then place the hamburger food stand. Hamburgers are reasonably priced and reasonably filling.     
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end"  >Hot Dog Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_stt"  >Hot dog food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_lower"  >the hot dog food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Hot Dog Food Stand</b>
+         </color>
+         <br/>
+         Click to select and then place the hot dog food stand.  Especially popular with kids, hot dogs are a classic American food.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end"  >Salad Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_stt"  >Salad food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_lower"  >the salad food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salad Food Stand</b>
+         </color>
+         <br/>
+         Click to select and then place the salad food stand. Kids usually don't like salads, but adults love them.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end"  >Soda Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_stt"  >Soda drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_lower"  >the soda drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Soda Drink Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the soda drink stand. Sodas are the most popular drink among zoo guests. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end"  >Sub Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_stt"  >Sub food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_lower"  >the sub food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sub Food Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the sub food stand. Subs are meat-filled sandwiches that are commonly devoured for lunch.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end"  >Sushi Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_stt"  >Sushi food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_lower"  >the sushi food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sushi Food Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the sushi food stand. An expensive food choice, sushi is more popular with adults than kids. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end"  >Water Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_stt"  >Water drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_lower"  >the water drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Water Drink Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the water drink stand.  Water will satisfy your guests' most basic thirst needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end"  >Shish Kebab Food Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_stt"  >Shish kebab food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_lower"  >the shish kebab food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Shish Kebab Food Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the shish kebab food stand, which offers protein-rich food at a reasonable price.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end"  >Coffee Drink Stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_stt"  >Coffee drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_lower"  >the coffee drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Coffee Drink Stand</b>
+         </color>
+         <br/>
+          Click to select and then place the coffee drink stand. Adult guests love the caffeine jolt, and some younger guests are willing to try it too.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end"  >Cheesecake Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_stt"  >Cheesecake cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_lower"  >the cheesecake cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Cheesecake Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the cheesecake cart. Adult guests love cheesecake for dessert.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end"  >Popcorn Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_stt"  >Popcorn cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_lower"  >the popcorn cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Popcorn Cart</b>
+         </color>
+         <br/>
+          Click to select and then place the popcorn cart. Popcorn is a filling snack that may make your guests thirsty.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end"  >Pretzel Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_stt"  >Pretzel cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_lower"  >the pretzel cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Pretzel Cart</b>
+         </color>
+         <br/>
+          Click to select and then place the pretzel cart. Pretzels may make guests thirsty.   
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end"  >Cotton Candy Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_stt"  >Cotton candy cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_lower"  >the cotton candy cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Cotton Candy Cart</b>
+         </color>
+         <br/>
+          Click to select and then place the cotton candy cart. Cotton candy is a classic kids' treat.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end"  >Fruit Cup Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_stt"  >Fruit cup cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_lower"  >the fruit cup cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Fruit Cup Cart</b>
+         </color>
+         <br/>
+          Click to select and then place the fruit cup cart. Many guests enjoy fruit as a healthy snack alternative.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end"  >Ice Cream Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_stt"  >Ice cream cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_lower"  >the ice cream cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ice Cream Cart</b>
+         </color>
+         <br/>
+          Click to select and then place the ice cream cart, a favorite with young zoo guests.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_df"  >Discovery Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_stt"  >Discovery kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_lower"  >the discovery kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Discovery Kiosk</b>
+         </color>
+         <br/>
+          Click to select and then place a discovery kiosk, which increases educational donations.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse"  >Tropical Bounce House</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_stt"  >Tropical bounce house</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_lower"  >the tropical bounce house</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Tropical Bounce House</b>
+         </color>
+         <br/>
+          Click to select and then place a tropical bounce house, which children love to play in.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end"  >Conservation Breeding Center</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_stt"  >Conservation breeding center</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_lower"  >the conservation breeding center</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Conservation Breeding Center</b>
+         </color>
+         <br/>
+          Click to select and then place a conservation breeding center, which helps you breed endangered species.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end"  >Face Painting Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_stt"  >Face painting kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_lower"  >the face painting kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Face Painting Kiosk</b>
+         </color>
+         <br/>
+          Click to select and then place a face painting kiosk, where children can get their faces painted.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end"  >Headset Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_stt"  >Headset kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_lower"  >the headset kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Headset Kiosk</b>
+         </color>
+         <br/>
+          Click to select and then place a headset kiosk, which provides wireless headsets to your guests.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df"  >Photo Kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_stt"  >Photo kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_lower"  >the photo kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Photo Kiosk</b>
+         </color>
+         <br/>
+          Click to select and then place a photo kiosk, where guests can admire your zoo photos.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled"  >Spectacled Bear Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_stt"  >Spectacled bear statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_lower"  >the spectacled bear statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Spectacled Bear Statue</b>
+         </color>
+         <br/>
+         Click to select and then place a spectacled bear statue, a magnificent sculpture of the South American animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end"  >Endangered Species Trash Can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_stt"  >Endangered species trash can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_lower"  >the endangered species trash can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Trash Can</b>
+         </color>
+         <br/>
+         Click to select and then place a trash can with an endangered species theme. Trash cans should be placed all over your zoo so that guests can dispose of their garbage.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end"  >Endangered Species Arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_stt"  >Endangered species arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_lower"  >the endangered species arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Arch</b>
+         </color>
+         <br/>
+         Click to select and then place an arch with an endangered species theme. Arches are an attractive addition to paths or entrances to themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end"  >Endangered Species Bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_stt"  >Endangered species bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_lower"  >the endangered species bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Bench</b>
+         </color>
+         <br/>
+         Click to select and then place a bench with an endangered species theme. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end"  >Endangered Species Lamp</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_stt"  >Endangered species lamp</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_lower"  >the endangered species lamp</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Lamp</b>
+         </color>
+         <br/>
+         Click to select and then place a lamp post with an endangered species theme. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end"  >Endangered Donation Box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_stt"  >Endangered donation box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_lower"  >the endangered donation box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Donation Box</b>
+         </color>
+         <br/>
+         Click to select and then place a donation box with an endangered species theme. Guests won't donate money if they can't find a donation box, so place them all over your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end"  >Endangered Umbrella Table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_stt"  >Endangered umbrella table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_lower"  >the endangered umbrella table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Umbrella Table</b>
+         </color>
+         <br/>
+         Click to select and then place an umbrella table with an endangered species theme. Umbrella tables provide guests with a shaded place to rest and eat.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end"  >Endangered Species Fountain</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_stt"  >Endangered species fountain</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_lower"  >the endangered species fountain</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Fountain</b>
+         </color>
+         <br/>
+         Click to select and then place a fountain with an endangered species theme. Guests appreciate the beauty of a well-placed fountain.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end"  >Endangered Viewing Canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_stt"  >Endangered viewing canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_lower"  >the endangered viewing canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Viewing Canopy</b>
+         </color>
+         <br/>
+         Click to select and then place a viewing canopy with an endangered species theme. Viewing canopies allow guests to view animals in shaded comfort.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end"  >Endangered Music Rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_stt"  >Endangered music rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_lower"  >the endangered music rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Music Rock</b>
+         </color>
+         <br/>
+         Click to select and then place a music rock with an endangered species theme, which plays music from speakers hidden inside.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool"  >Rock Pool</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_stt"  >Rock pool</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_lower"  >the rock pool</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Rock Pool</b>
+         </color>
+         <br/>
+         Click to select and then place a rock pool, which your guests enjoy seeing while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser"  >Geyser</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_stt"  >Geyser</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_lower"  >the geyser</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Geyser</b>
+         </color>
+         <br/>
+         Click to select and then place a geyser, which your guest enjoy seeing while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet"  >Balloon Bouquet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_stt"  >Balloon bouquet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_lower"  >the balloon bouquet</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Balloon Bouquet</b>
+         </color>
+         <br/>
+         Click to select and then place a balloon bouquet, a colorful reminder of your baby animal arrival.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave"  >Bat Cave</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_stt"  >Bat cave</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_lower"  >the bat cave</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bat Cave</b>
+         </color>
+         <br/>
+         Click to select and then place a bat cave, which your guests enjoy seeing while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano"  >Volcano</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_stt"  >Volcano</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_lower"  >the volcano</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Volcano</b>
+         </color>
+         <br/>
+         Click to select and then place a volcano, which your guests enjoy seeing while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine"  >Fog Machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_stt"  >Fog machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_lower"  >the fog machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Fog Machine</b>
+         </color>
+         <br/>
+         Click to select and then place a fog machine, which your guests enjoy while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit"  >Mineral Deposit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_stt"  >Mineral deposit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_lower"  >the mineral deposit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Mineral Deposit</b>
+         </color>
+         <br/>
+         Click to select and then place a mineral deposit, which your guests enjoy seeing while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine"  >Snow Machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_stt"  >Snow machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_lower"  >the snow machine</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Snow Machine</b>
+         </color>
+         <br/>
+         Click to select and then place a snow machine, which your guests enjoy while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward"  >Sky Tower</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_stt"  >Sky tower</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_lower"  >the sky tower</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sky Tower</b>
+         </color>
+         <br/>
+         Click to select and then place a sky tower, which provides spectacular views of your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel"  >Crystal Tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_stt"  >Crystal tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_lower"  >the crystal tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Crystal Tunnel</b>
+         </color>
+         <br/>
+         Click to select and then place a crystal tunnel, which your guests enjoy while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel"  >Sequoia Tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_stt"  >Sequoia tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_lower"  >the sequoia tunnel</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sequoia Tunnel</b>
+         </color>
+         <br/>
+         Click to select and then place a sequoia tunnel, which your guests enjoy while on a tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue"  >Zoo Attendance Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_stt"  >Zoo attendance statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_lower"  >the zoo attendance statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Zoo Attendance Statue</b>
+         </color>
+         <br/>
+         Click to select and then place a zoo attendance statue, awarded in recognition of your zoo's outstanding popularity.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies"  >Animal Babies Statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_stt"  >Animal babies statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_lower"  >the animal babies statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Animal Babies Statue</b>
+         </color>
+         <br/>
+         Click to select and then place an animal babies statue, awarded in recognition of your efforts to breed endangered animals.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence"  >Endangered Species Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_stt"  >Endangered species fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_lower"  >the endangered species fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Species Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of fence with an endangered species theme, a sturdy fence decorated with attractive mosaics.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence"  >Low Endangered Species Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_stt"  >Low endangered species fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_lower"  >the low endangered species fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Low Endangered Species Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low fence with an endangered species theme, a sturdy fence decorated with attractive mosaics.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end"  >Endangered Window Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_stt"  >Endangered window fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_lower"  >the endangered window fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Endangered Window Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of window fence with an endangered species theme. Guests enjoy visiting themed areas in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation"  >Conservation Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_stt"  >Conservation fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_lower"  >the conservation fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Conservation Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of conservation fence, a fence designed to enclose conservation areas.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation"  >Low Conservation Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_stt"  >Low conservation fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_lower"  >the low conservation fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Low Conservation Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of conservation fence, a fence designed to enclose conservation areas.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron"  >Wrought Iron Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_stt"  >Wrought iron fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_lower"  >the wrought iron fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wrought Iron Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of wrought iron fence, a fence that is decorative, strong and doesn't block the guests' view.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron"  >Low Wrought Iron Fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_stt"  >Low wrought iron fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_lower"  >the low wrought iron fence</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Low Wrought Iron Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low wrought iron fence, a fence that is both decorative and strong.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate"  >Vehicle Gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_stt"  >Vehicle gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_lower"  >the vehicle gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Vehicle Gate</b>
+         </color>
+         <br/>
+         Click to select and then place a vehicle gate, which allows Jeep&#xAE; vehicles to enter and exit animal exhibits.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end"  >Decorated Vehicle Gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_stt"  >Decorated vehicle gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_lower"  >the decorated vehicle gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Decorated Vehicle Gate</b>
+         </color>
+         <br/>
+         Click to select and then place a decorated vehicle gate, which allows Jeep&#xAE; vehicles to enter and exit animal exhibits.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift"  >Fennec Fox Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_stt"  >Fennec fox hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_lower"  >the fennec fox hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Fennec Fox Hat</b>
+         </color>
+         <br/>   
+         Guests who enjoy watching the fennec fox will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift"  >African Wild Dog Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_stt"  >African wild dog puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_lower"  >the African wild dog puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>African Wild Dog Puppet</b>
+         </color>
+         <br/>Guests who enjoy watching the African wild dog will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift"  >Galapagos Giant Tortoise Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_stt"  >Galapagos giant tortoise hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_lower"  >the Galapagos giant tortoise hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Galapagos Giant Tortoise Hat</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Galapagos giant tortoise will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift"  >Caribou Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_stt"  >Caribou backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_lower"  >the caribou backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Caribou Backpack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the caribou will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult"  >Galapagos Giant Tortoise Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_stt"  >Galapagos giant tortoise hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_lower"  >the Galapagos giant tortoise hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Galapagos Giant Tortoise Hat</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Galapagos giant tortoise will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift"  >Komodo Dragon Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_stt"  >Komodo dragon puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_lower"  >the Komodo dragon puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Komodo Dragon Puppet</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Komodo dragon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult"  >Komodo Dragon Puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_stt"  >Komodo dragon puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_lower"  >the Komodo dragon puppet</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Komodo Dragon Puppet</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Komodo dragon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift"  >Przewalski's Wild Horse Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_stt"  >Przewalski's wild horse shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_lower"  >the Przewalski's wild horse shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Przewalski's Wild Horse Shirt</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Przewalski's wild horse will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift"  >Giant Sable Antelope Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_stt"  >Giant sable antelope backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_lower"  >the giant sable antelope backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Giant Sable Antelope Backpack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the giant sable antelope will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift"  >Spectacled Bear Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_stt"  >Spectacled bear hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_lower"  >the spectacled bear hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Spectacled Bear Hat</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the spectacled bear will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift"  >American Bison Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_stt"  >American bison backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_lower"  >the American bison backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>American Bison Backpack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the American bison will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift"  >Koala Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_stt"  >Koala hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_lower"  >the koala hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Koala Hip Pack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the koala will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift"  >Spanish Lynx Hip Pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_stt"  >Spanish lynx hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_lower"  >the Spanish lynx hip pack</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Spanish Lynx Hip Pack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Spanish lynx will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift"  >Orangutan Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_stt"  >Orangutan stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_lower"  >the orangutan stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Orangutan Stuffed Animal</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the orangutan will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift"  >Markhor Stuffed Hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_stt"  >Markhor hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_lower"  >the markhor hat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Markhor Hat</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the markhor will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift"  >Crested Gibbon Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_stt"  >Crested gibbon shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_lower"  >the crested gibbon shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Crested Gibbon Shirt</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the crested gibbon will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift"  >Scimitar Horned Oryx Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_stt"  >Scimitar horned oryx shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_lower"  >the scimitar horned oryx shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Scimitar Horned Oryx Shirt</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the scimitar horned oryx will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift"  >Florida Panther Backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_stt"  >Florida panther backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_lower"  >the Florida panther backpack</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Florida Panther Backpack</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Florida panther will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift"  >Javan Rhinoceros Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_stt"  >Javan rhinoceros stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_lower"  >the Javan rhinoceros stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Javan Rhinoceros Stuffed Animal</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Javan rhinoceros will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift"  >Baird's Tapir Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_stt"  >Baird's tapir stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_lower"  >the Baird's tapir stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Baird's Tapir Stuffed Animal</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the Baird's tapir will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift"  >Gray Wolf Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_stt"  >Gray wolf shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_lower"  >the gray wolf shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gray Wolf Shirt</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the gray wolf will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift"  >Wolverine Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_stt"  >Wolverine stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_lower"  >the wolverine stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wolverine Stuffed Animal</b>
+         </color>
+         <br/>
+         Guests who enjoy watching the wolverine will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift"  >Headphones</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_stt"  >Headphones</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_lower"  >the headphones</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Headphones</b>
+         </color>
+         <br/>
+         Click to place headphones in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated"  >Regurgitated Meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_stt"  >Regurgitated meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_lower"  >the regurgitated meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Regurgitated Meat</b>
+         </color>
+         <br/>
+         Click and then place regurgitated meat in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated"  >Regurgitated Meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_stt"  >Regurgitated meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_lower"  >the regurgitated meat</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Regurgitated Meat</b>
+         </color>
+         <br/>
+         Click and then place regurgitated meat in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end"  >Jeep&#xAE; Vehicle Station</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_stt"  >Jeep&#xAE; vehicle station</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_lower"  >the Jeep&#xAE; vehicle station</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Jeep&#xAE; Vehicle Station</b>
+         </color>
+         <br/>
+         Click to select and then place a Jeep&#xAE; vehicle station. After you place the station and build a road circuit, you can purchase Jeep vehicles that guests will ride for tours and transportation.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end"  >Sky Tram Station</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_stt"  >Sky tram station</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_lower"  >the sky tram station</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sky Tram Station</b>
+         </color>
+         <br/>
+         Click to select and then place a sky tram station. After you place the station and build a sky tram circuit, you can buy sky tram vehicles that guests will ride for tours and transportation.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower"  >Sky Tram Pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_stt"  >Sky tram pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_lower"  >the sky tram pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sky Tram Pole</b>
+         </color>
+         <br/>
+         Click to select and then place a sky tram pole, which is used to create a sky tram circuit.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end"  >Sky Tram T-Pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_stt"  >Sky tram t-pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_lower"  >the sky tram t-pole</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sky Tram T-Pole</b>
+         </color>
+         <br/>
+         Click to select and then place a sky tram t-pole, which carries two strands of sky tram cable.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack"  >Road</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_stt"  >Road</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_lower"  >the road</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Road</b>
+         </color>
+         <br/>
+         Click to select and then place sections of road, which is used to create a Jeep&#xAE; vehicle tour.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end"  >Crossing Gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_stt"  >Crossing gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_lower"  >the crossing gate</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Crossing Gate</b>
+         </color>
+         <br/>
+         Click to select and then place a crossing gate, which keeps pedestrians from crossing a road while a Jeep&#xAE; vehicle is passing.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood"  >Wood Elevated Path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_stt"  >Wood elevated path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_lower"  >the wood elevated path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wood Elevated Path</b>
+         </color>
+         <br/>
+         Click to select and then place sections of wood elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood"  >Wood Elevated Path Support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_stt"  >Wood elevated path support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_lower"  >the wood elevated path support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wood Elevated Path Support</b>
+         </color>
+         <br/>
+         Click to select and then place a wood elevated path support.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood"  >Low Wood Elevated Path Railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_stt"  >Low wood elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_lower"  >the Low wood elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Low Wood Elevated Path Railing</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low railing for a wood elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood"  >Wood Elevated Path Railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_stt"  >Wood elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_lower"  >the wood elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Wood Elevated Path Railing</b>
+         </color>
+         <br/>
+         Click to select and then place sections of railing for a wood elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone"  >Stone Elevated Path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_stt"  >Stone elevated path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_lower"  >the stone elevated path</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stone Elevated Path</b>
+         </color>
+         <br/>
+         Click to select and then place sections of stone elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone"  >Stone Elevated Path Support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_stt"  >Stone elevated path support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_lower"  >the stone elevated path support</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stone Elevated Path Support</b>
+         </color>
+         <br/>
+         Click to select and then place a stone elevated path support.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone"  >Low Stone Elevated Path Railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_stt"  >Low stone elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_lower"  >the low stone elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Low Stone Elevated Path Railing</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low railing for a stone elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone"  >Stone Elevated Path Railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_stt"  >Stone elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_lower"  >the stone elevated path railing</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stone Elevated Path Railing</b>
+         </color>
+         <br/>
+         Click to select and then place sections of railing for a stone elevated path.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end"  >Upgraded One-Seat Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_stt"  >Upgraded one-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_lower"  >the upgraded one-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Upgraded One-Seat Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the upgraded one-seat cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end"  >Upgraded Two-Seat Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_stt"  >Upgraded two-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_lower"  >the upgraded two-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Upgraded Two-Seat Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the upgraded two-seat cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end"  >Upgraded Four-Seat Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_stt"  >Upgraded four-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_lower"  >the upgraded four-seat cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Upgraded Four-Seat Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the upgraded four-seat cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic"  >One-Seat Sky Tram Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_stt"  >One-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_lower"  >the one-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>One-Seat Sky Tram Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the one-seat sky tram cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic"  >Two-Seat Sky Tram Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_stt"  >Two-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_lower"  >the two-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Two-Seat Sky Tram Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the two-seat sky tram cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic"  >Four-Seat Sky Tram Cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_stt"  >Four-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_lower"  >the four-seat sky tram cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Four-Seat Sky Tram Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the four-seat sky tram cart.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end"  >Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_stt"  >Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_lower"  >the Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Jeep&#xAE; Commander</b>
+         </color>
+         <br/>
+         Click to select and then place the Jeep&#xAE; Commander.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end"  >Eight-Seat Vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_stt"  >Eight-seat vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_lower"  >the eight-seat vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Eight-Seat Vehicle</b>
+         </color>
+         <br/>
+         Click to select and then place the eight-seat vehicle.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end"  >Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_stt"  >Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_lower"  >the Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Jeep&#xAE; Wrangler</b>
+         </color>
+         <br/>
+         Click to select and then place the Jeep&#xAE; Wrangler.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end"  >Decorated Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_stt"  >Decorated Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_lower"  >the decorated Jeep&#xAE; Commander</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Decorated Jeep&#xAE; Commander</b>
+         </color>
+         <br/>
+         Click to select and then place the decorated Jeep&#xAE; Commander.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end"  >Upgraded Eight-Seat Vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_stt"  >Upgraded eight-seat vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_lower"  >the upgraded eight-seat vehicle</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Upgraded Eight-Seat Vehicle</b>
+         </color>
+         <br/>
+         Click to select and then place the upgraded eight-seat vehicle.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end"  >Decorated Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_stt"  >Decorated Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_lower"  >the decorated Jeep&#xAE; Wrangler</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Decorated Jeep&#xAE; Wrangler</b>
+         </color>
+         <br/>
+         Click to select and then place the decorated Jeep&#xAE; Wrangler.
+      </LOC_STRING>
+</ZT2Strings>

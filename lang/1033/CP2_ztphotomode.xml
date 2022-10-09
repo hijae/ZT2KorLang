@@ -1,0 +1,24 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="9" />
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="9"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Use arrow keys to walk, right click to show mouse and menu buttons.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="9"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Right click to enter photo mode.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_game_mode" version="9"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Right click to hide menu buttons and get back to the game.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

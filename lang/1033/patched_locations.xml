@@ -1,0 +1,5 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="worldlocation" version="2" />
+      <LOC_STRING _locID="worldlocation:all" version="2"  >모든 지도 유형</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:endangered" version="2"  >멸종 위기 동물</LOC_STRING>
+</ZT2Strings>

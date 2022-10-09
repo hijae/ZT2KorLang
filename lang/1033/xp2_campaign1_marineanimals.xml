@@ -1,0 +1,252 @@
+﻿		 <ZT2Strings>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeIntro"  >지방 동물원 살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeOverviewShort"  >
+10종의 해양 동물을 입양해서 작은 동물원을 아름다운 해양 공원으로 만드세요. 이 캠페인의 모든 시나리오를 마치면 흰수염고래 전시관을 건설할 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeOverview"  >
+      지방의 한 소형 동물원 이사회는 해양 동물을 추가해 동물원을 확장하려고 합니다. 이를 위해 여러분을 고용해 멋진 해양 공원을 만드는 임무를 맡겼습니다.
+         <p/>
+         이사회의 목표는 10종의 해양 동물을 입양하는 것입니다. 그 계획의 일환으로 우선 3종의 해양 동물을 입양하려고 합니다.
+        <p/>
+        힌트: Zoo Tycoon 2: Marine Mania에 등장하는 새로운 동물은 모두 해양 동물입니다. 기존에 있던 북극곰 등 일부 동물도 해양 동물에 포함됩니다. 이번 시나리오에서는 사육사 조언 패널에 수조 벽이 보이는 동물은 모두 해양 동물로 간주됩니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeSix"  >
+      3종의 해양 동물을 입양해 크게 기뻐한 동물원 이사회에서 흔들 해마를 기증했습니다! 흔들 해마는 동물원 입구 부근의 상자에 있습니다.
+      <p/>
+      동물원 이사회는 6종 이상의 해양 동물을 입양하기로 새로운 목표를 정했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeTen"  >
+      이제 동물원에 6종의 해양 동물이 입양되었습니다. 이사회는 큰 만족을 표시하며 해양 기념품 가판대를 기증했습니다. 해양 기념품 가판대는 동물원 입구 부근의 상자에 있습니다.
+      <p/>
+      이사회는 4종의 해양 동물을 더 입양해 동물원을 해양 공원으로 널리 홍보하고 싶어합니다. 총 10종의 해양 동물을 입양하면 시나리오를 완료하게 됩니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeSuccessOverview"  >
+      이사회는 동물원의 성공에 크게 기뻐하고 있습니다. 여러분은 다양한 해양 동물을 훌륭하게 보살폈습니다. 잘했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuest1Overview"  >이사회는 관람객이 늘어 크게 기뻐하고 있습니다. 앞으로도 잘 해달라면서 이사회는 총 관람객이 50명을 넘으면 $20,000를 지급하겠다고 합니다.     
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuest1Success"  >동물원을 방문한 관람객이 50명을 넘었습니다. 이사회는 약속대로 $20,000를 지급했습니다! 앞으로 총 관람객이 75명을 넘어서면 $20,000를 더 지급하겠다고 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuest2Success"  >동물원을 방문한 관람객이 75명을 넘었습니다! 이사회는 $20,000를 더 지급했습니다. 크게 만족한 이사회는 앞으로 총 관람객이 100명을 넘어서면 $30,000를 더 지급하겠다고 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuest3Success"  >몇 달 만에 동물원을 방문한 관람객이 100명을 넘어섰습니다! 이사회는 여러분의 훌륭한 솜씨에 감탄하면서 $30,000를 지급했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeOverallGoal"  >10종의 해양 동물을 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeThreeGoal"  >3종 이상의 해양 동물을 관람객들이 관람할 수 있도록 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeThreeGoalDone"  >3종 이상의 해양 동물을 관람객들에게 공개했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeSixGoal"  >6종 이상의 해양 동물을 관람객들이 관람할 수 있도록 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeSixGoalDone"  >6종 이상의 해양 동물을 관람객들에게 공개했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeTenGoal"  >10종 이상의 해양 동물을 관람객들이 관람할 수 있도록 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeTenGoalDone"  >10종 이상의 해양 동물을 관람객들에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal1"  >50명의 관람객을 유치해서 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal1Done"  >50명의 관람객이 동물원을 방문해 지원금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal2"  >75명의 관람객을 유치해서 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal2Done"  >75명의 관람객이 동물원을 방문해 지원금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal3"  >100명의 관람객을 유치해서 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:TakeThePlungeGuestGoal3Done"  >100명의 관람객이 동물원을 방문해 지원금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesIntro"  >바다 탐험 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesOverviewshort"  >한 백만장자가 여러분을 고용해 주요 해양 서식 환경을 모두 보여주는 동물원을 만들고 싶어합니다. 이 캠페인의 모든 시나리오를 마치면 흰수염고래 전시관을 건설할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesOverview"  >
+         해적이란 별명의 헨드릭 파커 씨가 동물원을 매입해 여러분에게 운영을 맡겼습니다! 별명처럼 까다로운 성격의 백만장자 파커 씨는 자신의 이름을 딴 세계적인 해산물 전문 레스토랑 체인의 설립자입니다. 파커 씨는 회사 경영자이면서 멋진 마스코트의 주인공이기도 합니다! 
+         <p/>
+         파커 씨는 동물원에서 세계 각지의 해양 동물에 대한 교육을 진행하고 싶어합니다. 이를 위해 동물원에 5가지 해양 서식 환경(연안, 암초, 원양, 해저, 툰드라)에 서식하는 해양 동물을 최소 1종씩 입양하려 합니다. 파커 씨는 각 서식 환경을 대표하는 동물을 입양할 때마다 $15,000를 지급하겠다고 합니다.
+         <p/>
+         파커 씨는 자신의 소유물을 직접 검사하는 것으로 유명합니다. 항상 긴장하세요. 언제 어디서 그가 나타날지 모릅니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesSuccess"  >잘했습니다! 주요 해양 서식 환경을 대표하는 동물을 각각 1종 이상 입양했습니다. 파커 씨는 크게 기뻐하며 특별히 평생 무료로 자신의 레스토랑에서 판매하는 생선 튀김을 제공하겠다고 약속했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesOverallGoal"  >주요 해양 서식 환경을 대표하는 동물이 각각 1종 이상 있는 동물원을 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesOverallGoalDone"  >주요 해양 서식 환경을 대표하는 동물이 각각 1종 이상 있는 동물원을 만들었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesCoastal"  >연안 서식 환경에 사는 해양 동물을 1종 이상 입양한 다음 생활 조건을 꾸며주고 지원금 $15,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesCoastalDone"  >잘했습니다! 연안 서식 환경에 사는 해양 동물을 1종 이상 입양해서 관람객들에게 공개했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesReef"  >암초 서식 환경에 사는 해양 동물을 1종 이상 입양한 다음 생활 조건을 꾸며주고 지원금 $15,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesReefDone"  >잘했습니다! 암초 서식 환경에 사는 해양 동물을 1종 이상 입양해서 관람객들에게 공개했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPelagic"  >원양 서식 환경에 사는 해양 동물을 1종 이상 입양한 다음 생활 조건을 꾸며주고 지원금 $15,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPelagicDone"  >잘했습니다! 원양 서식 환경에 사는 해양 동물을 1종 이상 입양해서 관람객들에게 공개했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesBenthic"  >해저 서식 환경에 사는 해양 동물을 1종 이상 입양한 다음 생활 조건을 꾸며주고 지원금 $15,000를 받으세요. 주의: 동물원 명성을 별 4개까지 올려야 합니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesBenthicDone"  >잘했습니다! 해저 서식 환경에 사는 해양 동물을 1종 이상 입양해서 관람객들에게 공개했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesTundra"  >툰드라 서식 환경에 사는 해양 동물을 1종 이상 입양한 다음 생활 조건을 꾸며주고 지원금 $15,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesTundraDone"  >잘했습니다! 툰드라 서식 환경에 사는 해양 동물을 1종 이상 입양해서 관람객들에게 공개했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateView"  >동물원 소유주인 파커 씨가 동물원에 도착했습니다! 동물원 운영 현황을 확인하려고 왔다고 합니다. 그는 여러분이 입양한 해양 동물에 깊은 관심을 갖고 있습니다. 파커 씨는 세 곳의 다른 우리에서 세 종류의 해양 동물을 볼 수 있다면 깜짝 선물을 주겠다고 약속했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewSuccess"  >파커 씨는 동물원 운영 현황에 만족을 표시했습니다. 방문 중에 3종의 해양 동물을 구경한 데 대한 상으로 동물을 기증했습니다! 기증한 동물은 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewGoal"  >파커 씨에게 세 곳의 다른 우리에서 세 종류의 해양 동물을 보여주면 선물을 받을 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewGoalDone"  >파커 씨가 3종의 해양 동물을 구경하고 선물을 주었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewEntered"  >
+파커 씨가 동물원에 왔습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewFailure"  >
+파커 씨가 3종의 해양 동물을 보지 못하고 동물원을 떠났습니다. 선물을 받을 수 있는 기회를 놓치고 말았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateName"  >파커</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewOneSeen"  >파커 씨가 1종의 해양 동물을 구경했습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateViewTwoSeen"  >파커 씨가 2종의 해양 동물을 구경했습니다. 1종의 해양 동물만 더 구경하면 선물을 받을 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShow"  >동물원 소유주인 파커 씨가 다시 동물원을 방문했습니다! 이번에는 해양 공연을 보고 싶어합니다. 파커 씨는 별 2개짜리 이상의 공연을 관람할 수 있다면 다시 깜짝 선물을 주겠다고 약속했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShowSuccess"  >파커 씨는 공연이 마음에 든다며 약속대로 지원금을 지급했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShowGoal"  >파커 씨가 별 2개짜리 이상의 해양 공연을 관람하면 동물원을 떠날 때 지원금을 지급할 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShowGoalDone"  >별 2개짜리 해양 공연을 관람한 파커 씨가 동물원에 지원금을 지급했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShowEntered"  >
+파커 씨가 동물원에 도착했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OceansBiomesPirateShowFailure"  >
+파커 씨가 별 2개짜리 해양 공연을 관람하지 못하고 동물원을 떠났습니다. 아쉽게도 지원금을 받을 기회를 놓치고 말았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityIntro"  >해양 생태 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityOverviewshort"  >5가지 강/목의 대형 해양 동물을 관람할 수 있는 동물원을 만드세요. 이 캠페인의 모든 시나리오를 마치면 흰수염고래 전시관을 건설할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityOverview"  >
+         전 세계 해양에는 아주 작은 플랑크톤부터 어마어마하게 큰 고래까지 매우 다양한 동물이 살고 있습니다. 동물원 이사회는 이렇게 다양한 해양 동물들을 관람할 수 있는 동물원을 만들고 싶어합니다. 여러분의 임무는 다양한 강/목의 대형 해양 동물을 관람할 수 있는 동물원을 만드는 것입니다.
+         <p/>
+         특히 다음과 같은 강/목의 해양 동물을 각각 1종씩 입양해야 합니다.
+      	<br/>
+			*  식육목 해양 동물 (바다표범, 해달, 태평양바다코끼리, 북극곰)
+			<br/>
+			*  고래목 해양 동물 (고래 및 돌고래류)
+         <br/>
+         *  연골어류강 해양 동물 (상어 및 가오리류)
+         <br/>
+         *  농어목 해양 동물 (농어류 물고기)
+         <br/>
+         *  거북목 해양 동물 (바다거북류)
+         <p/>
+         동물원 이사회는 여러분이 한 가지 목표를 달성할 때마다 지원금 $5,000를 지급하기로 결정했습니다.
+         <p/>
+         힌트: 동물이 어떤 강/목에 속하는지 확인하려면 동물원 백과사전을 살펴보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversitySuccess"  >드디어 성공입니다! 다양한 강/목의 해양 동물들을 입양했습니다. 축하합니다! 동물원 이사회도 크게 기뻐하고 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityOverallGoal"  >다음의 강/목에 속하는 해양 동물이 1종 이상 있는 동물원을 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityOverallGoalDone"  >다양한 강/목에 속하는 해양 동물이 1종 이상 있는 동물원을 만들었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityCarnivora"  >1종 이상의 식육목 해양 동물(바다표범, 해달, 태평양바다코끼리, 북극곰)을 입양해서 생활 조건을 꾸며주고 지원금 $5,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityCarnivoraDone"  >훌륭합니다! 1종 이상의 식육목 해양 동물을 입양해서 관람객에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityCetacea"  >1종 이상의 고래목 해양 동물(고래 및 돌고래류)을 입양해서 생활 조건을 꾸며주고 지원금 $5,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityCetaceaDone"  >훌륭합니다! 1종 이상의 고래목 해양 동물을 입양해서 관람객에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityChondrichthyes"  >1종 이상의 연골어류강 해양 동물(상어 및 가오리류)을 입양해서 생활 조건을 꾸며주고 지원금 $5,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityChondrichthyesDone"  >훌륭합니다! 1종 이상의 연골어류강 해양 동물을 입양해서 관람객에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityPerciformes"  >1종 이상의 농어목 해양 동물(농어류 물고기)을 입양해서 생활 조건을 꾸며주고 지원금 $5,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityPerciformesDone"  >훌륭합니다! 1종 이상의 농어목 해양 동물을 입양해서 관람객에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityTestudines"  >1종 이상의 거북목 해양 동물(바다거북류)을 입양해서 생활 조건을 꾸며주고 지원금 $5,000를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityTestudinesDone"  >훌륭합니다! 1종 이상의 거북목 해양 동물을 입양해서 관람객에게 공개했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityDonations"  >동물원 이사회는 좀 더 다양한 동물이 사는 동물원을 꾸밀 수 있도록 해양 동물 관련 기부금이 $1,000를 넘으면 한 쌍의 황제 펭귄을 기증하겠다는 제안을 했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityDonationsSuccess"  >해양 동물 관련 기부금이 $1,000를 넘어서 동물원 이사회가 한 쌍의 황제 펭귄을 기증했습니다! 황제 펭귄은 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityDonationsGoal"  >해양 동물 관련 기부금으로 $1,000를 모아서 한 쌍의 황제 펭귄을 기증받으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityDonationsGoalDone"  >해양 동물 관련 기부금이 $1,000를 넘어서 한 쌍의 황제 펭귄을 기증받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariums"  >동물원 이사회는 소형 해양 동물의 전시를 장려하기 위해 세 가지 종류의 특정 수족관을 설치하면 홍살귀상어를 기증하겠다고 제안했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsSuccess"  >세 가지 수족관을 설치해서 이사회가 홍살귀상어를 기증했습니다! 머리 모양이 특이한 홍살귀상어는 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsOverallGoal"  >세 가지 수족관을 설치하고 홍살귀상어를 기증받으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsOverallGoalDone"  >세 가지 수족관을 설치해서 홍살귀상어를 기증받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsOctopusGoal"  >문어 수족관을 설치하세요. 문어 수족관을 지으려면 동물원 명성을 별 두 개까지 올려야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsOctopusGoalDone"  >문어 수족관을 설치했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsSeahorseGoal"  >해마 수족관을 설치하세요. 해마 수족관을 지으려면 동물원 명성을 별 한 개까지 올려야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsSeahorseGoalDone"  >해마 수족관을 설치했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsTropicalGoal"  >열대어 수족관을 설치하세요. 열대어 수족관을 지으려면 동물원 명성을 별 세 개까지 올려야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:MarineDiversityAquariumsTropicalGoalDone"  >열대어 수족관을 설치했습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaIntro"  >범고래 알루</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaOverviewShort"  >범고래의 집단 자살로 부모를 잃은 꼬마 범고래를 다 성장할 때까지 돌보세요. 이 캠페인의 모든 시나리오를 마치면 흰수염고래 전시관을 건설할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaOverview"  >가끔 혼자서 먹잇감을 쫓던 범고래는 해변으로 올라오게 되는 경우가 있습니다. 아주 드문 경우이기는 하지만 범고래 무리 전체가 해변으로 올라와서 죽는 경우도 있습니다. 과학자들도 이런 현상이 일어나는 정확한 이유를 알지 못하고 있습니다. 
+      <p/>
+      어린 암컷 범고래 알루는 북극해에서 일어난 집단 자살 현장에서 혼자 살아남았습니다. 범고래 구조관리 협회에서 적당한 서식지를 찾는 동안 알루는 임시 우리에서 지내고 있습니다. 협회에서는 알루를 재정이 넉넉하고 시설이 좋은 동물원으로 보내고 싶어합니다.
+      <p/>
+      알루를 돌볼 수 있도록 기부금을 $5,000 모으면 협회는 알루를 여러분의 동물원으로 보낼 것입니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBasicNeeds"  >충분한 기부금을 모아서 범고래 구조관리 협회로부터 알루를 입양하게 되었습니다! 꼬마 범고래 알루는 동물원 입구 부근의 상자에 있습니다.
+      <p/>
+      이제 알루를 돌보는 것은 여러분의 책임입니다. 적당한 우리를 만들고 모든 기본 생활 조건이 충족되도록 돌보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichment"  >알루는 새 우리에 잘 적응하는 것 같습니다. 동물원 이사회는 여러분의 신속한 대응에 대한 보너스로 $25,000를 지급했습니다.
+      <p/>
+      알루가 지루함을 느끼지 않도록 돌봐주세요! 범고래는 영리하고 활동적인 육식동물이기 때문에 지속적으로 흥밋거리를 제공해주어야 합니다. 이번 목표는 두 가지 장난감인 조개 기포발생기와 큰 공을 얻는 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaCare"  >
+      알루를 잘 돌보고 있습니다! 범고래 구조관리 협회는 앞으로 세 달 동안 여러분이 알루를 돌봐주기를 원하고 있습니다. 그러면 나중에 감독관을 파견해서 알루의 상태를 확인하고 조언도 해준다고 합니다. 동물원 등급이 별 5개가 되면 바다표범 장난감 같이 알루를 행복하게 해줄 수 있는 것들이 사용 가능해 집니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseDonations"  >
+      세 달이 지나고 범고래 구조관리 협회에서 나온 감독관이 알루의 생활 환경에 대한 평가를 마쳤습니다. 감독관은 알루에게 친구가 없는 것이 염려된다고 합니다. 범고래는 사회성이 매우 높은 동물이라 혼자서는 살아가기 어렵기 때문에 감독관은 알루를 야생으로 돌려보내 다른 범고래와 함께 생활하도록 하는 것이 좋겠다고 합니다. 알루의 건강과 행복을 위해서는 이것이 최선의 방법이라고 말했습니다.
+      <p/>
+      범고래와 같은 대형 해양 동물을 안전하게 야생으로 돌려보내려면 막대한 비용이 필요합니다! 알루를 야생으로 돌려보내려면 기부금을 $20,000 더 모아야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseToWild"  >
+      훌륭합니다! $20,000를 모아 알루를 야생으로 안전하게 돌려보낼 수 있습니다. 이제 계획을 실행에 옮길 시간입니다. 알루를 야생으로 돌려보내 시나리오를 마치세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseToWildSuccess"  >
+      알루를 고향인 북극해로 돌려보냈습니다. 과학자들은 알루의 목소리를 분석해 친척 관계인 범고래 무리를 찾아 알루가 그들과 함께 살 수 있도록 해주었습니다. 알루의 흥분된 목소리와 동작에서 친구를 만난 기쁨이 느껴지네요! 다른 범고래들도 알루를 반겨주었습니다. 이제 알루는 친구들과 함께 넓은 바다를 자유롭게 누비며 행복하게 살아갈 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBreed"  >
+      세 달이 지나고 범고래 구조관리 협회에서 나온 감독관이 알루의 생활 환경에 대한 평가를 마쳤습니다. 감독관은 모든 것이 아주 만족스럽지만 이제는 다음 단계로 넘어갈 때라고 말했습니다. 그는 수컷 범고래를 찾아 알루와 짝짓기를 시켜야 한다고 합니다. 알루가 임신을 하면 시나리오가 완료됩니다!     
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBreedSuccess"  >
+      동물원에 새 식구가 생겼습니다. 알루는 이제 당당한 엄마입니다! 이제 동물원에도 범고래 가족이 탄생했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaSuccessOverview"  >
+      꼬마 범고래가 다 자랄 때까지 훌륭하게 돌봐주었습니다. 여러분의 헌신적인 노력 덕분에 알루는 무사히 잘 자랐습니다!
+      <p/>
+		이 캠페인을 마치고 흰수염고래 전시관을 건설할 수 있게 되었습니다! 이제 Zoo Tycoon 2: Marine Mania의 모든 게임에서 흰수염고래 전시관을 사용할 수 있습니다.       
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaDeathFailure"  >
+      알루는 범고래 무리의 집단 자살에서는 살아났지만 불행하게도 여러분의 동물원에서는 살아남지 못했습니다. 시나리오에 실패했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaOverallGoal"  >집단 자살한 범고래 무리에서 살아남은 어린 알루를 잘 돌보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaOverallGoalDone"  >알루를 훌륭하게 보살폈습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaDonationsGoal"  >해양 동물 관련 기부금을 $5,000 모아 알루를 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaDonationsGoalDone"  >해양 동물 관련 기부금이 $5,000를 넘었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBasicNeedsGoal"  >알루의 기본 생활 조건을 충족시키세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBasicNeedsGoalDone"  >알루의 기본 생활 조건이 충족되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentGoal"  >알루가 흥미를 잃지 않도록 장난감을 구입하세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentGoalDone"  >알루가 흥미있어하는 장난감을 얻었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentBubbleGoal"  >조개 기포발생기를 얻으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentBubbleGoalDone"  >조개 기포발생기를 얻었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentDummyGoal"  >바다표범 장난감을 얻으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentDummyGoalDone"  >바다표범 장난감을 얻었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentBallGoal"  >큰 공을 얻으세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentBallGoalDone"  >큰 공을 얻었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentStimulationGoal"  >알루의 흥밋거리를 충분히 마련하세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaEnrichmentStimulationGoalDone"  >알루의 흥밋거리가 충분히 마련됐습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaCareGoal"  >세 달 동안 알루를 돌보세요. 나중에 감독관이 알루의 상태를 확인하고 조언도 해줄 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaCareGoalDone"  >앞으로 세 달 더 알루를 돌보세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseDonationsGoal"  >추가 기부금 $20,000를 더 모아서 알루를 야생으로 돌려보내세요.</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseDonationsGoalDone"  >알루를 위한 추가 기부금이 $20,000를 넘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseToWildGoal"  >알루를 야생으로 돌려보내세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaReleaseToWildGoalDone"  >알루를 야생으로 돌려보냈습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBreedGoal"  >알루가 수컷 범고래와 짝짓기를 하도록 하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaBreedGoalDone"  >알루가 임신을 했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineAnimals:OrcaAnimalName"  >알루</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignshort"  >해양 동물</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS1"  >지방 동물원 살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS1short"  >지방 동물원 살리기</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS2"  >바다 탐험 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS2short"  >바다 탐험 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS3"  >해양 생태 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS3short"  >해양 생태 동물원</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS4"  >범고래 알루</LOC_STRING>
+      <LOC_STRING _locID="MarineAnimalsLabels:MarineAnimalsCampaignS4short"  >범고래 알루</LOC_STRING>
+   
+</ZT2Strings>

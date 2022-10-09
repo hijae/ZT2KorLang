@@ -1,0 +1,472 @@
+<ZT2Strings>
+      <LOC_STRING _locID="cp2_tutorial1:welcomeTutorialOne"  >
+      Zoo Tycoon 2: Extinct Animals에 오신 것을 환영합니다! 이 연습 게임에서는 멸종 동물 연구소에서 화석을 찾고 조립한 다음, 멸종된 동물을 되살려내는 법을 배웁니다! 완전히 새로운 방식으로 동물을 돌보세요 -- 질병으로부터 치료함으로써.
+      <p/>
+      확인 단추를 클릭하면 Extinct Animals에서의 모험을 시작할 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openConstructionPanelHeading"  >
+      건설 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openConstructionPanel"  >
+      당신은 이미 동물 전시회를 만드는 방법을 알고 있습니다. 그렇지 않은 경우 메인 메뉴에서 Zoo Tycoon 2 연습 게임을 다시 플레이하여 기억을 되살려내세요. 일단 멸종 동물 연구소를 배치하여 시작해봅시다. 건설 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openBuildingTabHeading"  >
+      건물들
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openBuildingTab"  >
+      건물 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabIconHeading"  >
+      멸종 동물 연구소
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabIcon"  >
+      멸종 동물 연구소 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLabHeading"  >
+      멸종 동물 연구소 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLab"  >
+      화단 사이에 빈 공간이 있습니다. 그 곳은 당신의 실험실을 설치하는데 좋은 자리가 될 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLabCompleted"  >
+      잘했습니다! 이제 멸종 동물 연구소에서 기다리고있는 흥미진진한 일들을 살펴봅시다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabHeading"  >
+      멸종 동물 연구소 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLab"  >
+      멸종 동물 연구소를 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabCompleted"  >
+      좋습니다. 이제 바쁘게 움직여야 할 차례입니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingTabHeading"  >
+      화석 발굴 탭 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingTab"  >
+      멸종 동물 연구소의 정보 패널에서 화석 발굴 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingButtonHeading"  >
+      화석 발굴 단추 클릭하기
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingButton"  >
+      좋습니다! 화석 탐사를 시작하기 위해 화석 발굴 단추를 클릭하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingHeading"  >
+      화석 발굴
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstFind"  >
+      화석 감지기는 동물원에 묻혀있는 화석들을 찾을 수 있도록 도와줍니다. 화석에 가까워지면 탐지기 중간의 바가 점점 차오르며 화석을 찾았을 때, 깃발이 나타나 발굴 장소를 가리킵니다.
+      <p/>
+      화석 발굴지를 찾을 수 있는지 알아보세요. 만약 당신이 멸종 테마 아치가 있는 길을 따라 내려간다면, 그곳에서 약간의 화석을 발견할 수 있을지도 모릅니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstFindCompleted"  >
+      당신이 첫 화석 발굴지를 찾아냈습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstDig"  >
+      화석 발굴지를 찾아냈으니, 그 위에 서서 스페이스바를 눌러 땅을 파기 시작하세요! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilDigHeading"  >
+      화석 발굴
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstDigCompleted"  >
+      첫 번째 화석 조각을 발견했습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondFind"  >
+      쉽지 않나요? 어서 더 찾아봅시다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondFindCompleted"  >
+      두 번째 화석 조각을 발견했습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondDig"  >
+      두 번째 화석 발굴지 위에서 스페이스바를 눌러 화석을 발굴하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondDigCompleted"  >
+      완전한 화석을 만들기 위해 화석 조각을 더 찾아야합니다. 계속하려면 확인 단추를 클릭하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingDigRest"  >
+      Now you know how to search for fossils! Also, if you place a paleontologist staff member in your zoo, he can help you identify possible dig sites. To make it easier to complete the tutorial, we marked the remaining dig sites for you. Dig up the last four pieces to move to the next step.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingDigRestCompleted"  >
+      Great! You dug up enough pieces to build a complete fossil. Let's do it!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabBuilding"  >
+      Click on the Extinct Research Lab to select it.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingTabHeading"  >
+      Select Fossil Building Tab
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingTab"  >
+      Click on the Fossil Building tab on the Extinct Research Lab's Info panel.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingDodoHeading"  >
+      Select Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingDodo"  >
+      Choose the dodo from the list of available fossils you can assemble.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingButton"  >
+      Next press the Assemble a fossil button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:AssembleHeading"  >
+      Assemble a Fossil
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterFossilBuildingHeading"  >
+      Fossil Building
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterFossilBuilding"  >
+      To build a fossil, simply drag the pieces to their correct location inside the skeleton outline. Rotate the pieces with the &lt; and &gt; keys. Once a piece is in the right spot, it changes color. If you need to step out to take care of your zoo -- no worries, your progress is saved. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodoHeading"  >
+      Build Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodo"  >
+      Move this window out of the way and put together that dodo skeleton!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodoCompleted"  >
+      Cool! Now that you completed the dodo skeleton, you can create free dodos in the lab! Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:opencreatingHeading"  >
+      Animal Creation Minigame
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationTabHeading"  >
+      Select Create Animals Tab
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationTab"  >
+      Click the Create Extinct Animals tab on the Extinct Research Lab's Info panel.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationDodoHeading"  >
+      Select Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationDodo"  >
+      Choose the dodo from the list of available animals you can create.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationButton"  >
+      Next press the Create an animal button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationButtonHeading"  >
+      Create an Animal
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterAnimalCreation"  >
+      This is how you create extinct animals. Once you start the scan line, use the left mouse button or the arrow keys to match the icons as the scan line crosses the displayed key pattern. Click the Check button when you're ready to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterAnimalCreationHeading"  >
+      Creating Extinct Animals
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:createDodo"  >
+      Click on the lab screen to start the Animal Creation Minigame.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedHeading"  >
+      A New Dodo!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompleted"  >
+      Congratulations! You successfully created a dodo! It's outside your Extinct Research Lab in a crate. Click the Check button to exit the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedSuper"  >
+      Wow! You created a super dodo! Super animals are just like the animals you adopt, except stronger, healthier, and longer living. You can find your super dodo outside your Extinct Research Lab in a crate. Click the Check button to exit the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoFailedHeading"  >
+      Oops!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedFailed"  >
+      Drat! You didn't match enough icons to create a dodo. Instead, you got a %s. Click the Check button to exit the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoTryAgain"  >
+      If at first you don't succeed, try again! Click the Check button to attempt that last step again.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodoHeading"  >
+      Place Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodo"  >
+      Move your new dodo inside the Tropical Rainforest exhibit to the left of the Extinct Research Lab and uncrate it.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodoCompleted"  >
+      Great! Your dodo is getting acclimated to its new exhibit. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseIntro"  >
+      Your animals may come down with a disease in your zoo. If this happens, your Extinct Research Lab will help you find a cure. Click the Check button to find out just how to do this.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabBuildingDisease"  >
+      Let's say your dodo came down with something we call "tutorial love." Click the Find Diseased Animals button in the upper right corner of your screen to locate your diseased dodo.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseHeading"  >
+      Disease Curing
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectDiseaseButton"  >
+      Click the Cure a Disease button to enter disease cure mode.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressBigDiseaseButton"  >
+      Let's say your dodo came down with something we call "tutorial love." Click the Find Diseased Animals button in the upper right corner of your screen to locate your diseased dodo.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressBigDiseaseButtonHeading"  >
+      Find Diseased Animal 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressTrackDiseasedAnimalButton"  >
+      The Track Animal button on a diseased animal's info panel will take you into Disease Curing mode. Click the diseased animal's picture now to try to find the cure.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressTrackDiseasedAnimalButtonHeading"  >
+      Disease Curing through Info Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseCureMode"  >
+      To find the cure for your diseased animal, you must walk around your zoo gathering samples from different objects, trees, and plants until you find the correct cure items. To sample an item for research, simply walk up to it and press SPACEBAR. 
+      <p/>
+      Next to the Disease Cure window, a helpful Research Hint box gives you updates from your research team (Hotkey: H) that help you find the right items. Once you have all three pieces of the cure, you can cure your animal of its disease. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialDiseaseHeading"  >
+      Disease Cure Research
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialDisease"  >
+      Okay, your dodo has a disease we call "tutorial love." What to do? Note the hints in the research text box. These can help you find the items needed to cure your dodo. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialCureDisease"  >
+      Start with a sample of the dodo, and then keep looking for the rest of the cure to the dodo's disease. Press H if you need more research hints.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialCureDiseaseCompleted"  >
+      You've found the cure to the disease!  Press the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialApplyCureHeading"  >
+      Cure the Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialApplyCure"  >
+      Now that you have the cure, walk up to your dodo and press SPACEBAR to give it the medicine it needs!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialOneCompleted"  >
+      You cured your dodo's disease! Now you know how to cure diseases that may affect the animals in your zoo. Sweet! Already, you're at the end of the tutorial! Click the Check button to continue to the Dealing with Dinos tutorial, or click the X button to return to the main menu and start building your own zoo!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:welcomeTutorialTwo"  >
+      Running a zoo with dinosaurs in residence can be tricky. This tutorial shows you how to contain them and how to catch them -- if they need a time out. When you're ready to start, click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:BeforeRampage"  >
+      Here's a zoo with an Ankylosaurus and a Tyrannosaurus rex. Both are quick to temper, and when they get cranky, they are likely to leave a path of destruction in their wake. Your zoo is closed for your practice drill. Are you ready to learn how to handle a dino on the rampage? When you are, click the Check button to unleash the rampage!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TriggerRampage"  >
+      Your T. rex is starting to rampage! First, he's going to trash his exhibit, and then he's going to trash your zoo. Time to take action! Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectTrex"  >
+      The Find Rampaging Animals button in the upper right corner indicates that an animal is rampaging. Click that button to take you to the rampaging T. rex. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:clickTranquilize"  >
+      You can't pick up or crate the T. rex when he's rampaging. The Track Animal button on the animal's Info panel has been replaced with a Tranquilize button. Hurry and press the button!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TranquilizeInstructions"  >
+      To tranquilize the rampaging T. rex, aim your tranquilizer gun at it. Once the T. rex is in its sights, keep it there while the power meter fills. When the meter goes green, press SPACEBAR to try to tranquilize the T. rex.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TranquilizeComplete"  >
+      Wow! You successfully stopped the rampaging T. rex in his tracks. Now things are back to normal. When dinosaurs rampage, they leave behind rubble that blocks you from rebuilding until you clean it up. Let's crate the T. rex for now. Select the T. rex to crate it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:DRTMessage"  >
+      If you don't want to handle the dangerous task of tranquilizing rampaging dinos yourself, you can hire a Dino Capture Team (DCT). We'll show you how. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openConstructionPanelHeading"  >
+      Construction Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openConstructionPanel"  >
+      The DCT's home base is the Dino Capture Team bunker. Open the Construction panel.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openBuildingTabHeading"  >
+      Buildings
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openBuildingTab"  >
+      Now click the Buildings tab.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectDRTIconHeading"  >
+      Dino Capture Team Bunker
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectDRTIcon"  >
+      Click the Dino Capture Team bunker icon to select it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRTHeading"  >
+      Place Dino Capture Team Bunker
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRT"  >
+      See the area between the exhibits with no path? Place your Dino Capture Team Bunker in that area. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRTCompleted"  >
+      Sweet! Now we can let the DCT get to work. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:AnkyloRampage"  >
+      Now your Ankylosaurus is rampaging! Clear out of the way, and let the DCT do the work! Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:AnkyloRampageWait"  >
+      Wait as the Dino Capture Team wrangles your rampaging dino. Watch them in action -- poetry in motion!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TutorialTwoCompleted"  >
+      Your DCT ended the rampage. Remember, dinos rampage more often if they are angry. Sometimes, though, they rampage because they don't like being contained in an exhibit. Now you know how to handle the situation if a dino rampage happens in your zoo. Click the Check button to continue to the next tutorial, or click the X to return to the main menu and start building your own zoo! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:welcomeTutorialThree"  >
+      Are you ready to learn all about the new buildings and staff members available to amuse, amaze, and educate your guests? You'll also learn about a new set of enrichment objects for your extinct animals! When you're ready to start, click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanelHeading"  >	
+      Construction Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanel"  >
+      We're going to get started by putting down an Extinct Education Center. Click the Construction button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openBuildingTabHeading"  >
+      Buildings
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openBuildingTab"  >
+      Now click the Buildings tab.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectExtinctEdCenterIconHeading"  >
+      Extinct Education Center
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectExtinctEdCenterIcon"  >
+      Click the Extinct Education Center icon to select it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctEdCenterHeading"  >
+      Place Extinct Education Center
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctResearchLab"  >
+      See the empty rectangular area inside the path? Your new Extinct Education Center would fit perfectly there! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctResearchLabCompleted"  >
+      Well done! One more building and the fun begins! Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:GetDirtyHeading"  >
+      Let's Get Dirty!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:GetDirty"  >
+      Your younger guests love hands-on exhibits. They just want to dig in and get their hands dirty! Give them a Play Dig Pit. Click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanelHeading2"  >
+      Construction Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanel2"  >
+      Click the Construction button again.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDigPitIconHeading"  >
+      Play Dig Pit
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDigPitIcon"  >
+      Click the Play Dig Pit icon to select it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPitHeading"  >
+      Place Play Dig Pit
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPit"  >
+      You want to put the Play Dig Pit in a place guests can get to easily. See the empty diamond-shaped area inside the path? That would be a great spot!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPitCompleted"  >
+      Okay, now your young guests can play in the dirt! If they happen to find anything exciting, they can bring it to the Extinct Education Center. If you're done watching them dig, click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:EntertainerIntro"  >
+      The Extinct Education Center and Play Dig Pit are just two ways to keep your guests entertained. If you want something with a little more flair, check out the two new staff members! When you're ready to meet them, click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:EntertainerIntroHeading"  >
+      New Staff Members
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanelHeading"  >
+      Staff Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanel"  >
+      Start by opening the Staff panel. Click the Staff button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerStageIconHeading"  >
+      Entertainer Stage
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerStageIcon"  >
+      Click the entertainer stage icon to select it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStageHeading"  >
+      Place Entertainer Stage
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStage"  >
+      Place the Entertainer Stage. It would fit nicely on the sand path between the two bathrooms inside the roped area. Make sure you leave enough room for someone to get on the stage!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStageCompleted"  >
+      Good! Now let's find an entertainer and have some entertainment! Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerIconHeading"  >
+      Entertainer
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerIcon"  >
+      Click the entertainer icon.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerHeading"  >
+      Place Entertainer
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainer"  >
+      Put your entertainer down on the path near the stage.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerCompleted"  >
+      Whoa! The entertainer performs tricks and shows to keep guests entertained. They do their best work on stage, but they also roam around the zoo amusing guests. They collect $200 salary at the end of each month. Choose between the dino costume or the saber-toothed cat costume! When you're done watching the show, click the Check button.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:PaleoIntro"  >
+      There's one more addition to your zoo: the paleontologist. This new staff member educates guests at the Extinct Education Center. Between lectures, he scans your zoo for fossil pieces and brings them back to your Extinct Research Lab.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:PaleoIntroHeading"  >
+      Paleontologist
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanelHeading2"  >
+      Staff Panel
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanel2"  >
+      Click the Staff button to reopen the Staff panel.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectPaleontologistIconHeading"  >
+      Paleontologist
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectPaleontologistIcon"  >
+      Click the paleontologist icon.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologistHeading"  >
+      Place Paleontologist
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologist"  >
+      Put your paleontologist down near the Extinct Education Center.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologistCompleted"  >
+      Great! Now your paleontologist can teach your guests all about fossils. When he's done, he takes up his fossil-finding duties. Paleontologists are highly trained and cost $500 a month in salary. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodoHeading"  >
+      Select Dodo
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodo"  >
+      Let's see how your animals are doing. Click one of the dodos in the Tropical Rainforest exhibit, located to the right of all the buildings you just put down. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodoCompleted"  >
+      Your new dodo seems to be doing well, but its environment need doesn't seem to be fully met. What can we do to make the dodo feel more at home? Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendationsHeading"  >
+      Climate Adjusting Objects
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendations"  >
+      Extinct animals are more sensitive to their surrounding environment than your other zoo animals. They like to be near objects that fit their climate. Since the dodo is a tropical rainforest animal, it would enjoy a misty spring in its exhibit. Click the Zookeeper Recommendations button on the dodo's Info panel.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendationsComplete"  >
+      Good, now click the Enrichment Objects button to see the dodo's recommended enrichment objects.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfallHeading"  >
+      Misty Spring
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfall"  >
+      Click on the misty spring, and then place it inside the dodo's exhibit.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfallComplete"  >
+      Perfect! Now your dodo is happy! There's also a glacier to keep your cold weather animals happy, and a tar pit to keep your warm weather animals happy! Don't forget to place them in the appropriate biomes with your extinct animals. Click the Check button to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenter"  >
+      Let's look at your Extinct Education Center. Find it on the map, and then click to select it.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenterHeading"  >
+      Extinct Education Center
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenterCompleted"  >
+      Woo-hoo! Your guests are bringing bones back from the dig pit! In no time, they'll build some amazing extinct animal skeletons!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:TutorialThreeComplete"  >
+      Well, that's it for this tutorial. Come back any time for a refresh on Zoo Tycoon 2: Extinct Animals' fun and fabulous features! Click the X button to return to the main menu and start building an exciting Extinct Animals zoo!
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_campaignname"  >Extinct Animals 연습 게임</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1"  >멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1short"  >멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1overviewshort"  >새로운 시설인 멸종 동물 연구소의 흥미로운 기능을 알아보세요!</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2"  >공룡들을 다루는 법</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2short"  >공룡들을 다루는 법</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2overviewshort"  >Walk through a dino rampage drill, learn how to stop a rampaging dino, and hear all about the Dino Capture Team!
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3"  >교육 및 엔터테인먼트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3short"  >교육 및 엔터테인먼트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3overviewshort"  >Learn about the Extinct Education Center, two new staff members, and special climate-enhancing objects!</LOC_STRING>
+</ZT2Strings>

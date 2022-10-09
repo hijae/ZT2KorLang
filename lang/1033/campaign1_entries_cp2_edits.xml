@@ -1,0 +1,16 @@
+<ZT2Strings>
+      <LOC_STRING _locID="genericscenariofailure" version="9" />
+      <LOC_STRING _locID="genericscenariofailure:animaldiedsick" version="9"  >
+   		You lost one of your animals! Healthy animals are an essential part of a successful zoo. You were not able to keep your animals long enough to achieve your goals.
+   	</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals" version="9" />
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeathoverview" version="9"  >
+      	MSPA officials are distressed over the recent loss of an animal at the Waltham Animal Park. They 
+       	are reevaluating their position on the park's viability. The remaining animals were 
+       	transferred to other facilities.
+   </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeath" version="9"  >
+       	MSPA officials are distressed over the recent loss of an animal. The remaining animals were 
+       	transferred to other facilities.
+   </LOC_STRING>
+</ZT2Strings>   

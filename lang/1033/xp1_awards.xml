@@ -1,0 +1,405 @@
+<ZT2Strings>
+      <LOC_STRING _locID="awards:EntertainmentDonationAchievement_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            엔터테인먼트 우수상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EntertainmentDonationAchievement_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            $250,000의 동물 관련 기부금을 모으면
+            <color r="255" g="255" b="0" a="255">
+               페이스 페인팅 코너</color>
+            를 구입할 수 있습니다.            
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EntertainmentDonationAchievement_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 동물 관련 기부금으로 $250,000를 모아
+            <color r="255" g="255" b="0" a="255">
+               페이스 페인팅 코너</color>
+            를 구입할 수 있게 되었습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EducationalDonationAchievement_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            장학 우수상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EducationalDonationAchievement_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            $125,000의 교육 관련 기부금을 모으면
+            <color r="255" g="255" b="0" a="255">
+               음성 정보 안내 데스크</color>
+            를 구입할 수 있습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EducationalDonationAchievement_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 교육 관련 기부금으로 $125,000 이상을 모아
+            <color r="255" g="255" b="0" a="255">
+               음성 정보 안내 데스크</color>
+            를 구입할 수 있게 되었습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooTycoon_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 최고 경영자 상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooTycoon_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            은행 계좌 잔고가 $1,000,000로 늘어나면
+            <color r="255" g="255" b="0" a="255">
+               동물원 최고 경영자를 위한 동물원 입구</color>
+            를 받게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooTycoon_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               동물원 최고 경영자를 위한 동물원 입구</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalReleaseEffort_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물을 야생으로 보낸 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalReleaseEffort_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            보존 상태가 위험하거나 멸종 위기인 동물 10종을 야생으로 돌려보내면
+            <color r="255" g="255" b="0" a="255">
+               동물원 장식 벽</color>
+            을 받게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalReleaseEffort_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 보존 상태가 위험하거나 멸종 위기인 동물 10종을 야생으로 돌려보내
+            <color r="255" g="255" b="0" a="255">
+               동물원 장식 벽</color>
+            을 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpecies_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 보호상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpecies_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            보존 상태가 위험하거나 멸종 위기인 동물 20종을 입양하면
+            <color r="255" g="255" b="0" a="255">
+               동물원 장식 기둥</color>
+            을 받게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpecies_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 보존 상태가 위험하거나 멸종 위기인 동물 20종을 입양하여
+            <color r="255" g="255" b="0" a="255">
+               동물원 장식 기둥</color>            
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpeciesPhotographer_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 사진사 상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpeciesPhotographer_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            4개의 멸종 위기 동물 사진 찍기 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               사진 게시판</color>
+           을 구입할 수 있습니다.               
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredSpeciesPhotographer_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 4개의 멸종 위기 동물 사진 찍기 챌린지를 완료하여
+            <color r="255" g="255" b="0" a="255">
+               사진 게시판</color>            
+            을 구입할 수 있게 되었습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredBabies_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             멸종 위기 동물 번식 공로상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredBabies_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             보존 상태가 위험하거나 멸종 위기인 동물 10종을 번식시키면
+             <color r="255" g="255" b="0" a="255">
+                새끼 동물 동상</color>
+            을 받게 됩니다.
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredBabies_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 보존 상태가 위험하거나 멸종 위기인 동물 10종을 번식시켜
+             <color r="255" g="255" b="0" a="255">
+                새끼 동물 동상</color>            
+             이 동물원 입구에 배달되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonOne_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             투어 운영 3등상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonOne_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             투어 기부금으로 $25,000를 모으면
+             <color r="255" g="255" b="0" a="255">
+                7인승 지프</color>
+            를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonOne_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 투어 기부금으로 $25,000를 모아
+             <color r="255" g="255" b="0" a="255">
+                7인승 지프</color>            
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonTwo_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             투어 운영 2등상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonTwo_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             투어 기부금으로 $250,000를 모으면
+             <color r="255" g="255" b="0" a="255">
+                사파리 지프</color>
+           를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourTycoonTwo_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             훌륭합니다! 투어 기부금으로 $250,000를 모아
+             <color r="255" g="255" b="0" a="255">
+                사파리 지프</color>            
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonOne_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              이동 시설 운영 1등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonOne_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              지프 노선이나 리프트 노선의 이용객이 100명이 되면
+              <color r="255" g="255" b="0" a="255">
+                 2인승 리프트</color>
+              를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonOne_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 지프 노선이나 리프트 노선 이용객이 100명이 되어
+              <color r="255" g="255" b="0" a="255">
+                 2인승 리프트</color>            
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonTwo_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              이동 시설 운영 2등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonTwo_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              지프 노선이나 리프트 노선의 이용객이 500명이 되면
+              <color r="255" g="255" b="0" a="255">
+                 4인승 리프트</color>
+            를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonTwo_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 지프 노선이나 리프트 노선 이용객이 500명이 되어
+              <color r="255" g="255" b="0" a="255">
+                 4인승 리프트</color>            
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonThree_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              이동 시설 운영 3등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonThree_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              지프 투어나 리프트 투어의 이용객이 1,000명이 되면
+              <color r="255" g="255" b="0" a="255">
+                 신형 리프트</color>
+              를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationTycoonThree_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              훌륭합니다! 지프 투어나 리프트 투어 이용객이 1,000명이 되어
+              <color r="255" g="255" b="0" a="255">
+                 신형 리프트</color>            
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:GroundTourAchievementRating_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             지프 투어 최고상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:GroundTourAchievementRating_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             지프 투어 등급이 별 5개가 되면
+             <color r="255" g="255" b="0" a="255">
+                지프 투어 최고상</color>
+            을 받습니다.
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:GroundTourAchievementRating_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 지프 투어 등급이 별 5개가 되어
+             <color r="255" g="255" b="0" a="255">
+                지프 투어 최고상</color>            
+             을 수상했습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:SkyTourAchievementRating_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             리프트 투어 최고상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:SkyTourAchievementRating_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             리프트 투어의 등급이 별 5개가 되면
+             <color r="255" g="255" b="0" a="255">
+                리프트 투어 최고상</color>
+            을 받습니다.
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:SkyTourAchievementRating_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 리프트 투어 등급이 별 5개가 되어
+             <color r="255" g="255" b="0" a="255">
+                리프트 투어 최고상</color>            
+             을 수상했습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TourRatingAchievement_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             투어 대상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourRatingAchievement_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             지프 투어와 리프트 투어의 등급이 별 5개가 되면
+             <color r="255" g="255" b="0" a="255">
+                전망대</color>
+            를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:TourRatingAchievement_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 지프 투어와 리프트 투어의 등급이 별 5개가 되어
+             <color r="255" g="255" b="0" a="255">
+                전망대</color>            
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalsCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalsCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               동물 번식 센터</color>
+            를 받게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredAnimalsCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 멸종 위기 동물 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               동물 번식 센터</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            이동 시설 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            이동 시설 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               장식 투어 입구</color>
+            를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TransportationCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 이동 시설 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               장식 투어 입구</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoSafariCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사진 찍기 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoSafariCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사진 찍기 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               호랑이 바위</color>
+            를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoSafariCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 사진 찍기 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               호랑이 바위</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredTheme_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredTheme_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            2개의 멸종 위기 동물 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               멸종 위기 동물 건물 및 아이템</color>
+            을 사용할 수 있게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:EndangeredTheme_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 2개의 멸종 위기 동물 챌린지를 완료해
+            <color r="255" g="255" b="0" a="255">
+               멸종 위기 동물 건물 및 아이템</color>
+            을 사용할 수 있게 되었습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemendangered"  >
+   		축하합니다! 멸종 위기 동물 건물 및 아이템을 사용할 수 있게 되었습니다!
+   	</LOC_STRING>   
+   
+</ZT2Strings>      

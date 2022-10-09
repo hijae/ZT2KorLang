@@ -1,0 +1,5 @@
+<ZT2Strings>
+      <LOC_STRING _locID="Challengetext" version="2" />
+      <LOC_STRING _locID="Challengetext:CHAnimalRelease" version="2"  >(멸종 위기 동물 챌린지) 국제 동물 보존 단체에서 멸종 위기에 처한 동물을 야생으로 돌려보내면 지원금을 지급하겠다고 제안했습니다. 멸종 위기에 처한 동물을 야생으로 돌려보내는 목적은 개체 수를 늘려서 자생력을 갖출 수 있도록 하려는 것입니다. 동물 보존 단체의 재생 프로젝트 대상은 %s이며, 야생으로 돌려보내는 데 필요한 준비를 위해 %s의 지원금을 약속했습니다. %s을(를) 야생으로 돌려보내기 위해 우선 %s가 지급되었고 나머지 지원금은 동물을 야생으로 무사히 돌려보내고 나면 받게 됩니다. 난이도: 고급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalReleaseThemePromo" version="2"  >2개의 멸종 위기 동물 챌린지를 완료하면 멸종 위기 동물 아이템을 사용할 수 있습니다!</LOC_STRING>
+</ZT2Strings>

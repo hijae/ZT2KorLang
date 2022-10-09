@@ -1,0 +1,37 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexPhotos"  >Tyrannosaurus rex the Predator</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRex"  >
+      Scientists from the Operational Paleontology Association would like you to help them settle the debate over the T. rex's eating habits. The scientists feel that while the Tyrannosaurus rex may have obtained some of its food from scavenging, it must also have been a very capable predator. They would like you to take a pair of pictures proving their theory. If you succeed, the publicity created by the photos will attract additional guests to your zoo!
+         <br/>
+         Difficulty: Challenging	
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexShort"  >
+      Take a series of two pictures that show:
+         <p/>
+   		*  A Tyrannosaurus rex hunting its prey.   		
+         <br/>
+   		*  A Tyrannosaurus rex catching its prey.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexSuccess"  >Your photos have greatly impressed the scientists from the Operational Paleontology Association! You've shown that the T. rex was an effective predator.
+	   </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexSuccessShort"  >Your photos of T. rex acting as a predator have attracted more guests to your zoo.
+   	</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TRexStalking"  >Take a photo of a Tyrannosaurus rex hunting its prey.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TRexCatching"  >Take a photo of a Tyrannosaurus rex catching its prey.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitPhotos"  >Scientist Visit</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisit"  >World-renowned paleontologist Alvin Einheim is coming to visit your zoo! If you can take a picture of Professor Einheim viewing one of your dinosaurs, the resulting publicity will make your zoo slightly more famous. Take the following picture:
+					<br/>         
+		*  A photo of Alvin Einheim viewing a dinosaur.  
+					<br/>
+		Difficulty: Moderate.			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitShort"  >Take a photo of Alvin Einheim viewing a dinosaur.   	
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitSuccess"  >The publicity resulting from your photo of Alvin Einheim made your zoo more famous! Not only that, but all the guests currently in your zoo are now slightly happier. Everyone's thrilled to be visiting the favorite zoo of such a brilliant man!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitSuccessShort"  >The publicity from your photo of Alvin Einheim has made your guests slightly happier and made your zoo more famous as well.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitFailure"  >Alvin Einheim has left the zoo! Unfortunately, he left before you could take the photo you needed.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitFailureShort"  >Alvin Einheim left the zoo before you could get the photo you needed.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitScientistName"  >Alvin Einheim</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoScientistVisitDinosaur"  >Take a photo of Alvin Einheim viewing a dinosaur.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoScientistVisitArrival"  >Famous scientist Alvin Einheim has entered your zoo!</LOC_STRING>
+</ZT2Strings>

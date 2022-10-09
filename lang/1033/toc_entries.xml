@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_home:entry">목차</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_home:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+					동물원 백과사전에 오신 것을 환영합니다. 동물원 백과사전은 Zoo Tycoon 2에 등장하는 동물과 시설물에 대한 정보를 담고 있습니다.
+					<p/>
+					정보를 보려면 왼쪽에 있는 목록에서 해당 항목을 찾아 클릭하면 됩니다.
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

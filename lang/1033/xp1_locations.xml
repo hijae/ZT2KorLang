@@ -1,0 +1,30 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="worldlocation:southamerica_west"  >남아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:southamerica_west_ltt"  >
+         <color r="255" g="248" b="178">
+            남아메리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:florida"  >플로리다</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:florida_ltt"  >
+         <color r="255" g="248" b="178">
+            플로리다
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:panama"  >중앙 아메리카</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:panama_ltt"  >
+         <color r="255" g="248" b="178">
+            중앙 아메리카
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:spain"  >스페인</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:spain_ltt"  >
+         <color r="255" g="248" b="178">
+            스페인
+         </color>
+         <br/>
+      </LOC_STRING>
+</ZT2Strings>

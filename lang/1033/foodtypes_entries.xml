@@ -1,0 +1,388 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bamboo:entry">대나무잎</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bamboo:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+            동물원 동물 중에서 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_panda:entry">
+                     <u>
+                        <color r="255" g="231" b="135">자이언트 팬더</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_redpanda:entry">
+                     <u>
+                        <color r="255" g="231" b="135">붉은 팬더</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+            , 그리고 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="255" g="231" b="135">고릴라</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+            를 포함한 몇몇 동물만 이 먹이를 좋아하지만 이들 동물에게는 없어서는 안 될 중요한 먹이입니다.
+         
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+	    대나무잎은 그냥 땅 위에 놓거나 나무 계단, 나무 기둥, 여물통 
+	등에 넣을 수 있습니다.
+				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananas:entry">바나나</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananas:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                              
+            바나나는 동물들이 별로 좋아하지 않는 먹이입니다. 사실 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_chimp:entry">
+                     <u>
+                        <color r="255" g="231" b="135">침팬지</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="255" g="231" b="135">고릴라</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+            , 그리고 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_lemur:entry">
+                     <u>
+                        <color r="255" g="231" b="135">호랑이꼬리여우원숭이 </color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+             정도만 바나나를 아주 좋아합니다.
+	    바나나는 땅 위 또는 나무 계단에 놓거나 그릇에 넣을 수 있습니다. 동물들의 
+	    탐구심을 자극하기 위해 상자 안에 숨길 수도 있습니다.
+				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_branches:entry">나뭇잎</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_branches:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                                  
+               동물원에서 동물들에게 주는 먹이 중 가장 섬유질이 많습니다. 나뭇잎을 좋아하는 주요 동물은 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_beaver:entry">
+                     <u>
+                        <color r="255" g="231" b="135">비버</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+               , 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_chimp:entry">
+                     <u>
+                        <color r="255" g="231" b="135">침팬지</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+               , 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_elephant:entry">
+                     <u>
+                        <color r="255" g="231" b="135">코끼리</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+               , 
+         
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_moose:entry">
+                     <u>
+                        <color r="255" g="231" b="135">말코손바닥사슴입니다.</color>
+                     </u>
+                  </a>
+                  <p/>
+                  
+                  
+                  
+                  
+	       여러 동물들이 나뭇잎을 도구나 장난감, 때로는 은신처로 사용하기도 합니다.
+	       예를 들자면 새끼 동물들은 쌓인 나뭇잎을 안락한 낮잠 장소로 사용하기도 하고 
+	       알려진 바에 의하면 수컷 침팬지는 나뭇잎을 흔들어 암컷의 주의를 끈다고 합니다.
+         
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+	       나뭇잎은 그냥 땅 위에 놓거나 나무 기둥이나 나무 계단에 
+	       넣을 수 있습니다.
+				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fish:entry">생선</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                                  
+               사자나 호랑이, 곰, 펭귄, 악어를 비롯한 많은 동물들이 주식으로 
+               삼는 먹이입니다.
+				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grass:entry">풀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grass:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\Terrain\Terrain_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+               건초와 마찬가지로 풀도 겜즈복이나 캥거루, 코뿔소를 비롯한 여러 초식 동물의 
+               주요 먹이입니다.
+
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                           
+            
+	       풀은 그냥 땅 위에 놓거나 여물통, 나무 계단, 나무 기둥에 
+넣을 수 있습니다.				
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hay:entry">건초</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hay:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\Terrain\Terrain_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+               풀과 마찬가지로 건초도 코끼리, 얼룩말, 낙타, 하마를 비롯한 
+               여러 초식 동물의 주요 먹이입니다.
+         
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+	       건초는 그냥 땅 위에 놓거나 여물통, 나무 계단, 나무 기둥에 
+	       넣을 수 있습니다. 			
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lettuce:entry">상추</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lettuce:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\Terrain\Terrain_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               하마가 상추를 좋아할 것 같지는 않지만 사실 하마가 가장 좋아하는 먹이가 바로 상추입니다. 
+               상추를 줄 때는 그냥 땅에 놓아 줘도 되고 여물통에 담아 주거나 나무 계단에 놓아 줘도 됩니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meat:entry">고기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meat:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\Terrain\Terrain_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+               고기는 호랑이, 사자, 회색곰 등 대형 육식 동물들의 주식이자 중요한 단백질 공급원입니다. 
+               동물들에게 줄 때는 그냥 땅에 놓아도 좋고 먹이통이나 철제 여물통에 담아서 줘도 됩니다.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_water:entry">물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_water:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               어떤 동물이라도 물이 없으면 살 수 없습니다. 
+               그러므로 동물들이 깨끗한 물을 계속 공급 받을 수 있도록 항상 신경 써야 합니다.
+				</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

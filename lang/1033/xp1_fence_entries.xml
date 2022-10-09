@@ -1,0 +1,95 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry"  >멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+멸종 위기 동물 울타리는 프셰발스키말, 굽은뿔오릭스 등의 멸종 위기 동물이 사는 우리에 가장 잘 어울립니다. 우리 근처에 테마 공간을 만드는 데 사용해도 좋습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_conservationfences:entry"  >보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_conservationfences:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+보호 구역 울타리는 <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">보호 구역</color></u></a>을 둘러싸고 있는 울타리로, 판매하거나 재활용할 수 없습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mosaicwindow:entry"  >멸종 위기 동물 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mosaicwindow:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+멸종 위기 동물 창문 울타리는 높지만 창문이 있어 내부를 안전하게 들여다볼 수 있습니다. 프셰발스키말, 굽은뿔오릭스 등의 멸종 위기 동물이 사는 우리에 가장 잘 어울립니다.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry"  >차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+우리에 달린 차량 출입문으로 지프가 드나듭니다. 동물이 우리에서 나오지 못하도록 지프가 지나가고 나면 자동으로 닫힙니다.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry"  >장식 차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate_reward:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+우리에 달린 차량 출입문으로 지프가 드나듭니다. 동물이 우리에서 나오지 못하도록 지프가 지나가고 나면 자동으로 닫힙니다.
+            <p/>
+장식 차량 출입문을 사용하려면 이동 시설 캠페인을 완료해야 합니다.            
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wroughtiron:entry"  >장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wroughtiron:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+장식 울타리는 견고한 자재로 만들어진 우아한 모양의 울타리입니다. 거칠고 힘센 동물 우리에 적합하며 보기에도 아름답습니다. 관람객이 우리 안을 들여다보기에 좋습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

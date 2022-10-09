@@ -1,0 +1,6 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:DriveOff"  >%s을(를) 몰아내고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:FollowMate"  >짝 곁에 붙어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Smashing"  >%s을(를) 공격하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:StandInFear"  >두려워서 꼼짝도 못합니다.</LOC_STRING>
+</ZT2Strings>

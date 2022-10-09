@@ -1,0 +1,140 @@
+ <ZT2Strings>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirIntro"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirOverviewShort"  >
+멸종 위험에 처한 한 쌍의 베어드테이퍼를 살리기 위해 시에서 작은 동물원을 지었습니다. 베어드테이퍼에게 최적의 환경을 만들어 주면서 기부금도 모아야 합니다. 이 캠페인의 시나리오를 모두 마치면 동물 번식 센터를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirOverview"  >
+희귀 동물인 베어드테이퍼 한 쌍이 시 주변에서 발견되었습니다. 시의회는 멸종 위험에 처해 있는 베어드테이퍼를 다른 곳으로 옮기는 대신 서식지 근처에 작은 동물원을 짓기로 결정했습니다. 
+         <p/>
+시에서는 이미 동물원을 짓기 시작했으며 순조로운 운영을 위해 다른 동물 2마리를 입양해 두었습니다. 여러분은 베어드테이퍼가 건강하게 살 수 있는 환경을 만들어 주면서 기부금도 모아야 합니다.
+        <p/>
+우선 베어드테이퍼가 만족할 수 있도록 건강하게 돌봐주어야 합니다. 베어드테이퍼의 기본적인 생활 조건을 만족시켜 주세요.       
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirFailure"  >
+베어드테이퍼 한 마리가 죽었습니다! 베어드테이퍼를 건강하게 잘 돌보지 못했기 때문에 여러분은 더 이상 동물원을 운영할 수 없습니다. 목표를 달성하지 못했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonations"  >
+베어드테이퍼가 잘 적응하고 있습니다! 기본적인 생활 조건을 모두 만족시켜 주었습니다.
+      <p/>
+베어드테이퍼가 건강하게 잘 지내는 모습을 보고 시의회에서는 동물원의 재정 안정을 위해 기부금을 모으도록 요청했습니다. 관람객 기부금으로 $3,000를 모아 여러분의 관람객 유치 능력을 보여 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirColony"  >
+잘했습니다! 관람객 기부금으로 $3,000 이상 모았습니다. 시의회에서는 여러분의 동물원 운영에 대해 만족해하고 있습니다.
+      <p/>
+시의회는 매우 흡족해하며 베어드테이퍼 수를 늘리도록 요청했습니다. 시나리오를 완료하려면 베어드테이퍼가 5마리 이상 있는 우리를 만드세요!
+      <p/>
+베어드테이퍼를 5마리로 늘리는 방법으로는 번식과 입양이 있습니다. 입양은 속도가 빠르지만 비용이 많이 드는 반면 번식은 속도는 느리지만 비용이 들지 않습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirSuccessOverview"  >
+여러분이 만든 베어드테이퍼 우리는 대성공이었습니다. 베어드테이퍼가 5마리로 늘어나 적어도 이 곳에서는 베어드테이퍼가 종족을 번창시킬 수 있을 것입니다. 시의회에서도 기뻐하고 있습니다. 축하합니다!     
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirresult"  >베어드테이퍼가 5마리 이상 있는 서식지를 만드세요!</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirOverallGoal"  >베어드테이퍼가 5마리 이상 있는 서식지를 만드세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirOverallGoalDone"  >축하합니다! 베어드테이퍼가 5마리 이상 살고 있는 서식지를 만들었습니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirWellBeingGoal"  >베어드테이퍼의 기본적인 생활 조건을 만족시켜 주세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonationsGoal"  >관람객 기부금으로 $3,000를 모으세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirWellBeingGoalDone"  >잘했습니다! 베어드테이퍼의 기본적인 생활 조건을 만족시켜 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BairdsTapirDonationsGoalDone"  >관람객 기부금으로 $3,000 이상을 모아 관람객 유치 능력을 증명해 보였습니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramIntro"  >멸종 위기 동물 종족 보존 프로그램</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramOverviewShort"  >멸종 위기에 처한 동물 3종을 번식시킨 다음 야생으로 돌려보내 주세요. 이 캠페인의 시나리오를 모두 마치면 동물 번식 센터를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramOverview"  >동물원 이사회에서는 야생에 서식하거나 동물원에서 보호하고 있는 멸종 위기 동물을 구하기 위해 야심 찬 번식 프로그램을 만들었습니다. 이 프로그램에 따라 멸종 위기 동물 3종을 입양하여 번식시킨 다음 종마다 한 마리씩 야생으로 돌려보내야 합니다.
+      <p/>
+      번식 프로그램으로 돌봐야 할 멸종 위기 동물은 갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소입니다. 우선 이 동물들을 한 마리씩 입양하여 기본적인 생활 조건을 만족시켜 주세요. 힌트: 이 목표를 달성하려면 우선 동물원 명성을 별 1개 이상으로 올리세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreed"  >멸종 위기 동물들을 잘 입양했습니다! 이제 종족 보존 프로그램을 시작할 차례입니다. 입양한 동물마다 성별이 다른 동물을 한 마리씩 입양해서 짝을 지어 주세요. 갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소가 각각 새끼를 낳도록 해야 합니다.
+      <p/>
+      종족 보존 프로그램을 돕기 위해 동물원 이사회에서 $10,000를 지원했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramRelease"  >잘했습니다! 멸종 위기 동물들이 모두 새끼를 낳았습니다. 이제 동물들이 천연 서식지에서 종족을 늘리도록 도와줄 차례입니다. 갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소를 한 마리씩 야생으로 돌려보내 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramSuccessOverview"  >
+      종족 보존 프로그램을 완료했습니다! 멸종 위기에 처한 동물들이 새끼를 낳고 야생으로 돌아가 종족을 늘리도록 도와주었습니다. 덕분에 동물들의 미래가 밝아졌어요. 잘했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramOverallGoal"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소를 1마리씩 입양하여 번식시킨 다음 야생으로 돌려보내 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetTortoiseGoal"  >갈라파고스코끼리거북 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetTortoiseGoalDone"  >갈라파고스코끼리거북 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetOryxGoal"  >굽은뿔오릭스 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetOryxGoalDone"  >굽은뿔오릭스 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetMarkhorGoal"  >마코르염소 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetMarkhorGoalDone"  >마코르염소 1마리를 입양하여 기본적인 생활 조건을 만족시켜 주었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetAll"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소를 1마리씩 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramGetAllDone"  >필요한 동물을 모두 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedTortoiseGoal"  >갈라파고스코끼리거북이 새끼를 낳도록 해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedTortoiseGoalDone"  >갈라파고스코끼리거북이 새끼를 낳았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedOryxGoal"  >굽은뿔오릭스가 새끼를 낳도록 해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedOryxGoalDone"  >굽은뿔오릭스가 새끼를 낳았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedMarkhorGoal"  >마코르염소가 새끼를 낳도록 해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedMarkhorGoalDone"  >마코르염소가 새끼를 낳았습니다!</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedAll"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소가 각각 새끼를 낳게 하세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramBreedAllDone"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소가 각각 새끼를 낳았습니다.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseTortoiseGoal"  >갈라파고스코끼리거북 1마리의 생활 조건을 만족시켜 야생으로 돌려보내세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseTortoiseGoalDone"  >갈라파고스코끼리거북 1마리를 야생으로 돌려보냈습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseOryxGoal"  >굽은뿔오릭스 1마리의 생활 조건을 만족시켜 야생으로 돌려보내세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseOryxGoalDone"  >굽은뿔오릭스 1마리를 야생으로 돌려보냈습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseMarkhorGoal"  >마코르염소 1마리의 추가 생활 조건을 만족시켜 야생으로 돌려보내세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseMarkhorGoalDone"  >마코르염소 1마리를 야생으로 돌려보냈습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseAll"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소를 1마리씩 야생으로 돌려보내세요.</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:BreedingProgramReleaseAllDone"  >갈라파고스코끼리거북, 굽은뿔오릭스, 마코르염소를 1마리씩 야생으로 돌려보냈습니다!</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooIntro"  >멸종 위기 동물을 위한 동물원</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooOverviewShort"  >멸종 위기 동물 캠페인의 마지막 시나리오에 도전하시겠습니까? 멸종 위기 동물로만 구성된 별 5개짜리 동물원을 만들어 보세요. 이 시나리오를 마치면 동물 번식 센터를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooOverview"  >동물원 이사회에서는 멸종 위험에 처한 동물들에 대한 사람들의 관심을 높이기 위한 야심 찬 계획을 세우고, 이를 위해 여러분에게 새로운 동물원을 만들어 달라고 요청해 왔습니다. 새로운 동물원은 보존 상태가 위험하거나 멸종 위기에 처한 동물로만 구성되어야 하며 별 5개를 유지해야 합니다.
+      <p/>
+		멸종 위험에 처하지 않은 동물도 기를 수는 있습니다. 하지만 목표를 완수하려면 별 5개짜리 동물원으로 만들어야 하며 보존 상태가 "비교적 양호" 또는 "취약"인 동물이 있으면 안 됩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUp"  >동물원은 잘 운영되고 있지만 동물원에 보존 상태가 위험하거나 멸종 위기인 동물이 없어서 동물원 이사회에서는 걱정입니다. 앞으로 한 달 안에 보존 상태가 위험하거나 멸종 위기인 동물을 2종 이상 입양해야 합니다. 그렇지 않으면 이사회에서 더 이상 여러분에게 동물원 운영을 맡기지 않겠다고 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpSuccess"  >한 달 안에 보존 상태가 위험하거나 멸종 위기인 동물 2종을 입양했습니다. 이사회에서는 이에 흡족해하며 멸종 위기 동물을 더 입양하도록 요청했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpFailure"  >한 달 안에 보존 상태가 위험 하거나 멸종 위기인 동물 2종을 입양하지 못했습니다. 요청한 동물을 입양해 별 5개짜리 동물원을 만들지 못했기 때문에 더 이상 동물원을 운영할 수 없습니다. 다음 번에는 꼭 성공하시기를 바랍니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooForcedAdoption"  >동물원 이사회에서 멸종 위기 동물 한 마리를 새로 입양했습니다! 동물원 정문 근처 상자에 %s이(가) 들어 있습니다. 동물 값은 동물원 운영 자금으로 치러야 합니다. 그 대신 관람객 기부금으로 $300를 모으면 상당한 액수의 자금을 지원해 준다고 합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooDonationSuccess"  >%s을(를) 입양한 덕분에 기부금으로 $300 이상을 벌었습니다. 멸종 위기 동물에 대한 사람들의 관심을 모은 공로를 인정 받아 자금을 지원 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooGrant"  >멸종 위험에 처한 동물을 입양하는 동물원 운영 능력에 동물원 이사회는 매우 만족해하며 지원금을 제공했습니다!</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooSuccessOverview"  >
+      축하합니다! 보존 상태가 위험하거나 멸종 위기인 동물만 있는 별 5개짜리 동물원을 만들었습니다. 동물원 이사회 임원들도 기뻐하고 있습니다! 동물원이 인기를 모으면서 사람들에게 세계 곳곳의 다양한 멸종 위기 동물에 대해 가르쳐 줄 수 있었습니다.
+      <p/>
+      동물 번식 센터를 사용할 수 있게 되었습니다. 앞으로 Zoo Tycoon 2: Endangered Species의 모든 게임에서 동물 번식 센터를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooOverallGoal"  >보존 상태가 위험하거나 멸종 위기 동물로만 구성된 별 5개짜리 동물원을 만드세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooOverallGoalDone"  >잘했습니다! 멸종 위기 동물로만 구성된 별 5개짜리 동물원을 만들었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpGoalOne"  >한 달 안에 보존 상태가 위험하거나 멸종 위기인 동물 1마리를 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpGoalOneDone"  >멸종 위기 동물 1마리를 입양했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpGoalTwo"  >한 달 안에 보존 상태가 위험하거나 멸종 위기인 동물 1마리 더 입양하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooCatchUpGoalTwoDone"  >멸종 위기 동물을 1마리 더 입양했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooDonationGoal"  >%s을(를) 입양해 기부금으로 $300를 모으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimals:EndangeredAnimalsZooDonationGoalDone"  >%s을(를) 입양해 기부금으로 $300를 모아서 지원금을 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignshort"  >멸종 위기 동물</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS1"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS1short"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS2"  >멸종 위기 동물 종족 보존 프로그램</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS2short"  >멸종 위기 동물 종족 보존 프로그램</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS3"  >멸종 위기 동물을 위한 동물원</LOC_STRING>
+      <LOC_STRING _locID="EndangeredAnimalsLabels:EndangeredAnimalsCampaignS3short"  >멸종 위기 동물을 위한 동물원</LOC_STRING>
+   
+</ZT2Strings>

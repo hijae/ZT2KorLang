@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapname:gobidesert"  >
+	고비 사막(소형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:frostyalps"  >
+	알프스 산맥(중형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:americanprairie"  >
+	아메리카 대초원(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:amazonbasin"  >
+	아마존 분지(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:fossilridge"  >
+	화석 산릉(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:extinctjunior"  >
+	초급 멸종 동물원(소형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:gobidesertdescription"  >
+   	Many fossil deposits of extinct animals have been discovered in the Gobi Desert. A waterfall and an oasis provide life-sustaining water resources and plant life.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:americanprairiedescription"  >
+   	The prairies of North America sustain many animal species. Since the last Ice Age, and with the expanded use of prairie lands by humans, the species that live here continue to change.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:frostyalpsdescription"  >
+   	This northern alpine site's craggy mountains and snowy peaks offer a challenging building adventure and amazing views for a zoo!
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:amazonbasindescription"  >
+   	The flooded Amazon River has receded, exposing an area of rich wetlands. Waterfalls along the river make this a lush and exotic area for your zoo.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:fossilridgedescription"  >
+   	Situated on a ridge where scrub land meets the forest, paleontologists unearthed fossil deposits here. 
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:extinctjuniordescription"  >
+   	Built especially for new zookeepers, this zoo has almost everything you need.  Just add animals and feed them!
+   	</LOC_STRING>
+
+</ZT2Strings>

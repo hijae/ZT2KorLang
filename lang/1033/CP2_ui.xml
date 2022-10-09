@@ -1,0 +1,197 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9" />
+      <LOC_STRING _locID="mainmenu:legalcopy1"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            (c) &amp; (p) 2007 Microsoft Corporation. All rights reserved.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            본 제품은 Microsoft Corporation을 위하여 Blue Fang Games가 개발하였습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            이 프로그램은 대한민국 및 국제 저작권법의 보호를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4"  version="2" >
+         <font name="굴림" size="10" shadowx="0" shadowy="0">
+            자세한 내용은 도움말/정보에 명시되어 있습니다.
+         </font>
+      </LOC_STRING>
+	  <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9"  >Extinct Animals 설치 완료</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9"  >
+         <color r="255" g="248" b="178">
+            Extinct Animals 설치 완료
+         </color>
+         <br>Extinct Animals 확장팩이 설치되었습니다. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9"  >
+         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               Zoo Tycoon 2: Extinct Animals 게임 방법을 배우시겠습니까?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1"  >
+         <font name="굴림" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2"  >
+         <font name="굴림" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message"  >
+      목표 :
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3"  >
+         <font name="굴림" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message"  >
+      목표와의 거리: 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message"  >
+      목표가 멀리 떨어져 있습니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format"  >
+          <font name="굴림" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message"  >
+      컴퓨터 화면을 클릭하거나 스페이스바를 누르면 시작합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success"  >
+      잘했습니다! 당신은 %s을(를) 만들었습니다. 슈퍼 동물은 일반 동물보다 더 크고 건강하며 오래 살 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal"  >
+      잘했습니다! 당신은 %s을(를) 만들었습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure"  >
+      오 이런, 당신은 실패했습니다! 계속 노력하면 다음 번엔 더 좋은 동물을 얻게 될 겁니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure"  >
+      앗! 아직 해금된 멸종 동물이 없습니다! 먼저 화석을 찾아보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure"  >
+      어떻게 된거죠? 다시 시도하려면 스페이스바를, 연구소에서 나가려면 ESC 키를 누르세요. 도움이 더 필요하다면 ? 버튼을 클릭해주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure"  >
+      스캔 라인이 화면의 아이콘에 닿으면 마우스를 클릭하거나 화살표 키를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format"  >
+          <font name="굴림" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found"  >당신은 %1s의 화석 조각을 발견했습니다! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready"  >이제 당신은 멸종 동물 연구소에서 %s의 화석 조각을 조립할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found"  >%s을(를) 찾았습니다.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found"  >You received %2m for %1s you found.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked"  >Your fossil finder was upgraded. Now you can find more fossils!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable"  >Increase your zoo fame to upgrade your fossil finding device!</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format"  >
+         <font name="굴림" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Turn/Look: Move mouse
+      <br/>
+      Dig fossil sites: SPACEBAR
+      <p/>
+      Welcome to fossil finding!  In this game mode, you can walk around your zoo with your handheld Fossil Finder and look for hidden fossil pieces in your zoo. 
+      <p/>
+      The vertical bar in the center of your Fossil Finder lets you know when you're approaching an underground object. When you get really close, a dig site marker automatically appears. Press SPACEBAR to dig at that site, or leave it to continue looking for other sites.   
+      <p/>
+      All of the fossils you collect will be placed at the Extinct Research Lab.  When you have enough pieces to assemble a complete fossil, go to the Lab, select the Fossil Building tab and start the Fossil Building game!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding"  >
+      <u>Controls:</u>
+      <br/>
+      Move Pieces: Click and drag pieces.
+      <br/>
+      Rotate Pieces: &lt; and &gt; 
+      <br/>
+      Reset Puzzle: Ctrl-R
+      <br/>
+      NOTE: Pieces must be inside the skeleton outline to lock in place.      
+      <p/>
+      Welcome to the Extinct Research Lab's fossil building room.  
+      <p/>
+      You must correctly arrange the fossil pieces you found to assemble a complete fossilized skeleton. Click and drag the pieces to move them. When a piece is correctly placed, it changes color when you release the left mouse button. To help you, one piece -- an anchor piece -- is in place when you start.   
+      <p/>
+      If you would like to reset the puzzle, press Ctrl-R.  This will give you a new starting piece, but it will reset all the other pieces, so be careful!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning"  >
+      <u>Controls:</u>
+      <br/>
+      Start Game: SPACEBAR
+      <br/>
+      To Play: Press the correct arrow key or click the mouse button when the scan line crosses the icon. 
+      <p/>
+      On higher-star animals, ? icons may appear and cover the symbols that you must press. Memorize the pattern when it flashes, and then press the right key when the scan line crosses or you won't get a perfect score!
+      <p/>
+      Welcome to the Extinct Research Lab's animal creation room! If you found the fossil pieces of an animal and put them together, you can create that animal here at the lab! By selecting the animal to create, you have started the animal creation pattern-matching game!  
+      <p/>
+      Pressing SPACEBAR or clicking the computer screen starts the process. You need to match the pattern of icons on the computer screen as the scan line crosses over them. 
+      <p/>
+      If you do a great job, you create a super version of the animal. These are the happiest, healthiest, and strongest animals, and guests enjoy them most. Do an okay job and you get a regular version. Fail and you could get ... something entirely different. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Take a sample: SPACEBAR
+      <p/>
+      Welcome to disease curing mode. If your animals catch a disease, you can conduct research to find a cure.  
+      <p/>
+      In this mode, you walk around your zoo and use SPACEBAR to sample possible cure items. First, you need to take a small sample from one of your sick animals.  
+      <p/>
+      Once your research team analyzes the sample, you get your first research report from the lab. These reports help you find what you need to assemble the cure. You can use the research report button to get additional research updates from the lab, but for each one of these hints, you earn less money when you finally find the cure. Keep in mind that the items you need for the cure might not be in your zoo yet!
+      <p/>
+      Once you find the cure, go into Zoo Guest Mode and cure your animals the same way you would wash or heal them. You can also give your zookeepers the disease cure, so they can cure your animals for you!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Turn/Look: Move mouse
+      <br/>
+      Charge tranquilization gun: 
+      <br/>
+      Center your target on a rampaging animal.
+      <br/>
+      Fire tranquilization gun: SPACEBAR
+      <br/>
+      <u>NOTE:</u> The gun must be fully charged to have any effect.
+      <p/>
+
+      Got a rampaging dino, eh? You've got the right tools for the job! To calm down a rampaging dino, get one in your sights, steady your aim on the target, and press SPACEBAR to fire the tranquilizer after your gun powers up to a full charge. The charge time on larger dinos is longer than for smaller ones, because the larger dinos need a stronger dose. Hold steady! If your aim wavers from your target, your tranquilizer gun loses some of its charge.  
+      <p/>
+      When you tranquilize a rampaging dino, it settles down and sleeps for a little while. You can then pick it up, crate it, and move it back to its exhibit. If an animal doesn't show up on your target display, it's not a rampaging dino.   
+      </LOC_STRING>
+</ZT2Strings>

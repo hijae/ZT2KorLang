@@ -1,0 +1,268 @@
+<ZT2Strings>
+      <LOC_STRING _locID="DinoCampaign:HarmonyIntro"  >
+      조화롭게 살다
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOverview"  >
+      Bringing back extinct animals presents a unique challenge to your zoo. Can you operate a zoo where extinct species live side-by-side with your more common animals? Your challenge is to build a zoo with 15 distinct species and at least 8 extinct species.
+      <p/>
+      Every project starts at the beginning. Adopt or acquire three different species of animals and meet their basic needs to get your zoo started.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOverviewShort"  >
+      Bringing back extinct animals presents a unique challenge for your zoo. Can you operate a zoo where extinct species live side-by-side with your more common animals? Complete all the scenarios in this campaign to unlock the brachiosaurus slide.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptThreeShort"  >
+      Adopt or acquire three different species of animals and meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptThree"  >
+      There are three species in your zoo. You're on your way to building a world-class zoo! You received a $15,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptEight"  >
+      Adopt or acquire six different species, and then meet their basic needs to move ahead. Hint: Putting more than one species in an exhibit saves space and money!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptEightShort"  >
+      Adopt or acquire six different species, and then meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptEight"  >
+      There are six species in your zoo. You're almost halfway to your goal of 15 species! You received another grant of $25,000!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptTenExtinct"  >
+      You're off to a great start! Now it's time to add more extinct animals to your zoo. Adopt or acquire 8 different extinct species, and meet their basic needs to get more funding to finish your project! Your goal will not be complete if there are any animals with pressing basic needs in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptTenExtinctShort"  >
+      Acquire 8 extinct species and make sure there are no animals with pressing basic needs in your zoo to receive the extra funding. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptTenExtinct"  >
+      There are 8 extinct species in your zoo! You received a $25,000 grant to help meet your final goal.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinalGoal"  >
+      Your project is nearly complete! Word of your success in building a zoo with extinct animals is spreading, and now you need to meet your final goal! Exhibit 15 different species in your zoo, with at least 8 extinct species and 5 non-extinct species, and you win this scenario! Hint: You need to be smart with your money and space to succeed!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinalGoalShort"  >
+      Exhibit 15 different species in your zoo, with at least 8 extinct species and 5 non-extinct species, to win the scenario. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishFinalGoal"  >
+      You did it! You created a world-class zoo with 15 different species living in harmony. An anonymous donation of $50,000 has been offered to your zoo. If you want to keep playing, click the Check button. If you want to go to the next scenario, click the Next button.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalFourBiomes"  >
+      (Optional) While diversity of species is important, it's also important to represent a variety of biomes in your zoo. If you can adopt or acquire animals from four different biomes, you get a $10,000 bonus. To count towards this goal, animals must be placed in their primary biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalFourBiomesShort"  >
+      (Optional) Adopt or acquire animals from four different biomes and exhibit them in their primary biome for a $10,000 bonus. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishOptionalFourBiomes"  >
+      Congratulations! For representing four different biomes in your zoo, you received a $10,000 bonus!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalEightBiomes"  >
+      (Optional) Your zoo continues to thrive as you add more animal species. Exhibiting animals from all different biomes is a big part of creating a world-class zoo. If you can adopt or acquire animals from eight different biomes, you get another bonus of $25,000. To count towards this goal, animals must be placed in their primary biome.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalEightBiomesShort"  >
+      (Optional) Adopt or acquire animals from eight different biomes and exhibit them in their primary biome for a $25,000 bonus.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishOptionalEightBiomes"  >
+      Very well done! For representing eight different biomes in your zoo, you received a $25,000 bonus!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayIntro"  >
+      The Hard Way
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayOverview"  >
+      There are no more extinct animals to adopt! But your guests want to see extinct animals. There's only one way to give 'em what they want. Time to get your hands dirty! See if you can build a 4-star zoo with at least eight different extinct species!
+      <p/>
+      To get started, build an Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayOverviewShort"  >
+      There are no more extinct animals to adopt! There's only one way to give your guests what they want. Time to get your hands dirty!  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayLabShort"  >
+      Build an Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishLabShort"  >
+      Congratulations! You built an Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishLab"  >
+      Great! Now that you built an Extinct Research Lab, you can start working on getting some extinct animals in your zoo. Since you can't adopt them, use your new lab to create them.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCollectFirstFossil"  >
+      The only way you can obtain extinct animals is by discovering their fossils in your own zoo. Go to the Extinct Research Lab and start searching for fossils. Collect enough pieces to build a fossil in the Extinct Research Lab. You need six pieces from the same animal to construct a full fossil.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCollectFirstFossilShort"  >
+      Collect six fossil pieces from the same animal so you can construct a full fossil.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishCollectFirstFossil"  >
+      You collected all six fossil pieces. Now you can go to the Extinct Research Lab and build your first fossil! 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayBuildFirstFossil"  >
+      You have all the pieces for one of the animals. Now build the full skeleton! Piece together your findings and unlock your first animal!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayBuildFirstFossilShort"  >
+      Build the full skeleton with the pieces you found.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishBuildFirstFossil"  >
+      Great! You can now create your first animal at the Extinct Research Lab!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCreateFirstFossil"  >
+      Go back to the Extinct Research Lab to create your first animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCreateFirstFossilShort"  >
+      Create an animal at the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishCreateFirstFossil"  >
+      Congratulations! You created your first animal at the Extinct Research Lab!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourExtinct"  >
+      Your guests are happy to see you showing off an extinct animal, and they want to see more. Discover more fossils, exhibit at least four different extinct species, and meet their basic needs, and you get a $20,000 grant. Keep your animals healthy, though; if any of them die from neglect, illness, or attack, you fail the scenario.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourExtinctShort"  >
+      Exhibit at least four different extinct species in your zoo and meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourExtinct"  >
+      Guests are flocking to your zoo to see your extinct animals! These unique species aren't available anywhere else, and your zoo is the hottest attraction in town!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayEightExtinct"  >
+      To really put your zoo on the map, keep bringing in those extinct species. If you can exhibit at least eight different extinct species, meet their basic needs, and build your zoo to 4 stars, you win the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayEightExtinctShort"  >
+      Exhibit at least eight different extinct species in your zoo and meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishEightExtinct"  >
+      Wow! Your extinct animals are bringing in the crowds! Great work!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayAnimalDeathFail"  >
+      Oh, no! One of your animals has died! Play this scenario again, and try to keep them healthy and happy.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWay3stars"  >
+      For reaching 3 stars of zoo fame, your zoo was named Zoo of the Month! You also earned a $20,000 award.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourStars"  >
+      Your last task is to show you can keep your extinct research going and build a great zoo at the same time. Get your zoo fame up to 4 stars, and you win the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourStarsShort"  >
+      Increase your zoo fame to 4 stars to win the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourStars"  >
+      Well done! Your ability to explore and research extinct animals while running your zoo proves you have what it takes to do it all -- the hard way! As a reward, your zoo won a $50,000 grant! If you want to keep playing, click the Check button. If you want to go to the next scenario, click the Next button.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourStarsShort"  >
+      Wow, you did it! Congratulations! A 4-star zoo and all these extinct animals!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayPhoto"  >
+      (Optional) The local science museum wants pictures of completed skeletons for their new extinct exhibit. If you photograph each of the completed Extinct Education Center skeletons, they promise to donate $15,000 to your zoo! Take the photos after the skeletons are removed from the Extinct Education Center platform and placed in your zoo. Hint: You need a Play Dig Pit and an Extinct Education Center to accomplish this task.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishPhoto"  >
+      The science museum opened their extinct exhibit two weeks early! They were so impressed by your speed, they decided to give you a $20,000 bonus for finishing so quickly! The check is on its way!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleIntro"  >
+      T. rex Trouble
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleOverview"  >
+      The curator at your sister zoo is calling with an urgent request. They have a T. rex on display, but the animal is rampaging too often and they had to close their zoo. They are hoping you can help by providing another T. rex as a companion for their rampaging dinosaur. You haven't started showcasing dinos at your zoo yet, but if you hope to help, you better get started.
+      <p/>
+      First, get your zoo to 4 stars of zoo fame.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleOverviewShort"  >
+      The curator at your sister zoo has an urgent request. They have a T. rex, but it's rampaging so often, they closed their zoo. They hope you can help by providing another T. rex as a companion. Complete this scenario to unlock the Brachiosaurus slide!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourStarsShort"  >
+      Increase your zoo to 4 stars of zoo fame.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourStars"  >
+      Great! Now that your zoo fame is up to 4 stars, you earned a grant to help you add some dinosaurs.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleAdoptDino"  >
+      Now that your zoo is up to 4 stars, it's time to start adding some dinosaurs to your zoo! Acquire any dinosaur and meet its basic needs.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleAdoptDinoShort"  >
+      Acquire any dinosaur and meet its basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishAdoptDino"  >
+      Your new dinosaur seems to be doing just fine! You're on your way to getting the T. rex you need! You received a $10,000 grant to help.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishAdoptDinoShort"  >
+      Your dinosaur is doing well. You have received a $10,000 grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleBuildDRT"  >
+      Safety first! Before you run into any dinosaur trouble of your own, build a Dino Capture Team bunker. The DCT is on call in your zoo to help with any and all dinosaur trouble.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleBuildDRTShort"  >
+      Build a Dinosaur Capture Team bunker.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishBuildDRT"  >
+      Your DCT keeps your dinosaurs under control. $5,000 has been added to your zoo treasury. Now add more dinos to your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishBuildDRTShort"  >
+      Your DCT keeps your dinosaurs under control.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourDinos"  >
+      In order for your zoo to get a T. rex, you're going to need to prove you can manage your existing dinosaur population. Exhibit four species of dino in your zoo, and then meet their basic needs. Accomplish this and you get a grant to continue.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourDinosShort"  >
+      Acquire four species of dinosaur, and meet their basic needs to receive a grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourDinosShort"  >
+      Look at all the dinosaurs! You earned a $20,000 grant to help get your T. rex!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourDinos"  >
+      Your dinosaur exhibition is drawing in crowds and building your reputation within the zoo community! You received a grant of $20,000 to help you obtain a T. rex.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFiveStars"  >
+      In order to unlock the Tyrannosaurus rex for adoption, you must achieve a 5-star zoo rating. Increase your zoo fame to 5 stars, and you can get that T. rex!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFiveStarsShort"  >
+      Increase your zoo fame to 5 stars.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFiveStarsShort"  >
+      You made it to 5 stars! You have unlocked the Tyrannosaurus rex for adoption and earned a $75,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFiveStars"  >
+      Your zoo has blossomed into a world-class facility! You unlocked the Tyrannosaurus rex for adoption, and earned a $75,000 bonus grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleStartRampageShort"  >
+      There's a dinosaur rampaging! Find a way to stop the rampage, quick!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleStartRampage"  >
+      Oh, no! One of your dinosaurs has gone into a rampage! The Dino Capture Team should be on the case, but you can jump into Dino Tranquilization mode and help out! Click the Find Rampaging Dino button and then click the Tranquilize button on the dino's info panel!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleEndRampageShort"  >
+      Whew! That was close! The rampage is over, and no one was hurt.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleEndRampage"  >
+      You did it! The rampage is over! Now you can get back to running your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleGetTrex"  >
+      Adopt or acquire the T. rex for your zoo, and meet its basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleGetTrexShort"  >
+      Adopt or acquire the T. rex for your zoo, and meet its basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishGetTrex"  >
+      Your mission is nearly complete! Just one more task to go!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishGetTrexShort"  >
+      Your mission is nearly complete! Just one more task to go!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleReleaseTrex"  >
+      Release the T. rex to the wild, and your sister zoo's troublesome T. rex gets its companion.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleReleaseTrexShort"  >
+      Release your T. rex to the wild.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishReleaseTrex"  >
+      Congratulations! By donating your Tyrannosaurus rex to your sister zoo, they were able to control their T. rex trouble and finally reopen their zoo! They sent your zoo $50,000 for all your efforts!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroublePhoto"  >
+      (Optional) Dino Discovery Monthly wants some photos for an upcoming feature on dinosaurs living in captivity. They want three photos for their article. If you photograph a dino eating, a dino playing with a prey dummy, and a dino sleeping, you get $15,000.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishPhoto"  >
+      Your pictures were just what the publishers of Dino Discovery Monthly wanted! They are pleased to pay you $15,000.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:UnlockQuagga"  >
+	Congratulations! You&apos;ve unlocked the quagga for adoption!
+	</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignshort"  >멸종 동물 탐구</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS1"  >조화롭게 살다</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS1short"  >조화롭게 살다</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS2"  >곤란한 방법</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS2short"  >곤란한 방법</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS3"  >티렉스 문제</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS3short"  >티렉스 문제</LOC_STRING>
+   
+</ZT2Strings>

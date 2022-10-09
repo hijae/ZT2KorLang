@@ -1,0 +1,31 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffactions:GiveTreat"  >%s에게 먹이를 주고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:ConductShow"  >공연을 지휘하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitShow"  >다음 공연을 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:PreShow"  >다음 공연을 준비하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:PostShow"  >공연 뒤처리를 하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoTrain"  >%s을(를) 훈련시키러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_Animal"  >%s을(를) 훈련시키고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Waiting"  >%s을(를) 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_Jump"  >%s에게 점프 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_JumpFallSide"  >%s에게 수직 점프 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_StraightUpJump"  >%s에게 점프 후 옆으로 떨어지기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_DiveJump"  >%s에게 다이빙 점프 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_FlipForward"  >%s에게 앞 공중제비 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_FlipBack"  >%s에게 뒤 공중제비 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_FlipperSplash"  >%s에게 지느러미로 물 튀기기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_Spyhop"  >%s에게 머리 들기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_TailSplash"  >%s에게 꼬리로 물 튀기기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_CorkscrewTwist"  >%s에게 비틀기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_RamOutOfWater"  >%s에게 들이받기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_WaterWalk"  >%s에게 서서 걷기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_Squirt"  >%s에게 물 뿜기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_JumpHoop"  >%s에게 후프 점프 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_NudgeBall"  >%s에게 공 치기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Train_JumpFlukeSwipeTetherBall"  >%s에게 테더볼 치기 묘기를 가르치고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:tankgate"  >사다리를 오르려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:sitonbleacher"  >%s에 앉으려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:getoffbleacher"  >%s에서 나가려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:sitonplatform"  >%s에 앉으려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:getoffplatform"  >%s에서 나가려면 스페이스바를 누르세요.</LOC_STRING>
+</ZT2Strings>

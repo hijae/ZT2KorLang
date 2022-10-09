@@ -1,0 +1,24 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname" version="2" />
+      <LOC_STRING _locID="entityname:Terrain_Insects" version="2"  >곤충</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Insects_stt" version="2"  >곤충</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Insects_lower" version="2"  >곤충</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Insects_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            곤충
+         </color>
+         <br/>
+         곤충을 선택하고 적당한 위치에 놓으세요. 땅돼지와 미어캣의 주식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick" version="2"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_stt" version="2"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_lower" version="2"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_ltt" version="2"  >
+         <color r="255" g="248" b="178">
+            소금 덩어리
+         </color>
+         <br/>
+         소금 덩어리를 선택하고 적당한 위치에 놓으세요. 말 등의 유제류가 좋아합니다.
+      </LOC_STRING>
+   
+</ZT2Strings>

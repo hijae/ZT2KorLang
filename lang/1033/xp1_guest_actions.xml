@@ -1,0 +1,21 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestactions:GoDanceMusicalRock"  >%s 옆에서 춤을 추러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:DanceMusicalRock"  >%s 옆에서 춤을 추고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoTossCoinFountain"  >%s에 동전을 던지러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:TossCoinFountain"  >%s에 동전을 던지고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:EmbarrasedBathroom"  >화장실을 가려고 합니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:LaughBathroom"  >%s을(를) 보고 웃고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:TalkPuppet"  >%s에게 말하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoTour"  >동물원 투어를 이용하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:MimicAnimal"  >%s의 흉내를 내고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:EvadeVehicle"  >%s을(를) 피하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoTalk"  >%s과(와) 이야기하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:HappyTalk"  >%s과(와) 함께 축하하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:Talk"  >%s과(와) 이야기하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:Complain"  >%s에게 불평하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoUseFacePaint"  >%s로 페이스 페인팅을 하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:UseFacePaint"  >%s에서 페이스 페인팅을 하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:UseHeadphoneKiosk"  >헤드폰을 구입하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoToSkytower"  >%s을(를) 타러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:UseSkytower"  >%s을(를) 타고 있습니다.</LOC_STRING>               
+</ZT2Strings>

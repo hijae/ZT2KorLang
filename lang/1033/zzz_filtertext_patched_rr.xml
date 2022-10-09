@@ -1,0 +1,16 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="FilterText:biome_alpine" version="9"  >고산</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_benthic" version="9"  >해저</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_borealforest" version="9"  >북방림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_coastal" version="9"  >연안</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_desert" version="9"  >사막</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_grassland" version="9"  >초원</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_reef" version="9"  >암초</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_pelagic" version="9"  >원양</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_savannah" version="9"  >사바나</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_scrub" version="9"  >관목림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_temperateforest" version="9"  >온대림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_tropicalrainforest" version="9"  >열대우림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_tundra" version="9"  >툰드라</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_wetlands" version="9"  >습지대</LOC_STRING>
+</ZT2Strings>

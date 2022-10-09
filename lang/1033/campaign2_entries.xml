@@ -1,0 +1,121 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:intro"  >코끼리 무리 추가</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:overview"  >
+         
+         
+         
+         
+                  시론지아 왕국에서는 너무 많은 코끼리로 인해 어려움을 겪자 어쩔 수 없이 상당수의 아프리카 코끼리를 추려서 도살할 계획이었지만 가장 적합한 주거 환경을 제공하는 동물원에 코끼리를 기증하기로 결정했습니다. 방금 아프리카 코끼리 한 마리가 상자에 실려 동물원의 정문에 도착했습니다.          
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+                  코끼리를 위한 야생 우리를 조성하고 코끼리의 기본적인 생활 조건을 만족시켜야 합니다.          코끼리를 제대로 관리할 수 있다는 것을 증명하면 수컷과 암컷을 합쳐 3마리 이상의 코끼리를          더 기증받아 동물원에서 새끼를 낳게 할 수 있습니다.     
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:overviewshort"  >         시론지아 왕국에서는 코끼리가 너무 많아 상당한 수의 아프리카 코끼리를 추려서          죽일 예정이었습니다만 그러나 그 대신 가장 적합한 주거 환경을 제공하는          동물원에 기증하기로 결정했습니다. 이 캠페인의 모든 시나리오를 마치면 해시계를 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:elephantpart1successoverview"  >         시론지아 왕국에서 나머지 아프리카 코끼리를 기꺼이 기증했습니다. 코끼리는 곧 동물원에 도착할 것입니다. 국제 동물 복지 단체(ISAW)가 주거지 환경을 감시할 예정이며 코끼리의 기본적인 생활 조건을 만족시키지 못할 경우에는 코끼리를 회수하여 다른 동물원에 기증할 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:result"  >코끼리 무리가 동물원에 추가되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:adoptelephant"  >아프리카 코끼리를 수용할 수 있는 우리를 만들어서 코끼리를 풀어 놓아야 합니다. 코끼리에게 맞는 환경을 조성해 주세요.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishadoptelephant"  >좋습니다! 새 코끼리가 우리를 마음에 들어하는 것 같습니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:meetneeds"  >코끼리에게 적합한 우리를 만들었으니 이제 기본적인 생활 조건을 만족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishmeetneeds"  >훌륭합니다! 아프리카 코끼리의 기본적인 생활 조건을 만족시켰습니다!</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:adoptfourelephants"  >상자에 실린 코끼리 세 마리를 우리에 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishadoptfourelephants"  >좋습니다! 새 코끼리를 모두 상자에서 풀어 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:meetenvironmentfourelephants"  >우리의 환경이 코끼리 네 마리에게 적합해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishmeetenvironmentfourelephants"  >코끼리 네 마리에 적합한 환경을 조성했습니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:meetallneeds"  >코끼리를 돌보고 모든 생활 조건을 만족시키도록 노력하세요. 3개월 후 코끼리 상태에 대한 평가가 있습니다.     </LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishmeetallneeds"  >4마리의 아프리카 코끼리를 잘 보살폈습니다! 이제 이 코끼리들은 동물원 소유가 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:failedmeetneedsoverview"  >불행히도 국제 동물 복지 단체(ISAW)는 우리 동물원이 아프리카 코끼리 무리를 제대로 관리할 능력이 없다고 판단했습니다. 코끼리는 다른 동물원에 기증될 것입니다.     </LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:failedmeetneeds"  >코끼리가 제대로 된 관리를 받지 못하여 다른 동물원으로 보내졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioGoals:finishmeetneedsoverview"  >국제 동물 복지 단체(ISAW)는 우리 동물원이 아프리카 코끼리 무리를 잘 돌볼 수 있을 만큼의 시설을 갖춘 것에 대해 만족했습니다. 코끼리는 계속 동물원에 남아 있을 것이며 알맞은 주거지가 필요한 다른 동물이 생길 경우 국제 동물 복지 단체에서 우리 동물원으로 연락할 것입니다.      </LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelintro"  >보살핌을 제대로 받지 못한 동물</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Crueloverview"  >
+         
+         
+         
+         
+                  북아메리카의 한 동물원이 규정에 맞지 않고          제대로 관리되지 않은 환경에서 운영되고 있습니다. 이 동물원에서 동물을 학대한다는 제보가 있어          결국 공식적인 조사가 이루어졌습니다. 그 결과 이 동물원은          잘못 설계되었을 뿐만 아니라 제대로 관리되고 있지도 않아 동물들이          육체적으로나 정신적으로 안정을 취하지 못했습니다. 이렇게 보살핌을 제대로 받지 못한 동물들에게는          재활 관리가 필요합니다.        
+         
+         
+        
+         
+         <p/>
+         
+         
+         
+         
+                  우리 동물원은 이제껏 작은 동물들만 수용해 왔지만 근처 동물원 중 유일하게 빈 땅을 가지고 있습니다. 상황이 워낙 긴급하기 때문에 이 동물들을 수용할 수 있는 곳은 우리 동물원밖에 없습니다. 
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+          얼룩말 무리와 사자 무리가 도착했습니다. 이 두 종류의 동물을 수용할 수 있을 만한 우리를 만들고, 질병을 치료한 다음, 기본적인 생활 조건을 보살펴 줘야 합니다.     
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Crueloverviewshort"  >         한 동물원에서 동물을 학대한다는 제보가 들어옴에 따라          공식적인 조사가 시작되었고 결국, 그 동물원은 동물들을 몰수 당하게 되었습니다.          올바른 보살핌을 받지 못한 이 동물들을 우리 동물원에서 관리해야 합니다. 이 캠페인의 모든 시나리오를 마치면 해시계를 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelsuccessoverview"  >동물들을 훌륭하게 보살폈습니다. 또한 이 동물들을 학대한 동물원이 영구적으로 폐쇄되는 바람에 또 다른 동물들이 이곳에 도착했습니다! 덕분에 $8,000의 지원금을 받았습니다.     </LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelresult"  >학대받았던 동물들의 건강 상태가 다시 좋아졌습니다!</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelaccomodatezebras"  >6마리의 얼룩말을 수용할 수 있는 우리를 만들어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelaccomodatelions"  >8마리의 사자를 수용할 수 있는 우리를 만들어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelmeetneeds"  >동물들의 질병을 치료하고 기본적인 생활 조건을 만족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:finishCruelaccomodatezebras"  >얼룩말 6마리에게 적합한 우리가 제공되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:finishCruelaccomodatelions"  >사자 8마리에게 적합한 우리가 제공되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:finishCruelmeetneeds"  >모든 동물의 질병이 치료되었고 기본적인 생활 조건을 만족시켰습니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:Cruelaccomodatechimps"  >침팬지 7마리에게 적합한 우리를 만들고 질병을 치료한 다음 기본적인 생활 조건을 만족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:finishCruelaccomodatechimps"  >침팬지가 잘 자라고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:failedCruelscenario"  >%s이(가) 죽었습니다! 학대받던 동물 모두가 다른 동물원으로 이송되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:failedCruelscenariooverview"  >%s이(가) 죽었습니다! 동물을 적절하게 관리할 능력이 없는 것으로 보입니다. 아직 살아있는 동물은 새로운 동물원으로 보내졌습니다. 그 곳에서 더 나은 보살핌을 받을 수 있기를 바랄 뿐입니다.     </LOC_STRING>
+      <LOC_STRING _locID="CruelConditions:finishCruelscenariooverview"  >축하합니다! 다른 동물원에서 학대받다가 보내진 동물들이 이곳에서는 제대로 된 보살핌을 받았습니다. 야생 동물 보호 단체로부터 동물 학대 방지 노력을 인정 받았습니다.     </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingintro"  >밀수 조직 적발</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingoverview"  >         당국은 멸종 위기 동물을 불법적으로 거래하는 국제 밀수 조직을 적발해 냈습니다. 현장 단속을 통해 많은 동물들을 찾았냈지만 보호할 시설이 절대적으로 부족한 상황입니다. 필요한 우리를 신속하게 건설할 수만 있으면 여러 마리의 멸종 위기 동물을 보유할 수 있을 것입니다. 또한 당국으로부터 전달 받은 동물들이 환경에 만족하고 잘 지낼 수 있도록 보살핀다면 다른 동물들을 정기적으로 전달 받게 될 것입니다. 하지만 전달 받은 동물을 제대로 보살피지 않는다고 보고되는 즉시 다른 동물의 이송은 중지될 것입니다. 반드시 제대로 된 서식 환경과 충분한 공간의 우리를 만들어 주어야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingoverviewshort"  >         당국은 최근 멸종 위기 동물을 불법적으로 거래하는 국제 밀수 조직을 적발해          냈습니다. 많은 동물들을 되찾았으나 보호할 시설이 절대 부족한 상황입니다.           신속하게 움직이면 멸종 위기 동물을 여러 마리 보유할 수 있는 기회입니다. 이 캠페인의 모든 시나리오를 마치면 해시계를 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingFailureoverview"  >애석하게도 %s의 환경 조건을 충족시키지 못했습니다. 우리가 너무 작을뿐 아니라 서식 환경도 적절하지 못했습니다. 당국은 다른 해결 방법을 찾아봐야 할 것입니다.       </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingPart1Successoverview"  >대규모 밀수 조직으로부터 구출한 모든 동물을 수용하는 데 성공했습니다. 이 놀라운 성과 덕분에 더 이상 멸종 위기 동물들이 암시장에서 거래되는 일은 없을 것입니다.     </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingresult"  >밀수 조직이 적발되었습니다! 모든 동물이 구출되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingRedKangaroo"  >시간이 급합니다! 우리를 만들어 붉은 캥거루를 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingRedKangarooOK"  >붉은 캥거루가 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingBengalTiger"  >새로운 동물을 받았습니다! 우리를 만들어 벵골 호랑이를 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingBengalTigerOK"  >벵골 호랑이가 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingGrizzlyBear"  >또 다른 동물을 받았습니다! 우리를 만들어 회색곰을 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingGrizzlyBearOK"  >회색곰이 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingGorilla"  >또 다른 동물을 받았습니다! 우리를 만들어 고릴라를 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingGorillaOK"  >고릴라가 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingRhino"  >새로운 동물을 받았습니다! 우리를 만들어 검은코뿔소를 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingRhinoOK"  >검은코뿔소가 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingElephant"  >새로운 동물을 받았습니다! 이제 남은 동물도 얼마 되지 않습니다! 우리를 만들어 아프리카 코끼리를 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingElephantOK"  >아프리카 코끼리가 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingSnowLeopard"  >마지막 동물을 받았습니다! 우리를 만들어 눈표범을 풀어 놓아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingSnowLeopardOK"  >눈표범이 주위 환경에 만족해합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingNeedPoints"  >마지막 동물을 받을 때까지 모든 동물을 잘 보살피고 생활 조건을 충족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingNeedPointsDone"  >        축하합니다! 모든 동물에게 적합한 우리를 마련했으며 새 동물이 계속해서 도착했음에도 불구하고         모든 동물이 만족할 수 있도록 잘 보살폈습니다.     </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingAnimalUnhappy"  >동물 한 마리가 보살핌을 잘 받지 못했거나 환경이 알맞지 않았습니다. 더 이상 동물을 받을 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingAnimalDeath"  >동물 한 마리가 죽었습니다! 계속해서 보내져 온 동물들을 제대로 관리하지 못했습니다!</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingPart2overview"  >        보내온 동물들은 밀수 조직으로부터 몰수한 것으로서 사냥 금지 구역에서         잡혔을 가능성이 크며 대부분 새끼 때부터 어미와 떨어져         자랐을 것입니다. 이런 동물들을 야생으로 되돌려보낼 수 있다면         엄청난 성과일 것입니다. 협력 단체에서 추가로 동물을 보내온 덕분에         동물들이 친구를 갖게 될 것입니다. 동물들을 다시 야생으로 돌려보낼 수 있도록        추가적인 생활 조건을 만족시켜야 합니다.     </LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingMeedAdvancedNeeds"  >추가적인 생활 조건을 만족시켜서 야생으로 돌려보내야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingMeedAdvancedNeedsDone"  >여러 멸종 위기 동물들을 야생으로 돌려보냈습니다!</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRing:SmugglingRingPart2Successoverview"  >축하합니다! 국제 밀수 조직으로부터 구출된 동물을 각 종별로 야생으로 돌려보내는 데 성공했습니다. 이 노력은 전 세계의 모든 동물 보호론자들로부터 칭찬을 받았습니다. 노력에 대한 대가로 이 업적의 영원함을 상징하는 기념 해시계를 받았습니다. 앞으로는 해시계를 사용할 수 있습니다.     </LOC_STRING>
+      <LOC_STRING _locID="Camp2introlabel:Camp2intro"  >동물 학대 방지</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioLabels:C2S1"  >아프리카 코끼리 구출</LOC_STRING>
+      <LOC_STRING _locID="ElephantHerdScenarioLabels:C2S1short"  >아프리카 코끼리 구출</LOC_STRING>
+      <LOC_STRING _locID="CruelConditionsLabels:C2S2"  >잔혹한 학대</LOC_STRING>
+      <LOC_STRING _locID="CruelConditionsLabels:C2S2short"  >잔혹한 학대</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRingLabels:C2S3"  >밀수 조직 적발</LOC_STRING>
+      <LOC_STRING _locID="SmugglingRingLabels:C2S3short"  >밀수 조직 적발</LOC_STRING>
+</ZT2Strings>

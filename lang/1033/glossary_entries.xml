@@ -1,0 +1,235 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_biomedef:entry">서식 환경 정의</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomedef:text">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+                  
+                  
+                  
+                  
+                  
+         생물 분포대라고도 하는 서식 환경은 모든 동식물과 기타 미생물은 물론 특정 지역의 물리적 환경에 의해 정의되기도 합니다. 
+         서식 환경의 특징은 해당 위치의 기후적 조건, 위도와 고도에 의해 결정되는 식물 생장에 따라 달라집니다. 
+         예를 들어 북극에 가까운 북아메리카와 아시아 지역에는 북방림이 존재하지만 
+         그보다 더 북쪽은 기후가 황량하고 계절이 너무 짧아서 나무가 자랄 수 없습니다. 
+         이러한 지역에는 나무 대신 툰드라 지대의 짧은 초목이 많이 자랍니다. 고도에 따라서도 같은 현상이 발생하여 높은 산악 지역에서는 나무 대신 
+         짧은 고산 식물이 많습니다.
+        
+                  
+                  
+                  
+                  
+                  <br/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+         서식 환경은 여러 생태계로 구성되어 있습니다. 생태계는 동물 군집과 식물 군락, 그리고 이들의 서식지(동식물에게 영향을 미치는 물리적 환경)를 
+         나타내는 말입니다. 서식 환경의 경계는 기후로 결정되는 반면 생태계의 경계는 
+         산마루, 강둑 등과 같이 군집을 서로 분리해 놓는 물리적 특징으로 결정됩니다. 
+         동일 서식 환경 내의 생태계에서는 식물의 성장 형태와 동물의 습성이 서로 비슷합니다.
+         
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+         주요 육지 서식 환경으로는 고산, 
+         
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_tropicalrainforest:entry">
+                     <u>
+                        <color r="255" g="231" b="135">열대우림</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+         , 북방림, 온대림, 툰드라, 사막, 초원,
+         
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_savannah:entry">
+                     <u>
+                        <color r="255" g="231" b="135">사바나</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+         와 관목 지대가 있습니다. 반드시 해양 환경과 연관된 것은 아니지만, 생태학자들이 서식 환경이라는 용어를 연해 분포대(대륙붕), 
+         심해 분포대(공해), 해저 분포대(바다 바닥) 등 해양 생물 분포대를 설명하는 데 
+         사용하는 경우도 있습니다.
+         
+                  
+                  
+                  
+                  
+                  <p/>
+                  <p/>
+                  
+                  
+                  
+                  
+                     
+					내용 출처 
+					
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_encarta:entry">
+                     <u>
+                        <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+					(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         
+               
+               
+               
+               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichmentdef:entry">동물 장난감의 정의</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichmentdef:text">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+                  
+                  
+                  
+                  
+  		세계적인 동물원의 사육사들과 동물 전문가들은 동물들이 주변 환경에 대해 호기심을 가지고 활기차게 생활할 수 있도록 도와주는 동물 장난감을 개발하는 데 많은 노력과 시간을 투자합니다.
+		
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+동물 장난감은 자연 상태에서의 사냥과 먹이 섭취 습관에 근접하도록 만드는데 초점을 맞추게 됩니다. 예를 들어, 나무 열매 조각을 나무막대와 찢어진 종이가 들어있는 상자에 숨겨 놓은 상태로 침팬지에게 주면 호기심 많은 침팬지는 열매를 찾는 과정을 재미있게 즐기면서 간식을 먹게 됩니다.
+		
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+사자에게 영양 모양의 그릇에 고기를 담아서 주면 단순하게 고기만 주는 것이 비해서 먹이를 먹는 과정에 훨씬 흥미를 느끼게 됩니다.
+		
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+동물 장난감에는 동물들이 안락한 보금자리를 만들 수 있는 많은 재료들도 포함되어 있습니다. 사바나 동물에게 온열 바위를 보금자리로 만들어 주면 동물들이 마치 고향에 있는 것처럼 따뜻하고 안락하게 쉴 수 있습니다.
+         
+               
+               
+               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_encarta:entry">Encarta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_encarta:text">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+                  
+                  
+                  
+                  
+                  
+  		Encarta Reference Library 2004 
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+		필요한 모든 도구를 한 제품 안에!
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                    		
+		Microsoft Encarta Reference Library는 가족 모두가 참조할 수 있는 
+		훌륭한 백과 사전입니다. 다양한 최신 콘텐츠, 학습 도구와 
+		최신 멀티미디어를 활용할 수 있습니다.
+		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+		자세한 내용을 보려면 다음 사이트를 방문하세요.
+  		
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                     http://www.microsoft.com/products/encarta/
+               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

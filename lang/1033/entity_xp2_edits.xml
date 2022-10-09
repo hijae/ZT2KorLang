@@ -1,0 +1,28 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname" version="6" />
+      <LOC_STRING _locID="entityname:atm_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            현금 인출기
+         </color>
+         <br/>
+         
+         
+         현금 인출기를 설치합니다. 돈이 떨어진 관람객들은 현금 인출기에서 돈을 더 찾습니다.
+ 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:concrete_path_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            콘크리트길
+         </color>
+         <br/>
+         
+         
+         콘크리트길을 만듭니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:InsectKiosk_stt" version="6"  >곤충 전시관</LOC_STRING>
+    
+</ZT2Strings>

@@ -1,0 +1,1712 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname:TestObject"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_stt"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_lower"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:TestObject_ltt"  >
+         <color r="255" g="248" b="178">
+            테스트 아이템
+         </color>
+         <br/>
+         테스트 아이템을 선택하고 적당한 위치에 놓습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_stt"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_lower"  >테스트 아이템</LOC_STRING>
+      <LOC_STRING _locID="entityname:ObjectCrate_df_ltt"  >
+         <color r="255" g="248" b="178">
+            테스트 아이템
+         </color>
+         <br/>
+         테스트 아이템을 선택하고 적당한 위치에 놓습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec"  >페넥여우</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_stt"  >페넥여우</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_lower"  >페넥여우</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_ltt"  >
+         <color r="255" g="248" b="178">
+            페넥여우
+         </color>
+         <br/>
+         페넥여우를 선택하고 적당한 우리에 넣어 주세요. 사막 환경에 적응해 사는 여우입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled"  >안경곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_stt"  >안경곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_lower"  >안경곰</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_ltt"  >
+         <color r="255" g="248" b="178">
+            안경곰
+         </color>
+         <br/>
+         안경곰을 선택하고 적당한 우리에 넣어 주세요. 나무 위에 살며 눈 둘레에 안경 모양의 테가 둘러진 초식 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned"  >굽은뿔오릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_stt"  >굽은뿔오릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_lower"  >굽은뿔오릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_ltt"  >
+         <color r="255" g="248" b="178">
+            굽은뿔오릭스
+         </color>
+         <br/>
+         굽은뿔오릭스를 선택하고 적당한 우리에 넣어 주세요. 사막을 떠돌며 사는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican"  >아메리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_stt"  >아메리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_lower"  >아메리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_ltt"  >
+         <color r="255" g="248" b="178">
+            아메리카들소
+         </color>
+         <br/>
+         아메리카들소를 선택하고 적당한 우리에 넣어 주세요. 한때 북미 대륙을 떼 지어 다니며 살던 몸집이 큰 소입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida"  >플로리다퓨마</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_stt"  >플로리다퓨마</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_lower"  >플로리다퓨마</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_ltt"  >
+         <color r="255" g="248" b="178">
+            플로리다퓨마
+         </color>
+         <br/>
+         플로리다퓨마를 선택하고 적당한 우리에 넣어 주세요. 습지에 서식하는 멸종 위기 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_stt"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_lower"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_ltt"  >
+         <color r="255" g="248" b="178">
+            자바코뿔소
+         </color>
+         <br/>
+         자바코뿔소를 선택하고 적당한 우리에 넣어 주세요. 갑옷과 같은 피부를 가졌으며 혼자 살아갑니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_stt"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_lower"  >베어드테이퍼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_ltt"  >
+         <color r="255" g="248" b="178">
+            베어드테이퍼
+         </color>
+         <br/>
+         베어드테이퍼를 선택하고 적당한 우리에 넣어 주세요. 중앙 아메리카에 서식하는 유제류로서 개체 수가 줄어 위험 수준에 이른 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou"  >순록</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_stt"  >순록</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_lower"  >순록</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_ltt"  >
+         <color r="255" g="248" b="178">
+            순록
+         </color>
+         <br/>
+         순록을 선택하고 적당한 우리에 넣어 주세요. 카리부라고도 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant"  >자이언트세이블영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_stt"  >자이언트세이블영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_lower"  >자이언트세이블영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_ltt"  >
+         <color r="255" g="248" b="178">
+            자이언트세이블영양
+         </color>
+         <br/>
+         자이언트세이블영양을 선택하고 적당한 우리에 넣어 주세요. 몸집이 크고 공격적인 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine"  >울버린</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_stt"  >울버린</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_lower"  >울버린</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_ltt"  >
+         <color r="255" g="248" b="178">
+            울버린
+         </color>
+         <br/>
+         울버린을 선택하고 적당한 우리에 넣어 주세요. 몸집이 작은 오소리과 동물로 게걸스럽게 먹는 습관이 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala"  >코알라</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_stt"  >코알라</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_lower"  >코알라</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_ltt"  >
+         <color r="255" g="248" b="178">
+            코알라
+         </color>
+         <br/>
+         코알라를 선택하고 적당한 우리에 넣어 주세요. 코알라는 오스트레일리아의 대표적인 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray"  >회색늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_stt"  >회색늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_lower"  >회색늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_ltt"  >
+         <color r="255" g="248" b="178">
+            회색늑대
+         </color>
+         <br/>
+         회색늑대를 선택하고 적당한 우리에 넣어 주세요. 회색늑대는 이리라고도 불립니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan"  >오랑우탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_stt"  >오랑우탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_lower"  >오랑우탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_ltt"  >
+         <color r="255" g="248" b="178">
+            오랑우탄
+         </color>
+         <br/>
+         오랑우탄을 선택하고 적당한 우리에 넣어 주세요. 오랑우탄은 동남아시아 지역에 서식하는 영장류로서 개체 수가 줄어 위험 수준에 이른 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican"  >리카온</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_stt"  >리카온</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_lower"  >리카온</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_ltt"  >
+         <color r="255" g="248" b="178">
+            리카온
+         </color>
+         <br/>
+         리카온을 선택하고 적당한 우리에 넣어 주세요. 털에 독특한 무늬가 있는 것이 특징인 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested"  >긴팔원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_stt"  >긴팔원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_lower"  >긴팔원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_ltt"  >
+         <color r="255" g="248" b="178">
+            긴팔원숭이
+         </color>
+         <br/>
+         긴팔원숭이를 선택하고 적당한 우리에 넣어 주세요. 긴팔원숭이는 아시아 지역에 서식하는 영장류로서 개체 수가 줄어 위험 수준에 이른 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild"  >프셰발스키말</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_stt"  >프셰발스키말</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_lower"  >프셰발스키말</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_ltt"  >
+         <color r="255" g="248" b="178">
+            프셰발스키말
+         </color>
+         <br/>
+         프셰발스키말을 선택하고 적당한 우리에 넣어 주세요. 프셰발스키말은 중앙 아시아 지역에 서식하는 유제류로서 멸종 위기 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon"  >코모도왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_stt"  >코모도왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_lower"  >코모도왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_ltt"  >
+         <color r="255" g="248" b="178">
+            코모도왕도마뱀
+         </color>
+         <br/>
+         코모도왕도마뱀을 선택하고 적당한 우리에 넣어 주세요. 코모도왕도마뱀은 현존하는 도마뱀 중 몸집이 가장 큽니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor"  >마코르염소</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_stt"  >마코르염소</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_lower"  >마코르염소</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_ltt"  >
+         <color r="255" g="248" b="178">
+            마코르염소
+         </color>
+         <br/>
+         마코르염소를 선택하고 적당한 우리에 넣어 주세요. 마코르염소는 행동이 민첩한 고산 지대 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish"  >스페인스라소니</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_stt"  >스페인스라소니</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_lower"  >스페인스라소니</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_ltt"  >
+         <color r="255" g="248" b="178">
+            스페인스라소니
+         </color>
+         <br/>
+         스페인스라소니를 선택하고 적당한 우리에 넣어 주세요. 스페인 스라소니는 멸종 위기의 고양이과 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos"  >갈라파고스코끼리거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_stt"  >갈라파고스코끼리거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_lower"  >갈라파고스코끼리거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_ltt"  >
+         <color r="255" g="248" b="178">
+            갈라파고스코끼리거북
+         </color>
+         <br/>
+         갈라파고스코끼리거북을 선택하고 적당한 우리에 넣어 주세요. 외딴 갈라파고스군도에 서식하며 개체 수가 줄어 위험 수준에 이른 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg"  >갈라파고스코끼리거북 알</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_stt"  >갈라파고스코끼리거북 알</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_lower"  >갈라파고스코끼리거북 알</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Egg_ltt"  >
+         <color r="255" g="248" b="178">
+            갈라파고스코끼리거북 알
+         </color>
+         <br/>
+         갈라파고스코끼리거북 알을 선택하고 적당한 우리에 넣어 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine"  >씨홀리</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_stt"  >씨홀리</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_lower"  >씨홀리</LOC_STRING>
+      <LOC_STRING _locID="entityname:AlpineSeaHolly_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            씨홀리
+         </color>
+         <br/>
+         씨홀리를 선택하고 적당한 위치에 심으세요. 씨홀리는 멸종할 위험에 처한 파란색의 아름다운 꽃입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine"  >상록참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_stt"  >상록참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_lower"  >상록참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:EvergreenOak_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            상록참나무
+         </color>
+         <br/>
+         상록참나무를 선택하고 적당한 위치에 심으세요. 상록참나무는 크고 단단한 수종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal"  >자이언트세쿼이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_stt"  >자이언트세쿼이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_lower"  >자이언트세쿼이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantSequoia_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            자이언트세쿼이아
+         </color>
+         <br/>
+         자이언트세쿼이아를 선택하고 적당한 위치에 심으세요. 자이언트세쿼이아는 지구상에서 가장 큰 생물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert"  >조슈아나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_stt"  >조슈아나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_lower"  >조슈아나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:JoshuaTree_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            조슈아나무
+         </color>
+         <br/>
+         조슈아나무를 선택하고 적당한 위치에 심으세요. 조슈아나무는 북아메리카 서부 지역 원산의 가시가 많은 유카나무입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal"  >분홍개불알꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_stt"  >분홍개불알꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_lower"  >분홍개불알꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:PinkLadySlipper_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            분홍개불알꽃
+         </color>
+         <br/>
+         분홍개불알꽃을 선택하고 적당한 위치에 심으세요. 분홍개불알꽃은 온대 지역에 서식하는 난초입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate"  >푸이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_stt"  >푸이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_lower"  >푸이아</LOC_STRING>
+      <LOC_STRING _locID="entityname:PuyaPlant_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            푸이아
+         </color>
+         <br/>
+         푸이아를 선택하고 적당한 위치에 심으세요. 푸이아는 남아메리카가 원산으로 안경곰이 좋아하는 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland"  >가시참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_stt"  >가시참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_lower"  >가시참나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BurOak_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            가시참나무
+         </color>
+         <br/>
+         가시참나무를 선택하고 적당한 위치에 심으세요. 가시참나무는 초원 지대에서 흔히 볼 수 있는 나무입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub"  >페더탑그래스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_stt"  >페더탑그래스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_lower"  >페더탑그래스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeathertopWiregrass_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            페더탑그래스
+         </color>
+         <br/>
+         페더탑그래스를 선택하고 적당한 위치에 심으세요. 페더탑그래스는 오스트레일리아에서 흔히 볼 수 있는 식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert"  >금호</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_stt"  >금호</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_lower"  >금호</LOC_STRING>
+      <LOC_STRING _locID="entityname:GoldenBarrelCactus_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            금호
+         </color>
+         <br/>
+         금호를 선택하고 적당한 위치에 심으세요. 야생에서 자라는 금호는 수집가들 때문에 멸종할 위험에 처해 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah"  >솔새</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_stt"  >솔새</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_lower"  >솔새</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedOatGrass_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            솔새
+         </color>
+         <br/>
+         솔새를 선택하고 적당한 위치에 심으세요. 솔새는 아프리카와 오스트레일리아의 사바나 지역에 많이 서식하는 식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub"  >셰퍼즈나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_stt"  >셰퍼즈나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_lower"  >셰퍼즈나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShepardsTree_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            셰퍼즈나무
+         </color>
+         <br/>
+         셰퍼즈나무를 선택하고 적당한 위치에 심으세요. 셰퍼즈나무는 아프리카에서 흔히 볼 수 있는 나무입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah"  >옐로우이페나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_stt"  >옐로우이페나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_lower"  >옐로우이페나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowIpeTree_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            옐로우이페나무
+         </color>
+         <br/>
+         옐로우이페나무를 선택하고 적당한 위치에 심으세요. 옐로우이페나무는 남아메리카의 열대우림 정글에서 흔히 볼 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate"  >레이디고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_stt"  >레이디고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_lower"  >레이디고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LadyFern_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            레이디고사리
+         </color>
+         <br/>
+         레이디고사리를 선택하고 적당한 위치에 심으세요. 레이디고사리는 온대림에서 흔히 볼 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland"  >큰쇠풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_stt"  >큰쇠풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_lower"  >큰쇠풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigBluestem_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            큰쇠풀
+         </color>
+         <br/>
+         큰쇠풀을 선택하고 적당한 위치에 심으세요. 큰쇠풀은 초원에서 3미터까지 자라는 풀입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub"  >프리클리페어선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_stt"  >프리클리페어선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_lower"  >프리클리페어선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:PricklyPearCactus_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            프리클리페어선인장
+         </color>
+         <br/>
+         프리클리페어선인장을 선택하고 적당한 위치에 심으세요. 프리클리페어선인장은 갈라파고스코끼리거북이 좋아하는 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest"  >씨디안램</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_stt"  >씨디안램</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_lower"  >씨디안램</LOC_STRING>
+      <LOC_STRING _locID="entityname:ScythianLamb_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            씨디안램
+         </color>
+         <br/>
+         씨디안램을 선택하고 적당한 위치에 심으세요. 씨디안램은 아시아 지역에서 전통 약재로 사용되는 식물로 멸종할 위험에 처해 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest"  >두리안나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_stt"  >두리안나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_lower"  >두리안나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianTree_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            두리안나무
+         </color>
+         <br/>
+         두리안나무를 선택하고 적당한 위치에 심으세요. 두리안나무에는 맛은 좋지만 냄새가 고약한 열매가 열립니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra"  >링건베리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_stt"  >링건베리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_lower"  >링건베리</LOC_STRING>
+      <LOC_STRING _locID="entityname:LingonBerry_Tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            링건베리
+         </color>
+         <br/>
+         링건베리를 선택하고 적당한 위치에 심으세요. 링건베리는 크렌베리의 일종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands"  >녹색벌레잡이식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_stt"  >녹색벌레잡이식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_lower"  >녹색벌레잡이식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:GreenPitcherPlant_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            녹색벌레잡이식물
+         </color>
+         <br/>
+         녹색벌레잡이식물을 선택하고 적당한 위치에 심으세요. 녹색벌레잡이식물은 곤충을 잡아 삼키는 식물로 멸종 위험에 처해 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra"  >래브라도차</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_stt"  >래브라도차</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_lower"  >래브라도차</LOC_STRING>
+      <LOC_STRING _locID="entityname:LabradorTea_Tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            래브라도차
+         </color>
+         <br/>
+         래브라도차를 선택하고 적당한 위치에 심으세요. 래브라도차는 흔히 볼 수 있는 관목입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate"  >시드니블루검나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_stt"  >시드니블루검나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_lower"  >시드니블루검나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:SydneyBlueGum_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            시드니블루검나무
+         </color>
+         <br/>
+         시드니블루검나무를 선택하고 적당한 위치에 심으세요. 시드니블루검나무는 유칼립투스나무의 일종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands"  >페레팻나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_stt"  >페레팻나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_lower"  >페레팻나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:PerepatTree_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            페레팻나무
+         </color>
+         <br/>
+         페레팻나무를 선택하고 적당한 위치에 심으세요. 페레팻나무는 맹그로브나무의 일종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus"  >나무 계단에 놓인 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_stt"  >나무 계단에 놓인 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_lower"  >나무 계단에 놓인 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            나무 계단에 놓인 유칼립투스
+         </color>
+         <br/>
+         나무 계단에 놓인 유칼립투스를 선택하고 적당한 위치에 놓으세요. 코알라가 좋아하는 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries"  >나무 계단에 놓인 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_stt"  >나무 계단에 놓인 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_lower"  >나무 계단에 놓인 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedDish_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            나무 계단에 놓인 산딸기
+         </color>
+         <br/>
+         나무 계단에 놓인 산딸기를 선택하고 적당한 위치에 놓으세요. 나무 계단은 키 큰 동물들을 위한 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries"  >산딸기를 넣은 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_stt"  >산딸기를 넣은 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_lower"  >산딸기를 넣은 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HollowLog_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            산딸기를 넣은 통나무
+         </color>
+         <br/>
+         산딸기를 넣은 통나무를 선택하고 적당한 위치에 놓으세요. 동물들은 본능적으로 통나무에 든 먹이를 꺼내 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus"  >그릇에 담긴 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_stt"  >그릇에 담긴 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_lower"  >그릇에 담긴 유칼립투스</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            그릇에 담긴 유칼립투스
+         </color>
+         <br/>
+         그릇에 담긴 유칼립투스를 선택하고 적당한 위치에 놓으세요. 그릇은 크기가 작기 때문에 자주 먹이를 채워야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries"  >그릇에 담긴 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_stt"  >그릇에 담긴 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_lower"  >그릇에 담긴 산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            그릇에 담긴 산딸기
+         </color>
+         <br/>
+         그릇에 담긴 산딸기를 선택하고 적당한 위치에 놓으세요. 그릇은 크기가 작기 때문에 자주 먹이를 채워야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus"  >유칼립투스 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_stt"  >유칼립투스 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_lower"  >유칼립투스 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Eucalyptus_ltt"  >
+         <color r="255" g="248" b="178">
+            유칼립투스 잎
+         </color>
+         <br/>
+         유칼립투스 잎을 선택하고 적당한 위치에 놓으세요. 코알라가 좋아하는 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries"  >산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_stt"  >산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_lower"  >산딸기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            산딸기
+         </color>
+         <br/>
+         산딸기를 선택하고 적당한 위치에 놓으세요. 삼림 지대 동물들이 좋아하는 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries"  >산딸기 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_stt"  >산딸기 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_lower"  >산딸기 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Berries_ltt"  >
+         <color r="255" g="248" b="178">
+            산딸기 사료
+         </color>
+         <br/>
+         산딸기 사료를 선택하고 적당한 위치에 놓으세요. 산딸기 사료는 유기물을 섞은 사료에 산딸기를 넣은 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog"  >코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_stt"  >코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_lower"  >코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_ltt"  >
+         <color r="255" g="248" b="178">
+            코끼리 통나무
+         </color>
+         <br/>
+         코끼리 통나무를 선택하고 적당한 위치에 놓으세요. 코끼리 통나무는 코끼리가 잘 가지고 놉니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_stt"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_lower"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaltLick_ltt"  >
+         <color r="255" g="248" b="178">
+            소금 덩어리
+         </color>
+         <br/>
+         소금 덩어리를 선택하고 적당한 위치에 놓으세요. 말 등의 유제류가 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall"  >사육용 공</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_stt"  >사육용 공</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_lower"  >사육용 공</LOC_STRING>
+      <LOC_STRING _locID="entityname:FeederBall_ltt"  >
+         <color r="255" g="248" b="178">
+            사육용 공
+         </color>
+         <br/>
+         사육용 공을 선택하고 적당한 위치에 놓으세요. 침팬지 등의 영장류가 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df"  >두리안</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_stt"  >두리안</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_lower"  >두리안</LOC_STRING>
+      <LOC_STRING _locID="entityname:DurianFruit_df_ltt"  >
+         <color r="255" g="248" b="178">
+            두리안
+         </color>
+         <br/>
+         두리안을 선택하고 적당한 위치에 놓으세요. 가시가 많고 냄새가 강한 열매로 오랑우탄이 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing"  >타이어 그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_stt"  >타이어 그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_lower"  >타이어 그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:TireSwing_ltt"  >
+         <color r="255" g="248" b="178">
+            타이어 그네
+         </color>
+         <br/>
+         타이어 그네를 선택하고 적당한 위치에 놓으세요. 영장류가 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end"  >호랑이 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_stt"  >호랑이 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_lower"  >호랑이 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatClimber_end_ltt"  >
+         <color r="255" g="248" b="178">
+            호랑이 바위
+         </color>
+         <br/>
+         호랑이 바위를 선택하고 적당한 위치에 놓으세요. 큰 고양이과 동물이 올라가 쉬거나 가려운 곳을 긁는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small"  >소형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_stt"  >소형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_lower"  >소형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 북방림 동굴
+         </color>
+         <br/>
+         소형 북방림 동굴을 설치합니다. 북방림 동굴은 울버린 등의 안식처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large"  >대형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_stt"  >대형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_lower"  >대형 북방림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Boreal_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 북방림 동굴
+         </color>
+         <br/>
+         대형 북방림 동굴을 설치합니다. 북방림 동굴은 회색늑대 등의 안식처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small"  >소형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_stt"  >소형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_lower"  >소형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 사막 동굴
+         </color>
+         <br/>
+         소형 사막 동굴을 설치합니다. 사막 동굴은 페넥여우 등의 안식처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large"  >대형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_stt"  >대형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_lower"  >대형 사막 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Desert_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 사막 동굴
+         </color>
+         <br/>
+         대형 사막 동굴을 설치합니다. 사막 동굴은 페넥여우 등의 안식처입니다.다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small"  >소형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_stt"  >소형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_lower"  >소형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 관목림 동굴
+         </color>
+         <br/>
+         소형 관목림 동굴을 설치합니다. 관목림 동굴은 코모도왕도마뱀 등의 안식처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large"  >대형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_stt"  >대형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_lower"  >대형 관목림 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Scrub_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 관목림 동굴
+         </color>
+         <br/>
+         대형 관목림 동굴을 설치합니다. 관목림 동굴은 코모도왕도마뱀 등의 안식처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end"  >소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_stt"  >소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_lower"  >소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_end_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 화장실
+         </color>
+         <br/>
+         소형 화장실을 설치합니다. 소형 화장실은 한 번에 한 명의 관람객이 이용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end"  >대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_stt"  >대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_lower"  >대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_end_ltt"  >
+		   <color r="255" g="248" b="178">
+		      대형 화장실
+		   </color>
+		   <br/>
+		   대형 화장실을 설치합니다. 소형 화장실보다 설치 비용이 많이 들지만 6명이 더 들어갈 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end"  >햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_stt"  >햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_lower"  >햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_end_ltt"  >
+         <color r="255" g="248" b="178">
+            햄버거 판매대
+         </color>
+         <br/>
+         햄버거 판매대를 설치합니다. 햄버거는 비싸지 않은 가격으로 허기를 채울 수 있는 음식입니다.     
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end"  >핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_stt"  >핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_lower"  >핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_end_ltt"  >
+         <color r="255" g="248" b="178">
+            핫도그 판매대
+         </color>
+         <br/>
+         핫도그 판매대를 설치합니다. 핫도그는 아이들이 특히 좋아하는 음식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end"  >샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_stt"  >샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_lower"  >샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_end_ltt"  >
+         <color r="255" g="248" b="178">
+            샐러드 판매대
+         </color>
+         <br/>
+         샐러드 판매대를 설치합니다. 아이들은 샐러드를 싫어하지만 어른들은 아주 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end"  >음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_stt"  >음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_lower"  >음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_end_ltt"  >
+         <color r="255" g="248" b="178">
+            음료수 판매대
+         </color>
+         <br/>
+          음료수 판매대를 설치합니다. 관람객들은 음료수를 아주 좋아합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end"  >샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_stt"  >샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_lower"  >샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_end_ltt"  >
+         <color r="255" g="248" b="178">
+            샌드위치 판매대
+         </color>
+         <br/>
+          샌드위치 판매대를 설치합니다. 샌드위치에는 고기가 들어 있어서 점심 식사로 손색이 없습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end"  >초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_stt"  >초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_lower"  >초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_end_ltt"  >
+         <color r="255" g="248" b="178">
+            초밥 판매대
+         </color>
+         <br/>
+          초밥 판매대를 설치합니다. 가격이 비싼 편인 초밥은 아이들보다 어른들이 더 좋아합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end"  >생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_stt"  >생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_lower"  >생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_end_ltt"  >
+         <color r="255" g="248" b="178">
+            생수 판매대
+         </color>
+         <br/>
+          생수 판매대를 설치합니다. 생수는 관람객들의 갈증을 해소해 줍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end"  >꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_stt"  >꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_lower"  >꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_end_ltt"  >
+         <color r="255" g="248" b="178">
+            꼬치구이 판매대
+         </color>
+         <br/>
+          꼬치구이 판매대를 설치합니다. 꼬치구이는 단백질이 풍부하고 가격도 적당한 음식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end"  >커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_stt"  >커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_lower"  >커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_end_ltt"  >
+         <color r="255" g="248" b="178">
+            커피 판매대
+         </color>
+         <br/>
+          커피 판매대를 설치합니다. 어른들은 커피를 즐겨 마시며 일부 아이들도 커피를 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end"  >치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_stt"  >치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_lower"  >치즈 케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_end_ltt"  >
+         <color r="255" g="248" b="178">
+            치즈 케이크 가판대
+         </color>
+         <br/>
+         치즈 케이크 가판대를 설치합니다.
+어른들은 디저트로 치즈 케이크를 즐깁니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end"  >팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_stt"  >팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_lower"  >팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_end_ltt"  >
+         <color r="255" g="248" b="178">
+            팝콘 가판대
+         </color>
+         <br/>
+          팝콘 가판대를 설치합니다. 팝콘을 먹은 관람객들은 갈증을 느끼게 됩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end"  >쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_stt"  >쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_lower"  >쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_end_ltt"  >
+         <color r="255" g="248" b="178">
+            쿠키 가판대
+         </color>
+         <br/>
+          쿠키 가판대를 설치합니다. 쿠키를 먹고 나면 갈증을 느끼게 됩니다.   
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end"  >솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_stt"  >솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_lower"  >솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_end_ltt"  >
+         <color r="255" g="248" b="178">
+            솜사탕 가판대
+         </color>
+         <br/>
+          솜사탕 가판대를 설치합니다. 솜사탕은 아이들이 좋아하는 간식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end"  >생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_stt"  >생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_lower"  >생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_end_ltt"  >
+         <color r="255" g="248" b="178">
+            생과일 가판대
+         </color>
+         <br/>
+          생과일 가판대를 설치합니다. 몸에 좋은 음식을 원하는 관람객들은 생과일을 즐겨 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end"  >아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_stt"  >아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_lower"  >아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_end_ltt"  >
+         <color r="255" g="248" b="178">
+            아이스크림 가판대
+         </color>
+         <br/>
+          아이스크림 가판대를 설치합니다. 아이들은 아이스크림을 아주 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_df"  >영상 자료 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_stt"  >영상 자료 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_lower"  >영상 자료 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:DiscoveryKiosk_ltt"  >
+         <color r="255" g="248" b="178">
+            영상 자료 데스크
+         </color>
+         <br/>
+          영상 자료 데스크를 설치합니다. 영상 자료 데스크를 설치하면 교육 관련 기부금이 늘어납니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse"  >덤블링 하우스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_stt"  >덤블링 하우스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_lower"  >덤블링 하우스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TropicalBounceHouse_ltt"  >
+         <color r="255" g="248" b="178">
+            덤블링 하우스
+         </color>
+         <br/>
+          덤블링 하우스를 설치합니다. 아이들이 좋아하는 놀이 기구입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end"  >동물 번식 센터</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_stt"  >동물 번식 센터</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_lower"  >동물 번식 센터</LOC_STRING>
+      <LOC_STRING _locID="entityname:ConservationBreedingCenter_end_ltt"  >
+         <color r="255" g="248" b="178">
+            동물 번식 센터
+         </color>
+         <br/>
+          동물 번식 센터를 설치합니다. 멸종 위기 동물을 번식시키는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_stt"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_lower"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_ltt"  >
+         <color r="255" g="248" b="178">
+            페이스 페인팅 코너
+         </color>
+         <br/>
+          페이스 페인팅 코너를 설치합니다. 아이들은 얼굴에 그림을 그려 주면 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_stt"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_lower"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_ltt"  >
+         <color r="255" g="248" b="178">
+            음성 정보 안내 데스크
+         </color>
+         <br/>
+          음성 정보 안내 데스크를 설치합니다. 무선 헤드폰을 이용해 정보를 얻는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df"  >사진 게시판</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_stt"  >사진 게시판</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_lower"  >사진 게시판</LOC_STRING>
+      <LOC_STRING _locID="entityname:PhotoExhibitStand_df_ltt"  >
+         <color r="255" g="248" b="178">
+            사진 게시판
+         </color>
+         <br/>
+          사진 게시판을 설치합니다. 여러분이 동물원에서 찍은 사진을 관람객이 감상하는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled"  >안경곰 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_stt"  >안경곰 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_lower"  >안경곰 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_BearSpectacled_ltt"  >
+         <color r="255" g="248" b="178">
+            안경곰 동상
+         </color>
+         <br/>
+         안경곰 동상을 설치합니다. 남아메리카에서 서식하는 멋진 안경곰 동상입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end"  >멸종 위기 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_stt"  >멸종 위기 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_lower"  >멸종 위기 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 쓰레기통
+         </color>
+         <br/>
+         멸종 위기 동물 쓰레기통을 설치합니다. 관람객들이 쓰레기를 쉽게 버릴 수 있도록 동물원 곳곳에 쓰레기통을 설치하는 것이 좋습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end"  >멸종 위기 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_stt"  >멸종 위기 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_lower"  >멸종 위기 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 아치
+         </color>
+         <br/>
+         멸종 위기 동물 아치를 설치합니다. 아치는 길이나 입구, 테마가 있는 공간을 멋지게 꾸며줍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end"  >멸종 위기 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_stt"  >멸종 위기 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_lower"  >멸종 위기 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 벤치
+         </color>
+         <br/>
+         멸종 위기 동물 벤치를 설치합니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end"  >멸종 위기 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_stt"  >멸종 위기 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_lower"  >멸종 위기 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 가로등
+         </color>
+         <br/>
+         멸종 위기 동물 가로등을 설치합니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end"  >멸종 위기 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_stt"  >멸종 위기 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_lower"  >멸종 위기 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 기부함
+         </color>
+         <br/>
+         멸종 위기 동물 기부함을 설치합니다. 주변에 기부함이 없으면 관람객들의 기부를 받을 수가 없습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end"  >멸종 위기 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_stt"  >멸종 위기 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_lower"  >멸종 위기 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 파라솔
+         </color>
+         <br/>
+         멸종 위기 동물 파라솔을 설치합니다. 관람객들이 파라솔 그늘 밑에서 편안하게 식사를 할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end"  >멸종 위기 동물 분수</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_stt"  >멸종 위기 동물 분수</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_lower"  >멸종 위기 동물 분수</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 분수
+         </color>
+         <br/>
+         멸종 위기 동물 분수를 설치합니다. 주위 경관과 어울리는 분수대는 동물원을 한층 아름답게 만들어 줍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end"  >멸종 위기 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_stt"  >멸종 위기 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_lower"  >멸종 위기 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 그늘 지붕
+         </color>
+         <br/>
+         멸종 위기 동물 그늘 지붕을 설치합니다. 관람객들은 그늘 지붕 밑에서 편안하게 동물을 구경할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end"  >멸종 위기 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_stt"  >멸종 위기 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_lower"  >멸종 위기 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 소리 바위
+         </color>
+         <br/>
+         멸종 위기 동물 소리 바위를 설치합니다. 소리 바위는 스피커가 들어 있어서 음악이 나오는 바위입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool"  >바위 연못</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_stt"  >바위 연못</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_lower"  >바위 연못</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockPool_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 연못
+         </color>
+         <br/>
+         바위 연못을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser"  >간헐 온천</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_stt"  >간헐 온천</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_lower"  >간헐 온천</LOC_STRING>
+      <LOC_STRING _locID="entityname:Geyser_ltt"  >
+         <color r="255" g="248" b="178">
+            간헐 온천
+         </color>
+         <br/>
+         간헐 온천을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_stt"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_lower"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_ltt"  >
+         <color r="255" g="248" b="178">
+            풍선 다발
+         </color>
+         <br/>
+         풍선 다발을 설치합니다. 새끼 동물을 환영하는 화려한 장식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave"  >박쥐 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_stt"  >박쥐 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_lower"  >박쥐 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:BatCave_ltt"  >
+         <color r="255" g="248" b="178">
+            박쥐 동굴
+         </color>
+         <br/>
+         박쥐 동굴을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano"  >화산</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_stt"  >화산</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_lower"  >화산</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dormant_Volcano_ltt"  >
+         <color r="255" g="248" b="178">
+            화산
+         </color>
+         <br/>
+         화산을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine"  >안개 분사기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_stt"  >안개 분사기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_lower"  >안개 분사기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fog_Machine_ltt"  >
+         <color r="255" g="248" b="178">
+            안개 분사기
+         </color>
+         <br/>
+         안개 분사기를 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit"  >자수정 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_stt"  >자수정 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_lower"  >자수정 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mineral_Deposit_ltt"  >
+         <color r="255" g="248" b="178">
+            자수정 바위
+         </color>
+         <br/>
+         자수정 바위를 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine"  >제설기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_stt"  >제설기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_lower"  >제설기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Snow_Machine_ltt"  >
+         <color r="255" g="248" b="178">
+            제설기
+         </color>
+         <br/>
+         제설기를 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward"  >전망대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_stt"  >전망대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_lower"  >전망대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sky_Tower_Reward_ltt"  >
+         <color r="255" g="248" b="178">
+            전망대
+         </color>
+         <br/>
+         전망대를 설치합니다. 동물원을 한눈에 내려다볼 수 있는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel"  >수정 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_stt"  >수정 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_lower"  >수정 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrystalTunnel_ltt"  >
+         <color r="255" g="248" b="178">
+            수정 터널
+         </color>
+         <br/>
+         수정 터널을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel"  >세쿼이아 나무 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_stt"  >세쿼이아 나무 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_lower"  >세쿼이아 나무 터널</LOC_STRING>
+      <LOC_STRING _locID="entityname:Redwood_Tunnel_ltt"  >
+         <color r="255" g="248" b="178">
+            세쿼이아 나무 터널
+         </color>
+         <br/>
+         세쿼이아 나무 터널을 설치합니다. 투어를 즐기는 관람객이 좋아하는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_stt"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_lower"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_ltt"  >
+         <color r="255" g="248" b="178">
+            관람객 유치 기념 동상
+         </color>
+         <br/>
+         관람객 유치 기념 동상을 설치합니다. 동물원 인기가 매우 높을 때 포상으로 받는 동상입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies"  >새끼 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_stt"  >새끼 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_lower"  >새끼 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_AnimalBabies_ltt"  >
+         <color r="255" g="248" b="178">
+            새끼 동물 동상
+         </color>
+         <br/>
+         새끼 동물 동상을 설치합니다. 멸종 위기 동물 번식을 위한 노력을 인정 받아 포상으로 받는 동상입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence"  >멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_stt"  >멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_lower"  >멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicfence_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 울타리
+         </color>
+         <br/>
+         멸종 위기 동물 울타리를 설치합니다. 멸종 위기 동물 울타리는 아름다운 모자이크로 장식된 견고한 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence"  >낮은 멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_stt"  >낮은 멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_lower"  >낮은 멸종 위기 동물 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowmosaicfence_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 멸종 위기 동물 울타리
+         </color>
+         <br/>
+         낮은 멸종 위기 동물 울타리를 설치합니다. 낮은 멸종 위기 동물 울타리는 아름다운 모자이크로 장식된 견고한 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end"  >멸종 위기 동물 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_stt"  >멸종 위기 동물 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_lower"  >멸종 위기 동물 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:mosaicwindow_end_ltt"  >
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 창문 울타리
+         </color>
+         <br/>
+         멸종 위기 동물 창문 울타리를 설치합니다. 관람객들은 색다른 분위기의 멸종 위기 동물 창문 울타리를 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation"  >보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_stt"  >보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_lower"  >보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:conservation_ltt"  >
+         <color r="255" g="248" b="178">
+            보호 구역 울타리
+         </color>
+         <br/>
+         보호 구역 울타리를 설치합니다. 보호 구역 울타리는 보호 구역을 둘러싸도록 제작된 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation"  >낮은 보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_stt"  >낮은 보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_lower"  >낮은 보호 구역 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowconservation_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 보호 구역 울타리
+         </color>
+         <br/>
+         낮은 보호 구역 울타리를 설치합니다. 낮은 보호 구역 울타리는 보호 구역을 둘러싸도록 제작된 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron"  >장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_stt"  >장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_lower"  >장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:wroughtiron_ltt"  >
+         <color r="255" g="248" b="178">
+            장식 울타리
+         </color>
+         <br/>
+         장식 울타리를 설치합니다. 장식 울타리는 견고하고 아름다우며 관람객의 시야를 가리지 않습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron"  >낮은 장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_stt"  >낮은 장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_lower"  >낮은 장식 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowwroughtiron_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 장식 울타리
+         </color>
+         <br/>
+         낮은 장식 울타리를 설치합니다. 낮은 장식 울타리는 견고하면서도 아름답습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate"  >차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_stt"  >차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_lower"  >차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_ltt"  >
+         <color r="255" g="248" b="178">
+            차량 출입문
+         </color>
+         <br/>
+         차량 출입문을 설치합니다. 차량 출입문을 통해 지프가 우리를 드나듭니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end"  >장식 차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_stt"  >장식 차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_lower"  >장식 차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="entityname:vehiclegate_reward_end_ltt"  >
+         <color r="255" g="248" b="178">
+            장식 차량 출입문
+         </color>
+         <br/>
+         장식 차량 출입문을 설치합니다. 장식 차량 출입문을 통해 지프가 우리를 드나듭니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift"  >페넥여우 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_stt"  >페넥여우 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_lower"  >페넥여우 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxFennec_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            페넥여우 모자
+         </color>
+         <br/>   
+         페넥여우를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift"  >리카온 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_stt"  >리카온 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_lower"  >리카온 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WildDogAfrican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            리카온 인형
+         </color>
+         <br/>리카온을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_stt"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_lower"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            갈라파고스코끼리거북 모자
+         </color>
+         <br/>
+         갈라파고스코끼리거북을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift"  >순록 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_stt"  >순록 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_lower"  >순록 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caribou_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            순록 가방
+         </color>
+         <br/>
+         순록을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_stt"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_lower"  >갈라파고스코끼리거북 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseGalapagos_Gift_Adult_ltt"  >
+         <color r="255" g="248" b="178">
+            갈라파고스코끼리거북 모자
+         </color>
+         <br/>
+         갈라파고스코끼리거북을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_stt"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_lower"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            코모도왕도마뱀 인형
+         </color>
+         <br/>
+         코모도왕도마뱀을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_stt"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_lower"  >코모도왕도마뱀 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:KomodoDragon_Gift_Adult_ltt"  >
+         <color r="255" g="248" b="178">
+            코모도왕도마뱀 인형
+         </color>
+         <br/>
+         코모도왕도마뱀을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift"  >프셰발스키말 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_stt"  >프셰발스키말 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_lower"  >프셰발스키말 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HorsePrzewalskisWild_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            프셰발스키말 티셔츠
+         </color>
+         <br/>
+         프셰발스키말을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift"  >자이언트세이블영양 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_stt"  >자이언트세이블영양 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_lower"  >자이언트세이블영양 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:AntelopeSableGiant_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            자이언트세이블영양 가방
+         </color>
+         <br/>
+         자이언트세이블영양을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift"  >안경곰 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_stt"  >안경곰 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_lower"  >안경곰 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearSpectacled_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            안경곰 모자
+         </color>
+         <br/>
+         안경곰을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift"  >아메리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_stt"  >아메리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_lower"  >아메리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BisonAmerican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            아메리카들소 가방
+         </color>
+         <br/>
+         아메리카들소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift"  >코알라 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_stt"  >코알라 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_lower"  >코알라 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koala_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            코알라 허리 가방
+         </color>
+         <br/>
+         코알라를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift"  >스페인스라소니 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_stt"  >스페인스라소니 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_lower"  >스페인스라소니 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LynxSpanish_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            스페인스라소니 허리 가방
+         </color>
+         <br/>
+         스페인스라소니를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift"  >오랑우탄 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_stt"  >오랑우탄 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_lower"  >오랑우탄 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orangutan_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            오랑우탄 인형
+         </color>
+         <br/>
+         오랑우탄을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift"  >마코르염소 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_stt"  >마코르염소 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_lower"  >마코르염소 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Markhor_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            마코르염소 모자
+         </color>
+         <br/>
+         마코르염소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift"  >긴팔원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_stt"  >긴팔원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_lower"  >긴팔원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:GibbonCrested_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            긴팔원숭이 셔츠
+         </color>
+         <br/>
+         긴팔원숭이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift"  >굽은뿔오릭스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_stt"  >굽은뿔오릭스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_lower"  >굽은뿔오릭스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:OryxScimitarHorned_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            굽은뿔오릭스 셔츠
+         </color>
+         <br/>
+         굽은뿔오릭스를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift"  >플로리다퓨마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_stt"  >플로리다퓨마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_lower"  >플로리다퓨마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:PantherFlorida_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            플로리다퓨마 가방
+         </color>
+         <br/>
+         플로리다퓨마를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift"  >자바코뿔소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_stt"  >자바코뿔소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_lower"  >자바코뿔소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosJavan_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            자바코뿔소 인형
+         </color>
+         <br/>
+         자바코뿔소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift"  >베어드테이퍼 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_stt"  >베어드테이퍼 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_lower"  >베어드테이퍼 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:TapirBairds_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            베어드테이퍼 인형
+         </color>
+         <br/>
+         베어드테이퍼를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift"  >회색늑대 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_stt"  >회색늑대 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_lower"  >회색늑대 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfGray_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            회색늑대 셔츠
+         </color>
+         <br/>
+         회색늑대를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift"  >울버린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_stt"  >울버린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_lower"  >울버린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wolverine_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            울버린 인형
+         </color>
+         <br/>
+         울버린을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_stt"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_lower"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            헤드폰
+         </color>
+         <br/>
+         무선 헤드폰을 통해 동물에 대한 유용한 정보를 배울 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_stt"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_lower"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Regurgitated_ltt"  >
+         <color r="255" g="248" b="178">
+            토한 고기
+         </color>
+         <br/>
+         토한 고기를 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_stt"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_lower"  >토한 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meat_Komodo_Regurgitated_ltt"  >
+         <color r="255" g="248" b="178">
+            토한 고기
+         </color>
+         <br/>
+         토한 고기를 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_stt"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_lower"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundStation_end_ltt"  >
+         <color r="255" g="248" b="178">
+            지프 탑승장
+         </color>
+         <br/>
+         지프 탑승장을 설치합니다. 탑승장을 설치하고 도로 노선을 완성하면 투어나 이동을 위해 관람객이 이용할  차량을 구입할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end"  >리프트 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_stt"  >리프트 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_lower"  >리프트 탑승장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyStation_end_ltt"  >
+         <color r="255" g="248" b="178">
+            리프트 탑승장
+         </color>
+         <br/>
+         리프트 탑승장을 설치합니다. 탑승장을 설치하고 리프트 노선을 완성하면 투어나 이동을 위해 관람객이 이용할 차량을 구입할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower"  >리프트 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_stt"  >리프트 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_lower"  >리프트 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_ltt"  >
+         <color r="255" g="248" b="178">
+            리프트 기둥
+         </color>
+         <br/>
+         리프트 기둥을 설치합니다. 리프트 기둥을 세워 리프트 노선을 만듭니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end"  >리프트 T자 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_stt"  >리프트 T자 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_lower"  >리프트 T자 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTowerT_end_ltt"  >
+         <color r="255" g="248" b="178">
+            리프트 T자 기둥
+         </color>
+         <br/>
+         리프트 T자 기둥을 설치합니다. 케이블 선이 2개인 리프트 기둥입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack"  >도로</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_stt"  >도로</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_lower"  >도로</LOC_STRING>
+      <LOC_STRING _locID="entityname:GroundTrack_ltt"  >
+         <color r="255" g="248" b="178">
+            도로
+         </color>
+         <br/>
+         도로를 설치합니다. 도로를 설치해 지프 노선을 만듭니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end"  >건널목 차단기</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_stt"  >건널목 차단기</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_lower"  >건널목 차단기</LOC_STRING>
+      <LOC_STRING _locID="entityname:CrossingGate_end_ltt"  >
+         <color r="255" g="248" b="178">
+            건널목 차단기
+         </color>
+         <br/>
+         건널목 차단기를 설치합니다. 차단기는 지프가 다가올 때 보행자가 도로를 건너지 못하도록 막는 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood"  >목조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_stt"  >목조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_lower"  >목조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            목조 다리
+         </color>
+         <br/>
+         목조 다리를 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood"  >목조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_stt"  >목조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_lower"  >목조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            목조 다리 기둥
+         </color>
+         <br/>
+         목조 다리 기둥을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood"  >낮은 목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_stt"  >낮은 목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_lower"  >낮은 목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 목조 난간
+         </color>
+         <br/>
+         낮은 목조 난간을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood"  >목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_stt"  >목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_lower"  >목조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Wood_ltt"  >
+         <color r="255" g="248" b="178">
+            목조 난간
+         </color>
+         <br/>
+         목조 난간을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone"  >석조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_stt"  >석조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_lower"  >석조 다리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElevatedPath_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            석조 다리
+         </color>
+         <br/>
+         석조 다리를 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone"  >석조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_stt"  >석조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_lower"  >석조 다리 기둥</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathSupport_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            석조 다리 기둥
+         </color>
+         <br/>
+         석조 다리 기둥을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone"  >낮은 석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_stt"  >낮은 석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_lower"  >낮은 석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailing_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 석조 난간
+         </color>
+         <br/>
+         낮은 석조 난간을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone"  >석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_stt"  >석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_lower"  >석조 난간</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathRailingHigh_Stone_ltt"  >
+         <color r="255" g="248" b="178">
+            석조 난간
+         </color>
+         <br/>
+         석조 난간을 설치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end"  >신형 1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_stt"  >신형 1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_lower"  >신형 1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_ltt"  >
+         <color r="255" g="248" b="178">
+            신형 1인승 리프트
+         </color>
+         <br/>
+         신형 1인승 리프트를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end"  >신형 2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_stt"  >신형 2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_lower"  >신형 2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_end_ltt"  >
+         <color r="255" g="248" b="178">
+            신형 2인승 리프트
+         </color>
+         <br/>
+         신형 2인승 리프트를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end"  >신형 4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_stt"  >신형 4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_lower"  >신형 4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_ltt"  >
+         <color r="255" g="248" b="178">
+            신형 4인승 리프트
+         </color>
+         <br/>
+         신형 4인승 리프트를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic"  >1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_stt"  >1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_lower"  >1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_OneSeat_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            1인승 리프트
+         </color>
+         <br/>
+         1인승 리프트를 구입합니다
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic"  >2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_stt"  >2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_lower"  >2인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            2인승 리프트
+         </color>
+         <br/>
+         2인승 리프트를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic"  >4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_stt"  >4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_lower"  >4인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_FourSeats_basic_ltt"  >
+         <color r="255" g="248" b="178">
+            4인승 리프트
+         </color>
+         <br/>
+         4인승 리프트를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end"  >7인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_stt"  >7인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_lower"  >7인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            7인승 지프
+         </color>
+         <br/>
+         7인승 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end"  >8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_stt"  >8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_lower"  >8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            8인승 지프
+         </color>
+         <br/>
+         8인승 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end"  >4인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_stt"  >4인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_lower"  >4인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_end_ltt"  >
+         <color r="255" g="248" b="178">
+            4인승 지프
+         </color>
+         <br/>
+         4인승 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end"  >7인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_stt"  >7인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_lower"  >7인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            7인승 사파리 지프
+         </color>
+         <br/>
+         7인승 사파리 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end"  >신형 8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_stt"  >신형 8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_lower"  >신형 8인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            신형 8인승 지프
+         </color>
+         <br/>
+         신형 8인승 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end"  >4인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_stt"  >4인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_lower"  >4인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_ltt"  >
+         <color r="255" g="248" b="178">
+            4인승 사파리 지프
+         </color>
+         <br/>
+         4인승 사파리 지프를 구입합니다.
+      </LOC_STRING>
+</ZT2Strings>

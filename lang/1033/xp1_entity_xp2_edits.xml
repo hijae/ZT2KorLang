@@ -1,0 +1,53 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname" version="6" />
+      <LOC_STRING _locID="entityname:Balloon_Bouquet" version="6"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_stt" version="6"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_lower" version="6"  >풍선 다발</LOC_STRING>
+      <LOC_STRING _locID="entityname:Balloon_Bouquet_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            풍선 다발
+         </color>
+         <br/>
+         풍선 다발을 설치합니다. 새끼 동물을 환영하는 화려한 장식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end" version="6"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_stt" version="6"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_lower" version="6"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="entityname:FacePaintingKiosk_end_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            페이스 페인팅 코너
+         </color>
+         <br/>
+          페이스 페인팅 코너를 설치합니다. 아이들은 얼굴에 그림을 그려 주면 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end" version="6"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_stt" version="6"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_lower" version="6"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeadphoneKiosk_end_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            음성 정보 안내 데스크
+         </color>
+         <br/>
+          음성 정보 안내 데스크를 설치합니다. 무선 헤드폰을 이용해 정보를 얻는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue" version="6"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_stt" version="6"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_lower" version="6"  >관람객 유치 기념 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Zoo_Attendance_Statue_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            관람객 유치 기념 동상
+         </color>
+         <br/>
+         관람객 유치 기념 동상을 설치합니다. 동물원 인기가 매우 높을 때 포상으로 받는 동상입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift" version="6"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_stt" version="6"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_lower" version="6"  >헤드폰</LOC_STRING>
+      <LOC_STRING _locID="entityname:Headphones_Gift_ltt" version="6"  >
+         <color r="255" g="248" b="178">
+            헤드폰
+         </color>
+         <br/>
+         무선 헤드폰을 통해 동물에 대한 유용한 정보를 배울 수 있습니다.
+      </LOC_STRING>
+</ZT2Strings>

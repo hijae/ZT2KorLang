@@ -1,0 +1,399 @@
+﻿	<ZT2Strings>
+      <LOC_STRING _locID="xp2_tutorial1:welcome"  >Zoo Tycoon 2: Marine Mania를 익힐 수 있는 연습 게임입니다! 이 연습 게임에서는 기본적인 수조 건설, 서식 환경 변경, 해양 동물 추가, 정수 필터 설치 방법 등을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelHeading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel"  >이제 수조를 만들어 보겠습니다! 건설 패널을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTabHeading"  >수조 건물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTab"  >수조 건물 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTabCompleted"  >수조 벽을 만드는 작업은 울타리 건설과 비슷합니다. 기본적인 수조 벽 모드에는 자유 수조 모드, 직사각형 수조 모드, 8각형 수조 모드가 있습니다. 울타리와는 달리 수조 벽 모드는 8각형 수조 모드가 기본으로 설정되어 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWallHeading"  >아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWall"  >아크릴 수족 벽 아이콘을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWallCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWallsHeading"  >수조 건물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWalls"  >길 끝에 커다란 직사각형 모양의 땅이 보이시죠? 바로 이곳에 수조를 건설하겠습니다. 우선 수조 건물 패널에서 아크릴 수조 벽 아이콘을 클릭하세요. 그 상태에서 분수대 부근에서 직사각형의 왼쪽 위 모서리를 클릭해서 수조의 한쪽 모서리 지점을 지정합니다. 그런 다음 아래쪽에 있는 화단 근처 모서리까지 오른쪽으로 마우스를 끄세요. 아크릴 수조가 땅의 직사각형에 겹쳐지면 다시 클릭해서 설치를 마칩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWallsCompleted"  >잘했습니다! 한 가지 주의할 점은 수조를 건설하면 그 자리에 있던 모든 것(건물 포함)이 사라진다는 사실입니다. 이제 수조 입구와 기부함을 설치해 볼까요? 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntranceHeading"  >수조 입구</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntrance"  >직사각형 수조 모드에서는 수조를 완성하면 자동으로 수조 입구와 기부함이 선택됩니다. 수조 입구가 선택되어 있는 것이 보이시죠? 수조 입구를 설치하려면 수조 벽에서 원하는 곳을 클릭하면 됩니다. 클릭해서 수조 입구를 설치해보세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntranceCompleted"  >수조 입구가 없으면 사육사와 조련사가 수조에 들어갈 수 없기 때문에 수조를 건설한 뒤에는 반드시 수조 입구를 설치해야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBoxHeading"  >기부함</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBox"  >기부함은 항상 수조 부근에 설치하세요. 기부함을 설치하려면 가능한 한 수조 벽 부근의 길에서 원하는 곳을 클릭해 설치하면 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBoxCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButtonHeading"  >수조 벽 높이기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButton"  >수조 벽 높이기 도구를 이용하면 수조 벽을 높일 수 있습니다. 수조 벽 높이기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButtonCompeted"  >원형의 파란색 커서는 수조 벽 높이기 도구가 작동 중이라는 것을 뜻합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallToolHeading"  >수조 벽 높이기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallTool"  >파란색 원형 커서를 수조에 위치시키고 클릭해서 수조 벽을 한 단계 높이세요. 마우스 단추를 누른 상태로 유지하면 수조 벽을 계속 높일 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallToolCompleted"  >수조 벽 낮추기 단추도 같은 방식으로 사용할 수 있습니다. 이외에 다른 방식으로도 수조 벽을 높이고 낮출 수 있습니다. 수조 벽 꼭대기에 마우스를 갖다대서 커서가 손 모양으로 바뀌면 클릭한 채로 끌어서 수조 벽을 높이거나 낮출 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButtonHeading"  >수조 바닥 낮추기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButton"  >이제 수조를 좀 더 깊게 만들어 보겠습니다. 수조 바닥 낮추기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorToolHeading"  >수조 바닥 낮추기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorTool"  >수조 바닥 낮추기 도구는 수조 벽 높이기 도구와 같은 방식으로 사용합니다. 파란색 원형 커서를 수조에 대고 클릭해서 수조 바닥을 낮추세요. 그러면 수심이 깊어집니다. 마우스 단추를 누른 상태로 유지하면 수조 바닥을 계속 낮출 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorToolCompleted"  >수조 바닥을 높여서 수심이 낮아지게 할 수도 있습니다. 수조 바닥 높이기 도구도 수조 바닥 낮추기 도구와 같은 방식으로 사용합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscapingHeading"  >조경</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscaping"  >수조를 설치하면 수조에 채워지는 물은 수조가 건설된 주변 지역 서식 환경의 물입니다. 지금은 수조를 초원에 건설했으므로 수조에 채워진 물은 초원의 물입니다. 이제 이 수조를 쥐가오리가 살 수 있는 암초 서식 환경으로 만들어 보겠습니다. 조경 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWaterHeading"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWater"  >암초 서식 환경이 선택되어 있습니다. 깊은 물 단추를 클릭한 뒤에 수조의 물을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWaterCompleted"  >잘했습니다! 수조에 따뜻한 암초 서식 환경의 물을 채웠습니다. 암초 서식 환경은 Marine Mania에 새롭게 추가된 네 개의 서식 환경 중 하나입니다. 암초 환경 이외에도 해저, 연안, 원양 서식 환경이 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlantsHeading"  >수조 꾸미기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlants"  >이제 수조를 쥐가오리가 살기 좋도록 만들어 보겠습니다! 식물 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlantsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoralHeading"  >청록색 산호 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoral"  >수조에 청록색 산호를 놓아 보겠습니다! 청록색 산호 아이콘을 클릭하고 수조에 청록색 산호를 배치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoralCompleted"  >잘했습니다! 산호는 식물이 아니라 동물이라는 사실을 아시나요? 산호는 해파리나 말미잘의 사촌뻘입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButtonHeading"  >동물 단추</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButton"  >산호, 암초 등으로 수조를 꾸미는 건 나중에 하기로 하고, 일단은 쥐가오리를 수조에 넣도록 하겠습니다! 동물 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRayHeading"  >쥐가오리</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRay"  >쥐가오리를 클릭하고 수조에 넣으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRayCompleted"  >훌륭합니다! 이제 정수 필터만 설치하면 됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2Heading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2"  >정수 필터는 매우 중요합니다. 정수 필터는 수조를 깨끗하게 유지하고 동물들이 건강하게 살 수 있도록 해주기 때문이죠. 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTab2Heading"  >수조 건물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTab2"  >수조 건물 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTab2Completed"  >정수 필터는 물을 정화해서 수조가 더러워지는 것을 막아줍니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjectsHeading"  >공연/수조 시설물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjects"  >공연/수조 시설물 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjectsCompleted"  >이 탭에 있는 아이템 중 일부는 공연에만 사용되지만 정수 필터는 아무 수조에나 사용할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilterHeading"  >정수 필터</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilter"  >정수 필터를 클릭하고 수조 벽 바로 바깥에 설치하세요. 정수 필터는 물 근처나 수조 벽에만 설치할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilterCompleted"  >훌륭합니다! 정수 필터는 고장 날 수 있기 때문에 관리원을 고용해서 관리해야 합니다. 1인칭 시점에서는 직접 관리할 수도 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:tutorial_complete"  >
+         
+         
+         
+ 		축하합니다! 기본 수조 건설 연습 게임을 완료했습니다! 당장 게임에 뛰어들어 수조를 만들어도 충분한 실력입니다.
+         
+         
+         
+         <p/>
+         
+         
+           
+      다음 연습 게임을 진행하려면 계속하기 단추를 클릭하세요. 이제 고급 수조 건설에 대해서 배울 차례입니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+      주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:tankTooSmall"  >수조가 너무 작습니다! 직사각형 모양의 땅을 채울 수 있도록 충분히 크게 만드세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:incompleteTank"  >수조가 완성되지 않았습니다! 수조는 사방이 막혀 있어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:dolphinName"  >비키</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:welcome"  >이번 연습 게임에서는 땅이 포함된 수조를 만드는 방법을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntroHeading"  >혼합형 수조</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntro"  >수조 벽이 육지 우리와 결합된 혼합형 수조를 건설하는 방법은 두 가지입니다. 혼합형 수조는 지상과 수중에서 모두 살 수 있는 동물들에게 최적의 환경입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntroCompleted"  >예를 들어 북극곰의 우리가 바로 혼합형 수조입니다. 이제 직접 혼합형 수조를 만들어 보겠습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastalHeading"  >연안 우리</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastal"  >동물원 중앙에 빈 연안 우리가 있습니다. 앞쪽에 팝콘 가판대가 있는 곳입니다. 연안 우리로 화면을 이동하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastalCompleted"  >이 연안 우리를 혼합형 수조로 만들어 보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanelHeading"  >조경</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanel"  >연안 우리를 연안 물로 채우겠습니다. 조경 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintWaterHeading"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintWater"  >연안 서식 환경이 선택되어 있습니다. 연안 우리 안에 있는 모든 바위가 잠길 때까지 연안 물을 계속 채우세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintWaterCompleted"  >잘했습니다! 이제 관람객들이 수조 안을 볼 수 있도록 낮은 관람 공간을 추가합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitatHeading"  >지형 편집 도구</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitat"  >지형 편집 도구 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitatCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitchHeading"  >계곡 만들기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitch"  >수조 앞쪽의 땅을 낮춰서 관람객들이 수조 안을 볼 수 있도록 하겠습니다. 계곡 만들기 도구를 클릭하고 수조 벽 바깥쪽 길을 따라 계곡을 만들어보세요. 팝콘 가판대 부근에서 기부함이 있는 곳까지 낮춰보세요. 북극곰 우리를 참고하면 좋습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitchCompleted"  >잘했습니다! 캘리포니아바다사자에게 잘 어울리는 우리가 될 것 같군요. 이동하기 편하도록 길을 다듬는 등의 마무리 작업이 아직 남았지만 다음 단계로 진행하겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagicHeading"  >원양 수조</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagic"  >이번에는 좀 쉬운 방법으로 혼합형 수조를 만들어 보겠습니다. 연안 우리 옆에 있는 원양 수조를 찾으세요. 장수거북이 있는 수조입니다. 원양 수조로 화면을 이동하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagicCompleted"  >원양 수조 뒤쪽에는 울타리가 쳐져 있고 그곳에 보물 상자가 있습니다. 이 울타리 지역을 원양 수조와 결합해서 혼합형 수조를 만들겠습니다. 이 작업은 한 번에 마칠 수 있습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:pullDownTankWallHeading"  >수조 벽 헐기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:pullDownTankWall"  >보물 상자와 가장 가까운 수조 벽에 커서를 위치시키세요. 커서가 손 모양으로 바뀌면 SHIFT 키를 누른 상태로 클릭해서 수조 벽을 아래쪽으로 끄세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:putDownTankWallCompleted"  >이렇게 SHIFT 키를 이용하면 수조의 한쪽 벽만 낮춰서 동물들이 물과 육지 사이를 자유롭게 이동할 수 있습니다. 혼합형 수조가 완성되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:tutorial_complete"  >
+         
+         
+         
+         
+         축하합니다, 고급 수조 건설 연습 게임을 완료했습니다! 이제 다양한 방식으로 혼합형 수조를 만들 수 있습니다.
+         
+         
+         
+         <p/>
+         
+         
+                
+			다음 연습 게임을 진행하려면 계속하기 단추를 클릭하세요. 이제 해양 동물들에게 묘기를 가르치는 방법을 익힐 차례입니다.
+         
+         
+         
+         <p/>
+         
+         
+           
+      	주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:welcome"  >이번 연습 게임에서는 해양 동물들에게 관람객들이 좋아하는 묘기를 가르치는 두 가지 방법을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntroHeading"  >동물 훈련시키기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntro"  >Zoo Tycoon 2: Marine Mania에서는 특정 해양 동물에게 공연에서 선보일 묘기를 가르칠 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntroCompleted"  >수조 입구와 훈련장을 갖춘 수조만 있으면 동물을 훈련시킬 수 있습니다. 하지만 모든 동물이 훈련을 받을 수 있는 것은 아닙니다. 백상아리가 그 대표적인 예죠. 반면에 돌고래는 모든 종류의 묘기를 금방 익힐 수 있는 동물입니다. 이제 수조에 있는 병코돌고래에게 점프 묘기를 가르치도록 하겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphinHeading"  >돌고래 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphin"  >수조에서 병코돌고래인 비키를 찾은 다음 클릭해서 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphinCompleted"  >좋습니다! 동물을 선택하면 화면 오른쪽 아래에 동물 정보 패널이 나타납니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTrainingHeading"  >동물 훈련시키기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTraining"  >1인칭 시점으로 훈련시키기 단추를 클릭하세요. 훈련장이 선택되면 비키가 있는 수조에서 원하는 곳에 클릭해서 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTrainingCompleted"  >묘기를 가르치려면 훈련장이 필요합니다. 수조에 훈련장이 없다면 1인칭 시점으로 훈련시키기 단추를 눌러 훈련장을 설치해야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainingAreaHeading"  >훈련장 설치하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainingArea"  >비키가 있는 수조를 클릭해서 훈련장을 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainingAreaCompleted"  >훈련장을 설치하면 자동으로 동물 훈련 패널이 열립니다. 동물 훈련 패널에는 해당 동물이 익힐 수 있는 모든 묘기가 표시됩니다. 각 묘기마다 훈련 레벨이 있어서 동물의 훈련이 얼마나 잘 되어 있는가를 보여줍니다. 지금은 비키가 어떤 묘기도 익히지 않은 상황입니다. 이제 훈련을 시키도록 하겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpHeading"  >묘기 위치에서 점프</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJump"  >동물 훈련 패널에는 해당 동물이 익힐 수 있는 묘기가 표시됩니다. 훈련 레벨은 동물이 각 묘기를 얼마나 능숙하게 선보일 수 있는지를 나타냅니다. 비키는 아직 배운 묘기가 없으니 이제 가르치도록 하겠습니다! 묘기 위치에서 점프 단추를 클릭해서 훈련 모드로 들어가세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpCompleted"  >훈련 모드에서는 훈련 지휘봉으로 동물을 훈련시키게 됩니다. 훈련 지휘봉으로 동작을 보여주면 동물이 보고 따라합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntroHeading"  >동작 보여주기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntro"  >동물 훈련 과정에서는 트레이서가 묘기 동선을 따라 움직입니다. 트레이서는 원에 화살표가 붙은 모양으로 처음에 동선 왼쪽에 표시됩니다. 커다란 노란색 곡선이 바로 묘기의 동선입니다. 여러분은 트레이서가 동선을 따라 움직일 때 훈련 지휘봉으로 트레이서를 계속 따라가주어야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntroCompleted"  >가끔은 동선을 따라 이동하는 중에 특정 키를 눌러야 하는 경우도 있습니다. 이번 묘기에서는 곡선 꼭대기에서 마우스 왼쪽 단추를 클릭해야 합니다. 다른 묘기에서는 화살표 키를 눌러야 하는 경우도 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOneHeading"  >훈련 시작하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOne"  ></LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOneCompleted"  >준비가 됐으면 계속하기 단추를 눌러 창을 닫고 트레이서를 클릭해 훈련을 시작하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOneHeading"  >상으로 먹이 주기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOne"  >비키에게 상으로 생선을 주려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOneCompleted"  >묘기 훈련에서는 다음 사항을 명심해야 합니다. 동물들은 상으로 먹이를 주지 않으면 묘기를 익히지 않습니다. 동물의 묘기 점수가 높을수록 더 많은 묘기를 배울 수 있습니다. 동물의 훈련 레벨이 오를수록 묘기를 더 잘 선보일 수 있습니다. 동물이 묘기를 완벽하게 익히면 새로운 묘기를 배울 수 있게 됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwoHeading"  >묘기 위치에서 점프</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwo"  >몇 가지 고급 기술을 익히기 위해서 같은 묘기를 다시 시도해 보겠습니다. 묘기 위치에서 점프 단추를 클릭해서 훈련 모드로 들어가세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwoCompleted"  >이번에는 트레이서의 움직임을 잘 살피시기 바랍니다. 트레이서에서 작은 불꽃이 튀는 모습이 보이시죠? 불꽃의 색깔을 잘 보세요. 불꽃이 녹색이면 좋은 움직임을 보이고 있다는 뜻입니다. 노란색이나 주황색이면 훈련 지휘봉이 트레이서보다 약간 늦고 있다는 뜻입니다. 빨강색이면 너무 뒤처지고 있어서 전혀 훈련 효과가 없다는 의미입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwoHeading"  >훈련 시작하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwo"  ></LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwoCompleted"  >훈련을 계속하려면 계속하기 단추를 눌러서 창을 닫고 트레이서를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwoHeading"  >상으로 먹이 주기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwo"  >잘했습니다! 비키에게 상으로 생선을 주려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwoCompleted"  >훈련량이 많을수록 묘기를 능숙하게 구사할 수 있습니다. 하지만 묘기에 능숙할수록 더욱 능숙하게 만들기는 어렵게 됩니다. 각 묘기에는 세 가지의 훈련 레벨이 있습니다. 이 레벨이 높아질수록 트레이서는 빨라지고, 눌러야 할 키도 많아지고, 동선의 모양도 달라집니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanelHeading"  >동물 훈련 패널 닫기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanel"  >직접 동물을 훈련시키는 것도 즐거운 일이지만 조련사를 고용해서 훈련시키는 방법도 좋습니다. 이번에는 조련사를 활용하는 방법을 배우겠습니다. 우선 동물 훈련 패널을 닫으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanelHeading"  >직원</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanel"  >조련사는 사육사나 안내원처럼 동물원 직원입니다. 직원 단추를 눌러서 직원 패널을 여세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainerHeading"  >조련사 배정하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainer"  >조련사 아이콘을 클릭하고 배정하고 싶은 곳을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainerCompleted"  >조련사는 사육사와 어느 정도 비슷한 방식으로 업무를 수행합니다. 특별히 지정된 업무가 없는 경우 조련사는 자동으로 해양 동물을 찾아 훈련시킵니다. 조련사는 묘기를 익힐 능력이 있는 해양 동물만 훈련시킬 수 있습니다. 단, 행복한 상태의 동물만 훈련시킬 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainerHeading"  >조련사 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainer"  >조련사에게 한 마리 이상의 동물을 지정해서 훈련시키도록 할 수 있습니다. 훈련시킬 동물을 지정하려면 먼저 조련사를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainerCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTabHeading"  >훈련 배정 탭</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTab"  >다음으로 훈련 배정 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTabCompleted"  >이 패널에서는 선택한 조련사에게 배정할 동물을 선택할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignmentHeading"  >동물 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignment"  >동물 추가 단추를 클릭해서 훈련 배정 커서를 작동시키세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignmentCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickDolphinHeading"  >돌고래 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickDolphin"  >이제 훈련 배정 커서로 비키를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickDolphinCompleted"  >잘했습니다! 이제 비키의 이름이 훈련 배정 목록에 올랐고 선택한 조련사에게 훈련을 받게 되었습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAnimalButtonHeading"  >조련사 훈련 패널</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAnimalButton"  >동물을 조련사에게 배정하고 나면 어떤 묘기를 가르칠 것인지 지정할 수 있습니다. 훈련 배정 목록에서 비키의 이름 옆에 있는 단추를 클릭해서 훈련 패널을 여세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAnimalButtonCompleted"  >이 패널에서는 비키에게 가르칠 묘기를 지정할 수 있습니다. 묘기 아이콘의 확인 표시는 조련사에게 해당 묘기를 가르치도록 지정했다는 의미입니다. 모든 묘기를 표시하면 조련사는 동물에게 쉬운 묘기부터 차례로 가르칩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimalsHeading"  >여러 동물 훈련시키기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimals"  >한 조련사가 여러 수조의 많은 동물을 훈련시킬 수도 있습니다. 물론 많은 동물을 배정할수록 각각의 동물을 훈련시킬 시간은 줄어듭니다. 한 조련사에게 여러 수조에 있는 동물들을 훈련시키도록 지정할 때는 수조 사이를 이동하는 시간도 고려해야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimalsCompleted"  >조련사는 수조 입구를 설치한 수조에서만 동물을 훈련시킬 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:tutorial_complete"  >
+         
+         
+         
+         축하합니다! 동물 훈련 연습 게임을 완료했습니다! 이제 동물들이 모든 종류의 묘기를 익힐 수 있도록 훈련시키는 일만 남았습니다!
+         
+         
+         
+         <p/>
+         
+         
+                
+			다음 연습 게임을 시작하려면 계속하기 단추를 클릭하세요. 다음 연습 게임에서는 관람객들이 감동할 만한 멋진 공연을 만드는 방법을 배울 차례입니다. 
+         
+         
+         
+         <p/>
+         
+         
+           
+      	주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:welcome"  >이번 연습 게임에서는 공연을 만들고 일정을 관리하는 방법을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntroHeading"  >공연 수조</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntro"  >공연을 만들려면 먼저 공연 수조가 있어야 합니다. 공연 수조는 두 가지 측면에서 일반 수조와 다릅니다. 첫째, 무대는 공연 수조에서만 사용할 수 있습니다. 둘째, 해양 동물들은 공연 수조에서 공연을 하지만 그곳에 살 수는 없습니다. 파티가 벌어진 집에서 잠을 자기는 쉽지 않겠죠? 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntroCompleted"  >이 동물원에는 3개의 수조가 있습니다. 한 수조에는 병코돌고래, 다른 수조에는 범고래가 있습니다. 가운데 빈 수조가 공연 수조로 제격이군요! 공연 수조를 만들면 돌고래와 범고래가 출연하는 공연을 만들 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanelHeading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanel"  >공연 수조를 만들려면 가운데의 수조에 무대를 설치해야 합니다. 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjectsHeading"  >공연/수조 시설물</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjects"  >무대는 공연 및 수조 시설물 패널에 있습니다. 공연 및 수조 시설물 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjectsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatformHeading"  >무대</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatform"  >무대 아이콘을 클릭한 다음 수조의 원하는 지점에서 다시 클릭해 무대를 설치하세요. 무대는 수조 벽에 붙여서만 설치할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatformCompleted"  >사회자가 무대에서 공연을 진행합니다. 무대를 클릭하면 공연 일정을 조정할 수도 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortalHeading"  >수조 연결문</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortal"  >무대를 설치하면 자동으로 수조 연결문이 선택됩니다. 수조 연결문은 공연에 참가할 동물이 일반 수조에서 공연 수조로 이동하는 통로입니다. 수조 연결문은 수조 벽에 설치해야 합니다. 이제 돌고래 우리와 범고래 우리를 공연 수조와 연결하겠습니다. 수조 벽을 클릭해 수조 연결문을 설치하기만 하면 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortalCompleted"  >훌륭합니다! 이제 동물들이 무대로 이동해서 공연을 펼칠 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstandHeading"  >대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstand"  >이제 관람객들이 편하게 앉아서 공연을 즐길 수 있도록 대형 관람석을 설치하겠습니다. 공연 수조 앞쪽에 공연을 관람할 수 있는 방향으로 관람석을 설치하세요. 화단 사이의 공간이 좋을 것 같습니다. 대형 관람석을 클릭해서 선택한 다음 원하는 곳을 다시 클릭해 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstandCompleted"  >잘했습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:rotateGrandstand"  >수조를 바라보는 방향으로 관람석을 회전시킨 뒤에 다시 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscapingHeading"  >조경</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscaping"  >공연 수조에는 초원 서식 환경의 물이 담겨 있습니다. 이 물을 공연에 참여할 동물들이 좋아하는 서식 환경의 물로 바꿔야 합니다. 조경 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscapingCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatformHeading"  >무대 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatform"  >드디어 공연 준비가 끝났습니다! 공연을 만들려면 공연 수조에 있는 무대를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatformCompleted"  >무대 정보 패널에서는 공연을 편집하고 삭제하거나 공연 순서를 정할 수 있습니다. 하지만 먼저 공연을 만들어야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShowHeading"  >공연 만들기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShow"  >공연 만들기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShowCompleted"  >공연 편집 창이 보이시죠? 공연 편집 창을 이용하면 공연 동안 동물이 여러 묘기를 부리도록 할 수 있습니다. 또한 여러 동물이 동시에 묘기를 부리도록 할 수도 있습니다. 이제 돌고래와 범고래가 펼치는 간단한 공연을 만들어 보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOneHeading"  >동물 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOne"  >우선 돌고래를 공연에 추가하세요. 동물 추가를 클릭하고 목록에서 병코돌고래를 선택하면 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOneCompleted"  >목록에는 수조 연결문으로 공연 수조와 연결된 우리의 동물만 표시된다는 점을 명심하세요. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwoHeading"  >동물 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwo"  >이제 범고래도 공연에 추가하겠습니다. 다시 동물 추가를 클릭하고 목록에서 범고래를 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwoCompleted"  >두 동물을 모두 공연에 추가했으니 이제 묘기를 지정할 차례입니다. 공연 1막에서 돌고래와 범고래가 동시에 묘기를 부리도록 만들어 보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOneHeading"  >새 묘기 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOne"  >병코돌고래의 묘기를 지정하려면 돌고래의 새 묘기 추가 단추를 클릭하고 목록에서 묘기를 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOneCompleted"  >동물에게 묘기를 지정할 때마다 묘기 위치와 묘기에 필요한 공연 도구가 자동으로 생성됩니다. 묘기 위치와 공연 도구는 공연 수조 내의 원하는 지점으로 옮길 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrickHeading"  >새 묘기 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrick"  >돌고래의 첫 번째 묘기를 지정했으니 범고래에게도 같은 방법으로 묘기를 지정하겠습니다. 범고래의 새 묘기 추가 단추를 클릭하고 목록에서 묘기를 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrickCompleted"  >공연이 시작되면 돌고래와 범고래는 거의 동시에 각자의 묘기를 시작할 것입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwoHeading"  >새 묘기 추가하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwo"  >2막에서는 돌고래가 다른 묘기를 부리도록 지정하겠습니다. 병코돌고래의 새 묘기 추가 단추를 클릭하고 목록에서 다른 묘기를 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwoCompleted"  >기본으로 지정된 "공연 1" 같은 이름이 싫다면 원하는 공연 이름을 정할 수 있다는 점도 기억하세요. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShowHeading"  >저장하고 나가기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShow"  >공연 편집 창의 확인 단추를 클릭하면 작성한 공연을 저장하고 공연 편집 창에서 나갑니다. 공연을 만들면 무대는 자동으로 개장됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShowCompleted"  >이제 몇 가지 작업만 거치면 여러분의 공연을 직접 볼 수 있습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreakHeading"  >휴식 삽입하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreak"  >동물들도 휴식이 필요합니다. 너무 긴 시간 동안 공연을 계속하면 불만이 쌓여 공연을 거부하게 됩니다. 병코돌고래와 범고래를 계속 행복한 상태로 유지하려면 공연 뒤에 휴식을 취하게 해주세요. 휴식을 지정해주려면 휴식 삽입 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreakCompleted"  >이제 편안하게 앉아서 직접 만든 공연을 즐기세요! 1인칭 시점을 이용하면 관람석에서 공연을 볼 수도 있습니다. 무대가 개장되면 공연은 예정된 순서대로 진행됩니다. 모든 순서가 끝나면 다시 시작되어 같은 순서로 진행됩니다. 공연을 충분히 봤다면 계속하기 단추를 클릭해서 다음 단계로 넘어가세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:disableShowHeading"  >공연 중단하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:disableShow"  >무대 패널을 이용하면 새로운 공연을 추가, 공연 편집, 보기, 순서 바꾸기, 삭제 등의 공연에 관련된 중요한 작업을 할 수 있습니다. 공연을 잠시 중단할 수도 있습니다. 방금 만든 공연 이름 옆의 확인 단추를 클릭하여 공연을 잠시 중단하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:disableShowCompleted"  >잘했습니다! 관람객들은 별을 이용해 공연에 대한 평가를 내립니다. 공연이 마음이 들수록 별이 많아집니다. 관람객들은 공연이 마음에 들면 기부를 하기 때문에 공연 수조 주변에 기부함을 설치하는 것을 잊지 마세요. 한 가지 명심할 점은 각 공연의 인기도가 시간이 지나면서 변한다는 사실입니다. 그러므로 항상 인기 높은 묘기들로 공연 일정을 조정해주어야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:tutorial_complete"  >
+         
+         
+         
+         축하합니다! 해양 공연 연습 게임을 완료했습니다! 이제 여러분은 관람객들을 감동시킬 멋진 공연을 만들 수 있게 되었습니다.
+         
+         
+         
+         <p/>
+         
+         
+         
+			다음 연습 게임을 시작하려면 계속하기 단추를 클릭하세요. 다음 연습 게임에서는 Zoo Tycoon 2: Marine Mania의 새로운 기능들을 배울 차례입니다.
+         
+         
+         
+         <p/>
+         
+         
+           
+      	주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:welcome"  >이번 연습 게임에서는 스포이드 도구, 지형 필터, 돌고래와 함께 헤엄치는 방법, 그 밖의 Zoo Tycoon 2: Marine Mania의 새로운 특징을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscapingHeading"  >조경</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscaping"  >조경도 새로운 방법으로 할 수 있게 되었습니다. 예를 들어 나무, 식물, 바위 등을 다른 방법으로 심거나 놓을 수 있죠. 새로운 방법을 배우려면 조경 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscapingCompleted"  >사막 서식 환경이 선택되어 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOneHeading"  >조경 작업</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOne"  >조경 패널의 구성이 바뀐 것을 눈치채셨나요? 이제 패널 아래쪽에 있는 서식 환경 브러시를 선택해서 지형을 꾸미지 않아도 됩니다. 대신 새로운 지형 필터로 나무, 식물, 바위를 추가할 수 있습니다. 사용하는 방법을 배우려면 우선 모래를 클릭하고 동물원 입구 부근에 있는 화단으로 둘러싸인 공터를 모래로 덮으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOneCompleted"  >지금은 세 가지 지형 필터가 모두 꺼진 상태입니다. 모래를 덮을 때 나무, 식물, 바위는 추가되지 않습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocksHeading"  >바위 필터</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocks"  >지형 필터는 모두 켜거나 원하는 것만 켤 수 있습니다. 그저 원하는 지형 필터를 클릭만 하면 됩니다. 좋습니다, 직접 해 보죠! 바위 필터를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocksCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwoHeading"  >조경 작업</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwo"  >잘했습니다! 이제 모래를 좀 더 덮으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwoCompleted"  >바위 필터가 켜져 있기 때문에 바위가 추가됩니다. 이렇게 지형 필터를 이용하면 정확히 원하는 곳에 원하는 것을 추가할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTreeHeading"  >나무 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTree"  >Zoo Tycoon 2: Marine Mania에는 멋진 기능이 많이 추가되었습니다. 그 중에 하나가 스포이드 도구죠. 스포이드 도구를 이용하면 게임에 등장하는 거의 모든 개체를 쉽고 빠르게 복제해서 똑같은 개체를 추가할 수 있습니다. 햄버거 판매대 옆에 있는 발삼전나무를 대상으로 시험해 보겠습니다. 발삼전나무를 찾아서 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTreeCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTreeHeading"  >스포이드 도구</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTree"  >스포이드 도구를 클릭하세요. 커서가 클릭한 발삼전나무와 완전히 똑같은 모습으로 바뀐 게 보이시죠? 이제 원하는 곳을 클릭해서 발삼전나무를 심어보세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTreeCompleted"  >스포이드 도구가 모든 개체에 적용되는 것은 아닙니다. 캠페인이나 시나리오 게임에서는 충분한 동물원 명성을 얻을 때까지 사용할 수 없습니다. 아직 연구가 되지 않은 아이템에도 사용할 수 없습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRayHeading"  >쥐가오리 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRay"  >비슷한 방식으로 동물도 복제할 수 있습니다. 쥐가오리가 있는 수조를 찾아서 쥐가오리를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRayCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendationsHeading"  >사육사 조언</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendations"  >사육사 조언 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendationsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPictureHeading"  >동물 복제하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPicture"  >사육사 조언 패널에서 쥐가오리 아이콘을 클릭하세요. 복제한 쥐가오리를 쥐가오리 수조로 끈 다음 다시 클릭해서 수조에 놓으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPictureCompleted"  >이 방법은 입양 패널에 있는 동물에만 적용됩니다. 입양 패널 목록에 없는 동물은 시나리오나 챌린지 게임에서 복제할 수 없습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeRecommendationsHeading"  >사육사 조언 닫기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeRecommendations"  >사육사 조언 단추를 클릭해서 사육사 조언 패널을 닫으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeRecommendationsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStatsHeading"  >동물원 요약 통계</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStats"  >Zoo Tycoon 2: Marine Mania에는 동물원에 대한 정보를 얻는 새로운 방법도 추가되었습니다. 동물원 요약 통계 단추를 클릭해서 요약 통계 패널을 여세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStatsCompleted"  >요약 통계 패널에는 건물 정보 탭과 기부함 정보 탭이 새롭게 추가되었습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTabHeading"  >건물 정보</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTab"  >건물 목록을 이용하면 동물원에 있는 모든 건물에 대한 정보를 쉽게 볼 수 있습니다. 여기서 알 수 있는 정보는 건물 개장 기간, 총 수익 및 월평균 수익입니다. 건물 정보 탭을 클릭해서 건물 목록을 여세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTabCompleted"  >요약 통계 패널의 다른 목록과 마찬가지로 건물 이름을 클릭하면 즉시 해당 건물로 이동할 수 있습니다. 기부함 정보 탭은 동물원에 있는 모든 기부함에 대한 정보를 제공합니다. 사용 방법은 건물 정보 탭과 같습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeQuickStatsHeading"  >동물원 요약 통계 닫기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeQuickStats"  >X 단추를 클릭해서 요약 통계 패널을 닫으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:closeQuickStatsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphinHeading"  >돌고래 선택하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphin"  >병코돌고래를 비롯한 여러 해양 동물과 함께 수영을 할 수 있는 기능은 Zoo Tycoon 2: Marine Mania에서 가장 돋보이는 추가 기능 중 하나입니다. 이제 돌고래와 함께 수영을 해 보겠습니다! 우선 돌고래가 있는 수조를 찾아서 돌고래를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphinCompleted"  >동물과 함께 수영하기 기능을 이용하면 병코돌고래의 우리로 들어가서 이 멋진 동물과 함께 수영을 할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButtonHeading"  >동물과 함께 수영하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButton"  >동물과 함께 수영하기 단추를 클릭해서 병코돌고래와 함께 수영을 즐기세요!</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButtonCompleted"  >충분히 수영을 즐긴 뒤에 계속하기 단추를 클릭해서 연습 게임을 계속하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadViewHeading"  >1인칭 시점에서 수영하기</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadView"  >1인칭 시점으로도 수조에서 수영을 하거나 잠수할 수 있다는 사실을 아시나요? 1인칭 시점에서 동물원을 산책하는 방법과 다를 것이 없습니다. 마우스 휠을 이용하면 수영을 하면서 잠수하거나 떠오를 수 있습니다. 연습 게임을 계속하려면 평면도 보기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadViewCompleted"  >잠수 중에 사진을 찍을 수도 있습니다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysicsHeading"  >사실적인 공의 움직임</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysics"  >또 하나 재미있는 기능이 있습니다. 공의 움직임이 더욱 사실적으로 변해서 동물들이 장난감이나 큰 공을 가지고 노는 장면이 훨씬 실감나게 표현되었다는 점이죠. 직접 확인하고 싶은 분들을 위해서 동물원 뒤쪽에 큰 공으로 빙 둘러싼 원형 구덩이를 준비했습니다. 공을 구덩이로 떨어뜨려서 어떻게 구르는지 보세요. 1인칭 시점으로 공을 차고 다니는 것도 멋집니다! 충분히 즐긴 뒤에 바다사자 우리에 있는 해적선을 클릭해서 연습 게임을 완료하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysicsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:tutorial_complete"  >
+         
+         
+         
+         축하합니다! Zoo Tycoon 2: Marine Mania의 모든 연습 게임을 완료했습니다! 이제 신나는 해양 공연과 멋진 동물원을 만들 준비는 모두 끝났습니다. 새롭게 추가된 20종의 동물, 20개의 챌린지, 2개의 캠페인 및 다수의 아이템도 눈여겨보세요. 그럼 신나는 바다 탐험을 즐기시기 바랍니다!
+			
+         
+         
+         <p/>
+         
+         
+         
+			Zoo Tycoon 2 게임 방법을 더 배우려면 다른 연습 게임을 시도해 보세요. 연습 게임은 책 아이콘으로 표시되어 있습니다.
+
+         
+         
+         <img src="ui/shared/tutorial_icon.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+         <p/>
+         
+         
+         
+      	주 메뉴로 돌아가려면 X 단추를 클릭하세요. 
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_campaignname"  >Marine Mania 연습 게임</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1"  >연습 게임 1: 수조 건설의 기초</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1short"  >수조 건설의 기초</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1overviewshort"  >해양 동물들의 우리인 수조를 만드는 기초적인 방법을 익힙니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2"  >연습 게임 2: 혼합형 수조 건설</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2short"  >혼합형 수조 건설</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2overviewshort"  >육지와 물이 결합된 혼합형 수조를 만드는 방법을 익힙니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3"  >연습 게임 3: 동물 훈련</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3short"  >동물 훈련</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3overviewshort"  >동물들이 묘기를 부릴 수 있도록 훈련시키는 방법을 익힙니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4"  >연습 게임 4: 공연 만들기</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4short"  >공연 만들기</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4overviewshort"  >공연을 만들고 일정을 관리하는 방법을 익힙니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5"  >연습 게임 5: Marine Mania의 특징</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5short"  >Marine Mania의 특징</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5overviewshort"  >Marine Mania의 새롭게 향상된 다양한 기능을 배웁니다.</LOC_STRING>
+</ZT2Strings>

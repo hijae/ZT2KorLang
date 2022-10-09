@@ -1,0 +1,254 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation:entry"  >이동 시설</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Endangered Species의 이동 수단에는 지프와 리프트가 있습니다.
+                  <p/>
+왼쪽 목록에서 이동 시설 아이템을 클릭하면 자세한 정보가 표시됩니다.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:entry"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객이 <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">지프</color></u></a>를 타고 내리는 곳입니다. <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">도로</color></u></a> 노선을 완성하면 지프 탑승장이 개장되어 차량을 구입할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skystation:entry"  >리프트 탑승장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skystation:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객이 <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">리프트</color></u></a>를 타고 내리는 곳입니다. 리프트 케이블을 연결해 노선을 완성하면 리프트 탑승장이 개장되어 리프트를 구입할 수 있습니다.
+      <p/>
+리프트 케이블을 설치하려면 <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">리프트 기둥</color></u></a>을 설치하세요.
+      <p/>
+힌트: 좁은 공간에서 탑승장 2개만으로 최단 노선을 만들려면 기둥을 세우지 않고 탑승장 2개를 케이블로 연결하면 됩니다. 이때 리프트는 탑승장 안에서 운행 방향을 바꿉니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skytrampole:entry"  >리프트 기둥</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skytrampole:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+리프트 케이블을 설치하기 위해 세우는 시설입니다. 기둥을 세워 <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">리프트 탑승장</color></u></a>과 연결하려면 먼저 이동 시설 패널에서 리프트 기둥을 선택합니다. 그리고 기둥을 설치할 곳에 커서를 클릭한 다음 탑승장을 클릭합니다.
+		<p/>
+리프트 기둥은 케이블 선 1개로 연결되어 한 방향으로만 움직이며, 리프트 T자 기둥은 케이블 선 2개로 연결되어 양방향으로 움직입니다. 리프트 기둥과 리프트 T자 기둥은 서로 연결되지 않습니다.		
+     <p/>
+팁: 리프트 기둥의 높이도 조절할 수 있습니다. 커서를 기둥 끝에 가져갑니다. 커서가 손 모양으로 바뀌면 클릭한 채 위 아래로 움직여 원하는 높이로 조절합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:entry"  >도로</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+투어를 위해 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a>을 출발한 <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">지프</color></u></a>가 달리는 길입니다. 도로를 건설해 지프 투어 노선을 완성하면 탑승장이 개장됩니다. Zoo Tycoon 2: Endangered Species에는 일방 통행로만 있습니다!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:entry"  >건널목 차단기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+지프가 지나갈 수 있도록 관람객의 보행을 막는 시설로서 인도와 차도의 교차 지점에 설치합니다. 지프가 건널목에 도착하면 차단기가 내려와 보행자가 길을 건너지 못하도록 막고 지프가 지나가면 다시 차단기가 올라갑니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elevatedpath:entry"  >다리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elevatedpath:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+다가가기 어려운 곳에 연결하거나 관람객에게 동물원의 멋진 경관을 선사하기 위해 설치합니다. 오르막과 내리막을 이용해 다리와 지면, 다리와 다리 사이를 이어 주고, 다리의 수평 부분 위에 건물 등의 다양한 아이템을 올려놓을 수 있습니다.
+      <p/>
+다리 기둥은 오르막, 내리막, 수평 부분을 설치할 때 자동으로 세워집니다. 원하면 다리 기둥을 없앨 수도 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elevatedpathrailing:entry"  >다리 난간</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elevatedpathrailing:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+관람객들이 다리에서 떨어지지 않도록 보호해 주며 장식 효과도 뛰어납니다. 다리 난간을 교체하면 색다른 분위기가 연출됩니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry"  >지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 사이를 오갑니다. 4인승 지프에는 3명, 7인승 지프에는 6명의 이용객이 탑승할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry"  >사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 사이를 오갑니다. 4인승 지프에는 3명, 7인승 지프에는 6명의 이용객이 탑승할 수 있습니다. 
+<p/>
+투어 운영 2등상을 수상하면 멋진 그림이 그려진 사파리 지프를 사용할 수 있습니다.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gondola:entry"  >리프트</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gondola:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">리프트 탑승장</color></u></a> 사이를 오갑니다. 차종별로 탑승 인원이 다릅니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gondolaupgrade:entry"  >신형 리프트</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gondolaupgrade:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">리프트 탑승장</color></u></a> 사이를 오갑니다. 차종별로 탑승 인원이 다릅니다. 
+		<p/>
+이동 시설 운영 3등상을 수상하면 멋진 디자인의 신형 리프트를 사용할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sixseater:entry"  >7인승</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sixseater:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_suv:entry"  >8인승</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_suv:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_truck:entry"  >7인승</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_truck:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

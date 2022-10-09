@@ -1,0 +1,686 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Wildebeest"  >누</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_stt"  >누</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_lower"  >누</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_ltt"  >
+         <color r="255" g="248" b="178">
+            누
+         </color>
+         <br/>
+         누를 선택하고 적당한 우리에 넣어 주세요. 아프리카 사바나 지역에서 흔히 볼 수 있는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican"  >아프리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_stt"  >아프리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_lower"  >아프리카들소</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카들소
+         </color>
+         <br/>
+         아프리카들소를 선택하고 적당한 우리에 넣어 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada"  >겔라다개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_stt"  >겔라다개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_lower"  >겔라다개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_ltt"  >
+         <color r="255" g="248" b="178">
+            겔라다개코원숭이
+         </color>
+         <br/>
+         겔라다개코원숭이를 선택하고 적당한 우리에 넣어 주세요. 산악 지대에 사는 개코원숭이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_stt"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_lower"  >뱀잡이수리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_ltt"  >
+         <color r="255" g="248" b="178">
+            뱀잡이수리
+         </color>
+         <br/>
+         뱀잡이수리를 선택하고 적당한 우리에 넣어 주세요. 검은 관모와 긴 다리를 지닌 맹금류입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark"  >땅돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_stt"  >땅돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_lower"  >땅돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_ltt"  >
+         <color r="255" g="248" b="178">
+            땅돼지
+         </color>
+         <br/>
+         땅돼지를 선택하고 적당한 우리에 넣어 주세요. 땅을 파는 것을 좋아하는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred"  >아프리카가시거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_stt"  >아프리카가시거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_lower"  >아프리카가시거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카가시거북
+         </color>
+         <br/>
+         아프리카가시거북을 선택하고 적당한 우리에 넣어 주세요. 애완용으로 인기가 높은 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary"  >바바리에이프원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_stt"  >바바리에이프원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_lower"  >바바리에이프원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_ltt"  >
+         <color r="255" g="248" b="178">
+            바바리에이프원숭이
+         </color>
+         <br/>
+         바바리에이프원숭이를 선택하고 적당한 우리에 넣어 주세요. 꼬리가 없는 짧은꼬리원숭이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo"  >넓적뿔영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_stt"  >넓적뿔영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_lower"  >넓적뿔영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_ltt"  >
+         <color r="255" g="248" b="178">
+            넓적뿔영양
+         </color>
+         <br/>
+         넓적뿔영양을 선택하고 적당한 우리에 넣어 주세요. 줄무늬가 있는 숲 영양입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal"  >카라칼</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_stt"  >카라칼</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_lower"  >카라칼</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_ltt"  >
+         <color r="255" g="248" b="178">
+            카라칼
+         </color>
+         <br/>
+         카라칼을 선택하고 적당한 우리에 넣어 주세요. 귀가 특징적인 고양이과 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian"  >에티오피아늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_stt"  >에티오피아늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_lower"  >에티오피아늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_ltt"  >
+         <color r="255" g="248" b="178">
+            에티오피아늑대
+         </color>
+         <br/>
+         에티오피아늑대를 선택하고 적당한 우리에 넣어 주세요. 개과 동물 중에서 가장 희귀한 종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk"  >게레눅</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_stt"  >게레눅</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_lower"  >게레눅</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_ltt"  >
+         <color r="255" g="248" b="178">
+            게레눅
+         </color>
+         <br/>
+         게레눅을 선택하고 적당한 우리에 넣어 주세요. 목이 긴 영양입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill"  >맨드릴개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_stt"  >맨드릴개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_lower"  >맨드릴개코원숭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_ltt"  >
+         <color r="255" g="248" b="178">
+            맨드릴개코원숭이
+         </color>
+         <br/>
+         맨드릴개코원숭이를 선택하고 적당한 우리에 넣어 주세요. 포유류 중에서 가장 화려한 색을 자랑하는 원숭이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat"  >미어캣</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_stt"  >미어캣</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_lower"  >미어캣</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_ltt"  >
+         <color r="255" g="248" b="178">
+            미어캣
+         </color>
+         <br/>
+         미어캣을 선택하고 적당한 우리에 넣어 주세요. 사회성이 매우 강한 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile"  >나일왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_stt"  >나일왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_lower"  >나일왕도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_ltt"  >
+         <color r="255" g="248" b="178">
+            나일왕도마뱀
+         </color>
+         <br/>
+         나일왕도마뱀을 선택하고 적당한 우리에 넣어 주세요. 아프리카 강에서 흔하게 볼 수 있는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy"  >애기하마</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_stt"  >애기하마</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_lower"  >애기하마</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_ltt"  >
+         <color r="255" g="248" b="178">
+            애기하마
+         </color>
+         <br/>
+         애기하마를 선택하고 적당한 우리에 넣어 주세요. 멸종 위기에 처해 있는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel"  >라텔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_stt"  >라텔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_lower"  >라텔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_ltt"  >
+         <color r="255" g="248" b="178">
+            라텔
+         </color>
+         <br/>
+         라텔을 선택하고 적당한 우리에 넣어 주세요. 꿀을 무척 좋아하는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped"  >줄무늬하이에나</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_stt"  >줄무늬하이에나</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_lower"  >줄무늬하이에나</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_ltt"  >
+         <color r="255" g="248" b="178">
+            줄무늬하이에나
+         </color>
+         <br/>
+         줄무늬하이에나를 선택하고 적당한 우리에 넣어 주세요. 주로 다른 동물이 남긴 찌꺼기를 먹고 살지만 직접 사냥을 하기도 하는 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog"  >혹멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_stt"  >혹멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_lower"  >혹멧돼지</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_ltt"  >
+         <color r="255" g="248" b="178">
+            혹멧돼지
+         </color>
+         <br/>
+         혹멧돼지를 선택하고 적당한 우리에 넣어 주세요. 멧돼지과 동물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite"  >흰코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_stt"  >흰코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_lower"  >흰코뿔소</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_ltt"  >
+         <color r="255" g="248" b="178">
+            흰코뿔소
+         </color>
+         <br/>
+         흰코뿔소를 선택하고 적당한 우리에 넣어 주세요. 코뿔소 중에서 가장 흔하게 볼 수 있는 종입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai"  >마사이기린</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_stt"  >마사이기린</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_lower"  >마사이기린</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_ltt"  >
+         <color r="255" g="248" b="178">
+            마사이기린
+         </color>
+         <br/>
+         마사이기린을 선택하고 적당한 우리에 넣어 주세요. 기린 중에서 가장 키가 큰 기린입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_Gift"  >누 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_Gift_stt"  >누 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_Gift_lower"  >누 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Wildebeest_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            누 가방
+         </color>
+         <br/>누를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_Gift"  >애기하마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_Gift_stt"  >애기하마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_Gift_lower"  >애기하마 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:HippopotamusPygmy_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            애기하마 가방
+         </color>
+         <br/>애기하마를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_Gift"  >아프리카가시거북 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_Gift_stt"  >아프리카가시거북 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_Gift_lower"  >아프리카가시거북 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:TortoiseAfricanSpurred_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카가시거북 가방
+         </color>
+         <br/>아프리카가시거북을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_Gift"  >뱀잡이수리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_Gift_stt"  >뱀잡이수리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_Gift_lower"  >뱀잡이수리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdSecretary_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            뱀잡이수리 인형
+         </color>
+         <br/>뱀잡이수리를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_Gift"  >아프리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_Gift_stt"  >아프리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_Gift_lower"  >아프리카들소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuffaloAfrican_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카들소 가방
+         </color>
+         <br/>아프리카들소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_Gift"  >바바리에이프원숭이 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_Gift_stt"  >바바리에이프원숭이 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_Gift_lower"  >바바리에이프원숭이 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:ApeBarbary_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            바바리에이프원숭이 가방
+         </color>
+         <br/>바바리에이프원숭이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_Gift"  >흰코뿔소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_Gift_stt"  >흰코뿔소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_Gift_lower"  >흰코뿔소 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWhite_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            흰코뿔소 가방
+         </color>
+         <br/>흰코뿔소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_Gift"  >겔라다개코원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_Gift_stt"  >겔라다개코원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_Gift_lower"  >겔라다개코원숭이 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gelada_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            겔라다개코원숭이 인형
+         </color>
+         <br/>겔라다개코원숭이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_Gift"  >땅돼지 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_Gift_stt"  >땅돼지 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_Gift_lower"  >땅돼지 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aardvark_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            땅돼지 인형
+         </color>
+         <br/>땅돼지를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_Gift"  >넓적뿔영양 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_Gift_stt"  >넓적뿔영양 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_Gift_lower"  >넓적뿔영양 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bongo_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            넓적뿔영양 인형
+         </color>
+         <br/>넓적뿔영양을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_Gift"  >라텔 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_Gift_stt"  >라텔 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_Gift_lower"  >라텔 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ratel_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            라텔 인형
+         </color>
+         <br/>라텔을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_Gift"  >에티오피아늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_Gift_stt"  >에티오피아늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_Gift_lower"  >에티오피아늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WolfEthiopian_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            에티오피아늑대 인형
+         </color>
+         <br/>에티오피아늑대를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_Gift"  >미어캣 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_Gift_stt"  >미어캣 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_Gift_lower"  >미어캣 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Meerkat_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            미어캣 인형
+         </color>
+         <br/>미어캣을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_Gift"  >마사이기린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_Gift_stt"  >마사이기린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_Gift_lower"  >마사이기린 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiraffeMasai_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            마사이기린 인형
+         </color>
+         <br/>마사이기린을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_Gift"  >카라칼 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_Gift_stt"  >카라칼 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_Gift_lower"  >카라칼 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Caracal_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            카라칼 모자
+         </color>
+         <br/>카라칼을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_Gift"  >혹멧돼지 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_Gift_stt"  >혹멧돼지 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_Gift_lower"  >혹멧돼지 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warthog_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            혹멧돼지 모자
+         </color>
+         <br/>혹멧돼지를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_Gift"  >맨드릴개코원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_Gift_stt"  >맨드릴개코원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_Gift_lower"  >맨드릴개코원숭이 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mandrill_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            맨드릴개코원숭이 셔츠
+         </color>
+         <br/>맨드릴개코원숭이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_Gift"  >게레눅 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_Gift_stt"  >게레눅 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_Gift_lower"  >게레눅 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gerenuk_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            게레눅 셔츠
+         </color>
+         <br/>게레눅을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_Gift"  >줄무늬하이에나 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_Gift_stt"  >줄무늬하이에나 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_Gift_lower"  >줄무늬하이에나 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:HyenaStriped_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            줄무늬하이에나 셔츠
+         </color>
+         <br/>줄무늬하이에나를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_Gift"  >나일왕도마뱀 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_Gift_stt"  >나일왕도마뱀 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_Gift_lower"  >나일왕도마뱀 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonitorNile_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            나일왕도마뱀 셔츠
+         </color>
+         <br/>나일왕도마뱀을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TermiteMound_Insects_Broken"  >부서진 흰개미집</LOC_STRING>
+      <LOC_STRING _locID="entityname:TermiteMound_Insects_Broken_stt"  >부서진 흰개미집</LOC_STRING>
+      <LOC_STRING _locID="entityname:TermiteMound_Insects_Broken_lower"  >부서진 흰개미집</LOC_STRING>
+      <LOC_STRING _locID="entityname:TermiteMound_Insects_Broken_ltt"  >
+         <color r="255" g="248" b="178">
+            부서진 흰개미집
+         </color>
+         <br/>
+         부서진 흰개미집을 선택하고 적당한 위치에 놓으세요. 내부에 곤충을 넣을 수 있는 작은 집입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LizardLive"  >살아있는 도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:LizardLive_stt"  >살아있는 도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:LizardLive_lower"  >살아있는 도마뱀</LOC_STRING>
+      <LOC_STRING _locID="entityname:LizardLive_ltt"  >
+         <color r="255" g="248" b="178">
+            살아있는 도마뱀
+         </color>
+         <br/>
+         살아있는 도마뱀을 선택하고 적당한 위치에 놓으세요. 육식 동물의 사냥 연습용 먹이입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SqueakyToy"  >삑삑이 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SqueakyToy_stt"  >삑삑이 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SqueakyToy_lower"  >삑삑이 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SqueakyToy_ltt"  >
+         <color r="255" g="248" b="178">
+            삑삑이 장난감
+         </color>
+         <br/>
+         삑삑이 장난감을 선택하고 적당한 위치에 놓으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Large"  >대형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Large_stt"  >대형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Large_lower"  >대형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 사바나 동굴
+         </color>
+         <br/>
+         대형 사바나 동굴을 설치합니다. 땅돼지 등의 동물이 사용하는 큰 동굴입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Small"  >소형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Small_stt"  >소형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Small_lower"  >소형 사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Savannah_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 사바나 동굴
+         </color>
+         <br/>
+         소형 사바나 동굴을 설치합니다. 땅돼지 등의 동물이 사용하는 작은 동굴입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kopje"  >작은 언덕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kopje_stt"  >작은 언덕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kopje_lower"  >작은 언덕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kopje_ltt"  >
+         <color r="255" g="248" b="178">
+            작은 언덕
+         </color>
+         <br/>
+         작은 언덕을 설치합니다. 동물들이 안에 들어가거나 위에 앉아서 쉴 수 있는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SecretaryBird_Nest"  >뱀잡이수리 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:SecretaryBird_Nest_stt"  >뱀잡이수리 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:SecretaryBird_Nest_lower"  >뱀잡이수리 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:SecretaryBird_Nest_ltt"  >
+         <color r="255" g="248" b="178">
+            뱀잡이수리 둥지
+         </color>
+         <br/>
+         뱀잡이수리 둥지를 선택하고 적당한 위치에 설치하세요. 뱀잡이수리를 비롯한 대형 맹금류의 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MeerkatBurrow_Shelter"  >미어캣 초소</LOC_STRING>
+      <LOC_STRING _locID="entityname:MeerkatBurrow_Shelter_stt"  >미어캣 초소</LOC_STRING>
+      <LOC_STRING _locID="entityname:MeerkatBurrow_Shelter_lower"  >미어캣 초소</LOC_STRING>
+      <LOC_STRING _locID="entityname:MeerkatBurrow_Shelter_ltt"  >
+         <color r="255" g="248" b="178">
+            미어캣 초소
+         </color>
+         <br/>
+         미어캣 초소를 설치합니다. 미어캣은 이 위에 올라가서 놉니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ReptilePool"  >파충류 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReptilePool_stt"  >파충류 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReptilePool_lower"  >파충류 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReptilePool_ltt"  >
+         <color r="255" g="248" b="178">
+            파충류 웅덩이
+         </color>
+         <br/>
+         파충류 웅덩이를 설치합니다. 파충류는 몸에 수분이 부족해지면 이곳을 이용합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HeatLamp"  >일광욕 램프</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeatLamp_stt"  >일광욕 램프</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeatLamp_lower"  >일광욕 램프</LOC_STRING>
+      <LOC_STRING _locID="entityname:HeatLamp_ltt"  >
+         <color r="255" g="248" b="178">
+            일광욕 램프
+         </color>
+         <br/>
+         일광욕 램프를 설치합니다. 파충류는 이곳에서 몸을 따뜻하게 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty"  >5인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_stt"  >5인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_lower"  >5인승 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_ltt"  >
+         <color r="255" g="248" b="178">
+            5인승 지프
+         </color>
+         <br/>
+         5인승 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Upgraded"  >5인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Upgraded_stt"  >5인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Upgraded_lower"  >5인승 사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Upgraded_ltt"  >
+         <color r="255" g="248" b="178">
+            5인승 사파리 지프
+         </color>
+         <br/>
+         5인승 사파리 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Africa"  >4인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Africa_stt"  >4인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Africa_lower"  >4인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Africa_ltt"  >
+         <color r="255" g="248" b="178">
+            4인승 아프리카 지프
+         </color>
+         <br/>
+         4인승 아프리카 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Africa"  >7인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Africa_stt"  >7인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Africa_lower"  >7인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:SixSeater_Africa_ltt"  >
+         <color r="255" g="248" b="178">
+            7인승 아프리카 지프
+         </color>
+         <br/>
+         7인승 아프리카 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Africa"  >5인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Africa_stt"  >5인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Africa_lower"  >5인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Jeep_Liberty_Africa_ltt"  >
+         <color r="255" g="248" b="178">
+            5인승 아프리카 지프
+         </color>
+         <br/>
+         5인승 아프리카 지프를 구입합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FourSeater_Africa"  >4인승 아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_TermiteMound_Insects_Broken:entry"  >부서진 흰개미집</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_TermiteMound_Insects_Broken:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SaltLick_df/SaltLick_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+땅돼지는 흰개미집을 부수고 안에 있는 곤충을 먹는 습성이 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_terrain_insects:entry"  >곤충</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_terrain_insects:text"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities/objects/food/Terrain_Insects/Terrain_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+곤충은 미어캣에서 곰까지 다양한 동물들에게 없어서는 안 될 중요한 먹이입니다. 땅돼지를 비롯한 일부 대형 동물들은 거의 곤충만 먹고 삽니다.  
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livelizard:entry"  >살아있는 도마뱀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livelizard:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/units/animals/LizardLive/LizardLive_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+육식 동물들은 먹이를 직접 잡아서 먹는 것을 더 좋아합니다! 많은 동물원에서는 동물들의 활기찬 생활을 위해 살아있는 먹이를 주고 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squeakytoy:entry"  >삑삑이 장난감</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squeakytoy:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SqueakyToy/SqueakyToy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+고양이과, 개과 동물을 비롯한 많은 동물들이 삑삑이 장난감을 좋아합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatlamp:entry"  >일광욕 램프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatlamp:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+      			<img src="entities/objects/enrichment/HeatLamp/HeatLamp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+변온 동물은 주변 온도에 따라 체온이 함께 변합니다. 체온이 너무 오르면 땅굴에 들어가거나 그늘로 숨어 체온을 내립니다. 만약 체온이 너무 떨어지면 햇볕을 쬐면서 체온을 올립니다. 아프리카가시거북과 같은 파충류는 일광욕 램프를 이용해 체온을 유지합니다.  
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_savannah:entry"  >사바나 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_savannah:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Savannah_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+땅돼지를 비롯한 사바나 동물들은 어둠 속에서 편안함을 느끼는 특성이 있어서 동굴을 좋아합니다.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kopje:entry"  >작은 언덕</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kopje:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+		<img src="entities/objects/shelters/Kopje/Kopje_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+작은 언덕은 아프리카 평원에 솟아난 바위 언덕입니다. 고양이과 동물과 개과 동물은 작은 언덕 위에 오르는 것을 좋아하는 반면 영장류와 일부 고양이과 동물은 작은 언덕 내부를 안식처로 이용합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_secretarybird_nest:entry"  >뱀잡이수리 둥지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_secretarybird_nest:text"  >
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/SecretaryBird_Nest/SecretaryBird_Nest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+뱀잡이수리는 대부분의 시간을 하늘이 아닌 땅에서 보냅니다. 하지만 둥지는 나무에 짓습니다. 뱀잡이수리 둥지는 이런 뱀잡이수리의 특성에 맞게 제작된 둥지입니다.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkatburrow_shelter:entry"  >미어캣 초소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkatburrow_shelter:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/enrichment/MeerkatBurrow_Shelter/MeerkatBurrow_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+미어캣은 사회성이 높은 동물답게 협력하여 맹수들의 위협에 대항합니다. 무리 구성원들이 먹이를 구하러 나갈 때도 한 마리는 남아서 보초를 섭니다. 보초 역할을 하는 미어캣은 지평선을 관찰하면서 적이 있는지 감시합니다. 보초 미어캣은 넓은 시야 확보를 위해 높은 지대를 탐색하며 바위 위 또는 나무에 오르기도 합니다.
+<p/>
+미어캣은 미어캣 초소 위에서 망 보는 것을 좋아합니다. 미어캣 초소는 은신처로 사용되기도 합니다.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reptilepool:entry"  >파충류 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reptilepool:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/ReptilePool/ReptilePool_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+파충류 웅덩이는 나일왕도마뱀을 비롯한 파충류들의 안식처입니다. 이 웅덩이는 체온 조절, 휴식, 피부의 수분 유지 등의 용도로 쓰입니다.
+					</color>
+				</cell>
+			</cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,1702 @@
+<ZT2Strings>
+      <LOC_STRING _locID="biometype:format"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine"  >고산</LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            고산
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest"  >북방림</LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest_ltt"  >
+         <color r="255" g="248" b="178">
+            북방림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest"  >온대림 </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest_ltt"  >
+         <color r="255" g="248" b="178">
+            온대림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:desert"  >사막</LOC_STRING>
+      <LOC_STRING _locID="biometype:desert_ltt"  >
+         <color r="255" g="248" b="178">
+            사막
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland"  >초원</LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            초원
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland"  >격자 무늬 땅</LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland_ltt"  >
+         <color r="255" g="248" b="178">
+            격자 무늬 땅
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest"  >열대우림</LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            열대우림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah"  >사바나</LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            사바나
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub"  >관목림</LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            관목림
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra"  >툰드라</LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            툰드라
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands"  >습지대</LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            습지대
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:coastal"  >연안</LOC_STRING>
+      <LOC_STRING _locID="biometype:coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            연안
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:pelagic"  >원양</LOC_STRING>
+      <LOC_STRING _locID="biometype:pelagic_ltt"  >
+         <color r="255" g="248" b="178">
+            원양
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:reef"  >암초</LOC_STRING>
+      <LOC_STRING _locID="biometype:reef_ltt"  >
+         <color r="255" g="248" b="178">
+            암초
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:benthic"  >해저</LOC_STRING>
+      <LOC_STRING _locID="biometype:benthic_ltt"  >
+         <color r="255" g="248" b="178">
+            해저
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:icon_stt"  >고산</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:ground"  >암석</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_stt"  >암석</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:mix"  >풀과 암석</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_stt"  >풀과 암석</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix"  >불모지</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_stt"  >불모지</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            불모지
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         불모지로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 불모지로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain"  >운무림</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_stt"  >운무림</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            운무림
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         운무림으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 운무림으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:icon_stt"  >북방림</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover"  >산림지</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_stt"  >산림지</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            산림지
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         산림지로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 솔잎으로 뒤덮인 산림지 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix"  >산림지와 흙</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_stt"  >산림지와 흙</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            산림지와 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         산림지와 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 솔잎과 흙으로 뒤덮인 산림지 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_stt"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 적은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 적은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 적은 숲으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain"  >나무가 많은 숲</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_stt"  >나무가 많은 숲</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 많은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 많은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 많은 숲으로 이루어진 환경을 만들 수 있습니다.
+         
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:icon_stt"  >온대림</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover"  >산림지</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_stt"  >산림지</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            산림지
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         산림지로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 낙엽으로 뒤덮인 산림지 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix"  >산림지와 흙</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_stt"  >산림지와 흙</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            산림지와 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         산림지와 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 낙엽과 흙으로 뒤덮인 산림지 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_stt"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 적은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 적은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 적은 숲으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain"  >나무가 많은 숲</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_stt"  >나무가 많은 숲</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 많은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 많은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 많은 숲으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:icon_stt"  >사막</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:ground"  >암석</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_stt"  >암석</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover"  > 모래</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_stt"  > 모래</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            모래
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         모래로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 모래로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:mix"  >모래와 암석</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_stt"  >모래와 암석</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            모래와 암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         모래와 암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 모래와 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix"  >초목이 적은 수풀</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_stt"  >초목이 적은 수풀</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            초목이 적은 수풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         초목이 적은 수풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 작은 나무와 바위로 뒤덮인 사막 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain"  >바람막이 모래 언덕</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_stt"  >바람막이 모래 언덕</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            바람막이 모래 언덕
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         바람막이 모래 언덕으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 황량한 바람막이 모래 언덕으로 뒤덮인 사막 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:icon_stt"  >초원 </LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix"  >키가 큰 풀</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_stt"  >키가 큰 풀</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            키가 큰 풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         키가 큰 풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 키가 큰 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_stt"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 적은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 적은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 적은 숲으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="gridland:ground"  >격자 무늬 사각형(대각선 있음)</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground-cover"  >격자 무늬 사각형(대각선 없음)</LOC_STRING>
+      <LOC_STRING _locID="gridland:mix"  >혼합된 격자 무늬 땅</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:icon_stt"  >열대우림</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix"  >나무가 적은 열대우림</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_stt"  >나무가 적은 열대우림</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 적은 열대우림
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 적은 열대우림으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 적은 열대우림으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain"  >나무가 많은 열대우림</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_stt"  >나무가 많은 열대우림</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 많은 열대우림
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 많은 열대우림으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 많은 열대우림으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:icon_stt"  >사바나</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix"  >키가 큰 풀</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_stt"  >키가 큰 풀</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            키가 큰 풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         키가 큰 풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 키가 큰 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_stt"  >나무가 적은 숲</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            나무가 적은 숲
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         나무가 적은 숲으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 나무가 적은 숲으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:icon_stt"  >관목림</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix"  >울퉁불퉁한 지형</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_stt"  >울퉁불퉁한 지형</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            울퉁불퉁한 지형
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         울퉁불퉁한 지형으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 저지대 식물과 바위가 있는 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain"  >초목이 적은 수풀</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_stt"  >초목이 적은 수풀</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            초목이 적은 수풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         초목이 적은 수풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 바위, 나무와 저지대 식물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:icon_stt"  >툰드라</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:ground"  >암석</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_stt"  >암석</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover"  >눈</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_stt"  >눈</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            눈
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         눈으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 눈으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:mix"  >눈과 암석</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_stt"  >눈과 암석</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            눈과 암석
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         눈과 암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 눈과 암석으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix"  >바위가 많은 툰드라 환경</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_stt"  >바위가 많은 툰드라 환경</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            바위가 많은 툰드라 환경
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         많은 바위로 이루어진 툰드라 환경입니다. 땅 위에 커서를 놓고 클릭하면 커다란 바위와 함께 얼음과 눈으로 이루어진 툰드라 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain"  >바람막이 언덕이 있는 툰드라 환경</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_stt"  >바람막이 언덕이 있는 툰드라 환경</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            바람막이 언덕이 있는 툰드라 환경
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         바람막이 언덕으로 이루어진 툰드라 환경입니다. 땅 위에 커서를 놓고 클릭하면 바위와 바람막이 언덕으로 뒤덮인 툰드라 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:icon_stt"  >습지대</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix"  >습지</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_stt"  >습지</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            습지
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         습지로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 습지대 환경에 어울리는 바위와 식물이 있는 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain"  >늪</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_stt"  >늪</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            늪
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         늪으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 바위와 풀, 나무, 키가 큰 풀이 있는 늪지대 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:icon_stt"  >연안</LOC_STRING>
+      <LOC_STRING _locID="coastal:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="coastal:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="coastal:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="coastal:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="coastal:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="coastal:ground_stt"  >흙</LOC_STRING>
+      <LOC_STRING _locID="coastal:ground_ltt"  >
+         <color r="255" g="248" b="178">
+            흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="coastal:ground-cover_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="coastal:ground-cover_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="coastal:mix_stt"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="coastal:mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀과 흙
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix"  >풀</LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix_stt"  >풀</LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix_ltt"  >
+         <color r="255" g="248" b="178">
+            풀
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix-terrain"  >풀이 적은 초원</LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix-terrain_stt"  >풀이 적은 초원</LOC_STRING>
+      <LOC_STRING _locID="coastal:foliage-mix-terrain_ltt"  >
+         <color r="255" g="248" b="178">
+            풀이 적은 초원
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         풀이 적은 초원으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀이 적은 초원으로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="pelagic:icon_stt"  >원양</LOC_STRING>
+      <LOC_STRING _locID="pelagic:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="pelagic:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="pelagic:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="pelagic:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="pelagic:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="pelagic:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="reef:icon_stt"  >암초</LOC_STRING>
+      <LOC_STRING _locID="reef:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="reef:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="reef:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="reef:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="reef:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="reef:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="benthic:icon_stt"  >해저</LOC_STRING>
+      <LOC_STRING _locID="benthic:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="benthic:deepwater_stt"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="benthic:deepwater_ltt"  >
+         <color r="255" g="248" b="178">
+            깊은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="benthic:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="benthic:shallowwater_stt"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="benthic:shallowwater_ltt"  >
+         <color r="255" g="248" b="178">
+            얕은 물
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
+      
+      
+      
+      
+      
+      </LOC_STRING>
+</ZT2Strings>

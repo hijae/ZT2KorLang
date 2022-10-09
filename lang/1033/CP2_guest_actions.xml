@@ -1,0 +1,14 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestactions:GoWatchEntertainer"  >Going to watch %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:WatchingEntertainer"  >Watching the antics of %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:HuggingEntertainer"  >Hugging %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:TakingPictureEntertainer"  >Taking a picture with %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoToFossilDigPit"  >Going to dig in %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:UseFossilDigPit"  >Digging in %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:ExitFossilDigPit"  >Exiting %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoToDeliverFossil"  >Going to bring a fossil to the %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:DeliveringFossil"  >Handing over %s</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoingtoDanceStage"  >Going to dance on stage</LOC_STRING>
+      <LOC_STRING _locID="guestactions:DancingAtStage"  >Dancing on stage</LOC_STRING>
+      <LOC_STRING _locID="guestactions:PlayingWith"  >Playing with %s</LOC_STRING>
+</ZT2Strings>

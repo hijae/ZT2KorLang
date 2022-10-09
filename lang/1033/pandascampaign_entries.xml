@@ -1,0 +1,58 @@
+<ZT2Strings>
+      <LOC_STRING _locID="Pandas:Pandasintro">신비한 팬더</LOC_STRING>
+      <LOC_STRING _locID="Pandas:Pandaname">팬순이</LOC_STRING>
+      <LOC_STRING _locID="Pandas:Pandasoverview">
+         
+         
+	세계에서 가장 유명한 동물 중 하나인 자이언트 팬더는 가장 심각한 멸종 위기에 처한 동물이기도 합니다. 가장 훌륭한 시설을 
+	갖춘 동물원만이 자이언트 팬더를 입양할 수 있는 대상이 됩니다. 
+	
+         
+         <p/>
+         
+         
+	번식률이 낮기 때문에 동물원에서 사육하는 자이언트 팬더를 번식시키는 것은 쉽지 
+	않습니다. 자이언트 팬더의 종족 보존을 위해 노력하는 동물원은 아주 높은 평가를 받게되고 
+	종종 많은 기부금과 지원금을 받습니다.
+	
+         
+         <p/>
+         
+         
+	동물원을 건설하여 별 다섯 개 수준으로 만드세요. 동물원에 수컷 자이언트 팬더 한 마리를 입양하면 적합한 번식 환경을 조성할 수 있도록 암컷 팬더는 물론 세계 여러 나라의 지원을 받을 수 있습니다. 
+	이런 조건을 활용해서 자이언트 팬더가 새끼를 낳게 하면 
+	사육되는 자이언트 팬더를 번식시키는 데 성공한 몇 안되는 동물원 중 하나로 역사에 기록될 것입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:Pandasoverviewshort">
+        세계에서 가장 유명한 동물 중 하나인 자이언트 팬더는 가장 심각한 멸종 위기에 처한 동물이기도 합니다. 가장 훌륭한 시설을 
+	갖춘 동물원만이 자이언트 팬더를 입양할 수 있는 대상이 됩니다. 우리 동물원이 그 중 하나가 될 수 있을까요? 이 캠페인의 시나리오를 모두 마치면 황금 팬더 동상을 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasSuccessPart1overview">
+	우리 동물원에 있는 자이언트 팬더 우리가 아시아의 큰 동물원에까지 알려졌습니다. 아시아의 큰 동물원에서는 
+	암컷인 %s을(를) 우리 동물원으로 보내 새끼를 낳게 하려고 합니다. 
+자이언트 팬더 우리에 있는 %s을(를) 잘 돌봐서 새끼를 낳을 수 있게 
+	해야 합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasSuccessPart2overview">
+	자이언트 팬더가 새끼를 낳았습니다. 이제 %s을(를) 우리 동물원에게 계속 기를 수 있습니다. 자이언트 팬더의 새끼가 태어난 것을 기념하여 
+	황금 팬더 동상을 선물로 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:Pandasresult">새끼 팬더가 태어났습니다!</LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasAdoptPanda">
+      	동물원을 별 다섯 개 수준으로 만들고 수컷 자이언트 팬더 한 마리를 입양해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasAdoptPandaOK">
+      	자이언트 팬더를 입양했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasBreeding">
+      	자이언트 팬더 두 마리의 추가적인 생활 조건을 만족시켜서 새끼를 낳게 해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Pandas:PandasBreedingOK">
+      	축하합니다! 사육하는 자이언트 팬더가 새끼를 낳게 하는 데 성공한 몇 안 되는 동물원 중 하나가 되었습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PandasLabels:Pandasshort">신비한 팬더</LOC_STRING>
+      <LOC_STRING _locID="PandasLabels:PandasS1">신비한 팬더</LOC_STRING>
+      <LOC_STRING _locID="PandasLabels:PandasS1short">신비한 팬더</LOC_STRING>
+</ZT2Strings>

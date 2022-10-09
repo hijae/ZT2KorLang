@@ -1,0 +1,1635 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tricknames:Add"  >새 묘기 추가</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Wait"  >대기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Delete"  >삭제</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Jump"  >%1s에서 점프</LOC_STRING>
+      <LOC_STRING _locID="tricknames:StraightUpJump"  >%1s에서 수직 점프</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpFallSide"  >%1s에서 점프 후 옆으로 떨어지기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:DiveJump"  >%1s에서 다이빙 점프</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipForward"  >%1s에서 앞 공중제비</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipBack"  >%1s에서 뒤 공중제비</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipperSplash"  >%1s에서 지느러미로 물 튀기기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Spyhop"  >%1s에서 머리 들기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:TailSplash"  >%1s에서 꼬리로 물 튀기기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:CorkscrewTwist"  >%1s에서 비틀기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:WaterWalk"  >%1s에서 서서 걷기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Squirt"  >%1s에서 물 뿜기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOver"  >%1s 점프</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOn"  >%1s에서 점프</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpSwipeAt"  >%1s 치기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:RamAt"  >%1s 들이받기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SlideOn"  >%1s에서 미끄러지기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SwingOn"  >%1s 타기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SeatOn"  >%1s에 앉기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Playing"  >%1s 연주하기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BalanceOnNose"  >%1s 균형잡기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:PlayingBasketball"  >%1s에 공 던져넣기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BellowOn"  >%1s에서 소리치기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:OpenUp"  >%1s 열기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:ForageIn"  >%1s의 먹이 먹기</LOC_STRING>
+      <LOC_STRING _locID="tricknames:LookCuteOn"  >재롱떨기</LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+                훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 점프 후 옆으로 떨어지기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         점프 후 옆으로 떨어지기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 수직 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         수직 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 다이빙 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         다이빙 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 앞 공중제비 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         앞 공중제비 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 뒤 공중제비
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 뒤 공중제비 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 뒤 공중제비
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         뒤 공중제비 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 뒤 공중제비
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 지느러미로 물 튀기기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         지느러미로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 머리 들기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         머리 들기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 꼬리로 물 튀기기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         꼬리로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 비틀기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 비틀기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 비틀기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         비틀기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 비틀기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 서서 걷기
+         </color>
+         <br/>
+         돌고래에게 묘기 위치에서 서서 걷기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 서서 걷기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+         돌고래에게 후프 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+         돌고래에게 장대 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+         돌고래에게 공 치기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 치기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+         돌고래에게 공 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 치기
+         </color>
+         <br/>
+         돌고래에게 테더볼 치기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 치기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         테더볼 치기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 들이받기
+         </color>
+         <br/>
+         돌고래에게 테더볼 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         테더볼 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+         돌고래에게 특별 미끄럼틀에서 미끄러지기 묘기를 가르칩니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         흰돌고래에게 묘기 위치에서 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+         흰돌고래에게 묘기 위치에서 지느러미로 물 튀기가 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         지느러미로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+         흰돌고래에게 묘기 위치에서 머리 들기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         머리 들기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+         흰돌고래에게 묘기 위치에서 꼬리로 물 튀기기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         꼬리로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 물 뿜기
+         </color>
+         <br/>
+         흰돌고래에게 묘기 위치에서 물 뿜기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 물 뿜기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         물 뿜기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 물 뿜기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+         흰돌고래에게 공 치기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+         흰돌고래에게 공 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 점프 후 옆으로 떨어지기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         점프 후 옆으로 떨어지기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 수직 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         수직 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 앞 공중제비 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         앞 공중제비 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 앞 공중제비
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 지느러미로 물 튀기기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         지느러미로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 머리 들기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         머리 들기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+         범고래에게 묘기 위치에서 꼬리로 물 튀기기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         꼬리로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+         범고래에게 공 치기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+         범고래에게 공 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+         범고래에게 특별 미끄럼틀에서 미끄러지기 묘기를 가르칩니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 점프 후 옆으로 떨어지기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         점프 후 옆으로 떨어지기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 수직 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         수직 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 다이빙 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         다이빙 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 다이빙 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 지느러미로 물 튀기기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         지느러미로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 머리 들기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         머리 들기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+         범고래붙이에게 묘기 위치에서 꼬리로 물 튀기기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         꼬리로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+         범고래붙이에게 후프 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+         범고래붙이에게 장대 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+         범고래붙이에게 공 치기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+         범고래붙이에게 공 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+         범고래붙이에게 특별 미끄럼틀에서 미끄러지기 묘기를 가르칩니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 점프 후 옆으로 떨어지기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         점프 후 옆으로 떨어지기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프 후 옆으로 떨어지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 수직 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         수직 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 수직 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 지느러미로 물 튀기기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         지느러미로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 지느러미로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 머리 들기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         머리 들기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 머리 들기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+         들쇠고래에게 묘기 위치에서 꼬리로 물 튀기기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         꼬리로 물 튀기기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 꼬리로 물 튀기기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+         들쇠고래에게 후프 점프 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            후프 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+         들쇠고래에게 장대 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            장대 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+         들쇠고래에게 공 치기 묘기를 가르칩니다. 이 훈련을 마치면 다음 묘기를 가르칠 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+         들쇠고래에게 공 들이받기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         공 들이받기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 들이받기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         캘리포니아바다사자에게 묘기 위치에서 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_ltt"  >
+         <color r="255" g="248" b="178">
+            미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 미끄럼틀에서 미끄러지기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            미끄럼틀에서 미끄러지기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_ltt"  >
+         <color r="255" g="248" b="178">
+            그네 타기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 그네 타기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            그네 타기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         그네 타기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            그네 타기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자에 앉기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 단상 의자에 앉기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자에 앉기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_ltt"  >
+         <color r="255" g="248" b="178">
+            나팔 연주하기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 나팔 연주하기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            나팔 연주하기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         나팔 연주하기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            나팔 연주하기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공 균형잡기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 공 균형 잡기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            공 균형잡기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_ltt"  >
+         <color r="255" g="248" b="178">
+            트램펄린에서 점프
+         </color>
+         <br/>
+         캘리포니아바다사자에게 트램펄린에서 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            트램펄린에서 점프
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         트램펄린에서 점프 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            트램펄린에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+         캘리포니아바다사자에게 농구 골대에 공 던져넣기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         농구 골대에 공 던져넣기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         태평양바다코끼리에게 묘기 위치에서 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자에 앉기
+         </color>
+         <br/>
+         태평양바다코끼리에게 단상 의자에 앉기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자에 앉기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         단상 의자에 앉기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자에 앉기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 단상에서 소리치기
+         </color>
+         <br/>
+         태평양바다코끼리에게 묘기 단상에서 소리치기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 단상에서 소리치기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         묘기 단상에서 소리치기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 단상에서 소리치기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+         해달에게 묘기 위치에서 점프 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치에서 점프
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 장난감 열기
+         </color>
+         <br/>
+         해달에게 흔들 장난감 열기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 장난감 열기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         흔들 장난감 열기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 장난감 열기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 더미의 먹이 먹기
+         </color>
+         <br/>
+         해달에게 바위 더미의 먹이 먹기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 더미의 먹이 먹기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         바위 더미의 먹이 먹기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 더미의 먹이 먹기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            재롱떨기
+         </color>
+         <br/>
+         해달에게 재롱떨기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            재롱떨기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+         해달에게 농구 골대에 공 던져넣기 묘기를 가르칩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+            가르칠 수 없는 묘기
+         <br/>
+         농구 골대에 공 던져넣기 묘기는 아직 가르칠 수 없습니다. 이 묘기를 가르치려면 이전 묘기를 완벽하게 가르쳐야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대에 공 던져넣기
+         </color>
+         <br/>
+            훈련 완료
+         <br/>
+         훈련을 완료했습니다. 이 묘기를 완벽하게 익혔습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:CreateNewProp"  >%1s을(를) 위한 새로운 공연 도구 만들기</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:ReuseProp"  >%1s을(를) 위한 공연 도구 다시 사용</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:AppendPopularityMarkup"  >%1s - %2s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_05"  >인기도: 별 반 개</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_10"  >인기도: 별 1개</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_15"  >인기도: 별 1개 반</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_20"  >인기도: 별 2개</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_25"  >인기도: 별 2개 반</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_30"  >인기도: 별 3개</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_35"  >인기도: 별 3개 반</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_40"  >인기도: 별 4개</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_45"  >인기도: 별 4개 반</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_50"  >인기도: 별 5개</LOC_STRING>
+</ZT2Strings>

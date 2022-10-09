@@ -1,0 +1,55 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0" />
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat" version="0"  >%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label" version="0"  >
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               사진 찍기 챌린지
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat" version="0"  >
+         <font name="굴림" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat" version="0"  >
+         <font name="굴림" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="0"  >
+         <font name="굴림" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               마우스 커서를 보이거나 숨기려면 마우스 오른쪽 단추를 클릭하세요.
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="0"  >
+         <font name="굴림" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               사진 찍기 모드로 전환하려면 마우스 오른쪽 단추를 클릭하세요.
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel" version="0"  >점수:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt" version="0"  >풀을 먹고 있는 코끼리의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt" version="0"  >걸어가고 있는 코끼리의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt" version="0"  >풀을 먹는 코끼리 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt" version="0"  >걸어가고 있는 코끼리 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1" version="0"  >호랑이 챌린지(난이도 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt" version="0"  >먹이를 먹고 있는 호랑이의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt" version="0"  >먹이를 먹고 있는 호랑이 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt" version="0"  >걸어가고 있는 호랑이의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt" version="0"  >걸어가고 있는 호랑이 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt" version="0"  >배고픈 호랑이의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt" version="0"  >배고픈 호랑이 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt" version="0"  >어미 호랑이와 새끼 호랑이가 함께 있는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt" version="0"  >어미 호랑이와 새끼 호랑이가 함께 있는 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt" version="0"  >고릴라 옆에 있는 호랑이의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt" version="0"  >고릴라 옆에 있는 호랑이 사진 찍기 챌린지를 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt" version="0"  >사진 찍기 챌린지를 완수하려면 목록에 나와있는 모든 사진을 찍어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt" version="0"  >찍은 사진을 사진 찍기 챌린지로 전송하세요.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name" version="0"  >내 사진 앨범</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption" version="0"  >제목 없음</LOC_STRING>
+</ZT2Strings>

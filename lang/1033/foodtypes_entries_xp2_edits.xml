@@ -1,0 +1,22 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_fish" version="2" />
+      <LOC_STRING _locID="zoopedia_fish:entry" version="2"  >생선</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fish:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>곰, 펭귄, 악어, 돌고래를 비롯한 많은 동물들이 주식으로 삼는 먹이입니다.
+               <p/>생선은 그냥 땅 위에 놓거나 부표, 먹이 상자, 인공 암초 등에 놓을 수 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+   
+</ZT2Strings>

@@ -1,0 +1,14 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoomessages" version="11" />
+      <LOC_STRING _locID="zoomessages:sugar_mode_guest_on" version="11"  >Sugar Shock is now active for young guests!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:sugar_mode_guest_off" version="11"  >Sugar Shock is no longer active for young guests.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_guest_on" version="11"  >Caffeine Craze is now active for adult guests!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_guest_off" version="11"  >Caffeine Craze is no longer active for adult guests.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_staff_on" version="11"  >Caffeine Craze is now active for zoo staff!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_staff_off" version="11"  >Caffeine Craze is no longer active for zoo staff.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_found" version="11"  >One of your animals is diseased!  Go to the Extinct Research Lab to find a cure.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_cured" version="11"  >You found the cure to the disease! Walk up to your animals and press SPACEBAR to cure them.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_reward" version="11"  >You received a reward of %m for finding the cure to the disease!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:animal_rampage" version="11"  >%s이(가) 날뛰고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:animal_dock_failed" version="11"  >%1s이(가) %2s에 다가갈 수 없습니다.</LOC_STRING>
+</ZT2Strings>

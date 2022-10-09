@@ -1,0 +1,172 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aquarium:entry"  >수족관</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aquarium:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>수족관은 작은 해양 동물들의 모습을 가까이에서 볼 수 있는 훌륭한 시설입니다. 작은 이동식 수족관은 많은 공간을 차지하지 않기 때문에 동물원 어디에나 설치할 수 있습니다. 관람객들은 가까이에서 동물들을 바라보는 것을 좋아합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:entry"  >해적 대포</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>이 고풍스런 대포는 우리를 해적 스타일로 꾸밉니다. 수조에 설치하면 거품을 발사하기도 하고, 지상에 설치하면 동물원을 꾸미기에 좋습니다.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:entry"  >비단잉어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>비단잉어는 화려한 색깔과 멋진 무늬 덕분에 관상용으로 인기가 높은 잉어입니다. 수조에 넣으면 관람객들이 즐겁게 볼 수 있는 흥밋거리가 되지만, 상어 같은 포식자가 살고 있는 수조에 넣으면 잡아 먹어 버립니다!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry"  >앵무조개 식수대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>앵무조개 식수대는 수익을 남기지는 못하지만 관람객들의 갈증을 시원하게 풀어줄 수 있는 좋은 시설입니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:entry"  >흰돌고래 분수대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>멋진 흰돌고래 모양의 이 분수대는 지나가는 관람객들에게 물을 뿌려주기 때문에 아이들이 특히 좋아합니다. 길에 설치하면 아치형 출입문이 됩니다.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:entry"  >해적 돛대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>고풍스런 해적선의 돛대로 수조나 지상에 설치하면 멋진 장식이 됩니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:entry"  >해적선</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>물속이나 지상이나 어디에 설치하든 멋진 분위기를 연출하는 고풍스런 해적선입니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:entry"  >흔들 해마</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>아이들은 거대한 흔들 해마를 타고 심해를 탐험하는 공상을 하곤 합니다.	해양 동물원 운영 2등상을 수상하면 흔들 해마를 설치할 수 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:entry"  >보물 상자 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>해적의 황금이 가득한 낡은 보물 상자는 수조나 지상에서 모두 멋진 장식품이 됩니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:entry"  >등대 쉼터</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               등대 쉼터는 관람객들에게 좋은 휴식처가 됩니다. 관람객들은 쉼터에서 편하게 휴식을 취하고 동물원 전체를 한눈에 볼 수 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:entry"  >해양 훈련 동상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+동물원에 설치하면 관람객이 감상할 수 있는 멋진 동상입니다. 해양 동물 훈련에서 100%를 100번 달성하면 해양 훈련 동상을 설치할 수 있습니다. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

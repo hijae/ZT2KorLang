@@ -1,0 +1,2401 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_adultresto:entry">레스토랑</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_adultresto:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/restaurant/restaurant_regular_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  레스토랑은 테이블, 종업원의 서비스, 적당한 가격의 음식을 제공하기 때문에 가족 단위의 손님들에게 인기가 높습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalphotobooth:entry">기념 사진 촬영소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalphotobooth:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/animalphotobooth_df/animalphotobooth_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  관람객이 동물원 방문을 기념하는 사진을 찍을 수 있는 곳입니다.             
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_atm:entry">현금 인출기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_atm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/atm_df/atm_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                          동물원 관람객은 현금 인출기에서 돈을 찾아 음식이나 기념품을 구입하고 동물원에 기부금을 낼 수 있습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cheesecake:entry">치즈 케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cheesecake:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_cheesecake_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                       어른들이 특히 좋아하는 맛있고 푸짐한 디저트를 판매합니다. 관람객들은 보통 음식을 먹은 후 디저트를 찾는 경우가 많으므로 다른 음식 판매대 옆에 치즈 케이크 가판대를 설치하는 것이 좋습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coffee:entry">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coffee:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_coffee_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  어른들이 좋아하는 따뜻한 커피를 판매합니다. 아이들도 가끔 커피를 마시지만 그리 좋아하지는 않습니다.              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_compost:entry">퇴비 저장소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_compost:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/compost_df/compost_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                       여러분과 동물원 직원들이 모은 쓰레기, 퇴비, 재활용품 등을                모두 보관하는 곳입니다.                                                                                                         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                   재활용으로 돈을 벌 수 있으므로 동물원에 퇴비 저장소를 설치하는 것은        경제적으로도 좋습니다. 퇴비 저장소는 냄새가 날 수밖에 없기 때문에 관람객에게 방해가 되지 않게        동물원의 외진 구석에 배치하는 것이 가장 좋습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cottoncandy:entry">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cottoncandy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_cottoncandy_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         솜사탕 가판대에서는 영양소가 적고 손가락과 얼굴에 묻어서 끈적거리지만 맛이 매우 달콤한                간식거리를 제공합니다. 솜사탕은 어린이들이 가장 좋아하는 간식입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hipporide:entry">흔들 하마</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hipporide:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Hippo_df/BouncyRide_Hippo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  꼬마 관람객들은 하마 모형으로 만들어진 흔들 하마를 타고 놀면서 집으로 돌아가야 하는 아쉬움을 달랩니다.			
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_familyrestroom:entry">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_familyrestroom:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/bathroomlarge_df/bathroomlarge_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         소형 화장실보다 건설 비용이 많이 들지만 더 크기 때문에 많은 관람객이 사용할 수 있습니다. 관람객이               소형 화장실에서 줄을 서서 기다릴 필요가 없으므로 더 많은 시간 동안 동물을 구경하고 동물원의 재미있는 오락 시설을               즐길 수 있습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_frontgate:entry">동물원 출입문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_frontgate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/frontgate_df/frontgate_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         동물원의 주 출입구입니다. 동물원을 방문하는 모든 관람객은 동물원 출입문을 통과하게 됩니다.                물론 통과하려면 입장료도 지불해야 합니다. 이 주 출입구 주변에 빈 공간을 많이 확보하여 관람객이 쉽게 들어오고 나갈 수 있도록                하는 것이 좋습니다.                                                                                                         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                           동물원 출입문을 클릭하면 동물원의 영업 실적에 대한 정보를 볼 수 있는 동물원 운영 현황 창이                열립니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fruitcup:entry">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fruitcup:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_fruitcup_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         동물원 관람객을 위해 영양 간식을 판매합니다. 여자 어른들이 아주 좋아합니다. 
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart:entry">기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_df/giftcart_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                  기념품 가판대에서는 주로 동물원에 전시된 동물과 관련된 선물이나 기념품을 판매합니다. 관람객들은 기념품 가판대를 자주 이용하지만 선물 가게에 비해 상품 종류가 적고 한번에 많은 손님을 받지 못합니다.
+  하지만 손쉽게 기념품을 구입할 수 있는 장점이 있습니다.             
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftshop:entry">선물 가게</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftshop:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftshop_df/giftshop_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  선물 가게는 동물원에 전시된 희귀 동물과 관련된 선물과 기념품을 판매합니다. 많은 손님이 동시에 이용할 수 있으며 관람객들은 동물원에서의 즐거웠던 기억을 떠올리며 기념품을 구입합니다. 관람객들이 구입하는 기념품에 대한 수익은 동물원 발전의 커다란 밑거름이 됩니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  동물원에 아프리카 코끼리, 마운틴고릴라, 자이언트 팬더 등의 희귀 동물이 있는 경우 선물 가게를 지으면 큰 돈을 벌 수 있습니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffeslide:entry">기린 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffeslide:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_GiraffeSlide_df/Playground_GiraffeSlide_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                           기린 미끄럼틀은 한 번에 한 사람씩 미끄러져 내려갈 수 있는 어린이를 위한 놀이기구입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gourmetresto:entry">고급 레스토랑</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gourmetresto:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/restaurant/restaurant_fancy_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              고급 요리를 제공하는 고급 레스토랑은 고품격 서비스를 좋아하는 성인 관람객에게 인기가 많습니다. 이러한 관람객은               좀 더 세련된 분위기를 위해 식사에 비싼 값을 기꺼이 지불합니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hamburger:entry">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hamburger:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_burger_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         가장 흔한 패스트 푸드인 햄버거를 판매합니다. 아이들은 햄버거를 좋아하고, 부모는 가격이 저렴해서 선호하기 때문에                햄버거 판매대에서 가족 모두 만족스런 식사를 즐길 수 있습니다. 근처에 음료수 판매대와 몇 개의 테이블을 배치하면 가족 모두가 만족할 것입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hotdog:entry">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hotdog:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_hotdog_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         아이들이 좋아하는 핫도그를 판매합니다. 핫도그 판매대                근처에 음료수 판매대와 몇 개의 테이블을 배치하면 가족 모두가 만족할 것입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icecream:entry">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icecream:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_icecream_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         아이들에게 인기가 높은 아이스크림을 판매합니다.                아이스크림 가판대의 종소리를 들으면 갈증과 배고픔을 느끼는 아이들이 동물원 이곳 저곳에서 모여들                것입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kidsresto:entry">패밀리 레스토랑</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kidsresto:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/restaurant/restaurant_family_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   아이들에게 알맞도록 재미있게 꾸며져 있으며 여러 관람객이 한 곳에서 배고픔, 갈증을 해결할 수 있는 장소입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gorillaclimbingbars:entry">고릴라 정글짐</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gorillaclimbingbars:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Playground_GorillaBars_df/Playground_GorillaBars_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               고릴라 정글짐은 정글짐의 진수를 보여주는 놀이시설입니다. 아이들은 정글짐에 매달려 몸을 흔들거나 원숭이처럼 이리저리 옮겨갑니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kangarooride:entry">흔들 캥거루</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kangarooride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Kangaroo_df/BouncyRide_Kangaroo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  꼬마 관람객들은 캥거루 모형으로 만들어진 흔들 캥거루를 타면서 즐거워합니다. 하지만 방금 뭔가를 먹었다면 참아주세요.			
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_popcorn:entry">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_popcorn:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_popcorn_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         저렴하면서도 배를 채울 수 있는 간식인 팝콘을 관람객에게 판매합니다. 팝콘은 남녀노소 모두에게 인기가 있지만                특히 남자 어른들이 팝콘을 한 주먹씩 입에 넣고 먹는 것을 좋아해서 인기가 높습니다.            
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pretzel:entry">쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pretzel:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/snackcart/snackcart_pretzel_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         저렴하면서도 배를 채울 수 있는 간식인 쿠키를 관람객에게 판매합니다. 쿠키는 여자 어른들에게 특히 인기가 많습니다.                쿠키를 먹으면 목이 마르므로 근처에 음료수 판매대를 배치해야 합니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_restroom:entry">화장실</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_restroom:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/bathroomsmall_df/bathroomsmall_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         소형 화장실은 많은 사람이 이용할 수는 없지만 관람객의 편의를 위해서는 필수적인                시설입니다. 필요할 때 화장실을 찾을 수 없으면 관람객이 아주 불쾌해합니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoride:entry">흔들 코뿔소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Rhino_df/BouncyRide_Rhino_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               아이들은 코뿔소 모형의 흔들 코뿔소를 타면서 즐거워합니다. 멋진 사진도 찍어 보세요!			
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_salad:entry">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_salad:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_salad_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  샐러드 판매대에서는 먹기 편하고 저렴한 샐러드 식사를 제공합니다. 샐러드는 특히 여자 어른들에게 인기있는 품목입니다.
+                                                                                                                                   
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shish:entry">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shish:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_shishkabob_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  구운 고기와 야채를 꼬치에 꽂아서 판매하며 미식가들이                즐겨 찾습니다.                                                                                       
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  꼬치구이와 같은 미식가용 음식은 비싼 편이지만, 맛있는 음식을 위해서라면        돈을 아끼지 않는 관람객들이 많습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soda:entry">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soda:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_soda_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         편하고 저렴하게 즐길 수 있는 음료수를 관람객에게 판매합니다. 물론 음료수는 아이들에게 특히 인기가 많습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sparklingwater:entry">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sparklingwater:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_water_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         무설탕 음료수를 원하는 어른들을 위해 예쁜 병에 담긴 생수를 판매합니다. 
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staffcenter:entry">관리 사무소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staffcenter:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/staffcenter_df/staffcenter_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         사육사, 안내원, 관리원 등 동물원 직원이 특별히 할 일이 없거나 급한 업무가 없을 때 머무는 건물입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substand:entry">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substand:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_sub_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         편하고 저렴하게 즐길 수 있는 식사를 판매합니다. 샌드위치는 특히 남자 어른들에게 인기가 많습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sushi:entry">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sushi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/foodstand/foodstand_sushi_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                         초밥을 판매하며 미식가들이 즐겨 찾습니다. 초밥과 같은 미식가용 음식은               다른 식사보다 비싸지만, 맛있는 음식을 위해 비싼 가격을 기꺼이 지불하는 여자 어른들에게 인기가 많습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lionride:entry">흔들 사자</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lionride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Lion_df/BouncyRide_Lion_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               꼬마 관람객들은 사자 모형의 흔들 사자를 타면서 즐거워합니다. 하지만 진짜 사자를 타면 안 되겠죠?			
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_educator_podium:entry">연단</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_educator_podium:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/educator_podium_df/educator_podium_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                           안내원이 동물에 대한 흥미로운 정보를 관람객에게               소개할 때 필요합니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_insect_house:entry">곤충 전시관</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_insect_house:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/InsectKiosk_df/InsectKiosk_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                           곤충 전시관에는 거미, 벌, 지네 등 다양한 절지 동물이 전시되어 있습니다.               관람객들은 이 시설에서 곤충에 대한 흥미롭고 유익한 정보를               얻을 수 있습니다.                                                                                       
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                            			곤충 전시관은 아이들에게 인기 있는 시설입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reptile_house:entry">파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reptile_house:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/ReptileKiosk_df/ReptileKiosk_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                           파충류 전시관에는 뱀, 도마뱀 등의 다양한 파충류 동물들이 전시되어 있습니다.                관람객들은 이 시설에서 파충류의 진화 과정과                친척뻘인 공룡과의 관계에 대한 정보를 얻을 수 있습니다.               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                            			파충류 전시관은 특히 아이들에게 인기가 많습니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shetland_pony_ride:entry">어린이 승마장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shetland_pony_ride:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/PonyRide/PonyRide_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                                                           관람객들은 어린이 승마장에서 직접 조랑말을 타고               우리를 돌아볼 수 있습니다.               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                                                                            			조랑말을 타는 요금은 비싼 편이지만 아이들은 결코 돈이 아깝다고 생각하지는 않을 것입니다.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

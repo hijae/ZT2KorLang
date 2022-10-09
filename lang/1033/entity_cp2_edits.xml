@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Poop_GiantBird"  >거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_stt"  >거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_lower"  >거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>거대 새똥</b>
+         </color>
+         <br/>
+         Click to select and then place Giant bird poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick"  >거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_stt"  >거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_lower"  >거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>거대 새똥 (아픔)</b>
+         </color>
+         <br/>
+         Click to select and then place giant bird poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant"  >거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_stt"  >거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_lower"  >거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>거대 똥</b>
+         </color>
+         <br/>
+         Click to select and then place giant poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick"  >거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_stt"  >거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_lower"  >거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>거대 똥 (아픔)</b>
+         </color>
+         <br/>
+         Click to select and then place giant poop (sick).
+      </LOC_STRING>
+   
+</ZT2Strings>

@@ -1,0 +1,142 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation" version="2" />
+      <LOC_STRING _locID="zoopedia_transportation:entry" version="2"  >이동 시설</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2에는 관람객이 동물원 곳곳으로 이동할 수 있도록 돕는 다양한 이동 시설이 등장합니다.
+                  <p/>
+왼쪽 목록에서 이동 시설 아이템을 클릭하면 자세한 정보가 표시됩니다.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation" version="2" />
+      <LOC_STRING _locID="zoopedia_groundstation:entry" version="2"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객이 <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">지프</color></u></a> 를 타고 내리는 곳입니다. <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">도로</color></u></a> 노선을 완성하면 지프 탑승장이 개장되어 차량을 구입할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack" version="2" />
+      <LOC_STRING _locID="zoopedia_groundtrack:entry" version="2"  >도로</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+투어를 위해 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 을 출발한 <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">지프</color></u></a> 가 달리는 길입니다. 도로를 건설해 지프 투어 노선을 완성하면 탑승장이 개장됩니다. 모든 도로는 일방통행로임을 잊지 마세요!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate" version="2" />
+      <LOC_STRING _locID="zoopedia_crossinggate:entry" version="2"  >건널목 차단기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+지프가 지나갈 수 있도록 관람객의 보행을 막는 시설로서 인도와 차도의 교차 지점에 설치합니다. 지프가 건널목에 도착하면 차단기가 내려와 보행자가 길을 건너지 못하도록 막고 지프가 지나가면 다시 차단기가 올라갑니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle" version="2" />
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2"  >지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2" />
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2"  >사파리 지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+관람객을 태우고 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다. 
+<p/>
+투어 운영 2등상을 수상하면 멋진 그림이 그려진 사파리 지프를 사용할 수 있습니다.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:entry"  >아프리카 지프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:text"  >
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+ 관람객을 태우고 <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">지프 탑승장</color></u></a> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
+ <p/>
+ 아프리카 지프는 특별히 아프리카 스타일로 꾸며진 지프입니다. 아프리카 생태 동물원 최고 경영자 상을 수상하면 아프리카 지프를 사용할 수 있습니다.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate" version="2" />
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2"  >차량 출입문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text" version="2"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+우리에 달린 차량 출입문으로 지프가 드나듭니다. 동물이 우리에서 나오지 못하도록 지프가 지나가고 나면 자동으로 닫힙니다.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

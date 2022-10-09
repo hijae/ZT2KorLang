@@ -1,0 +1,116 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trash" version="2" />
+      <LOC_STRING _locID="zoopedia_trash:entry" version="2"  >쓰레기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trash:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/Items/Trash/Trash_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/Items/Recyclable/Recycling_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>관람객은 쓰레기가 널려 있는 모습을 싫어합니다. 관리원이 길이나 쓰레기통에 있는 쓰레기를 치우면 관람객이 쓰레기통을 이용할 수 있습니다.
+				</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sundialstatue" version="2" />
+      <LOC_STRING _locID="zoopedia_sundialstatue:entry" version="2"  >해시계</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sundialstatue:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Statue_Sundial_df/Statue_Sundial_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>해시계는 아름다운 조경 시설물로 장식 효과만큼이나 교육적 효과도 큽니다.
+                  <p/>어린이들은 해시계에 생기는 그림자를 보고
+                시간을 읽으면서 시계 보는 방법을 배웁니다.
+               <p/>해시계를 사용하려면 동물 학대 방지 캠페인을 완료해야 합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerpost" version="2" />
+      <LOC_STRING _locID="zoopedia_flowerpost:entry" version="2"  >꽃기둥</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerpost:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/flowerpost_df/flowerpost_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+ 
+꽃기둥은 긴 기둥 위에 꽃 바구니가 있어 동물원을 아름답게 꾸미는 데 좋습니다. 꽃기둥을 사용하면 화단보다 높은 곳에 아름다운 색상의 꽃을 전시할 수 있습니다.
+						<p/>
+꽃기둥을 사용하려면 사육사 훈련 캠페인을 완료해야 합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_globe" version="2" />
+      <LOC_STRING _locID="zoopedia_globe:entry" version="2"  >지구 모형</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_globe:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Statue_Globe_df/Statue_Globe_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+지구를 본떠서 만든 원형의 지구 모형은 정원, 광장 등 어디에 설치해도 좋습니다.
+						<p/>
+지구 모형을 사용하려면 지구 캠페인을 완료해야 합니다. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gildedstatue" version="2" />
+      <LOC_STRING _locID="zoopedia_gildedstatue:entry" version="2"  >황금 동상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gildedstatue:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/GildedStatue_df/GildedStatue_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+황금 팬더 동상은 동물원을 꾸미는 좋은 시설물로 밝은 황금색으로 빛나기 때문에 쉽게 관람객들의 이목을 끕니다.
+						<p/>
+황금 팬더 동상을 사용하려면 신비한 팬더 캠페인을 완료해야 합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerarch" version="2" />
+      <LOC_STRING _locID="zoopedia_flowerarch:entry" version="2"  >꽃장식 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerarch:text" version="2"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\PathArch_Flower_df\PathArch_Flower_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+꽃장식 아치형 입구는 길에 설치하면 좋은 시설물입니다. 벤치가 많이 설치되어 있는 야외 쉼터 입구에 설치하면 더욱 좋습니다.
+						<p/>
+꽃장식 아치형 입구를 사용하려면 문제투성이 동물원 캠페인을 완료해야 합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

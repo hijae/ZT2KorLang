@@ -1,0 +1,108 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beaverlodge" version="2" />
+      <LOC_STRING _locID="zoopedia_beaverlodge:entry" version="2"  >비버 오두막</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beaverlodge:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                                    <img src="entities/objects/shelters/BeaverLodge_Shelter/BeaverLodge_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                                    <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            비버는 우리 안에 있는 나무토막이나 나뭇가지로 비버 오두막을 만듭니다.  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_beaver:entry">
+                     <u>
+                        <color r="255" g="231" b="135">비버</color>
+                     </u>
+                  </a>
+                  
+                   는 헤엄을 쳐서 비버 오두막으로 들어갑니다.
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundnest" version="2" />
+      <LOC_STRING _locID="zoopedia_groundnest:entry" version="2"  >보금자리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundnest:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/GroundNest_Shelter/GroundNest_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                                 
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               보금자리는 나뭇잎을 쌓아 만든 집으로, 많은 동물들의
+               편안한 쉼터가 됩니다.
+	       
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       고릴라를 포함한 많은 동물들에게 보금자리 만들기는 중요한 본능 행동입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

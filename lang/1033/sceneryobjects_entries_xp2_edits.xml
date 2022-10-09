@@ -1,0 +1,59 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6" />
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6"  >테마 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>관람객들이 쓰레기통에 쓰레기를 버리면 관리원은 쓰레기통을 비웁니다. 관람객들은 쓰레기통이 쓰레기로 가득 차 있으면 싫어하고 쓰레기통을 사용 할 수 없으면 길에 쓰레기를 버립니다. 관람객들은 필요한 시설물로 잘 꾸며진 동물원을 좋아합니다.          
+                  <p/>포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6" />
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6"  >테마 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               관람객이 동물을 볼 수 있도록 만들어 놓은 시설입니다. 관람객들은 필요한 시설물로 잘 꾸며진 동물원을 좋아합니다.
+                  <p/>포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6" />
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6"  >테마 파라솔</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               관람객이 동물원에서 구입한 음식물을 앉아서 먹을 수 있는 시설입니다. 관람객은 앉아서 음식을 먹는 것을 더 좋아합니다. 관람객들은 필요한 시설물로 잘 꾸며진 동물원을 좋아합니다.
+                  <p/>포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

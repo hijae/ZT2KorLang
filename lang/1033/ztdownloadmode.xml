@@ -1,0 +1,10 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTDownloadMode" version="0" />
+      <LOC_STRING _locID="ZTDownloadMode:ItemName" version="0"  >아이템 이름</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadMode:Size" version="0"  >크기</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadMode:Status" version="0"  >상태</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadMode:ClickHere" version="0"  >클릭하세요</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadMode:HeaderFormat" version="0"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+</ZT2Strings>

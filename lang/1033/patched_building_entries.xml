@@ -1,0 +1,19 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kidsresto" version="2" />
+      <LOC_STRING _locID="zoopedia_kidsresto:entry" version="2"  >패밀리 레스토랑</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kidsresto:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/restaurant/restaurant_family_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                   아이들에게 알맞도록 재미있게 꾸며져 있으며 여러 관람객이 한 곳에서 배고픔, 갈증을 해결하고 휴식을 취할 수 있는 장소입니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

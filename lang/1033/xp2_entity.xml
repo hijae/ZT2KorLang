@@ -1,0 +1,2618 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:DolphinBottlenose"  >병코돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_stt"  >병코돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_lower"  >병코돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_ltt"  >
+         <color r="255" g="248" b="178">
+            병코돌고래
+         </color>
+         <br/>
+         
+         
+         병코돌고래를 선택하고 적당한 수조에 넣어 주세요. 집단 생활을 선호하는 해양 포유류인 병코돌고래는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta"  >쥐가오리</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_stt"  >쥐가오리</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_lower"  >쥐가오리</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_ltt"  >
+         <color r="255" g="248" b="178">
+            쥐가오리
+         </color>
+         <br/>
+         
+         
+         쥐가오리를 선택하고 적당한 수조에 넣어 주세요. 쥐가오리는 우아한 모습의 해양 가오리입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca"  >범고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_stt"  >범고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_lower"  >범고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_ltt"  >
+         <color r="255" g="248" b="178">
+            범고래
+         </color>
+         <br/>
+         
+         
+         범고래를 선택하고 적당한 수조에 넣어 주세요. 대형 고래류인 범고래는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen"  >푸른바다거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_stt"  >푸른바다거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_lower"  >푸른바다거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_ltt"  >
+         <color r="255" g="248" b="178">
+            푸른바다거북
+         </color>
+         <br/>
+         
+         
+         푸른바다거북을 선택하고 적당한 수조에 넣어 주세요. 푸른바다거북은 물속에서 가장 빠른 거북입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback"  >장수거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_stt"  >장수거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_lower"  >장수거북</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_ltt"  >
+         <color r="255" g="248" b="178">
+            장수거북
+         </color>
+         <br/>
+         
+         
+         장수거북을 선택하고 적당한 수조에 넣어 주세요.  장수거북은 현존하는 거북 중에서 가장 큽니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper"  >록호퍼펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_stt"  >록호퍼펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_lower"  >록호퍼펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_ltt"  >
+         <color r="255" g="248" b="178">
+            록호퍼펭귄
+         </color>
+         <br/>
+         
+         
+         록호퍼펭귄을 선택하고 적당한 수조에 넣어 주세요. 록호퍼펭귄은 덩치는 작지만 공격적인 펭귄입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia"  >캘리포니아바다사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_stt"  >캘리포니아바다사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_lower"  >캘리포니아바다사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_ltt"  >
+         <color r="255" g="248" b="178">
+            캘리포니아바다사자
+         </color>
+         <br/>
+         
+         
+         캘리포니아바다사자를 선택하고 적당한 수조에 넣어 주세요. 영리하고 날렵한 몸매를 지닌 캘리포니아바다사자는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Beluga"  >흰돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Beluga_stt"  >흰돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Beluga_lower"  >흰돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Beluga_ltt"  >
+         <color r="255" g="248" b="178">
+            흰돌고래
+         </color>
+         <br/>
+         
+         
+         흰돌고래를 선택하고 적당한 수조에 넣어 주세요. 북극해에 서식하는 흰돌고래는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller"  >범고래붙이</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_stt"  >범고래붙이</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_lower"  >범고래붙이</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_ltt"  >
+         <color r="255" g="248" b="178">
+            범고래붙이
+         </color>
+         <br/>
+         
+         
+         범고래붙이를 선택하고 적당한 수조에 넣어 주세요. 'pseudorca'로 불리기도 하는 범고래붙이는 범고래로 오인되는 경우도 있습니다. 범고래붙이는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned"  >들쇠고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_stt"  >들쇠고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_lower"  >들쇠고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_ltt"  >
+         <color r="255" g="248" b="178">
+            들쇠고래
+         </color>
+         <br/>
+         
+         
+         들쇠고래를 선택하고 적당한 수조에 넣어 주세요. 심해 고래류인 들쇠고래는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale"  >고래상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_stt"  >고래상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_lower"  >고래상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_ltt"  >
+         <color r="255" g="248" b="178">
+            고래상어
+         </color>
+         <br/>
+         
+         
+         고래상어를 선택하고 적당한 수조에 넣어 주세요. 고래상어는 모든 어류 중에서 가장 큽니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlacktip"  >흑기흉상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlacktip_stt"  >흑기흉상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlacktip_lower"  >흑기흉상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlacktip_ltt"  >
+         <color r="255" g="248" b="178">
+            흑기흉상어
+         </color>
+         <br/>
+         
+         
+         흑기흉상어를 선택하고 적당한 수조에 넣어 주세요. 흑기흉상어는 수심이 얕은 곳을 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite"  >백상아리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_stt"  >백상아리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_lower"  >백상아리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_ltt"  >
+         <color r="255" g="248" b="178">
+            백상아리
+         </color>
+         <br/>
+         
+         
+         백상아리를 선택하고 적당한 수조에 넣어 주세요. 백상아리는 상어 중에서도 가장 위험합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin"  >고블린상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_stt"  >고블린상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_lower"  >고블린상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_ltt"  >
+         <color r="255" g="248" b="178">
+            고블린상어
+         </color>
+         <br/>
+         
+         
+         고블린상어를 선택하고 적당한 수조에 넣어 주세요. 고블린상어는 심해에 서식합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped"  >홍살귀상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_stt"  >홍살귀상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_lower"  >홍살귀상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_ltt"  >
+         <color r="255" g="248" b="178">
+            홍살귀상어
+         </color>
+         <br/>
+         
+         
+         홍살귀상어를 선택하고 적당한 수조에 넣어 주세요. 홍살귀상어는 머리 모양이 특이한 상어입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue"  >청새치</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_stt"  >청새치</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_lower"  >청새치</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_ltt"  >
+         <color r="255" g="248" b="178">
+            청새치
+         </color>
+         <br/>
+         
+         
+         청새치를 선택하고 적당한 수조에 넣어 주세요. 청새치는 주둥이가 긴 물고기 중에서 가장 큰 종입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian"  >카리브바다소</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_stt"  >카리브바다소</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_lower"  >카리브바다소</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_ltt"  >
+         <color r="255" g="248" b="178">
+            카리브바다소
+         </color>
+         <br/>
+         
+         
+         카리브바다소를 선택하고 적당한 수조에 넣어 주세요. 카리브바다소는 온순한 성격의 초식성 해양 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea"  >해달</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_stt"  >해달</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_lower"  >해달</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_ltt"  >
+         <color r="255" g="248" b="178">
+            해달
+         </color>
+         <br/>
+         
+         
+         해달을 선택하고 적당한 수조에 넣어 주세요. 해양 포유류 중에서 가장 작은 해달은 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal"  >일각돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_stt"  >일각돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_lower"  >일각돌고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_ltt"  >
+         <color r="255" g="248" b="178">
+            일각돌고래
+         </color>
+         <br/>
+         
+         
+         일각돌고래를 선택하고 적당한 수조에 넣어 주세요. 일각돌고래의 송곳니에서 유니콘의 전설이 비롯되었다고 합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific"  >태평양바다코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_stt"  >태평양바다코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_lower"  >태평양바다코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_ltt"  >
+         <color r="255" g="248" b="178">
+            태평양바다코끼리
+         </color>
+         <br/>
+         
+         
+         태평양바다코끼리를 선택하고 적당한 수조에 넣어 주세요. 북극 동물 중에서도 큰 덩치로 유명한 태평양바다코끼리는 공연에 참여할 수 있는 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Remora"  >빨판상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Remora_stt"  >빨판상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Remora_lower"  >빨판상어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Remora_ltt"  >
+         <color r="255" g="248" b="178">
+            빨판상어
+         </color>
+         <br/>
+         
+         
+         빨판상어를 선택하고 적당한 수조에 넣어 주세요. 빨판상어는 다른 상어, 돌고래, 거북 등을 깨끗하게 만드는 역할을 합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_Gift"  >쥐가오리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_Gift_stt"  >쥐가오리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_Gift_lower"  >쥐가오리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:RayManta_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            쥐가오리 가방
+         </color>
+         <br/>
+         쥐가오리를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift"  >백상아리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_stt"  >백상아리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_lower"  >백상아리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            백상아리 가방
+         </color>
+         <br/>
+         백상아리를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_Gift"  >푸른바다거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_Gift_stt"  >푸른바다거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_Gift_lower"  >푸른바다거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleSeaGreen_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            푸른바다거북 티셔츠
+         </color>
+         <br/>
+         푸른바다거북을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_Gift"  >범고래 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_Gift_stt"  >범고래 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_Gift_lower"  >범고래 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleOrca_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            범고래 티셔츠
+         </color>
+         <br/>
+         범고래를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_Gift"  >청새치 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_Gift_stt"  >청새치 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_Gift_lower"  >청새치 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:MarlinBlue_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            청새치 티셔츠
+         </color>
+         <br/>
+         청새치를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_Gift"  >장수거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_Gift_stt"  >장수거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_Gift_lower"  >장수거북 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:TurtleLeatherback_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            장수거북 티셔츠
+         </color>
+         <br/>
+         장수거북을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_Gift"  >고블린상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_Gift_stt"  >고블린상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_Gift_lower"  >고블린상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkGoblin_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            고블린상어 모자
+         </color>
+         <br/>   
+         고블린상어를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_Gift"  >록호퍼펭귄 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_Gift_stt"  >록호퍼펭귄 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_Gift_lower"  >록호퍼펭귄 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinRockhopper_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            록호퍼펭귄 모자
+         </color>
+         <br/>   
+         록호퍼펭귄을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_Gift"  >태평양바다코끼리 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_Gift_stt"  >태평양바다코끼리 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_Gift_lower"  >태평양바다코끼리 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WalrusPacific_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            태평양바다코끼리 모자
+         </color>
+         <br/>   
+         태평양바다코끼리를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleBeluga_Gift"  >흰돌고래 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleBeluga_Gift_stt"  >흰돌고래 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleBeluga_Gift_lower"  >흰돌고래 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleBeluga_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            흰돌고래 모자
+         </color>
+         <br/>   
+         흰돌고래를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_Gift"  >홍살귀상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_Gift_stt"  >홍살귀상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_Gift_lower"  >홍살귀상어 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkHammerheadScalloped_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            홍살귀상어 모자
+         </color>
+         <br/>   
+         홍살귀상어를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlackTip_Gift"  >흑기흉상어 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlackTip_Gift_stt"  >흑기흉상어 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlackTip_Gift_lower"  >흑기흉상어 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkReefBlackTip_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            흑기흉상어 인형
+         </color>
+         <br/>흑기흉상어를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_Gift"  >백상아리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_Gift_stt"  >백상아리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_Gift_lower"  >백상아리 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhite_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            백상아리 인형
+         </color>
+         <br/>백상아리를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_Gift"  >일각돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_Gift_stt"  >일각돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_Gift_lower"  >일각돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Narwhal_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            일각돌고래 인형
+         </color>
+         <br/>일각돌고래를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_Gift"  >범고래붙이 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_Gift_stt"  >범고래붙이 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_Gift_lower"  >범고래붙이 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhaleFalseKiller_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            범고래붙이 허리 가방
+         </color>
+         <br/>
+         범고래붙이를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_Gift"  >들쇠고래 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_Gift_stt"  >들쇠고래 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_Gift_lower"  >들쇠고래 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhalePilotShortFinned_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            들쇠고래 허리 가방
+         </color>
+         <br/>
+         들쇠고래를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_Gift"  >카리브바다소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_Gift_stt"  >카리브바다소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_Gift_lower"  >카리브바다소 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:ManateeWestIndian_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            카리브바다소 인형
+         </color>
+         <br/>
+         카리브바다소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_Gift"  >해달 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_Gift_stt"  >해달 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_Gift_lower"  >해달 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:OtterSea_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            해달 인형
+         </color>
+         <br/>
+         해달을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_Gift"  >캘리포니아바다사자 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_Gift_stt"  >캘리포니아바다사자 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_Gift_lower"  >캘리포니아바다사자 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaLionCalifornia_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            캘리포니아바다사자 인형
+         </color>
+         <br/>
+         캘리포니아바다사자를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_Gift"  >병코돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_Gift_stt"  >병코돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_Gift_lower"  >병코돌고래 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DolphinBottlenose_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            병코돌고래 인형
+         </color>
+         <br/>
+         병코돌고래를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_mm"  >물고기뼈 먹이통</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_mm_stt"  >물고기뼈 먹이통</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_mm_lower"  >물고기뼈 먹이통</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            물고기뼈 먹이통
+         </color>
+         <br/>
+         
+         
+         물고기뼈 먹이통을 선택하고 적당한 위치에 놓으세요. 육식성 해양 동물의 먹이통으로 사용할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Chum_mm"  >물고기뼈 위에 놓인 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Chum_mm_stt"  >물고기뼈 위에 놓인 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Chum_mm_lower"  >물고기뼈 위에 놓인 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Chum_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            물고기뼈 위에 놓인 밑밥
+         </color>
+         <br/>
+         
+         
+         물고기뼈 위에 놓인 밑밥을 선택하고 적당한 위치에 놓으세요. 육식성 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Fish_mm"  >물고기뼈 위에 놓인 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Fish_mm_stt"  >물고기뼈 위에 놓인 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Fish_mm_lower"  >물고기뼈 위에 놓인 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carcass_Fish_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            물고기뼈 위에 놓인 생선
+         </color>
+         <br/>
+         
+         
+         물고기뼈 위에 놓인 생선을 선택하고 적당한 위치에 놓으세요. 육식성 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Chum"  >밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Chum_stt"  >밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Chum_lower"  >밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Chum_ltt"  >
+         <color r="255" g="248" b="178">
+            밑밥
+         </color>
+         <br/>
+         
+         
+         밑밥을 선택하고 적당한 위치에 놓으세요. 밑밥은 잘게 자른 생선으로 만든 먹입니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Clams"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Clams_stt"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Clams_lower"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Clams_ltt"  >
+         <color r="255" g="248" b="178">
+            조개
+         </color>
+         <br/>
+         
+         
+         조개를 선택하고 적당한 위치에 놓으세요. 조개는 일부 해양 동물들이 가장 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Jellyfish"  >해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Jellyfish_stt"  >해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Jellyfish_lower"  >해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Jellyfish_ltt"  >
+         <color r="255" g="248" b="178">
+            해파리
+         </color>
+         <br/>
+         해파리를 선택하고 적당한 위치에 놓으세요. 해파리는 일부 바다거북이 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Plankton"  >플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Plankton_stt"  >플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Plankton_lower"  >플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Plankton_ltt"  >
+         <color r="255" g="248" b="178">
+            플랑크톤
+         </color>
+         <br/>
+         
+         
+         플랑크톤을 선택하고 적당한 위치에 놓으세요. 플랑크톤은 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Seaweed"  >해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Seaweed_stt"  >해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Seaweed_lower"  >해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Seaweed_ltt"  >
+         <color r="255" g="248" b="178">
+            해초
+         </color>
+         <br/>
+         
+         
+         해초를 선택하고 적당한 위치에 놓으세요. 해초는 바다소를 비롯한 초식성 해양 동물들이 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Shellfish"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Shellfish_stt"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Shellfish_lower"  >조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Shellfish_ltt"  >
+         <color r="255" g="248" b="178">
+            조개
+         </color>
+         <br/>
+         
+         
+         조개를 선택하고 적당한 위치에 놓으세요. 조개는 일부 해양 동물이 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Squid"  >오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Squid_stt"  >오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Squid_lower"  >오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Squid_ltt"  >
+         <color r="255" g="248" b="178">
+            오징어
+         </color>
+         <br/>
+         
+         
+         오징어를 선택하고 적당한 위치에 놓으세요. 오징어는 일부 해양 동물이 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Jellyfish"  >해파리가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Jellyfish_stt"  >해파리가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Jellyfish_lower"  >해파리가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Jellyfish_ltt"  >
+         <color r="255" g="248" b="178">
+            해파리가 달린 부표
+         </color>
+         <br/>
+         
+         
+         해파리가 달린 부표를 선택하고 적당한 위치에 놓으세요. 해파리는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Plankton"  >플랑크톤이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Plankton_stt"  >플랑크톤이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Plankton_lower"  >플랑크톤이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Plankton_ltt"  >
+         <color r="255" g="248" b="178">
+            플랑크톤이 달린 부표
+         </color>
+         <br/>
+         
+         
+         플랑크톤이 달린 부표를 선택하고 적당한 위치에 놓으세요. 플랑크톤은 물에 있는 먹이를 걸러서 먹는 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Fish"  >생선이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Fish_stt"  >생선이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Fish_lower"  >생선이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Fish_ltt"  >
+         <color r="255" g="248" b="178">
+            생선이 달린 부표
+         </color>
+         <br/>
+         
+         
+         생선이 달린 부표를 선택하고 적당한 위치에 놓으세요. 부표에 달린 생선은 물에 있는 먹이를 걸러서 먹는 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Squid"  >오징어가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Squid_stt"  >오징어가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Squid_lower"  >오징어가 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyLure_Squid_ltt"  >
+         <color r="255" g="248" b="178">
+            오징어가 달린 부표
+         </color>
+         <br/>
+         
+         
+         오징어가 달린 부표를 선택하고 적당한 위치에 놓으세요. 오징어는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Chum"  >밑밥 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Chum_stt"  >밑밥 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Chum_lower"  >밑밥 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Chum_ltt"  >
+         <color r="255" g="248" b="178">
+            밑밥 그물이 달린 부표
+         </color>
+         <br/>
+         
+         
+         밑밥 그물이 달린 부표를 선택하고 적당한 위치에 놓으세요. 밑밥은 일부 육식성 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Shellfish"  >조개 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Shellfish_stt"  >조개 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Shellfish_lower"  >조개 그물이 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="entityname:BuoyNet_Shellfish_ltt"  >
+         <color r="255" g="248" b="178">
+            조개 그물이 달린 부표
+         </color>
+         <br/>
+         
+         
+         조개 그물이 달린 부표를 선택하고 적당한 위치에 놓으세요. 조개는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Plankton"  >먹이 상자에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Plankton_stt"  >먹이 상자에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Plankton_lower"  >먹이 상자에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Plankton_ltt"  >
+         <color r="255" g="248" b="178">
+            먹이 상자에 든 플랑크톤
+         </color>
+         <br/>
+         
+         
+         먹이 상자에 든 플랑크톤을 선택하고 적당한 위치에 놓으세요. 플랑크톤은 물에 있는 먹이를 걸러서 먹는 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Squid"  >먹이 상자에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Squid_stt"  >먹이 상자에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Squid_lower"  >먹이 상자에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Squid_ltt"  >
+         <color r="255" g="248" b="178">
+            먹이 상자에 든 오징어
+         </color>
+         <br/>
+         
+         
+         먹이 상자에 든 오징어를 선택하고 적당한 위치에 놓으세요. 오징어는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Seaweed"  >먹이 상자에 든 해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Seaweed_stt"  >먹이 상자에 든 해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Seaweed_lower"  >먹이 상자에 든 해초</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Seaweed_ltt"  >
+         <color r="255" g="248" b="178">
+            먹이 상자에 든 해초
+         </color>
+         <br/>
+         
+         
+         먹이 상자에 든 해초를 선택하고 적당한 위치에 놓으세요. 해초는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Chum"  >먹이 상자에 든 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Chum_stt"  >먹이 상자에 든 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Chum_lower"  >먹이 상자에 든 밑밥</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Chum_ltt"  >
+         <color r="255" g="248" b="178">
+            먹이 상자에 든 밑밥
+         </color>
+         <br/>
+         
+         
+         먹이 상자에 든 밑밥을 선택하고 적당한 위치에 놓으세요. 밑밥은 일부 육식성 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Fish"  >먹이 상자에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Fish_stt"  >먹이 상자에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Fish_lower"  >먹이 상자에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodBox_Fish_ltt"  >
+         <color r="255" g="248" b="178">
+            먹이 상자에 든 생선
+         </color>
+         <br/>
+         
+         
+         먹이 상자에 든 생선을 선택하고 적당한 위치에 놓으세요. 생선은 일부 육식성 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Squid"  >인공 암초에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Squid_stt"  >인공 암초에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Squid_lower"  >인공 암초에 든 오징어</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Squid_ltt"  >
+         <color r="255" g="248" b="178">
+            인공 암초에 든 오징어
+         </color>
+         <br/>
+         
+         
+         인공 암초에 든 오징어를 선택하고 적당한 위치에 놓으세요. 오징어는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Jellyfish"  >인공 암초에 든 해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Jellyfish_stt"  >인공 암초에 든 해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Jellyfish_lower"  >인공 암초에 든 해파리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Jellyfish_ltt"  >
+         <color r="255" g="248" b="178">
+            인공 암초에 든 해파리
+         </color>
+         <br/>
+         
+         
+         인공 암초에 든 해파리를 선택하고 적당한 위치에 놓으세요. 해파리는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Plankton"  >인공 암초에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Plankton_stt"  >인공 암초에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Plankton_lower"  >인공 암초에 든 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Plankton_ltt"  >
+         <color r="255" g="248" b="178">
+            인공 암초에 든 플랑크톤
+         </color>
+         <br/>
+         
+         
+         인공 암초에 든 플랑크톤을 선택하고 적당한 위치에 놓으세요. 플랑크톤은 물에 있는 먹이를 걸러서 먹는 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Shellfish"  >인공 암초에 든 조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Shellfish_stt"  >인공 암초에 든 조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Shellfish_lower"  >인공 암초에 든 조개</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Shellfish_ltt"  >
+         <color r="255" g="248" b="178">
+            인공 암초에 든 조개
+         </color>
+         <br/>
+         
+         
+         인공 암초에 든 조개를 선택하고 적당한 위치에 놓으세요. 조개는 일부 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Fish"  >인공 암초에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Fish_stt"  >인공 암초에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Fish_lower"  >인공 암초에 든 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArtificialReef_Fish_ltt"  >
+         <color r="255" g="248" b="178">
+            인공 암초에 든 생선
+         </color>
+         <br/>
+         
+         
+         인공 암초에 든 생선을 선택하고 적당한 위치에 놓으세요. 생선은 일부 육식성 해양 동물들의 먹이가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Seaweed"  >해초 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Seaweed_stt"  >해초 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Seaweed_lower"  >해초 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Seaweed_ltt"  >
+         <color r="255" g="248" b="178">
+            해초 사료
+         </color>
+         <br/>
+         
+         해초 사료를 선택하고 적당한 위치에 놓으세요. 해초 사료에는 해초, 자갈, 조개껍데기 등이 섞여 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Shellfish"  >조개 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Shellfish_stt"  >조개 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Shellfish_lower"  >조개 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Shellfish_ltt"  >
+         <color r="255" g="248" b="178">
+            조개 사료
+         </color>
+         <br/>
+         
+         조개 사료를 선택하고 적당한 위치에 놓으세요. 조개 사료에는 조개, 자갈, 조개껍데기 등이 섞여 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Trainer"  >조련사</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trainer_stt"  >조련사</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trainer_lower"  >조련사</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trainer_ltt"  >
+         <color r="255" g="248" b="178">
+            조련사
+         </color>
+         <br/>
+         
+         
+          조련사를 고용하세요. 조련사는 공연에 참가할 동물을 훈련시킬 수 있습니다. 공연 참가 동물은 별 모양 아이콘으로 표시됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:sharkphotobooth_mm"  >상어 기념사진 촬영소</LOC_STRING>
+      <LOC_STRING _locID="entityname:sharkphotobooth_mm_stt"  >상어 기념사진 촬영소</LOC_STRING>
+      <LOC_STRING _locID="entityname:sharkphotobooth_mm_lower"  >상어 기념사진 촬영소</LOC_STRING>
+      <LOC_STRING _locID="entityname:sharkphotobooth_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            상어 기념사진 촬영소
+         </color>
+         <br/>
+         
+         
+         상어 기념사진 촬영소를 설치합니다. 관람객들은 돈을 내고 이곳에서 기념사진을 찍습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:touchpool_mm"  >터치풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:touchpool_mm_stt"  >터치풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:touchpool_mm_lower"  >터치풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:touchpool_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            터치풀
+         </color>
+         <br/>
+         
+         
+         터치풀을 설치합니다. 관람객들은 터치풀에서 소형 해양 동물들과 즐겁게 놀 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_mm"  >해양 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_mm_stt"  >해양 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_mm_lower"  >해양 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 기념품 가판대
+         </color>
+         <br/>
+         
+         
+         해양 기념품 가판대를 설치합니다. 관람객들은 이곳에서 해양 동물 기념품을 구입합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueWhaleHall_mm"  >흰수염고래 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueWhaleHall_mm_stt"  >흰수염고래 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueWhaleHall_mm_lower"  >흰수염고래 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueWhaleHall_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            흰수염고래 전시관
+         </color>
+         <br/>
+         
+         
+         흰수염고래 전시관을 짓습니다. 지구에서 가장 큰 동물인 흰수염고래에 대한 전시관입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_I_mm"  >소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_I_mm_stt"  >소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_I_mm_lower"  >소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_I_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 관람석
+         </color>
+         <br/>
+         
+         
+         소형 관람석을 설치합니다. 관람객 2명이 앉을 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_II_mm"  >중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_II_mm_stt"  >중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_II_mm_lower"  >중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_II_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            중형 관람석
+         </color>
+         <br/>
+         
+         
+         중형 관람석을 설치합니다. 관람객 4명이 앉을 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_III_mm"  >대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_III_mm_stt"  >대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_III_mm_lower"  >대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grandstand_III_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 관람석
+         </color>
+         <br/>
+         
+         
+         대형 관람석을 설치합니다. 동물 공연 관람에 좋은 시설물입니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_I_mm"  >고급 소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_I_mm_stt"  >고급 소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_I_mm_lower"  >고급 소형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_I_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            고급 소형 관람석
+         </color>
+         <br/>
+         
+         
+         고급 소형 관람석을 설치합니다. 동물 공연 관람에 좋은 시설물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_II_mm"  >고급 중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_II_mm_stt"  >고급 중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_II_mm_lower"  >고급 중형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_II_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            고급 중형 관람석
+         </color>
+         <br/>
+         
+         
+         고급 중형 관람석을 설치합니다. 동물 공연 관람에 좋은 시설물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_III_mm"  >고급 대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_III_mm_stt"  >고급 대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_III_mm_lower"  >고급 대형 관람석</LOC_STRING>
+      <LOC_STRING _locID="entityname:Upgraded_Grandstand_III_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            고급 대형 관람석
+         </color>
+         <br/>
+         
+         
+         고급 대형 관람석을 설치합니다. 동물 공연 관람에 좋은 시설물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Water_Filter"  >정수 필터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Water_Filter_stt"  >정수 필터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Water_Filter_lower"  >정수 필터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Water_Filter_ltt"  >
+         <color r="255" g="248" b="178">
+            정수 필터
+         </color>
+         <br/>
+         
+         
+         정수 필터를 설치합니다. 수조에 있는 물을 정화하는 시설입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:IceBlock_Clams"  >조개가 든 얼음 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:IceBlock_Clams_stt"  >조개가 든 얼음 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:IceBlock_Clams_lower"  >조개가 든 얼음 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:IceBlock_Clams_ltt"  >
+         <color r="255" g="248" b="178">
+            조개가 든 얼음 조각
+         </color>
+         <br/>
+         
+         
+         
+         조개가 든 얼음 조각을 선택하고 적당한 위치에 놓으세요. 조개를 먹이로 하는 일부 동물들은 조개가 든 얼음 조각을 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealPreyDummy"  >바다표범 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealPreyDummy_stt"  >바다표범 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealPreyDummy_lower"  >바다표범 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealPreyDummy_ltt"  >
+         <color r="255" g="248" b="178">
+            바다표범 장난감
+         </color>
+         <br/>
+         
+         
+         바다표범 장난감을 선택하고 적당한 위치에 놓으세요. 바다표범처럼 생긴 이 인형은 공격적인 성향의 해양 동물들에게 좋은 장난감이 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeBall_mm"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeBall_mm_stt"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeBall_mm_lower"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeBall_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            공
+         </color>
+         <br/>
+         
+         
+         
+         공을 선택하고 적당한 위치에 놓으세요. 공은 해양 동물 공연 소품으로 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SmallBall_mm"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SmallBall_mm_stt"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SmallBall_mm_lower"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SmallBall_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            공
+         </color>
+         <br/>
+         
+         
+         
+         공을 선택하고 적당한 위치에 놓으세요. 공은 해양 동물 공연 소품으로 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_stt"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_lower"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_ltt"  >
+         <color r="255" g="248" b="178">
+            공
+         </color>
+         <br/>
+         
+         
+         
+         공을 선택하고 적당한 위치에 놓으세요. 공은 해양 동물 공연 소품으로 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_Male"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_Male_stt"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_Male_lower"  >공</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealBall_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            공
+         </color>
+         <br/>
+         
+         
+         
+         공을 선택하고 적당한 위치에 놓으세요.  바다사자 공연 때 공을 무대에 두면 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:JarWithFish"  >생선이 담긴 유리병</LOC_STRING>
+      <LOC_STRING _locID="entityname:JarWithFish_stt"  >생선이 담긴 유리병</LOC_STRING>
+      <LOC_STRING _locID="entityname:JarWithFish_lower"  >생선이 담긴 유리병</LOC_STRING>
+      <LOC_STRING _locID="entityname:JarWithFish_ltt"  >
+         <color r="255" g="248" b="178">
+            생선이 담긴 유리병
+         </color>
+         <br/>
+         
+         
+         
+         생선이 담긴 유리병을 선택하고 적당한 위치에 놓으세요. 해달이 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fish_JarTreat"  >고급 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fish_JarTreat_stt"  >고급 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fish_JarTreat_lower"  >고급 생선</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fish_JarTreat_ltt"  >
+         <color r="255" g="248" b="178">
+            고급 생선
+         </color>
+         <br/>
+         
+         
+         
+         고급 생선을 선택해서 적당한 곳에 놓아주세요. 생선이 담긴 유리병을 열면 먹을 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TetherBall_mm"  >테더볼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TetherBall_mm_stt"  >테더볼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TetherBall_mm_lower"  >테더볼</LOC_STRING>
+      <LOC_STRING _locID="entityname:TetherBall_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            테더볼
+         </color>
+         <br/>
+         
+         
+         
+         테더볼을 선택하고 적당한 위치에 놓으세요. 여러 해양 동물들이 좋아하는 장난감입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BubbleEmitter"  >조개 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:BubbleEmitter_stt"  >조개 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:BubbleEmitter_lower"  >조개 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:BubbleEmitter_ltt"  >
+         <color r="255" g="248" b="178">
+            조개 기포발생기
+         </color>
+         <br/>
+         조개 기포발생기를 선택하고 적당한 위치에 놓으세요. 쥐가오리 같은 해양 동물은 거품 속에서 헤엄치는 것을 좋아합니다.     
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Koi"  >비단잉어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koi_stt"  >비단잉어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koi_lower"  >비단잉어</LOC_STRING>
+      <LOC_STRING _locID="entityname:Koi_ltt"  >
+         <color r="255" g="248" b="178">
+            비단잉어
+         </color>
+         <br/>
+         
+         
+         
+         비단잉어를 선택하고 적당한 위치에 놓으세요. 호수나 수조를 장식하기에 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TunaYellowfin"  >살아있는 노랑살다랭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TunaYellowfin_stt"  >살아있는 노랑살다랭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TunaYellowfin_lower"  >살아있는 노랑살다랭이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TunaYellowfin_ltt"  >
+         <color r="255" g="248" b="178">
+            살아있는 노랑살다랭이
+         </color>
+         <br/>
+         
+         
+         
+         살아있는 노랑살다랭이를 선택하고 적당한 위치에 놓으세요. 장난감 역할도 하는 살아있는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CodArctic"  >살아있는 극지대구</LOC_STRING>
+      <LOC_STRING _locID="entityname:CodArctic_stt"  >살아있는 극지대구</LOC_STRING>
+      <LOC_STRING _locID="entityname:CodArctic_lower"  >살아있는 극지대구</LOC_STRING>
+      <LOC_STRING _locID="entityname:CodArctic_ltt"  >
+         <color r="255" g="248" b="178">
+            살아있는 극지대구
+         </color>
+         <br/>
+         
+         
+         
+         살아있는 극지대구를 선택하고 적당한 위치에 놓으세요. 장난감 역할도 하는 살아있는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpBed"  >해초 침대</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpBed_stt"  >해초 침대</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpBed_lower"  >해초 침대</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpBed_ltt"  >
+         <color r="255" g="248" b="178">
+            해초 침대
+         </color>
+         <br/>
+         
+         
+         
+         해초 침대를 선택하고 적당한 위치에 놓으세요. 해달은 해초 침대를 쉼터로 사용합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RockIsland_Shelter"  >바위섬</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockIsland_Shelter_stt"  >바위섬</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockIsland_Shelter_lower"  >바위섬</LOC_STRING>
+      <LOC_STRING _locID="entityname:RockIsland_Shelter_ltt"  >
+         <color r="255" g="248" b="178">
+            바위섬
+         </color>
+         <br/>
+         
+         
+         
+         바위섬을 선택하고 적당한 위치에 놓으세요. 떠다니는 인공 시설로 일부 해양 동물들이 이용합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertIsland_Shelter"  >무인도</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertIsland_Shelter_stt"  >무인도</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertIsland_Shelter_lower"  >무인도</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertIsland_Shelter_ltt"  >
+         <color r="255" g="248" b="178">
+            무인도
+         </color>
+         <br/>
+         
+         
+         
+         무인도를 선택하고 적당한 위치에 놓으세요. 떠다니는 인공 시설로 일부 해양 동물들이 이용합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_low_mm"  >낮은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_low_mm_stt"  >낮은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_low_mm_lower"  >낮은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_low_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            낮은 해양 울타리
+         </color>
+         <br/>
+         
+         
+         낮은 해양 울타리를 설치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm"  >높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_stt"  >높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_lower"  >높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            높은 해양 울타리
+         </color>
+         <br/>
+         
+         
+         높은 해양 울타리를 설치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm"  >해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_stt"  >해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_lower"  >해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 창문 울타리
+         </color>
+         <br/>
+         
+         
+         해양 창문 울타리를 설치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:showfence_mm"  >해양 공연 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:showfence_mm_stt"  >해양 공연 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:showfence_mm_lower"  >해양 공연 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:showfence_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 공연 울타리
+         </color>
+         <br/>
+         
+         
+         해양 공연 울타리를 설치합니다. 공연장 주위에 설치하기에 좋은 울타리입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:tankwallseg_mm"  >아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankwallseg_mm_stt"  >아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankwallseg_mm_lower"  >아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankwallseg_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            아크릴 수조 벽
+         </color>
+         <br/>
+         
+         
+         아크릴 수조 벽을 선택하고 적당한 위치에 설치하세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_opaque_mm"  >불투명 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_opaque_mm_stt"  >불투명 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_opaque_mm_lower"  >불투명 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_opaque_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            불투명 수조 벽
+         </color>
+         <br/>
+         
+         
+         불투명 수조 벽을 선택하고 적당한 위치에 설치하세요. 수중 동물이 머물 공간을 만들 때 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_show"  >해양 공연 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_show_stt"  >해양 공연 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_show_lower"  >해양 공연 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_show_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 공연 수조 벽
+         </color>
+         <br/>
+         
+         
+         해양 공연 수조 벽을 선택하고 적당한 위치에 설치하세요. 수중 동물이 머물 공간을 만들 때 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_show"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_show_stt"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_show_lower"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_show_ltt"  >
+         <color r="255" g="248" b="178">
+            불투명 해양 테마 수조 벽
+         </color>
+         <br/>
+         
+         
+         불투명 해양 테마 수조 벽을 선택하고 적당한 위치에 설치하세요. 수중 동물이 머물 공간을 만들 때 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_mm"  >해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_mm_stt"  >해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_mm_lower"  >해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 테마 수조 벽
+         </color>
+         <br/>
+         
+         
+         해양 테마 수조 벽을 선택하고 적당한 위치에 설치하세요. 수중 동물이 머물 공간을 만들 때 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_mm"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_mm_stt"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_mm_lower"  >불투명 해양 테마 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:themedtankseg_opaque_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            불투명 해양 테마 수조 벽
+         </color>
+         <br/>
+         
+         
+         불투명 해양 테마 수조 벽을 선택하고 적당한 위치에 설치하세요. 수중 동물이 머물 공간을 만들 때 좋습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuigate"  >수조 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuigate_stt"  >수조 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuigate_lower"  >수조 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuigate_ltt"  >
+         <color r="255" g="248" b="178">
+            수조 입구
+         </color>
+         <br/>
+         
+          수조 입구를 선택하고 적당한 위치에 설치하세요. 직원들이 수조에 출입할 수 있는 입구입니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuiportal"  >수조 연결문</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuiportal_stt"  >수조 연결문</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuiportal_lower"  >수조 연결문</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankuiportal_ltt"  >
+         <color r="255" g="248" b="178">
+            수조 연결문
+         </color>
+         <br/>
+
+         수조 연결문을 선택하고 적당한 위치에 설치하세요. 공연 수조와 인접한 일반 수조를 연결하는 통로의 문입니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_portal_mm"  >연결문이 있는 아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_portal_mm_stt"  >연결문이 있는 아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_portal_mm_lower"  >연결문이 있는 아크릴 수조 벽</LOC_STRING>
+      <LOC_STRING _locID="entityname:tankseg_portal_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            연결문이 있는 아크릴 수조 벽
+         </color>
+         <br/>
+
+
+         연결문이 있는 아크릴 수조 벽을 선택하고 적당한 위치에 설치하세요.
+
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FireCoral_Reef"  >불꽃 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:FireCoral_Reef_stt"  >불꽃 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:FireCoral_Reef_lower"  >불꽃 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:FireCoral_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            불꽃 산호
+         </color>
+         <br/>
+         
+         
+         불꽃 산호를 선택하고 적당한 위치에 놓으세요. 불꽃 산호는 가시 세포가 달린 산호 모양의 자포동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MyriadFeatherStar_Reef"  >갯고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:MyriadFeatherStar_Reef_stt"  >갯고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:MyriadFeatherStar_Reef_lower"  >갯고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:MyriadFeatherStar_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            갯고사리
+         </color>
+         <br/>
+         
+         
+         갯고사리를 선택하고 적당한 위치에 놓으세요.  갯고사리는 야행성 극피동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Phaeophyta_Coastal"  >갈조식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Phaeophyta_Coastal_stt"  >갈조식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Phaeophyta_Coastal_lower"  >갈조식물</LOC_STRING>
+      <LOC_STRING _locID="entityname:Phaeophyta_Coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            갈조식물
+         </color>
+         <br/>
+         
+         
+         갈조식물을 선택하고 적당한 위치에 심으세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnemoneGiantGreen_Coastal"  >대형 녹색말미잘</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnemoneGiantGreen_Coastal_stt"  >대형 녹색말미잘</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnemoneGiantGreen_Coastal_lower"  >대형 녹색말미잘</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnemoneGiantGreen_Coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 녹색말미잘
+         </color>
+         <br/>
+         
+         
+         대형 녹색말미잘을 선택하고 적당한 위치에 놓으세요. 대형 녹색말미잘은 물에 있는 먹이를 걸러서 먹는 해양 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TableCoral_Reef"  >탁자 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:TableCoral_Reef_stt"  >탁자 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:TableCoral_Reef_lower"  >탁자 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:TableCoral_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            탁자 산호
+         </color>
+         <br/>
+         
+         
+         탁자 산호를 선택하고 적당한 위치에 놓으세요. 탁자 산호는 넓고 평평한 모양으로 자라는 산호입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueGreenCoral_Reef"  >청록색 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueGreenCoral_Reef_stt"  >청록색 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueGreenCoral_Reef_lower"  >청록색 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlueGreenCoral_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            청록색 산호
+         </color>
+         <br/>
+         
+         
+         청록색 산호를 선택하고 적당한 위치에 놓으세요. 청록색 산호는 열대 해양에 서식하는 산호입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaStars_Benthic"  >불가사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaStars_Benthic_stt"  >불가사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaStars_Benthic_lower"  >불가사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaStars_Benthic_ltt"  >
+         <color r="255" g="248" b="178">
+            불가사리
+         </color>
+         <br/>
+         
+         
+         불가사리를 선택하고 적당한 위치에 놓으세요. 불가사리는 작은 별 모양의 극피동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaFan_Coastal"  >부채 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaFan_Coastal_stt"  >부채 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaFan_Coastal_lower"  >부채 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:SeaFan_Coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            부채 산호
+         </color>
+         <br/>
+         
+         
+         부채 산호를 선택하고 적당한 위치에 놓으세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpForest_Coastal"  >켈프 숲</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpForest_Coastal_stt"  >켈프 숲</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpForest_Coastal_lower"  >켈프 숲</LOC_STRING>
+      <LOC_STRING _locID="entityname:KelpForest_Coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            켈프 숲
+         </color>
+         <br/>
+         
+         
+         켈프 숲을 선택하고 적당한 위치에 심으세요. 켈프 숲은 군집을 이룬 대형 해초입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TussacGrass_Coastal"  >투삭 수초</LOC_STRING>
+      <LOC_STRING _locID="entityname:TussacGrass_Coastal_stt"  >투삭 수초</LOC_STRING>
+      <LOC_STRING _locID="entityname:TussacGrass_Coastal_lower"  >투삭 수초</LOC_STRING>
+      <LOC_STRING _locID="entityname:TussacGrass_Coastal_ltt"  >
+         <color r="255" g="248" b="178">
+            투삭 수초
+         </color>
+         <br/>
+         
+         
+         투삭 수초를 선택하고 적당한 위치에 심으세요. 투삭 수초는 해안에 자생하는 긴 수초입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PlateCoral_Reef"  >접시 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:PlateCoral_Reef_stt"  >접시 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:PlateCoral_Reef_lower"  >접시 산호</LOC_STRING>
+      <LOC_STRING _locID="entityname:PlateCoral_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            접시 산호
+         </color>
+         <br/>
+         
+         
+         접시 산호를 선택하고 적당한 위치에 놓으세요. 접시 산호는 덩굴손 모양의 폴립이 여럿 달린 산호입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantBarrelSponge_Reef"  >대형 항아리해면</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantBarrelSponge_Reef_stt"  >대형 항아리해면</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantBarrelSponge_Reef_lower"  >대형 항아리해면</LOC_STRING>
+      <LOC_STRING _locID="entityname:GiantBarrelSponge_Reef_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 항아리해면
+         </color>
+         <br/>
+         
+         
+         대형 항아리해면을 선택하고 적당한 위치에 놓으세요. 대형 항아리해면은 열대 해양에 자생하는 큰 통 모양의 해면입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Large"  >대형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Large_stt"  >대형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Large_lower"  >대형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 해저 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         대형 해저 바위를 선택하고 적당한 위치에 놓으세요. 해저 바위는 해저 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Medium"  >중형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Medium_stt"  >중형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Medium_lower"  >중형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Medium_ltt"  >
+         <color r="255" g="248" b="178">
+            중형 해저 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         중형 해저 바위를 선택하고 적당한 위치에 놓으세요. 해저 바위는 해저 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Small"  >소형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Small_stt"  >소형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Small_lower"  >소형 해저 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Benthic_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 해저 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         소형 해저 바위를 선택하고 적당한 위치에 놓으세요. 해저 바위는 해저 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Large"  >대형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Large_stt"  >대형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Large_lower"  >대형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 암초 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         대형 암초 바위를 선택하고 적당한 위치에 놓으세요. 암초 바위는 암초 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Medium"  >중형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Medium_stt"  >중형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Medium_lower"  >중형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Medium_ltt"  >
+         <color r="255" g="248" b="178">
+            중형 암초 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         중형 암초 바위를 선택하고 적당한 위치에 놓으세요. 암초 바위는 암초 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Small"  >소형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Small_stt"  >소형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Small_lower"  >소형 암초 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Reef_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 암초 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         소형 암초 바위를 선택하고 적당한 위치에 놓으세요. 암초 바위는 암초 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Large"  >대형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Large_stt"  >대형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Large_lower"  >대형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Large_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 연안 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         대형 연안 바위를 선택하고 적당한 위치에 놓으세요. 연안 바위는 연안 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Medium"  >중형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Medium_stt"  >중형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Medium_lower"  >중형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Medium_ltt"  >
+         <color r="255" g="248" b="178">
+            중형 연안 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         중형 연안 바위를 선택하고 적당한 위치에 놓으세요. 연안 바위는 연안 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Small"  >소형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Small_stt"  >소형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Small_lower"  >소형 연안 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rock_Coastal_Small_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 연안 바위
+         </color>
+         <br/>
+         
+         
+         
+         
+         소형 연안 바위를 선택하고 적당한 위치에 놓으세요. 연안 바위는 연안 서식 환경 우리에 잘 어울립니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_pt"  >해적 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_pt_stt"  >해적 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_pt_lower"  >해적 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_pt_ltt"  >
+         <color r="255" g="248" b="178">
+            해적 기부함
+         </color>
+         <br/>
+         해적 기부함을 설치합니다. 주변에 기부함이 없으면 관람객들의 기부를 받을 수가 없습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateShip"  >해적선</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateShip_stt"  >해적선</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateShip_lower"  >해적선</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateShip_ltt"  >
+         <color r="255" g="248" b="178">
+            해적선
+         </color>
+         <br/>
+         해적선을 설치합니다. 지상이나 수상 모두에 잘 어울리는 장식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateMast"  >해적 돛대</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateMast_stt"  >해적 돛대</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateMast_lower"  >해적 돛대</LOC_STRING>
+      <LOC_STRING _locID="entityname:PirateMast_ltt"  >
+         <color r="255" g="248" b="178">
+            해적 돛대
+         </color>
+         <br/>
+         해적 돛대를 설치합니다. 지상이나 수상 모두에 잘 어울리는 장식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TreasureChest"  >보물 상자 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreasureChest_stt"  >보물 상자 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreasureChest_lower"  >보물 상자 기포발생기</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreasureChest_ltt"  >
+         <color r="255" g="248" b="178">
+            보물 상자 기포발생기
+         </color>
+         <br/>
+         보물 상자 기포발생기를 설치합니다. 지상이나 수상 모두에 잘 어울리는 장식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BouncyRide_SeaHorse_mm"  >흔들 해마</LOC_STRING>
+      <LOC_STRING _locID="entityname:BouncyRide_SeaHorse_mm_stt"  >흔들 해마</LOC_STRING>
+      <LOC_STRING _locID="entityname:BouncyRide_SeaHorse_mm_lower"  >흔들 해마</LOC_STRING>
+      <LOC_STRING _locID="entityname:BouncyRide_SeaHorse_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 해마
+         </color>
+         <br/>
+         
+         
+         
+         
+         흔들 해마를 설치합니다. 흔들 해마는 어린이들이 좋아하는 놀이 시설입니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_mm"  >해양 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_mm_stt"  >해양 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_mm_lower"  >해양 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 분수대
+         </color>
+         <br/>
+         
+         
+         
+         
+         해양 분수대를 설치합니다. 주위 경관과 어울리는 분수대는 동물원을 한층 아름답게 만들어 줍니다.
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_mm"  >해양 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_mm_stt"  >해양 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_mm_lower"  >해양 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 소리 바위
+         </color>
+         <br/>
+         
+         
+         해양 소리 바위를 설치합니다. 소리 바위는 스피커가 들어 있어서 음악이 나오는 바위입니다.
+ 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:drinkingfountain_mm"  >앵무조개 식수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:drinkingfountain_mm_stt"  >앵무조개 식수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:drinkingfountain_mm_lower"  >앵무조개 식수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:drinkingfountain_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            앵무조개 식수대
+         </color>
+         <br/>
+         
+         
+         앵무조개 식수대를 설치합니다. 관람객들이 물을 마실 수 있는 시설입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_Splash_mm"  >흰돌고래 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_Splash_mm_stt"  >흰돌고래 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_Splash_mm_lower"  >흰돌고래 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_Splash_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            흰돌고래 분수대
+         </color>
+         <br/>
+         
+         
+         흰돌고래 분수대를 설치합니다. 멋진 조경 시설물이면서 시원한 물을 뿜기 때문에 어린이들이 특히 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gazebo_mm"  >등대 쉼터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gazebo_mm_stt"  >등대 쉼터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gazebo_mm_lower"  >등대 쉼터</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gazebo_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            등대 쉼터
+         </color>
+         <br/>
+         
+         
+         등대 쉼터를 설치합니다. 관람객들에게 그늘과 쉼터를 제공합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Octopus"  >문어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Octopus_stt"  >문어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Octopus_lower"  >문어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Octopus_ltt"  >
+         <color r="255" g="248" b="178">
+            문어 수족관
+         </color>
+         <br/>
+         
+         
+         문어 수족관을 선택하고 적당한 위치에 건설하세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Jellyfish"  >해파리 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Jellyfish_stt"  >해파리 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Jellyfish_lower"  >해파리 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_Jellyfish_ltt"  >
+         <color r="255" g="248" b="178">
+            해파리 수족관
+         </color>
+         <br/>
+         
+         
+         해파리 수족관을 선택하고 적당한 위치에 건설하세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_SeaHorse"  >해마 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_SeaHorse_stt"  >해마 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_SeaHorse_lower"  >해마 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_SeaHorse_ltt"  >
+         <color r="255" g="248" b="178">
+            해마 수족관
+         </color>
+         <br/>
+         
+         
+         해마 수족관을 선택하고 적당한 위치에 건설하세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_TropicalFish"  >열대어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_TropicalFish_stt"  >열대어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_TropicalFish_lower"  >열대어 수족관</LOC_STRING>
+      <LOC_STRING _locID="entityname:Aquarium_TropicalFish_ltt"  >
+         <color r="255" g="248" b="178">
+            열대어 수족관
+         </color>
+         <br/>
+         
+         
+         열대어 수족관을 선택하고 적당한 위치에 건설하세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_mm"  >해양 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_mm_stt"  >해양 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_mm_lower"  >해양 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 동상
+         </color>
+         <br/>
+         
+         
+         
+         해양 동상을 설치합니다. 유쾌한 모습의 해달 가족 동상입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Training_mm"  >해양 훈련 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Training_mm_stt"  >해양 훈련 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Training_mm_lower"  >해양 훈련 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Training_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 훈련 동상
+         </color>
+         <br/>
+         
+         
+         
+         해양 훈련 동상을 선택하고 적당한 위치에 설치하세요. 훈련 점수 100%를 100번 달성하면 보상으로 받는 동상입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_mm"  >해양 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_mm_stt"  >해양 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_mm_lower"  >해양 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 아치형 입구
+         </color>
+         <br/>
+         
+         
+         
+         해양 아치형 입구를 설치합니다. 우아한 돌고래들의 모습으로 만든 아치 모양 입구입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BigScreenTV"  >대형 스크린</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigScreenTV_stt"  >대형 스크린</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigScreenTV_lower"  >대형 스크린</LOC_STRING>
+      <LOC_STRING _locID="entityname:BigScreenTV_ltt"  >
+         <color r="255" g="248" b="178">
+            대형 스크린
+         </color>
+         <br/>
+         
+         
+         
+         대형 스크린을 선택하고 적당한 위치에 설치하세요. 대형 스크린을 설치하면 관람객들이 공연을 더 생생하게 볼 수 있습니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Canopy"  >그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Canopy_stt"  >그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Canopy_lower"  >그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:Canopy_ltt"  >
+         <color r="255" g="248" b="178">
+            그늘 지붕
+         </color>
+         <br/>
+         
+         
+         
+         그늘 지붕을 선택하고 적당한 위치에 설치하세요. 그늘 지붕을 설치하면 사회자가 그늘에서 진행할 수 있습니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:marine"  >해양 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:marine_stt"  >해양 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:marine_lower"  >해양 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:marine_ltt"  >
+         <color r="255" g="248" b="178">
+            해양 길
+         </color>
+         <br/>
+         
+         
+         
+         해양 길을 만듭니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Canopy"  >그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Canopy_Description"  >그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_TV"  >대형 스크린</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_TV_Description"  >대형 스크린</LOC_STRING>
+      <LOC_STRING _locID="entityname:ZTAIShow"  >공연</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_mm"  >무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_mm_stt"  >무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_mm_lower"  >무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            무대
+         </color>
+         <br/>
+         
+         
+         무대를 선택하고 적당한 위치에 설치하세요. 수중 동물 공연을 하려면 무대가 필요합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TrainingArea"  >훈련장</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrainingArea_stt"  >훈련장</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrainingArea_lower"  >훈련장</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrainingArea_ltt"  >
+         <color r="255" g="248" b="178">
+            훈련장
+         </color>
+         <br/>
+         
+         
+         훈련장을 선택하고 적당한 위치에 건설하세요. 해양 동물들에게 공연 동작을 연습시키려면 훈련장이 필요합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_stt"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_lower"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀
+         </color>
+         <br/>
+         
+         
+         특별 미끄럼틀을 선택하고 적당한 위치에 설치하세요. 특별 미끄럼틀이 있으면 일부 고래류 동물이 바다 공연을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_Orca"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_Orca_stt"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_Orca_lower"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_Orca_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀
+         </color>
+         <br/>
+         
+         
+         특별 미끄럼틀을 선택하고 적당한 위치에 설치하세요. 특별 미끄럼틀이 있으면 일부 고래류 동물이 바다 공연을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_WhaleFalseKiller"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_WhaleFalseKiller_stt"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_WhaleFalseKiller_lower"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlidingPlatform_WhaleFalseKiller_ltt"  >
+         <color r="255" g="248" b="178">
+            특별 미끄럼틀
+         </color>
+         <br/>
+         
+         
+         특별 미끄럼틀을 선택하고 적당한 위치에 설치하세요. 특별 미끄럼틀이 있으면 일부 고래류 동물이 바다 공연을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_I_mm"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_I_mm_stt"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_I_mm_lower"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_I_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            테마 무대
+         </color>
+         <br/>
+         
+         
+         테마 무대를 선택하고 적당한 위치에 설치하세요. 수중 동물 공연을 하려면 무대가 필요합니다. 테마 무대를 설치하면 테마 공연이 가능합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_II_mm"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_II_mm_stt"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_II_mm_lower"  >테마 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Backdrop_II_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            테마 무대
+         </color>
+         <br/>
+         
+         
+         테마 무대를 선택하고 적당한 위치에 설치하세요. 수중 동물 공연을 하려면 무대가 필요합니다. 테마 무대를 설치하면 테마 공연이 가능합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Upgraded_mm"  >고급 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Upgraded_mm_stt"  >고급 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Upgraded_mm_lower"  >고급 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShowPlatform_Upgraded_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            고급 무대
+         </color>
+         <br/>
+         
+         
+         고급 무대를 선택하고 적당한 위치에 설치하세요. 고급 무대가 있으면 더욱 멋진 공연을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_mm"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_mm_stt"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_mm_lower"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            후프
+         </color>
+         <br/>
+         
+         
+         후프를 선택하고 적당한 위치에 놓으세요. 수중 동물 공연에서 돌고래는 점프해서 후프를 통과할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhalePilotShortFinned_mm"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhalePilotShortFinned_mm_stt"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhalePilotShortFinned_mm_lower"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhalePilotShortFinned_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            후프
+         </color>
+         <br/>
+         
+         
+         후프를 선택하고 적당한 위치에 놓으세요. 수중 동물 공연에서 돌고래는 점프해서 후프를 통과할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhaleFalseKiller_mm"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhaleFalseKiller_mm_stt"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhaleFalseKiller_mm_lower"  >후프</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hoop_WhaleFalseKiller_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            후프
+         </color>
+         <br/>
+         
+         
+         후프를 선택하고 적당한 위치에 놓으세요. 수중 동물 공연에서 돌고래는 점프해서 후프를 통과할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_mm"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_mm_stt"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_mm_lower"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            장대
+         </color>
+         <br/>
+         
+         
+         장대를 선택하고 적당한 위치에 놓으세요. 여러 해양 동물들이 장대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhalePilotShortFinned_mm"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhalePilotShortFinned_mm_stt"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhalePilotShortFinned_mm_lower"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhalePilotShortFinned_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            장대
+         </color>
+         <br/>
+         
+         
+         장대를 선택하고 적당한 위치에 놓으세요. 여러 해양 동물들이 장대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhaleFalseKiller_mm"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhaleFalseKiller_mm_stt"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhaleFalseKiller_mm_lower"  >장대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Suspension_Bar_WhaleFalseKiller_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            장대
+         </color>
+         <br/>
+         
+         
+         장대를 선택하고 적당한 위치에 놓으세요. 여러 해양 동물들이 장대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_stt"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_lower"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대
+         </color>
+         <br/>
+         
+         
+         농구 골대를 선택하고 적당한 위치에 설치하세요. 여러 해양 동물들이 농구 골대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_Male"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_Male_stt"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_Male_lower"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Basketball_Hoop_mm_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대
+         </color>
+         <br/>
+         
+         
+         농구 골대를 선택하고 적당한 위치에 설치하세요. 여러 해양 동물들이 농구 골대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_stt"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_lower"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대
+         </color>
+         <br/>
+         
+         
+         농구 골대를 선택하고 적당한 위치에 설치하세요. 여러 해양 동물들이 농구 골대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_Male"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_Male_stt"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_Male_lower"  >농구 골대</LOC_STRING>
+      <LOC_STRING _locID="entityname:BasketballHoop_Small_mm_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            농구 골대
+         </color>
+         <br/>
+         
+         
+         농구 골대를 선택하고 적당한 위치에 설치하세요. 여러 해양 동물들이 농구 골대를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_stt"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_lower"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치
+         </color>
+         <br/>
+         
+         
+         묘기 위치를 선택하고 적당한 위치에 설치하세요. 묘기 위치는 공연에 참여한 동물들이 동작을 행하도록 지정된 자리입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_Male"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_Male_stt"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_Male_lower"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickArea_mm_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 위치
+         </color>
+         <br/>
+         
+         
+         묘기 위치를 선택하고 적당한 위치에 설치하세요. 묘기 위치는 공연에 참여한 동물들이 동작을 행하도록 지정된 자리입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_stt"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_lower"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 단상
+         </color>
+         <br/>
+         
+         
+         묘기 단상을 선택하고 적당한 위치에 설치하세요. 태평양바다사자는 묘기 단상에서 소리치기 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_Male"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_Male_stt"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_Male_lower"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="entityname:TrickPlatform_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            묘기 단상
+         </color>
+         <br/>
+         
+         
+         묘기 단상을 선택하고 적당한 위치에 설치하세요. 태평양바다사자는 묘기 단상에서 소리치기 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_stt"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_lower"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_ltt"  >
+         <color r="255" g="248" b="178">
+            트램펄린
+         </color>
+         <br/>
+         
+         
+         트램펄린을 선택하고 적당한 위치에 설치하세요. 바다사자는 트램펄린을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_Male"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_Male_stt"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_Male_lower"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealTrampoline_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            트램펄린
+         </color>
+         <br/>
+         
+         
+         트램펄린을 선택하고 적당한 위치에 설치하세요. 바다사자는 트램펄린을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_stt"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_lower"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_ltt"  >
+         <color r="255" g="248" b="178">
+            미끄럼틀
+         </color>
+         <br/>
+         
+         
+         미끄럼틀을 선택하고 적당한 위치에 설치하세요. 바다사자와 해달은 미끄럼틀을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_Male"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_Male_stt"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_Male_lower"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSlide_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            미끄럼틀
+         </color>
+         <br/>
+         
+         
+         미끄럼틀을 선택하고 적당한 위치에 설치하세요. 바다사자와 해달은 미끄럼틀을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_stt"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_lower"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_ltt"  >
+         <color r="255" g="248" b="178">
+            그네
+         </color>
+         <br/>
+         
+         
+         그네를 선택하고 적당한 위치에 설치하세요. 바다사자와 바다코끼리는 그네를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_Male"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_Male_stt"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_Male_lower"  >그네</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSwing_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            그네
+         </color>
+         <br/>
+         
+         
+         그네를 선택하고 적당한 위치에 설치하세요. 바다사자와 바다코끼리는 그네를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_stt"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_lower"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자
+         </color>
+         <br/>
+         
+         
+         단상 의자를 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 단상 의자를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Male"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Male_stt"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Male_lower"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자
+         </color>
+         <br/>
+         
+         
+         단상 의자를 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 단상 의자를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_stt"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_lower"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자
+         </color>
+         <br/>
+         
+         
+         단상 의자를 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 단상 의자를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_Male"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_Male_stt"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_Male_lower"  >단상 의자</LOC_STRING>
+      <LOC_STRING _locID="entityname:SealSeat_Walrus_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            단상 의자
+         </color>
+         <br/>
+         
+         
+         단상 의자를 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 단상 의자를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_stt"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_lower"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            나팔
+         </color>
+         <br/>
+         
+         
+         나팔을 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 나팔을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_Male"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_Male_stt"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_Male_lower"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Horns_mm_Male_ltt"  >
+         <color r="255" g="248" b="178">
+            나팔
+         </color>
+         <br/>
+         
+         
+         나팔을 선택하고 적당한 위치에 놓으세요. 바다사자와 바다코끼리는 나팔을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PileOfRocks"  >바위 더미</LOC_STRING>
+      <LOC_STRING _locID="entityname:PileOfRocks_stt"  >바위 더미</LOC_STRING>
+      <LOC_STRING _locID="entityname:PileOfRocks_lower"  >바위 더미</LOC_STRING>
+      <LOC_STRING _locID="entityname:PileOfRocks_ltt"  >
+         <color r="255" g="248" b="178">
+            바위 더미
+         </color>
+         <br/>
+         
+         
+         바위 더미를 선택하고 적당한 위치에 놓으세요. 해달은 바위 더미를 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_stt"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_lower"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 장난감
+         </color>
+         <br/>
+         
+         
+         흔들 장난감을 선택하고 적당한 위치에 놓으세요. 해달은 흔들 장난감을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_Open"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_Open_stt"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_Open_lower"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="entityname:ShakerToy_Open_ltt"  >
+         <color r="255" g="248" b="178">
+            흔들 장난감
+         </color>
+         <br/>
+         
+         
+         흔들 장난감을 선택하고 적당한 위치에 놓으세요. 해달은 흔들 장난감을 이용한 동작을 할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Light_mm"  >수조 조명</LOC_STRING>
+      <LOC_STRING _locID="entityname:Light_mm_stt"  >수조 조명</LOC_STRING>
+      <LOC_STRING _locID="entityname:Light_mm_lower"  >수조 조명</LOC_STRING>
+      <LOC_STRING _locID="entityname:Light_mm_ltt"  >
+         <color r="255" g="248" b="178">
+            수조 조명
+         </color>
+         <br/>         
+         수조 조명을 선택하고 적당한 위치에 설치하세요. 수조 조명을 설치하면 수조가 훨씬 밝아집니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Cannon"  >해적 대포</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cannon_stt"  >해적 대포</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cannon_lower"  >해적 대포</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cannon_ltt"  >
+         <color r="255" g="248" b="178">
+            해적 대포
+         </color>
+         <br/>
+         
+         
+         해적 대포를 설치합니다. 해적 대포는 동물원을 멋지게 꾸밀 수 있는 장식물입니다.
+      
+      
+      </LOC_STRING>
+   
+</ZT2Strings>

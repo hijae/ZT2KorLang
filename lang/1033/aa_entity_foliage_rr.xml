@@ -1,0 +1,890 @@
+<ZT2Strings>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanViolets_Rainforest"  >아프리카 제비꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_stt"  >아프리카 제비꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_lower"  >아프리카 제비꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanViolets_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카 제비꽃
+         </color>
+         <br/>
+         
+         
+         아프리카 제비꽃을 적당한 위치에 심으세요. 아프리카 제비꽃은 아프리카 동부 산악 지역이 원산지인 여러해살이 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Baobob_Savannah"  >바오밥나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Baobob_Savannah_stt"  >바오밥나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Baobob_Savannah_lower"  >바오밥나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Baobob_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            바오밥나무
+         </color>
+         <br/>
+         
+         
+         바오밥 나무를 적당한 위치에 심으세요. 바오밥 나무는 주로 반건조 지역에 자생하는 대형 아프리카 수목입니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaTree_Rainforest"  >바나나 나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaTree_Rainforest_stt"  >바나나 나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaTree_Rainforest_lower"  >바나나 나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaTree_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            바나나 나무
+         </color>
+         <br/>
+         
+         
+         바나나 나무를 적당한 위치에 심으세요. 바나나 나무는 동남아시아가 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterBamboo_Temperate"  >물대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterBamboo_Temperate_stt"  >물대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterBamboo_Temperate_lower"  >물대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterBamboo_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            물대나무
+         </color>
+         <br/>
+         
+         
+         물대나무를 적당한 위치에 심으세요. 물대나무는 물에서 자라는 장식용 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaLeaf_Rainforest"  >바나나잎 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_stt"  >바나나잎 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_lower"  >바나나잎 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BananaLeaf_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            바나나잎 덤불
+         </color>
+         <br/>
+         
+         
+         바나나잎 덤불을 적당한 위치에 심으세요. 바나나잎 덤불의 큰 잎이 만드는 그늘은 동물들의 쉼터가 됩니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantEar_Rainforest"  >코끼리귀나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantEar_Rainforest_stt"  >코끼리귀나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantEar_Rainforest_lower"  >코끼리귀나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantEar_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            코끼리귀나무
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         코끼리귀나무를 적당한 위치에 심으세요. 코끼리귀나무는 아프리카 남부가 원산지인 대형 수목입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TreeFern_Rainforest"  >나무고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreeFern_Rainforest_stt"  >나무고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreeFern_Rainforest_lower"  >나무고사리</LOC_STRING>
+      <LOC_STRING _locID="entityname:TreeFern_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            나무고사리
+         </color>
+         <br/>
+         
+         
+         나무고사리를 적당한 위치에 심으세요. 나무고사리는 나무를 닮은 커다란 고사리입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest"  >뚝새풀 야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_stt"  >뚝새풀 야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_lower"  >뚝새풀 야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoxtailPalm_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            뚝새풀 야자
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+          뚝새풀 야자를 적당한 위치에 심으세요. 뚝새풀 야자는 동남아시아의 열대 지방이 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kapok_Rainforest"  >케이폭나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kapok_Rainforest_stt"  >케이폭나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kapok_Rainforest_lower"  >케이폭나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kapok_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            케이폭나무
+         </color>
+         <br/>
+         
+         
+         케이폭 나무를 적당한 위치에 심으세요. 케이폭 나무는 자바 섬이 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_stt"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_lower"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kily_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            킬리나무
+         </color>
+         <br/>
+         
+         
+         킬리나무를 적당한 위치에 심으세요. 킬리나무 열매는 호랑이꼬리여우원숭이가 좋아합니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Orchid_Rainforest"  >자줏빛소심화나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orchid_Rainforest_stt"  >자줏빛소심화나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orchid_Rainforest_lower"  >자줏빛소심화나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Orchid_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            자줏빛소심화나무
+         </color>
+         <br/>
+         
+         
+         자줏빛소심화나무를 적당한 위치에 심으세요. 자줏빛소심화나무는 따뜻한 기후에서 잘 자랍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:JuneGrass_Grassland"  >토아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:JuneGrass_Grassland_stt"  >토아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:JuneGrass_Grassland_lower"  >토아풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:JuneGrass_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            토아풀
+         </color>
+         <br/>
+         
+         
+         토아풀을 적당한 위치에 심으세요. 토아풀은 사슴, 큰 뿔 사슴 등 초식 동물이 좋아하는 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Maple_Temperate"  >단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Maple_Temperate_stt"  >단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Maple_Temperate_lower"  >단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Maple_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            단풍나무
+         </color>
+         <br/>
+         
+         
+         단풍나무를 적당한 위치에 심으세요. 단풍나무는 북반구 온대 지방에 폭넓게 자생합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackThornBush_Savannah"  >블랙손 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackThornBush_Savannah_stt"  >블랙손 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackThornBush_Savannah_lower"  >블랙손 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackThornBush_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            블랙손 덤불
+         </color>
+         <br/>
+         
+         
+         블랙손 덤불을 적당한 위치에 심으세요. 블랙손 덤불은 가지에 가시가 돋친 서양자두나무종 수목입니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantGrass_Savannah"  >부들 </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantGrass_Savannah_stt"  >부들 </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantGrass_Savannah_lower"  >부들 </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantGrass_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            부들
+         </color>
+         <br/>
+         
+         
+         부들을 적당한 위치에 심으세요. 부들은 아프리카의 강바닥이나 호수 등 비옥한 토양에서 자라는 키가 큰 풀입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah"  >우산아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_stt"  >우산아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_lower"  >우산아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:UmbrellaAcacia_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            우산아까시나무
+         </color>
+         <br/>
+         
+         
+         우산아까시나무를 적당한 위치에 심으세요. 우산아까시나무는 오스트레일리아와 아프리카의 열대 지방이 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanDaisy_Savannah"  >아프리카 데이지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_stt"  >아프리카 데이지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_lower"  >아프리카 데이지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AfricanDaisy_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            아프리카 데이지
+         </color>
+         <br/>
+         
+         
+         아프리카 데이지를 적당한 위치에 심으세요. 아프리카 데이지는 아프리카 남부가 원산지인 한해살이 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub"  >피버아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_stt"  >피버아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_lower"  >피버아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowFeverAcacia_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            피버아까시나무
+         </color>
+         <br/>
+         
+         
+         피버아까시나무를 적당한 위치에 심으세요. 피버아까시나무는 오스트레일리아와 아프리카 열대 지방이 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah"  >아카시아 카프라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_stt"  >아카시아 카프라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_lower"  >아카시아 카프라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AcaciaCaffra_Savannah_ltt"  >
+         <color r="255" g="248" b="178">
+            아카시아 카프라
+         </color>
+         <br/>
+         
+         
+         아카시아 카프라를 적당한 위치에 심으세요. 아프리카 전설에 따르면 아카시아 카프라는 행운의 나무라고 합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Toadstools_Rainforest"  >독버섯</LOC_STRING>
+      <LOC_STRING _locID="entityname:Toadstools_Rainforest_stt"  >독버섯</LOC_STRING>
+      <LOC_STRING _locID="entityname:Toadstools_Rainforest_lower"  >독버섯</LOC_STRING>
+      <LOC_STRING _locID="entityname:Toadstools_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            독버섯
+         </color>
+         <br/>
+         
+         
+         독버섯을 적당한 위치에 심으세요. 독버섯은 버섯 중에서 큰 편에 속합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowCedar_Alpine"  >알래스카 삼나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowCedar_Alpine_stt"  >알래스카 삼나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowCedar_Alpine_lower"  >알래스카 삼나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:YellowCedar_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            알래스카 삼나무
+         </color>
+         <br/>
+         
+         
+         알래스카 삼나무를 적당한 위치에 심으세요. 알래스카 삼나무는 캐나다 서부 해안 산맥에 많이 자생합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RedCedar_Rainforest"  >연필향나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedCedar_Rainforest_stt"  >연필향나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedCedar_Rainforest_lower"  >연필향나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:RedCedar_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            연필향나무
+         </color>
+         <br/>
+         
+         
+         
+연필향나무를 적당한 위치에 심으세요. 연필향나무는 카누 삼나무로 불리기도 합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BalsamFir_Boreal"  >발삼전나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BalsamFir_Boreal_stt"  >발삼전나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BalsamFir_Boreal_lower"  >발삼전나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BalsamFir_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            발삼전나무
+         </color>
+         <br/>
+         
+         
+         발삼전나무를 적당한 위치에 심으세요. 발삼전나무는 북아메리카 서부가 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Birch_Temperate"  >자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Birch_Temperate_stt"  >자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Birch_Temperate_lower"  >자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Birch_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            자작나무
+         </color>
+         <br/>
+         
+         
+         자작나무를 적당한 위치에 심으세요. 자작나무는 북반구 온대 지방과 북극 지대에 폭넓게 자생합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackSpruce_Boreal"  >검은가문비나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackSpruce_Boreal_stt"  >검은가문비나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackSpruce_Boreal_lower"  >검은가문비나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BlackSpruce_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            검은가문비나무
+         </color>
+         <br/>
+         
+         
+         검은가문비나무를 적당한 위치에 심으세요. 검은가문비나무는 미국의 메인주, 뉴욕주, 캐나다 등지에서 숲을 이루고 있습니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FringedPolygala_Boreal"  >톱니 애기풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:FringedPolygala_Boreal_stt"  >톱니 애기풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:FringedPolygala_Boreal_lower"  >톱니 애기풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:FringedPolygala_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            톱니 애기풀
+         </color>
+         <br/>
+         
+         
+         톱니 애기풀을 적당한 위치에 심으세요. 톱니 애기풀은 숲의 습기가 많은 지역에서 자라는 키가 작은 꽃 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanPine_Alpine"  >히말라야 소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanPine_Alpine_stt"  >히말라야 소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanPine_Alpine_lower"  >히말라야 소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanPine_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            히말라야 소나무
+         </color>
+         <br/>
+         
+         
+         히말라야 소나무를 적당한 위치에 심으세요. 히말라야 소나무는 잎이 좁은 상록수로 겉모습이 우아한 것이 특징입니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:JungleLillies_Rainforest"  >정글 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:JungleLillies_Rainforest_stt"  >정글 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:JungleLillies_Rainforest_lower"  >정글 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:JungleLillies_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            정글 백합
+         </color>
+         <br/>
+         
+         
+         정글 백합을 적당한 위치에 심으세요. 정글 백합은 향기가 좋아서 화초를 재배하는 사람들에게 인기가 높은 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TremblingAspen_Grassland"  >북미사시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:TremblingAspen_Grassland_stt"  >북미사시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:TremblingAspen_Grassland_lower"  >북미사시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:TremblingAspen_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            북미사시나무
+         </color>
+         <br/>
+         
+         
+         북미사시나무를 적당한 위치에 심으세요. 북미사시나무는 아북극 지대 남쪽에 서식합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ReindeerLichen_Boreal"  >순록이끼</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_stt"  >순록이끼</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_lower"  >순록이끼</LOC_STRING>
+      <LOC_STRING _locID="entityname:ReindeerLichen_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            순록이끼
+         </color>
+         <br/>
+         
+         
+         순록이끼를 적당한 위치에 심으세요. 순록이끼는 순록의 주식입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate"  >은방울꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_stt"  >은방울꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_lower"  >은방울꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:LilyOfTheValley_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            은방울꽃
+         </color>
+         <br/>
+         
+         
+         은방울꽃을 적당한 위치에 심으세요. 은방울꽃은 유라시아 온대 지방이 원산지인 여러해살이풀입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sedge_Grassland"  >사초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sedge_Grassland_stt"  >사초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sedge_Grassland_lower"  >사초</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sedge_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            사초
+         </color>
+         <br/>
+         
+         
+         사초를 적당한 위치에 심으세요. 사초는 풀처럼 생긴 꽃식물로 습지에서 많이 자랍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Mangrove_Wetland"  >맹그로브나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mangrove_Wetland_stt"  >맹그로브나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mangrove_Wetland_lower"  >맹그로브나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Mangrove_Wetland_ltt"  >
+         <color r="255" g="248" b="178">
+            맹그로브나무
+         </color>
+         <br/>
+         
+         
+         맹그로브나무를 적당한 위치에 심으세요. 맹그로브나무는 소금기가 있는 얕은 물에서 잘 자랍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebush_Scrub"  >블루부시</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebush_Scrub_stt"  >블루부시</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebush_Scrub_lower"  >블루부시</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebush_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            블루부시
+         </color>
+         <br/>
+         
+         
+         블루부시를 적당한 위치에 심으세요. 블루부시는 오스트레일리아 서부의 밀 경작 지대가 원산지인 관목입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DatePalm_Desert"  >대추야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DatePalm_Desert_stt"  >대추야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DatePalm_Desert_lower"  >대추야자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DatePalm_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            대추야자
+         </color>
+         <br/>
+         
+         
+         대추야자를 적당한 위치에 심으세요. 대추야자는 아프리카인들의 생활에 없어서는 안 될 나무입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FountainBamboo_Temperate"  >분수 대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:FountainBamboo_Temperate_stt"  >분수 대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:FountainBamboo_Temperate_lower"  >분수 대나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:FountainBamboo_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            분수 대나무
+         </color>
+         <br/>
+         
+         
+         분수 대나무를 적당한 위치에 심으세요. 분수 대나무는 중국 서부 및 남서부가 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LogMedium_Wetlands"  >습지용 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogMedium_Wetlands_stt"  >습지용 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogMedium_Wetlands_lower"  >습지용 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogMedium_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            습지용 통나무
+         </color>
+         <br/>
+         
+         
+         습지용 통나무를 적당한 위치에 놓으세요. 습지에 서식하는 일부 동물들은 습지용 통나무를 보금자리나 쉼터로 삼습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SpinosaBush_Scrub"  >풍접초 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpinosaBush_Scrub_stt"  >풍접초 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpinosaBush_Scrub_lower"  >풍접초 덤불</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpinosaBush_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            풍접초 덤불
+         </color>
+         <br/>
+         
+         
+         풍접초 덤불을 적당한 위치에 심으세요. 풍접초 덤불은 낙타를 비롯한 초식 동물들에게 중요한 먹이입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo"  >소형 튤립 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_stt"  >소형 튤립 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_lower"  >소형 튤립 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedRedSmall_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 튤립 화단
+         </color>
+         <br/>
+         
+         
+         소형 튤립 화단을 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_stt"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_lower"  >주황색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedOrangeLarge_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            주황색 대형 화단
+         </color>
+         <br/>
+         
+         
+         주황색 대형 화단을 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_stt"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_lower"  >파란색 대형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedBlueLarge_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            파란색 대형 화단
+         </color>
+         <br/>
+         
+         
+         파란색 대형 화단을 적당한 위치에 설치하세요. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:GambaGrass_Wetlands"  >감바 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:GambaGrass_Wetlands_stt"  >감바 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:GambaGrass_Wetlands_lower"  >감바 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:GambaGrass_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            감바 잔디
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          감바 잔디를 적당한 위치에 심으세요. 감바 잔디는 키가 큰 열대 방목지 목초로 아프리카가 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_stt"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_lower"  >소형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedWhiteSmall_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            소형 화단
+         </color>
+         <br/>
+         
+         
+         소형 화단을 설치합니다. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LogSmall_Wetlands"  >습지대용 소형 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogSmall_Wetlands_stt"  >습지대용 소형 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogSmall_Wetlands_lower"  >습지대용 소형 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:LogSmall_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            습지대용 소형 통나무
+         </color>
+         <br/>
+         
+         
+         습지대용 소형 통나무를 적당한 위치에 놓으세요. 습지에 서식하는 일부 동물들은 습지용 통나무를 보금자리나 쉼터로 삼습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Papyrus_Wetlands"  >파피루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Papyrus_Wetlands_stt"  >파피루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Papyrus_Wetlands_lower"  >파피루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Papyrus_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            파피루스
+         </color>
+         <br/>
+         
+         
+         파피루스를 적당한 위치에 심으세요. 사초과에 속하는 파피루스는 1m에서 3m 정도까지 자랍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Larkspur_Alpine"  >참제비고깔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Larkspur_Alpine_stt"  >참제비고깔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Larkspur_Alpine_lower"  >참제비고깔</LOC_STRING>
+      <LOC_STRING _locID="entityname:Larkspur_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            참제비고깔
+         </color>
+         <br/>
+         
+         
+         참제비고깔을 적당한 위치에 심으세요. 참제비고깔은 미나리아재비과 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WeepingMyall_Scrub"  >위핑아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WeepingMyall_Scrub_stt"  >위핑아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WeepingMyall_Scrub_lower"  >위핑아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:WeepingMyall_Scrub_ltt"  >
+         <color r="255" g="248" b="178">
+            위핑아까시나무
+         </color>
+         <br/>
+         
+         
+         위핑아까시나무를 적당한 위치에 심으세요. 위핑아까시나무는 오스트레일리아가 원산지입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertGrass_Desert"  >사막 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertGrass_Desert_stt"  >사막 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertGrass_Desert_lower"  >사막 잔디</LOC_STRING>
+      <LOC_STRING _locID="entityname:DesertGrass_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            사막 잔디
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         사막 잔디를 적당한 위치에 심으세요.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dandelions_Grassland"  >민들레</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dandelions_Grassland_stt"  >민들레</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dandelions_Grassland_lower"  >민들레</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dandelions_Grassland_ltt"  >
+         <color r="255" g="248" b="178">
+            민들레
+         </color>
+         <br/>
+         
+         
+         민들레를 적당한 위치에 심으세요. 온대 지방 전역에 자생하는 민들레는 생명력이 아주 강한 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_stt"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_lower"  >자주색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedPurpleMedium_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            자주색 중형 화단
+         </color>
+         <br/>
+         
+         
+         중형 화단을 설치합니다. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_stt"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_lower"  >노란색 중형 화단</LOC_STRING>
+      <LOC_STRING _locID="entityname:FlowerbedYellowMedium_Zoo_ltt"  >
+         <color r="255" g="248" b="178">
+            노란색 중형 화단
+         </color>
+         <br/>
+         
+         
+         중형 화단을 설치합니다. 관람객이 많이 다니는 곳에 설치하면 동물원이 한결 아름답고 화려해집니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Tamarack_Boreal"  >아메리카낙엽송</LOC_STRING>
+      <LOC_STRING _locID="entityname:Tamarack_Boreal_stt"  >아메리카낙엽송</LOC_STRING>
+      <LOC_STRING _locID="entityname:Tamarack_Boreal_lower"  >아메리카낙엽송</LOC_STRING>
+      <LOC_STRING _locID="entityname:Tamarack_Boreal_ltt"  >
+         <color r="255" g="248" b="178">
+            아메리카낙엽송
+         </color>
+         <br/>
+         
+         
+         아메리카낙엽송을 적당한 위치에 심으세요. 아메리카낙엽송은 목질이 단단해서 건축용 자재나 철도의 선로 받침대로 쓰입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Cypress_Wetlands"  >편백나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cypress_Wetlands_stt"  >편백나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cypress_Wetlands_lower"  >편백나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cypress_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            편백나무
+         </color>
+         <br/>
+         
+         
+         편백나무를 적당한 위치에 심으세요. 편백나무는 가지가 넓게 퍼지는 것이 특징입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterLily_Wetlands"  >수련</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterLily_Wetlands_stt"  >수련</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterLily_Wetlands_lower"  >수련</LOC_STRING>
+      <LOC_STRING _locID="entityname:WaterLily_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            수련
+         </color>
+         <br/>
+         
+         
+         수련을 적당한 위치에 심으세요. 수련은 물에 잎이 떠 있는 수중 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanBirch_Alpine"  >히말라야 자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_stt"  >히말라야 자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_lower"  >히말라야 자작나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:HimalayanBirch_Alpine_ltt"  >
+         <color r="255" g="248" b="178">
+            히말라야 자작나무
+         </color>
+         <br/>
+         
+         
+         히말라야 자작나무를 적당한 위치에 심으세요. 히말라야 자작나무는 쉽게 벗겨지는 흰 나무 껍질이 특징입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ProteaWildflowers_Desert"  >야생 프로테아</LOC_STRING>
+      <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_stt"  >야생 프로테아</LOC_STRING>
+      <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_lower"  >야생 프로테아</LOC_STRING>
+      <LOC_STRING _locID="entityname:ProteaWildflowers_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            야생 프로테아
+         </color>
+         <br/>
+         
+         
+             
+         
+         
+         
+         
+         야생 프로테아를 적당한 위치에 심으세요. 야생 프로테아는 아프리카 북부가 원산지인 상록 관목입니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WhiteLillies_Temperate"  >흰 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhiteLillies_Temperate_stt"  >흰 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhiteLillies_Temperate_lower"  >흰 백합</LOC_STRING>
+      <LOC_STRING _locID="entityname:WhiteLillies_Temperate_ltt"  >
+         <color r="255" g="248" b="178">
+            흰 백합
+         </color>
+         <br/>
+         
+         
+         흰 백합을 적당한 위치에 심으세요. 흰 백합은 커다란 나팔 모양의 꽃이 피는 여러해살이 식물입니다.
+      
+      
+      
+      
+     
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Cattails_Wetlands"  >큰부들</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cattails_Wetlands_stt"  >큰부들</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cattails_Wetlands_lower"  >큰부들</LOC_STRING>
+      <LOC_STRING _locID="entityname:Cattails_Wetlands_ltt"  >
+         <color r="255" g="248" b="178">
+            큰부들
+         </color>
+         <br/>
+         
+         
+         큰부들을 적당한 위치에 심으세요. 큰부들은 민물 습지에서 자라는 키가 큰 여러해살이 식물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelThornAcacia_Desert"  >가시아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_stt"  >가시아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_lower"  >가시아까시나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelThornAcacia_Desert_ltt"  >
+         <color r="255" g="248" b="178">
+            가시아까시나무
+         </color>
+         <br/>
+         
+         
+         가시아까시나무를 적당한 위치에 심으세요.
+ 코끼리나 기린은 가시아까시나무의 잎을 좋아합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ArcticMoss_Tundra"  >북극 이끼류</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArcticMoss_Tundra_stt"  >북극 이끼류</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArcticMoss_Tundra_lower"  >북극 이끼류</LOC_STRING>
+      <LOC_STRING _locID="entityname:ArcticMoss_Tundra_ltt"  >
+         <color r="255" g="248" b="178">
+            북극 이끼류
+         </color>
+         <br/>
+         
+         
+         북극 이끼류를 적당한 위치에 심으세요. 흙, 바위, 나무껍질에서 자라는 북극 이끼류는 툰드라 지대에 많습니다. </LOC_STRING>
+</ZT2Strings>

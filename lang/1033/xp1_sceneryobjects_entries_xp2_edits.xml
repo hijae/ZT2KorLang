@@ -1,0 +1,22 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_redwoodtunnel" version="6" />
+      <LOC_STRING _locID="zoopedia_redwoodtunnel:entry" version="6"  >세쿼이아 나무 터널</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redwoodtunnel:text" version="6"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\scenery\zoopedia_redwoodtunnel\RedwoodTunnel_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+세쿼이아 나무 둥치가 터널 모양으로 벌어져 있어 지프를 타고 그 사이를 지나갈 수 있습니다. 
+      <p/>
+세쿼이아 나무 터널은 관람물의 하나로서 투어 노선을 따라 설치하면 투어 등급과 투어 기부금이 올라갑니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+ 
+</ZT2Strings>

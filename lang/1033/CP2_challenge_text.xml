@@ -1,0 +1,185 @@
+<ZT2Strings>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinction"  >
+      고대 동물 월간지는 멸종 동물에 관한 특집 기사를 내려고 합니다. 다음 두 달 동안 4종의 다른 멸종 동물을 구할 수 있다면 동물원의 이름이 헤드라인에 표시됩니다!
+	  <br/>
+	  난이도: 초급
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinctionShort"  >
+      두 달 안에 4종의 멸종 동물을 습득하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinctionSuccessShort"  >
+      4종의 멸종 동물을 성공적으로 얻었습니다! $3,500의 기부금을 얻었으며 동물원이 더욱 유명해졌습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinctionSuccess"  >
+      이제 동물원에 4종의 멸종 동물이 생겼습니다. 고대 동물 월간지가 동물원에 대해 극찬하는 리뷰를 개시했으며, 이번 달 호의 커버 스토리기가 되었습니다. 동물원은 더욱 유명해졌고, 고대 동물 월간지는 $3,500의 장려금을 주었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinctionFailureShort"  >
+      두 달 안에 4종의 멸종 동물을 얻지 못했기 때문에 고대 동물 월간지는 멸종 동물에 대한 이야기를 받지 못했습니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBackFromExtinctionFailure"  >
+      두 달 동안 4종의 멸종 동물을 얻지 못했습니다. 고대 동물 월간지는 라이벌 동물원을 표지에 달았습니다! 동물원의 입장객 수가 적어질 수도 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonations"  >
+      오록스 복원 협회는 좋은 안식처에 오록스 한 마리를 입양보내기를 원하여 동물원이 이 동물에게 잘 맞는지 확인하려고 합니다. 동물원이 향후 두 달 동안 멸종 동물에 대한 기부금 $1,500을 모아 재정적으로 안정적이라는 것을 증명할 수 있다면, 오록스 한 마리를 분양받을 수 있게됩니다.
+	  <br/>
+	  난이도: 초급
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonationsShort"  >
+      오록스 한 마리를 입양받으려면 다음 두 달 동안 멸종 동물에 대한 기부금 $1,500을 모으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonationsSuccessShort"  >
+      멸종 동물 기부금으로 $1,500을 모았습니다! 동물원에 새로운 오록스가 보내질 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonationsSuccess"  >
+      오록스 복원 협회는 $1,500의 기부금을 모급하였으며, 귀중한 오록스를 동물원에 기증했습니다. 동물원 입구 근처에 있는 상자에서 오록스를 찾을 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonationsFailureShort"  >
+      지난 두 달 동안 멸종 동물 기증금 $1,500을 모으는 데 실패했습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHExtinctDonationsFailure"  >
+      오록스 복원 협회는 동물원이 오록스에게 좋은 안식처를 제공하지 못할 것이라고 우려하고 있습니다. 멸종 동물 기부금 $1,500을 얻지 못했기 때문입니다. 결국 협회는 당신에게 오록스를 입양보내지 않기로 결정하였습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantine"  >
+      이웃 동물원에는 병에 걸린 여성 %s이(가) 있으며 건강을 되찾기 위해 도움을 필요로 합니다. 그녀의 동물은 질병에 걸렸으며, 이 챌린지를 받아들인다면 동물원의 입구에 병든 동물을 보낼 것입니다. 병든 동물을 건강한 사람에게서 멀리하여 질병의 확산을 늦추거나 할 수 있을 겁니다. 동물원에서 두 달 안에 질병을 퇴치할 수 있다면 그 동물의 수컷 짝을 무료로 받을 수 있으며 그 기간 동안 동물원의 멸종 동물 수에 상응하는 기부금을 받게 될 것입니다. 질병에 감염된 동물은 머리 주위에 세균 먼지를 가지고 있으며, 동물을 치료하려면 멸종 동물 연구소로 가서 질병 치료 탭을 확인하세요. 연구 팀은 질병 치료법을 찾는데 도움이 될 수 있으며, 세균이 더 이상 동물을 둘러 쌀 수 없을 때 치료됩니다. (오역이 있더라도 양해바랍니다)
+	  <br/>
+      난이도: 다양함
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineShort"  >
+      동물원 입구에 있는 %s의 상자를 풀어 질병을 치료하고 두 달 안에 동물원의 멸종 동물들에게 걸린 질병을 치료하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineSeedDisease"  >
+      병이 동물원에 있는 다른 동물들에게 퍼져 나갔습니다! 치료법을 찾는것이 좋겠어요! 빨리!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineSuccessShort"  >
+      병든 %s를 치료하는데 성공했으며 병을 없애버렸습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineSuccess"  >
+      동물원에서 질병을 치료했습니다! 동물원의 멸종 동물들은 이 질병에 대한 면역력을 갖게 되지만, 다른 전염병을 피하기 위해 건강하고 깨끗한 상태가 유지되어야 합니다. 새로운 %s와 치료 기간동안 모은 멸종 동물 기부금에 상응하는 수표가 동물원에 도착 할 것입니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineDeathShort"  >
+      오, 안돼! 동물원의 동물 중 한 마리가 이 질병으로 인해 죽었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineTimeFailureShort"  >
+      두 달 안에 동물원의 질병을 제거하지 못했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineDeath"  >
+      불행히도 동물과, 심지어 손님도 동물원 전체에 질병을 빠르게 퍼뜨립니다. 이제 동물원의 동물 중 한 마리가 죽었습니다. 기억하세요, 병든 동물은 손님들과 다른 동물들로부터 멀리 떨어져 있어야 합니다. 그렇게 하면 병을 퍼뜨리지 않고도 동물이 치료될 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHQuarantineTimeFailure"  >
+      두 달 내에 %s를 치유하고 질병을 제거할 수 없었습니다. 동물을 돌보는 일을 계속 할 수 있지만, 그 동물의 배우자는 다른 동물원에서 보살핌을 받을 것 입니다. 기억하세요, 병든 동물은 손님들과 다른 동물들로부터 멀리 떨어져 있어야 합니다. 그렇게 하면 병을 퍼뜨리지 않고도 동물이 치료될 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemen"  >
+      Oh, no! Your glacier is melting and five prehistoric cavemen are loose in your zoo! It's up to you to round them up before they escape! Hint: To capture them, go into Zoo Guest Mode. Difficulty: Easy  
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemenShort"  >
+      Capture the wandering cavemen before they escape your zoo!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemenSuccessShort"  >
+      You captured all the cavemen!  
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemenSuccess"  >
+      Because you could account for all your cavemen, you received a $3,000 grant from the International Prehistoric Security Fund -- and another glacier to put anywhere in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemenFailureShort"  >
+      One of your cavemen escaped! You received a $500 fine.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCaptureCavemenFailure"  >
+      One of your cavemen escaped into a nearby park. A park ranger captured him and brought him back to your zoo. Unfortunately, your caveman violated a city ordinance against carrying big clubs, so you received a $500 fine!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:Caveman1"  >
+      Grunt Rockbasher
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:Caveman2"  >
+      Flint Boulder
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:Caveman3"  >
+      Stone Fillmore
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:Caveman4"  >
+      Slate Grindstone
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:Caveman5"  >
+      Clyde Cavedweller
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloning"  >
+      Scientists around the world are competing for the coveted new Crafty Creations Prize! Your state-of-the-art Extinct Research Lab has everything you need to put your (and your animals') best feet forward. If you create three different animals of exceptional quality (a score of 90 or better), you win the prize and a $7,500 award! You have two months to earn this prize. Difficulty: Easy
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloningShort"  >
+      Create three exceptional animals from different species within two months to win the Crafty Creations Prize!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloningSuccessShort"  >
+      Your created three perfect extinct animal specimens! You won the Crafty Creations Prize!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloningSuccess"  >
+      Your skills in the Extinct Research Lab didn't go unnoticed. You won the Crafty Creations Prize! In addition to keeping your three perfect animals, you also won $7,500! You should have a few extra guests visiting your zoo this month because of all the positive publicity! 
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloningFailureShort"  >
+      Two months have passed and your animals didn't quite make the cut. You didn't win the Crafty Creations Prize.  
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHCraftyCloningFailure"  >
+      Two months have passed and your animals weren't quite good enough to win the Crafty Creations Prize -- but you do get to keep them! Better luck next year. Keep practicing!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHKillerPenguin"  >
+      A zoologist recently came upon a lone penguin wandering in the Arctic. Wanting to find a good home for it, she decided to donate the penguin to your zoo free of charge. Want a free penguin? Click the Check for yes or the X for no.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHKillerPenguinSuccessShort"  >
+      You received a free penguin!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHKillerPenguinSuccess"  >
+      Your new penguin sure doesn't look like any other penguin you've seen, but it's going to make an interesting addition to your zoo. You can find it crated at the front gate.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFinding"  >
+      A local paleontologists' union is approaching you with a unique offer to share information. They want some data on which fossils you are finding in your zoo. If you find all the pieces for an animal you haven't already discovered yet, they promise to share some of their fossils with you! This is a limited time offer. If you don't get it done in one month, they go to another zoo. Difficulty: Easy
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFindingShort"  >
+      Find all the pieces to a fossilized animal you haven't discovered yet.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFindingSuccessShort"  >
+      Your information sharing is a success! You can now build the %s at your Extinct Research Lab!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFindingSuccess"  >
+      The paleontologists' union was so happy you let them study your fossils that they donated some of their collection to your zoo! You can now build %s at your Extinct Research Lab -- without having to find all the pieces yourself!
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFindingFailureShort"  >
+      You didn't find the fossils fast enough. The paleontologists' union decided to go to another zoo. 
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilFindingFailure"  >
+      You didn't find the fossils fast enough. The paleontologists' union decided to go to another zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuilding"  >
+      Researchers at the local science museum recently came across a collection of fossil pieces in storage. They need your help in putting these pieces together. They know that the fossilized bones are from the %s. If you assemble the pieces in one month or less, they are going to give you the research needed to create that animal in your Extinct Research Lab. They are asking for a $2,000 deposit, in case you aren't able to piece together their fossil. Don't worry -- you get the $2,000 back if you succeed. Difficulty: Easy 
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuildingShort"  >
+      Assemble the %s at the Extinct Research Lab.  
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuildingSuccessShort"  >
+      You managed to put together the %s! Now you can create it at the Extinct Research Lab. The museum also refunded your $2,000 deposit.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuildingSuccess"  >
+      Congratulations! Once again your fossil-building skills are proven to be topnotch. The science museum uploaded all the files you need to create the %s in your Extinct Research Lab! They also refunded your $2,000 deposit.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuildingFailureShort"  >
+      Looks like the fossil was too puzzling for you. The museum asked you to return their fossil pieces.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHFossilBuildingFailure"  >
+      You weren't able to piece together the fossil pieces in one month. The museum asked you to return them, and they are keeping your $2,000 deposit.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreation"  >
+      Your sister zoo wants you to participate in an experimental new study in extinct animal research. They are offering to give you the data needed to create the %s in the Extinct Research Lab for $5,000. If you prove your skills by creating three super specimens of the %s in two months, you get a $5,000 grant to offset the costs and get the animal data. Difficulty: Intermediate
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreationShort"  >
+      Create three super versions of the %s at the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreationSuccessShort"  >
+      Whoa! You squeezed plenty of super out of your Extinct Research Lab! You received $5,000.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreationSuccess"  >
+      Once again you showed your skills at creating a family of super animals! Your sister zoo is pleased with the results. They awarded you the $5,000 grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreationFailureShort"  >
+      Two months have passed and you didn't create the required animals. You missed out on the $5,000 grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalCreationFailure"  >
+      Two months have passed and you didn't create the required animals. Your sister zoo couldn't complete its extinct animal experiment, and you missed out on the $5,000 grant.
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,9 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:GoingToBuildNest"  >Going to build nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BuildingNest"  >Building nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToWorkOnNest"  >Going to work on nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WorkingOnNest"  >Working on nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToFinishNest"  >Going to finish nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:FinishingNest"  >Finishing nest</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GrowlHappy"  >Growling in contentment</LOC_STRING>
+</ZT2Strings>

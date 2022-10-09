@@ -1,0 +1,15 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoonames:benthicsml"  >해저 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:benthicbig"  >해저 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:benthicmed"  >시험용 해저 동물원(중형)</LOC_STRING>
+      <LOC_STRING _locID="zoonames:coastalbig"  >연안 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:coastalmed"  >연안 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:coastalsml"  >연안 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:coastalzoojr"  >초급 연안 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:pelagicsml"  >원양 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:pelagicmed"  >원양 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:pelagicbig"  >원양 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:reefsml"  >암초 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:reefmed"  >암초 동물원</LOC_STRING>
+      <LOC_STRING _locID="zoonames:reefbig"  >암초 동물원</LOC_STRING>
+</ZT2Strings>

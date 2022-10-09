@@ -1,0 +1,607 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_ironbar:entry">쇠창살 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ironbar:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/ironbar_df/ironbar_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+		쇠창살 울타리는 튼튼하고 오래가는 울타리입니다. 관람객이 동물을 관람하는 데 
+		방해가 되지도 않습니다. 동물은 쇠창살 울타리를 기어오르거나 
+		뛰어 넘지 못합니다. 하지만 일부 동물은 낮은 쇠창살 울타리를 뛰어 넘을 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chainlink:entry">철조망 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chainlink:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/chainlink_df/chainlink_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  철조망 울타리는 예산이 충분하지 않을 때 사용하면 좋습니다. 하지만 일부 영장류 동물은 철조망을 타고 올라와서 밖으로 나올 수도 있습니다. 
+     
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plexiglass:entry">강화 유리 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plexiglass:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/plexiglass_df/plexiglass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               강화 유리 울타리는 튼튼하고 동물 관람에 적합한 울타리입니다. 
+               관람객들은 강화 유리를 통해 안전하게 우리 내부를 볼 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_postrail:entry">통나무 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_postrail:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/postrail_df/postrail_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               통나무 울타리는 강도가 중간 정도이며 도랑과 함께 설치하면 효과적입니다. 통나무 울타리는 장식용으로 사용되기도 합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodenslat:entry">나무 판자 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodenslat:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/woodslat_df/woodslat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  Zoo Tycoon 2에는 보통 높이와 낮은 높이의 나무 판자 울타리가 등장합니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  나무 판자 울타리는 강도가 중간 정도이며 동물들을 우리에 가둬두는 데 어느 정도 효과적입니다. 하지만 관람객들의 시야를 가린다는 단점이 있습니다.
+	
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  반면, 낮은 나무 판자 울타리는 관람객들의 시야를 가지리 않으면서도 적절한 효과를 발휘합니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodslatwindow:entry">나무 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodslatwindow:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/woodslatwindow_df/woodslatwindow_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               나무 창문 울타리는 창문이 없는 나무 판자 울타리 사이에 설치하면 좋습니다. 
+               중간 정도의 강도에 가격도 적당한 나무 창문 울타리는 관람객들이 시야를 확보하는데 좋습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brick:entry">벽돌 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brick:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/brickwall_df/brickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/fences/brickwall_df/lowbrickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  벽돌 울타리는 동물들을 가둬놓는 우리용 울타리로도 좋고 길을 꾸미는 장식용으로도 훌륭합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hedge:entry">관목 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hedge:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/hedge_df/hedge_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               관목은 우리를 만드는 울타리로는 별로 적합하지 않지만 길과 보도의 조경물로 사용된 
+               장식용 관목은 많은 관람객들이 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_postrope:entry">밧줄 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_postrope:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/lowpostrope_df/lowpostrope_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               밧줄 울타리는 중간 정도의 내구성을 지녔으며 겉보기에는 장식용으로 보이지만 일부 동물의 우리를 만드는 데 써도 어느 정도 효과를 발휘합니다. 
+               힘이 센 맹수들은 밧줄 울타리를 부수고 나올 수 있지만 다른 대부분의 동물들은 밧줄 울타리를 넘어올 수 없습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_picket:entry">흰 말뚝 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_picket:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/whitepicket_df/whitepicket_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               흰 말뚝 울타리는 큰 동물을 가두기에 적합하지 않지만 주위 경관을 아름답게 꾸미는 데는 아주 좋습니다. 
+               관람객들의 산책로나 식당 지역에 사용하면 특히 좋습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stonewall:entry">돌담</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stonewall:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/stonewall_df/stonewall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  돌담은 Zoo Tycoon2에서 가장 튼튼하고 내구성이 강한 울타리입니다. 
+돌담의 유일한 단점은 관람객들의 시야를 가린다는 것입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  시야 확보가 중요한 곳이라면 튼튼하면서도 시야를 가리지 않는 낮은 돌담을 설치하는 것이 좋습니다.
+                  
+                  
+                  
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_safarifence:entry">사파리 스타일 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_safarifence:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/bamboo_st/bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               사파리 스타일 울타리는 얼룩말, 기린, 사자 등 사바나 동물이 사는 우리에 가장 잘 어울립니다. 
+               또한, 사바나 스타일로 꾸민 지역을 장식하는 데 사용해도 좋습니다. 관람객들은 색다른 스타일로 꾸민 곳을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglefence:entry">정글 스타일 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglefence:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/junglefence_jt/junglefence_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               정글 울타리는 호랑이, 고릴라, 침팬지 등 열대우림 동물이 사는 우리에 가장 잘 어울립니다. 
+               또한, 열대우림 스타일로 꾸민 지역을 장식하는데 
+               사용해도 좋습니다. 관람객들은 색다른 스타일로 꾸민 곳을 
+               좋아합니다.
+				
+               
+               
+               
+               
+               
+             
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fencegate:entry">직원 출입문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fencegate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/staffgate_df/staffgate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               모든 우리에는 직원 출입문이 있어야 합니다. 직원들은 직원 출입문을 통해 동물들에게 다가갈 수 있습니다. 
+               관람객들의 출입을 제한해야 하는 경우에는 길을 직원 출입문으로 막을 수도 있습니다. 
+               직원 출입문으로 들어갈 수 있는 사람은 사육사, 안내원, 관리원 등 동물원 직원뿐입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_concretefence:entry">콘크리트 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_concretefence:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/concrete_df/concrete_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               콘크리트 울타리는 가장 튼튼한 울타리 중 하나로 절대 넘을 수 없는 장벽 역할을 합니다. 동물들이 계속 부딪혀도 
+               끄떡없으며 대부분의 영장류는 콘크리트 울타리를 기어오르지 못합니다. 하지만 
+               우리를 콘크리트 울타리로 만들어 놓으면 관람객이 
+               동물을 볼 수 없다는 점을 잊지 마세요. 콘크리트 울타리가 낮으면 관람객이 구경하기는 쉬워지지만
+               몇몇 동물은 울타리를 넘어갈 수도 있게 됩니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

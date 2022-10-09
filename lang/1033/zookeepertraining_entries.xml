@@ -1,0 +1,120 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingintro">사육사 훈련</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingoverview">
+         
+          조그만 지방 동물원을 운영할 수 있는 기회가 생겼습니다. 그러나 그 동물원 주인은 동물원 운영권을 완전히 넘겨 주기 전에 먼저 각 동물에게 알맞은 서식 환경에 대해 여러분이 얼마나 잘 알고 있는지 확인하려고 합니다. 동물원 주인이 제공한 세 마리의 동물을 각각의 서식 환경에 맞게 조성한 우리에 넣으세요. 
+         
+         <p/>
+         
+          각 동물은 동물원 정문 근처의 상자 안에 있습니다. 상자를 선택하면 어떤 종류의 동물이 안에 있는지 정보 창에 표시됩니다. 상자는 다른 개체와 마찬가지로 선택하여 이동할 수 있습니다. 상자에서 동물을 풀어 주려면 동물 정보 창에 있는 상자에서 풀어주기 단추를 클릭하세요. 동물을 풀어 놓은 후에는 정보 탭을 사용하여 동물에 대한 추가 정보를 볼 수 있습니다. 
+         
+         <p/>
+         
+          상자 안에 든 동물을 적합한 우리로 옮겨 놓아야 합니다. 
+         
+         <p/>
+         
+          한 달 동안 동물원을 운영하고 동물들을 돌보면서 기초적인 게임 조작 방법을 익히세요. 참고: 동물들을 살아있도록 하려면 계속해서 먹이와 물을 주어야 합니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingoverviewshort">자그마한 지방 동물원을 운영할 수 있는 기회가 생겼습니다. 그러나 여러분이 각각의 동물마다 알맞은 서식 환경이 따로 있다는 것을 알고 있다는 것을 증명해야 동물원을 운영할 수 있습니다. 각각의 동물에 적합한 서식 환경을 갖춘 우리로 동물을 옮기고 새 동물원을 한 달간 운영하세요. 이 캠페인의 모든 시나리오를 마치면 꽃기둥을 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingSuccessoverview">훌륭합니다! 동물원에서 동물들이 잘 자라기 위해서는 각자에게 알맞은 생활 환경을 제공해야 한다는 사실을 알고 있다는 것을 증명했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingFailureoverview">동물은 생명체이므로 생명을 유지하기 위한 적절한 관리가 필요합니다. 제대로 된 관리를 제때 받지 못하면 동물이 병들게 됩니다.       </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingresult">동물들이 잘 자라고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTraininggoal">상자에 들어 있는 각 동물을 적합한 서식 환경 우리에 풀어 놓으세요.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTraininggoalOK">훌륭합니다! 동물들이 새 주거지에 금방 적응했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingstayopengoal">현재 보유한 동물 세 마리가 죽지 않도록 신경쓰면서 동물원을 한 달 동안 운영하세요.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTrainingstayopengoalOK">훌륭합니다! 동물들을 돌보면서 동물원을 한 달 동안 운영하는 시험에 통과했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:ZookeeperTraininggoalFailed">이런! 동물이 세 마리가 안되는군요. 유감스럽게도 한 달 동안 동물들을 돌보며 동물원을 운영하는 일에는 실패한 것 같군요.       </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpintro">사육사 훈련</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpoverview">
+         
+          동물과 관람객으로 넘치는 동물원을 만들기 위해서는 여러 단계를 거쳐야 합니다. 초기에는 한 번에 하나씩 개선하여 동물원을 점점 더 인기있는 명소로 만들어야 합니다. 
+         
+         <p/>
+         
+          새로 연 동물원에 얼룩말 한 쌍이 제공되었습니다. 관람객들은 동물들이 서로 어울리는 것을 좋아하기 때문에 관람객 유치에 도움이 될 것입니다.  
+         
+         <p/>
+         
+          얼룩말에게 알맞은 서식 환경의 우리를 만들어 주고 배고픔과 갈증을 해결해 주어야 합니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpoverviewshort">동물과 관람객으로 넘치는 동물원을 만들기 위해서는 여러 단계를 
+	거쳐야 합니다. 초기에는 한 번에 하나씩 개선하여 동물원을 점점 더 
+	인기있는 명소로 만들어야 합니다. 이 캠페인의 모든 시나리오를 마치면 꽃기둥을 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpFailedoverview">불행히도 동물원을 개장할 때 계획한 대로 일이 진행되지 않았습니다. 동물은 제때 제대로 관리해 주는 것이 중요합니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalOne">얼룩말에게 적합한 우리를 만들어야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalOneA">얼룩말의 기본 생활 조건인 배고픔과 갈증을 해결해야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalOneOK">훌륭합니다! 새 동물들이 새 환경에 완전히 적응했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalOneAOK">좋습니다! 얼룩말의 배고픔과 갈증을 해결했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpSuccessoverview">이제 관람객이 동물원을 찾기 시작했습니다. 관람객을 위한 시설을 확충해야 합니다. 
+	관람객들이 배가 고프거나 목이 마를 때 이런 욕구를 해결할 수 있도록 음식이나 음료수 판매 시설을 
+	갖추는 것이 중요합니다. 관람객들을 위한 핫도그 판매대와 음료수 판매대를 동물원에 설치하세요.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalTwo">핫도그 판매대와 음료수 판매대를 동물원에 설치하세요.       </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalTwoOK">좋습니다! 이제 관람객들이 음식을 먹고 마실 수 있게 되었습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpSuccessTwooverview">
+         
+          작은 규모의 동물원이지만 출발은 아주 좋습니다. 사람들의 입 소문을 타고 동물원에 대한 소식이 전해지면 더 많은 관람객이 찾아올 것입니다. 신문사에서 일하는 한 기자가 동물원에 대한 기사를 쓴다면서 얼룩말 사진을 보내 달라고 요청했습니다. 독자들은 동물이 장난감을 가지고 놀면서 즐거워하는 얼룩말 사진을 좋아합니다. 기자가 요청한 사진은 2장으로, 뛰어 다니고 있는 얼룩말의 모습과 몸을 청결히 하기 위해 캣 포스트에 몸을 긁고 있는 얼룩말의 모습을 찍어야 합니다. 
+       
+         <p/>
+         
+          필요한 사진을 찍으려면 캣 포스트를 연구해야 합니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalThree">동물원 홍보에 도움이 될 만한 사진 두 장을 제공해야 합니다. 뛰어 다니고 있는 얼룩말 사진과 캣 포스트를 사용하고 있는 얼룩말의 사진을 찍으세요. 힌트: 얼룩말은 몸을 청결히 하려고 캣 포스트를 이용합니다. 더러워진 얼룩말이 캣 포스트를 이용하겠죠?      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalThreeOK">멋진 사진이 나왔습니다. 이로써 우리 동물원에 새로운 동물이 전시되었음을 여러 사람에게 알리게 되었습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpSuccessThreeoverview">
+         
+          동물원이 명성이 높아짐에 따라 동물 두 마리가 임시로 입양되었습니다. 공원으로 보내진 두 마리의 재규어를 2개월 동안 사육해야 합니다. 주어진 기간 동안 재규어 두 마리를 제대로 사육하려면 충분한 운동 공간이 있는 환경을 만들고, 먹이와 물을 주며 편히 쉴 수 있도록 해야 합니다. 나무를 심어서 그늘을 만들어 주는 것도 좋은 방법입니다. 
+         
+         <p/>
+         
+          정문 옆의 상자 안에 재규어가 들어 있습니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFour">재규어를 위한 새 우리를 만들고 기본적인 생활 조건을 만족시켜 주세요.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFourOK">훌륭합니다! 재규어가 잘 적응했습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFourFailed">동물을 돌려보낼 때가 되었습니다. 불행히도 이 두 마리의 재규어는 새로운 환경에 적응하지 못했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpSuccessFouroverview">
+         
+          모든 것이 순조롭게 진행되고 있습니다. 얼룩말에 대한 기사는 관람객에게 좋은 인상을 심어 주었고 재규어 덕분에 동물원의 인기가 더욱 높아졌습니다. 동물원이 유명해졌기 때문에 더욱 흥미로운 동물을 보유할 수 있는 기회가 생길 것입니다. 
+         
+         <p/>
+         
+          다음 단계는 고급 동물 관리로서 동물들의 추가적인 생활 조건을 만족시켜 주는 것입니다. 이런 추가적인 생활 조건을 만족시켜 주면 새끼를 많이 낳게되어 전시할 수 있는 동물 수가 늘어납니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFive">재규어의 추가적인 생활 조건을 만족시켜야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFiveOK">훌륭합니다! 재규어가 아주 만족해하고 있습니다! 이대로 계속 가면 동물원이 분명 크게 번성할 것입니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpGoalFiveFailed">동물들을 돌려보낼 때가 되었지만 불행히도 동물들이 원하는 추가적인 생활 조건을 만족시키지 못했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpSuccessFiveoverview">훌륭한 동물원을 만들기 위한 모든 기본적인 단계를 마쳤습니다. 동물마다 각자의 생활 조건이 있으며 이 생활 조건이 충족될 때 가장 잘 자란다는 것을 잊지 마세요. 관람객도 행복해하는 동물을 보고 싶어합니다. 그래서 동물이 행복하지 못하면 관람객도 불쾌해하는 것입니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:StartUpresult">이제 동물원의 규모를 늘리기만 하면 됩니다!</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpintro">기부금</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpoverview">
+         
+          새로운 동물을 얻고 동물의 기본적인 생활 조건을 만족시키면서 관람객에게는 더 나은 편의 시설을 제공하고, 우리를 개선하여 동물의 추가적인 생활 조건을 만족시켜 주는 등의 기본적인 단계를 완수해야 동물원의 명성이 높아집니다. 동물원 명성이 높아지면 동물원을 찾는 관람객도 많아지게 됩니다. 동물이 만족해하면 관람객도 만족감을 느낍니다. 관람객이 만족감을 느껴야 기부금을 낼 확률이 더욱 높아집니다.   
+         
+         <p/>
+         
+          새로 개장하면서 얻은 경험을 바탕으로 이제 동물원 규모를 더욱 크게 늘려야 합니다. 현재 소유한 동물원을 확장하여 동물원의 명성을 높이고 더 많은 관람객이 찾게 만드세요. 기부금을 많이 받아야 빨리 성공할 수 있습니다.            
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpoverviewshort">새로 개장하면서 얻은 경험을 바탕으로 다음 단계에서는 성공적으로 동물원 규모를 
+	늘려야 합니다. 현재 소유한 동물원을 확장하여 동물원의 명성을 높이고 더 많은 관람객이 
+	찾게 만드세요. 기부금을 많이 받아야 빨리 성공할 수 있습니다. 이 캠페인의 모든 시나리오를 마치면 꽃기둥을 사용할 수 있습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpSuccessoverview">동물원을 성공적으로 운영할 수 있는 기초적인 방법을 모두 익혔습니다. 이에 대해 꽃기둥을 선물로 받아 동물원을 예쁘게 장식할 수 있게 됐습니다. 여러분의 손으로 만들어질 최고의 동물원이 벌써부터 눈 앞에 아른거리는군요. 이제 지금까지 익힌 방법을 활용하여 낡거나 망가진 시설을 복구하는 것에서부터 시작하여 동물 보호에 앞장서 기여하는 것에 이르기까지 점점 더 큰 과제를 수행해야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpresult">기부금이 증가하고 있습니다! </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpgoal">관람객 기부금으로 $5,000를 모으세요.      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTraining:BeyondStartUpgoalOK">잘했습니다! 동물원이 별 다섯 개 공원으로 지정되었습니다!      </LOC_STRING>
+      <LOC_STRING _locID="ZookeeperCampaignPhotos:stt_ZebraScratchingPost">캣 포스트를 사용하는 얼룩말의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperCampaignPhotos:stt_ZebraRunning">우리 안에서 뛰어다니는 얼룩말 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperCampaignPhotos:PHZebraPhotos">얼룩말 사진</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:ZookeeperTrainingshort">사육사 훈련</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:ZookeeperTrainingS1">새로운 동물 도착</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:ZookeeperTrainingS1short">새로운 동물 도착</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:StartUpS2">동물원 최초 개장</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:StartUpS2short">동물원 최초 개장</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:BeyondStartUpS3">개장 이후</LOC_STRING>
+      <LOC_STRING _locID="ZookeeperTrainingLabels:BeyondStartUpS3short">개장 이후</LOC_STRING>
+</ZT2Strings>

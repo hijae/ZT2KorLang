@@ -1,0 +1,13 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:RunningFromAnimal_Happy"  >Whoa! %s scared me a little.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalMotionGood"  >Hey, %1s is motioning toward %2s.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalBeckonChildGood"  >Sweet! %s is beckoning her child over!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGapeWideGood"  >%s is amazing! Look how wide its mouth is gaping!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGapeBad"  >Oh, no! %s looks frightening to me!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalTryStandTwoLegsGood"  >Oh, look! %s is trying to stand on two legs!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalSnowGood"  >Cool! %s is rolling in the snow!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGrowlGood"  >Hear that?! %s is growling for attention!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalAttemptEscape"  >Oh, snap! %s is trying to escape from its exhibit!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalTestFence"  >Uh oh, %s is checking if its fence is electrified</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalShockedFence"  >Oh no! That fence shocked %s a little bit!</LOC_STRING>
+</ZT2Strings>

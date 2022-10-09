@@ -1,0 +1,16 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:GotEntertained"  >I'm glad %s is here. I was getting bored!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotEntertained_Show"  >Wow! %s put on a great performance!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilDigPit_Success"  >Check out the awesome bone I dug up in the %s!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilDigPit_Failure"  >Hey, this is trash! What's it doing in the %s?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotoDanceStage"  >Hey, look -- here's an empty stage! Let's see if I can get a crowd!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:DanceAtStage"  >I hope everyone watching me is having as much fun as I am!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseTarFountain"  >Whoa, I almost got stuck in the tar!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:ViewFossilEducationCenter"  >This is a great place to learn about extinct animals!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilEducationCenter"  >I'm going to help build an extinct animal skeleton!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Hand"  >Wow! Look at this extinct animal's hand compared to mine!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Foot"  >Wow! Look this extinct animal's foot compared to mine!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Size"  >Boy howdy! Extinct animals sure were ginormous!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:KillerPenguinDonation"  >If I give the penguin money, you think it might be nice to me?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotEducatedFossils"  >I learned a lot about fossils today!</LOC_STRING>
+</ZT2Strings>

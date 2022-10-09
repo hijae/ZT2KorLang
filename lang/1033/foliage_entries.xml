@@ -1,0 +1,7091 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_blackthorn:entry"  >블랙손 덤불</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_blackthorn:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BlackThornBush/BlackThornBush_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+            		슬로' 또는 '슬로 자두나무'로도 불리는 블랙손은 서아시아, 유럽, 지중해 연안에 자생하는 자두나무 종류의 식물입니다. 가지는 짧고 뻣뻣하며 가시가 많고 작은 잎이 많이 달려 있습니다. 작은 흰색 꽃이 피고 나면 직경 1.3cm 정도의 짙은 파란색 열매가 열립니다. 블랙손 덤불의 키는 3m에서 4m 정도입니다.
+		</cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+            	내용 출처 
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="321" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananaleaf:entry"  >바나나잎 덤불</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananaleaf:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BananaLeaf/BananaLeaf_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+            바나나잎 덤불은 바나나 나무와 많이 비슷하지만 
+            크기는 훨씬 작습니다.
+		</cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gambagrass:entry"  >감바 잔디</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gambagrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/GambaGrass/GambaGrass_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               감바 잔디는 키가 큰 열대 여러해살이 풀로서, 직경이 70cm인 크고 
+               울창한 덤불을 형성합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       아프리카가 원산지인 감바 잔디는 초식 동물들의 먹이로 사용하기 위해 
+	       1980년대에 오스트레일리아 북부와 서부 지역에 도입되었습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       복잡한 뿌리 구조 덕분에 땅속 깊숙한 곳의 물도 흡수할 수 있는 감바 잔디는
+	       건기에도 푸른 상태를 유지하지만 아프리카와 오스트레일리아의 길고 더운 여름 동안에도
+	       계속 성장하기 때문에 화재의 주요 원인이 되기도 합니다.
+      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_papyrus:entry"  >파피루스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_papyrus:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Papyrus/Papyrus_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               '종이 갈대'라고도 하는 파피루스는 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_sedge:entry">
+                     <u>
+                        <color r="255" g="231" b="135">사초과 </color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               식물에 속합니다. 파피루스는 1m에서 3m 높이까지 자라며 나무재질의 땅속줄기는 향이 나며 기어가듯 뻗으며 자랍니다. 잎은 길고 잎줄기가 가느다랗습니다.
+               꽃을 피우는 줄기는 위쪽으로 뻗어 있고 잎이 없으며 부드럽고, 삼각형 모양입니다. 줄기 아랫부분은 사람 팔만큼 두꺼우며, 줄기 끝부분에는 여러 개의 포에 쌓인 작은 이삭이 달려 있고, 8개의 잎이 소용돌이 모양으로 달려 있습니다.
+               파피루스는 이집트, 에티오피아, 요르단강 계곡, 시실리에서 서식합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       예로부터 파피루스의 각 부분은 화관, 샌들, 상자, 선박, 밧줄 등 장신구와 
+	       다목적 용구를 생산하는 데 사용되었습니다. 뿌리는 말려서 연료로 쓰고 
+	       줄기 속은 삶아서 먹기도 했습니다. 하지만 대부분은 당시에 글을 쓰는 데 
+	       이용했던 파피루스 종이를 만들기 위해 사용됐습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       이집트인들은 파피루스 줄기 속을 길이 방향으로 잘라서 서로 엇갈리게 놓고 
+	       전체를 물에 적신 후 압력을 가하면서 말리고 상아나 부드러운 조개 껍질로 문질러
+	       파피루스 종이를 만들었습니다. 파피루스 종이는 가로 12.5cm, 세로 22.5cm 짜리에서부터
+	       가로 22.5cm, 세로 37.5cm까지 다양한 크기로 제작되었으며 이 낱장을 붙여 길이 6m에서 9m인 두루마리를 만들었습니다. 
+	       이집트인들은 파피루스 종이에 일정한 간격으로 글을 기록을 했습니다.
+	       일반적으로 산문의 경우 문장 폭은 7.6cm를 넘지 않았지만 시의 경우에는 시구에 맞추기 위해 폭이
+	       더 넓었습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       그리스에 파피루스 종이가 도입된 것은 BC 5세기 초반으로 알려져 있지만 
+	       현존하는 가장 오래된 그리스 파피루스 종이는 BC 5세기에 출생해서 BC 4세기까지 살았던 시인 '티모테우스'의 작품인 'Persae'가 기록된 종이입니다.
+	       BC 4세기 초반까지 그리스와 로마에서 문학 작품을 기록하는 데 널리 사용된 파피루스 종이는
+	       양피지가 등장하면서 서서히 자취를 감췄습니다. 그러나 일부에서는 AD 8세기에서 9세기까지도 공식 문서와 개인 문서 작성에
+	       파피루스 종이를 사용했습니다.
+      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cattails:entry"  >큰부들</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cattails:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Cattails/Cattails_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               큰부들은 큰 키의 여러해살이 풀이며 포복성의 뿌리와 길고 평평한 잎이 특징입니다.
+              꽃은 원주형 꽃이삭에 달리며 열매 이삭은 갈색으로
+               표면이 부드럽습니다. 큰부들은 온대 기후와 열대 기후의 민물 늪지대에서 자라지만
+               연못 가장자리나 소택지에 서식하는 경우도 있습니다. 토양에 수분이 충분하면
+               빠르게 성장하고 주변으로 퍼져 나갑니다. 흔하게 볼 수 있는 큰부들은 보통 1m에서 2m정도 자랍니다.
+               북반구에 폭넓게 서식하는 좁은잎부들은 
+               3m까지 자라며 캘리포니아, 텍사스, 멕시코, 아르헨티나에 
+자생하는 부들은 높이 5m에 꽃 크기만 1m에 달합니다. 
+               큰부들의 잎은 주로 의자 시트, 돗자리, 바구니 등의 재료로 쓰입니다.
+         </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluebush:entry"  >블루부시</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluebush:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Bluebush/Bluebush_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               블루부시는 오스트레일리아 서부 밀 생산 지대가 원산지인 관목입니다.
+               크기는 다양하며 큰 것은 높이 1m, 폭 1.5m에 이르기도 합니다.
+               블루부시는 바닷물이 드나드는 늪, 소택지, 습지대에서 특히 잘 자랍니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       블루부시는 초식 동물에게 영양이 풍부하고 훌륭한 먹이가 됩니다.
+      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sedge:entry"  >사초</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sedge:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Sedge/Sedge_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               사초는 잔디와 유사한 꽃이 피는 식물을 통칭하는 이름이며 삼각형의 줄기가 특징입니다. 
+               사초는 널리 분포되어 있지만 토양을 단단하고 안정성있게 하는 것이 생태학적으로 중요한 온대 지방과 
+               북극권 지역의 습한 늪지에 특히 많이 
+자생하며 토양을 단단하고 안정성있게 하여 생태적으로 중요한 역할을 담당합니다. 사초과에는 115속, 3,600종의 식물이 있습니다.
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       사초과에 속하는 식물은 뿌리와 비슷한 땅 속의 가지인 근경을 가지고 있으며 여기에서 잎이 납니다. 잎의 아래 부분이 확장해서 생긴 잎싸개는 줄기 부분을 완전히 덮습니다. 보통 가지가 없고 잎이 자라지 않은 줄기 끝에는 눈에 띄지 않는 꽃이삭이 있습니다. 각각의 꽃은 하나의 포(변형된 잎)로 둘러싸여 있고, 화피(꽃덮개)는 없거나 있더라도 크기가 작거나 화려한 꽃잎이 아닌 비늘이나 뻣뻣한 털이 납니다.
+ 일반적으로 사초과는 삼각형의 줄기와 닫혀진 잎싸개를 가지고 있어 화본과(잔디가 포함됨)와 구별됩니다.
+	       
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       사초는 경제적으로도 꽤 중요한 식물입니다. 큰고랭이를 포함한 여러 속의 줄기와 잎은 깔개, 바구니, 모자는 물론 종이를 
+	       만들 때에도 사용됩니다. 고대 이집트인들은 종이 갈대를 사용하여 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_papyrus:entry">
+                     <u>
+                        <color r="255" g="231" b="135">파피루스</color></u></a>를 만들었습니다. 사초과에 속하는 한 식물은 건초나 포장용 재료로 쓰이는 것도 있습니다.
+	       황새풀은 베갯속으로 쓰입니다.
+      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_spinosa:entry"  >풍접초 덤불</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_spinosa:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/SpinosaBush/SpinosaBush_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               풍접초 덤불은 아프리카 북동부의 건조 및 반건조 지역에 자생하는 키작은 관목으로서, 특히 낙타와 같은 풀을 뜯어먹는 동물의 중요한 먹이입니다. 
+               튼튼하고 적응성이 뛰어나 케냐 북부의 생태학자들은 토양의 염분 문제를 해결하는 데 풍접초 덤불을 사용하여 실험을 하기도 했습니다.
+		</cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerbed:entry"  >화단</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerbed:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\foliage\RedFlowerbedSmall\RedFlowerbedSmall_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\foliage\WhiteFlowerbedSmall\WhiteFlowerbedSmall_Zoo_ icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\foliage\PurpleFlowerbedMedium\PurpleFlowerbedMedium_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\foliage\YellowFlowerbedMedium\YellowFlowerbedMedium_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\foliage\BlueFlowerbedLarge\BlueFlowerbedLarge_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\foliage\OrangeFlowerbedLarge\OrangeFlowerbedLarge_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>예쁘게 장식된 화단은 동물원의 시각적 환경을 향상시키며 동물원을 찾는 관람객에게 친근한 환경을 제공해 줍니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertgrass:entry"  >사막 잔디</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertgrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DesertGrass/DesertGrass_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">사막 잔디는 관상형 초목으로서 군데군데 덤불을 형성합니다. 또한 사막 잔디는 고온 건조한 사막 환경에서 잘 자라는 것이 특징입니다.	
+      </cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantgrass:entry"  >부들</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantgrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/ElephantGrass/ElephantGrass_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">부들은 키가 크고 거친 목초로서 아프리카 열대 지방과 아시아 남부가 원산지입니다. 주로 아프리카 사바나의 호수나 강바닥을 따라 축축한 토양에서 조밀한 덤불 형태로 자라는데, 키는 3m 정도 됩니다.
+                  <p/>부들잎의 끝 부분은 매우 날카로워 부들덤불을 헤치고 지나가기란 쉽지 않습니다. 그래서 새들이 부들덤불 속에 둥지를 많이 틉니다.
+               </cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toadstools:entry"  >독버섯</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toadstools:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Toadstools/Toadstools_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               그냥 버섯이라고도 부르는 독버섯은 정확하게는 주름이 있는 곰팡이류(또는 균류;fungi)에 속하며 일반적으로는 다육질이나 목질의 버섯을 가리키는 말입니다. 식용종은 버섯이라는 용어를 붙이고, 독성이 있거나 불쾌한 종을 독버섯이라 부르는 것은 과학적 근거가 전혀 없습니다.
+ 예를 들어, 두 종류의 독버섯을 비교할 때 그 관련성이 독버섯과 식용 버섯을 비교할 때보다 더 적을 수도 있습니다.
+ 
+               전세계에서 알려진 수천 종의 버섯 중에서 대다수는 거칠고, 다육질이며, 쓰고, 맛이 없습니다. 또한 드물게 음식으로 만들기엔 부적합한 것도 있습니다. 몇몇 종은 먹을 경우 죽거나 심각한 질병을 얻을 수 있습니다.
+               독버섯과 식용 버섯을 간단하게 구별할 수는 없지만 일반적으로 식용 가능한 버섯의 특징은 쉽게 알 수 있으므로 버섯을 채집할 때는 식용 가능한 것만 하는 것이 좋습니다.
+               아래 설명된 그물버섯, 말불버섯과 기타 여러 가지 버섯들은 일반적으로 위험한 종류는 아닙니다. 독버섯으로 의심되면 모두 버리는 것이 가장 안전한 방법입니다.
+               판매를 목적으로 기르는 버섯은 안전하게 먹을 수 있습니다. 
+		</cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reindeerlichen:entry"  >순록이끼</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reindeerlichen:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/ReindeerLichen/ReindeerLichen_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               순록이끼는 북극의 생태계에서 아주 중요한 위치를 차지하는 종으로 순록, 말코손바닥사슴 및 북아메리카 순록의 주요한 겨울 먹잇감입니다. 순록이끼는 형태가 다양하지만 
+               일반적으로 가지가 많고 꼿꼿한 관 모양의 엽상체를 가지고 있으며 잎겨드랑이에 작은 구멍이 뚫려 있습니다. 
+               매우 천천히 자라며 과도한 방목과 화재에 쉽게 파괴됩니다. 순록이끼는 온도와 습도가 가장 높은 봄과 가을에 가장 빨리 자랍니다. 
+               오염 물질과 방사능 물질을 쉽게 흡수하므로 식물은 물론 이를 먹는 동물에게도 해롭습니다.
+</cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterlily:entry"  >수련</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterlily:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/WaterLily/WaterLily_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               수련은 꽃피는 수생 식물 중 한 과를 통칭하는 말이며 이 과를 대표하는 속이기도 합니다. 수련과에는 70개의 종이 있습니다. 보통, 방패 모양의 잎을 가지고 있는 데, 잎자루가 잎의 가장자리가 아닌 중심에 붙어 있습니다. 잎은 물 위에 떠 있어서 
+               물 높이가 높아지더라도 줄기가 자라면서 위치를 잡습니다. 일반적으로 수련은 깊고 영양분이 풍부하고 산소가 부족한 토양으로 덮인 잔잔한 물에서 자랍니다. 뿌리의 성장에 필요한 산소는 잎꼭지와 연결된 공기 통로를 통해 공급됩니다. 
+               수련은 보통 연못 장식용으로 키우며 다양한 변종이 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       물 위로 올라온 잎을 가진 식물 속은 연꽃이라고도 부릅니다. 수련과 연꽃 모두 고대 이집트인의 예술품에 나타나 있습니다. 수련과에는 아마존에 서식하는 아마존 수련도 포함됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       전 세계에 분포하지만 민물에서만 서식하는 식물목에 수련과를 포함하여 다른 서너 개 과의 식물이 있습니다. 이 목의 식물은 물에서 자란다는 점과 함께 나무가 아닌 풀의 특성을 지니며 꽃이 한 송이만 핀다는 특징이 있습니다. 꽃잎이 많고 갈래꽃이며 원시꽃식물의 특징을 대부분 지니고 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       연꽃-수련과에는 2가지 종을 가진 한 속이 있는데, 그 두 종은 불교에서는 신성한 대상으로 여기는 연꽃과 아메리카 연꽃입니다. 이 연꽃의 씨와 뿌리는 식용으로 사용할 수 있습니다. 연꽃 잎은 긴 줄기에 달려 물 위로 나와있습니다. 붕어마름과에 속하는 두 종은 가정용 수족관에서 흔히 볼 수 있으며, 완전히 물 속에 잠겨서 자라고, 물 속에서 꽃을 피우고 열매를 맺습니다. 또한 뿌리가 없으며 각각의 잎은 가늘게 갈라져있으며 각 마디에서 돌려서 나기 때문에 식물이 너구리 꼬리처럼 보입니다. 어항마름과는 2속 8종으로 이루어져 있으며 일부는 수족관 식물로 사용됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       제공: 마샬 R. 크로스비(Marshall R. Crosby)
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junegrass:entry"  >토아풀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junegrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/juneGrass/JuneGrass_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               '블루그래스'라고 부르기도 하는 토아풀은 북아메리카와 유럽에서 찾아볼 수 있는 푸른 빛의 풀로 
+               가축 먹이나 잔디로 사용됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       초식 동물의 주된 먹이가 되는 목초가 많은 곳에서는 방목이 이루어지며 
+	       가축에게 먹이기 위해 목초를 베어서 저장하기도 합니다. 전 세계의 목초지를 합하면 
+	       다른 모든 종류의 작물 재배지를 합친 것보다 더 넓습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dandelions:entry"  >민들레</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dandelions:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Dandelions/Dandelions_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               민들레는 줄기가 없는 국화과의 여러해살이풀의 대표적인 식물입니다.
+               민들레종은 길고 곧은 뿌리가 땅에 박혀 있고,
+               방사형으로 뻗어 나온 잎은 끝이 뾰족하며 가장자리는 깊은 톱니모양입니다. 밝은 노란색의 평평하고 작은 꽃들로 이루어진 두상화는 가운데가 비어 있는 꽃자루에 달려 있습니다. 
+               민들레 뿌리에는 설사약을 만드는 성분이 들어 있으며 뿌리를 볶은 다음 갈아서 커피 대용품이나 커피에 혼합하여 사용되기도 합니다. 민들레 잎을 샐러드나 향신용 채소로 이용되기도 하며 
+               꽃은 와인을 만드는 데 사용되기도 합니다. 유럽을 비롯한 일부 지역에서 재배되기도 하지만
+               대부분의 온대 지방에서는 가장 골치 아픈 잡초입니다. 빨간 씨 민들레는 일반 민들레와 비슷하지만 크기가 약간 작고 적갈색 씨와 검은 관모(깃털)가 있습니다. 러시아 민들레는 고무 유액의 주요 공급원입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_arcticmoss:entry"  >북극 이끼류</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_arcticmoss:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/ArcticMoss/ArcticMoss_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               북극 이끼는 관목, 목초, 풀 등 다른 지표식물들과 함께 
+               북극의 평원과 해안의 툰드라 지대를 형성합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       이끼는 선태류에 속하는 식물을 통칭하는 이름으로 전 세계에 폭넓게 분포하고 있습니다. 
+	       이끼는 토양, 바위, 나무껍질에서 자라며 습지와 얕은 하천에서도 발견됩니다. 
+	       이끼에는 작고 가느다란 줄기와 잎이 있으며 관다발 조직은 없습니다. 또한 제대로 된 뿌리가 없어서 헛뿌리를 통해 지지와 토양의 물질을 이용합니다. 잎이 달린 배우체는 장정기와 장란기라는 생식 기관을 만들고 이 안에 각각 정자와 난세포가 있습니다.  
+	       이끼는 젖은 상태에서만 수정이 가능하며 수정이 끝난 다음에는 난세포가 포자체로 성장합니다. 
+	       포자체는 배우체 조직내에 박혀있는 기부에서 길다란 머리카락 같은 자루를 형성하고 끝부분이 부풀어올라 포자낭을 만듭니다. 대부분의 종에서 작은 톱니모양의 뚜껑으로 덮여있는 포자낭 안에는 수많은 포자가 들어 있습니다. 연치에 의해 포자낭이 터지면 포자는 주위로 퍼져나갑니다. 적당한 환경이 조성되면 포자가 발아해서 가는 실모양의 원사체를 형성합니다. 이때 원사체에서 만들어진 작은 눈들이 배우체 식물로 자라납니다. 이끼는 헛뿌리에 의해 형성되는 
+	       구아(소인경)라는 무성 생식 기관이나 잎과 줄기에서 나오는 무성아, 
+	       상처 입은 잎이나 헛뿌리에서 만들어지는 보조 원사체를 통해서도 배우체를 형성합니다. 
+	       선태식물문은 일반적으로 우산이끼, 붕어마름, 이끼의 3가지 강으로 나뉩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       이끼문(선태식물문)에 속하지 않지만 이끼와 비슷한 많은 식물 역시 이끼라고 통칭하는데 
+	       여기에는 붉은 조류인 뿔가사리(카라기닌)도 포함됩니다. 아이슬란드 이끼는 지의 식물의 한 종류이며
+	       야생 돌나물로 알려진 꽃식물의 이름이기도 합니다. 바위 이끼는 바위에서 자라는 몇 종류의 지의 식물을
+	       통칭하는 이름입니다. 석송으로 알려진 식물은 양치류에 속합니다. 
+	       스페인 이끼는 나무에서 자라는 착생 꽃식물로 미국 남부 지방과 
+	       인도 서부에서 자생합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whitelillies:entry"  >흰 백합</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whitelillies:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/WhiteLillies/WhiteLillies_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">흰 백합은 여러해살이 식물로 층이 있는 비늘줄기, 칼날 모양의 잎, 커다란 하나의 나팔 모양의 꽃이 특징입니다. 이 꽃에는 반점이 있는 꽃잎과 밖으로 
+               드러난 수술이 있습니다. 17세기까지 약초로 사용되던 흰 백합은 전갈이나 
+               뱀의 독을 치료하는 용도에서부터 근육통, 불임 치료까지 다양한 용도로 쓰였습니다.
+		</cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_larkspur:entry"  >참제비고깔</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_larkspur:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Larkspur/Larkspur_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  참제비고깔은 미나리아재비과에 속하는 꽃식물의 한 속을 통칭하는 명칭입니다.
+이 속에는 40여종의 식물이 있으며 북반구 온대 지방이 원산지입니다.
+ 
+               꽃 색깔은 보라색이나 옅은 분홍색이며 일부 종의 경우는 흰색도 있습니다. 
+               꽃은 느슨한 송이 형태로 성장하며 잎은 깃털 모양입니다. 참제비고깔은 
+               델피니움이라는 식물과 혼동되기도 하지만 두 식물은 서로 다른 속에 
+               속합니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_africandaisy:entry"  >아프리카 데이지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_africandaisy:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/AfricanDaisy/AfricanDaisy_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">국화과 식물로 아프리카 남부가 원산지인 한해살이풀입니다. 미국에서 아프리카 데이지는 토양 상태가 좋고 일조량이 풍부한 미국에서 정원용 화초로 재배됩니다. 꽃은 봄부터 가을까지 피며 가장 흔한 종은 푸른 눈의 아프리카 데이지로 알려진 식물입니다. 보통 높이는 60cm가 넘으며 꽃은 직경 7cm에 주변은 흰색의 설상화로 가운데는 푸른색의 관상화로 이루어져있습니다. 꽃잎은 밤마다 닫혔다가 다음날 아침에 다시 열립니다. 주황색 꽃이 피는 분재용도 있습니다.
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+            	내용 출처 
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_africanviolet:entry"  >아프리카 제비꽃</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_africanviolet:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/AfricanViolets/AfricanViolets_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" width="128" height="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               아프리카 제비꽃은 주로 실내 화분용 화초로 재배되는 꽃식물입니다.
+               아프리카 제비꽃은 실제로는 제비꽃과 관계가 없으며 글록시니아가 속한 과의 한 속에 속하지만 꽃잎이 
+               제비꽃과 비슷한 모양과 색을 띄고 있습니다. 아프리카 제비꽃과 같은 속에 속하는 20종의 식물은
+               크기가 작고 솜털이 많은 다년생 풀이며, 아래쪽에는 긴 잎자루를 가진 다육질의 잎이 빽빽하게 나 있습니다.
+               제비꽃과 비슷한 모양의 꽃은 잎 사이에서 올라온 가지가 있는 줄기에서 맺힙니다. 
+                원산지는 아프리카 동부의 탄자니아 산맥과 케냐이며 대부분 재배됩니다.
+               꽃이 두 겹으로 달리거나 색이 다양한 재배종은 모두 아프리카 제비꽃을
+               개량해서 만든 품종입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglelillies:entry"  >정글 백합</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglelillies:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/JungleLillies/JungleLillies_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" width="128" height="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               동양 백합이라고도 하는 정글 백합은 커다란 별 모양의 꽃잎과
+               강한 향이 특징으로 현재 전 세계 원예 산업 시장에서
+               가장 사랑받는 꽃으로 손꼽힙니다. 정글 백합은 색이 아름답고 향이 좋아서
+               결혼식에 특히 많이 사용됩니다.
+		</cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lilyofvalley:entry"  >은방울꽃</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lilyofvalley:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/LilyOfTheValley/LilyOfTheValley_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               은방울꽃은 다년생풀에 속하는 한 속을 통칭하는 명칭입니다. 
+               재배종은 온대 유라시아 지방이 원산지이며 북아메리카에서 건너온 것으로 알려져 있습니다. 
+               다른 식물들과 달리 그늘에서도 잘 자라는 은방울꽃은 햇빛이 잘 들지 않는 정원에서 모든 다른 식물들을 제거할 만큼 빽빽하게 자랍니다. 나란히맥인 잎은 혓바닥 모양이며 지면에서 자라납니다.
+               열매는 붉은색의 장과가 열립니다. 꽃은 일반적으로 작고 하얀 종 모양으로 종종 다른 색깔을 띠기도 하며 30cm 정도 솟아 있는 하나의 줄기에 달립니다. 
+               꽃은 향이 좋아서 향수 제조에 쓰입니다.
+               재배종의 경우에는 근경이라는 땅속 뿌리 조직의 끝눈을 통해 번식합니다.
+               일단 정착한 개체군은 잘 죽지 않아서 개체 수가 줄어들지 않습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fringedpolygala:entry"  >톱니 애기풀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fringedpolygala:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/FringedPolygala/FringedPolygala_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               게이윙 또는 꽃 피는 노루발풀이라고도 하는 톱니 애기풀은
+               난초와 모양이 비슷하지만 실제로는  애기풀이 속한 원지과에 해당합니다. 애기풀은 열대 수목 및
+               덩굴 식물로 이루어진 과와 그 속을 통칭하는 이름입니다.
+               톱니 애기풀은 습기가 많은 숲에서 잘 자랍니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+           	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_proteawildflowers:entry"  >야생 프로테아</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_proteawildflowers:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/ProteaWildflowers/ProteaWildflowers_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+         프로테아는 꽃이 많이 피는 상록수 관목입니다. 원산지는 아프리카 남부이며 
+               포의 색깔이 화려하고 조밀한 꽃송이를 가지고 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_baobab:entry"  >바오밥나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_baobab:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Baobob/Baobob_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               바오밥나무는 아프리카의 대형 수종으로 주로 반건조 지역에 자생하며 많은 아프리카인들에게 
+               중요한 의미를 지니는 나무입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       크기는 보통 15m 내외로 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_maple:entry">
+                     <u>
+                        <color r="255" g="231" b="135">단풍나무 </color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       높이 정도지만 밑동 부분은
+	       직경이 9m에 달해 세계에서 가장 큰 수종에 속합니다.
+	       바오밥나무보다 직경이 큰 나무는 미국 서부산 삼나무와 유칼리나무뿐입니다. 
+	       일반적인 큰 나무의 밑동만큼 두꺼운 가지는 
+	       직경이 45m 정도 되는 둥그런 무성한 잎을 형성합니다. 큰 밑동 직경과 나무 아래쪽 잎의 넓은 부분 때문에 물을 저장하는 능력이 좋습니다.
+	       건기에는 증산 작용에 의한 수분 손실을 차단하기 위해 
+	       잎이 떨어집니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       바오밥나무는 많은 동물의 쉼터와 먹이가 됩니다. 원숭이 빵이라고 불리는 바오밥 열매는
+	       크기가 자몽만하며 식용으로도 사용하고 나무의 섬유질에서 시원한 음료수를 추출하기도 합니다. 
+	       섬유질인 나무 껍질로는 단단한 밧줄을 만들 수 있습니다. 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       아프리카 서부 사바나 지역의 수단인, 세레르인, 울로프인, 만딩카인은 바오밥나무를 신성한 존재로 여깁니다. 
+	       이들의 역사 구송자이자 이야기꾼이며 찬송 시인인 그리오(griot)는 전통적으로 바오밥나무 밑동에 매장되었습니다. 
+	       그리오는 너무나 신성하여 아무 땅에나 묻을 수 없다고 믿었기 때문입니다. 세네갈의 졸라족은 바오밥나무에 
+	       영혼이 살고 있다고 믿으며 숭배의 대상으로 여깁니다. 또한 비가 오기 전에 잎이 돋아나는 바오밥나무를 
+	       비 소식을 전하는 전령으로 여깁니다. 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_umbrellaacacia:entry"  >우산아까시나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_umbrellaacacia:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/UmbrellaAcacia/UmbrellaAcacia_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               아프리카 사바나 지역에서 가장 많이 볼 수 있는 나무입니다.
+               우산아까시나무는 콩과의 한 속으로 중요한 위치를 차지하고 있습니다. 이 속에 속하는 1,200종 중 대부분은
+               아프리카와 오스트레일리아 열대 지방 토착 식물입니다. 보통 잎은 날개가 두 개 겹쳐진 모양(깃꼴겹잎)을 하고 있지만
+               변종도 많이 발견되는데, 특히 기온이 높고 가뭄이 심한 오스트레일리아에 서식하는 종에서 변형된 잎이 많이 발견됩니다.
+               오스트레일리아 종에는 잎의 역할을 대신하는 기관인 수직 가엽이 있습니다. 우산아까시나무와 같은 속에 속하는 식물은
+               경제적으로 다양하게 활용할 수 있는데, 씨는 식용이며 질좋은 목재와 껌을 얻을 수 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_acaciacaffra:entry"  >아카시아 카프라</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_acaciacaffra:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/AcaciaCaffra/AcaciaCaffra_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               '고양이 가시'라고도 하며, 아까시나무의 한 종류이고 콩과의 한 속으로
+               중요한 위치를 차지하고 있습니다. 이 속에 속하는 1,200종 중 대부분은 아프리카와 오스트레일리아 열대 지방 토착 식물입니다.
+               보통 잎은 날개가 두 개 겹쳐진 모양(깃꼴겹잎)을 하고 있지만 변종도 많이 발견되는데, 
+               특히 기온이 높고 가뭄이 심한 오스트레일리아에 서식하는 종에서 변형된 잎이 많이 발견됩니다.
+               오스트레일리아 종에는 잎의 역할을 대신하는 기관인 수직 가엽이 있습니다. 아카시아 카프라와 같은 속에 속하는 식물은
+               경제적으로 다양하게 활용할 수 있는데, 씨는 식용이며 목재와 껌을 얻을 수 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_orchid:entry"  >자줏빛소심화나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_orchid:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Orchid/Orchid_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               자줏빛소심화나무는 콩과에 속하는 열대 수목, 관목, 덩굴 식물 250종을 통칭하는 말입니다. 자줏빛소심화나무는 옅은 분홍색에서 
+               자주색까지 다양한 색깔의 크고 화려한 꽃이 피며 개화 시기는 늦겨울입니다. 자줏빛소심화나무의 한 종류인 세인트 토마스 나무는 5m까지 
+               자라는 관목으로 온대 기후에서 관상용으로 재배됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantear:entry"  >코끼리귀나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantear:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/ElephantEar/ElephantEar_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   아룸속(천남성과)에 속하는 8종의 대형 풀을 대표하는 식물로
+               남아메리카가 원산지입니다. 일부 종의 잎은 길이가 1m나 되기 때문에
+               코끼리귀나무라는 이름이 붙게 되었습니다. 가장자리와 잎맥이 보라색인 방패 모양 잎이 있는 컬카스를 비롯한 몇몇 종은
+               미국에서 실내와 정원에 심는 식물로 재배되기도 합니다. 
+               태평양 섬에서 자라는 타로의 커다란 덩이줄기는 식용으로 사용할 수 있습니다. 다른 아룸속 식물과 마찬가지로
+               코끼리귀나무도 옥살산칼슘을 함유하고 있기 때문에 작열감을 일으키며
+               잎을 먹으면 입과 목이 부어 오를 수도 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kily:entry"  >킬리나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kily:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Kily/Kily_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               타마린드라고도 하는 킬리 나무는 콩과에 속하는 열대 상록수의 통칭으로
+               아프리카 열대 지방 및 아시아 남부가 원산지이며 비옥한 토양에서 잘 자랍니다.
+               큰 수종에 속하는 킬리 나무는 24m까지 자라기도 합니다.
+              도끼로 찍으면 불꽃이 튈 정도로 목질이 단단해서  
+               장식장의 재료로 사용됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       호랑이꼬리여우원숭이는 킬리 나무의 열매, 씨앗, 꼬투리를 좋아합니다.
+	       맛이 시큼한 열매가 열리는 킬리 나무는 열대 지방에 폭넓게 재배되는데 관상용으로 사용되기도 합니다.
+	       긴 꽃대 끝에 느슨하게 달리는 옅은 노란색 꽃에는
+	       4부분으로 나뉜 꽃받침, 5개의 꽃잎, 3개의 수술, 1개의 암술이 달려 있습니다.
+	       끝으로 갈수록 가늘어지는 모양의 열매는 여물어도 열리지 않으며 씨가 많이 들어 있습니다.
+	       설탕, 물과 혼합한 타마린드 주스는 라틴 아메리카에서 인기 있는 음료수입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananatree:entry"  >바나나 나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bananatree:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BananaTree/BananaTree_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               일반적으로 알려진 것과는 달리 나무가 아니라 열대 지방에 자생하는 나무처럼 생긴 
+               풀입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       바나나는 나무처럼 생긴 열대 지방 식물의 이름이면서 동시에 열매의 이름이기도 합니다. 
+	       바나나속에 속하는 종의 식물은 동남아시아가 원산지이지만, 현재는 전 세계 열대 지방에서 열매와 섬유, 
+	       잎을 얻기 위해 폭넓게 재배하고 있습니다. 바나나는 여러해살이 뿌리줄기를 가진 커다란 풀이며, 이 뿌리줄기가 발아 작용과 흡수 작용을 합니다. 열대 지방에서 식물의 줄기는 열매를 맺고 나면 죽는 일년생이며, 줄기가 죽고 
+	       나면 새로운 줄기가 뿌리 줄기의 싹에서 자라납니다. 이 싹을 통해 번식을 시키고 새로운 재배지를 만들며 
+	       성장 속도가 매우 빨라서 심은 지 10개월 이내에 열매가 익습니다. 완전히 자란 줄기는 3m에서 12m 
+	       사이이며 꼭대기에는 단단하고 두꺼운 잎자루, 주맥과 함께 3m 길이의 타원형 잎이 왕관 모양으로 달립니다. 
+	       왕관 모양의 잎 가운데 있는 커다란 수상화서에서 맺히는 꽃은 소용돌이 모양의 송이 형태입니다. 암꽃은 꽃줄기 밑부분에 맺히며 
+	       위에는 수꽃이 달립니다. 열매의 길이는 10cm에서 30cm까지 다양하며 열매 한 송이의 평균 무게는 
+	       11kg 정도지만 18kg이 넘는 송이도 있습니다. 열매를 한 번 맺은 줄기는 죽어서 쓰러지며 눈에서 
+	       새로운 줄기가 자라나는 데 그 중 2개 내지 3개에서 열매가 맺힙니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       요리용 바나나(plantain)의 열매는 더 크고 굵지만 일반적으로 그냥 먹는 종에 비해 당도가 떨어집니다. 
+	       바나나 나무 중 먹을 수 있는 부분에는 평균적으로 물 75%, 탄수화물 21%,
+	       지방, 단백질, 섬유질, 석회질이 각각 1%씩 함유되어 있습니다. 
+	       나머지 부분도 섬유질이 풍부해서 종이나 밧줄의 원료로 사용됩니다. 바나나 나무 중에는 마닐라삼의 원료가 되는 종도 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       전 세계 바나나 생산량의 절반은 아프리카에서 생산되며 대부분 현지에서 소비됩니다. 
+	       바나나를 가장 많이 수출하는 곳은 중앙 아메리카와 남아메리카 북부 지역입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kapok:entry"  >케이폭나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kapok:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Kapok/Kapok_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               케이폭나무는 높이가 40m가 넘는 큰 나무의 일반적 학명인 케이폭 속에 속합니다.
+               케이폭나무의 잎은 손바닥 모양이며 종처럼 생긴 커다란 꽃이 핍니다.
+               두꺼운 목질의 씨방에는 목화 같은 솜털이 들어 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       '실크 목화 나무'라고도 하는 케이폭나무는 케이폭이라는 섬유를 얻기 위해 열대 지방에서 폭넓게 재배됩니다.
+	       케이폭 섬유는 짧고 탄성이 강한 데다 부서지기 쉬워서 
+	       목화처럼 실로 만들 수는 없지만, 다양한 장식용 재료나 솜을 만드는 데 쓰입니다. 
+	       케이폭 섬유는 가볍고 방수성이 있어서 구명 기구의 재료로 많이 쓰이며 
+	       속이 빈 곳을 채우는 용도 또는 절연 물질로 사용됩니다. 케이폭 섬유의 주 생산지는 자바 섬입니다.
+	       케이폭나무의 씨에서 나오는 케이폭 기름은 비누의 원료로 쓰입니다. '벤탕'이라는 아프리카 케이폭나무는
+	       부드러운 해면질이며 카누를 만드는 데 쓰입니다. 인도네시아의 셀레베스 섬에서는 완두콩 크기의 
+	       둥근 케이폭나무 씨를 식용으로도 사용합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redcedar:entry"  >연필향나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redcedar:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/RedCedar/RedCedar_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               북아메리카에 서식하는 2가지 측백나무종 중 하나로 로키 산맥 서쪽에서
+               캘리포니아 북부와 알래스카 지방까지 폭넓게 분포합니다. 큰 측백나무 또는 카누 삼나무로 불리기도 하는 연필향나무는 
+               환경이 좋을 경우 높이가 60m, 밑동 직경이 4.5m가 넘게 자라는 경우도 
+               있습니다.
+	       라틴어로 '생명의 나무'라는 뜻을 지닌 'Arborbitae'란 이름은 측백나무과의 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_cypress:entry">
+                     <u>
+                        <color r="255" g="231" b="135">상록수</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+        를 통칭하는 이름으로, 진통효과가 있는 송진이 의약품으로 쓰이면서 17세기 초반에 지금과 같은 이름이 붙게 되었습니다. 
+	       송진에서 추출한 물질은 혈압을 높이고 열을 낮춰 주는 효과가 있습니다. 잎에는 발삼향이 있으며, 
+	       목재는 밝은 빨간색이고 가벼우며 내구성이 강합니다. 크게 자라는 종은 
+	       목재로 사용되며, 작은 종은 약한 정원 식물을 보호하기 위한 바람막이로
+	       재배합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foxtailpalm:entry"  >뚝새풀 야자나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foxtailpalm:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/FoxtailPalm/FoxtailPalm_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               동남아시아가 원산지이며 모양이 이국적인 뚝새풀 야자는
+               열대 및 아열대 기후에서 가장 잘 자랍니다. 뚝새풀 야자는 지난 수십 년 동안 오스트레일리아에서 멸종 위기에 처했으나
+               최근에는 다시 회복되고 있는 추세입니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       병 닦는 솔이나 여우 꼬리처럼 생긴 녹색의 휘어진 잎으로 유명합니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treefern:entry"  >나무고사리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treefern:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/TreeFern/TreeFern_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               나무처럼 생긴 커다란 고사리로 세계 전역의 따뜻한 지역에서 찾아볼 수 있습니다.
+               괴근이라는 뿌리줄기는 나무와 비슷하며, 길고 가는 종도 있고
+               두꺼운 종도 있습니다. 줄기 꼭대기에는 크고 아름다우며 가늘게 갈라진 잎이 방사상으로 나있으며 길이가 3m 이상인 잎도 있습니다. 
+               대부분의 나무고사리는 4.6m에서 9m 정도의 높이지만
+               사이아데아속에 속하는 종들은 15m가 넘습니다.
+               나무고사리는 열대 식물처럼 외관이 화려하며 일부 종은 온실에서 재배됩니다. 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birch:entry"  >자작나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birch:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Birch/Birch_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               여러 개의 작은 암꽃과 수꽃 송이가 따로 열리는 자작나무과 수목을 통칭하는 이름입니다. 
+               자작나무과 수목은 북반구 온대 지방과 
+               북극 지방에 폭 넓게 자생하며 남반구에서는 남아메리카에서만 찾아볼 수 있습니다. 
+               자작나무과에는 6속, 150종의 수목이 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       자작나무과를 대표하는 자작나무는 나뭇결이 곱고 아름다워서 
+	       가구, 바닥재, 합판 등의 재료로 쓰입니다. 과거에는 자작나무 수액으로 만든 맥주가 유행하기도 했습니다. 
+	       아메리카 원주민은 북미산 자작나무 껍질로 카누를 만들었습니다. 노루발풀 향유 역시
+	       자작나무 껍질에서 추출하기도 했지만 지금은 합성해서 생산합니다. 유럽 흰자작나무 등 몇몇 종은 
+	       개량종이 많으며 관상용으로 쓰이기도 합니다. 
+	       예로부터 식용으로 쓰인 헤이즐넛 열매가 열리는 개암나무도 자작나무과에 속합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       오리나무, 서나무, 흑단 등도 자작나무과에 속하는 수목이지만 이들 대부분은 관목이거나 
+	       목재로 성장하지 못하고 단명하는 나무입니다. 북서 태평양에서 자생하는 붉은 오리나무는 
+	       예외적인 경우로 저렴한 가구의 재료로 사용됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       자작나무과 수목은 일반적으로 바람을 이용해서 수분이 이루어지도록 적응되어있습니다.  자작나무는 암수한그루로서 암꽃과 수꽃이 따로 피며 가을에 생기기 시작하여 초봄에 개화합니다. 꽃받침과 꽃잎은 매우 작거나 아예 없어서 꽃가루가 맺히는 수술과 꽃가루를 받아들이는 암술이 바람에 노출되어 있습니다.
+ 봄이 되면 수꽃에서는 많은 양의 바람에 잘 날리는 작은 꽃가루를 주위로 퍼뜨립니다. 이때 암꽃은 충분히 성장하지 않은 상태로, 꽃가루를 받아들이는 암술머리와 암술대는 형성되어 있지만 수정되어 씨앗으로 성장할 밑씨가 형성되지 않은 상태입니다. 꽃가루는 암술대에 몇 주 동안 붙어 있다가 밑씨가 성숙하면 수정 및 씨앗 생성 과정으로 들어갑니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maple:entry"  >단풍나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maple:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Maple/Maple_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               북반구 온대 지방에 폭넓게 자생하는 단풍나무과의 대표적인 수목입니다.
+               단풍나무과에는 2속, 113종의 수목이 속해 있으며 
+               단풍나무속이 그 중의 대표적인 한 속입니다. 이 과에 속하는 식물의 잎은 마주 나고, 작은 방사형의 꽃이 몇 개씩 송이를 이루고 있는 것이 특징입니다.
+ 일부 종은 꽃잎이 없는 경우도 있습니다. 암꽃의 씨방에는 두 개의 심피가 들러붙어 있으며, 이 심피가 성장하여 두 개의 날개가 달린 열매가 됩니다. 단풍나무는 가을이면 아름다운 색으로 물드는 단풍 때문에 가로수나 관상용으로 널리 쓰입니다. 가장 흔하게 볼 수 있는 종은 캐나다 국기에서 볼 수 있는 특유의 단풍잎 모양을 가진 중간 크기 이상으로 자라는 낙엽수입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       일반적으로 많이 심는 종은 붉은 단풍, 사탕 단풍, 검은 단풍, 노르웨이 단풍이며
+	       이들은 모두 북아메리카와 유럽이 원산지입니다. 대부분의 아시아 단풍나무는 서양종과 상당히 다릅니다. 
+	       일부는 작은 나무나 관목이며, 어떤 종은 낙엽이 떨어지지않는 상록수이며, 어떤 종은 손바닥 모양의 잎이 아니라 가장자리가 밋밋한 잎을 가지고 있습니다. 
+	       거의 미국 전역에서 자생하는 네군도단풍나무는 3-5개의 소엽이 붙어있는 겹잎을 가지고 있습니다. 
+	       단풍나무는 중요한 관상용 수목일 뿐만 아니라 좋은 목재이기도 한데, 특히 큰단풍나무의 목질이 뛰어납니다.
+	       또한 사탕단풍나무에서는 그 수액을 받아 설탕을 얻을 수 있습니다. 단풍나무과의 다른 한 속(돈단풍속)은 2 종이 있으며 중국에서 자생합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       제공: 마샬 R. 크로스비(Marshall R. Crosby)
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountainbamboo:entry"  >분수 대나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountainbamboo:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/FountainBamboo/FountainBamboo_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+		대나무는 화본과에 속하는 다년생 식물로 초본이지만 관목이나 나무처럼 자라며 약 45속 480종의 식물을 통칭하는 이름입니다. 
+		 대나무는 열대 지방과 아열대 지방에서 가장 많이 발견되며
+		 해수면에서 산 정상까지 다양한 환경에서 서식하는데
+		 몇몇 종은 온대 지방에서도 자생합니다. 대나무는 동남아시아에 가장 풍부하며 
+		 아메리카와 아프리카에 서식하는 종도 있지만 오스트레일리아에는 없습니다. 크기는 1m에서 50m까지 다양하며
+		 밑동 직경이 30cm에 이르는 거대한 것도 있습니다.
+		 대부분의 대나무는 수직 방향으로 똑바로 자라지만
+		 통과할 수 없을 정도로 뭉친 덩굴 형태도 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterbamboo:entry"  >물대나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterbamboo:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/WaterBamboo/WaterBamboo_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               물대나무는 수중 식물이며 대나무는 아니지만 대나무와 아주 비슷한 나무 형태의 식물입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       중국에서는 물대나무를 실내에서 많이 키우는데, 
+	       특히 풍수지리학자가 아주 좋아합니다.
+      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </cell>
+            </cell>
+            <p/>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_himalayanbirch:entry"  >히말라야 자작나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_himalayanbirch:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/HimalayanBirch/HimalayanBirch_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               쉽게 벗겨지는 하얀색 껍질을 지닌 히말라야 자작나무는
+               Zoo Tycoon 2에 등장하는 나무들 중 가장 희귀하고 아름다운 나무입니다. 히말라야 자작나무는
+               중국과 히말라야 서부가 원산지이며 10m에서 20m 정도까지
+               자랍니다.
+		</cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_blackspruce:entry"  >검은가문비나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_blackspruce:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BlackSpruce/BlackSpruce_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               검은가문비나무는 가문비나무과에 속하는 40종의 침엽수 가운데 하나로 
+               가문비나무과의 식물은 북반구에 자생하는데 그 중 절반은 북아메리카가 원산지입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       소나무과에 속하는 가문비나무속은 한때는 전나무속으로 분류하였으나, 아래를 향한 솔방울, 지지 않는 목질의 잎기부, 사각형으로 각이 진 잎이 사방을 향해 나있다는 점에서 전나무속과 다른 특징을 가지고 있습니다. 
+	        가문비나무는 다른 나무들보다 북쪽에서 자생하면서 북극권에 숲을 이루지만 유럽의 피레네, 아시아의 히말라야 등 산맥을 따라 남쪽으로 내려오기도 하며, 미국에서는 노스캐롤라이나주와 애리조나주에 서식하고 있습니다. 
+	       흰가문비나무와 검은가문비나무는 캐나다 전역에 넓게 자생하는데 거의 다른 수종을 찾아보기 힘들 정도입니다. 
+	       유럽에서는 이와 비슷한 정도로 노르웨이 가문비나무가 많은데 가문비나무 목재는 건축용 재료와 연료로 쓰이며 노르웨이와 스웨덴에서 수출되는 가문비나무 목재는 돛대 등의 선박 용구 건조에 쓰입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       북아메리카에는 흰가문비나무와 검은가문비나무가 압도적으로 많으며 
+	       두 종의 목재는 구별하기 어려울 정도로 비슷합니다. 흰가문비나무는 
+	       미국 뉴욕주에서 캐나다 브리티시 콜럼비아주 지역에 걸쳐 자생하고 있으며, 북으로는 뉴펀들랜드, 래브라도 반도, 허드슨 만, 알래스카까지 퍼져 있습니다. 
+	       흰가문비나무 목재는 가볍고, 부드럽고, 조밀하고, 향이 없으며, 거의 구별하기 힘든 백목질(나무껍질과 속 사이를 칭하는 부분)을 가지고 있습니다. 이 목재는 일반적으로 건축자재로 쓰이고 스프루스 껌의 원료가 되기도 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       검은가문비나무는 흰가문비나무와 자생 지역이 비슷하지만 버지니아 산맥까지 퍼져 있다는 차이가 있으며
+	       크기가 약간 작은 것을 제외하고는 흰가문비나무와 비슷합니다. 
+	       검은가문비나무는 메인주, 뉴욕주, 캐나다 등지에서 숲을 이루고 있으며 펄프와 제지용 목재로 널리 사용됩니다. 
+	       목재로 쓰이는 붉은가문비나무는 주로 뉴잉글랜드 지방에서만 자생하지만 
+	       애팔래치아 산맥을 따라 조지아주에서까지 발견되기도 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+           	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_balsamfir:entry"  >발삼전나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_balsamfir:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BalsamFir/BalsamFir_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               발삼전나무는 북아메리카에서 자생하고 있는 10종의 전나무 수종 중 하나로 주로 로키 산맥 서쪽 지방에서 자생합니다. 시에라네바다 산맥과 캐스케이드 산맥 부근에서 가장 잘 자라는 발삼전나무는 
+               버지니아주에서 뉴펀들랜드 섬, 캐나다 유콘주에서 래브라도 반도까지 폭넓게 서식하고 있습니다. 
+               키는 12m에서 18m이고 잎은 향이 강하며 수지를 함유하고 있습니다. 
+               발삼전나무는 전나무종 중 가장 널리 알려진 수목으로 펄프 원료로 쓰이며 캐나다 발삼이라는 올레오레진(함유수지)을 함유하고 있습니다. 
+               캘리포니아주, 워싱턴주, 오리건주에서 발견되는 미국 서부산 전나무는 
+               30m에서 60m 정도 자라며 밑동 직경은 최대 2.4m에 이릅니다. 
+               고산 전나무는 미국 서부산 전나무보다 작아서 보통 24m에서 30m까지 자라며 뉴멕시코주에서 알래스카에 걸쳐 있는 로키 산맥에서 발견됩니다. 
+               저지대 전나무는 몬태나주에서 태평양 연안에 걸친 지역에서 자생하며 
+               91m까지 자라기도 합니다. 전나무는 목질이 부드러운 것이 소나무와 상당히 비슷하지만 
+               송진 도관이 없다는 차이점이 있습니다.
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       전나무는 전나무속 식물을 대표하는 이름이며 이 계통의 식물은 대부분 밑동이 곧게 뻗어 있으며 피라미드 모양으로 자랍니다. 
+	       가지는 줄기에서 돌려나며 위로 향해 나있는 솔방울은 얇고 빽빽한 비늘조각으로 이루어져있으며, 각각의 비늘조각에는 날개가 달린 두 개의 씨앗이 있습니다. 
+	       평평한 모양의 잎은 드문드문 나 있어서 하얀 주맥이 드러나 보입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tamarack:entry"  >아메리카낙엽송</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tamarack:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Tamarack/Tamarack_Borealforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               아메리카낙엽송은 뉴펀들랜드와 래브라도 반도에서 알래스카에 이르는 지역에 자생합니다. 
+               아메리카낙엽송은 목질이 단단하고 내구성이 좋아서 건설 자재, 기둥, 철도 받침목으로 쓰입니다. 
+               서양 낙엽송은 미국 북서부와 캐나다 남동부에서 발견되는데 나뭇결이 곱고 
+               내구성이 강해서 바닥재로 쓰입니다. 아고산대 낙엽송은 서양 낙엽송과 서식 지역이 같지만 좀 더 고지대에 서식합니다. 
+               유럽에서 폭넓게 재배되는 유럽 낙엽송은 목재용 수목으로 중요한 위치를 차지하고 있으며 
+               북아메리카에서는 관상용으로 쓰입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       낙엽송은 북반구 한대 지방에서만 자생하는 수목 속의 이름입니다. 
+	       낙엽송은 소나무과에 속하며 침엽수(침엽수 참조)로는 드물게 
+	       낙엽수입니다. 부드러운 바늘 모양의 잎은 여러 개씩 소복이 나서 가을에 떨어지고, 이듬해 봄이 되어야 새로운 잎이 납니다. 세계적으로 낙엽송은 10종이 있으며, 그 중 3종이 북아메리카에 서식합니다. 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_himalayanpine:entry"  >히말라야 소나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_himalayanpine:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/HimalayanPine/HimalayanPine_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               히말라야 소나무는 벌목과 농경지 개간의 영향을 거의 받지 않아 빽빽한 숲이 보존된 히말라야 북서부 지역에 
+               우점하고 있는 두 종의 침엽수 중 
+               하나입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       소나무는 북반구 온대 지방에 폭넓게 자생하는 중간 크기의 상록수인 
+	       소나무과 수목을 대표하는 이름입니다. 소나무과에 속해 있는 
+	       10속, 210종의 나무는 목재와 펄프의 원료 등으로써 매우 중요한 경제적 가치를 
+	       지니는 수목입니다. 소나무과 수목은 나선형으로 나있는 바늘처럼 생긴 잎이 특징입니다. 소나무속, 삼나무속, 낙엽송속등 몇몇 속은 잎이 짧은 가지 위에 여러 개가 소복이 뭉쳐나며, 전나무속의 잎은 빽빽한 나선형으로 납니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       소나무과 의 식물은 한 그루 내에 솔방울 모양의 암꽃과 수꽃이 따로 피며, 암꽃은 씨앗을 만들고 성숙하면 목질로 변하며 그 씨앗에는 날개가 있습니다. 수꽃은 꽃가루를 만듭니다. 소나무과 수목은 이 솔방울을 기준으로 다른 침엽수와 구분됩니다. 솔방울에서 씨앗이 들어있는 평평한 비늘조각(종린)의 바깥쪽에는 포비늘(포린)이 있으며, 이 포린은 보통 종린보다 짧습니다.
+ 
+	       대다수의 소나무과 수목은 솔방울을 아래로 늘어뜨리지만 중국 남부와 동남아시아에서 자생하는 일부 수목과 전나무는 그렇지 않습니다. 
+	       황금 낙엽송과 낙엽송을 제외한 모든 소나무과 수목은 상록수입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       110종의 수목으로 이뤄진 소나무속은 소나무과에서 가장 큰 비중을 차지하며, 그 중 35종은 북아메리카에 자생합니다. 
+	       소나무는 해수면에서부터 해발 4,000m까지 다양한 환경에서 서식하며 
+	       다른 소나무과와는 뭉쳐나기로 나있는 잎에서 차이가 있습니다. 종에 따라 뭉쳐나는 잎의 수가 정해져 있으며, 이 뭉쳐나는 잎들의 아래 부분은 비늘이 감싸고 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       소나무는 이 잎을 감싸고 있는 비늘을 포함한 몇 가지 특징에 따라 두 그룹으로 나뉩니다. 부드러운 소나무는 잎이 다섯 개씩 뭉쳐나며 잎이 성숙하면 잎 기부를 감싸는 비늘이 떨어져나가는 종류로 목질이 부드럽고 무늬가 거칩니다. 대표적인 수목으로는 북아메리카 북부산 스트로부스 소나무와 
+	       씨를 먹을 수 있는 북아메리카 서부산 잣나무, 로키 산맥에 서식하는 브리스틀콘소나무, 지구상에 현존하는 나무 중 가장 오래된 그레이트 베이신브리스틀콘소나무가 있습니다. 그레이트 베이신브리스틀콘소나무는 5000년 이상 자랄 수 있으며, 지구상에 현존하는 생물 중 가장 오래된 것입니다.
+	       과학자들은 브리스틀콘소나무의 나이테를 통해 
+	       1만 년 전의 기후도 알아 낼 수 있다고 합니다. 단단한 소나무는 2개 내지 3개의 잎이 뭉쳐나며 잎이 성숙해도 잎기부를 감싸고 있는 비늘이 떨어지지 않는 것이 특징으로 보통 목질이 단단하며 나무결이 조밀합니다. 대표적인 수목으로는 
+	       알래스카에서 바하 캘리포니아에까지 서식하는 로지폴 소나무, 북아메리카 남동부 해안에 자생하는 대왕송, 
+	       미국 서부에서 발견되는 판데로사 소나무가 있습니다. 부드러운 소나무와 단단한 소나무는 모두 경제적 가치가 높은 수목으로 
+	       목재, 펄프, 테레빈유 생산과 관상용으로 쓰입니다. 5천만 년 전에 멸종한 것으로 알려졌던 
+	       한 소나무과 수목이 1994년 오스트레일리아 시드니 부근의 열대우림에서 발견되기도 했습니다. 
+	       그 밖에 미송, 전나무, 가문비나무 등도 소나무과에 속하는 수목입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowcedar:entry"  >알래스카 삼나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowcedar:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/YellowCedar/YellowCedar_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               미국 서부에서 자생하는 수목으로 흔히  
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_cypress:entry">
+                     <u>
+                        <color r="255" g="231" b="135">편백나무</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               로 오인되기도 합니다. 그 밖에 포트 올포드 삼나무도 편백나무로 오인되는 나무입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_datepalm:entry"  >대추 야자나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_datepalm:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DatePalm/DatePalm_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               대추 야자는 열대 지방에서 자생하는 몇 종류의 수목을 통칭하는 이름입니다. 일반적인 대추 야자는 
+               아프리카 북부, 서남아시아, 인도가 원산지이며 전 세계의 건조하고 더운 지역에서 재배됩니다. 
+               나무 줄기는 곧게 뻗어 있으며 거칠고, 최대 18m까지 성장합니다. 
+ 잎은 길이 3m로 윤기 있는 녹색이며 가시가 있고 
+               암컷 나무에 달리는 수상화서에서는 200개에서 1,000개 가량의 열매가 열립니다. 열매 한 송이의 무게는 최대 12kg이며 
+               한 그루에서 연간 270kg 정도의 열매가 열립니다. 심은 지 8년 후부터 
+               열매가 열리기 시작하며 완전히 성숙하려면 30년이 걸리고 100년이 지나면 죽어가기 시작합니다. 
+               오래 전부터 수술이 성숙하기 직전에 수꽃을 잘라 내서 
+               암컷 나무의 꽃 주변에 달아 놓는 방법으로 수정이 잘 되도록 했습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       아프리카 북부, 이란, 아라비아에서는 대추 야자가 주요한 재산이며 
+	       그 열매는 중요한 식량입니다. 열매의 과육은 58%의 당분과 
+	       각각 2%씩의 지방, 단백질, 미네랄을 함유하고 있습니다. 잎자루는 바구니와 고리버들 세공품의 재료가 되며, 
+	       잎으로는 가방과 돗자리를 만듭니다. 잎자루와 잎에서 뽑아낸 섬유로는 밧줄을 만듭니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       인도에서는 수액을 얻기 위해 또 다른 종인 사탕대추야자를 재배합니다. 
+	       사탕대추야자에서 얻은 수액은 끓여서 즙 형태의 천연 설탕이나 신선한 음료수를 만들고 
+	       럼주처럼 증류한 야자 와인을 만들기도 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       미국 남부처럼 열매를 맺기에 기온이 충분히 높지 않는 곳에서는 대추야자를 관상용으로 재배하기도 합니다. 
+	       푸른 대추야자는 수풀 속에서 자라는 은색을 띈 푸른색 나무입니다. 
+	       피그미대추야자는 북아메리카 북부의 온실이나 실내에서 키우는 분재종입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_camelthornacacia:entry"  >가시아까시나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_camelthornacacia:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/CamelThornAcacia/CamelThornAcacia_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               가시아까시나무는 깃털 같은 잎이 달린 우산 모양의 커다란 나무로
+               오스트레일리아와 아프리카에서 흔하게 발견됩니다.
+               가시아까시나무의 잎은 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_elephant:entry">
+                     <u>
+                        <color r="255" g="231" b="135">코끼리</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_giraffe:entry">
+                     <u>
+                        <color r="255" g="231" b="135">기린</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               , 큰 뿔 사슴의 먹이가 됩니다.
+               씨앗은 커피 대용품으로 쓰이기도 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mangrove:entry"  >맹그로브나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mangrove:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Mangrove/Mangrove_Wetland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">맹그로브나무는 3개의 서로 다른 과에 속하는 여러 열대 꽃식물을 통칭하는 이름입니다. 맹그로브나무는 소금기가 있는 얕은 물에서 잘 자라는 특징이 있어서 특히 해안이나 강 하구의 어귀에서 많이 볼 수 있습니다. 활 모양으로 휘어져 엉켜 있는 뿌리는 썰물 때 지면에 노출되어있으며 일부 맹그로브의 뿌리는 수면 위까지 자라나기도 합니다. 호흡근이라고 하는 수직으로 뻗은 가지는 나무에 산소를 공급하는 역할을 합니다. 맹그로브 중 개체 수가 가장 많고 중요한 종은 붉은색을 띄는 것이 특징인 붉은 맹그로브나무입니다. 목재는 숯의 재료로 쓰이고 가죽 가공에 들어가는 타닌산의 원료로 사용됩니다. 특이하게도 맹그로브나무 씨는 나무에 달려 있는 상태로 발아하며, 묘목이 최대 30cm까지 자라기도 합니다. 묘목은 시가 모양이며 뿌리부분이 잎부분보다 무겁습니다. 묘목은 떨어지면서 어미 나무의 아래쪽 진흙에 자리를 잡습니다. 붉은맹그로브, 흰맹그로브, 버튼맹그로브는 플로리다 남부를 비롯한 여러 열대 지방에 자생합니다. 검은맹그로브는 마편초과에 속합니다.
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+           	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cypress:entry"  >편백나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cypress:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Cypress/Cypress_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               침엽수에 속하는 몇 종의 관목과 교목을 통칭하는 이름입니다. 지중해가 원산지인 
+               일반적인 편백나무는 북미사시나무와 비슷하게 생긴 좌우대칭의 상록수로서 큰 것은 27m가 넘기도 합니다. 
+               목재는 노란색이나 붉은색이고 나무결이 고우며 수지 성분이 있어서 
+               물에 오랫동안 잠겨 있어도 썩지 않습니다. 캘리포니아 해안에 서식하는 몬테레이 편백나무는 
+               일반적인 편백나무보다 더 커서 높이 46m, 밑동 둘레가 3m가 넘는 것도 있습니다. 
+               몬테레이  편백나무는 일반적으로 좌우대칭이지만 바람의 영향으로 인해 멋진 모양으로 휘어서 자라는 경우도 있습니다. 
+               편백나무과에 속하는 고아 삼나무는 
+               넓게 퍼지는 가지 때문에 미국에서 관상용으로 재배되기도 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       편백나무과로 불리워지는 수목 중에서 미국 서부에 서식하는 히말라야 삼나무와 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_yellowcedar:entry">
+                     <u>
+                        <color r="255" g="231" b="135">알래스카 삼나무</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       , 소나무의 일종인 미국 동부산 흰삼나무는 실제로 편백나무가 아닙니다. 미국 남부 소택지산 낙우송은 멕시코와 미국 남부에서 목재로 사용되는 중요한 낙엽수로
+	        밑동이 두껍고 크기가 52m에 이르기도 합니다. 이 나무는 하천이나 늪 가장자리에서 자라며
+	       뿌리가 휘어져 수면 위로 올라옵니다. 
+	       휘어진 뿌리는 나무 보트의 곡선 부분에 사용됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_weepingmyall:entry"  >수양아까시나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_weepingmyall:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/WeepingMyall/WeepingMyall_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               수양아까시나무는 오스트레일리아 동부 지역이 원산지로서, 자라는 속도가 느린 상록수
+               입니다. 늘어진 가지와 잎 덮개 때문에 겉모습은 수양버들과 매우 비슷하지만 훨씬 적은 
+               양의 수분을 섭취해도 살아갈 수 있기 때문에 사막 기후에도 잘 적응한다는 차이점이 있습니다. 
+               수양아까시나무의 철회색 잎은 기린의 먹이로 알려져 있습니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowfeveracacia:entry"  >황열병아까시나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_yellowfeveracacia:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/YellowFeverAcacia/YellowFeverAcacia_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               우산처럼 생긴 황열병아까시나무는 아프리카에 자생하는 나무 중 가장 크고 흔하기 때문에 사바나를 지나는 사람과 동물 모두에게 그늘과 안식처를 제공해 줍니다. 황열병아까시나무 껍질은 전통적으로 
+               황열병 치료에 사용됩니다. 황열병은 주로 감염된 모기에 물려서 
+               걸리는 바이러스성 전염병입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tremblingaspen:entry"  >북미사시나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tremblingaspen:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/TremblingAspen/TremblingAspen_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               북미사시나무는 버드나무과 수목 중 가장 특이한 나무입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       북미사시나무를 포함한 몇 종의 식물이 포함되는 사시나무속의 잎은 매우 납작한 잎자루를 가지고 있어서 잎이 좌우로는 쉽게 움직이지만 상하로의 움직임은 제한적입니다. 따라서 산들바람에도 나무 전체의 모든 잎이 움직이게 됩니다. 가장 흔한 종은 북아메리카의 아메리카사시나무, 캐나다 동부와 미국에 자생하는 큰 치상 사시나무, 유럽과 서아시아, 아프리카 북부에 서식하는 유럽사시나무입니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wetlandlog:entry"  >습지대용 통나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wetlandlog:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/LogMedium/LogMedium_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+                  <img src="entities/objects/foliage/LogSmall/LogSmall_Wetlands_ icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+                  
+                  
+                  습지대용 통나무는 모두 비버나 악어 같은 습지대 동물들에게 편안한 안식처가 됩니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	내용 출처 
+         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <a href="zoopedia:zoopedia_encarta:entry">
+                  <u>
+                     <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                  </u>
+               </a>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            	(C) 1993-2003 Microsoft Corporation. All rights reserved.
+      
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

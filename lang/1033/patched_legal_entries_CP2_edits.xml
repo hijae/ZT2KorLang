@@ -1,0 +1,39 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_about" version="9" />
+      <LOC_STRING _locID="zoopedia_about:entry" version="9"  >Help/About Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_about:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+© &amp; (p) 2007 Microsoft Corporation. All rights reserved.
+<p/>
+Microsoft, the Microsoft Game Studios logo, Windows, the Windows logo, Marine Mania, and Zoo Tycoon are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
+<p/>
+Developed by Blue Fang Games for Microsoft Corporation. 
+<p/>Blue Fang Games and the Blue Fang logo are registered trademarks of Blue Fang Games, LLC.
+<p/>This product is licensed. To view your product identification number (PID) for this product, insert the Zoo Tycoon 2: Extinct Animals disc into your CD-ROM drive. The PID is displayed on the first screen that appears. You can also find the PID by opening Add or Remove Programs from the Control Panel, selecting Zoo Tycoon 2: Extinct Animals from the installed programs list, and clicking the "Click here for support information" link.         
+                  <p/>
+                  <img src="ui/zoopedia/MsGslogo_white.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="ui/zoopedia/bink.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="ui/zoopedia/miles.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64"/>
+                	<img src="ui/zoopedia/jeeplogo_64X128.dds" sx="0" sy="0" sw="128" sh="64"/>               
+                  <p/>
+Portions of this software are included under license. &#xA9; 1997-2007 Numerical Design, Ltd. All rights reserved. Gamebryo&#xAE; is a registered trademark of Numerical Design, Ltd.
+<p/>
+Uses Miles Sound System, Copyright © 1991-2007 by RAD Game Tools, Inc. Miles 3D Realistic Sound Experience (RSX) Software Copyright © 1997-2007 by Intel Corporation and RAD Game Tools.
+<p/>
+Uses Bink Video Copyright &#xA9; 1997-2007 by RAD Game Tools, Inc.
+<p/>
+Jeep&#xAE; is a registered trademark of DaimlerChrysler Corporation.
+  <p/>
+Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

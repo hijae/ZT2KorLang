@@ -1,0 +1,19 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_heatedrock" version="2" />
+      <LOC_STRING _locID="zoopedia_heatedrock:entry" version="2"  >가열된 편평한 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatedrock:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>가열된 바위는 천연 바위처럼 보이지만 태양열에 의해 데워진 바위를 흉내 낸, 인공적으로 내부로부터 가열된 큰 바위입니다. 가열된 바위는 아프리카 사바나 지역의 태양열로 가열된 바위를 좋아하는 사자와 같은 아프리카 동물들에게 인기가 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,266 @@
+		 <ZT2Strings>
+      <LOC_STRING _locID="PhotoSafari:VIPsIntro"  >VIP 사진 찍기
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsOverviewShort"  >
+일반 관람객과 VIP 관람객의 사진을 찍어 여러분의 사진 실력을 테스트해 보세요. 이 캠페인의 시나리오를 모두 마치면 호랑이 바위를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsOverview"  >
+동물원 운영에는 동물을 잘 돌보는 일이 가장 중요하지만 관람객 유치 또한 중요합니다. 동물원을 찾는 관람객이 많아야 동물원의 수익도 올릴 수 있고, 그래야 동물도 더욱 잘 보살필 수 있기 때문입니다.
+        <p/>
+관람객을 더 많이 유치하기 위한 홍보 전략을 세웠습니다. 동물원을 신문과 잡지, 인터넷 등에 광고해 사람들에게 동물원에서 신나고 멋진 경험을 할 수 있을 것이라는 생각을 심어 줄 계획입니다.
+        <p/>
+광고에 사용할 사진을 몇 장 찍어야 합니다. 다음 사진을 찍어 동물원을 찾는 관람객을 늘리세요.
+			<br/>
+		*  동물을 흉내내고 있는 관람객. 힌트: 어린이 관람객은 호랑이, 말코손바닥사슴, 큰홍학, 캥거루, 침팬지, 고릴라 흉내를 좋아합니다.  
+			<br/>
+		*  고릴라 정글짐에서 놀고 있는 아이. 힌트: 고릴라 정글짐을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+			<br/>
+		*  안경 쓴 관람객
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:GuestsPhotosGoal"  >
+      다음 사진을 찍으세요.
+			<br/>
+		*  동물을 흉내내고 있는 관람객. 힌트: 어린이 관람객은 호랑이, 말코손바닥사슴, 큰홍학, 캥거루, 침팬지, 고릴라 흉내를 좋아합니다.  
+			<br/>
+		*  고릴라 정글짐에서 놀고 있는 아이. 힌트: 고릴라 정글짐을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+			<br/>
+   		*  안경 쓴 관람객
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:GuestsPhotosGoalDone"  >축하합니다! 즐거운 시간을 보내고 있는 관람객들의 사진을 찍으셨군요!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFame"  >
+여러분이 찍은 사진이 동물원 홍보에 제격이었습니다! 동물원을 처음 찾는 관람객이 줄을 잇고 있습니다.
+      <p/>
+광고 대행사에서 유명 인사나 VIP 관람객이 동물원을 방문할 때 사진을 찍어 동물원을 홍보하면 동물원을 알리는 데 아주 효과적일 것이라는 조언을 해 주었습니다. VIP 관람객이 동물원을 찾게 하려면 먼저 동물원 명성을 별 3개까지 올리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsSpecialGuests"  >
+동물원의 명성이 별 3개가 되자 사람들이 동물원에 많은 관심을 보이기 시작했습니다. 소문에 의하면 억만장자인 빌리 실리스와 세계적인 과학자인 앨빈 아인하임도 조만간 우리 동물원을 방문할 것이라고 합니다.
+      <p/>
+동물원을 방문 중인 이들 유명 인사의 사진을 찍으면 관람객을 훨씬 많이 유치할 수 있을 것입니다.
+      <p/>
+다음 사진을 찍으세요.
+      <br/>
+		*  억만장자 사업가 빌리 실리스가 음식을 먹거나 마시고 있는 모습
+			<br/>
+		*  저명한 과학자 앨빈 아인하임이 동물을 관찰하고 있는 모습
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsPhotosGoal"  >
+      다음 사진을 찍으세요.
+			<br/>
+		*  억만장자 사업가 빌리 실리스가 음식을 먹거나 마시고 있는 모습
+			<br/>
+		*  저명한 과학자 앨빈 아인하임이 동물을 관찰하고 있는 모습
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPPhotosGoalDone"  >
+		축하합니다! VIP 관람객 사진을 찍는 데 성공하셨군요!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsDiva"  >
+여러분이 찍은 유명 인사 사진 덕분에 동물원에 관람객이 몰려오고 있습니다!
+      <p/>
+더욱 신나는 뉴스가 있습니다. 세계적인 가수 달라스 샘슨이 동물원을 방문한다고 합니다. 그녀의 노래, 연기, 헤어스타일 등이 세간의 관심의 대상이니 샘슨이 동물원을 찾는다면 동물원의 인기가 급상승할 것입니다.
+      <p/>
+달라스 샘슨 같은 유명 인사 역시 동물원에서 즐거운 시간을 보내고 싶어할 거예요. 그녀가 소리 바위 옆에서 춤추고 있는 사진을 얻는다면 광고 효과가 대단할 것입니다. 물론 사진을 찍지 못한다면 동물원의 인기 상승을 기대할 수 없겠죠.
+     <p/>
+시나리오를 완료하려면 달라스 샘슨이 소리 바위 옆에서 춤추고 있는 사진을 찍으세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsDivaGoal"  >시나리오를 완료하려면 달라스 샘슨이 소리 바위 옆에서 춤추고 있는 사진을 찍으세요!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsDivaGoalDone"  >축하합니다! 달라스 샘슨이 춤추고 있는 사진을 찍으셨군요!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsSuccessOverview"  >
+달라스 샘슨은 동물원 방문이 아주 즐거웠다며 자신의 사진을 동물원 홍보에 사용해도 좋다고 허락했습니다. 여러분은 동물원을 "스타가 좋아하는 동물원"으로 만드는 데 성공했어요. 이제 관람객이 줄을 잇게 될 것입니다. 축하합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBusinessmanEntered"  >
+억만장자 빌리 실리스가 동물원을 찾았습니다! 빌리 실리스가 음식을 먹거나 마시고 있는 장면을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsScientistEntered"  >
+저명한 과학자 앨빈 아인하임이 동물원을 찾았습니다! 앨빈 아인하임이 동물을 관찰하고 있는 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsDivaEntered"  >
+수퍼스타 달라스 샘슨이 동물원을 찾았습니다! 달라스 샘슨이 소리 바위 옆에서 춤추고 있는 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFailureBusinessman"  >
+사업가 빌리 실리스가 음식을 먹거나 마시고 있는 사진을 아직 찍지 못했는데 벌써 동물원을 떠나 버렸습니다. 동물원 홍보 기회를 아쉽게도 놓쳤군요. 다음에는 행운을 바랍니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFailureScientist"  >
+과학자 앨빈 아인하임이 동물을 관찰하고 있는 사진을 아직 찍지 못했는데 벌써 동물원을 떠나 버렸습니다. 동물원 홍보 기회를 아쉽게도 놓쳤군요. 다음에는 행운을 바랍니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFailureDiva"  >
+수퍼스타인 달라스 샘슨이 소리 바위 옆에서 춤추고 있는 사진을 아직 찍지 못했는데 벌써 동물원을 떠나 버렸습니다. 샘슨의 사진을 이용해 동물원을 홍보할 기회를 놓쳤군요. 다음에는 행운을 바랍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsresult"  >일반 관람객과 VIP 관람객의 사진을 찍으세요!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsOverallGoal"  >동물원에 보다 많은 관람객을 유치하려면 일반 관람객과 VIP 관람객의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsOverallGoalSuccess"  >잘했습니다! 동물원 홍보에 이용할 월드 스타 달라스 샘슨의 사진을 얻었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsMimicGoal"  >관람객이 동물을 흉내내는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsMimicGoalDone"  >관람객이 동물을 흉내내는 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsClimbingBarsGoal"  >관람객이 고릴라 정글짐에서 놀고 있는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsClimbingBarsGoalDone"  >관람객이 고릴라 정글짐에서 놀고 있는 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBinocularsGoal"  >안경 쓴 관람객의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBinocularsGoalDone"  >안경 쓴 관람객의 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBusinessmanGoal"  >억만장자 빌리 실리스가 음식을 먹거나 마시는 장면을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBusinessmanGoalDone"  >빌리 실리스가 음식을 먹거나 마시는 장면을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsScientistGoal"  >저명한 과학자 앨빈 아인하임이 동물들을 관찰하고 있는 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsScientistGoalDone"  >앨빈 아인하임이 동물들을 관찰하고 있는 사진을 찍었습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFameGoal"  >동물원 명성을 별 3개까지 올리세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsFameGoalDone"  >동물원 명성을 별 3개까지 올렸습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsBusinessmanName"  >빌리 실리스</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsScientistName"  >앨빈 아인하임</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:VIPsDivaName"  >달라스 샘슨</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoIntro"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoOverviewShort"  >멸종 위기에 처한 신비스러운 동물, 자바코뿔소의 모습을 사진으로 찍으세요. 코뿔소에게 너무 가까이 가지 않도록 주의하세요. 이 캠페인의 시나리오를 모두 마치면 호랑이 바위를 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoOverview"  >자바코뿔소는 가장 심각한 멸종 위기 동물의 하나입니다. 다른 코뿔소와 마찬가지로 자바코뿔소도 뿔 때문에 밀렵꾼들의 표적이 되어 왔으며 야생에서 살고 있는 자바코뿔소는 현재 100마리가 채 안 될 것으로 전문가들은 추정하고 있습니다.
+      <p/>
+      자바코뿔소 보호에는 두 가지 어려움이 있습니다. 첫째로 자바코뿔소는 동물원에 적응시키고 번식시키기가 힘듭니다. 둘째로 자바코뿔소의 행동 양식에 대해 알려진 바가 별로 없습니다. 자바코뿔소는 부끄럼을 많이 타서 인간과의 접촉을 좋아하지 않습니다.
+      <p/>
+      동물원에 희귀 동물인 자바코뿔소를 입양했습니다. 여러분은 자바코뿔소가 생활하는 모습을 사진으로 찍어야 합니다. 자바코뿔소는 자신의 영역에 사람이 접근하면 매우 경계합니다. 코뿔소에게 스트레스를 주지 않도록 리프트나 다리 위에서 사진을 찍어야 합니다.
+      <p/>
+      다리나 리프트에서 다음 사진을 찍으세요.
+      <br/>
+			*  먹이를 먹거나 물을 마시고 있는 자바코뿔소
+			<br/>
+			*  자고 있는 자바코뿔소
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPart1Goals"  >
+      다리나 리프트에서 다음 사진을 찍으세요.
+      <br/>
+			*  먹이를 먹거나 물을 마시고 있는 자바코뿔소
+			<br/>
+			*  자고 있는 자바코뿔소
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPart1GoalsDone"  >첫 번째로 찍어야 할 자바코뿔소 사진을 모두 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoBehaviors"  >여러분이 찍은 자바코뿔소 사진이 자바코뿔소의 생태 연구에 큰 도움이 되었습니다. 이번에는 자바코뿔소의 좀 더 고차원적인 행동을 사진으로 찍어달라고 과학자들이 요청해 왔습니다. 역시 동물에게 스트레스를 주지 않기 위해 리프트나 다리 위에서 사진을 찍어야 합니다.
+      <p/>
+      다리나 리프트에서 다음 사진을 찍으세요.
+      <br/>
+			*  소금 덩어리를 핥고 있는 자바코뿔소. 힌트: 소금 덩어리를 사용하려면 동물원 명성을 별 1개까지 올려야 합니다.
+			<br/>
+			*  큰 공을 가지고 노는 자바코뿔소. 힌트: 큰 공을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPart2Goals"  >
+      다리나 리프트에서 다음 사진을 찍으세요.
+      <br/>
+			*  소금 덩어리를 핥고 있는 자바코뿔소. 힌트: 소금 덩어리를 사용하려면 동물원 명성을 별 1개까지 올려야 합니다.
+			<br/>
+			*  큰 공을 가지고 노는 자바코뿔소. 힌트: 큰 공을 사용하려면 동물원 명성을 별 2개까지 올려야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPart2GoalsDone"  >두 번째로 찍어야 할 자바코뿔소 사진을 모두 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoFemale"  >
+      잘했습니다! 과학자들은 여러분이 찍은 사진으로 자바코뿔소의 행동을 연구한 결과 코뿔소를 동물원에서 번식시킬 수도 있을 것이라고 판단했습니다. 동물원 이사회에서 여러분의 공로를 인정하여 $10,000를 지원했습니다.
+      <p/>      
+      여러분이 자바코뿔소를 번식시키는 데 성공한다면 이 동물의 종족 보존에 큰 공을 세우게 될 것입니다. 동물원 이사회에서 암컷 자바코뿔소 1마리를 입양했습니다. 동물원 정문 근처에 자바코뿔소가 들어 있는 상자가 있습니다. 위원회에서는 자바코뿔소로 두 가지 임무를 수행해 주기를 바랍니다.
+		<p/>
+한 가지는 동물원 명성을 별 3개 반까지 올려 자바코뿔소가 처한 현실을 대중에게 알리는 것입니다. 이 목표를 달성하면 위원회에서 상금으로 $10,000를 더 받게 됩니다.
+		<p/>
+두 번째는 자바코뿔소를 번식시키는 것입니다. 새끼를 낳게 하려면 잘 보살피고 오랜 시간 동안 추가 생활 조건을 만족시켜야 합니다. 멸종 위기 동물 캠페인을 완료해야 사용할 수 있는 번식 센터를 활용하면 좋습니다. 번식이 성공하면 자바코뿔소를 번식시킨 최초의 동물원이 될 것입니다!
+      <p/>
+코뿔소가 새끼를 낳으면 새끼 코뿔소의 사진을 찍으세요. 사진은 리프트나 다리 위에서 찍어야 합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoSuccessOverview"  >
+잘했습니다! 우리 동물원이 사상 최초로 자바코뿔소 번식에 성공했습니다. 이것은 멸종 위기에 처한 이 동물의 보존에 큰 희망을 안겨 주었습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoOverallGoal"  >멸종 위기에 처한 신비스러운 동물, 자바코뿔소의 모습을 사진에 담으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoEatGoal"  >자바코뿔소가 먹이를 먹거나 물을 마시고 있는 모습을 다리나 리프트에서 사진으로 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoEatGoalDone"  >자바코뿔소가 먹이를 먹거나 물을 마시는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoSleepGoal"  >자바코뿔소가 자고 있는 모습을 다리나 리프트에서 사진으로 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoSleepGoalDone"  >자바코뿔소가 자고 있는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoSaltLickGoal"  >자바코뿔소가 소금 덩어리를 핥고 있는 모습을 다리나 리프트에서 사진으로 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoSaltLickGoalDone"  >자바코뿔소가 소금 덩어리를 핥고 있는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPursuitBallGoal"  >자바코뿔소가 큰 공을 가지고 노는 모습을 다리나 리프트에서 사진으로 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoPursuitBallGoalDone"  >자바코뿔소가 큰 공을 가지고 노는 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoBabyGoal"  >새끼 자바코뿔소의 모습을 다리나 리프트 위에서 사진으로 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoBabyGoalDone"  >다리나 리프트에서 새끼 자바코뿔소 사진을 찍었습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoFameGoal"  >$10,000를 받으려면 동물원 명성을 별 3개 반까지 올리세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:JavanRhinoFameGoalDone"  >동물원 명성이 별 3개 반까지 올라갔습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryIntro"  >고양이과 동물 보호 구역</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryOverviewShort"  >몸집이 큰 고양이과 동물들이 모여 사는 비좁은 공간을 멋진 동물원으로 변신시켜 보세요. 사진 찍는 연습도 하시고요! 이 시나리오를 마치면 호랑이 바위를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryOverview"  >한 자선 단체에서 지난 몇 년간 고양이과 보호 구역을 관리해 왔습니다. 보호 구역에서는 사람들이 애완 동물로 키우다가 몸집이 너무 커지거나 돌보기 힘들어지자 버린 고양이과 동물을 몇 마리 돌보고 있습니다.
+      <p/>
+      자선 단체에서 자금이 부족해 고양이과 보호 구역을 계속 운영하기가 힘든 형편입니다. 이사회는 보호 구역을 지키기 위한 방편으로 보호 구역을 동물원으로 탈바꿈시켜 관람객에게 다양한 동물을 보여주는 대신 입장료를 받기로 결정했습니다.
+      <p/>
+      동물원을 개장하기에 앞서서 정부의 허가를 받아야 합니다. 보호 구역에서 동물들을 잘 돌보고 있다는 것을 증명하는 사진을 제출해 허가를 받아야 동물원을 개장할 수 있습니다.
+      <p/>
+      다음 사진을 찍으세요.
+      <br/>
+			*  건강하고 만족한 재규어의 모습
+		<br/>
+			*  건강하고 만족한 치타의 모습
+		<br/>
+			*  건강하고 만족한 사자의 모습
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:HealthyAnimalsGoal"  >
+      다음 사진을 찍으세요.
+      <br/>
+			*  건강하고 만족한 재규어의 모습
+		<br/>
+			*  건강하고 만족한 치타의 모습
+		<br/>
+			*  건강하고 만족한 사자의 모습
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:HealthyAnimalsGoalDone"  >
+      건강하고 만족한 재규어, 치타, 사자의 모습을 사진으로 찍었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryGuests"  >여러분이 보낸 사진을 보고 정부는 여러분이 동물들을 잘 돌보고 있음을 확인했습니다. 정부에서 동물원 개장을 허가했습니다.
+      <br/> 
+      동물원 이사회에서 반가운 소식을 전해 주었습니다. 자선 사업가인 제이 디 맥퍼슨이 동물원에 $2,000를 기부했습니다! 그리고 동물원이 잘 운영되면 $15,000를 더 기부하겠다고 합니다. 75명의 관람객이 동물원을 방문하면 맥퍼슨이 $15,000를 기부할 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryLynx"  >동물원 관람객이 75명을 넘었습니다! 약속한 대로 자선사업가 맥퍼슨이 $15,000를 기부했습니다. 이 돈은 동물원 확장에 유용하게 쓰일 것입니다.
+      <p/>
+      동물원 이사회에서는 고양이과 동물 보호라는 원래의 취지에 걸맞은 동물원을 만들기 위해 멸종 위기에 처한 스페인스라소니를 입양하도록 요청했습니다. 이 희귀한 동물을 입양하면 동물원 후원자인 맥퍼슨이 동물원에 $40,000를 기부하겠다고 합니다. 또한 맥퍼슨은 한 가지를 요청했는데, 그의 사무실에 걸어 둘 스페인스라소니 사진을 찍어 달라는 것입니다. 
+      <p/>
+      기부금 $40,000를 받으려면 스페인스라소니가 고기를 먹고 있는 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryPanther"  >
+      동물원 후원자인 맥퍼슨은 스페인스라소니가 입양된 데다 스라소니 사진을 받고서 기뻐하며 동물원에 $40,000를 기부했습니다.
+      <p/>
+      맥퍼슨은 우리 동물원이 몸집이 큰 고양이과 동물들을 사육하는 지역 최고의 동물원이 되기를 기대하고 있습니다. 이를 위해 멸종 위기에 처한 플로리다퓨마를 동물원에 입양해 종족 보존에 힘써 달라고 요청했습니다. 맥퍼슨은 또 기념으로 퓨마 사진을 찍어 달라고 요청했습니다.
+      <p/>
+      이 시나리오를 마치려면 건강하고 만족해하는 플로리다퓨마가 대형 습지대 바위에서 쉬고 있는 사진을 찍으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuarySuccessOverview"  >
+      희귀 동물인 플로리다퓨마를 입양함으로써 우리 동물원이 몸집이 큰 고양이과를 보호하는 지역 내 최고의 동물원이 되었습니다. 맥퍼슨도 매우 기뻐하며 지속적인 동물원 후원을 약속했습니다. 잘했습니다!
+      <p/>
+      호랑이 바위를 사용할 수 있게 되었습니다. 호랑이 바위는 앞으로 Zoo Tycoon 2: Endangered Species의 모든 게임에서 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryOverallGoal"  >비좁은 고양이과 보호 구역을 멋진 동물원으로 변신시키세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryJaguarGoal"  >건강하고 만족한 재규어의 모습을 사진으로 찍으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryJaguarGoalDone"  >건강하고 만족한 재규어의 모습을 사진으로 찍었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryCheetahGoal"  >건강하고 만족한 치타의 모습을 사진으로 찍으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryCheetahGoalDone"  >건강하고 만족한 치타의 모습을 사진으로 찍었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryLionGoal"  >건강하고 만족한 사자의 모습을 사진으로 찍으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryLionGoalDone"  >건강하고 만족한 사자의 모습을 사진으로 찍었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryGuestsGoal"  >동물원을 관람객을 75명으로 늘리세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryGuestsGoalDone"  >동물원 관람객이 75명을 넘었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryLynxGoal"  >건강하고 만족한 스페인스라소니가 고기를 먹고 있는 사진을 찍으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryLynxGoalDone"  >건강하고 만족한 스페인스라소니가 고기를 먹고 있는 사진을 찍었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryPantherGoal"  >건강하고 만족한 플로리다퓨마가 습지대 바위에서 쉬고 있는 사진을 찍으세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafari:CatSanctuaryPantherGoalDone"  >건강하고 만족한 플로리다퓨마가 습지대 바위에서 쉬고 있는 사진을 찍었습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignshort"  >사진 찍기</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS1"  >VIP 사진 찍기</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS1short"  >VIP 사진 찍기</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS2"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS2short"  >자바코뿔소</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS3"  >고양이과 동물 보호 구역</LOC_STRING>
+      <LOC_STRING _locID="PhotoSafariLabels:PhotoSafariCampaignS3short"  >고양이과 동물 보호 구역</LOC_STRING>
+   
+</ZT2Strings>

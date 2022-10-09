@@ -1,0 +1,12 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds" version="9" />
+      <LOC_STRING _locID="entityneeds:animal_eggtimer" version="9"  >Hatch Timer</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_eggtimer_ltt" version="9"  >
+         <color r="255" g="248" b="178">
+            <b>Hatch Timer</b>
+         </color>
+         <br/>
+	This timer represents the current incubation level of the egg. When the meter is full, it's time for the egg to hatch.      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:disabled" version="9"  >Not Applicable</LOC_STRING>
+</ZT2Strings>

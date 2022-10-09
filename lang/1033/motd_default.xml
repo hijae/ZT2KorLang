@@ -1,0 +1,10 @@
+<messages>
+   <message id="1" type="html" frequency="10" priority="true">
+	<html>
+ 		<font name="굴림" size="9">
+
+ [오늘의 메시지] 기능을 사용하면 자동으로 웹 사이트에 접속해서 오늘의 메시지를 다운로드하여 화면에 표시합니다.<br/>이 기능을 사용하려면 게임 옵션에서 [오늘의 메시지 사용] 확인란을 클릭하면 됩니다.
+		</font>
+	</html>
+   </message>
+</messages>

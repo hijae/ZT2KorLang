@@ -1,0 +1,11 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext" version="6" />
+      <LOC_STRING _locID="PhotoChallengetext:PHInternationalGeographerShort" version="6"  >  
+	   		다음 사진을 찍으세요.::  
+			<br/>   
+		*  툰드라 지대에 사는 순록    
+			<br/> 
+		*  사막 지대에 사는 단봉낙타
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DromedaryCamelInDesert" version="6"  >사막 지대에 사는 단봉 낙타 사진을 찍으세요.</LOC_STRING>
+</ZT2Strings>

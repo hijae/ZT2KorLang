@@ -1,0 +1,15 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffactions:GoCleanTank"  >수조를 청소하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CleanTank"  >수조를 청소하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoCleanFilter"  >필터를 청소하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CleanFilter"  >필터를 청소하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoRepairFilter"  >필터를 수리하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:RepairFilter"  >필터를 수리하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoCleanWaterFilter"  >정수 필터를 청소하러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CleanWaterFilter"  >정수 필터를 청소하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:clean_water_filter"  >%s을(를) 청소하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:swimwith"  >%s과(와) 수영하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:getoffanimal"  >%s과(와)의 수영을 멈추려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:clean_tank"  >수조를 청소하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:kick_obj"  >%s을(를) 차려면 스페이스바를 누르세요.</LOC_STRING>
+</ZT2Strings>

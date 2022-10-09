@@ -1,0 +1,110 @@
+ <ZT2Strings>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahIntro"  >사바나 대평원</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahOverviewShort"  >
+리프트와 다리를 설치해서 사바나의 야생 동물 세계를 보여 주세요! 야생 동물들의 환경을 보호하는 한편 멋진 동물원을 만들어야 합니다. 이 캠페인의 시나리오를 모두 마치면 장식 투어 입구를 사용할 수 있습니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahOverview"  >
+수십 년에 걸친 무분별한 밀렵으로 사바나 지역의 야생 동물 수가 크게 감소했습니다. 이 문제를 해결하기 위해 정부는 사바나의 일부 지역을 보호 구역으로 지정했습니다. 
+      <p/>
+여러분은 이 보호 구역 주변에 멋진 동물원과 생태 공원을 건설해야 합니다. 보호 구역 안에서는 개발 작업이 엄격히 제한됩니다. 하지만 보호 구역 위를 가로지르는 다리와 리프트를 건설하거나 동물을 보호 구역 안에 넣을 수는 있습니다. 사바나에 서식하는 동물을 입양해 보호 구역에서 관리하면 이 지역의 동물 수를 늘리는 데 도움이 되며 사람들에게 사바나의 생태계에 대해 가르쳐 줄 수도 있습니다.
+      <p/>
+시의회에서는 최첨단 시설을 갖춘 새로운 동물원과 생태 공원을 건설할 계획입니다. 여러분에게 탑승장을 2개 이상 갖춘 리프트 시스템을 건설하도록 요청해 왔습니다. 시의회에서는 $8,000를 지원할 것입니다. 힌트: 동물원 명성을 별 2개까지 올리세요.    
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahFame"  >
+잘했습니다! 이제 공원에 리프트 시스템이 작동합니다. 시의회로부터 $8,000를 지원받았습니다.
+      <p/>
+시의회에서는 세계 최고 수준의 시설을 갖춘 동물원을 원합니다. 동물원 명성을 별 4개로 올려 보호 구역 주변에도 인기 있는 동물원을 지을 수 있다는 사실을 보여 주세요. 이 시나리오를 완료하려면 동물원 명성을 별 4개로 올리세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelope"  >
+설문 조사에서 관람객들은 원시 사바나 서식지에 살고 있는 멸종 위기 동물인 자이언트세이블영양에 큰 관심을 나타냈습니다. 다음 달 안에 자이언트세이블영양 2마리를 입양하여 기본 생활 조건을 만족시켜 주면 많은 관람객이 동물원을 찾을 겁니다! 주의: 이것은 선택 사항이며 실패한다고 해도 시나리오의 성공 여부에는 영향을 주지 않습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeSuccess"  >
+자이언트세이블영양 2마리를 입양하여 기본 욕구를 만족시켰습니다. 관람객들은 원시 사바나 환경에서 살고 있는 희귀하고 매력적인 자이언트세이블영양을 보고 싶어합니다. 덕분에 동물원을 찾는 관람객이 물결을 이룹니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeFailureNoAntelope"  >
+한 달이 지났지만 아직 자이언트세이블 영양 2마리를 입양하지 않았습니다. 관람객들이 동물에 대한 흥미를 잃었습니다. 더 많은 관람객을 끌어들일 기회를 놓쳤군요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeFailureNeed"  >
+자이언트세이블영양 2마리를 입양했지만 기본 생활 조건을 만족시키지 못했습니다. 관람객들은 건강하지 않거나 불결한 동물을 별로 보고 싶어하지 않습니다. 더 많은 관람객을 끌어들일 기회를 놓쳤군요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahSuccessOverview"  >
+동물원 등급을 별 4개까지 올렸습니다! 야생 동물도 보호하면서 관람객도 즐겁게 해 주는 동물원을 보호 구역 주변에도 만들 수 있다는 사실을 여러분이 증명해 보였군요. 정말 축하합니다!     
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahResult"  >보호 구역 주변에 동물원을 지으세요!</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahOverallGoal"  >보호 구역 주변에 인기 있는 동물원을 지으세요.</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahOverallGoalSuccess"  >축하합니다! 보호 구역을 보호하면서 별 4개짜리 동물원을 만들었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahSkyTramGoal"  >탑승장이 2개 이상인 리프트 투어 시설을 만드세요.</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahFameGoal"  >동물원 명성을 별 4개까지 올리세요.</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahFameGoalDone"  >동물원 명성이 별 4개가 되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeGoal"  >(선택 사항) 자이언트세이블영양 2마리를 다음 달 안에 입양하고 기본 생활 조건을 만족시켜 주세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahSkyTramGoalDone"  >리프트 투어 시설을 완성했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:GreatSavannahGiantSableAntelopeGoalDone"  >자이언트세이블영양 2마리를 입양하고 기본 생활 조건을 만족시켰습니다.</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapIntro"  >계곡 연결하기</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapOverviewShort"  >16종이나 되는 동물들이 사는 동물원을 만들어 보시겠어요? 동물원을 건설하려는 곳에 깊은 계곡이 있어 이 또한 해결해야 합니다. 이 캠페인의 시나리오를 모두 마치면 장식 투어 입구를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapOverview"  >동물원 주인은 동물원을 넓히려는 야심 찬 계획을 가지고 있습니다. 동물원 옆에 있는 깊은 계곡이 골칫거리인데, 이 계곡의 생태계에 영향을 주는 행위가 환경 보호법으로 금지되고 있기 때문입니다. 
+      <p/>
+      여러분은 첨단 기술을 사용해 이 문제를 해결해야 합니다. 먼저 동물이 8종 이상 있는 동물원을 만들어 동물원 규모를 키우세요. 이 목표를 달성하면 $4,000를 받게 됩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapTwelve"  >
+      동물원에 동물이 8종으로 늘어나자 동물원 주인은 매우 기뻐하며 보너스로 $4,000를 주었습니다. 그런데 이번에는 동물을 12종으로 늘려달라고 요청해 왔습니다. 동물이 12종으로 늘어나면 $10,000를 보너스로 주겠다고 합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapSixteen"  >
+      동물이 12종으로 늘어나자 동물원 주인은 매우 흡족해하며 보답으로 $10,000를 주었습니다. 그런데 주인은 동물원 규모를 더욱 키워 초대형 동물원을 만들고 싶어합니다. 시나리오를 완료하려면 주인의 요청대로 동물을 16종으로 늘리세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapSuccessOverview"  >
+      축하합니다! 지형적인 장애를 극복하고 동물이 16종이나 되는 초대형 동물원으로 변신시켰군요. 동물원 주인도 기뻐하고 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapOverallGoal"  >동물원을 넓히고 계곡을 연결하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapEightGoal"  >동물을 8종 이상으로 늘리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapEightGoalDone"  >동물이 8종 이상으로 늘어났습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapTwelveGoal"  >동물을 12종 이상으로 늘리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapTwelveGoalDone"  >동물이 12종 이상으로 늘어났습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapSixteenGoal"  >동물을 16종 이상으로 늘리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:BridgingGapSixteenGoalDone"  >동물이 16종 이상으로 늘어났습니다!</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsIntro"  >초특급 동물원 만들기</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsOverviewShort"  >시설이 낙후되어 인기를 잃은 동물원을 최첨단 이동 시설을 활용해 별 5개짜리 동물원으로 만드세요! 이 캠페인의 시나리오를 모두 마치면 장식 투어 입구를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsOverview"  >백 년 이상의 역사를 지닌 시립동물원은 아름답고 유서 깊은 공원 안에 위치해 있지만 시설이 낙후되어 최근 관람객이 눈에 띄게 줄었습니다.
+      <p/>
+		동물원 이사회에서 고민 끝에 여러분에게 도움을 요청해 왔습니다. 여러분은 적은 자금을 가지고 이동 시설에 대한 지식과 동물원 기본 설계를 최대한 활용해 낙후된 동물원을 21세기형 최첨단 동물원으로 리모델링해야 합니다.
+		<p/>
+		이사회에서는 두 가지 목표를 알려주었습니다. 첫째, 1년 안에 투어 등급이 별 4개인 투어를 만드세요. 투어에 지프나 리프트를 사용할 수도 있습니다. 둘째, 1년 안에 동물원 명성을 별 5개까지 올리세요. 1년 안에 두 가지 목표를 모두 완수하면 시나리오가 완료됩니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsFailure"  >1년이 지났지만 투어 등급을 별 4개로 올리고 동물원 명성을 별 5개까지 올리지 못했습니다. 동물원 이사회는 여러분이 시립 동물원의 리모델링 작업에 적합하지 않다고 판단해 더 이상 동물원 운영을 맡기지 않기로 했습니다. 목표를 달성하지 못했습니다. 다음 번에는 꼭 성공하시기 바랍니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsSuccessOverview"  >
+      1년 안에 투어 등급을 별 4개까지 올리고 동물원 명성을 별 5개까지 올렸습니다. 시립 동물원은 이제 명소가 되었습니다! 이사회는 여러분의 성과를 치하하기 위해 특별상을 주기로 결정했습니다. 여러분은 이제 우리 도시의 스타예요. 축하합니다!
+      <p/>
+      이 캠페인을 마쳐서 장식 투어 입구를 사용할 수 있게 되었습니다. 이 상은 Zoo Tycoon 2: Endangered Species의 모든 게임에서 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsGrant"  >동물원 이사회는 동물원 발전 모습에 만족해하며 포상으로 지원금을 제공했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsOverallGoal"  >1년 안에 투어 등급을 별 4개로 올리고 동물원 명성을 별 5개까지 올리세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsOverallGoalDone"  >투어 등급을 별 4개로 올리고 동물원 명성을 별 5개까지 올렸습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsTourGoal"  >1년 안에 지프나 리프트를 사용해 투어 등급을 별 4개까지 올리세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsTourGoalDone"  >투어 등급을 별 4개까지 올렸습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsFameGoal"  >1년 안에 동물원 명성을 별 5개까지 올리세요. 
+		</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaign:ReachForStarsFameGoalDone"  >동물원 명성을 별 5개까지 올렸습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignshort"  >이동 시설</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS1"  >사바나 대평원</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS1short"  >사바나 대평원</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS2"  >계곡 연결하기</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS2short"  >계곡 연결하기</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS3"  >초특급 동물원 만들기</LOC_STRING>
+      <LOC_STRING _locID="TransportationCampaignLabels:TransportationCampaignS3short"  >초특급 동물원 만들기</LOC_STRING>
+   
+</ZT2Strings>

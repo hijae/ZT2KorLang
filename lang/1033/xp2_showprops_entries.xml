@@ -1,0 +1,213 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_showprops:entry"  >공연 도구</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showprops:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>일부 공연에는 도구가 필요합니다. 필요한 도구는 묘기를 시작할 준비가 되면 자동으로 나타납니다.
+			<p/>공연 도구에 대한 정보를 보려면 왼쪽 목록에서 해당 공연 도구의 이름을 클릭하세요.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_basketballhoop_small_mm:entry"  >소형 농구 골대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_basketballhoop_small_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/BasketbolHoop_Small_mm/BasketballHoop_Small_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자는 훈련을 받으면 소형 농구 골대에 공을 던져넣는 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_basketballhoop_mm:entry"  >대형 농구 골대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_basketballhoop_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/BasketballHoop_mm/Basketball_Hoop_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해달은 훈련을 받으면 대형 농구 골대에 매달리는 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hoop_mm:entry"  >후프</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hoop_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Hoop_mm/Hoop_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>여러 해양 동물들이 후프를 이용한 멋진 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_horns_mm:entry"  >나팔</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_horns_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Horns_mm/Horns_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자와 태평양바다코끼리는 나팔로 음악을 연주하는 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pileofrocks:entry"  >바위 더미</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pileofrocks:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/PileOfRocks/PileOfRocks_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해달은 바위 더미를 이용한 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shakertoy:entry"  >흔들 장난감</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shakertoy:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/ShakerToy/ShakerToy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>해달은 먹이가 든 흔들 장난감으로 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealseat:entry"  >단상 의자                            </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealseat:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/SealSeat/SealSeat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자와 태평양바다코끼리는 단상 의자로 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealslide:entry"  >미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealslide:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/SealSlide/SealSlide_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자와 태평양바다코끼리는 미끄럼틀에서 멋진 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealswing:entry"  >그네</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealswing:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/SealSwing/SealSwing_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자와 태평양바다코끼리는 그네에서 환상적인 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_slidingplatform:entry"  >특별 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_slidingplatform:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/SlidingPlatform/SlidingPlatform_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>병코돌고래와 범고래 같은 고래류 동물은 특별 미끄럼틀에서 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tetherball_mm:entry"  >테더볼</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tetherball_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TetherBall_mm/TetherBall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>여러 해양 동물들이 테더볼로 다양한 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trampoline:entry"  >트램펄린</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trampoline:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/SealTrampoline/SealTrampoline_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>캘리포니아바다사자는 트램펄린으로 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_smallball:entry"  >작은 묘기 공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_smallball:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Ball_mm/BallSmall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>여러 해양 동물들이 작은 묘기 공으로 다양한 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeball:entry"  >큰 묘기 공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeball:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Ball_mm/BallLarge_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>여러 해양 동물들이 큰 묘기 공으로 다양한 묘기를 부릴 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+
+</ZT2Strings>

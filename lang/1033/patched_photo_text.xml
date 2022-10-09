@@ -1,0 +1,71 @@
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:CenterAnimalConservationtext"  >
+      <PHCenterAnimalConservation version="2">
+         
+         
+         
+
+		(멸종 위기 동물 챌린지) 동물 보호 센터에서는 멸종 위기에 처한 동물 사진 경연 대회를 개최했습니다. 
+		우승자는 동물 보호 사진상과 $15,000를 받게 됩니다. 
+		대회에 참가하려면 벵골 호랑이, 눈표범, 마운틴고릴라, 
+		회색곰 사진을 찍으세요.
+		
+         
+         
+         <br/>
+         
+         
+         
+   		난이도: 중급
+   	
+      
+      
+      </PHCenterAnimalConservation>
+      <PHCenterAnimalConservationShort>
+         
+         
+         
+   		도전하려면 다음 동물의 사진을 한 장씩 찍으세요.  
+   		
+         
+         
+         <p/>
+         
+         
+         
+   		*  벵골 호랑이
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  눈표범
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  마운틴고릴라
+   		
+         
+         
+         <br/>
+         
+         
+         
+   		*  회색곰
+   	
+      
+      
+      </PHCenterAnimalConservationShort>
+      <PHCenterAnimalConservationThemePromo>
+2개의 멸종 위기 동물 챌린지를 완료하면 멸종 위기 동물 아이템을 사용할 수 있습니다!
+	</PHCenterAnimalConservationThemePromo>
+
+   </LOC_STRING>
+
+</ZT2Strings>

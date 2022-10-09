@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kingsagotree:entry"  >Palm, King Sago</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kingsagotree:text"  >
+     <color r="255" g="255" b="255">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+       <cell width="150">
+        <img src="entities/objects/foliage/KingSagoPlant_Rainforest/KingSagoPlant_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+       </cell>
+       <cell pady="15" width="400">
+        King Sago Palm is a cycad, a common name for a phylum of slow-growing, palmlike plants and also for its representative genus. Today, only 11 genera and 150 species of cycads occur, but during the age of the dinosaurs -- the Jurassic Period, some 200 million years ago -- they were the dominant plant life. Cycads are primitive gymnosperms ("naked seed" plants) with motile sperm cells that produce exposed seeds in conelike clusters at the apex of the plants. They occur in tropical, subtropical, and warm temperate areas. Most are large plants of unbranched columnar stems with frondlike leaves clustered at the tip. The only species that occurs in the United States is found in the sandy woods of Florida. This and other species are a source of sago, used to make bread and other starchy foods. Cycads are evergreens with attractive foliage. Frequently, they are cultivated for their horticultural value. One species, the Sago Cycas, is a popular bonsai subject. Most cycads are in danger of extinction because of indiscriminate collectors.
+         </cell>
+         </cell>
+			<p/>        
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+      </cell>
+     </color>
+    </LOC_STRING>
+ 
+</ZT2Strings>

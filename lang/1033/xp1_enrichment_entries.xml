@@ -1,0 +1,95 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_durianfruit:entry"  >두리안</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_durianfruit:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/DurianFruit_df/DurianFruit_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      동남아시아가 원산지인 두리안나무에 맺히는 크고 가시가 많은 열매로 오랑우탄이 좋아합니다. 고약한 냄새 때문에 싫어하는 사람도 있지만 대부분이 좋아하는 과일입니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saltlick:entry"  >소금 덩어리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saltlick:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SaltLick_df/SaltLick_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+필요한 염분을 섭취할 수 있어 유제류 동물이 좋아합니다. 소금 덩어리에는 동물들 건강에 필수적인 철분, 요오드 등의 무기물도 소량 포함되어 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_feederball:entry"  >사육용 공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_feederball:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/FeederBall_df/FeederBall_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+안에 먹이가 들어 있는 공입니다. 모든 동물들이 잘 갖고 놀며, 특히 영장류 동물은 사육용 공 안에 이겨놓은 바나나를 꺼내 먹는 것을 좋아합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantlog:entry"  >코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephantlog:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/ElephantLog_df/ElephantLog_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+코끼리는 코로 이 통나무를  들어올리며 잘 가지고 놉니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tireswing:entry"  >타이어 그네</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tireswing:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/TireSwing_df/TireSwing_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+오랑우탄, 침팬지 등의 영장류 동물이 좋아합니다. 튼튼해서 동물들의 별난 장난에도 끄떡없습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_catclimber:entry"  >호랑이 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_catclimber:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/CatClimber_end/CatClimber_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+호랑이 같은 고양이과 동물들이 올라가 쉬기도 하고 등을 비비기도 하는 대형 구조물입니다.
+		<p/>
+호랑이 바위를 사용하려면 사진 찍기 캠페인을 완료해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+ 
+</ZT2Strings>

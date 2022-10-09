@@ -1,0 +1,139 @@
+﻿	<ZT2Strings>
+      <LOC_STRING _locID="Challengetext:CHBelugaTraining"  >고래 조련 협회에서 초보 조련사들을 위한 장려금을 마련했다고 합니다. 두 달 안에 흰돌고래의 점프 묘기를 점 3개까지 훈련시키면 협회로부터 $2,500의 장려금을 받을 수 있습니다.
+			<br/>
+   			난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBelugaTrainingShort"  >흰돌고래의 점프 묘기를 점 3개까지 훈련시키고 $2,500의 장려금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBelugaTrainingSuccessShort"  >흰돌고래의 점프 묘기를 점 3개까지 훈련시켜서 $2,500의 장려금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBelugaTrainingSuccess"  >대단합니다! 두 달 안에 흰돌고래의 점프 묘기를 점 3개까지 훈련시켰습니다. 고래 조련 협회로부터 $2,500의 장려금을 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBelugaTrainingFailureShort"  >두 달 동안 흰돌고래의 점프 묘기를 점 3개까지 훈련시키지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHBelugaTrainingFailure"  >두 달이 지났지만 흰돌고래의 점프 묘기가 점 3개에 미치지 못했습니다. 고래 조련 협회가 지급하는 장려금을 받을 수 있는 자격이 안 됩니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRay"  >세계 가오리 보호 협회는 전 세계의 가오리와 홍어를 사람들에게 알리는 일을 하고 있습니다. 이 협회에서 한 달 안에 쥐가오리 3마리를 입양하면 TV 특집 방송에서 여러분의 동물원을 다루겠다는 의사를 전달했습니다. 그렇게 되면 관람객들에게 큰 인기를 얻게 되어 동물원의 명성이 오를 것입니다.
+			<br/>
+   			난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRayShort"  >한 달 안에 쥐가오리 3마리를 입양하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRaySuccessShort"  >한 달 안에 쥐가오리 3마리를 입양해서 동물원의 인기가 더 높아졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRaySuccess"  >한 달 안에 쥐가오리 3마리를 입양하자 세계 가오리 보호 협회가 여러분의 동물원에서 쥐가오리 특집을 촬영했습니다. 이 방송이 나간 후에 관람객이 늘어 동물원 명성이 올랐습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRayFailureShort"  >한 달이 지났지만 쥐가오리 3마리를 입양하지 못해서 동물원을 홍보할 기회를 놓쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMantaRayFailure"  >한 달이 지났지만 쥐가오리 3마리를 입양하지 못했습니다. 세계 가오리 보호 협회는 다른 동물원에서 특집 방송을 촬영하기로 했습니다. 여러분의 동물원을 홍보할 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonations"  >바다 장난감 회사에서 해양 기념품을 여러분의 동물원에서 판매하고 싶다는 의사를 전달했습니다. 하지만 먼저 동물원에서 해양 동물에 큰 관심과 애정이 있다는 것을 보여주어야 합니다. 두 달 안에 해양 동물 관련 기부금으로 $500를 모으면 바다 장난감 회사에서 무료로 해양 기념품 가판대를 제공하겠다고 합니다.   
+			<br/>
+   			난이도: 초급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonationsShort"  >두 달 안에 해양 동물 관련 기부금으로 $500를 모아서 무료 해양 기념품 가판대를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonationsSuccessShort"  >두 달 안에 해양 동물 관련 기부금으로 $500를 모아서 바다 장난감 회사로부터 해양 기념품 가판대를 무료로 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonationsSuccess"  >잘했습니다! 두 달 안에 해양 동물 관련 기부금으로 $500를 모았습니다. 바다 장난감 회사에서 여러분의 동물원을 믿고 무료로 해양 기념품 가판대를 제공했습니다. 가판대는 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonationsFailureShort"  >두 달이 지났지만 해양 동물 관련 기부금으로 $500를 모으지 못해서 해양 기념품 가판대를 받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineDonationsFailure"  >두 달이 지났지만 해양 동물 관련 기부금으로 $500를 모으지 못했습니다. 바다 장난감 회사에서는 여러분의 동물원이 해양 동물 전시에 별 관심이 없는 것으로 생각합니다. 무료로 해양 기념품 가판대를 얻을 수 있는 기회를 놓쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescue"  >(해양 동물 챌린지) 온순하고 느린 바다소는 주로 얕은 물에서 휴식을 취하기 때문에 특히 모터 보트가 자주 다니는 지역에서 사고를 당하는 경우가 많습니다. 매년 수십 마리의 바다소가 모터 보트와 충돌해 죽거나 다치고 있습니다.
+      <p/>
+      해양 전문대학의 해양 생물학자들이 모터 보트와 충돌해 부상을 입은 바다소를 구출했습니다. 그들은 여러분의 동물원에서 바다소를 돌봐주다가 회복이 되면 야생으로 돌려 보내기를 원하고 있습니다. 두 달 안에 바다소를 야생으로 돌려보내면 대학에서 들쇠고래를 기증하겠다고 합니다.
+      <p/>
+      두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueShort"  >상처 입은 바다소를 돌보다가 두 달 안에 야생으로 돌려보내고 들쇠고래를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueSuccessShort"  >상처 입은 바다소를 돌보고 야생으로 돌려보내서 해양 전문대학으로부터 들쇠고래를 기증받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueSuccess"  >잘했습니다! 바다소는 건강하고 행복한 상태로 야생으로 돌아갔습니다. 해양 전문대학에서는 감사의 표시로 들쇠고래를 기증했습니다. 들쇠고래는 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueFailureShort"  >두 달이 지났지만 바다소를 회복시켜 야생으로 돌려보내는 데 실패했습니다. 들쇠고래를 받을 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueFailureDeadline"  >두 달이 지났지만 바다소가 회복되지 않았습니다. 해양 전문대학에서는 바다소를 더 잘 돌볼 수 있는 다른 동물원으로 옮기기로 결정했습니다. 들쇠고래를 받을 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHManateeRescueFailureDeath"  >바다소의 상태를 확인하려고 해양 전문대학에서 나온 연구원들은 바다소가 동물원에 있지 않다는 사실에 충격을 받았습니다! 연구원들은 바다소가 사라져서 매우 실망했습니다. 들쇠고래를 받을 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortium"  >(해양 동물 챌린지) 해양 동물보호 협회는 해양 동물 번식을 위해 노력하고 있는 단체입니다. 앞으로 두 달 안에 3종의 해양 동물을 번식시키면 그 비용을 협회가 지불하겠다고 합니다. 번식 비용은 동물에 따라 다릅니다.
+      <p/>
+      두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumShort"  >두 달 안에 해양 동물 3종을 번식시키세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumSuccessShort"  >해양 동물 3종이 각각 새끼를 낳아서 번식 비용을 지원받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumSuccess"  >잘했습니다! 해양 동물 3종을 번식시켰습니다. 해양 동물의 번식에 기여한 공로를 인정해 해양 동물보호 협회에서 지원금을 제공하기로 했습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumFailureShort"  >두 달 안에 해양 동물 3종을 번식시키지 못해서 번식 비용을 지원받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumFailure"  >두 달이 지났지만 해양 동물 3종을 번식시키지 못해서 해양 동물보호 협회의 번식 비용을 지원받을 수 없습니다. 다음에는 행운을 바랍니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumOneBred"  >잘했습니다! 해양 동물 1종이 새끼를 낳았습니다. 해양 동물보호 협회로부터 번식 비용을 지원받으려면 해양 동물 2종을 더 번식시키세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineConservationConsortiumTwoBred"  >잘했습니다! 또 다른 해양 동물 1종이 새끼를 낳았군요. 1종만 더 번식시키면 해양 동물보호 협회로부터 번식 비용을 지원받을 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisit"  >(해양 동물 챌린지) 국제적인 명성을 얻고 있는 야생동물 사진작가인 엘리너 씨가 여러분의 동물원을 방문한다고 합니다! 엘리너 씨는 사진을 찍기 위한 여행을 떠나기 전에 여러분의 동물원에서 몇몇 연안 해양 동물의 사진을 찍고 싶어합니다.
+      <p/>엘리너 씨가 보고 싶어하는 연안 동물은 바다소, 해달 및 록호퍼펭귄입니다. 엘리너 씨가 이 3종의 동물 사진을 사진집으로 내면 동물원의 명성이 오르고 관람객도 늘어날 것입니다!
+      <p/>
+      힌트: 엘리너 씨가 동물원에 머무는 동안 만족스러운 기분을 느끼도록 하세요. 엘리너 씨를 만족시키지 못하면 3종의 동물을 모두 보기 전에 동물원을 떠나버릴 수 있습니다.
+      <p/>
+      두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!      
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitShort"  >야생동물 사진작가인 엘리너 씨가 여러분의 동물원에서 바다소, 해달, 록호퍼펭귄의 사진을 찍는다면 관람객이 늘고 동물원 명성도 높아질 것입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSuccessShort"  >야생동물 사진작가인 엘리너 씨가 여러분의 동물원에서 3종의 연안 동물 사진을 찍으면서 동물원의 명성이 높아지고 관람객도 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSuccess"  >야생동물 사진작가인 엘리너 씨가 여러분 동물원에서 원하던 3종의 동물을 모두 관람했습니다! 엘리너 씨의 호의적인 평가 덕분에 동물원의 명성이 높아지고 관람객도 늘었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitFailureShort"  >야생동물 사진작가인 엘리너 씨가 원하던 3종의 동물을 관람하지 않고 떠났습니다. 동물원 명성을 높일 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitFailure"  >야생동물 사진작가인 엘리너 씨가 동물원에 자신이 원하던 3종의 동물이 없다는 사실에 무척 실망했습니다. 엘리너 씨가 자신의 새 사진집에 여러분의 동물원을 싣지 않기로 했습니다. 동물원 명성을 높일 수 있는 기회를 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitArrival"  >야생동물 사진작가인 엘리너 씨가 동물원에 도착했습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeManatee"  >야생동물 사진작가인 엘리너 씨에게 바다소를 보여주세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeOtter"  >야생동물 사진작가인 엘리너 씨에게 해달을 보여주세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeRockhopper"  >야생동물 사진작가인 엘리너 씨에게 록호퍼펭귄을 보여주세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeManateeDone"  >야생동물 사진작가인 엘리너 씨가 바다소를 관람했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeOtterDone"  >야생동물 사진작가인 엘리너 씨가 해달을 관람했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitSeeRockhopperDone"  >야생동물 사진작가인 엘리너 씨가 록호퍼펭귄을 관람했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitPhotographerGone"  >야생동물 사진작가인 엘리너 씨가 동물원을 떠났습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPhotographerVisitPhotographerName"  >엘리너</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTraining"  >(해양 공연 챌린지) 고래 조련 협회가 매년 돌고래 훈련 장려를 위한 대회를 개최하겠다고 발표했습니다. 올해는 앞 공중제비가 대회 종목이라고 합니다. 두 달 안에 병코돌고래에게 앞 공중제비 묘기를 점 3개까지 훈련시키면 관람객이 늘고 동물원의 명성도 높아질 것입니다.
+      <p/>두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!      
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingChoice"  >두 달 안에 병코돌고래의 서서 걷기 묘기를 점 3개까지 훈련시키면 관람객이 늘고 동물원의 명성도 높아집니다. 
+      <p/>
+      두 달 안에 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시키면 지원금 $20,000를 받습니다.
+      <p/>
+      어느 종목에 참가하시겠습니까?</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:TrickOneName"  >서서 걷기</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:TrickTwoName"  >앞 공중제비</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingShort"  >고래 조련 협회가 주최하는 대회에 참가하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingTrickOneShort"  >두 달 안에 병코돌고래의 서서 걷기 묘기를 점 3개까지 훈련시켜서 관람객에게 인기를 얻고 동물원 명성도 높이세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingTrickTwoShort"  >두 달 안에 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시켜서 관람객을 늘리고 동물원의 명성도 높이세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingSuccessTrickTwoShort"  >두 달 안에 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시켜서 관람객이 늘고 동물원의 명성도 높아졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingSuccessTrickTwo"  >두 달 안에 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시켜서 우승을 차지했습니다! 상으로 고래 조련 협회가 일련의 동물원 홍보용 TV 광고 제작을 지원했습니다. 이 방송이 나간 후에 관람객이 늘고 동물원 명성이 높아졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingFailureTrickTwoShort"  >두 달이 지났지만 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시키지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHDolphinTrainingFailureTrickTwo"  >대회가 끝났습니다. 두 달 안에 병코돌고래의 앞 공중제비 묘기를 점 3개까지 훈련시키지 못해서 무료로 동물원을 홍보할 수 있는 기회를 놓쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStar"  >(해양 공연 챌린지) 세계적으로 유명한 돌고래 스타 델리아가 전국 순회 공연 중입니다. 예약 비용 $3,000를 지불하면 델리아가 두 달 동안 여러분의 동물원에 머물게 됩니다. 델리아처럼 유명한 돌고래가 공연에 참여하면 동물원 명성과 기부금이 크게 높아질 것입니다. 하지만 이런 유명 동물은 특별이 더 신경 써서 돌봐야 합니다. 만약 여러분의 동물원에 머무는 동안 델리아의 생활 조건 중 하나라도 위험 상태가 되면 델리아는 즉시 동물원을 떠날 것입니다. 그러면 인기도가 낮아지면서 동물원 명성도 떨어집니다. 특히 공연이 진행되는 동안 델리아의 상태를 주의 깊게 살펴보세요!
+      <p/>힌트: 델리아가 머무는 수조는 연안 물로 채워주세요. 그렇지 않으면 이 까다로운 유명 스타는 공연도 하지 않고 동물원을 떠나고 맙니다.
+      <p/>두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!       
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarShort"  >델리아가 동물원에 머무는 두 달 동안 만족도가 위험 상태가 되지 않도록 주의하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarSuccessShort"  >델리아가 동물원에 머무는 두 달 동안 만족도가 위험 상태가 되지 않도록 잘 돌보았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarSuccess"  >델리아의 공연은 대성공을 거두었습니다! 관람객들은 델리아의 묘기에 열광했습니다. 델리아를 만족한 상태로 잘 돌보았습니다. 순회 공연 중인 델리아는 이미 다른 동물원으로 떠났지만 관람객들은 항상 그 모습을 기억할 것입니다. 델리아 덕분에 관람객이 크게 늘었습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarFailureShort"  >델리아를 만족한 상태로 돌보지 못해서 동물원을 떠나고 말았습니다. 인기도가 낮아지면서 동물원 명성도 떨어졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarFailure"  >델리아가 불만스러워 하고 있습니다! 전속 조련사가 델리아를 보호하기 위해서 동물원을 떠나기로 결정했습니다. 불행하게도 이 소식이 알려지면서 동물원의 인기가 떨어졌습니다. 다음 달에는 관람객도 줄 것으로 보입니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHAnimalStarAnimalName"  >델리아</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurge"  >동물원에 갑작스런 정전이 있었습니다! 대부분의 지역은 조명이 잠깐 깜박이는 정도로 그쳤지만 민감한 전기 부품이 들어있는 정수 필터가 모두 고장 나버렸습니다!
+      <p/>그나마 정수 필터가 보험에 가입되어 있어서 다행입니다. 하지만 보험 회사로부터 피해 보상을 받으려면 시간이 걸립니다. 보험 회사에서 새로운 필터를 무료로 보내줄 때까지 기다릴지, 아니면 즉시 새 필터를 구입할지 결정해야 합니다.
+      <p/>보험 처리를 선택하면 두 달 후에 보험 회사로부터 무료로 새 필터를 받을 수 있습니다. 그리고 비상 처리 비용 명목으로 보험 회사로부터 $5,000를 받게 됩니다. 그러나 그때까지 새 필터를 구입할 수 없습니다. 따라서 그 기간 동안은 사육사를 시키거나 직접 수조를 청소해야 합니다!
+      <p/>새 필터 구입을 선택하면 즉시 필터를 구입할 수 있지만 보험 회사로부터 보상금을 받을 수 없습니다.
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurgeShort"  >보험 회사가 새 필터를 제공할 때까지 두 달 동안 직접 수조를 청소하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurgeSuccessShort"  >보험 회사가 새 필터를 제공할 때까지 두 달 동안 직접 수조를 청소했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurgeSuccess"  >드디어 보험 회사에서 보낸 필터가 도착했습니다! 새 필터는 동물원 입구 부근의 상자에 있습니다. 보험 회사는 예상치 못한 정전에 의한 비상 처리 비용 $5,000도 지급했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurgeBuyFilters"  >새 필터 구입</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHPowerSurgeWait"  >보험 처리</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducators"  >해양 전문대학에서 일반인을 대상으로 해양 생태계 교육을 실시하는 방법을 연구 중입니다. 이 챌린지를 수락해서 연구에 참가하면 참가비로 $500를 지불하고 최소 두 달 동안 두 명의 안내원을 고용해야 합니다. 
+      <p/>두 달의 연구 기간 동안 한 명 또는 두 명의 안내원을 모두 해고하면 챌린지는 실패합니다. 두 명의 안내원이 두 달 동안 계속 일을 하면 해양 전문대학에서 새끼 고래상어를 기증한다고 합니다! 
+      <p/>힌트: 새로운 안내원을 고용하면 가장 인기가 높은 우리에 연단을 설치하세요. 안내원이 연단에서 일하게 되면 교육 관련 기부금이 크게 늘 것입니다!
+      <br/>
+      난이도: 중급</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsAccepted"  >해양 전문대학은 여러분이 연구에 참가하기로 결정한 것을 크게 반기고 있습니다! 참가비 $500가 은행 계좌에서 인출되었고 두 명의 안내원이 새로 고용되어 동물원에 도착했습니다. 안내원들은 동물원 입구에 있습니다. 앞으로 두 달 안에 새로 온 안내원 중 한 사람이라도 해고하면 시나리오에 실패하는 동시에 대학으로부터 새끼 고래상어도 받을 수 없게 된다는 것을 명심하세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsShort"  >두 달 동안 새로 온 두 명의 안내원에게 급여를 주면서 계속 일하게 해 새끼 고래상어를 기증받으세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsSuccessShort"  >두 달 동안 새로 온 두 명의 안내원에게 급여를 주면서 계속 일하게 해 새끼 고래상어를 기증받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsSuccess"  >두 달이 지나고 해양 전문대학의 연구가 끝났습니다. 대학에서는 안내원들이 제공한 정보를 바탕으로 일반인들을 위한 새로운 해양 생태계 교육 방법을 개발할 수 있게 되었습니다. 연구 협조에 대한 감사의 뜻으로 대학에서 새끼 고래상어를 기증했습니다. 새끼 고래상어는 동물원 입구 부근의 상자에 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsFailureShort"  >두 달 동안 새로 온 두 명의 안내원에게 급여를 주면서 계속 일하게 하지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHHireEducatorsFailure"  >안내원을 해고하면서 해양 전문대학과의 연구 협조 약속을 깨고 말았습니다. 대학 관계자들이 크게 실망하면서 여러분은 연구에서 제외되었습니다. 이 소식이 알려지면서 동물원의 인기가 떨어졌습니다. 무료로 새끼 고래상어를 얻을 수 있는 기회도 놓치고 말았습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagement"  >스트레스 연구위원회는 스트레스를 없애는 방법을 연구하는 자문 회사입니다. 동물원을 대상으로 한 연구를 시작한 연구위원회에서 스트레스 관리 기법을 시험해 달라는 부탁을 해왔습니다.
+      <p/>스트레스 연구위원회에 따르면 관람객이 스트레스를 받는 가장 큰 원인은 피로라고 합니다. 충분한 휴식을 취한 관람객이 행복을 느끼는 것입니다! 두 달 동안 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘지 않으면 스트레스 연구위원회에서 스트레스 완화 실험을 실시해준 데 대한 보상으로 $5,000를 기부한다고 합니다. 관람객들에게 더 큰 만족감을 줄 수도 있습니다. 힌트: 동물원에 벤치, 테이블, 쉼터를 충분히 설치하세요.
+      <br/>
+      난이도: 다양함</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementShort"  >두 달 동안 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘지 않도록 유지해서 $5,000를 기부받고, 관람객들에게 더 큰 만족감을 주세요.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementSuccessShort"  >두 달 동안 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘지 않도록 유지해서 $5,000를 기부받고, 관람객들에게 더 큰 만족감을 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementSuccess"  >잘했습니다! 두 달 동안 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘지 않았습니다. 관람객들은 충분한 휴식을 취하고 행복한 상태입니다! 스트레스 연구위원회에서 스트레스 관리 기법을 실험해준 데 대한 감사의 표시로 $5,000를 기부했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementFailureShort"  >두 달 동안 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘어서 스트레스 연구위원회의 기부금을 받지 못했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementFailure"  >불행하게도 휴식 상태가 위험에 도달한 관람객이 다섯 명을 넘었습니다. 스트레스 연구위원회로부터 $5,000를 기부받을 수 없게 되었으며 관람객들의 만족도를 높일 기회도 놓치고 말았습니다. 앞으로는 벤치, 테이블, 쉼터를 충분히 설치하세요!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementOneCritical"  >관람객 한 명의 휴식 상태가 위험에 도달했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementTwoCritical"  >관람객 두 명의 휴식 상태가 위험에 도달했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementThreeCritical"  >관람객 세 명의 휴식 상태가 위험에 도달했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHStressManagementFourCritical"  >관람객 네 명의 휴식 상태가 위험에 도달했습니다.</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineShowChallengePromo"  >두 가지 해양 공연 챌린지를 완료하면 대형 스크린을 사용할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="Challengetext:CHMarineAnimalChallengePromo"  >두 가지 해양 동물 챌린지를 완료하면 살아있는 노랑살다랭이를 사용할 수 있습니다!</LOC_STRING>
+</ZT2Strings>

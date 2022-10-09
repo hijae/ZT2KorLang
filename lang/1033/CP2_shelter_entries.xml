@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:entry"  >Burrow, Grasslands</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+						The grasslands burrow is perfect for small grasslands animals, like the Warrah. They enjoy sleeping in the dark underground environment it provides.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry"  >Rock Shelter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text"  >
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+ 						This large rock structure is a sturdy shelter, suitable for almost all of your extinct animals. Any extinct animal that likes a cool, refreshing quiet place will enjoy the rock shelter. The refreshing waterfall built into the exterior is both aesthetically pleasing and calming to the animals.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING> 
+ 
+</ZT2Strings>	

@@ -1,0 +1,54 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_fooddish" version="9" />
+      <LOC_STRING _locID="zoopedia_fooddish:entry" version="9"  >Food Dish</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fooddish:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+               A food dish holds food or water for your animals. It doesn't hold as much as a food 
+               trough, so you have to refill it more often.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trough" version="9" />
+      <LOC_STRING _locID="zoopedia_trough:entry" version="9"  >Trough</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trough:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Trough/Trough_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+               A food trough is a large container that can feed many animals at the same time. It 
+               holds a lot more than a food dish, so you don't have to refill it as often.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

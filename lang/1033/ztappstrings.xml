@@ -1,0 +1,10 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ztapp:general_regkey">Software\Microsoft\Microsoft Games\Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_eula_filename">eula.rtf</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_warranty_filename">warranty.rtf</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_eula_dll_name">eula.dll</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_eula_required_title">EULA의 내용에 동의하셔야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_eula_required_text">Zoo Tycoon 2 게임을 하시려면 EULA의 내용에 동의하셔야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_cd_required_title">Zoo Tycoon 2 CD가 필요합니다.</LOC_STRING>
+      <LOC_STRING _locID="ztapp:general_cd_required_text">Zoo Tycoon 2 CD-ROM을 삽입하십시오.</LOC_STRING>
+</ZT2Strings>

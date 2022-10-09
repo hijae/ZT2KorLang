@@ -1,0 +1,265 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6" />
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6"  >말코손바닥사슴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">북방림</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북아메리카</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+강: 포유류                                                                            
+                     (Mammalia)
+                     <br/>
+목: 소목                                                        
+                     (Artiodactyla)
+                     <br/>
+과: 사슴과                                                        
+                     (Cervidae)
+                     <br/>
+속:		                                                       
+                     Alces
+                     <br/>
+종:	                                                       
+                     alces
+                     <br/>
+아종:	                                                       
+                     americana
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">말코손바닥사슴에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">말코손바닥사슴 어미는 새끼를 얕은 물가로 데려가서 물 속에 서 있게 해서 늑대로부터 보호합니다. 늑대는 먹이가 물속에 들어가면 대개 사냥을 포기하기 때문입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">말코손바닥사슴은 늑대를 피해 주로 호수나 습지로 도망갑니다. 이러한 지역은 물이 얼어서 늑대가 쫓아올 수 있을 때를 제외하고는 안전합니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">말코손바닥사슴은 최대 5.4m까지 잠수하여 30초 동안 물 속에서 수생 식물과 뿌리를 섭취할 수 있습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">말코손바닥사슴은 어깨까지의 높이가 최대 2m에 달합니다.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 말코손바닥사슴을 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.
+            </color>
+            <p/>말코손바닥사슴은 사슴과에 속하는 종 가운데 가장 큰 종을 일컫는 이름입니다. 말코손바닥사슴의 영문 이름인 "moose"는 북아메리카 원시 부족인 알곤킨족의 말에서 따 온 것으로 "작은 가지를 먹는 동물"이라는 뜻입니다. 이 이름대로 말코손바닥사슴은 나뭇잎과 가지를 주식으로 합니다. 유럽과 아시아에서는 큰 뿔 사슴이라고 하며 동쪽으로는 시베리아, 서쪽으로는 노르웨이, 발트해 지역, 중국 북부 등 아시아와 유럽 북부의 삼림 지대에 서식하고 있습니다. 북아메리카에서는 캐나다와 미국 북부의 삼림 지대에서 말코손바닥사슴이 발견됩니다. 북아메리카에서 큰 뿔 사슴으로 알려진 사슴은 와피티라고도 불립니다. 말코손바닥사슴은 몸집이 큰 동물이며, 수컷은 어깨까지의 높이가 2m에 달합니다. 몸무게가 726kg이 넘는 수컷도 있습니다. 말코손바닥사슴은 다리가 아주 길기 때문에 낮은 관목과 작은 나무의 잎을 뜯어먹을 수 있고 얕은 물에 들어가 수생 식물을 섭취할 수 있습니다. 말코손바닥사슴은 물속에서 쉽게 움직이며 헤엄 실력이 뛰어납니다.                                    
+            <p/>말코손바닥사슴은 머리가 크고 윗입술(콧등 부분)이 돌출되어 있습니다. 목에는 털과 가죽이 발달하여 생긴 종 모양의 살주머니가 늘어져 있습니다. 말코손바닥사슴의 거대한 귀는 끊임없이 움직이며 레이더의 기능을 해서 		청각이 매우 뛰어납니다. 어깨 부분에는 목뼈 부분에서 위쪽으로 돌출된 큰 혹이 있습니다.    		이 혹 부분에는 거대한 머리를 똑바로 세우는 데 필요한 강력한 인대가 연결되어 있습니다.   		말코손바닥사슴의 몸 색깔은 대개 밤색에 가까운 검은색이며 여름에는 얼굴 부분이 밝아져서 밤색이 됩니다. 수컷의 얼굴은 번식기가 가까워질수록 어둡게 바뀌어 짙은 밤색이나 검은색이 됩니다.                        
+            <p/>수컷의 가장 큰 특징은 끝에 갈라진 부분(가지)이 있는 거대한 뿔입니다. 뿔이 두께 1.5m,    		무게가 22.7kg이 넘는 경우도 있습니다. 수컷의 갈라진 뿔은 녹용이라는 부드럽고 영양분이 풍부한 가죽으로    		덮여 있으며, 녹용은 9월 초에 저절로 떨어져서 대개 수컷의 먹이가 됩니다. 갈라진 뿔도 매년 번식기 이후,    		즉 대개 9월 말 정도에 떨어집니다. 나이가 많은 수컷의 뿔은 12월경에 떨어집니다.    		결과적으로 1월 말쯤이면 모든 수컷의 뿔이 떨어지게 됩니다. 그러나 간혹 새끼의 뿔이 2월까지도    		떨어지지 않는 경우가 있습니다. 새 뿔은 4월 초부터 자라기 시작합니다.                        
+            <p/>말코손바닥사슴은 대개 혼자서 생활하지만 번식기에는 최대 12마리 정도의 소규모 집단으로 모여서 생활하는 경우도 있습니다. 이러한 집단 생활은 특히 캐나다의 유콘 지역과 알래스카에서 많이 발견됩니다. 암컷과 수컷 모두 두 살이 되면 번식이 가능합니다. 번식기 동안 수컷은 암컷을 차지하기 위해 다른 수컷과 뿔을 맞대고 싸웁니다. 교미 이후 잉태 기간은 약 230일이며, 대부분의 새끼는 5월 말경에 태어납니다. 암컷은 대개 새끼를 한 마리만 낳지만 두 마리를 낳는 경우도 흔하며, 서너 마리의 새끼를 낳는 경우도 있습니다. 새끼의 털은 붉은색을 띤 밤색이며, 태어날 때의 몸무게는 11kg에서 16kg입니다.                        
+            <p/>말코손바닥사슴의 평균적인 수명은 5년 내지 6년이지만 20년 정도 사는 것도 있습니다. 말코손바닥사슴의    		나이는 가운데 앞니의 뿌리 부분을 관찰하면 알 수 있습니다. 나이테로 나무의 나이를 알 수 있는 것처럼    		가운데 앞니에 있는 원 모양으로 말코손바닥사슴의 나이를 알 수 있는 것입니다. 가운데 앞니에 있는 어두운 원과 밝은 원을 합해진 것마다   		각각 1년을 나타냅니다.                        
+            <p/>말코손바닥사슴의 주식은 계절에 따라 달라집니다. 가을, 겨울, 봄에는 앞선 여름에 자라난 미루나무,    		검은 포플러, 버드나무, 자작나무, 개암나무, 층층나무, 발삼 전나무를 먹습니다. 늦봄과    		초여름에는 소금 온천이나 지표상에 흐르는 물에 들어 있는 자연 소금 침전물을 핥아서 겨울 동안 소모한    		광물질을 보충합니다. 여름에는 물 속에서 자라는 식물을 주로 먹습니다. 말코손바닥사슴은    		물 속에 있는 식물을 뜯어먹기 위해 최대 40초간 잠수할 수 있습니다.    		말코손바닥사슴은 그 크기나 단거리를 시속 58km로 달릴 수 있음에도 불구하고    		늑대와 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">흑곰 또는 회색곰의 먹이가 됩니다.</color>
+               </u>
+            </a> 연구 결과에 의하면 태어난 지 8주 이내의 새끼 중 75%가 곰의 먹이가 될 수 있다고 합니다. 말코손바닥사슴에게 위협이 되는 또 다른 요소는 겨울 진드기입니다. 진드기에 감염되어 피부에 염증이 생긴 말코손바닥사슴은 털을 자꾸 문질러서 진드기를 떨어뜨리게 됩니다. 말코손바닥사슴의 서식지는 대개 겨울이 매우 춥기 때문에 추위에 버티기 위해서는 털이 꼭 필요합니다. 혹독한 겨울 날씨와 심각한 진드기 감염이 겹칠 경우 말코손바닥사슴의 개체 수가 50% 정도 줄어들 수 있습니다.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">제공: 빈스 크리크톤(Vince Crichton)   			                        
+            <br/>내용 출처                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. All rights reserved.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6" />
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6"  >공작</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">온대림</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">아시아</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     강: 조류                                                                             
+                     (Aves)
+                     <br/>
+                     목: 닭목                                                                             
+                     (Galliformes)
+                     <br/>
+                     과: 꿩과(메추라기, 반시, 자고, 목도리뇌조, 	                                                       
+                     <br/>
+                     뇌조, 칠면조                                                                             
+                     (Phasianidae)
+                     <br/>
+                     속: Pavo
+                     <br/>
+                     종:	                                                                            
+                     cristatus
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">공작에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">수컷 공작과 암컷 공작은 잡식성으로서 벌레, 곤충, 작은 뱀, 열매 등을 주식으로 합니다.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            챌린지 또는 캠페인 게임에서 공작을 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.
+            </color>
+            <p/>공작은 꿩과에 속하는 세 가지 종을 통칭하는 이름입니다. 영어로는 흔히 "peacock"이라고 하는데, 이는 사실 수컷을 일컫는 말이고 암컷은 "peahen"이라고 합니다. 공작(인도 공작)과 녹색 공작, 두 종은 아시아에 서식합니다. 세 번째 종인 콩고 공작은 콩고(DRC, 예전의 자이르)에서만 서식하는 것으로 알려져 있습니다. 아시아 공작은 상대적으로 짧은 꽁지깃을 덮고 있는 윗꽁지덮깃이 매우 아름다운 것으로 유명합니다. 공작은 이 윗꽁지덮깃을 세워서 펼쳐 자태를 뽐냅니다. 깃털은 대개 무지개 빛깔의 녹색과 금색이며 "peacock blue"라는 풍부한 색감의 눈 모양의 장식으로 꾸며져 있습니다. 공작의 머리, 목, 가슴, 볏에도 이러한 청색이 나타나며 녹색 공작은 머리, 목, 복부가 녹색입니다. 암컷 공작은 아름다운 꼬리가 없으며 색깔도 수컷에 비해 단조롭습니다. 공작은 지면이나 낮은 나뭇가지에 보금자리를 짓습니다. 잡식성으로서 벌레, 곤충, 작은 뱀, 열매 등을 주식으로 합니다.                                    
+            <p/>공작은 세계 각지에서 길들여서 사육되고 있으며 하와이 섬에는 야생 공작도 있습니다. 품종 개량을 통해 흰색 공작도 생겨났습니다.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         내용 출처 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. All rights reserved.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

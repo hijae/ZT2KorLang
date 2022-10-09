@@ -1,0 +1,160 @@
+<ZT2Strings>
+      <LOC_STRING _locID="genericscenariofailure:animaldiedsick"  >
+   		동물 한 마리가 죽었습니다! 동물원을 성공적으로 운영하려면 동물이 모두 건강해야 합니다. 동물이 죽었으므로 목표를 달성하지 못하게 되었습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1intro"  >월샘 동물 공원 재개발 계획</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1result"  >월샘 동물 공원 재개발에 성공했습니다!</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1overview"  >
+         동물 보호 협회는 월샘 동물 공원의 상태가 동물 복지 기준을 위반하고 있음을 
+         적발했습니다. 우리가 불결하고, 동물들은 먹이와 알맞은 환경을 제대로 공급받지 못하고 있으며 공공 장소에는 쓰레기가 넘치고 있습니다. 그 결과 공원 폐쇄 명령을 받았습니다. 
+         <p/>
+         블루 팽 개발 펀드는 동물원 재개발과 향후 성장을 위한 $10,000의 기부금을 
+         확보했습니다. 동물 보호 협회는 동물의 복지를 위해 현 상태를 개선하는 것이 가장 중요하다고 
+         인정하고 다음과 같은 협의 사항을 제시했습니다. 공원을 청소할 관리원과 우리를 맡을 사육사를 
+         고용해야 합니다. 현재 공원에 있는 동물의 기본적인 생활 조건을 만족시킬 수 있어야 합니다. 이 목표를 달성하면 동물 보호 협회에서 공원을 재평가할 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1overviewshort"  >동물 보호 협회는 월샘 동물 공원의 상태가 동물 복지 기준을 위반하고 있음을 
+         적발했습니다. 블루 팽 개발 펀드의 자금을 사용하여 현재의 황폐한 공원을 
+         훌륭하고 깨끗한 공원으로 바꿔 놓으세요! 이 캠페인의 시나리오를 모두 마치면 꽃장식 아치형 입구를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1needworkers"  >
+      	관리원을 2명 이상 고용해서 쓰레기통의 쓰레기를 모두 치우세요. 최소한 2개 이상의 쓰레기통을 마련해서 
+      	관람객이 증가하면서 늘어날 쓰레기를 처리할 수 있도록 하세요.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1trashempty"  >좋습니다! 쓰레기를 깨끗이 치웠습니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1needkeepers"  >사육사를 2명 이상 고용하여 비위생적인 우리를 청소해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1exhibitsclean"  >좋습니다! 우리가 깨끗해졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1nocash"  >
+      	아쉽게도 블루 팽 개발 펀드에서 제공한 기부금이 재개발 목표를 달성하는 데 
+      	적절하게 사용되지 못했습니다. 현재 운영 상태로는 
+      	시설을 복구하는 일이 거의 불가능합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1meetbasicneeds"  >공원에 있는 동물들의 기본적인 생활 조건을 만족시켜 줘야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S1meetbasicneedsdone"  >훌륭합니다! 모든 동물이 기본적인 관리를 잘 받고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2result"  >월샘 동물 공원 발전이 성공적으로 이루어졌습니다!</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2overview"  >    
+	동물 보호 협회는 청소 결과에 만족하여 공원을 개장하지 못하게 하는 규제를 
+	풀었습니다. 이제 공원을 개장하여 얻은 수익으로 재개발에 박차를 
+	가할 수 있게 되었습니다. 관람객의 시선을 더욱 끌 수 있도록 기존 우리를 개선하고 기부함을 곳곳에 놓아 기부를 받아야 합니다.
+         <p/>     	
+	동물 보호 협회는 공원 개발 능력을 판단하기 위해 새로운 우리 하나를 만들 수 있도록 
+	허용했습니다. 새 우리를 만들어 공원의 동물 수를 늘리고 모든 동물의 추가 생활 조건인 은신처 요구를 
+	만족시켜서 동물들을 제대로 돌볼 수 있다는 것을 보여 줘야 합니다. 
+	적절한 우리를 구입하면 동물들의 은신처 생활 조건을 만족 시키는데 도움이 됩니다. 
+	블루 팽 개발 펀드는 이를 위해 $5,000의 추가 자금을 지원했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2donationbox"  >3개의 기부함을 놓고 기부를 받아야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2havebox"  >좋습니다! 기부함을 통해 관람객이 기부금을 낼 수 있게 되었습니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2adoptanimal"  >동물 한 마리를 입양해서 공원에 총 6마리의 동물이 있도록 해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2havenewanimal"  >새 동물을 보려고 더 많은 관람객이 찾아 올 것입니다!</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2meetprivacy"  >공원에 있는 모든 동물의 은신처 요구를 만족시켜줘야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S2meetprivacydone"  >동물들의 은신처 요구를 만족시켰습니다.</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:C1youwin"  >
+      	동물 보호 협회는 동물 복지가 제대로 이루진 것에 대해 만족했습니다. 이제 월샘 동물 공원에 대한 
+      	모든 제한이 풀렸습니다. 잘했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeathoverview"  >
+      	동물 보호 협회는 최근에 월샘 동물원에서 동물이 죽은 사고에 대해 유감을 표시하고 
+      	동물원에 대한 재평가에 들어가면서 남아 있는 동물들을 
+      	다른 시설로 옮겼습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeath"  >
+      	동물 보호 협회는 최근에 동물이 죽은 사고에 대해 유감을 표시하고 남아 있는 동물들을 
+      	다른 시설로 옮겼습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3intro"  >레인트리 조합 동물 공원</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3result"  >레인트리 조합 동물 공원 개선에 성공했습니다!</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3overview"  >    
+	블루 팽 개발 기금의 계획안이 발표되면서 감독 관청은 지원이 필요한 
+	동물원을 지목했습니다. 재개발 계획에 가장 적합한 시설로 선정된 레인트리 조합 동물 공원은 
+	동물들의 입장을 전혀 고려하지 않고 설계된 시설로 
+	현재 동물들이 살고 있는 우리는 적절한 생활 조건을 갖추고 있지 않습니다. 이제 $5,000의 기금으로 동물들의 서식 환경을 
+	개선해야 합니다. 
+         <p/>   
+	우리 상태가 불량하여 동물원이 폐쇄되었습니다. 자금을 추가로 마련하면 언제든지 동물원을 다시 개장할 수는 있겠지만 
+	관람객들은 지저분한 우리에 있는 동물을 구경하는 것은 별로 좋아하지 않습니다. 기존 동물에게 맞는 환경을 마련하기 전에는
+	공원에 새 동물을 추가할 수 없습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3overviewshort"  >
+      	블루 팽 개발 펀드에서 도움을 절실히 필요로 하는 시설을 찾아냈습니다! 예산을 사용하여 
+      	공원 내 동물들의 생활 환경을 개선하고 공원의 향후 성장에 유리한 환경을 
+      	마련하세요. 이 캠페인의 시나리오를 모두 마치면 꽃장식 아치형 입구를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3goalshort"  >
+      	모든 동물의 환경 조건을 만족시켜야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3goalshortsuccess"  >
+      	좋습니다! 이제 우리의 공간이 넉넉하며 환경 조건도 적당합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S3success"  >
+      	레인트리 조합 동물 공원에서 우리의 도움에 대해 감사해하고 있습니다. 이번 조치에서 배운 교훈을 통해 이 공원은 공간과 환경이 동물을 돌보는 데 있어 매우 중요하다는 사실을 알고 시설을 더욱 
+      	개선해 나갈 것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4intro"  >울버튼 동물 재활 센터</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4result"  >울버튼 동물 재활 센터 검역 완료</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4overview"  >
+      	전문 위원단은 동물들이 여러 가지 심각한 병을 앓고 있다는 것을 지적하면서 우리의 동물 관리 상태를 비난했습니다. 관리 문제로 여론이 집중되자 모든 사육사가 
+      	사표를 제출했습니다! 상황이 더욱 악화되기 전에 새 사육사를 고용하고 동물들의 건강 상태를 회복시켜야 
+      	합니다. 
+         <p/>   
+	현재 동물원에 있는 많은 동물들이 배고픔과 질병에 시달리고 있습니다. 블루 팽 개발 펀드에서 
+	$5,000를 기부했음에도 불구하고 이런 긴급 상황에 대비한 예산이 없기 때문에 
+	전체 자금은 부족한 상태입니다. 직원을 충분히 고용하기 위해서는 
+	계속 입장 수익을 벌어야만 합니다. 관람객은 병든 동물을 구경하는 것을 좋아하지 않으므로 
+	병든 동물을 위한 격리 공간을 만드는 것이 좋습니다. 
+         <p/>  
+	동물원에 대한 소문을 잠재울 수 있는 기자 회견을 열려면 동물들을 다시 건강하게 
+	만들어야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4overviewshort"  >
+      	울버튼 동물 재활 센터의 많은 동물들이 질병을 앓고 있으며 자금도 매우 부족한 상태입니다. 동물들을
+      	다시 건강하게 만들어 동물 질병에 대한 좋지 않은 소문을 잠재워야 합니다. 이 캠페인의 시나리오를 모두 마치면 꽃장식 아치형 입구를 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4foodgoalshort"  >
+      	동물들이 굶주리고 있습니다! 동물들의 배고픔을 해결해 줘야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4foodgoalshortsuccess"  >
+      	훌륭합니다! 동물들의 배고픔이 해결되었습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4sickgoalshort"  >
+      	동물들이 병들었습니다! 모든 동물의 질병을 치료해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4sickgoalshortsuccess"  >
+      	동물원에서 질병이 완전히 사라졌습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4halfwaysuccess"  >
+      	이제 동물들이 충분한 먹이를 먹고 있으며 병도 완전히 나았습니다. 
+      	비평가들에게 동물원을 다시 방문해 달라는 초청장을 발송 했습니다. 현 상태를 유지하면서 
+      	동물원 명성을 별 3개까지 올리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4famegoalshort"  >
+      	동물원 명성을 별 3개까지 올리세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4famegoalshortsuccess"  >
+      	동물원 명성이 별 3개로 올랐습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:S4success"  >
+      	예상한 것보다 더 좋은 결과를 얻었습니다. 비평가들이 이전의 좋지 않았던 동물원 평가를
+      	완전히 취소했습니다. 또한 예쁜 꽃장식 아치형 입구를 선물로 받아 동물원을 더욱 예쁘게 장식할 수 있게 됐습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:Camp1short"  >문제투성이 동물원</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S1"  >월샘 동물 공원 재개발 노력</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S1short"  >재개발</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S3"  >레인트리 조합 동물 공원</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S3short"  >좁은 우리</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S4"  >울버튼 동물 재활 센터</LOC_STRING>
+      <LOC_STRING _locID="C1scenariolabels:S4short"  >재활</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:intro"  >새끼 호랑이</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:overviewshort"  >새끼 호랑이</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:result"  >새끼 호랑이 성공!</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:anothertiger"  >암컷 호랑이를 입양해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:gotanothertiger"  >암컷 호랑이를 입양했습니다!</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:needtiger"  >암컷 호랑이 입양</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:meettigerneeds"  >호랑이의 추가적인 생활 조건을 만족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:finishtigerneeds"  >호랑이의 추가적인 생활 조건을 만족시켜 주었습니다.</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:havebaby"  >새끼 호랑이를 길러야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:finishhavebaby"  >새끼 호랑이를 길렀습니다!</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:carebaby"  >새끼 호랑이의 기본 생활 조건을 만족시켜야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioGoals:finishcarebaby"  >새끼 호랑이의 기본 생활 조건을 만족시켰습니다!</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioLabels:S1"  >새끼 호랑이 시나리오</LOC_STRING>
+      <LOC_STRING _locID="TigerBabyScenarioLabels:S1short"  >새끼 호랑이</LOC_STRING>
+</ZT2Strings>

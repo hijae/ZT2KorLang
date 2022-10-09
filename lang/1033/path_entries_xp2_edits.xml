@@ -1,0 +1,30 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_asphalt" version="6" />
+      <LOC_STRING _locID="zoopedia_asphalt:entry" version="6"  >길 재료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_asphalt:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/paths/asphalt/path_asphalt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/brick/path_brick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/concrete/path_concrete_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/dirt/path_dirt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/sand/path_sand_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/stone/path_stone_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\jungle\path_jungle_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\safari\path_safari_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\marine\path_marine_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>                  
+                  길은 아스팔트, 벽돌, 콘크리트, 흙, 모래, 돌로 만들 수 있습니다.       
+                  <p/>  
+                  어떤 재료로 만드느냐 하는 것보다는 길을 만든다는 것 자체가 더 중요하지만 적절한 재료를 선택하면 동물원을 더 아름답게 꾸밀 수 있습니다.
+                  <p/>
+                  챌린지 모드에서 챌린지를 완료하면 정글 스타일 길과 사파리 스타일 길을 사용할 수 있습니다.   
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

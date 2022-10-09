@@ -1,0 +1,429 @@
+<ZT2Strings>
+      <LOC_STRING _locID="awards:ExtinctCampaign_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Extinct Campaign Reward</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctCampaign_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Complete the Extinct Animals campaign to unlock the </b>
+        <b />
+        <color r="255" g="255" b="0" a="255">
+          <b>extinct-themed buildings and objects.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctCampaign_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Well done! You completed the Extinct Animals campaign and unlocked the </b>
+        <color r="255" g="255" b="0" a="255">
+          <b>extinct-themed buildings and objects.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctCampaign2_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Extinct Exploration Campaign Reward</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctCampaign2_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Complete the Extinct Exploration campaign to unlock the </b>
+        <b />
+        <color r="255" g="255" b="0" a="255">
+          <b>Brachiosaurus Slide.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctCampaign2_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Congratulations!  You have completed the Extinct Exploration campaign and unlocked the </b>
+        <color r="255" g="255" b="0" a="255">
+          <b>Brachiosaurus Slide!</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:CraftyCloning_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Crafty Creation Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:CraftyCloning_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Complete the Crafty Creation challenge to receive the </b>
+        <b />
+        <color r="255" g="255" b="0" a="255">
+          <b>Crafty Creation Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:CraftyCloning_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Well done! You completed the Crafty Creation challenge and received the </b>
+        <color r="255" g="255" b="0" a="255">
+          <b>Crafty Creation Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctRelease_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Extinct Release Program Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctRelease_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Release one of each extinct species to the wild to unlock the </b>
+        <b />
+        <color r="255" g="255" b="0" a="255">
+          <b>Quagga</b>
+        </color>
+        <b> for adoption.</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:ExtinctRelease_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Great work! You have released one of every extinct species to the wild and unlocked the </b>
+        <color r="255" g="255" b="0" a="255">
+          <b>Quagga</b>
+        </color>
+        <b> for adoption.</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationOne_name"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Extinct Education Center Award - Imperial Mammoth</b>
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationOne_pre_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Complete the imperial mammoth skeleton at the Extinct Education Center to have the </b>
+              <b/>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the imperial mammoth skeleton</b>
+              </color>
+              <b> placed at the front gate of your zoo.</b>               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationOne_post_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Hooray! Each time an imperial mammoth skeleton is completed the </b>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the imperial mammoth skeleton</b>
+              </color>            
+              <b> is placed at the front gate of your zoo.</b>
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationTwo_name"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Extinct Education Center Award - Irish Elk</b>
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationTwo_pre_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Complete the Irish elk skeleton at the Extinct Education Center to have the </b>
+              <b/>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the Irish elk skeleton</b>
+              </color>
+              <b> placed at the front gate of your zoo.</b>               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationTwo_post_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Congratulations! Each time an Irish elk skeleton is completed the </b>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the Irish elk skeleton</b>
+              </color>            
+              <b> is placed at the front gate of your zoo.</b>
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationThree_name"  >
+                 <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                    <b>Extinct Education Center Award - Tyrannosaurus rex</b>
+                 </font>
+              </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationThree_pre_ltt"  >
+                 <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                    <b>Complete the Tyrannosaurus rex skeleton at the Extinct Education Center to have the </b>
+                    <b/>
+                    <color r="255" g="255" b="0" a="255">
+                       <b>statue of the Tyrannosaurus rex skeleton</b>
+                    </color>
+                    <b> placed at the front gate of your zoo.</b>               
+                 </font>
+              </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationThree_post_ltt"  >
+                 <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                    <b>Good work! Each time a Tyrannosaurus rex skeleton is completed the </b>
+                    <color r="255" g="255" b="0" a="255">
+                       <b>statue of the Tyrannosaurus rex skeleton</b>
+                    </color>            
+                    <b> is placed at the front gate of your zoo.</b>
+                 </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationFour_name"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Extinct Education Center Award - Pteranodon</b>
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationFour_pre_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Complete the Pteranodon skeleton at the Extinct Education Center to have the </b>
+              <b/>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the Pteranodon skeleton</b>
+              </color>
+              <b> placed at the front gate of your zoo.</b>               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilEducationFour_post_ltt"  >
+           <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              <b>Well done! Each time a Pteranodon skeleton is completed the </b>
+              <color r="255" g="255" b="0" a="255">
+                 <b>statue of the Pteranodon skeleton</b>
+              </color>            
+              <b> is placed at the front gate of your zoo.</b>
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchOne_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>My First Super Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchOne_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Create a super animal in the Extinct Research Lab to receive the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>My First Super Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchOne_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Good work! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>My First Super Award</b>
+        </color>
+        <b>, in recognition of your first super animal!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchTwo_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Red-Hot Research Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchTwo_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Create 10 super animals in the Extinct Research Lab to receive the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Red-Hot Research Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchTwo_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Congratulations! By creating 10 super animals, you received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Red-Hot Research Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchThree_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Super Scientist Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchThree_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Create 25 super animals in the Extinct Research Lab to receive the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Super Scientist Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:GeneticResearchThree_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Hooray! By creating 25 super animals, you received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Super Scientist Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingOne_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Pail and Shovel Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingOne_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Find all of the first-level fossil pieces to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Pail and Shovel Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingOne_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Good work! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Pail and Shovel Award</b>
+        </color>
+        <b>, for finding all of the level-1 fossil pieces!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingTwo_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Durable Digger Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingTwo_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Find all of the level-3 fossil pieces to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Durable Digger Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingTwo_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Congratulations! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Durable Digger Award</b>
+        </color>
+        <b>, for finding all of the fossil pieces on level 3!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingThree_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Perfect Paleontologist Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingThree_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Find the fossil pieces for every extinct animal to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Perfect Paleontologist Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilFindingThree_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Perfection! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Perfect Paleontologist Award</b>
+        </color>
+        <b>, for finding the fossil pieces for every extinct animal!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingOne_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Novice Fossil Builder</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingOne_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Successfully piece together your first fossil at the Extinct Research Lab to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Novice Fossil Builder Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingOne_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Wow! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Novice Fossil Builder Award</b>
+        </color>
+        <b>, for building your first fossil!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingTwo_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Expert Fossil Builder</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingTwo_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Build 10 fossils at the Extinct Research Lab to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Expert Fossil Builder Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingTwo_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Excellent! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Expert Fossil Builder Award</b>
+        </color>
+        <b>, for completing your 10th fossil!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingThree_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Master Fossil Builder</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingThree_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Successfully piece together 25 fossils at the Extinct Research Lab to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Master Fossil Builder Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:FossilBuildingThree_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Masterful! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Master Fossil Builder Award</b>
+        </color>
+        <b>, in recognition of your 25th fossil built!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:MedicalMarvel_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Medical Marvel</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:MedicalMarvel_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Find the cure to three diseases to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Medical Marvel Award.</b>
+        </color>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:MedicalMarvel_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Marvelous! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Medical Marvel Award</b>
+        </color>
+        <b>, for curing three animal diseases!</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:DinoSafety_name"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Dino Safety Award</b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:DinoSafety_pre_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>End a dino rampage with your tranquilizer gun to earn the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Dino Safety Award.</b>
+        </color>
+      <b>To receive this award, you must end the dino rampage yourself. No Dino Capture Team help allowed! </b>
+      </font>
+    </LOC_STRING>
+      <LOC_STRING _locID="awards:DinoSafety_post_ltt"  >
+      <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+        <b>Well done! You received the </b>
+        <color r="255" g="255" b="0" a="255">
+	        <b>Dino Safety Award</b>
+        </color>
+        <b>, for tranquilizing a rampaging dino on your own!</b>
+      </font>
+    </LOC_STRING>
+</ZT2Strings>

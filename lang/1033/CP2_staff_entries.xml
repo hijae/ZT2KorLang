@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry"  >Entertainer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+These colorfully clad staff members dance, tell jokes, perform puppet shows, and do much more to entertain guests. Be sure to build a place for them to perform! The 	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">entertainer stage</color>
+               </u> is 
+           	</a>
+  is a great way to showcase their unique talents.            	
+						<p/>
+Remember, entertainers are staff members, so their salary is deducted from your zoo account the first of each month.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry"  >Paleontologist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+These brainy, rugged staff members know all about extinct animals. They educate guests about every aspect of animals from a time gone by and enjoy teaching from the 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Extinct Education Center</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+They can also assist you by finding and digging up fossils you can assemble at the  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Extinct Research Lab</color>
+               </u>. 
+           	</a>
+<p/>
+Remember, paleontologists are staff members, so their salary is deducted from your zoo account the first of each month.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry"  >Dino Capture Team: Tranquilization Specialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		This rugged, nimble member of your Dino Capture Team is your sharpshooter.  This gadget-savvy staff member tranquilizes rampaging dinos, then the containment specialist crates them.  
+		<p/>
+		When the rampage alarm sounds from the 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dino Capture Team bunker</color>, 
+               </u>
+           	</a>
+		the team springs to action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry"  >Dino Capture Team: Containment Specialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		This Dino Capture Team member has a dangerous job and is your team captain. After the tranquilization specialist is able to calm a rampaging dino, the containment specialist uses a CRATE (Collapsible Ranged Animal Temporary Enclosure) gun to contain it.  
+		<p/>
+		When the rampage alarm sounds from the 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dino Capture Team bunker</color>, 
+               </u>
+           	</a>
+		the team springs to action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry"  >Dino Capture Team: Robotic Decoy</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Most dinos have poor vision, and the Dino Capture Team uses this to their advantage. How? They send out a robotic decoy -- complete with flashing lights and sirens -- that distracts the rampaging dino. As the dino focuses on the robot, the team tranquilizes it. The robot, made from organic material, is not harmful to your dinos.
+		<p/>
+		When the rampage alarm sounds from the 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dino Capture Team bunker</color>, 
+               </u>
+           	</a>
+		the team springs to action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

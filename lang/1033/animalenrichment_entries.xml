@@ -1,0 +1,1505 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_apple:entry">사과</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_apple:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Apple/Apple_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+			사과는 동물들의 건강에 도움이 되는 좋은 먹이이며 
+장난감 삼아 가지고 놀 수 있다는 장점도 있습니다.
+		
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+		먹이를 구하러 돌아다니는 습성이 있는 동물들을 위해서 먹이통에 숨겨 두거나 땅에 묻어 놓으면 좋습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ball:entry">작은 공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ball:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Ball/Ball_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+  작은 공은 동물들에게 줄 수 있는 가장 인기있고 흔한 장난감입니다. 영장류에서 사자나 호랑이에 이르기까지 많은 동물들이 작은 공을 굴리고 쫓는 것을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ballwithrattle:entry">방울공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ballwithrattle:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/RattleBall/RattleBall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+			동물원에 있는 몇몇 동물들은 방울공을 가지고 몇 시간 동안이나 놀 수 
+            있습니다. 특히 원숭이, 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_elephant:entry">
+                     <u>
+                        <color r="255" g="231" b="135">코끼리</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 새끼 동물들은 방울 소리를 아주 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beddingmaterial:entry">잠자리 재료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beddingmaterial:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+			잠자리 재료는 넓은 나뭇잎과 부드러운 덤불로 이루어져 있으며 
+            동물원에 있는 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_chimp:entry">
+                     <u>
+                        <color r="255" g="231" b="135">침팬지</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="255" g="231" b="135">고릴라</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_panda:entry">
+                     <u>
+                        <color r="255" g="231" b="135">자이언트 팬더</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            를 비롯한 많은 동물들이 편안한 잠자리를 만드는 데 사용합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beefshank:entry">고기 덩어리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beefshank:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/BeefShank/BeefShank_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                               
+            고기 덩어리는 음식이지만 대부분의 육식 동물이 좋아하는 장난감입니다. 육식 동물은 고기 덩어리의 크고 단단한 
+            살코기와 뼈다귀를 뜯어 먹는 것을 좋아합니다. 하지만 고기 덩어리 만으로는 충분한 영양을 
+            섭취할 수 없기 때문에 다른 음식도 섭취해야 합니다.
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	    동물의 먹이 채집 능력 및 탐구심을 자극하기 위해 상자 안이나 땅 위에 
+	    숨길 수도 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bone:entry">뼈다귀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bone:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Bone/Bone_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                               
+            사육사들은 종종 죽은 동물의 뼈다귀를 육식 동물에게 장난감으로 줍니다. 특히 
+            사자나 호랑이 곰 등이 뼈다귀를 씹거나 갉아먹는 것을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cartire:entry">타이어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cartire:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/CarTire/CarTire_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+            많은 동물들, 특히 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_lion:entry">
+                     <u>
+                        <color r="255" g="231" b="135">사자, </color>
+                     </u>
+                  </a>
+                  <a href="zoopedia:zoopedia_tiger:entry">
+                     <u>
+                        <color r="255" g="231" b="135">호랑이, </color>
+                     </u>
+                  </a>
+                  <a href="zoopedia:zoopedia_grizzly:entry">
+                     <u>
+                        <color r="255" g="231" b="135">곰</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_elephant:entry">
+                     <u>
+                        <color r="255" g="231" b="135">코끼리</color>
+                     </u>
+                  </a>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            등의 동물들은 던지고 땅에 튀기거나 굴릴 수 있는 
+            타이어를 가지고 노는 것을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carrot:entry">당근</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carrot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Carrot/Carrot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+            여러 동물이 좋아하는 당근은 특히 초식 동물에게 인기있는 먹이입니다. 사료나 
+            장난감 속에 쉽게 숨길 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_easel:entry">그림판</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_easel:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Easel/Easel_idle_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    
+            그림판은 손재주가 좋은 동물(손재주는 없지만 좋아하는 동물도 있어요)들에게 인기 있는 장난감입니다. 
+            동물들이 그림을 그릴 땐 물감이 튀니까 조심하세요!
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fig:entry">무화과</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fig:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/Figs/Figs_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+            배처럼 생긴 무화과는 대부분의 동물들에게 인기있는 또 하나의 좋은 간식거리입니다. 
+            동물의 먹이 채집 능력 및 탐구심을 자극하기 위해 상자 안이나 땅 위에 
+	    숨길 수도 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatedrock:entry">온열 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatedrock:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    
+            자연에서 흔히 볼 수 있는 커다란 바위처럼 생긴 온열 바위는 태양열에 의해 뜨거워진 
+            바위에서 힌트를 얻어 인공적인 가열을 하게 되어 있습니다. 온열 바위는 
+            태양열로 뜨거워진 바위에 익숙한 아프리카 사바나의 동물들, 
+            특히 사자가 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hollowlog:entry">통나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hollowlog:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\food\HollowLog\HollowLog_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Honey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\HollowLog\HollowLog_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  속이 빈 통나무는 천연 먹이 그릇으로 많은 동물들이 속이 빈 통나무에 들어있는 먹이를 꺼내 먹는 것을 좋아합니다.
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_iceblock:entry">얼음 조각</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_iceblock:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_BeefShank_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Carrots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+            얼음 조각은 물에 사는 포유류, 특히 물에 떠다니는 조각을 가지고 노는 것을 좋아하는 
+                  <a href="zoopedia:zoopedia_polarbear:entry">
+                     <u>
+                        <color r="255" g="231" b="135">북극곰</color>
+                     </u>
+                  </a>
+            에게 인기가 많은 아이템입니다. 먹이를 얼음에 얼린 채로 줄 경우 더욱 좋아하는 
+            동물들도 많습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icefloatlrg:entry">대형 얼음 덩어리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icefloatlrg:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/IceFloe/IceFloe_Large_icon.dds" sx="0" sy="0" sw="64" sh="64">
+                     <p/>
+                  </img>
+            대형 얼음 덩어리는 매우 크고 평평한 얼음 덩어리로 극지방 동물들이 사는 곳에서 흔히 볼 수 있습니다.
+                  <p/>
+	    얼음 위에 기어오르거나 주위에 무언가 떠다니는 것을 좋아하는 펭귄과 북극곰에게 
+	    아주 인기가 높습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icefloatmed:entry">얼음 덩어리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_icefloatmed:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/enrichment/IceFloe/IceFloe_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64">
+                  <p/>
+               </img>
+얼음 덩어리는 평평한 얼음 덩어리로 극지방 동물들이 사는 곳에서 흔히 볼 수 있습니다.
+               <p/>
+                   얼음 위에 기어오르거나 주위에 무언가 떠다니는 것을 좋아하는 펭귄과 북극곰에게 아주 인기가 높습니다.
+                   </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lookoutpost:entry">망루</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lookoutpost:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/LookoutPost/LookoutPost_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   망루는 2.4~3m 높이의 기둥 위에 발판이 달린 시설입니다. 
+
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  여우원숭이, 공작 등의 동물은 망루에 올라 먼 곳을 바라보는 것을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeybars:entry">구름다리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeybars:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/MonkeyBars/MonkeyBars_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   
+            구름다리는 막대를 수평과 수직 방향으로 엮어 놓은 구조물로 누구나 좋아하는 놀이 시설입니다. 아이들이나 동물은 구름다리에 매달려 노는 것을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peanutfeeder:entry">땅콩 급식기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peanutfeeder:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/PeanutFeeder/PeanutFeeder_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   
+            땅콩 급식기는 커다란 땅콩 모양의 먹이통으로 동물이 단추를 누르면 땅콩이 나옵니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stickpile:entry">나뭇가지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stickpile:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  일부 동물들은 나뭇가지를 가지고 몇 시간씩 놀기도 합니다. 새끼 동물들은 나뭇가지에 숨는 놀이를 좋아하며 일부 동물은 이 나뭇가지를 이용해 보금자리를 만들기도 합니다.			
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plasticbarrel:entry">플라스틱 통</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plasticbarrel:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/PlasticBarrel/PlasticBarrel_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   
+            플라스틱 통은 영장류에서 육식 동물에 이르기까지 많은 동물들에게 인기가 높은 장난감입니다. 플라스틱 통은 물에 뜨기도 합니다.
+
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pursuitball:entry">큰 공</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pursuitball:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/PursuitBall/PursuitBall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            큰 공은 호랑이가 발톱으로 할퀴거나 물어 뜯어도 견딜 수 있을 정도로 튼튼한 장난감입니다. 
+            
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            많은 동물들은 큰 공을 잡으려고 애쓰면서 즐겁게 놉니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rubbertoy:entry">고무 장난감</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rubbertoy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/RubberToy/RubberToy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   고무 장난감은 고릴라, 침팬지 등이 좋아하는 장난감으로 매우 질기고 튼튼하기 때문에 육식 동물이 물어뜯어도 멀쩡합니다. 그 밖에 사자, 호랑이 등의 고양이과 동물들도 고무 장난감을 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scratchingpost:entry">캣 포스트</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scratchingpost:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/ScratchPost/ScratchPost_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            캣 포스트는 여러 동물들에게 중요한 시설입니다. 
+            동물들은 간지러운 곳을 긁고, 뿔을 손질하고, 발톱을 날카롭게 가는데 캣 포스트를 이용합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile:entry">사료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  사료는 나무 조각, 나뭇잎, 자른 풀, 작은 막대, 클로버, 민들레와 유기물을 섞은 다음 필요에 따라 나무 열매, 상추, 건초, 풀, 나뭇가지, 대나무잎, 벌레 등을 넣은 것입니다. 
+        		
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  <p/>
+                  
+                  
+                  많은 동물들은 자연 상태에서 행동하는 것처럼 사료 더미에서 먹이를 찾는 행동을 즐깁니다. 동물들의 사료 더미를 뒤지면서 먹이를 찾는 과정에서 흥미를 느낍니다.
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_termitemound:entry">흰개미집</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_termitemound:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\food\TermiteMound\TermiteMound_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\TermiteMound\TermiteMound_Honey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\food\TermiteMound\TermiteMound_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+            흰개미집은 꿀이나 벌레 등을 채워 넣기에 적당한 그릇입니다.
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pileofleaves:entry">나뭇잎 더미</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pileofleaves:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\ShelterMaterials\ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  영장류는 나뭇잎으로 보금자리를 만들기도 하며, 새끼 동물들은 나뭇잎 더미에 숨어서 놀기도 합니다.
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_polewithiceblock:entry">얼음 그네</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_polewithiceblock:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PoleRope\PoleRope_IceBlock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  얼음 그네는 기둥 끝에 얼음 조각이 매달린 밧줄이 붙어 있는 시설입니다.
+                  
+                  
+                  <p/>
+                  
+                  
+                  동물들은 얼음 조각을 붙잡으려고 하거나 줄을 타고 올라가거나 줄에 매달려 노는 것을 좋아합니다.
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

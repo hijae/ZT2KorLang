@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_conservationarea:entry"  >보호 구역</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_conservationarea:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Zoo Tycoon 2: Endangered Species에서 보호 구역은 <a href="zoopedia:zoopedia_conservationfences:entry"><u><color r="255" g="231" b="135">보호 구역 울타리</color></u></a>로 둘러싸여 있으며 멸종 위기 동물의 환경을 보호하기 위해 보호 구역 안에서는 건설 작업이 엄격히 제한됩니다. 따라서 서식 환경이나 지형의 변경, 식물이나 바위의 철거, 건물이나 편의 시설의 설치 등이 불가능합니다.                  
+                  <p/>
+그러나 리프트 기둥이나 다리를 세우고 먹이나 장난감을 갖다 놓을 수는 있습니다. 보호 구역은 멸종 위기 동물들이 야생의 모습 그대로 살도록 보호해 줍니다.                              
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry"  >포상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+포상은 <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">상</color></u></a>을 수상하거나 <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">챌린지 게임</color></u></a>을 하는 동안 또는 <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">캠페인 게임</color></u></a>을 마치면 받게 됩니다. 포상 중에는 포상을 받은 게임에서만 사용 가능한 포상도 있고, Zoo Tycoon 2: Endangered Species 모든 게임에서 사용 가능한 포상도 있습니다.
+<p/>
+Zoo Tycoon 2: Endangered Species의 포상 내역 및 조건은 다음과 같습니다.
+<p/>
+풍선 다발: 멸종 위기 동물을 번식시키기
+<br/>비행선: 개장 20주년 기념상 수상
+<br/>최신식 동물원 출입구: 동물원 최고 경영자 상 수상
+<br/>동물원 장식 기둥: 멸종 위기 동물 보호상 수상
+<br/>동물원 장식 벽: 멸종 위기 동물을 야생으로 보낸 공로상 수상
+<br/>새끼 동물 동상: 멸종 위기 동물 번식 공로상 수상
+<br/>페이스 페인팅 코너: 엔터테인먼트 우수상 수상
+<br/>음성 정보 안내 데스크: 장학 우수상 수상
+<br/>사진 게시판: 멸종 위기 동물 사진사 상 수상
+<br/>전망대: 투어 대상 수상
+<br/>신형 지프: 동물원 투어 운영상 수상
+<br/>신형 리프트: 이동 시설 운영상 수상
+<br/>관람객 유치 기념 동상: 동물원 관람객 2만 명 방문
+<p/>
+멸종 위기 동물 테마: 챌린지 모드에서 2개의 멸종 위기 동물 챌린지를 완료하면 사용 가능
+<br/>정글 스타일: 챌린지 모드에서 5개의 사진 찍기 챌린지를 완료하면 사용 가능
+<br/>사파리 스타일: 챌린지 모드에서 5개의 챌린지를 완료하면 사용 가능
+<p/>
+호랑이 바위: 사진 찍기 캠페인을 마치면 사용 가능 
+<br/>동물 번식 센터: 멸종 위기 동물 캠페인을 마치면 사용 가능
+<br/>장식 차량 출입문: 이동 시설 캠페인을 마치면 사용 가능 
+<p/>
+꽃장식 아치형 입구: 문제투성이 동물원 캠페인을 마치면 사용 가능
+<br/>꽃기둥: 사육사 훈련 캠페인을 마치면 사용 가능
+<br/>황금 동상: 신비한 팬더 캠페인을 마치면 사용 가능
+<br/>지구 모형: 지구 캠페인을 마치면 사용 가능
+<br/>해시계: 동물 학대 방지 캠페인을 마치면 사용 가능           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry"  >지프 투어 도로 건설</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+지프 투어를 제공하려면 도로와 1개 이상의 탑승장을 설치해야 합니다. 탑승장 출입구는 관람객이 드나들 수 있도록 인도와 연결되어야 합니다. 투어 노선 건설을 마치면 탑승장이 개장되며 여기서 차량을 구입하게 됩니다.
+<p/>
+Zoo Tycoon 2: Endangered Species에서 도로는 모두 일방 통행로이므로 지프는 탑승장에서 방향을 바꿉니다. 도로가 중간에 끊겨서는 안 됩니다.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownskytramcable:entry"  >리프트 투어 케이블 설치</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownskytramcable:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+리프트 투어를 제공하려면 리프트 케이블과 탑승장 1개 이상을 설치해야 합니다. 탑승장 출입구는 관람객이 드나들 수 있도록 인도와 연결되어야 합니다. 투어 노선 건설을 마치면 탑승장이 개장되며 여기서 차량을 구입하게 됩니다.
+      <p/>
+케이블 설치를 위해서는 리프트 기둥을 세워야 합니다. 기둥과 탑승장을 케이블로 연결하려면 이동 시설 구입 패널에서 리프트 기둥을 선택하고 기둥을 설치할 적당한 곳을 클릭한 다음 탑승장을 클릭합니다. 기둥의 높이를 조절하려면 커서를 기둥 끝에 갖다 대서 손 모양이 생기면 이를 클릭한 채 위 아래로 움직이면 됩니다.
+      <p/>
+공간이 좁아 탑승장 2개만으로 노선을 만들 경우에는 탑승장 2개를 연달아 설치한 다음 곧바로 케이블을 연결하면 됩니다. 이 때 차량은 탑승장 안에서 방향을 바꿉니다.                            
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_creatingelevatedpaths:entry"  >다리 건설</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_creatingelevatedpaths:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+다리를 세울 때에는 우선 다리를 세울 곳에 오르막을 설치한 다음 오르막 상단에서 원하는 방향으로 수평 부분을 설치합니다. 완성된 다리에 오르막, 내리막, 수평 부분을 추가로 설치할 수도 있습니다. 내리막을 설치하기 힘들 때에는 먼저 지형을 평탄하게 만들어 보세요. 그래도 안 되면 지형의 높이를 약간 낮추고 평탄하게 만든 다음 다시 설치해 보세요.
+     <p/>
+다리의 수평 부분 위에는 건물 등 여러 물체를 올려놓을 수 있습니다. 식당이나 운동장, 리프트 탑승장 설치도 가능합니다! 보호 구역 위로도 다리 설치가 가능하므로 관람객은 다리에 올라가 동물을 가까이에서 볼 수 있습니다.
+      <p/>
+다리 기둥은 오르막, 내리막, 수평 부분을 설치할 때 자동으로 세워집니다. 원하면 다리 기둥을 없앨 수도 있습니다.                            
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:entry"  >투어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+관람객은 지프나 리프트를 타고 신나는 투어를 즐기고 싶어합니다. 투어가 재미있으면 투어 등급도 올라가고 투어 기부금도 늘어납니다!
+     <p/>
+관람객은 투어를 즐기는 동안 동물, 동물 우리, 서식 환경에 어울리는 식물이나 바위, 다양한 스타일의 건물, 분수, 아치, 화단, 관람물 등 다양한 볼거리를 원합니다. 그 중에서도 관람물을 보면 가장 좋아합니다!
+     <p/>
+투어를 즐기는 관람객을 위해 다양한 볼거리를 제공해야 합니다. 투어가 단조로우면 관람객이 지루해 합니다.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

@@ -1,0 +1,247 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="xp1_tutorial1:welcome"  >다리 건설 방법을 익히고 멸종 위기 동물 및 보호 구역에 대해 배울 수 있는 연습 게임입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openQuickStatsHeading"  >요약 통계 창</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openQuickStats"  >Zoo Tycoon 2: Endangered Species에서는 멸종 위기에 처한 동물이 주인공입니다. 멸종 위기에 처한 동물을 알아보려면 요약 통계 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openQuickStatsCompleted"  >좋습니다! 요약 통계 창에서 동물원의 모든 동물들을 간편하게 확인할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectPandaBearHeading"  >붉은 팬더 선택</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectPandaBear"  >요약 통계의 동물 목록에서 붉은 팬더 한 마리를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectPandaBearCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:closeQuickStatsHeading"  >창 닫기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:closeQuickStats"  >요약 통계 창은 화면 어디로든 옮길 수 있으며, 이 창을 열어 놓고 동물을 옮길 수도 있습니다. X 단추를 클릭해 요약 통계 창을 닫으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:closeQuickStatsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewAnimalGeneralInfoHeading"  >일반 정보 탭</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewAnimalGeneralInfo"  >붉은 팬더의 일반 정보 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewAnimalGeneralInfoCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewEndangermentInfoTextHeading"  >보존 상태</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewEndangermentInfoText"  >N/A</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewEndangermentInfoTextCompleted"  >화면 오른쪽 아래의 일반 정보 탭에 보존 상태가 표시됩니다. 보존 상태는 비교적 양호, 취약, 위험, 멸종 위기 등의 4가지로 구분됩니다. 붉은 팬더는 위험으로 표시되어 있는데, 이는 보호 조치를 취하지 않을 경우 멸종될 수도 있다는 의미입니다. 동물원은 멸종 위기에 처한 동물들에게 훌륭한 안식처가 될 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewBreedingCenterInfoTextHeading"  >동물 번식 센터</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewBreedingCenterInfoText"  >N/A</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewBreedingCenterInfoTextCompleted"  >보존 상태가 위험 또는 멸종 위기로 표시되는 동물들은 환경에 민감하며 번식도 어렵습니다. 하지만 인내심을 갖고 보살핀다면 새끼도 얻을 수 있습니다! 멸종 위기 동물의 번식을 위해 특수 설계된 동물 번식 센터를 이용할 수도 있습니다. 멸종 위기 동물 캠페인을 마치면 동물 번식 센터를 사용할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewConservationAreaHeading"  >보호 구역</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewConservationArea"  >보호 구역은 보호 구역 울타리를 쳐서 동물들을 특별히 보호하는 공간입니다. 지도 중앙의 "보호 구역"이라고 표시된 곳까지 스크롤해 보세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewConservationAreaCompleted"  >좋습니다! 환경에 민감한 동물들을 보호하기 위해 보호 구역 안에서는 건설 작업이 엄격히 제한됩니다. 조경을 바꾸거나 울타리, 길, 건물, 편의 시설 등을 설치할 수 없습니다. 그러나 먹이와 장난감을 갖다 놓거나 리프트 기둥과 다리는 세울 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewElevatedPathIntroductionHeading"  >다리</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewElevatedPathIntroduction"  >N/A</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:viewElevatedPathIntroductionCompleted"  >다리를 건설하면 관람객이 좀 더 가까이에서 동물을 살펴볼 수 있습니다. 또한 강이나 계곡, 보호 구역 등을 지나다닐 수도 있습니다. 그럼 다리를 건설해 볼까요? 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openConstructionPanelHeading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openConstructionPanel"  >먼저 오르막을 만들어 보겠습니다. 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openConstructionPanelCompleted"  >좋습니다! 다리 탭이 새로 추가된 것을 보실 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openElevatedPathPanelHeading"  >다리 탭</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openElevatedPathPanel"  >다리 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openElevatedPathPanelCompleted"  >다리 탭의 왼쪽 위에 있는 단추 3개로 수평 부분, 오르막, 내리막을 설치하고, 오른쪽 위에 있는 단추 2개로 다리 높이를 조절합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectRampUpToolHeading"  >오르막 설치 단추</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectRampUpTool"  >오르막 설치 모드 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectRampUpToolCompleted"  >좋습니다! 이제 건설 중인 다리에 연결할 수 있도록 적당한 곳에 오르막을 설치해 보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRampUpElevatedPathHeading"  >오르막 설치</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRampUpElevatedPath"  >오르막 설치 모드 단추를 선택한 상태에서 커서를 핫도그 판매대와 햄버거 판매대 사이에 놓으세요. 설치할 오르막의 시작 지점을 클릭한 채 세쿼이아 나무 두 그루 사이까지 커서를 끌어다 놓으세요. 오르막 모양이 생기면 다시 클릭하여 설치합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRampUpElevatedPathCompleted"  >잘했습니다! 이제 오르막에 수평 부분을 연결해 보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectFlatElevatedPathToolHeading"  >수평 부분 설치 단추</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectFlatElevatedPathTool"  >수평 부분 설치 모드 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectFlatElevatedPathToolCompleted"  >다리의 수평 부분은 오르막과 비슷한 방법으로 설치합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeFlatElevatedPathHeading"  >수평 부분 설치</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeFlatElevatedPath"  >수평 부분 설치 모드 단추를 선택한 상태에서 조금 전에 설치한 오르막에 커서를 갖다 대세요. 커서가 녹색으로 바뀌면 클릭한 채 연결할 부분으로 커서를 끕니다. 그러면 수평 모양의 다리가 생깁니다. 다시 클릭하여 설치합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeFlatElevatedPathCompleted"  >잘했습니다! 이와 같이 다리는 기존 다리에 연결하거나 우리를 내려다보는 데 사용할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement1Heading"  >난간 교체</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement1"  >다리의 난간을 교체하려면 다리의 목조 난간을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement1Completed"  >난간을 교체하는 방법은 매우 간단하며 울타리를 교체하는 것과 비슷합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement2Heading"  >목조 난간 교체</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement2"  >설치되어 있는 난간을 클릭하고 교체할 부분까지 커서를 끌어다 놓은 다음 다시 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRailingReplacement2Completed"  >잘했습니다! 이제 다리에 아이템을 설치하는 방법을 배워보겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openSceneryPanelHeading"  >편의 시설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openSceneryPanel"  >편의 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openSceneryPanelCompleted"  >편의 시설이 정말 많군요! 필터링하여 원하는 편의 시설을 찾아 봅시다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openObjectFiltersPanelHeading"  >건설 개체 분류</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openObjectFiltersPanel"  >건설 개체 분류 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openObjectFiltersPanelCompleted"  >종류, 제품, 스타일 등으로 필터링하면 아이템을 손쉽게 찾을 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectStatueFilterHeading"  >동상 필터</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectStatueFilter"  >목록을 스크롤해서 "동상"을 찾아 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectStatueFilterCompleted"  >목록에 동상만 표시됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRhinoStatueHeading"  >코뿔소 동상</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRhinoStatue"  >코뿔소 동상을 클릭해 다리 위에 놓으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:placeRhinoStatueCompleted"  >잘했습니다! 식물과 같은 조경 아이템을 제외한 모든 아이템을 다리 위에 올려 놓을 수 있습니다. 다리 밑에도 공간이 있으면 아이템을 놓을 수 있습니다. 다음 단계로 넘어가려면 계속하기를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openViewFiltersPanelHeading"  >개체 표시/숨기기 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openViewFiltersPanel"  >새로운 멋진 기능을 배우려면 개체 표시/숨기기 패널 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:openViewFiltersPanelCompleted"  >개체 표시/숨기기 패널은 식물, 건물 등의 아이템을 표시하거나 숨기는 데 사용합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilterHeading"  >관람객 시야 표시/숨기기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilter"  >관람객 시야 표시/숨기기를 사용하면 관람객이 볼 수 있는 우리 안 공간이 표시됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilterCompleted"  >관람객 시야 표시/숨기기가 켜져 있으면 눈 아이콘이 나타나 관람객이 볼 수 있는 우리 안 공간이 표시됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:DisplayGuestViewHeading"  >눈 아이콘</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:DisplayGuestView"  >우리와 마주보고 있는 다리 끝으로 눈 아이콘을 옮기세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:DisplayGuestViewCompleted"  >바닥에 생긴 작은 점들은 관람객이 보게 되는 공간입니다. 관람객 시야 표시/숨기기를 사용하면 관람객의 시야를 고려하여 우리를 만들 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilterOffHeading"  >필터 끄기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilterOff"  >단추를 클릭해 관람객 시야 표시/숨기기 필터를 끄세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectGuestViewFilterOffCompleted"  >개체 표시/숨기기 패널에 추가된 기능으로 다리 밑에 있는 아이템을 볼 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectElevatedPathFilterHeading"  >다리 슬라이더</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectElevatedPathFilter"  >다리를 투명하게 하려면 다리 슬라이더를 아래로 끝까지 내려 보세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:selectElevatedPathFilterCompleted"  >다리가 투명해졌습니다. 다리를 다시 보이게 하려면 슬라이더를 위로 올리면 됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial1:tutorial_complete"  >
+         
+         축하합니다! 다리 연습 게임을 모두 마쳤습니다. 
+      
+         
+         <p/>
+         
+         
+      리프트에 대해 배울 수 있는 연습 게임을 하려면 다음 시나리오 진행 단추를 클릭하세요. 
+      
+         
+         <p/>
+         
+         
+      주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:welcome"  >리프트 투어를 만들고 투어 아이템을 설치하는 방법을 익힐 수 있는 연습 게임입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewSkytramInfoTextHeading"  >리프트</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewSkytramInfoText"  >N/A</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewSkytramInfoTextCompleted"  >리프트를 타면 공중에서 동물원을 내려다보며 신나는 투어를 경험할 수 있습니다. 그럼 리프트를 설치해 봅시다! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openconstructionheading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openconstruction"  >먼저 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openconstructioncompleted"  >이동 시설 탭이 새로 추가되었습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openTransportationPanelHeading"  >이동 시설 탭</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openTransportationPanel"  >이동 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openTransportationPanelCompleted"  >이동 시설 탭에는 리프트 노선을 설치하는 데 필요한 시설이 모두 들어 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyStationHeading"  >리프트 탑승장</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyStation"  >리프트 노선을 만들려면 탑승장이 1개 이상 필요합니다. 리프트 탑승장을 클릭한 다음 4개의 화단 중앙에 놓으세요. 관람객이 들어갈 수 있도록 >를 사용해 탑승장 입구를 돌린 다음 리프트 탑승장을 설치합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyStationCompleted"  >잘했습니다! 리프트 탑승장은 관람객이 리프트를 타고 내리는 곳입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:connectSkyPoleToSkyStationHeading"  >리프트 케이블 연결</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:connectSkyPoleToSkyStation"  >리프트 탑승장에 케이블을 연결하려면 리프트 기둥을 클릭한 다음 리프트 탑승장을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:connectSkyPoleToSkyStationCompleted"  >잘했습니다! 리프트 탑승장에 케이블이 연결되었습니다. 이제 동물원 주변에 리프트 기둥을 세워야 합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyPoleHeading"  >리프트 기둥 연결</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyPole"  >동물원 주변을 시계 반대 방향으로 돌아 다음 흰 점에서 기둥 커서를 클릭합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeSkyPoleCompleted"  >잘했습니다! 다음 흰 점에 기둥을 하나 더 설치해 봅시다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:closeSkyPoleCircuitHeading"  >선로 완성</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:closeSkyPoleCircuit"  >좋습니다! 탑승장으로 되돌아올 때까지 흰 점에 리프트 기둥을 하나씩 설치하세요. 마지막 기둥을 설치한 후 리프트 탑승장을 클릭하면 선로가 완성됩니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:closeSkyPoleCircuitCompleted"  >축하합니다! 리프트 노선이 완성되었군요! 이제 리프트 탑승장이 개장되어 차량을 구입할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectSkyStationHeading"  >리프트 탑승장 선택</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectSkyStation"  >리프트를 구입하려면 리프트 탑승장을 클릭하세요. 커서에 기둥 아이콘이 남아 있으면 마우스 오른쪽 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectSkyStationCompleted"  >탑승장은 노선을 연결하면 자동으로 개장되고, 노선을 끊으면 자동으로 폐장됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:select1SeaterHeading"  >1인승 리프트</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:select1Seater"  >리프트 투어용 리프트를 구입하려면 1인승 리프트를 선택하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:select1SeaterCompleted"  >잘했습니다! 1인승 리프트는 한 번에 한 명만 탈 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:buy1SeaterHeading"  >1인승 리프트 2대 구입</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:buy1Seater"  >1인승 리프트를 2대 구입하려면 차량 구입 단추를 2번 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:buy1SeaterCompleted"  >리프트를 구입하면 탑승장에 리프트가 생기고 투어 노선을 따라 운행을 시작합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSkyStationInfoHeading"  >건물 현황</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSkyStationInfo"  >현재의 리프트 이용객 수를 확인하려면 건물 현황 패널을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSkyStationInfoCompleted"  >건물 현황 패널에는 운행 중인 리프트 수와 이용객 수가 표시됩니다. 리프트의 투어 등급도 표시됩니다. 관람객은 리프트를 타면서 동물, 나무, 동상, 다양한 스타일의 건물 등을 보고 싶어합니다. 관람물이 많으면 리프트 투어도 더욱 흥미진진해지고 투어 등급도 올라갑니다!</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewTourRatingInfoTextHeading"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewTourRatingInfoText"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:viewTourRatingInfoTextCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openDonationStationInfoHeading"  >기부금</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openDonationStationInfo"  >리프트 이용객은 기부금을 내기도 합니다. 투어 등급이 높을 수록 기부금을 많이 모을 수 있습니다. 모금액을 확인하려면 기부 현황 패널을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openDonationStationInfoCompleted"  >기부금이 조금뿐이군요! 관람물을 더 많이 배치해서 흥미진진한 투어를 만들어 보세요! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSceneryPanelTourHeading"  >편의 시설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSceneryPanelTour"  >노선을 따라 관람물을 설치하면 투어 등급이 올라가고 기부금도 많이 모입니다. 편의 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openSceneryPanelTourCompleted"  >리프트 투어나 지프 투어를 즐기는 관람객의 시선을 잡아 끌 흥미진진한 관람물이 많이 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openObjectFiltersPanel_TourHeading"  >개체 분류 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openObjectFiltersPanel_Tour"  >아이템을 정렬하려면 개체 분류 패널 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:openObjectFiltersPanel_TourCompleted"  >개체 분류 패널을 이용하면 아이템을 쉽게 찾을 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectObjectFilter_TourHeading"  >관람물 필터</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectObjectFilter_Tour"  >목록에서 "관람물"을 찾아 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:selectObjectFilter_TourCompleted"  >관람물만 표시됩니다. 동물원 명성이 올라가면 선택할 수 있는 관람물도 많아집니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeBatCaveHeading"  >박쥐 동굴</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeBatCave"  >박쥐 동굴을 클릭해 리프트 노선 근처에 놓으세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:placeBatCaveCompleted"  >잘했습니다! 박쥐 동굴에는 어지럽게 날갯짓하고 요란한 울음 소리를 내는 박쥐 떼가 있습니다. 리프트 이용객은 동굴을 보면 매우 즐거워합니다! 이 연습 게임을 마치려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial2:tutorial_complete"  >
+         
+         축하합니다! 리프트 연습 게임을 마쳤습니다. 
+      
+         
+         <p/>
+         
+         
+지프 투어를 만드는 방법을 배울 수 있는 연습 게임을 하려면 다음 시나리오 진행 단추를 클릭하세요. 
+      
+         
+         <p/>
+         
+         
+      주 메뉴로 돌아가려면 X 단추를 클릭하세요.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:welcome"  >지프 탑승장과 도로를 설치하는 방법과 1인칭 시점에서 지프에 탑승하는 방법을 익힐 수 있는 연습 게임입니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstructionHeading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstruction"  >현재 동물원의 지프 투어 노선은 거의 마무리 단계입니다. 약간만 손대면 완성할 수 있습니다. 그럼 노선을 완성해 봅시다. 먼저 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstructionCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTabHeading"  >이동 시설 탭</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTab"  >이동 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTabCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStationBuyButtonHeading"  >지프 탑승장</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStationBuyButton"  >지프 투어를 만들려면 탑승장이 1개 이상 필요합니다. 지프 탑승장을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStationBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeGroundStationHeading"  >지프 탑승장 설치</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeGroundStation"  >지프 탑승장을 4개의 화단 중앙에 놓으세요. 관람객이 들어갈 수 있도록 >를 사용해 탑승장 입구를 돌린 다음 지프 탑승장을 설치합니다.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeGroundStationCompleted"  >잘했습니다! 이제 도로를 설치해 봅시다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundTrackBuyButtonHeading"  >도로</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundTrackBuyButton"  >도로를 클릭해 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundTrackBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:connectGroundCircuitHeading"  >노선 완성</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:connectGroundCircuit"  >지프 탑승장 옆의 화단 2개 사이에 있는 빈 공간을 클릭하고 낙타 우리 안의 도로까지 커서를 끌어다 놓으세요. 클릭하여 도로를 연결하고 노선을 완성하세요. 울타리는 신경 쓰지 마세요!</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:connectGroundCircuitCompleted"  >잘했습니다! 지프 노선이 완성되었습니다. 울타리에 차량 출입문이 자동으로 생겼네요. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStationHeading"  >탑승장 선택</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStation"  >노선을 완성했고 탑승장이 개장되었습니다. 이제 지프 탑승장을 클릭해 차량을 구입하고 관람객이 지프를 타고 투어를 즐기게 하세요. 커서에 도로 아이콘이 남아 있으면 마우스 오른쪽 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectGroundStationCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:purchaseVehiclesHeading"  >지프 구입</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:purchaseVehicles"  >지프 5대를 구입하려면 차량 구입 단추를 5번 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:purchaseVehiclesCompleted"  >지프를 구입하면 지프 탑승장에 지프가 생기고 투어 노선을 따라 운행을 시작합니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstruction2Heading"  >건설 패널</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstruction2"  >탑승장을 벗어나자마자 도로와 인도가 교차하는군요. 보행자가 건너갈 수 있도록 지프의 속도가 자동으로 느려지지만 이로 인해 지프 투어가 지연될 수 있습니다. 건널목 차단기를 설치하려면 건설 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:openConstruction2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTab2Heading"  >이동 시설</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTab2"  >이동 시설 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectTransportationTab2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectCrossingGateBuyButtonHeading"  >건널목 차단기 선택</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectCrossingGateBuyButton"  >건널목 차단기를 클릭하세요. </LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:selectCrossingGateBuyButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeCrossingGateHeading"  >건널목 설치</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeCrossingGate"  >이제 도로와 인도가 교차하는 곳에 건널목 차단기를 설치하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:placeCrossingGateCompleted"  >잘했습니다! 차량이 접근하면 건널목 차단기가 자동으로 내려와 교차로의 통행이 훨씬 원활해졌습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:enterFirstPersonHeading"  >차량 탑승</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:enterFirstPerson"  >리프트와 지프에 탑승할 수 있습니다. 탑승하려면 먼저 1인칭 시점으로 전환하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:enterFirstPersonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:boardVehicleHeading"  >지프 탑승</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:boardVehicle"  >이제 1인칭 시점입니다. 지프 가까이 가서 스페이스바를 눌러 올라타세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:boardVehicleCompleted"  >잘했습니다! 잠시 자리에 편히 앉아 경치를 감상하세요! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:changeSeatPositionHeading"  >좌석 바꾸기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:changeSeatPosition"  >탑승 중 차량 내에서 좌석을 바꾸려면 좌석 번호를 누르세요. 조수석으로 바꿔 앉으려면 2를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:changeSeatPositionCompleted"  >4인승 지프에서는 1에서 4까지, 7인승 지프에서는 1에서 7까지 좌석을 선택해 앉을 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:photoModeHeading"  >사진 찍기 모드</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:photoMode"  >지프를 타고 가면서 카메라로 경치를 찍을 수도 있습니다. 사진 찍기 모드로 전환하려면 &lt;C&gt;를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:photoModeCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:takePictureHeading"  >사진 찍기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:takePicture"  >스페이스바를 눌러 직접 사진을 찍어 보세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:takePictureCompleted"  >잘 찍었습니다! 리프트를 탈 때도 사진을 찍을 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:overheadViewHeading"  >평면도 보기</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:overheadView"  >이제 평면도 보기 단추를 클릭해 평면도 보기로 전환하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:overheadViewCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:zoostatsHeading"  >동물원 운영 현황</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:zoostats"  >끝으로 Zoo Tycoon 2: Endangered Species 연습 게임에서 포상에 대해 알아보겠습니다. 동물원 운영 현황 단추나 동물원 출입문을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:zoostatsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:awardsHeading"  >수상 내역 탭</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:awards"  >수상 내역 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:awardsCompleted"  >수상 내역에는 여러분이 지금까지 받은 상과 앞으로 받을 수 있는 상이 모두 표시됩니다. 상을 선택하면 수상 조건이 아래 쪽에 표시되며, 지정된 조건이 여러 개일 경우(예: 관람객 수 100명)는 조건 달성 진행률이 표시됩니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:persistantAwardsHeading"  >보유하고 있는 포상 내역</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:persistantAwards"  >수상 내역 패널에는 게임을 성공시키면 받는 포상 정보도 표시됩니다. 일부 포상은 현재 게임에서만 사용할 수 있지만 보유하고 있는 포상의 경우 모든 게임에서 사용할 수 있습니다. 보유하고 있는 포상 내역 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:persistantAwardsCompleted"  >상과 포상을 모두 받아 최고의 동물원 경영자가 되세요! 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp1_tutorial3:tutorial_complete"  >
+         축하합니다! Zoo Tycoon 2: Endangered Species 연습 게임을 마쳤습니다. 여기서 익힌 내용은 곧바로 게임에서 사용할 수 있습니다. 이 연습 게임에서 소개한 새로운 기능 외에도 20종의 동물과 20개의 챌린지, 3개의 캠페인, 수십 개의 아이템이 Zoo Tycoon 2: Endangered Species에 추가되었습니다. 행운을 빕니다! 
+			<p/>
+			Zoo Tycoon 2 게임 방법을 더 배우려면 다른 연습 게임을 시도해 보세요. 연습 게임은 책 아이콘으로 표시되어 있습니다.
+<img src="ui/shared/tutorial_icon.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>			
+         <p/>
+         
+      주 메뉴로 돌아가려면 X 단추를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_campaignname"  >Endangered Species 연습 게임</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T1"  >연습 게임 1: 다리</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T1short"  >다리</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T1overviewshort"  >이 연습 게임에서는 다리 건설 방법을 익히고 멸종 위기 동물 및 보호 구역에 대해 배울 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T2"  >연습 게임 2: 리프트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T2short"  >리프트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T2overviewshort"  >이 연습 게임에서는 리프트 투어를 만들고 관람물을 배치하는 방법을 익힐 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T3"  >연습 게임 3: 지프 투어</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T3short"  >지프 투어</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp1_T3overviewshort"  >이 연습 게임에서는 지프 탑승장 및 도로를 설치하는 방법과 1인칭 시점에서 지프에 타는 방법을 익힐 수 있습니다.</LOC_STRING>
+</ZT2Strings>

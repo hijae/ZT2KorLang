@@ -1,0 +1,357 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonOne_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 훈련 3등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonOne_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              훈련 점수 100%를 한 번 달성하면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 3등상</color>
+              을 받습니다.
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonOne_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 훈련 점수 100%를 달성해서 
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 3등상</color>
+              을 받았습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonTwo_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 훈련 2등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonTwo_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              훈련 점수 100%를 10번 달성하면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 2등상</color>
+              을 받습니다.
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonTwo_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              축하합니다! 훈련 점수 100%를 10번 달성해서 
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 2등상</color>
+              을 받았습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonThree_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 훈련 1등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonThree_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              훈련 점수 100%를 100번 달성하면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 동상</color>
+              을 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineTrainingTycoonThree_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              축하합니다! 훈련 점수 100%를 100번 달성해서 
+              <color r="255" g="255" b="0" a="255">
+                 해양 훈련 동상</color>
+              을 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonOne_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 연출 3등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonOne_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 관련 기부금을 $25,000 모으면 
+              <color r="255" g="255" b="0" a="255">
+                 고급 중형 관람석</color>
+              을 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonOne_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 해양 공연 관련 기부금이 $25,000를 넘어서서 
+              <color r="255" g="255" b="0" a="255">
+                 고급 중형 관람석</color>
+              을 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonTwo_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 연출 2등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonTwo_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 관련 기부금을 $100,000 모으면 
+              <color r="255" g="255" b="0" a="255">
+                 고급 대형 관람석</color>
+              을 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowTycoonTwo_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              축하합니다! 해양 공연 관련 기부금이 $100,000를 넘어서서 
+              <color r="255" g="255" b="0" a="255">
+                 고급 대형 관람석</color>
+              을 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonOne_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 제작 3등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonOne_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              별 1개짜리 해양 공연을 만들면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 수조 조명</color>
+              을 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonOne_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 별 1개짜리 해양 공연을 만들어서 
+              <color r="255" g="255" b="0" a="255">
+                 수조 조명</color>
+              을 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonTwo_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 제작 2등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonTwo_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              별 3개짜리 해양 공연을 만들면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 공연 울타리</color>
+              를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonTwo_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 별 3개짜리 해양 공연을 만들어서 
+              <color r="255" g="255" b="0" a="255">
+                 공연 울타리</color>
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonThree_name"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              해양 공연 제작 1등상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonThree_pre_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              별 5개짜리 해양 공연을 만들면 
+              
+              <color r="255" g="255" b="0" a="255">
+                 해양 수조 벽</color>
+              을 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineStarTycoonThree_post_ltt"  >
+           <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              대단합니다! 별 5개짜리 해양 공연을 만들어서 
+              <color r="255" g="255" b="0" a="255">
+                 해양 수조 벽</color>
+              을 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonOne_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물원 운영 3등상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonOne_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물 관련 기부금을 $5,000 모으면 
+             
+             <color r="255" g="255" b="0" a="255">
+                돌고래 아치형 입구</color>
+             를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonOne_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             잘했습니다! 해양 동물 관련 기부금이 $5,000를 넘어서서 
+             <color r="255" g="255" b="0" a="255">
+                돌고래 아치형 입구</color>
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonTwo_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물원 운영 2등상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonTwo_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물 관련 기부금을 $20,000 모으면 
+             
+             <color r="255" g="255" b="0" a="255">
+                흔들 해마</color>
+             를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonTwo_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             대단합니다! 해양 동물 관련 기부금이 $20,000를 넘어서서 
+             <color r="255" g="255" b="0" a="255">
+                흔들 해마</color>
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonThree_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물원 운영 1등상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonThree_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물 관련 기부금을 $100,000 모으면 
+             
+             <color r="255" g="255" b="0" a="255">
+                해양 분수대</color>
+             를 구입할 수 있습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonThree_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             훌륭합니다! 해양 동물 관련 기부금이 $100,000를 넘어서서 
+             <color r="255" g="255" b="0" a="255">
+                해양 분수대</color>
+             를 구입할 수 있게 되었습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonFour_name"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물원 운영 대상
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonFour_pre_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             해양 동물 관련 기부금을 $200,000 모으면 
+             
+             <color r="255" g="255" b="0" a="255">
+                해양 동물원 입구 및 울타리</color>
+             를 받습니다.               
+          </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalTycoonFour_post_ltt"  >
+          <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+             축하합니다! 해양 동물 관련 기부금이 $200,000를 넘어서서 
+             <color r="255" g="255" b="0" a="255">
+                해양 동물원 입구 및 울타리</color>
+             를 받았습니다.
+          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalsCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 동물 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalsCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 동물 캠페인을 마치면 
+            <color r="255" g="255" b="0" a="255">
+               흰수염고래 전시관</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalsCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            잘했습니다! 해양 동물 캠페인을 마쳐 
+            <color r="255" g="255" b="0" a="255">
+               흰수염고래 전시관</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowsCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 공연 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowsCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 공연 캠페인을 마치면 고급 무대로 업그레이드할 수 있는
+            <color r="255" g="255" b="0" a="255">
+               그늘 지붕</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowsCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 해양 공연 캠페인을 마쳐서 고급 무대로 업그레이드할 수 있는
+            <color r="255" g="255" b="0" a="255">
+               그늘 지붕</color>
+            을 받았습니다. 
+            그늘 지붕이 달린 고급 무대로 업그레이드하려면 무대를 클릭하고 무대 정보 패널에서 그늘 지붕 단추를 클릭하세요.              
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalChallenges_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 동물 챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalChallenges_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            두 가지 해양 동물 챌린지를 마치면 
+            <color r="255" g="255" b="0" a="255">
+               살아있는 노랑살다랭이</color>
+            를 사용할 수 있습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineAnimalChallenges_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            대단합니다! 해양 동물 챌린지를 마쳐서 
+            <color r="255" g="255" b="0" a="255">
+               살아있는 노랑살다랭이</color>
+            를 사용할 수 있게 되었습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowChallenges_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            해양 공연 챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowChallenges_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            두 가지 해양 공연 챌린지를 마치면 
+            <color r="255" g="255" b="0" a="255">
+               대형 스크린</color>
+            을 사용할 수 있습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MarineShowChallenges_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            잘했습니다! 두 가지 해양 공연 챌린지를 마쳐서 
+            <color r="255" g="255" b="0" a="255">
+               대형 스크린</color>
+            을 사용할 수 있게 되었습니다. 
+            무대에 대형 스크린을 설치하려면 무대를 클릭하고 무대 정보 패널에서 대형 스크린 단추를 클릭하세요.            
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitembigscreentv"  >
+   		축하합니다! 대형 스크린을 무대에 설치할 수 있게 되었습니다!
+   	</LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemlivefoodtuna"  >
+   		축하합니다! 살아있는 노랑살다랭이를 사용할 수 있게 되었습니다!
+   	</LOC_STRING>   
+   
+</ZT2Strings>      

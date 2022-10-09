@@ -1,0 +1,62 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_iceblock" version="7" />
+      <LOC_STRING _locID="zoopedia_iceblock:entry" version="7"  >얼음 조각</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_iceblock:text" version="7"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_BeefShank_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/enrichment/IceBlock/IceBlock_Carrots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  <img src="entities/objects/enrichment/IceBlock_mm/IceBlock_Clams_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>                  
+            얼음 조각은 물에 사는 포유류, 특히 물에 떠다니는 조각을 가지고 놀기 좋아하는 
+                  <a href="zoopedia:zoopedia_polarbear:entry">
+                     <u>
+                        <color r="255" g="231" b="135">북극곰</color>
+                     </u>
+                  </a>
+            에게 인기가 많은 아이템입니다. 먹이를 얼음에 얼린 채로 주면 동물들에게 
+            색다른 즐거움을 줄 수 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile" version="7" />
+      <LOC_STRING _locID="zoopedia_substratepile:entry" version="7"  >사료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_substratepile:text" version="7"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Apples_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+                  가축 사료는 나무 조각, 나뭇잎, 자른 풀, 작은 나뭇가지, 클로버, 민들레, 유기물에 나무 열매, 상추, 건초, 풀, 나뭇가지, 대나무잎, 곤충 등을 섞어 만든 것입니다. 해양 동물 사료는 해초나 조개 같은 먹이를 자갈, 모래, 조개껍데기과 섞어 만든 것입니다.
+                  <p/>
+                  대부분의 동물들이 사료 더미를 뒤져 먹이를 찾아 먹는 것을 좋아하는데, 이런 행동은 야생에서의 습성을 유지하는 데 도움이 됩니다. 그렇게 하면 먹이를 먹는 과정을 더욱 즐거워하게 됩니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+   
+   
+  
+</ZT2Strings>

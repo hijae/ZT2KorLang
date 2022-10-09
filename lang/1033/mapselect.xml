@@ -1,0 +1,202 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapdata:map_info_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               지도 정보
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_select_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               지도 선택
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_scenario_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               시나리오 선택
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_list_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               지도 선택
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_location_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               지도 유형 선택
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:select_campaign_label"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               캠페인 선택
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:biome"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">
+            서식 환경
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play"  >
+         <font name="휴먼모음T" size="16">
+            게임하기
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:back"  >
+         <font name="휴먼모음T" size="16">
+            돌아가기
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:challengeheading"  >챌린지 모드</LOC_STRING>
+      <LOC_STRING _locID="mapdata:freeformheading"  >자유 게임 모드</LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaignheading"  >캠페인 모드</LOC_STRING>
+      <LOC_STRING _locID="mapdata:modeheading"  >
+         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:unlimited"  >
+         <font name="휴먼모음T" size="14">현금 무제한</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_stt"  >게임하기</LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_ltt"  >
+         <color r="255" g="248" b="178">
+            게임하기
+         </color>
+         <br>선택한 지도로 게임을 진행합니다.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_stt"  >취소</LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_ltt"  >
+         <color r="255" g="248" b="178">
+            취소
+         </color>
+         <br>취소하고 주 메뉴로 돌아갑니다.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:posformat"  >
+         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_name"  >
+         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_names"  >
+         <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname" version="7" />
+      <LOC_STRING _locID="mapname:format" version="7"  >
+         <font name="굴림" size="12" shadowx="1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:largeformat" version="7"  >
+         <font name="굴림" size="12" shadowx="1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:atestmap" version="7"  >시험용 소형 지도</LOC_STRING>
+      <LOC_STRING _locID="mapname:nomap" version="7"  >시험용 지도</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinebig" version="7"  >고산(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinemed" version="7"  >고산(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinesml" version="7"  >고산(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:borealbig" version="7"  >북방림(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealmed" version="7"  >북방림(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealsml" version="7"  >북방림(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoo" version="7"  >도시 동물원(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoomed" version="7"  >도시 동물원(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoosml" version="7"  >도시 동물원(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desert" version="7"  >사막(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertmed" version="7"  >사막(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertsml" version="7"  >사막(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grassland" version="7"  >초원(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandmed" version="7"  >초원(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandsml" version="7"  >초원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:savannah" version="7"  >사바나(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahmed" version="7"  >사바나(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahsml" version="7"  >사바나(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrub" version="7"  >관목림(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubmed" version="7"  >관목림(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubsml" version="7"  >관목림(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tempforest" version="7"  >온대림(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatemed" version="7"  >온대림(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatesml" version="7"  >온대림(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestbig" version="7"  >열대우림(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestmed" version="7"  >열대우림(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestsml" version="7"  >열대우림(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrabig" version="7"  >툰드라(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundramed" version="7"  >툰드라(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrasml" version="7"  >툰드라(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandbig" version="7"  >습지대(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandmed" version="7"  >습지대(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandsml" version="7"  >습지대(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:biome_squares" version="7"  >혼합 서식 지대(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:river" version="7"  >강(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahridge" version="7"  >사파리 산악(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:polarcoast" version="7"  >극지방(대형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rockies" version="7"  >로키 산맥(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertshore" version="7"  >사막 해안(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:junglepool" version="7"  >정글 연못(소형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:mangrovecoast" version="7"  >맹그로브 해안(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicbig" version="7"  >해저 동물원(대형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalbig" version="7"  >연안 동물원(대형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefbig" version="7"  >암초 동물원(대형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicbig" version="7"  >원양 동물원(대형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicmed" version="7"  >해저 동물원(중형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalmed" version="7"  >연안 동물원(중형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefmed" version="7"  >암초 동물원(중형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicmed" version="7"  >원양 동물원(중형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicsml" version="7"  >해저 동물원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefsml" version="7"  >암초 동물원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalsml" version="7"  >연안 동물원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalzoojr" version="7"  >초급 연안 동물원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicsml" version="7"  >원양 동물원(소형) </LOC_STRING>
+      <LOC_STRING _locID="mapsize:small"  >소형</LOC_STRING>
+      <LOC_STRING _locID="mapsize:medium"  >중형</LOC_STRING>
+      <LOC_STRING _locID="mapsize:large"  >대형</LOC_STRING>
+      <LOC_STRING _locID="mapsize:header"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">
+            지도 크기:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:format"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:header"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">
+            위치
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:format"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:header"  >
+         <font name="굴림" size="10" shadowx="1" shadowy="1">
+            난이도:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:easy"  >초급</LOC_STRING>
+      <LOC_STRING _locID="difficulty:medium"  >보통</LOC_STRING>
+      <LOC_STRING _locID="difficulty:hard"  >고급</LOC_STRING>
+      <LOC_STRING _locID="globe_label:format"  >
+         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               세계 지도
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_name_field:format"  >
+         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_other_field:format"  >
+         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">%text%</color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

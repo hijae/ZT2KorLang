@@ -1,0 +1,16 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Terrain_Carrots"  >당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_stt"  >당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_lower"  >당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_ltt"  >
+         <color r="255" g="248" b="178">
+            당근
+         </color>
+         <br/>
+         
+         
+         당근을 선택하고 적당한 위치에 놓으세요. 당근은 초식동물이 좋아하는 채소입니다.
+      
+      
+      </LOC_STRING>
+</ZT2Strings>

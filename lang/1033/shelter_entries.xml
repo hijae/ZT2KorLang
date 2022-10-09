@@ -1,0 +1,557 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beaverlodge:entry">비버 오두막</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beaverlodge:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            비버는 우리 안에 있는 나무 막대나 나뭇가지로 비버 오두막을 만듭니다.  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <a href="zoopedia:zoopedia_beaver:entry">
+                     <u>
+                        <color r="255" g="231" b="135">비버 </color>
+                     </u>
+                  </a>
+                  
+                   는 헤엄을 쳐서 비버 오두막으로 들어갑니다.
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cubbingden:entry">출산용 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cubbingden:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/CubbingDen_Shelter/CubbingDen_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  따뜻하고 조용한 밀폐 공간으로 새끼를 낳은 동물이 새끼와 함께 쉴 수 있는 곳입니다.	             
+                  
+                  
+                  
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephanthouse:entry">코끼리 우리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elephanthouse:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/ElephantHouse_Shelter/ElephantHouse_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                                 
+               코끼리 우리는 크고 넓은 콘크리트 건물로
+               코끼리의 큰 덩치에 맞게 설계된 시설입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_nestbox:entry">나무 오두막</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_nestbox:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/ElevatedNestBox_Shelter/ElevatedNestBox_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            나무 오두막은 긴 기둥 위에 집 같이 생긴 작은 둥지가 달린 형태로
+               높은 곳을 좋아하는 동물들에게 적당한 시설입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffehouse:entry">기린 우리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffehouse:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/GiraffeHouse_Shelter/GiraffeHouse_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               기린의 키에 맞게 특별히 설계된 높은 
+               건물입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundnest:entry">보금자리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundnest:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               보금자리는 나뭇잎을 쌓아 만든 집으로, 많은 동물들의
+               편안한 쉼터가 됩니다.
+	       
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+	       고릴라를 포함한 많은 동물들에게 보금자리 만들기는 중요한 본능 행동입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treestump:entry">속이 빈 나무</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treestump:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/HollowTreeStump_Shelter/HollowTreeStump_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               자이언트 팬더와 레드 팬더는 크고 속이 비어 있는 나무 밑동을
+               편안한 보금자리로 생각합니다. 관람객들은 동물들이 야생 서식지와 비슷한
+               우리에 있을수록 더 좋아합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_concreteshelter:entry">벽돌 우리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_concreteshelter:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SmallConcrete_Shelter/SmallConcrete_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/shelters/LargeConcrete_Shelter/LargeConcrete_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+		밀폐된 공간에서 자는 것을 좋아하는 동물에게 가장 안전하고 편안한 안식처입니다. 
+               작은 벽돌 우리에는 최대 2마리, 큰 벽돌 우리에는 최대 4마리까지 살 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockcave:entry">바위 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockcave:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SmallRockCave_Shelter/SmallRockCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/shelters/LargeRockCave_Shelter/LargeRockCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               큰 바위 동굴은 천정에 공기 구멍이 나 있는 동굴로
+               동물들의 천연 서식지로 이용됩니다. 바위 동굴을 좋아하는 동물에는
+               어둡고 밀폐된 환경을 선호하는 북극곰과 치타도 포함됩니다. 작은 동굴에는 2마리,
+               큰 동굴에는 최대 4마리까지 살 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_snowyrockcave:entry">눈 덮인 동굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_snowyrockcave:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SmallSnowCave_Shelter/SmallSnowCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/shelters/LargeSnowCave_Shelter/LargeSnowCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   눈 덮인 큰 바위 동굴은 천정에 공기 구멍이 나 있는 동굴로
+               동물들의 천연 서식지로 이용됩니다. 눈 덮인 바위 동굴을 좋아하는 동물에는
+               춥고 어두우면서 밀폐된 환경을 선호하는 북극곰과 펭귄도 포함됩니다.
+               작은 동굴에는 2마리,
+               큰 동굴에는 최대 4마리까지 살 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stable:entry">마구간</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_stable:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SmallStable_Shelter/SmallStable_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/shelters/LargeStable_Shelter/LargeStable_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  바닥에 짚이 깔려 있는 밀폐된 나무 건물로서 말과의 포유류가 좋아하는 시설입니다. 
+               마구간 외부에는 비바람을 막고 그늘을 만들어 주는 지붕이 달려 있습니다. 작은 마구간에는 2마리, 큰 마구간에는 
+               4마리까지 살 수 있습니다.
+               
+               
+               
+               
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  작은 마구간과 큰 마구간은 밀폐되고 휴식을 취하기에 좋은 건물로 말과의 포유류가 좋아하는 시설입니다. 
+               큰 마구간은 작은 마구간에 비해 더 많은 동물들이 살 수 있습니다.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodenshelter:entry">나무 우리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_woodenshelter:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SmallWooden_Shelter/SmallWooden_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/shelters/LargeWooden_Shelter/LargeWooden_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               밀폐된 공간에서 자는 것을 좋아하는 동물에게 안전한 안식처입니다. 
+               작은 나무 우리에는 최대 2마리, 큰 나무 우리에는 최대 4마리까지 잠잘 수 있습니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raisedsleepingplatform:entry">바위 침대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raisedsleepingplatform:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/RaisedSleepingPlatform_Shelter/RaisedSleepingPlatform_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               나무 비탈길이 설치되어 있어 지상의 천적을 피하고 싶은 동물이 올라가 
+               잠을 잘 수 있는 시설입니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shadestructure:entry">그늘터</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shadestructure:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/ShadeStructure_Shelter/ShadeStructure_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               햇볕을 피하려는 동물을 위해 고안된 간단한 구조물입니다.
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sleepingbasket:entry">나뭇가지 침대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sleepingbasket:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/shelters/SleepingBasket_Shelter/SleepingBasket_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               주로 영장류가 사용하는 시설로 큰 동물 1마리 또는 작은 동물 2마리가 들어갈 수 있습니다. 
+           바구니에 푹신한 잠자리 재료를 깔아 주면 동물이 더 편안하게 지낼 수 있습니다.
+           잠자리 재료는 시간이 지나면서 점점 더러워집니다.
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

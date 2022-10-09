@@ -1,0 +1,136 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_shows:entry"  >공연/수조 시설물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shows:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>공연 수조를 만들려면 공연에 참여할 수 있는 동물의 일반 수조와 연결된 수조에 무대를 설치하세요. 그런 다음 공연 수조를 바라보도록 관람석을 설치하고 묘기 일정을 짜서 공연을 만드세요!
+			<p/>특정 공연/수조 시설물에 대한 정보를 보려면 왼쪽 목록에서 공연/수조 시설물 이름을 클릭하세요.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:entry"  >무대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>사회자는 무대에서 공연을 진행합니다. 무대를 사용해서 공연을 만들 수도 있습니다. 공연에 참여할 수 있는 동물의 일반 수조와 연결된 빈 수조에 무대를 설치한 다음 무대를 클릭하면 공연 일정이 표시됩니다.
+			<p/>챌린지 모드에서 두 개의 해양 공연 챌린지를 완료하면 대형 스크린을 무대에 설치할 수 있습니다. 해양 공연 캠페인을 완료하면 화려한 색의 고급 무대로 업그레이드할 수 있는 그늘 지붕을 받습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:entry"  >관람석</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>			
+			<p/>관람석은 관람객들이 편안하게 앉아서 공연을 관람할 수 있는 시설입니다. 관람석에 앉아서 공연을 관람하면 공연에 대한 만족도가 높아집니다.
+			<p/>소형 관람석은 2명, 중형 관람석은 4명, 대형 관람석은 6명이 앉을 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry"  >고급 관람석</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>고급 관람석은 일반 관람석에 비해 색상이 화려하고 더 편안합니다. 3등상을 수상하면 중형 고급 관람석을 설치할 수 있으며, 2등상을 수상하면 대형 고급 관람석을 설치할 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:entry"  >수조 조명</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>수조 조명은 수조 안이나 기타 물이 있는 우리에 설치할 수 있습니다. 특히 빛이 부족한 해저 환경 우리나 습지 우리에 설치하면 좋습니다.
+			<p/>공연 연출 3등상을 수상하면 수조 조명을 구입할 수 있습니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:entry"  >수조 연결문</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>수조 연결문은 공연 수조와 우리로 사용되는 일반 수조를 연결하는 통로입니다. 공연에 참여하는 동물이라도 항상 공연 수조에서 지낼 수는 없습니다. 따라서 공연을 마친 동물이 살 수 있는 일반 수조를 만들어주어야 합니다. 일반 수조와 붙여서 공연 수조를 만든 다음 수조 연결문을 설치하세요. 공연 시간이 되면 공연에 참여하는 동물은 수조 연결문을 통해 공연 수조로 이동합니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:entry"  >훈련장</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>공연에서 묘기를 부릴 수 있도록 동물들을 훈련시키는 곳입니다. 동물을 훈련시키려면 수조에 훈련장과 수조 입구를 설치해야 합니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:entry"  >묘기 위치</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>공연에 참여한 동물들은 묘기 위치에서 묘기를 부립니다. 묘기 위치를 이동하려면 묘기 위치를 선택하고 원하는 지점으로 옮기면 됩니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:entry"  >묘기 단상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:text"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>태평양바다코끼리나 캘리포니아바다사자 등의 동물은 묘기 단상에서 묘기를 부릴 수 있습니다. 묘기 단상을 이동하려면 묘기 단상을 선택하고 원하는 지점으로 옮기면 됩니다.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>	
+
+</ZT2Strings>

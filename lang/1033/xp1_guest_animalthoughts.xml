@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:AnimalLickObjectGood"  >봐! %1s이(가) %2s을(를) 핥고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalBarkGood"  >봐! %1s이(가) %2s한테 짖고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGrowlBad"  >%1s이(가) 짜증나서 %2s에게 으르렁거리는 것 같아.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGrowlSelfBad"  >%s이(가) 짜증나서 으르렁거리는 것 같아.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalChaseTailGood"  >멍청한 %s이(가) 자기 꼬리를 물려고 하네!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalHowlGood"  >와! %s이(가) 우는 소리 들었니?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalHootGood"  >%1s이(가) %2s에게 우우거리고 있네!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalSingGood"  >멋진데! %1s(이)가 %2s에게 노래를 불러주고 있어!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalTwitterGood"  >우와, %1s이(가) %2s한테 지저귀고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalChitterGood"  >이야, %1s이(가) %2s한테 짹짹거리고 있어!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalWhineBad"  >%s이(가) 울고 있어! 어디가 불편한 모양이야.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalRegurgitateGood"  >윽! %s이(가) 먹은 걸 토하고 있어!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalBegBad"  >%s이(가) 애원하고 있어. 불쌍하다!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalCreche"  >와! %1s이(가) 다른 %2s들과 어울리는 모습이 보기 좋아!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalUseSnowCaveBad"  >%1s이(가) %2s을(를) 사용하니까 이상한데.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalSlidingGroundGood"  >멋지다! %s이(가) 땅에서 미끄러지듯이 움직이네.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalCarryRemora"  >와! 빨판상어가 %s을(를) 닦아주고 있어!</LOC_STRING>
+</ZT2Strings>

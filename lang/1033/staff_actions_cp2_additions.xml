@@ -1,0 +1,10 @@
+<ZT2Strings>
+      <LOC_STRING _locID="superstaff:tranq_animal"  >%s을(를) 진정시키려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:take_sample"  >%s에서 샘플을 가져오려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:already_sampled"  >이미 %s에서 샘플을 가져왔습니다.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_search_cure"  >%s의 치료법을 찾으려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:animal_cure"  >%s을(를) 치료하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:dig_artifact"  >이 곳을 발굴하려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:artifact_blocked"  >이 구역은 %s에 의해 차단되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="superstaff:artifact_inaccessible"  >이 발굴 구역은 무언가에 의해 차단되었습니다!</LOC_STRING>
+</ZT2Strings>

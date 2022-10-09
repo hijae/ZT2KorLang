@@ -1,0 +1,7 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTWebComponent" version="0" />
+      <LOC_STRING _locID="ZTWebComponent:OfficialFilesSite" version="0"  >http://zootycoon.com/zt2/1042/</LOC_STRING>
+      <LOC_STRING _locID="ZTWebComponent:MOTDSite" version="0"  >http://zootycoon.com/zt2/1042/</LOC_STRING>
+      <LOC_STRING _locID="ZTWebComponent:FilesIndexURL" version="0"  >filesindex2.xml</LOC_STRING>
+      <LOC_STRING _locID="ZTWebComponent:MOTDURL" version="0"  >motd.xml</LOC_STRING>
+</ZT2Strings>

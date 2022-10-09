@@ -1,0 +1,37 @@
+<ZT2Strings>
+      <LOC_STRING _locID="staffthoughts:EntertainerGotoEntertainGuests"  >It's time to do a show!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerEntertainGuests"  >I hope the crowd likes my show!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerGotoEntertainGuest"  >Oh no, %s looks bored. I better entertain them.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerEntertainGuest"  >I'm glad that %s likes my antics!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerSplashFountain"  >Good thing there's a splash fountain here, this suit gets hot!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerDanceMusicalRock"  >If there's music, let's dance!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:MaintenanceWorkerGetPlantFoliage"  >That spot could use foliage from %s.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:MaintenanceWorkerGoPlantTree"  >I'm going to plant a tree at %s.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorGotoEducateGuestsFossils"  >I can't wait to teach guests about fossils!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorEducateGuestsFossils"  >Ooh! Don't forget to tell them to dig for bones in the Play Dig Pit!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistSearchFossil"  >Hey, I think there is something nearby ...</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistMarkFossil"  >Mark this spot to secure the site!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistGotoDigFossil"  >Enough scanning ... time to get digging!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistDigFossil"  >I love digging in the dirt! Finding fossils is the best part of my job!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateRegroup"  >Where did %s go to now?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateLookFor"  >Where is %s?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateTagDino"  >There's our target! %s is over there!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallDinoDistraction"  >%s needs to be distracted to tranquilize it.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallDinoTranq"  >%s needs to be tranquilized now!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateRecallTeam"  >Well done, rampage over!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallRobotReplacement"  >Oh, no! Our distraction robot is gone! Better call in a replacement.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryCrateTeamGoCrateAnimal"  >It's my turn to crate the animal.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryCrateTeamCrateAnimal"  >The dinosaur is crated. Are any others rampaging?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotFollow"  >11011001101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotStaffFailure"  >10101102</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotWaitingForTask"  >00000000</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotGoingToDistract"  >111011001</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotDistracting"  >101001101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotAttackedAnimal"  >1040206085ERROR</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryRobotSplashFountain"  >1020100101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTTranqFollow"  >Better keep up -- don't want to get left behind!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTTranqChaseDino"  >There's %s! Get into position!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryTranqTeamGoTranqAnimal"  >I am sooo not paid enough for this!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryTranqTeamTranqAnimal"  >That was dangerous!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:Scared"  >Oh, no! %s is rampaging!</LOC_STRING>
+</ZT2Strings>

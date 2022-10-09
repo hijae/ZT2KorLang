@@ -1,0 +1,62 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthic:entry"  >해저 서식 환경</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthic:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>해저 서식 환경은 원양 지대의 아래쪽의 해저면입니다. 하지만 심해저대로 알려진 가장 깊고 어두운 지역은 포함되지 않습니다.
+                  <p/>해저 서식 환경의 바닥은 모래, 침적토, 죽은 유기체로 이뤄져 있습니다. 박테리아, 곰팡이, 해면, 말미잘, 바다해충, 불가사리, 해저 어류 등 영양분이 풍부한 환경을 선호하는 동물과 유기체가 해저 서식 환경에 서식합니다. 이곳에서는 해초도 자랍니다.
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:entry"  >연안 서식 환경</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>조간대라고도 하는 연안 서식 환경은 바다가 육지와 만나는 지대를 말합니다. 이 지역은 해수에 잠기기도 하고 대기에 노출되기도 합니다. 이 지역에 서식하는 동물과 식물은 해수와 대기에 모두 적응할 수 있는 능력을 갖추고 있습니다.
+                  <p/>밀물이 가장 높을 때 해수가 닿는 지역에는 몇몇 해조류와 연체동물만 서식합니다. 하지만 이런 해조류를 비롯한 고둥, 게, 불가사리, 작은 어류 등 소형 동물들의 종이 다양하게 서식합니다. 썰물 때에만 노출되는 연안 서식 환경의 바닥에는 다수의 무척추동물, 어류, 해초가 서식합니다. 연안 서식 환경에 서식하는 모든 생물은 끊임없이 움직이는 모래에 적응할 수 있는 능력이 필수적입니다. 해안 절벽 지대도 연안 서식 환경에 속합니다. 이런 지역에 서식하는 생명체는 극히 드문데 나름대로 일정한 서식지를 형성하고 있습니다.
+   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:entry"  >원양 서식 환경</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>원양 서식 환경은 육지에서 멀리 떨어진 먼 해양입니다. 일반적으로 해수 온도가 낮지만 난류와 한류가 일정하게 뒤섞이면서 열층이 형성되기 때문에 어느 정도 수온 변화가 생깁니다. 고래와 돌고래를 비롯한 일부 포유류, 부유성 해초 및 다양한 종의 어류가 이 지역에 서식합니다.  
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:entry"  >암초 서식 환경</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>암초 서식 환경은 생물학적으로 가장 다양한 서식 환경을 갖춘 연안 및 원양 생태계이며 아름다운 생물이 많이 서식하는 것으로 유명합니다. 암초는 수면 바로 아래까지 돌출된 바위를 말합니다. 산호초는 전체 또는 대부분이 산호로 이뤄져 있으며, 작은 동물들이 이곳에서 집단으로 서식합니다. 수백 년에서 수천 년 동안 죽은 산호의 석회질이 쌓이고 쌓여 또 새로운 산호를 형성하면서 산호초가 생겨납니다. 위쪽의 살아 있는 산호와 이곳에 서식하는 많은 유기체가 바로 산호초가 되는 것입니다.   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

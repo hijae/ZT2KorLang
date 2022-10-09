@@ -1,0 +1,51 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthicrocks:entry"  >해저 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthicrocks:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>고래상어나 고블린상어 등 해저 서식 환경에 사는 동물의 수조는 해저 바위를 이용해 꾸미면 좋습니다. 또한 공터를 해저 바위로 장식하면 바다 분위기를 낼 수도 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reefrocks:entry"  >암초 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reefrocks:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>쥐가오리나 흑기흉상어 등 암초 서식 환경에 사는 동물의 수조는 암초 바위를 이용해 꾸미면 좋습니다. 또한 공터를 암초 바위로 장식하면 바다 분위기를 낼 수도 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastalrocks:entry"  >연안 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastalrocks:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>캘리포니아바다사자나 록호퍼펭귄 등 연안 서식 환경에 사는 동물의 수조는 연안 바위를 이용해 꾸미면 좋습니다. 또한 공터를 연안 바위로 장식하면 바다 분위기를 낼 수도 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

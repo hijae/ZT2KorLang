@@ -1,0 +1,68 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="awards:AfricaTycoonOne_name"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              아프리카 생태 동물원 최고 경영자 상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:AfricaTycoonOne_pre_ltt"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              동물원에 10종이 넘는 아프리카 동물을 입양하면
+              <color r="255" g="255" b="0" a="255">
+                 아프리카 지프</color>
+              를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:AfricaTycoonOne_post_ltt"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 동물원에 입양한 아프리카 동물이 10종이 넘어
+              <color r="255" g="255" b="0" a="255">
+                 아프리카 지프</color>            
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:JeepTycoonOne_name"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              지프 시설 운영상
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:JeepTycoonOne_pre_ltt"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              투어 기부금으로 $15,000를 모으면
+              <color r="255" g="255" b="0" a="255">
+                 5인승 지프</color>
+              를 구입할 수 있습니다.               
+           </font>
+        </LOC_STRING>
+      <LOC_STRING _locID="awards:JeepTycoonOne_post_ltt"  >
+           <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+              잘했습니다! 투어 기부금으로 $15,000를 모아
+              <color r="255" g="255" b="0" a="255">
+                 5인승 지프</color>            
+              를 구입할 수 있게 되었습니다.
+           </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AfricanAdventureCampaign_name"  >
+         <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            아프리카 생태 체험 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AfricanAdventureCampaign_pre_ltt"  >
+         <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            아프리카 생태 체험 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               사막 스타일 건물 및 아이템</color>
+            을 받게 됩니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AfricanAdventureCampaign_post_ltt"  >
+         <font name="쉐비 B" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 아프리카 생태 체험 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               사막 스타일 건물 및 아이템</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemdesert"  >
+   		축하합니다! 사막 스타일 건물 및 아이템을 사용할 수 있게 되었습니다!
+   	</LOC_STRING>
+</ZT2Strings>      

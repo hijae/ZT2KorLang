@@ -1,0 +1,201 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_coral:entry"  >산호</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coral:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/BlueGreenCoral/BlueGreenCoral_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+                  <img src="entities/objects/foliage/FireCoral/FireCoral_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+                  <img src="entities/objects/foliage/PlateCoral/PlateCoral_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+                  <img src="entities/objects/foliage/TableCoral/TableCoral_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>                  
+               </cell>
+               <cell pady="15" width="400">
+산호초 형성에 가장 중요한 생명체는 당연히 산호입니다. 산호는 폴립이라 불리는 관 모양의 단순한 몸을 가진 작은 동물입니다. 입은 몸의 위쪽에 있으며, 수많은 촉수가 입 주위를 둘러싸고 있습니다. 산호초를 만드는 산호는 군집 생활을 하는 돌산호류뿐입니다. 수천 개의 폴립이 동일한 석회석 뼈대(탄산칼슘염)에 자리를 잡고 함께 자라는데, 이렇게 수년의 시간이 흐르면 석회석 뼈대는 거대한 구조물이 되고 그 표면은 수많은 산호가 살아있는 층을 형성하게 됩니다. 
+						<p/>
+산호가 산호초 형성에 가장 중요한 역할을 하는 것은 사실이지만 산호만이 산호초를 만드는 것은 아닙니다. 연체동물 같은 일부 동물도 석회석으로 뼈대를 만들며, 수많은 해조류 또한 석회석 뼈대를 형성하는데 관여합니다. 분홍색이나 붉은색 산호조류는 석회석 표면을 둘러싸면서 자라 산호초에 시멘트와 같은 역할을 하기도 합니다.
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_featherstar:entry"  >갯고사리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_featherstar:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/MyriadFeatherStar/MyriadFeatherStar_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+바다나리라고 불리기도 하는 갯고사리는 열대 해양이 원산지인 극피동물을 통칭하는 이름입니다. 원반 모양의 몸은 골판으로 싸여 있으며, 깃 모양의 팔은 몸의 위쪽으로 뻗어있어서 전체적으로 컵 모양을 이룹니다.  입과 항문은 몸 위쪽에 위치합니다. 몸 아래에는 해저 바닥에 붙을 수 있도록 덩굴처럼 생긴 줄기가 있습니다. 일부는 성장하면서 덩굴 줄기가 없어져서 팔을 이용해 헤엄을 치거나 바닥을 기어다닙니다. 자유롭게 헤엄치는 모습 때문에 갯고사리라고 합니다(이 문장은 필요없는 부분같아요. 삭제하는 것이 자연스러울거 같습니다. 영문 이름인 feather star와 관련된 설명이네요) 평생 바닥에 붙어서 사는 개체는 주로 심해에 서식합니다. 이들은 색이 매우 화려한 것이 특징입니다.
+						<p/>
+갯고사리는 극피동물 중에서 가장 원시적인 형태입니다. 현재는 수백 종만 살고 있지만 화석으로 발견되는 종은 수천에 달하며, 특히 고생대에 형성된 석회층에서 많이 발견되었습니다. 
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giantbarrelsponge:entry"  >대형 항아리해면</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giantbarrelsponge:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/GiantBarrelSponge/GiantBarrelSponge_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+대형 항아리해면은 해면 중에서도 손에 꼽힐 정도로 멋진 종입니다. 해면은 물을 걸러서 먹이를 먹는 가장 단순한 형태의 동물로 근육, 신경 및 분화된 기관이 없습니다. 해면질로 만들어진 빼대는 유연하여 오래 전부터 사람들은 문질러 닦는 도구로 사용했습니다. 최근에는 합성 물질로 만든 인공 스펀지가 천연 해면을 대신하고 있습니다. 
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_greenseaanemone:entry"  >녹색말미잘</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_greenseaanemone:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/AnemoneGiantGreen/AnemoneGiantGreen_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+말미잘은 바다에 사는 꽃모양의 폴립형 생물체를 통칭하는 이름으로, 원통이나 꽃병 모양의 몸체를 가지고 있습니다. 대부분의 말미잘은 나름의 색을 띠고 있으며 대형 녹색말미잘과 같은 대형 종은 직경이 1m에 이르기도 합니다. 몸은 한쪽 끝은 바위나 산호에 붙어 막혀있으며, 반대쪽의 중앙에 입이 있으며 입 주위를 자포로 무장한 촉수가 둘러싸고 있습니다. 자포를 이루는 자포세포 안에 있는 가는 실을 발사하여 먹이가 되는 작은 물고기나 해양 동물을 마비시키고 감아서 잡아먹습니다. 가느다랗게 벌어진 입은 짧은 식도를 통해 몸체 내부로 연결됩니다. 입의 양쪽 끝에 관구(siphonoglyph)라고 하는 섬모가 난 구멍이 있습니다. 이 구멍을 통해 식도로 바닷물이 지속적으로 드나들면서 조직에 산소를 전달하고 노폐물을 제거하는 역할을 합니다. 몸의 내부는 체벽에서 이어진 격막을 통해 수많은 방으로 나뉘어 있습니다. 이러한 격막은 소화액 분비와 영양분 흡수를 위한 표면적을 증가시키는 역할을 합니다. 정자와 난자를 생산하는 생식선도 이 막에 있습니다.
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kelpforest:entry"  >켈프 숲</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kelpforest:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/KelpForest/KelpForest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+해초라고도 불리는 켈프는 잎이 많은 대형 갈조류를 통칭하는 이름으로 온도가 낮은 해안 지역에서 자랍니다. 켈프류 중 가장 중요한 속은 대부분의 온도가 낮은 바다에 서식하는 트루켈프입니다. 자이언트켈프와 블래더켈프는 북태평양에서만 서식합니다. 자이언트켈프는 최대 65m까지 자랍니다. 켈프류 식물들은 뿌리와 비슷한 흡착 기관이 있어서 바위 표면에 붙어 자랄 수 있습니다. 길고 가는 줄기가 있으며 광합성을 통해 양분을 만드는 잎처럼 생긴 긴 부분이 있습니다. 양치류 식물과 마찬가지로 켈프도 세대 교번을 통해 번식합니다.
+						<p/>
+한때 요오드와 소다의 주 공급원이었던 켈프는 이제 아이스크림의 결정 형성을 막거나 타이어의 원료로 쓰이는 알긴산 제조 원료로 사용되고 있습니다. 켈프는 비타민과 미네랄이 풍부한 주요 식품으로 특히 일본인들이 즐겨 먹습니다.
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_phaeophyta:entry"  >갈조식물</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_phaeophyta:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Phaeophyta/Phaeophyta_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+갈조류 또는 모자반으로 알려진 갈조식물은 대규모로 떠다니는 여러 종의 열대 해초를 통칭하는 이름입니다. 잎처럼 생긴 부분이 달린 가지가 있으며 공기가 든 작은 주머니가 많아서 떠다닐 수 있습니다. 갈조 식물 중 가장 널리 알려진 종은 모자반 즉 사르가소입니다. 이 갈조류는 주로 멕시코만에서 북동쪽으로 흐르는 멕시코 만류와 서인도 제도와 아조레스 제도 사이에 있는 대서양의 사르가소해에서 큰 군락을 이루며 떠다닙니다. 
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seafan:entry"  >부채 산호</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seafan:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/SeaFan/SeaFan_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+부채 산호는 고르고니안 산호의 일종으로 일반 산호와 마찬가지로 식물처럼 보이는 동물입니다. 고르고니안 산호로는 붉은 산호와 부채 산호 이외에도 채찍 산호, 깃털 산호, 막대 산호 등이 있습니다. 이들은 카리브해를 비롯한 열대 및 아열대 해양에 서식하며, 현재까지 밝혀진 종류만 수백 종에 이릅니다.
+						<p/>
+고르고니안 산호의 생활사는 다른 산호와 비슷하여 유생 형태로 바위에 자리를 잡은 뒤에 폴립으로 성장하게 됩니다. 폴립은 관모양이며 위쪽 입구는 촉수로 둘려쌓여있습니다. 일단 폴립으로 변한 이후에는 여러 차례 무성 생식을 통해 번식해 나무, 뿔, 부채 모양으로 커갑니다. 이들이 형성하는 산호초는 30년 정도가 되면 최대 직경 3m까지 커집니다. 산호초는 고정된 밑부분은 작아도 위쪽은 커다란 모양으로 나무와 같은 모습을 띱니다. 채찍 산호 같은 일부 종은 가지를 거의 뻗어나가지 않지만, 대부분의 종은 가지를 크게 뻗어나가거나 격자 무늬를 이루며, 해류의 방향과 직각을 이룹니다.
+						<p/>
+고르고니안 산호는 바깥쪽의 외배엽과 안쪽의 내배엽으로 이루어진 2중막 구조를 하고 있습니다. 이 두 배엽 사이의 공간을 공육체(coenenchyme)라고 부르며, 이 공간에는 젤리 같은 간충질(mesoglea)과 위장관(gastrodermal canals)이 있습니다. 위장관은 한 군락을 형성하는 모든 폴립을 연결하여 서로 먹이를 공유할 수 있게 합니다. 각각의 폴립은 8개의 촉수를 지니고 있으며, 내부에는 막이 있어서 수직 방향으로 8 부분으로 나뉩니다. 이렇게 나뉜 부분은 강장이라고 불리는 몸체 중앙부를 중심으로 대칭이 되게 분포되어 있는데, 이 강장에서 소화작용이 일어납니다. 한 번 입을 열면 먹이를 받아들이고 노폐물을 배출하는 작용이 동시에 일어납니다.
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seastar:entry"  >불가사리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seastar:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/SeaStars/SeaStars_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+불가사리는 방사형으로 배열된 팔에 운동력이 있는 관족을 가지고 있는 5목 1500여종의 무척추 해양 동물을 통칭하는 이름입니다. 일부 불가사리는 다 자라도 직경이 1-2cm에 불과하지만 직경 65cm에 이르는 종도 있습니다. 불가사리는 모든 수심에 고르게 분포합니다.
+						<p/>
+불가사리는 극피동물만의 독특한 특징인 내부 수관계를 가지고 있습니다. 몸의 중앙에 위치한 고리모양의 수관을 통해 각 팔과 관족에 분포한 모든 수관이 연결됩니다. 몸통이 변형되어 생긴 이 통로는 물로 차 있어서 이동할 때 몸을 지탱하는 뼈대 역할을 합니다. 관족을 통해 물을 뿜어내어 몸을 팽창시키거나 빨판을 물체 표면에 붙일 수 있으며, 관족의 아래부분에 있는 근육을 수축시켜서 앞으로 이동할 수 있습니다. 
+						<p/>
+일반적으로 불가사리는 몸이 딱딱하고 느린 속도로 기어서 이동합니다. 입은 몸 아래에 달렸으며, 그 주위에 여러 개의 팔이 있고 각각의 팔에 이동, 밀착, 먹이 사냥에 이용되는 관족이 여러 줄 있습니다. 팔의 길이는 다양하며 일반적으로 5개가 달렸지만 4개나 6개, 혹은 그 이상이 달린 경우도 있습니다. 항문은 없는 경우가 많지만 항문이 있는 경우 몸 위쪽에 달렸습니다. 피부는 거칠고 질기며 보통 가시모양의 돌기가 많습니다. 소화기관은 크고 몸통의 구조는 복합하지만 신경계는 단순하고 뇌가 없습니다.
+						<p/>
+불가사리는 촉각, 후각, 미각이 잘 발달되어 있으며 빛에도 반응합니다. 해저 퇴적물을 비롯한 다양한 먹이를 먹습니다. 작은 동물은 통째로 먹을 수 있으며, 큰 동물은 위를 밖으로 내어 몸 밖에서 소화시킵니다. 일부 불가사리는 조개를 먹이로 삼기도 하는데, 팔을 이용해 조개껍데기를 벌리고 위를 밀어 넣어 먹는 방법을 사용합니다.
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft(c) Encarta(c) 2006.</color></u></a> (c) Microsoft 1993-2005. All rights reserved.
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tussacgrass:entry"  >투삭 수초</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tussacgrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Papyrus/Papyrus_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+투삭 수초는 남아메리카, 포클랜드제도, 오스트레일리아, 뉴질랜드가 원산지인 억센 육상 식물입니다. 해안을 따라 머리털이 뭉친 듯한 빽빽한 덤불을 형성하며 자라는 투삭 수초는 높이가 2m에 이릅니다. 극도로 열악한 환경에서도 잘 자라는 특징 때문에 스코틀랜드에서는 가축 먹이로 이용하려고 도입하였습니다.               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,50 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat"  >
+         <font name="굴림" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat"  >
+         <font name="굴림" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message"  >
+         <font name="휴먼모음T" size="20">
+            게임 저장 완료
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert"  >
+         <font name="휴먼모음T" size="16">
+            <color r="255" g="197" b="78">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed"  >하드 디스크 공간이 부족해서 게임을 저장할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:diskfull_operation_failure"  >하드 디스크 공간이 부족해서 작업을 완료할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed"  >하드 디스크 공간이 부족해서 사진을 저장할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed"  >하드 디스크 공간이 부족해서 다운로드를 완료할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile"  >프로필 이름은 최소한 1자 이상의 문자나 숫자여야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save"  >파일 이름은 최소한 1자 이상의 문자나 숫자여야 합니다. </LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists"  >프로필이 이미 존재합니다. 다른 이름을 선택하십시오.</LOC_STRING>
+      <LOC_STRING _locID="alert:album_exists"  >사진 앨범 이름이 중복되었거나 비어 있으면 안 됩니다. 다른 이름을 선택하십시오.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_problem"  >프로필을 만들지 못했습니다. 다른 이름을 입력하십시오.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly"  >읽기 전용 파일입니다. 게임을 저장할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed"  >파일이 손상되었거나 읽을 수 없습니다. 게임을 불러올 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:skipped_entity_load"  >불러온 게임에 시스템에 설치되지 않은 아이템이 들어 있습니다. 개체, 동물 또는 울타리가 누락될 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:delete_failed"  >게임을 삭제할 수 없습니다. 파일이 읽기 전용일 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:options_save_failed"  >사용자 옵션을 저장할 수 없습니다. 현재 프로필이 잘못되었을 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:new_save_game"  >불러오려는 저장된 게임은 새 버전의 Zoo Tycoon 2에서 만든 것이므로 현재 버전에서는 지원되지 않습니다.</LOC_STRING>
+      <LOC_STRING _locID="alert:old_save_game"  >불러오려는 저장된 게임은 현재 Zoo Tycoon 2 버전에서 더 이상 지원되지 않습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title"  >Zoo Tycoon 2 시작 에러</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed"  >InitConfigInformation을 불러오는데 실패했습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed"  >Direct3D 객체를 생성하는데 실패했습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed"  >Config_InitVideoCardInfo를 불러오는데 실패했습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed"  >그래픽 어댑터 모드 연산에 실패했습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor"  >Zoo Tycoon 2를 원활하게 실행하려면 1.0 GHz 이상의 CPU가 필요합니다. 이 컴퓨터의 CPU는 %s MHz입니다.</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory"  >Zoo Tycoon 2를 실행하려면 %1s MB 이상의 메모리가 필요합니다. 이 컴퓨터의 메모리는 %2s MB입니다.</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory"  >Zoo Tycoon 2를 실행하려면 %1s MB 이상의 비디오 메모리를 갖춘 그래픽 카드가 필요합니다. 사용 중인 그래픽 카드의 비디오 메모리는 %2s MB입니다.</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter"  >Zoo Tycoon 2는 %s 그래픽 카드를 지원하지 않습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter"  >%s 그래픽 카드는 Zoo Tycoon 2 실행 시 문제를 일으킬 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver"  >그래픽 카드 드라이버가 운영 체제와 호환되지 않습니다. 그래픽 카드 제조업체에서 업데이트 된 드라이버를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver"  >Zoo Tycoon 2를 원활하게 실행하려면 최신 버전의 그래픽 카드 드라이버를 설치해야 합니다. 그래픽 카드 제조업체에서 최신 드라이버를 다운로드해 설치하십시오.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver"  >사운드 카드 드라이버가 운영 체제와 호환되지 않습니다. 사운드 카드 제조업체에서 업데이트 된 드라이버를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver"  >Zoo Tycoon 2를 원활하게 실행하려면 최신 버전의 사운드 카드 드라이버를 설치해야 합니다. 사운드 카드 제조업체에서 최신 드라이버를 다운로드해 설치하십시오.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed"  >그래픽을 구현할 수 없습니다. 그래픽 카드 제조업체에서 업데이트 된 최신 드라이버를 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="error:mm_not_installed"  >Zoo Tycoon 2가 적절하게 설치되지 않았습니다. 시스템 설정을 확인하고 다시 설치하세요.</LOC_STRING>
+</ZT2Strings>

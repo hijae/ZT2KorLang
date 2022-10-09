@@ -1,0 +1,20 @@
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext" version="9" />
+      <LOC_STRING _locID="PhotoChallengetext:PHUngulate" version="9"  >
+               
+		You were approached by a scientific journal writing an educational article about 
+		even-toed ungulates (Artiodactyls). They want three specific pictures
+		and offered you $750 per picture. If you photograph a 
+		dromedary camel, a gemsbok, and a Thomson's gazelle, you get $2,250. The 
+		resulting publicity should also boost your zoo fame.
+
+      		             
+                <br/>
+               
+      		Difficulty: Easy
+         	
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHUngulateShort" version="9"  >
+   		Provide a photo of a dromedary camel, a photo of a gemsbok, and a photo of a Thomson's gazelle.
+   	</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,20 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:animal_eggtimer"  >부화 타이머: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_eggtimer_ltt"  >
+         <color r="255" g="248" b="178">
+            부화 타이머
+         </color>
+         <br/>
+         
+         
+  알의 부화 단계를 표시합니다. 표시기가 가득 차면 알이 부화됩니다.      
+         
+         
+         
+         
+         
+       
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:disabled"  >해당 없음</LOC_STRING>
+</ZT2Strings>

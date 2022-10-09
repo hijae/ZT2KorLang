@@ -1,0 +1,34 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoomessages:AnimalLowBreath"  >%s이(가) 숨을 못 쉬고 있으며 산소도 부족합니다! </LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalDieBreath"  >%s이(가) 산소가 떨어져 죽었습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CriticalWaterSpaceAnimal"  >%s은(는) 더 넓은 수조가 필요합니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CriticalWaterDepthAnimal"  >%s은(는) 더 깊은 수조가 필요합니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CriticalLandSpaceAnimal"  >%s은(는) 더 많은 지상 공간이 필요합니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CriticalTankDirtinessAnimal"  >%s은(는) 더러운 물을 싫어합니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalAboutGrow"  >%s이(가) 거의 다 성장했습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalAboutToDie"  >%s은(는) 너무 늙어서 오래 살지 못할 것 같습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalGrow"  >%s은(는) 다 성장해서 더 넓은 공간이 필요합니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:FullTankOnly"  >수조 도구는 완성된 수조에서만 사용할 수 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalBeached"  >%s이(가) 지상에 있어서 숨을 쉴 수 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:MarineMammalBeached"  >%s은(는) 지상으로 올라왔습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:AnimalCantLayEgg"  >%s(이)가 알을 낳을 땅이 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:No_room_to_train"  >공연 동작을 훈련할 공간이 부족합니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:Reward_animal"  >%s에게 먹이를 주려면 스페이스바를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:show_is_starting"  >%1s이(가) 곧 시작됩니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:full_filter"  >%s이(가) 가득 차서 수조를 청소할 수 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:TrainerFailure"  >조련사가 %s에게 접근할 수 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:no_delete_show_in_progress"  >진행 중인 공연은 삭제할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:no_room_for_prop"  >%s에게 공간이 부족합니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:UnhappyPerformer"  >%s은(는) 우울해서 공연을 거부하고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:ShowCancelled"  >공연이 취소되었습니다. 공연에 참여할 수 있는 동물이 없습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CantEnterShowTank"  >%s은(는) 공연 수조로 이동할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CantAffordCanopy"  >그늘 지붕을 구입할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CantAffordBigScreenTV"  >대형 스크린을 구입할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:notrainingarea"  >해당 지역의 동물들을 훈련시키려면 훈련장을 마련해야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:NoTrainingPlatform"  >%s을(를) 훈련시키려면 수조 입구가 있어야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:CleanWaterFailure"  >%s이(가) 접근할 수 없어서 수조를 청소하지 못하고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:VehicleWaterDepth"  >%s이(가) 멈췄습니다. 길의 일부가 너무 깊지 않은지 확인하세요!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:TrainerUnlockNextTrick"  >조련사가 %1s의 %2s 묘기에 대한 모든 훈련을 마쳤습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:TrainerNotEnoughRoomForProp"  >%s이(가) 훈련 준비를 할 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:PlaceTankPortalOnTank"  >수조 벽에 수조 연결문을 설치해야 합니다.</LOC_STRING>
+</ZT2Strings>

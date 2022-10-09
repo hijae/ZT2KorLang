@@ -1,0 +1,26 @@
+<ZT2Strings>
+      <LOC_STRING _locID="categories:theme_safari"  >사파리 스타일</LOC_STRING>
+      <LOC_STRING _locID="categories:theme_jungle"  >정글 스타일</LOC_STRING>
+      <LOC_STRING _locID="categories:theme_endangered"  >멸종 위기 동물 테마</LOC_STRING>
+      <LOC_STRING _locID="categories:theme_tundra"  >툰드라 스타일</LOC_STRING>
+      <LOC_STRING _locID="categories:theme_desert"  >사막 스타일</LOC_STRING>
+      <LOC_STRING _locID="categories:theme_frontier"  >개척지 스타일</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_boreal"  >북방림 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_desert"  >사막 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_savannah"  >사바나 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_scrub"  >관목림 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_temperate"  >온대림 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_tropical"  >열대우림 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_tundra"  >툰드라 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_wetlands"  >습지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_grasslands"  >초원 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:biome_alpine"  >고산 지대</LOC_STRING>
+      <LOC_STRING _locID="categories:statue"  >동상</LOC_STRING>
+      <LOC_STRING _locID="categories:fountain"  >분수대</LOC_STRING>
+      <LOC_STRING _locID="categories:flowerbed"  >꽃</LOC_STRING>
+      <LOC_STRING _locID="categories:arch"  >아치</LOC_STRING>
+      <LOC_STRING _locID="categories:cool"  >멋진 아이템</LOC_STRING>
+      <LOC_STRING _locID="categories:tour"  >관람물</LOC_STRING>
+      <LOC_STRING _locID="categories:reward"  >포상</LOC_STRING>
+      <LOC_STRING _locID="categories:shelter"  >우리</LOC_STRING>
+</ZT2Strings>

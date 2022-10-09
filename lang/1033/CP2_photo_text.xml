@@ -1,0 +1,297 @@
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoTitle"  >
+		Dodo Photo
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhoto"  >
+		Ancient Animals Monthly is looking for a cover story. Dodos are making a comeback, and they want a cover photo to showcase them. Take a photo of a dodo with a dodo rock and you get $750 from the magazine.
+		<p/>
+		Difficulty: Easy
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoShort"  >
+			Take the following photo: 
+			<p/>
+		* A dodo with a dodo rock.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoSuccess"  >
+		Your photo was perfect for Ancient Animals Monthly's dodo issue! They paid you the $750 fee.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoSuccessShort"  >
+		You received $750 for your dodo photo!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DodoPhoto"  >
+		Photograph a dodo with a dodo rock.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoTitle"  >
+		Aurochs and Bluebuck Photos
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhoto"  >
+		The local historical society wants you to fill a couple gaps in its animal photo collection. They're looking for a photo of an aurochs and a photo of a Bluebuck, which they also want to use in a book. Get the photos, and your zoo gets a donation!
+		<p/>
+		Difficulty: Easy
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoShort"  >
+   			Photograph the following: 
+			<p/>   
+		* An aurochs.
+			<p/>   
+		* A Bluebuck.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoSuccess"  >
+		Your aurochs and Bluebuck photos were just what the historical society wanted. They're happy to make a $2,500 donation to your zoo!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoSuccessShort"  >
+		Your aurochs and Bluebuck photos earned a $2,500 donation for your zoo!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AurochPhoto"  >
+		Photograph an aurochs.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BluebuckPhoto"  >
+		Photograph a Bluebuck.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosTitle"  >
+		Family Photos
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotos"  >
+		It's time for a new advertising campaign for your zoo. Families love to visit zoos, and you want more to visit yours. If you have happy animal families in your zoo, you can get more guest families to visit and make donations! If you photograph a dodo family, a Sivatherium family, and a bush-antlered deer family, your marketing team can create cool billboards to attract families to your zoo.
+		<p/>
+		Difficulty: Intermediate
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosShort"  >
+   			Photograph the following: 
+			<p/>   
+		* A dodo family (three or more).
+			<p/>   
+		* A Sivatherium family (three or more).
+			<p/>   
+		* A bush-antlered deer family (three or more).
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosSuccess"  >
+		Your advertising campaign is a stunning success! Admissions are up, and your zoo is more famous. Best of all, your billboards won "Ad of the Year" and a $5,000 award from Marketing Mogul Magazine!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosSuccessShort"  >
+		Your animal family photos brought more guests to your zoo and won a $5,000 prize!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DodoFamilyPhoto"  >
+		Photograph three dodos.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_SivatheriumFamilyPhoto"  >
+		Photograph three Sivatheriums.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DeerFamilyPhoto"  >
+		Photograph three bush-antlered deer.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessTitle"  >
+		Marsupial Madness
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhoto"  >
+		It's time for the Marsupial Madness photo contest at your local library. First prize is $6,000! This is a unique opportunity to showcase your extinct animals. If you photograph a Diprotodon near a misty spring and a thylacine gaping, you're sure to win!
+		<p/>
+		Difficulty: Challenging
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoShort"  >
+   			Photograph the following: 
+			<p/>   
+		* A Diprotodon near a misty spring.
+			<p/>   
+		* A thylacine gaping.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoSuccess"  >
+		Your Diprotodon and the thylacine photos won the Marsupial Madness contest! The library just sent you a check for $6,000!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoSuccessShort"  >
+		You won $6,000 in the Marsupial Madness photo contest!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoFailure"  >
+		You didn't get the photos you needed for the Marsupial Madness contest.  Better luck next time.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoFailureShort"  >
+		You declined the Marsupial Madness photo challenge.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DiprotodonPhoto"  >
+		Photograph a Diprotodon near a misty spring.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ThylacinePhoto"  >
+		Photograph a thylacine gaping.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentTitle"  >
+		Extinct Enrichment
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhoto"  >
+		The Extinct Animal Restoration Society (EARS) wants to make an $8,000 grant to your zoo. Before they do, they must be sure you can keep extinct animals happy and enriched. Take a picture of a woolly rhinoceros next to a glacier, a giant warthog near a tar pit, and a Gigantopithecus eating bamboo to get the grant.
+		<p/>
+		Difficulty: Intermediate
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoShort"  >
+   			Photograph the following: 
+			<p/>   
+		* A woolly rhinoceros next to a glacier.
+			<p/>   
+		* A giant warthog near a tar pit.
+			<p/>
+		* A Gigantopithecus eating bamboo.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoSuccess"  >
+		Your pictures were exactly what the Extinct Animal Restoration Society wanted. They just sent the $8,000 grant to your zoo!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoSuccessShort"  >
+		EARS granted your zoo $8,000 for your photos.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoFailure"  >
+		You bailed on the Extinct Animal Restoration Society! You declined to finish your photo set for them.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoFailureShort"  >
+		You declined the Extinct Animal Restoration Society photo challenge.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WoolyGlacierPhoto"  >
+		Photograph a woolly rhinoceros next to a glacier.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WarthogTarpitPhoto"  >
+		Photograph a giant warthog near a tar pit.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_GigantopithecusPhoto"  >
+		Photograph a Gigantopithecus eating bamboo.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DiseasedAnimalPhoto"  >
+		Photograph a diseased animal.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_EntertainerJoking"  >
+		Photograph an entertainer telling a joke.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_GuestDigging"  >
+		Photograph a guest digging in a Play Dig Pit.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CompletedSkeleton"  >
+		Photograph a completed skeleton at an Extinct Education Center.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HealthyAnimalPhoto"  >
+		Photograph a Diprotodon with an elephant bird.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHHardWayPhotoShort"  >
+		(Optional) Photograph the following: 
+		<p/>
+		* An Imperial mammoth skeleton statue.
+		<p/>
+		* An Irish elk skeleton statue.
+		<p/>
+		* A Tyrannosaurus rex skeleton statue.
+		<p/>
+		* A Pteranodon skeleton statue.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHHardWayPhotoShortSuccess"  >
+	        The science museum has paid you $20,000 for the skeleton photos you took!
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoMammoth"  >
+	        Photograph an Imperial mammoth skeleton statue.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoElk"  >
+	        Photograph an Irish elk skeleton statue.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoTRex"  >
+	        Photograph a Tyrannosaurus rex skeleton statue.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoPteranodon"  >
+	        Photograph a Pteranodon skeleton statue.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTroublePhotoShort"  >
+   			(Optional) Photograph the following: 
+			<p/>   
+		* A dino eating.
+			<p/>   
+		* A dino playing with a prey dummy.
+			<p/>
+		* A dino sleeping.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoEat"  >
+	        Photograph a dino eating.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoPreyDummy"  >
+	        Photograph a dino playing with a prey dummy.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoSleep"  >
+	        Photograph a dino sleeping.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFinishTroublePhotoShort"  >
+		Great photos!  Dino Discovery Monthly has paid you a $15,000 fee. 
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureTitle"  >
+		Family Photos
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCapture"  >
+		The Dinosaur Safety Board wants photos for its dinosaur safety brochures. If you photograph your Dino Capture Team in action, a building or tree destroyed by a rampaging dino, and your Dino Capture Team's bunker, they promise to pay you $5,000.
+		<p/>
+		Difficulty: Challenging
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureShort"  >
+   			Photograph the following: 
+			<p/>   
+		* Three Dino Capture Team members in one photo.
+			<p/>   
+		* A building or tree reduced to rubble by a rampaging dino.
+			<p/>   
+		* Your Dino Capture Team's bunker.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureSuccess"  >
+		Your pictures look great in the Dinosaur Safety Board's brochures, and you got the $5,000 grant!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureSuccessShort"  >
+		Your pictures look great in the Dinosaur Safety Board's brochures! Plus, you got the $5,000 grant.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureFailure"  >
+		The Dinosaur Safety Board didn't get the photos they needed from you.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureFailureShort"  >
+		You declined the Dinosaur Safety Board photo challenge.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoTeam"  >
+		Photograph three Dino Capture Team members in action.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_Rubble"  >
+		Photograph a building or tree destroyed by a rampaging dino.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoBuilding"  >
+		Photograph your Dino Capture Team's bunker.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementTitle"  >
+		Extinct Excitement
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhoto"  >
+		It's time for another marketing campaign! With all the amazing extinct animals, the new guest amenities, and the Extinct Research Lab, there's plenty to show off! If you take some action shots from around the zoo, you're sure to attract new guests!
+		<p/>
+		Difficulty: Challenging
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoShort"  >  
+   			Photograph the following: 
+			<p/>   
+		* Any super extinct animal created in the Extinct Research Lab.
+			<p/>   
+		* A child sliding down the Brachiosaurus slide.
+			<p/>
+		* An entertainer performing a show on stage.
+			<p/>
+		* A child carrying a fossilized bone from the Play Dig Pit to the Extinct Education Center.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoSuccess"  >
+		Great photos! Your latest ads are sure to draw crowds. You can expect a big bump in zoo admissions over the next few days!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoSuccessShort"  >
+		Your latest ads are sure to draw crowds. You can expect a big bump in zoo admissions over the next few days!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoFailure"  >
+		You weren't able to get the photos for your new marketing campaign.  So much for attracting more guests!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoFailureShort"  >
+		You declined the marketing campaign photo challenge.  
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_SuperAnimalPhoto"  >
+		Photograph any super extinct animal created in the Extinct Research Lab.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ChildSlidePhoto"  >
+		Photograph a child using the Brachiosaurus slide.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ShowStagePhoto"  >
+		Photograph an entertainer performing on stage.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CarryBonePhoto"  >
+		Photograph a child carrying a bone from the Play Dig Pit to the Extinct Education Center.
+		</LOC_STRING>
+</ZT2Strings>

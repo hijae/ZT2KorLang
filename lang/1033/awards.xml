@@ -1,0 +1,806 @@
+<ZT2Strings>
+      <LOC_STRING _locID="awards:lttformat"  >
+         <font name="굴림" size="10">%test%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:example"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 우리 동물원이
+            <color r="255" g="255" b="0" a="255">
+               최우수 동물원 - 금상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:CrueltyPrevention_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 학대 예방 연합의 특별 회원이 되었습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물 학대 예방 연합 특별 회원 인증서</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:CrueltyPrevention_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 학대 예방 연합의 특별 회원이 되었습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물 학대 예방 연합 특별 회원 인증서</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:CrueltyPrevention_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 학대 예방 연합의 특별 회원이 되었습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물 학대 예방 연합 특별 회원 인증서</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AlfredWindsor_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            알프레드 윈저 사진 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AlfredWindsor_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            알프레드 윈저 사진 학교의 사진 찍기 챌린지를 마치면
+            <color r="255" g="255" b="0" a="255">
+               알프레드 윈저 사진 공로상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AlfredWindsor_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 
+            <color r="255" g="255" b="0" a="255">
+               알프레드 윈저 사진 공로상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Beckenspot_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            베켄스폿 장학회 사진 포트폴리오 상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Beckenspot_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            베켄스폿 장학회 사진 찍기 챌린지를 마치면
+            <color r="255" g="255" b="0" a="255">
+               베켄스폿 장학회 사진 포트폴리오 상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Beckenspot_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               베켄스폿 장학회 사진 포트폴리오 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Lindain_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               린다인 렌즈 사진 우수상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Lindain_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               린다인 렌즈 사진 우수상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Lindain_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               린다인 렌즈 사진 우수상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:LoneStar_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               론스타 트로피</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:LoneStar_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               론스타 트로피</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:LoneStar_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               론스타 트로피</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoDesign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               사진 디자인 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoDesign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               사진 디자인 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoDesign_postLtt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               사진 디자인 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Premier_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               1급 훈장</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Premier_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               1급 훈장</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Premier_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               1급 훈장</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Procedural_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               안전 절차 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Procedural_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               안전 절차 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Procedural_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               안전 절차 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Wildlife_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            월간 야생 동물 아마추어 사진사 상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Wildlife_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            월간 야생 동물 사진 찍기 챌린지를 마치면
+            <color r="255" g="255" b="0" a="255">
+               월간 야생 동물 아마추어 사진사 상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Wildlife_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               월간 야생 동물 아마추어 사진사 상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AnimalBirthGeneric_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            멸종 위기 동물 탄생 인증서
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AnimalBirthGeneric_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            보존 상태가 위험 또는 멸종 위기인 동물을 번식시키면
+            <color r="255" g="255" b="0" a="255">
+               멸종 위기 동물 탄생 인증서와 풍선 다발</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:AnimalBirthGeneric_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 멸종 위기 동물이 새끼를 낳았습니다.
+            <color r="255" g="255" b="0" a="255">
+               멸종 위기 동물 탄생 인증서와 풍선 다발</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance100_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 관람객 100명 돌파 기념 리본
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance100_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            100명의 관람객이 동물원을 방문하면
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 100명 돌파 기념 리본</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance100_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            100명의 관람객이 동물원을 방문했습니다!
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 100명 돌파 기념 리본</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance1000_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 관람객 1,000명 돌파 기념 리본
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance1000_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            1,000명의 관람객이 동물원을 방문하면
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 1,000명 돌파 기념 리본</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance1000_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            1,000명의 관람객이 동물원을 방문했습니다!
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 1,000명 돌파 기념 리본</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance5000_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 관람객 5,000명 돌파 기념 리본
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance5000_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            5,000명의 관람객이 동물원을 방문하면
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 5,000명 돌파 기념 리본</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance5000_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            5,000명의 관람객이 동물원을 방문했습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 5,000명 돌파 기념 리본</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance10000_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 관람객 1만 명 돌파 기념 리본
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance10000_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            1만 명의 관람객이 동물원을 방문하면
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 1만 명 돌파 기념 리본</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance10000_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            1만 명의 관람객이 동물원을 방문했습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 1만 명 돌파 기념 리본</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance20000_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원 관람객 2만 명 돌파 기념 동상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance20000_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            2만 명의 관람객이 동물원을 방문하면
+            <color r="255" g="255" b="0" a="255">
+               관람객 유치 기념 동상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZooAttendance20000_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            2만 명의 관람객이 동물원을 방문했습니다.
+            <color r="255" g="255" b="0" a="255">
+               동물원 관람객 2만 명 돌파 기념 동상</color>
+            이 동물원 입구에 도착했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FirstAnniversary_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            개장 1주년 기념상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FirstAnniversary_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 1년이 되면
+            <color r="255" g="255" b="0" a="255">
+               개장 1주년 기념 동메달</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FirstAnniversary_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 1년이 되었습니다!
+            <color r="255" g="255" b="0" a="255">
+               개장 1주년 기념 동메달</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FifthAnniversary_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            개장 5주년 기념상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FifthAnniversary_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 5년이 되면
+            <color r="255" g="255" b="0" a="255">
+               개장 5주년 기념 은메달</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:FifthAnniversary_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 5년이 되었습니다!
+            <color r="255" g="255" b="0" a="255">
+               개장 5주년 기념 은메달</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TenthAnniversary_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            개장 10주년 기념상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TenthAnniversary_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 10년이 되면
+            <color r="255" g="255" b="0" a="255">
+               개장 10주년 기념 금메달</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TenthAnniversary_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 10년이 되었습니다!
+            <color r="255" g="255" b="0" a="255">
+               개장 10주년 기념 금메달</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TwentiethAnniversary_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            개장 20주년 기념상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TwentiethAnniversary_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 20년이 되면
+            <color r="255" g="255" b="0" a="255">
+               개장 20주년 기념 다이아몬드 메달과 비행선</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TwentiethAnniversary_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원을 개장한 지 20년이 되었습니다!
+            <color r="255" g="255" b="0" a="255">
+               개장 20주년 기념 다이아몬드 메달과 비행선</color>
+            을 받았습니다. 비행선이 동물원 상공에 떠 있습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Global_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            세계 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Global_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원에서 북아메리카, 오스트레일리아, 아시아, 아프리카 동물을 보존한 공로를 인정받으면
+            <color r="255" g="255" b="0" a="255">
+               세계 공로상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Global_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 북아메리카, 오스트레일리아, 아시아, 아프리카 동물을 보존한 공로를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               세계 공로상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Habitat_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            서식지 보존 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Habitat_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물원에서 세계의 서식 환경을 재현하면
+            <color r="255" g="255" b="0" a="255">
+               서식지 보존 공로 트로피</color>
+            를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Habitat_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 세계의 서식 환경을 재현해 낸 공로를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               서식지 보존 공로 트로피</color>
+            를 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Entertainment_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            엔터테인먼트 모범상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Entertainment_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            $100,000의 동물 관련 기부금을 모으면
+            <color r="255" g="255" b="0" a="255">
+               엔터테인먼트 모범상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Entertainment_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! $10,000 이상의 기부금을 모은 성과를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               엔터테인먼트 모범상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Scholars_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            장학 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Scholars_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            $25,000의 교육 관련 기부금을 모으면
+            <color r="255" g="255" b="0" a="255">
+               장학 공로상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:Scholars_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! $25,000 이상의 교육 관련 기부금을 모은 성과를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               장학 공로상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationEffort_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 보호 노력상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationEffort_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            한 마리 이상의 동물을 야생으로 돌려보내면
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 노력상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationEffort_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 처음 동물을 야생으로 돌려보낸 공로를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 노력상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationAchieve_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 보호 공로상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationAchieve_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            10마리 이상의 동물을 야생으로 돌려보내면
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 공로상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationAchieve_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 10번째 동물을 야생으로 돌려보낸 공로를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 공로상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationExel_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 보호 우수상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationExel_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            25마리 이상의 동물을 야생으로 돌려보내면
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 우수상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationExel_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 25번째 동물을 야생으로 돌려보낸 공로를 인정받아
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 우수상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationImage_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 보호 사진상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationImage_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 보호 센터 사진 찍기 챌린지를 마치면
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 사진상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ConservationImage_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다!
+            <color r="255" g="255" b="0" a="255">
+               동물 보호 사진상</color>
+            을 수상했습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoChallenges_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사진 찍기 챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoChallenges_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            5개의 사진 찍기 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               정글 스타일 건물과 아이템</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PhotoChallenges_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 5개의 사진 찍기 챌린지를 완료하여
+            <color r="255" g="255" b="0" a="255">
+               정글 스타일 건물과 아이템</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:GameChallengesReward_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:GameChallengesReward_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            5개의 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               사파리 스타일 건물과 아이템</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:GameChallengesReward_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 5개의 챌린지를 완료하여
+            <color r="255" g="255" b="0" a="255">
+               사파리 스타일 건물과 아이템</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TroubledZoosCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            문제투성이 동물원 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TroubledZoosCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            문제투성이 동물원 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               꽃장식 아치형 입구</color>
+            를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TroubledZoosCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 문제투성이 동물원 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               꽃장식 아치형 입구</color>
+            를 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PreventAnimalAbuseCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 학대 방지 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PreventAnimalAbuseCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            동물 학대 방지 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               해시계</color>
+            를 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:PreventAnimalAbuseCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 문제투성이 동물원 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               해시계</color>
+            를 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TheGlobeCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            지구 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TheGlobeCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            지구 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               지구 모형</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:TheGlobeCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 지구 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               지구 모형</color>
+            을 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MysteriousPandaCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            신비한 팬더 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MysteriousPandaCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            신비한 팬더 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               황금 팬더 동상</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:MysteriousPandaCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 신비한 팬더 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               황금 팬더 동상</color>
+            을 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZookeeperInTrainingCampaign_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사육사 훈련 캠페인 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZookeeperInTrainingCampaign_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사육사 훈련 캠페인을 마치면
+            <color r="255" g="255" b="0" a="255">
+               꽃기둥</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:ZookeeperInTrainingCampaign_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 사육사 훈련 캠페인을 마쳐
+            <color r="255" g="255" b="0" a="255">
+               꽃기둥</color>
+            을 포상으로 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:SafariTheme_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:SafariTheme_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사진 찍기 챌린지를 제외하고 5개의 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               사파리 스타일 건물과 아이템</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:SafariTheme_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 5개의 챌린지를 완료하여
+            <color r="255" g="255" b="0" a="255">
+               사파리 스타일 건물과 아이템</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:JungleTheme_name"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            사진 찍기 챌린지 포상
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:JungleTheme_pre_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            5개의 사진 찍기 챌린지를 완료하면
+            <color r="255" g="255" b="0" a="255">
+               정글 스타일 건물과 아이템</color>
+            을 받습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:JungleTheme_post_ltt"  >
+         <font name="굴림" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            축하합니다! 5개의 사진 찍기 챌린지를 완료하여
+            <color r="255" g="255" b="0" a="255">
+               정글 스타일 건물과 아이템</color>
+            을 받았습니다.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="awards:itemdelivery"  >%s이(가) 동물원에 배달되었습니다! 동물원 정문 근처 상자에 들어 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="moneygrants:speciesgrant"  >	
+   		동물원에 새로운 종을 추가한 덕분에 지원금을 받았습니다. 받은 금액:
+   	</LOC_STRING>
+      <LOC_STRING _locID="moneygrants:endangeredgrant"  >	
+   		첫 번째 멸종 위기 동물을 동물원에 입양하여 지원금을 받았습니다! 받은 금액:
+   	</LOC_STRING>
+      <LOC_STRING _locID="moneygrants:releasegrant"  >	
+   		첫 번째 동물을 처음 야생으로 돌려보내 지원금을 받았습니다! 받은 금액:
+   	</LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemsafari"  >
+   		축하합니다! 사파리 스타일 건물과 아이템을 사용할 수 있게 되었습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemjungle"  >
+   		축하합니다! 정글 스타일 건물과 아이템을 사용할 수 있게 되었습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="itemunlock:newitemgeneral"  >
+	   	축하합니다! 새로운 편의 시설을 사용할 수 있게 되었습니다! 사용 가능해진 편의 시설:	
+   	</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,13 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert"  >American Agave</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_stt"  >American agave</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_lower"  >the American agave</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_ltt"  >
+		   <color r="255" g="248" b="178">
+		      <b>American agave</b>
+		   </color>
+		   <br/>
+		         Click to select and then place an American agave, a plant that takes a quarter of a century to bloom.
+      </LOC_STRING>
+   
+</ZT2Strings>

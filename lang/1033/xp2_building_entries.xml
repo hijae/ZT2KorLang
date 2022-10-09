@@ -1,0 +1,69 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:entry"  >흰수염고래 전시관</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+흰수염고래 전시관은 지구에서 가장 큰 동물인 흰수염고래에 관한 큰 박물관입니다. 이 박물관은 관람객들에게 즐거움과 교육적 정보를 동시에 제공합니다. 흰수염고래 전시관을 관람한 관람객들은 교육 관련 기부금을 내는 경우가 많습니다.
+		<p/>
+해양 동물 캠페인을 완료하면 흰수염고래 전시관을 건설할 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:entry"  >해양 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_mm/giftcart_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+해양 동물 관련 기념품을 파는 가판대입니다. 수조나 공연장 주변에 설치하면 관람객들이 좋아하는 동물과 관련한 기념품을 쉽게 구입할 수 있습니다.         
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:entry"  >상어 기념사진 촬영소</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/sharkphotobooth_mm/sharkphotobooth_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+상어 기념사진 촬영소는 관람객들이 진짜 같은 상어 인형과 함께 기념사진을 찍을 수 있는 곳입니다. 상어 인형을 보고 겁을 먹는 관람객들도 있지만 대부분 아주 즐거워합니다.             
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:entry"  >터치풀</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+터치풀은 소라, 투구게, 불가사리, 해삼 등의 작은 해양 동물들을 직접 만져볼 수 있어서 관람객들에 인기가 높습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+
+
+  
+</ZT2Strings>

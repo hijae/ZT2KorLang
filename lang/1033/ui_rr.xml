@@ -1,0 +1,37 @@
+<ZT2Strings>
+      <LOC_STRING _locID="shell:filter_montane"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            산악
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_temperaterainforest"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            온대강우림
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_colddesert"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            한대사막
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_mediterranean"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            지중해 관목림
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_tropicaldryforest"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            열대건조림
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_polarice"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            극지방
+         </font>
+       </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_freshwater"  >
+         <font name="굴림" size="9" shadowx="-1" shadowy="1">
+            담수
+         </font>
+       </LOC_STRING>
+</ZT2Strings>

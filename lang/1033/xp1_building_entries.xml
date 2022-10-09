@@ -1,0 +1,118 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_discoverykiosk:entry"  >영상 자료 데스크</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_discoverykiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\DiscoveryKiosk_df\DiscoveryKiosk_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+어른들을 대상으로 동물과 동물의 서식 환경에 대한 재미있고 유익한 정보를 제공하는 곳입니다. 영상 자료 데스크를 이용한 관람객은 교육 기부금을 냅니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tropicalbouncehouse:entry"  >덤블링 하우스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tropicalbouncehouse:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\rainforest_bounce_house\RainforestBounceHouse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+아이들은 열대 지방 분위기의 덤블링 하우스에서 점프하는 것을 좋아합니다! 공기를 주입한 대형 놀이기구인 덤블링 하우스에는 한꺼번에 4명이 놀 수 있습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_breedingcenter:entry"  >동물 번식 센터</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_breedingcenter:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\ConservationBreedingCenter_end\ConservationBreedingCenter_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+보존 상태가 위험하거나 멸종 위기에 처한 동물들을 보호하기 위해 특별히 만든 연구 시설입니다. 동물 번식 센터가 있으면 멸종 위기에 처한 동물을 쉽게 번식시킬 수 있습니다.
+		<p/>
+동물 번식 센터를 사용하려면 멸종 위기 동물 캠페인을 완료해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+아이들은 얼굴에 호랑이, 팬더 등의 동물 분장을 해 주는 페이스 페인팅 코너를 좋아합니다.
+<p/>
+페이스 페인팅 코너를 사용하려면 엔터테인먼트 우수상을 수상해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객들은 음성 정보 안내 데스크에서 주는 무선 헤드폰을 끼고 동물에 대한 설명을 듣는 것을 좋아합니다.
+		<p/>
+음성 정보 안내 데스크를 사용하려면 장학 우수상을 수상해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_photokiosk:entry"  >사진 게시판</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_photokiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\PhotoExhibitStand_df\PhotoExhibitStand_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+여러분이 찍은 동물원 사진을 관람객들이 감상할 수 있는 장소입니다.
+		<p/>
+사진 게시판을 사용하려면 멸종 위기 동물 사진사 상을 수상해야 합니다.		
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skytower:entry"  >전망대</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_skytower:text"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\objects\buildings\skytower_df\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+관람객들은 전망대에서 동물원 전체를 내려다볼 수 있습니다.
+		 <p/>
+전망대를 사용하려면 투어 대상을 수상해야 합니다.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

@@ -1,0 +1,48 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_marinefence:entry"  >해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinefence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_high_mm\marinefence_high_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+해양 울타리는 해양 동물의 우리나 주변 지역을 꾸미기에 좋습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:entry"  >해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_window_mm\marinefence_window_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+해양 창문 울타리는 해양 동물의 우리나 주변 지역을 꾸미기에 좋습니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:entry"  >해양 공연 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\showfence_mm\showfence_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+해양 공연 울타리는 튼튼하지 않기 때문에 동물 우리로는 적합하지 않습니다. 대신 관람석을 둘러싸는 공연 공간을 만들면 아주 멋집니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

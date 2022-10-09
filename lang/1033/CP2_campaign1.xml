@@ -1,0 +1,331 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoIntro"  >
+      팔레오 섬
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOverview"  >
+      The Paleo Island Repopulation Council wants to provide a happy and healthy home for newly revived extinct species. Because of your zoo's unique location at Paleo Crater, the council would like you to provide them with animals for this project. If you can care for these beautiful extinct species and prepare them for release into the wild on Paleo Island, you can show off your skills as a zookeeper!
+      <p/>
+      The council wants you to adopt a Bluebuck and meet its basic needs. Do this and the council will make a $5,000 grant to your zoo.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOverviewShort"  >
+      Paleo Island needs your help! Acquire extinct animals and prepare them for their release into the wild. Complete all scenarios in this campaign to unlock extinct-themed buildings and objects.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoAdoptFirst"  >
+      The Paleo Island Repopulation Council wants you to adopt a Bluebuck and make sure its basic needs are met.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishAdoptFirst"  >
+      Well done! Your Bluebuck seems to be doing well in its new exhibit, and the council has given you a $5,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoBuildXRL"  >
+      In addition to adopting extinct animals, you can also create them at the Extinct Research Lab. Purchase an Extinct Research Lab, and the council can help by giving you half the cost of the building.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoBuildXRLShort"  >
+      Buy an Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishBuildXRL"  >
+      Your Extinct Research Lab is up and running. You received an additional $4,000 to help pay for it.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFindFossils"  >
+      Now that your lab is up and running, it's time to get to work! Select the lab and find some fossils. The Paleo Island Repopulation Council wants to see that you can discover enough fossil pieces to build an extinct species on your own.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFindFossilsShort"  >
+      Uncover a complete set of six fossil pieces from the same species.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishFindFossils"  >
+      Great! You have enough pieces to build a fossil! You received a grant of $5,000 to continue your research.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoBuildAnimal"  >
+      You got the pieces, now put the puzzle together! Go to the Extinct Research Lab and assemble your fossil pieces, and then another grant should be coming your way.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoBuildAnimalShort"  >
+      Build your animal at the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishBuildAnimal"  >
+      Good work! Now you can create your first animal at the lab! You've received an additional $10,000 for your research.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoCreateAnimal"  >
+      Now that you found some fossils and pieced them together, it's time to see what you can create! The Paleo Island Repopulation Council would love to see you create a super extinct animal, and they promise to award you another $15,000 if you can do it.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoCreateAnimalShort"  >
+      Create a super extinct animal at the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishCreateAnimal"  >
+      Congratulations! Your animal is of the highest quality! The council is rewarding your hard work with another $15,000 grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoReleaseAnimals"  >
+      You have all the tools you need to complete the council's final goal. They want you to release five different extinct species to the wild, and plan to give you $50,000 to do it. You can release any combination of adopted and created extinct species.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoReleaseAnimalsShort"  >
+      Release five extinct species to the wild. You can release any combination of adopted and created extinct species.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishReleaseAnimals"  >
+      Great work! The Paleo Island Repopulation Council thanks you for all your efforts in boosting the population of extinct animals on the island. Your check for $50,000 is on its way.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOptionalBreed"  >
+      (Optional) The council would like to see you breed other extinct animals. You don't have to, but if you manage to breed three different extinct species, you get another grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOptionalBreedShort"  >
+      (Optional) Breed three different extinct species for a grant from the council.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishOptionalBreed"  >
+      You did it! The council is awarding you a $10,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOptionalCaveman"  >
+      (Optional) Charlie Stoneberg, the famous actor, has shown up in your zoo dressed as a caveman. He's making a movie on Paleo Island soon and wants to see some extinct animals. If he sees three different extinct species, your zoo's fame increases and additional guests should visit!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoOptionalCavemanShort"  >
+      (Optional) Charlie Stoneberg, the famous actor, wants to see three different extinct species in your zoo. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFinishOptionalCaveman"  >
+      Charlie Stoneberg saw three extinct species in your zoo and is telling all his friends about it!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoFailedOptionalCaveman"  >
+      Charlie Stoneberg left your zoo without seeing three extinct species. You missed a chance for some great publicity for your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoIslandCavemanName"  >
+      Charlie Stoneberg
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:PaleoIslandCavemanViewEntered"  >
+      Charlie Stoneberg is in your zoo!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseIntro"  >
+      아주 일상적인 일
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOverview"  >
+      Now that you've shown you can build extinct exhibits and keep animals happy, you get to build your own zoo from scratch. There are many new challenges that come with building a zoo with extinct animals. Finding extinct animals to adopt, using your Extinct Research Lab, and keeping all your animals happy can be difficult. Can you keep up with all these challenges?
+      <p/>
+      Your job is to build the best park you can. Keep your animals happy, fed, and healthy, and your guests entertained, educated, and spending money! To start, you need to acquire three extinct animals from different species and meet their basic needs. After you do this, you get a grant to continue building out your park.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOverviewShort"  >
+      Running a zoo with extinct species in it presents many challenges. Think you can handle it? Complete all scenarios in this campaign to unlock extinct-themed buildings and objects.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseAdoptFirstShort"  >
+      Acquire three extinct animals from different species and meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishAdoptFirst"  >
+      Well done! Your extinct animal park is coming along nicely. You received a grant of $2,500!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseDonations1"  >
+      You were approached by a breeder from the Falkland Islands who has been breeding Warrahs. She wants to feature one in your park, but she wants to be sure you can care for it. If you raise $1,500 in donations for your extinct species, you get a free Warrah!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseDonations1Short"  >
+      Raise $1,500 in extinct animal donations to receive a free Warrah!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishDonations1"  >
+      You raised $1,500 in extinct animal donations and your new Warrah is on its way! Check your front gate for a crate containing your Warrah. Meet its basic and advanced needs, and try to keep it healthy.  The breeder will be back shortly to check on the Warrah.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishDonations1Short"  >
+      You raised $1,500 and received a free Warrah! Keep it healthy and the breeder will check back shortly.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFailGiftAnimal"  >
+      Oops! Your Warrah breeder came to see how your new Warrah was doing, and it isn't in your zoo anymore! A good zookeeper proudly displays their new animals. You should try this scenario again.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOutbreak"  >
+      Oh no! Your new Warrah has come down with an illness, and it seems to be spreading through your zoo! Your head zookeeper isn't sure what's causing your animals to become diseased. You're going to need some outside help. Identify and take a picture of one of the diseased animals, and the International Veterinary Research Council can help you identify a cure. In the meantime, you might want to try to keep your sick animals away from your healthy ones.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOutbreakShort"  >
+      Document the disease outbreak by taking a picture of a diseased animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseasePhotoFail"  >
+      Oops! You didn't get a picture of a diseased animal! Without this research, you can not win this scenario.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishOutbreak"  >
+      After sending your pictures to the International Veterinary Research Council (IVRC), the council concluded the disease your animal has contracted is the Litter Bug! Most people and your common animals have built up some immunity to modern bacteria, but your extinct animals haven't. They may be at risk of catching the Litter Bug!
+      <p/>
+      You need lots of medical supplies and a well-trained staff to contain this outbreak. Start by keeping your extinct animals away from possible sources until the outbreak has passed. You can go into Zoo Guest Mode (press G) to temporarily heal your animals, or you can assign a zookeeper to watch over them. The IVRC donated $5,000 to your zoo to aid you in your efforts.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishOutbreakShort"  >
+      Your extinct animals have the Litter Bug. You&apos;ve received a $5,000 grant to help cure them.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseAnimalDeathFail"  >
+      Oh no! One of your animals died! Play this scenario again. Try to keep your animals happy and healthy.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFindCure"  >
+      The first step back to having a healthy zoo is to contain the disease. Once it's contained, you can start researching a cure.  
+      <p/>
+      To find a cure, go to the Extinct Research Lab, and then choose the Disease Cure tab. There, your research team can help you find a cure.
+      <p/>
+      When you find the cure, you can heal your sick animals. They probably need some treatments for their symptoms while they await a cure. Zookeepers can help, but personal attention from you is best. Drop into Zoo Guest Mode, find a sick animal, and attempt to treat its symptoms.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFindCureShort"  >
+      Find the cure to the Litter Bug.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishFindCure"  >
+      You discovered the cure to the Litter Bug! You can now heal all of your sick animals.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseHealAll"  >
+      Now that you have the cure to the Litter Bug, you can treat all your sick animals. Walk up to them in Zoo Guest Mode and press SPACEBAR to cure them. Your zookeepers are also armed with the cure and can help. You know they are cured when there are no more germs over their heads.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseHealAllShort"  >
+      Cure all your sick animals in Guest Mode, or by assigning zookeepers to cure them.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishHealAll"  >
+      Wonderful work! You eradicated the disease from your zoo! Your remaining animals should be resistant to the disease in the future, but keep an eye on them to avoid new outbreaks. You received a grant of $2,000 to pay for your zoo's medical expenses
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishHealAllShort"  >
+      Your animals are cured, and you received a $2,000 grant to cover medical expenses!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseDonations2"  >
+      To prove your zoo is back on its feet, raise an additional $2,000 in extinct animal donations to win this scenario.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseDonations2Short"  >
+      Raise an additional $2,000 in extinct animal donations to win this scenario.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishDonations2"  >
+      You proved your zoo is vibrant and healthy once again, and you received an anonymous donation of $20,000 to help you adopt more healthy, happy animals!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseFinishDonations2Short"  >
+      Your zoo is back on its feet. Congratulations!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOptionalGoal1"  >
+      (Optional) There's more to a zoo than just animal exhibits! You need to keep your guests happy, entertained, and educated. There is a big grant waiting for you if you can capture the following photos: an entertainer telling a joke, a young guest digging in the Play Dig Pit, and a completed skeleton at the Extinct Education Center. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOptionalGoal1Short"  >
+      (Optional) Take the following photos: an entertainer telling a joke, a young guest digging in the Play Dig Pit, and a completed skeleton at the Extinct Education Center. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:FinishDiseaseOptionalGoal1"  >
+      Congratulations! You showed that even with sick animals in your zoo, the show still goes on. Your guests love to see animals, but they also love being entertained. Your pictures of happy guests earned you a $20,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:FinishDiseaseOptionalGoal1Short"  >
+      Your entertaining pictures earned you a $20,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOptionalGoal2"  >
+      (Optional) The International Veterinary Research Council wants another picture, this time of two specific animals. They offered you $20,000 for a picture of a healthy Diprotodon with a healthy elephant bird. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseOptionalGoal2Short"  >
+      (Optional) Capture a photo of a healthy Diprotodon with a healthy elephant bird to earn $20,000. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:FinishDiseaseOptionalGoal2"  >
+      The IVRC is thrilled with your photo and happy to hear of your progress in fighting sickness in your zoo. They are sending you a $20,000 grant to keep your animals healthy!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:FinishDiseaseOptionalGoal2Short"  >
+      Your second round of photos for the IVRC earned you a $20,000 grant!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:DiseaseScenarioSuccessOverview"  >
+      Amazing! You handled the crisis, and your zoo is thriving and healthy!  
+      <p/>
+      You received a $20,000 grant to help expand your zoo if you want to continue playing.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeIntro"  >
+      다시 빙하기로
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOverview"  >
+      The mayor wants to renovate and expand the city&apos;s zoo to help attract and educate the city&apos;s children. To do that, he asked you to advise the zoo on designing and building a new Ice Age exhibition.  
+      <p/>
+      The city acquired an additional parcel of land to build this exhibit, but you have control of the whole zoo. If you can turn this modestly profitable zoo into a world-class facility, you unlock the extinct-themed buildings and objects!
+      <p/>
+      The cornerstone of an Ice Age exhibition is the woolly rhinoceros. You should acquire a woolly rhino and meet its basic needs. (Hint: The woolly rhinoceros is unlocked for adoption at 3 1/2 stars of zoo fame, but you might be able to get one sooner at the Extinct Research Lab!)
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOverviewShort"  >
+      The mayor wants to renovate and expand the city zoo to attract and educate the city&apos;s children. The zoo needs your help building a new Ice Age exhibition. If you can win this scenario, you unlock the extinct-themed buildings and objects!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeAdoptFirstShort"  >
+      Acquire a woolly rhinoceros and meet its basic needs.  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishAdoptFirst"  >
+      You met the woolly rhino&apos;s basic needs.  You&apos;re well on your way to creating a fabulous Ice Age exhibition!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeGlacier"  >
+      Your woolly rhino is happy in the Tundra exhibit. It could be even happier if the exhibit had a glacier enrichment item.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeGlacierShort"  >
+      Place a glacier in your woolly rhino exhibit.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishGlacier"  >
+      Brrr! The woolly rhino is enjoying the frozen tundra exhibit! The mayor donated $5,000 to your efforts in recognition of this achievement.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishGlacierShort"  >
+      Your woolly rhino is doing very well. So well, in fact, that you received a $5,000 grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeNextTwoAnimals"  >
+      Now that you&apos;ve got your Ice Age zoo started, let&apos;s add two more Ice Age animals. Acquire a saber-toothed cat and a short-faced bear. Meet their basic needs and the mayor promises to make another grant to your zoo. (Hint: The saber-toothed cat and short-faced bear are unlocked for adoption at 4 stars.)
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeNextTwoAnimalsShort"  >
+      Acquire a saber-toothed cat and a short-faced bear, and then meet their basic needs.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeNextTwoAnimalsSuccess"  >
+      Wow, your zoo is really coming along! Your new animals definitely fit in with the Ice Age theme. You were granted an additional $10,000 to continue building.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeNextTwoAnimalsSuccessShort"  >
+      Your saber-toothed cat and short-faced bear are great additions to the zoo. You received an additional $10,000.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge45Stars"  >
+      To ensure your zoo&apos;s status as the world&apos;s best Ice Age zoo, you need to adopt a majestic American mastodon. Before you can do that, you need to build your zoo to 4 1/2 stars of zoo fame.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge45StarsShort"  >
+      Unlock the American mastodon by reaching 4 1/2 stars of zoo fame.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge45starsSuccess"  >
+      Your zoo is famous enough to be profiled in a national magazine! You&apos;ve unlocked the American mastodon for adoption, and $10,000 was added to your zoo&apos;s treasury!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge45starsSuccessShort"  >
+      You unlocked the American mastodon, so $10,000 was added to your zoo&apos;s treasury!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeMastodon"  >
+      Adopt an American mastodon and meet its basic needs, and then you win this scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeMastodonShort"  >
+      Acquire an American mastodon.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishMastodon"  >
+      Your mastodon completes your Ice Age exhibition! The mayor so appreciates your efforts that you were named the city zoo&apos;s permanent director! Plus, $20,000 was added to your zoo&apos;s bank for future expansion.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishMastodonShort"  >
+      Your mastodon completes your Ice Age exhibition! $20,000 was added to your zoo&apos;s bank for future expansion.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalCloneWooly"  >
+      (Optional) Your woolly rhinoceros exhibit is already popular, but if you create an extraordinary woolly rhino at the Extinct Research Lab, your zoo&apos;s fame and guests would increase! Hint: You need to find the woolly rhino fossils before you can create one at the Extinct Research Lab.
+      <p/>
+      To create a super woolly rhinoceros, you need to find its fossil pieces first. Take out your fossil finding tools and get to work! A local paleontology club offered to donate some tools, if you prove there's woolly rhinoceros fossils in your zoo. 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalCloneWoolyShort"  >
+      (Optional) Create a super woolly rhinoceros at your Extinct Research Lab to attract more guests!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalFindWoolySubgoalShort"  >
+      (Optional) Find evidence of woolly rhinoceros fossils in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishFindWoolySubgoal"  >
+      Everyone's excited about your discovery of a woolly rhinoceros fossil! The Paleontology Club donated $2,000 to help you find the rest of the woolly rhinoceros fossils.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalFindAllWoolySubgoal"  >
+      (Optional) You're off to a great start! You need to uncover all of the fossil pieces before building -- so keep digging! 
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalFindAllWoolySubgoalShort"  >
+      (Optional) Uncover all of the woolly rhinoceros fossils in your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishFindAllWoolySubgoal"  >
+      You're one step closer to creating your super woolly rhinoceros! Now that you've got all the pieces, you've received a $3,000 grant to advance your research further.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalBuildWoolySubgoal"  >
+      (Optional) Finding the fossils was just the first step. Now you must put the fossil pieces together in the Extinct Research Lab, and then you can attempt to create your super woolly rhinoceros!  
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeOptionalBuildWoolySubgoalShort"  >
+      (Optional) Build the woolly rhinoceros skeleton at the Extinct Research Lab.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishBuildWoolySubgoal"  >
+      The puzzle is complete! All that's left to do is create the super woolly rhinoceros! You received another $5,000 grant to help hire some additional staff for your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAgeFinishCloneWooly"  >
+      Wow! Word of your achievement is drawing huge crowds to your zoo. You received a $15,000 grant, and your zoo is more famous than ever!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge35stars"  >
+      The mayor is so pleased your zoo is more famous that he added an additional $5,000 to it&apos;s cash reserves.
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge4stars"  >
+      Your zoo was named the best zoo in the region! You earned another $8,000!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:IceAge5stars"  >
+      Your zoo is world class! The mayor just gave you an additional $15,000!
+      </LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaign:UnlockExtinctTheme"  >
+Congratulations! You unlocked the extinct-themed buildings and objects for purchase in your zoo!
+		</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignshort"  >멸종 동물</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS1"  >팔레오 섬</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS1short"  >팔레오 섬</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS2"  >아주 일상적인 일</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS2short"  >아주 일상적인 일</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS3"  >다시 빙하기로</LOC_STRING>
+      <LOC_STRING _locID="ExtinctCampaignLabels:ExtinctCampaignS3short"  >다시 빙하기로</LOC_STRING>
+   
+</ZT2Strings>

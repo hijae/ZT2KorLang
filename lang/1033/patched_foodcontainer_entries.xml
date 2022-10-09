@@ -1,0 +1,54 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_elevateddish" version="2" />
+      <LOC_STRING _locID="zoopedia_elevateddish:entry" version="2"  >나무 계단</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_elevateddish:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/ElevatedDish/ElevatedDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish/ElevatedDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish/ElevatedDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish/ElevatedDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish/ElevatedDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish_df/ElevatedDishBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ElevatedDish_df/ElevatedDishEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+나무 계단을 이용해 먹이를 높이 올려놓으면 기린처럼 키가 큰 동물들은 먹이를 쉽게 먹을 수 있습니다. 서 있는 상태로 먹을 수 있기 때문에 네 발 달린 동물들은 먹이를 잘 소화합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fooddish" version="2" />
+      <LOC_STRING _locID="zoopedia_fooddish:entry" version="2"  >그릇</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fooddish:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish_df/FoodDishBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish_df/FoodDishEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+               그릇은 모든 동물이 사용하고 음식이나 물을 담을 수 있는 다용도 먹이통입니다.
+               그러나 동시에 많은 동물이 사용할 수 없기 때문에
+               여물통보다 먹이를 자주 채워줘야 합니다.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

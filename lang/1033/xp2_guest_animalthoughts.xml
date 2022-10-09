@@ -1,0 +1,12 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:AnimalBeachedBad"  >안 돼! %s이(가) 땅에서 숨을 못 쉬고 있잖아!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalPorpoiseGood"  >대단해! %s이(가) 물 위로 뛰어오르는 장면 봤어?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalCorkscrewGood"  >멋져! %s이(가) 물속에서 몸을 비틀었어!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalRubFloorGood"  >신기해! %s이(가) 수조 바닥에 몸을 문지르면서 때를 벗기고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalSquawkSelfBad"  >%s이(가) 화가 나서 소리를 치는 것 같아.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalWhistleGood"  >와! %1s이(가) %2s에게 신호를 보내고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalRubEachOtherGood"  >귀여워! %1s과(와) %2s이(가) 서로 몸을 문지르고 있어.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalShowTrickFailure"  >어, 뭔가 실수가 있었던 것 같은데.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalShowTrickSuccess"  >우와! 진짜 멋진 동작이야!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalShowTrickCritical"  >우와! 대단한 동작이야!</LOC_STRING>
+</ZT2Strings>

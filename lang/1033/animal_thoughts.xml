@@ -1,0 +1,9 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalthoughts:HungryAnimal">동물이 배가 고파요!</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:ThirstyAnimal">동물이 목이 말라요!</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:EscapedAnimal">동물이 우리에서 탈출했어요!</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:SickAnimal">%s이(가) 아파요.</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:VerySickAnimal">%s이(가) 몹시 아파요!</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:AnimalBiomeBad">동물이 적절하지 못한 환경에 놓여 있어요!</LOC_STRING>
+      <LOC_STRING _locID="animalthoughts:AnimalSpaceBad">동물의 생활 공간이 부족해요.</LOC_STRING>
+</ZT2Strings>

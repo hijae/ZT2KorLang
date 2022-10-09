@@ -1,0 +1,383 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--rock names-->
+      <Rock_Montane_Large_A>Large montane rock</Rock_Montane_Large_A>
+      <Rock_Montane_Large_A_stt>Large montane rock</Rock_Montane_Large_A_stt>
+      <Rock_Montane_Large_A_lower>the large montane rock</Rock_Montane_Large_A_lower>
+      <Rock_Montane_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large montane rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large montane rock.
+      </Rock_Montane_Large_A_ltt>
+      <Rock_Montane_Medium_A>Medium montane rock</Rock_Montane_Medium_A>
+      <Rock_Montane_Medium_A_stt>Medium montane rock</Rock_Montane_Medium_A_stt>
+      <Rock_Montane_Medium_A_lower>the medium montane rock</Rock_Montane_Medium_A_lower>
+      <Rock_Montane_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium montane rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium montane rock.
+      </Rock_Montane_Medium_A_ltt>  	  
+      <Rock_Montane_Small_A>Small montane rock</Rock_Montane_Small_A>
+      <Rock_Montane_Small_A_stt>Small montane rock</Rock_Montane_Small_A_stt>
+      <Rock_Montane_Small_A_lower>the small montane rock</Rock_Montane_Small_A_lower>
+      <Rock_Montane_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small montane rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small montane rock.
+      </Rock_Montane_Small_A_ltt>
+      <Rock_Mediterranean_Large_A>Large medit. rock</Rock_Mediterranean_Large_A>
+      <Rock_Mediterranean_Large_A_stt>Large medit. rock</Rock_Mediterranean_Large_A_stt>
+      <Rock_Mediterranean_Large_A_lower>the large medit. rock</Rock_Mediterranean_Large_A_lower>
+      <Rock_Mediterranean_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large medit. rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large medit. rock.
+      </Rock_Mediterranean_Large_A_ltt>
+      <Rock_Mediterranean_Medium_A>Medium medit. rock</Rock_Mediterranean_Medium_A>
+      <Rock_Mediterranean_Medium_A_stt>Medium medit. rock</Rock_Mediterranean_Medium_A_stt>
+      <Rock_Mediterranean_Medium_A_lower>the medium medit. rock</Rock_Mediterranean_Medium_A_lower>
+      <Rock_Mediterranean_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium medit. rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium medit. rock.
+      </Rock_Mediterranean_Medium_A_ltt>  	  
+      <Rock_Mediterranean_Small_A>Small medit. rock</Rock_Mediterranean_Small_A>
+      <Rock_Mediterranean_Small_A_stt>Small medit. rock</Rock_Mediterranean_Small_A_stt>
+      <Rock_Mediterranean_Small_A_lower>the small medit. rock</Rock_Mediterranean_Small_A_lower>
+      <Rock_Mediterranean_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small medit. rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small medit. rock.
+      </Rock_Mediterranean_Small_A_ltt>
+      <Rock_TropicalDryForest_Large_A>Large dry forest rock</Rock_TropicalDryForest_Large_A>
+      <Rock_TropicalDryForest_Large_A_stt>Large dry forest rock</Rock_TropicalDryForest_Large_A_stt>
+      <Rock_TropicalDryForest_Large_A_lower>the large dry forest rock</Rock_TropicalDryForest_Large_A_lower>
+      <Rock_TropicalDryForest_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large dry forest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large dry forest rock.
+      </Rock_TropicalDryForest_Large_A_ltt>
+      <Rock_TropicalDryForest_Medium_A>Medium dry forest rock</Rock_TropicalDryForest_Medium_A>
+      <Rock_TropicalDryForest_Medium_A_stt>Medium dry forest rock</Rock_TropicalDryForest_Medium_A_stt>
+      <Rock_TropicalDryForest_Medium_A_lower>the medium dry forest rock</Rock_TropicalDryForest_Medium_A_lower>
+      <Rock_TropicalDryForest_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium dry forest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium dry forest rock.
+      </Rock_TropicalDryForest_Medium_A_ltt>  	  
+      <Rock_TropicalDryForest_Small_A>Small dry forest rock</Rock_TropicalDryForest_Small_A>
+      <Rock_TropicalDryForest_Small_A_stt>Small dry forest rock</Rock_TropicalDryForest_Small_A_stt>
+      <Rock_TropicalDryForest_Small_A_lower>the small dry forest rock</Rock_TropicalDryForest_Small_A_lower>
+      <Rock_TropicalDryForest_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small dry forest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small dry forest rock.
+      </Rock_TropicalDryForest_Small_A_ltt>
+      <Rock_TemperateRainforest_Large_A>Large temp. rainforest rock</Rock_TemperateRainforest_Large_A>
+      <Rock_TemperateRainforest_Large_A_stt>Large temp. rainforest rock</Rock_TemperateRainforest_Large_A_stt>
+      <Rock_TemperateRainforest_Large_A_lower>the large temp. rainforest rock</Rock_TemperateRainforest_Large_A_lower>
+      <Rock_TemperateRainforest_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large temp. rainforest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large temp. rainforest rock.
+      </Rock_TemperateRainforest_Large_A_ltt>
+      <Rock_TemperateRainforest_Medium_A>Medium temp. rainforest rock</Rock_TemperateRainforest_Medium_A>
+      <Rock_TemperateRainforest_Medium_A_stt>Medium temp. rainforest rock</Rock_TemperateRainforest_Medium_A_stt>
+      <Rock_TemperateRainforest_Medium_A_lower>the medium temp. rainforest rock</Rock_TemperateRainforest_Medium_A_lower>
+      <Rock_TemperateRainforest_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium temp. rainforest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium temp. rainforest rock.
+      </Rock_TemperateRainforest_Medium_A_ltt>  	  
+      <Rock_TemperateRainforest_Small_A>Small temp. rainforest rock</Rock_TemperateRainforest_Small_A>
+      <Rock_TemperateRainforest_Small_A_stt>Small temp. rainforest rock</Rock_TemperateRainforest_Small_A_stt>
+      <Rock_TemperateRainforest_Small_A_lower>the small temp. rainforest rock</Rock_TemperateRainforest_Small_A_lower>
+      <Rock_TemperateRainforest_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small temp. rainforest rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small temp. rainforest rock.
+      </Rock_TemperateRainforest_Small_A_ltt>
+      <Rock_Polarice_Large_A>Large Iceberg</Rock_Polarice_Large_A>
+      <Rock_Polarice_Large_A_stt>Large Iceberg</Rock_Polarice_Large_A_stt>
+      <Rock_Polarice_Large_A_lower>the large Iceberg</Rock_Polarice_Large_A_lower>
+      <Rock_Polarice_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large Iceberg</b>
+         </color>
+         <br/>
+         Click here to select and place a large Iceberg.
+      </Rock_Polarice_Large_A_ltt>
+      <Rock_Polarice_Medium_A>Medium Iceberg</Rock_Polarice_Medium_A>
+      <Rock_Polarice_Medium_A_stt>Medium Iceberg</Rock_Polarice_Medium_A_stt>
+      <Rock_Polarice_Medium_A_lower>the medium Iceberg</Rock_Polarice_Medium_A_lower>
+      <Rock_Polarice_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium Iceberg</b>
+         </color>
+         <br/>
+         Click here to select and place a medium Iceberg.
+      </Rock_Polarice_Medium_A_ltt>  	  
+      <Rock_Polarice_Small_A>Small Iceberg</Rock_Polarice_Small_A>
+      <Rock_Polarice_Small_A_stt>Small Iceberg</Rock_Polarice_Small_A_stt>
+      <Rock_Polarice_Small_A_lower>the small Iceberg</Rock_Polarice_Small_A_lower>
+      <Rock_Polarice_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small Iceberg</b>
+         </color>
+         <br/>
+         Click here to select and place a small Iceberg.
+      </Rock_Polarice_Small_A_ltt>
+      <Rock_ColdDesert_Large_A>Large cold desert rock</Rock_ColdDesert_Large_A>
+      <Rock_ColdDesert_Large_A_stt>Large cold desert rock</Rock_ColdDesert_Large_A_stt>
+      <Rock_ColdDesert_Large_A_lower>the large cold desert rock</Rock_ColdDesert_Large_A_lower>
+      <Rock_ColdDesert_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large cold desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large cold desert rock.
+      </Rock_ColdDesert_Large_A_ltt>
+      <Rock_ColdDesert_Medium_A>Medium cold desert rock</Rock_ColdDesert_Medium_A>
+      <Rock_ColdDesert_Medium_A_stt>Medium cold desert rock</Rock_ColdDesert_Medium_A_stt>
+      <Rock_ColdDesert_Medium_A_lower>the medium cold desert rock</Rock_ColdDesert_Medium_A_lower>
+      <Rock_ColdDesert_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium cold desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium cold desert rock.
+      </Rock_ColdDesert_Medium_A_ltt>  	  
+      <Rock_ColdDesert_Small_A>Small cold desert rock</Rock_ColdDesert_Small_A>
+      <Rock_ColdDesert_Small_A_stt>Small cold desert rock</Rock_ColdDesert_Small_A_stt>
+      <Rock_ColdDesert_Small_A_lower>the small cold desert rock</Rock_ColdDesert_Small_A_lower>
+      <Rock_ColdDesert_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small cold desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small cold desert rock.
+      </Rock_ColdDesert_Small_A_ltt>
+      <Rock_DesertRed_Large_A>Large red desert rock</Rock_DesertRed_Large_A>
+      <Rock_DesertRed_Large_A_stt>Large red desert rock</Rock_DesertRed_Large_A_stt>
+      <Rock_DesertRed_Large_A_lower>the large red desert rock</Rock_DesertRed_Large_A_lower>
+      <Rock_DesertRed_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large red desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large red desert rock.
+      </Rock_DesertRed_Large_A_ltt>
+      <Rock_DesertRed_Medium_A>Medium red desert rock</Rock_DesertRed_Medium_A>
+      <Rock_DesertRed_Medium_A_stt>Medium red desert rock</Rock_DesertRed_Medium_A_stt>
+      <Rock_DesertRed_Medium_A_lower>the medium red desert rock</Rock_DesertRed_Medium_A_lower>
+      <Rock_DesertRed_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium red desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium red desert rock.
+      </Rock_DesertRed_Medium_A_ltt>  	  
+      <Rock_DesertRed_Small_A>Small red desert rock</Rock_DesertRed_Small_A>
+      <Rock_DesertRed_Small_A_stt>Small red desert rock</Rock_DesertRed_Small_A_stt>
+      <Rock_DesertRed_Small_A_lower>the small red desert rock</Rock_DesertRed_Small_A_lower>
+      <Rock_DesertRed_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small red desert rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small red desert rock.
+      </Rock_DesertRed_Small_A_ltt>
+      <Rock_Freshwater_Large_A>Large freshwater rock</Rock_Freshwater_Large_A>
+      <Rock_Freshwater_Large_A_stt>Large freshwater rock</Rock_Freshwater_Large_A_stt>
+      <Rock_Freshwater_Large_A_lower>the large freshwater rock</Rock_Freshwater_Large_A_lower>
+      <Rock_Freshwater_Large_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Large freshwater rock</b>
+         </color>
+         <br/>
+         Click here to select and place a large freshwater rock.
+      </Rock_Freshwater_Large_A_ltt>
+      <Rock_Freshwater_Medium_A>Medium freshwater rock</Rock_Freshwater_Medium_A>
+      <Rock_Freshwater_Medium_A_stt>Medium freshwater rock</Rock_Freshwater_Medium_A_stt>
+      <Rock_Freshwater_Medium_A_lower>the medium freshwater rock</Rock_Freshwater_Medium_A_lower>
+      <Rock_Freshwater_Medium_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Medium freshwater rock</b>
+         </color>
+         <br/>
+         Click here to select and place a medium freshwater rock.
+      </Rock_Freshwater_Medium_A_ltt>  	  
+      <Rock_Freshwater_Small_A>Small freshwater rock</Rock_Freshwater_Small_A>
+      <Rock_Freshwater_Small_A_stt>Small freshwater rock</Rock_Freshwater_Small_A_stt>
+      <Rock_Freshwater_Small_A_lower>the small freshwater rock</Rock_Freshwater_Small_A_lower>
+      <Rock_Freshwater_Small_A_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small freshwater rock</b>
+         </color>
+         <br/>
+         Click here to select and place a small freshwater rock.
+      </Rock_Freshwater_Small_A_ltt>
+   </entityname>
+	  
+   <!--zoopedia entries-->
+      <LOC_STRING _locID="zoopedia_montanerocks:entry">Rock, Montane</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_montanerocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\montane\Rock_Montane_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\montane\Rock_Montane_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\montane\Rock_Montane_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Montane rocks fit well into montane exhibits.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mediterraneanrocks:entry">Rock, Mediterranean</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mediterraneanrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\mediterranean\Rock_mediterranean_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\mediterranean\Rock_mediterranean_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\mediterranean\Rock_mediterranean_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Mediterranean rocks look cool in mediterranean exhibits.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_freshwaterrocks:entry">Rock, Freshwater</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_freshwaterrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\freshwater\Rock_freshwater_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\freshwater\Rock_freshwater_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\freshwater\Rock_freshwater_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Freshwater rocks work well in all kinds of aquaria.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_colddesertrocks:entry">Rock, Cold desert</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_colddesertrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\colddesert\Rock_colddesert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\colddesert\Rock_colddesert_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\colddesert\Rock_colddesert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Cold desert rocks look good in steppe and cold desert exhibits.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertredrocks:entry">Rock, Red desert</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertredrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\desertred\Rock_desertred_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\desertred\Rock_desertred_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\desertred\Rock_desertred_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Red desert rocks fit red deserts extremely well.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_temperaterainforestrocks:entry">Rock, Temperate Rainforest</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_temperaterainforestrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\temperaterainforest\Rock_temperaterainforest_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\temperaterainforest\Rock_temperaterainforest_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\temperaterainforest\Rock_temperaterainforest_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Temperate rainforest rocks fit well into temperate Rainforest exhibits.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tropicaldryforestrocks:entry">Rock, Tropical Dry Forest</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tropicaldryforestrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\tropicaldryforest\Rock_tropicaldryforest_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\tropicaldryforest\Rock_tropicaldryforest_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\tropicaldryforest\Rock_tropicaldryforest_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Tropical dry forest rocks look good in dry forest exhibits and scrubland.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_polaricerocks:entry">Rock, Iceberg</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_polaricerocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\rocks\polarice\Rock_polarice_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\polarice\Rock_polarice_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\rocks\polarice\Rock_polarice_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>    
+                 Icebergs fit well in polar ice exhibits.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

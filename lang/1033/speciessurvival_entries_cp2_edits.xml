@@ -1,0 +1,6 @@
+<ZT2Strings>
+      <LOC_STRING _locID="SpeciesSurvival" version="9" />
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationFailureoverview" version="9"  version="9" >
+       Oh no, you only have one %s! You neglected to keep enough animals of mixed gender to maintain a breeding program. Achieving the select status of breeding multiple generations of animals is out of your grasp.
+      </LOC_STRING>      
+</ZT2Strings>            

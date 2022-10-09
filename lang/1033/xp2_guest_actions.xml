@@ -1,0 +1,6 @@
+<ZT2Strings>
+      <LOC_STRING _locID="guestactions:BeingScared"  >%s에게 겁을 먹었습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoingToWatchShow"  >공연을 관람하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:WatchingShow"  >공연을 관람하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="guestactions:BeingSplashed"  >%s이(가) 튀긴 물에 흠뻑 젖었습니다.</LOC_STRING>
+</ZT2Strings>

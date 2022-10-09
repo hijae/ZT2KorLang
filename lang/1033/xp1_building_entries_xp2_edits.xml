@@ -1,0 +1,39 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6" />
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6"  >페이스 페인팅 코너</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+아이들은 얼굴에 호랑이, 팬더 등의 동물 분장을 해 주는 페이스 페인팅 코너를 좋아합니다.
+<p/>
+페이스 페인팅 코너를 사용하려면 엔터테인먼트 우수상을 수상해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6" />
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6"  >음성 정보 안내 데스크</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+관람객들은 음성 정보 안내 데스크에서 주는 무선 헤드폰을 끼고 동물에 대한 설명을 듣는 것을 좋아합니다.
+		<p/>
+음성 정보 안내 데스크를 사용하려면 장학 우수상을 수상해야 합니다.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

@@ -1,0 +1,267 @@
+﻿<ZT2Strings>
+<!-- 공룡팩 스트링 -->
+      <LOC_STRING _locID="entityname:TyrannosaurusRex"  >티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_stt"  >티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_lower"  >티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_ltt"  >
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스
+         </color>
+         <br/>
+         티라노사우루스 렉스를 선택하고 적당한 우리에 넣어주세요. 육식성을 가진 포식자 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus"  >스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_stt"  >스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_lower"  >스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            스티라코사우루스
+         </color>
+         <br/>
+         스티라코사우루스를 선택하고 적당한 우리에 넣어주세요. 뿔 달린 작은 초식 공룡이며 날카로운 가시가 있는 프릴을 가지고 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops"  >트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_stt"  >트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_lower"  >트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_ltt"  >
+         <color r="255" g="248" b="178">
+            트리케라톱스
+         </color>
+         <br/>
+         트리케라톱스를 선택하고 적당한 우리에 넣어주세요. 뿔과 프릴이 있는 커다란 초식 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus"  >카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_stt"  >카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_lower"  >카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_ltt"  >
+         <color r="255" g="248" b="178">
+            카르노타우루스
+         </color>
+         <br/>
+         카르노타우루스를 선택하고 적당한 우리에 넣어주세요. 남미 출신의 육식 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift"  >티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_stt"  >티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_lower"  >티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스 모자
+         </color>
+         <br/>   
+         티라노사우루스를 관람하는 손님들은 이 선물을 구매할것입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift"  >Carnotaurus Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_stt"  >Carnotaurus stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_lower"  >the Carnotaurus stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Carnotaurus Stuffed Animal
+         </color>
+         <br/>   
+         Guests who enjoy watching the Carnotaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift"  >Styracosaurus Shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_stt"  >Styracosaurus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_lower"  >the Styracosaurus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Styracosaurus Shirt
+         </color>
+         <br/>   
+         Guests who enjoy watching the Styracosaurus will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift"  >Triceratops Stuffed Animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_stt"  >Triceratops stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_lower"  >the Triceratops stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_ltt"  >
+         <color r="255" g="248" b="178">
+            Triceratops Stuffed Animal
+         </color>
+         <br/>   
+         Guests who enjoy watching the Triceratops will buy this gift.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest"  >소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_stt"  >소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_lower"  >소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_ltt"  >
+         <color r="255" g="248" b="178">
+            소철
+         </color>
+         <br/>
+         Click to select and then place a king sago, a cycad plant that has survived from the age of dinosaurs to the present day.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence"  >공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_stt"  >공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_lower"  >공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 울타리
+         </color>
+         <br/>
+         Click to select and then place sections of dinosaur fence, an extremely strong fence designed to contain prehistoric beasts.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat"  >공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_stt"  >공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_lower"  >공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 고기
+         </color>
+         <br/>
+         Click to select and then place dinosaur meat, an essential part of a carnivorous dinosaur's diet.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves"  >소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_stt"  >소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_lower"  >소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_ltt"  >
+         <color r="255" g="248" b="178">
+            소철 잎
+         </color>
+         <br/>
+         Click to select and then place cycad leaves, which herbivorous dinosaurs like to eat.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino"  >공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_stt"  >공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_lower"  >공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 똥
+         </color>
+         <br/>
+         Click to select and then place dinosaur poop.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick"  >공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_stt"  >공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_lower"  >공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 똥 (아픔)
+         </color>
+         <br/>
+         Click to select and then place dinosaur poop (sick).
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest"  >트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_stt"  >트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_lower"  >트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_ltt"  >
+         <color r="255" g="248" b="178">
+            트리케라톱스 둥지
+         </color>
+         <br/>
+         Click to select and then place a Triceratops nest, where Triceratopses lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest"  >스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_stt"  >스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_lower"  >스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            스티라코사우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a Styracosaurus nest, where Styracosauruses lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest"  >티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_stt"  >티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_lower"  >티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_ltt"  >
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스 둥지
+         </color>
+         <br/>
+         Click to select and then place a 티라노사우루스 렉스 nest, where T. rexes lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest"  >카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_stt"  >카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_lower"  >카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_ltt"  >
+         <color r="255" g="248" b="178">
+            카르노타우루스 둥지
+         </color>
+         <br/>
+         Click to select and then place a Carnotaurus nest, where Carnotauruses lay their eggs.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy"  >공룡 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_stt"  >공룡 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_lower"  >공룡 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_ltt"  >
+         <color r="255" g="248" b="178">
+            공룡 모형
+         </color>
+         <br/>
+         Click to select and then place a dinosaur prey dummy, which dinosaurs like to claw, bite, and ram.
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinomeat:entry"  >Dinosaur Meat</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinomeat:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_DinoMeat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>These giant chunks of meat have been formed into fun dinosaur shapes. They make the perfect food for carnivorous dinosaurs, such as 티라노사우루스 렉스 and Carnotaurus.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cycadleaves:entry"  >Cycad Leaves</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cycadleaves:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_CycadLeaves_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  Cycad plants, such as the king sago, were one of the most common types of vegetation during the age of the dinosaurs. Cycad leaves probably made up a large part of the diet of herbivorous dinosaurs, such as Styracosaurus and Triceratops.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinofence:entry"  >Dinosaur Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinofence:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\dino_fence\dinofence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               <p/>Made from reinforced steel, dinosaur fence is strong enough to prevent even mighty prehistoric beasts from breaking out of their exhibits. The upper portion of the fence is also electrified to discourage large dinosaurs, such as 티라노사우루스 렉스, from climbing over.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinosaurnest:entry"  >Dinosaur Nest</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinosaurnest:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities\objects\eggs\Dinosaur_Nest\DinosaurNest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Many dinosaurs built ground nests for their eggs, just as many modern reptiles and flightless birds do today. The first fossil evidence of dinosaur nests was found in 1923 in the Gobi desert.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinopreydummy:entry"  >Dinosaur Prey Dummy</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinopreydummy:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Dino_Prey_Dummy\DinoPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The dinosaur prey dummy is a dinosaur-shaped dummy made from matting and a tensile steel armature.
+                  <p/>Carnivores enjoy practicing their attacks by biting or clawing the dummy because it moves in reaction to their attacks.
+                  <p/>Territorial dinosaurs, such as Styracosaurus and Triceratops, enjoy ramming the dummy with their horns.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

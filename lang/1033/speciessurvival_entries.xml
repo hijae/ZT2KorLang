@@ -1,0 +1,116 @@
+<ZT2Strings>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsintro"  >취약 동물 입양 프로그램</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsoverview"  >
+         
+         
+         
+         
+             동물들이 새끼를 계속 낳도록 하는 것은 야생 동물 보존에 기여하겠다는 동물원의 강한 의지를 나타냅니다. 동물원을 지원하는 주요 기증자들은 야생 동물 보존을 매우 중요하게 생각하므로 여러분이 다른 동물원으로부터 동물을 받아들이는 것을 제한하고 있습니다. 기증자들은 동물들이 새끼를 잘 낳게 하고 실제 입양 프로그램을 만들어서 다른 동물원에 동물을 제공해 줄 것을 요구하고 있습니다.           
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+             동물들의 추가적인 생활 조건을 만족시켜서 새끼를 낳게 하세요. 우리 안에는 동물이 너무 많아지지 않게 해야 합니다. 동물이 너무 많아지면 다른 동물원으로 보내세요. 하지만 점점 성장하고 번성할 수 있을 만큼의 동물 수는 항상 유지하고 있어야 합니다.           
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+             다른 동물원으로 동물을 보낼 때마다 보상금을 받습니다. 입양 프로그램을 통해 얻은 자금은 동물들에게 특별한 먹이, 장난감, 편안한 보금자리를 제공하는 데 사용할 수 있습니다.            
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsoverviewshort"  >        동물들이 계속 새끼를 낳도록 하는 것은 야생 동물 보존에 기여하겠다는 동물원의 강한 의지를 나타냅니다. 동물들이 새끼를 잘 낳게 하고 실제 입양 프로그램을 만들어서 다른 동물원에 동물을 제공해 주세요. 이 캠페인의 시나리오를 모두 마치면 신비한 팬더 캠페인을 할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsSuccessoverview"  >종족 보존 프로그램 덕분에 세계적으로 멸종 위기에 처한 동물의 수를 늘릴 수 있었습니다. 다른 동물원에 보낼 수 있을 정도로 많은 동물이 새끼를 낳도록 했으며 이를 통해 희귀한 동물의 보존에 기여했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsFailureoverview"  >이런! %s이(가) 한 마리뿐입니다! 종족 보존 프로그램을 진행하려면 적어도 수컷과 암컷이 한 마리씩 있어야 합니다. 불행히도 동물이 새끼를 낳게 하여 종족 보존 프로그램을 지원할 수 없게 되었습니다. 동물원 주요 기증자의 바람과는 반대이지만 추가로 동물을 입양할 수밖에 없습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsresult"  >동물 입양 프로그램이 잘 진행되고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreeding"  > 동물들이 새끼를 낳아 늘어난 동물들을 다른 동물원으로 입양시키세요. 4종의 동물을 각각 한 마리씩 보내야 하지만 암컷과 수컷 한 마리씩은 남겨 두어야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingone"  > 동물 1종을 다른 동물원으로 보냈습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingtwo"  > 동물 2종을 다른 동물원으로 보냈습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingthree"  >       동물 3종을 다른 동물원으로 보냈습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingfour"  >      동물 4종을 다른 동물원으로 보냈습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingBonusAnimal"  > 동물 입양 프로그램에 참여한 한 동물원에서 새로운 동물을 보냈습니다! 동물이 들어 있는 상자가 동물원 출입문 근처로 운송되었습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingOK"  > 종족 보존 프로그램이 잘 진행된 덕분에 동물 6종을 다른 동물원에 보낼 수 있었습니다! 기증자들은 여러분이 동물 입양 프로그램을 통해 다른 동물원에 동물을 제공함으로써 동물 보존에 긍정적인 영향을 준 것에 만족하고 있습니다.       </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:VulnerableAnimalsBreedingFailed"  > 이런! 동물 수가 부족하여 종족 보존 프로그램을 유지할 수가 없습니다. 기증자들이 매우 실망했습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsintro"  >멸종 위기 동물의 생존</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsoverview"  >
+         
+         
+         
+         
+             새끼를 낳는 것은 어떤 동물에게나 좋은 일이지만 특히 멸종 위기에 처한 동물이 새끼를 낳도록 하는 일은 종족 보존을 위한 중요하고도 적극적인 방법입니다.          
+         
+         
+         
+         
+         <p/>
+         
+         
+         
+         
+             관람객들은 특히 동물의 새끼를 구경하기를 좋아합니다. 멸종 위기에 처한 종의 경우는 더욱 그렇습니다. 이러한 동물의 새끼를 볼 경우 관람객들이 많은 금액을 기부할 가능성이 높아집니다.          
+         
+         
+         
+         
+         <p/>
+         
+         
+    마운틴고릴라, 붉은 팬더, 눈표범의 추가적인 생활 조건을 만족시켜서 새끼를 낳게 하세요. 이 세 종류의 동물에 대해 $7,500씩의 기부금을 모으고 각각의 동물마다 새끼를 낳도록 해야 합니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsoverviewshort"  >        새끼를 낳는 것은 어떤 동물에게나 좋은 일이지만 특히 멸종 위기에 처한 동물이 새끼를 낳도록 하는 일은 종족 보존을 위한 중요하고도 적극적인 방법입니다. 멸종 위기에 처한 여러 동물이 새끼를 낳을 수 있도록 도와야 합니다. 이 캠페인의 시나리오를 모두 마치면 신비한 팬더 캠페인을 할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsSuccessPart1overview"  >종족 보존 프로그램이 여러 멸종 위기 동물의 생존에 크게 도움이 되었습니다. 관람객들은 새끼 동물을 구경하는 것을 좋아하며, 특히 멸종 위기 동물의 새끼일 경우에는 그 효과가 더 큽니다. 이러한 새끼 동물 덕분에 기부금 수익이 늘어날 것입니다.       </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsSuccessPart2overview"  >기부금을 통해 추가 수익을 확보하는 훌륭한 결과를 얻었습니다. 이 추가 수익 덕분에 동물원에서 새 우리를 짓고 기존 우리를 개선하거나 관람객 편의 시설을 확장할 수 있는 자금을 확보하게 되었습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsresult"  >멸종 위기에 처했던 동물의 수가 크게 늘어났습니다!</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedGorilla"  >마운틴고릴라가 새끼를 낳도록 해야 합니다.            </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedRedPanda"  > 붉은 팬더가 새끼를 낳도록 해야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedSnowLeopard"  > 눈표범이 새끼를 낳도록 해야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedGorillaOK"  > 좋습니다! 마운틴고릴라가 새끼를 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedRedPandaOK"  > 좋습니다! 붉은 팬더가 새끼를 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedSnowLeopardOK"  > 좋습니다! 눈표범이 새끼를 낳는 데 성공했습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedingFailed"  >        이런! 동물 수가 부족하여 종족 보존 프로그램을 유지할 수가 없습니다.       </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsFailureoverview"  > 이런! %s이(가) 한 마리뿐입니다! 종족 보존 프로그램을 진행하려면 적어도 수컷과 암컷이 한 마리씩 있어야 합니다. 불행히도 멸종 위기 동물의 보존 프로그램을 지원할 목적으로 새끼를 낳게 할 방법이 없습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsFailureAllGone"  >%s 가족이 전부 어떻게 된 거죠? 남아 있는 동물이 없어서 더 이상 기부금을 모을 수 없습니다.</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsGorillaDonations"  >관람객들로부터 마운틴고릴라를 위한 기부금 $7,500를 모아야 합니다.  </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsRedPandaDonations"  >관람객들로부터 붉은 팬더를 위한 기부금 $7,500를 모아야 합니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsSnowLeopardDonations"  >관람객들로부터 눈표범을 위한 기부금 $7,500를 모아야 합니다.    </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsGorillaDonationsOK"  >축하합니다! 마운틴고릴라를 위한 $7,500의 기부금을 모으는 데 성공했습니다.</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsRedPandaDonationsOK"  >축하합니다! 붉은 팬더를 위한 $7,500의 기부금을 모으는 데 성공했습니다. </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsSnowLeopardDonationsOK"  >축하합니다! 눈표범을 위한 $7,500의 기부금을 모으는 데 성공했습니다. </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:EndangeredAnimalsBreedingBonusAnimal"  > 멸종 위기에 처한 동물을 대상으로 종족 보존 프로그램을 실시한다는 소식이 알려지면서 익명의 기부금이 들어왔으며, 동물원 입구에 새로 동물이 운송되었습니다.     </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationintro"  >동물 번식</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationoverview"  >동물이 새끼를 낳도록 유도하는 것은 많은 동물원이 이루고 싶어하는 어려운 과제입니다. 2대에 걸쳐 새끼를 낳도록 하는 것은 더욱 어렵습니다. 새끼를 낳도록 유도하는 종족 보존 프로그램을 잘 실행하면 여러 세대에 걸쳐 새끼를 얻은 몇 안 되는 동물원 중 하나가 될 것입니다.     </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationoverviewshort"  >        동물이 새끼를 낳도록 유도하는 것은 많은 동물원이 이루고 싶어하는 어려운 과제입니다. 2대에 걸쳐 새끼를 낳도록 하는 것은 더욱 어렵습니다. 여러분이 운영하는 동물원도 이 목표를 달성한 몇 안되는 동물원 중 하나가 될 수 있을까요? 이 캠페인의 시나리오를 모두 마치면 신비한 팬더 캠페인을 할 수 있습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationSuccessoverview"  >여러 세대에 걸쳐 새끼 동물을 잘 길러냈다는 것을 자랑할 수 있는 동물원은 그리 많지 않습니다. 우리 동물원이 이런 동물원 중 하나가 된 덕분에 동물원의 명성은 널리 퍼질 것이 확실하며 새끼의 탄생이 전 세계에 주요 뉴스로 소개되었습니다. 이러한 성과 덕분에 신비한 팬더 캠페인을 진행할 수 있게 되었습니다!</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationFailureoverview"  > 이런! %s이(가) 한 마리뿐입니다! 종족 보존 프로그램을 진행하려면 적어도 수컷과 암컷이 한 마리씩 있어야 합니다. 따라서 여러 세대에 걸쳐 새끼를 낳게 하려는 목표 달성이 불가능하게 되었습니다.     </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationresult"  >동물들이 잘 자라고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreeding"  > 동물원에서 태어난 동물이 새끼를 잘 낳도록 해야 합니다.     </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingZebraOne"  > 얼룩말이 새끼를 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingZebraTwo"  > 얼룩말의 새끼가 자라서 또 새끼 얼룩말을 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingLemurOne"  > 여우원숭이가 새끼를 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingLemurTwo"  > 여우원숭이의 새끼가 자라서 또 새끼 여우원숭이를 낳았습니다!      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingChimpOne"  > 침팬지가 새끼를 낳았습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingChimpTwo"  >침팬지의 새끼가 자라서 또 새끼 침팬지를 낳았습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingOK"  > 축하합니다! 여러 세대에 걸쳐 새끼 동물을 잘 기른 동물원은 거의 없습니다만, 우리 동물원이 이런 동물원 중 하나가 되었습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingFailed"  > 이런! 동물 수가 부족하여 종족 보존 프로그램을 유지할 수가 없습니다.      </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationBreedingBonusAnimal"  > 종족 보존 프로그램 소식이 알려지면서 자연 보호 협회에서 우리 동물원에 새로운 동물을 기증했습니다! 동물원 입구에 새로운 동물이 운송되었습니다.     </LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:SpeciesSurvivalshort"  >보존 프로그램</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:VulnerableAnimalsS1"  >동물 입양</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:VulnerableAnimalsS1short"  >동물 입양</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:EndangeredAnimalsS2"  >동물 보존</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:EndangeredAnimalsS2short"  >동물 보존</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:SecondGenerationS3"  >동물 번식</LOC_STRING>
+      <LOC_STRING _locID="SpeciesSurvivalLabels:SecondGenerationS3short"  >동물 번식</LOC_STRING>
+</ZT2Strings>

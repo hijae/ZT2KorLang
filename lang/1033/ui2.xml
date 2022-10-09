@@ -1,0 +1,26 @@
+<ZT2Strings>
+      <LOC_STRING _locID="confirm:cancel_dl_button_label"  >
+         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  [주 메뉴로 돌아가기]를 클릭하면 현재 진행 중인 모든 다운로드가 취소됩니다.
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_dl_button_stt"  >주 메뉴로 돌아가기</LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_dl_button_ltt"  >
+         <color r="255" g="248" b="178">
+            주 메뉴로 돌아가기
+         </color>
+         <br>진행 중인 다운로드를 취소하고 주 메뉴로 돌아갑니다.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_cancel_dl_button_stt"  >다운로드 계속하기</LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_cancel_dl_button_ltt"  >
+         <color r="255" g="248" b="178">
+            다운로드 계속하기
+         </color>
+         <br>진행 중인 다운로드를 계속합니다.</br>
+      </LOC_STRING>
+</ZT2Strings>

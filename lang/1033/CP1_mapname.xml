@@ -1,0 +1,34 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapname:atlas"  >아틀라스 산맥(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:capegoodhope"  >희망봉(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:congo"  >콩고 하천 유역(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:drakensberg"  >드라켄즈버그(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:kilimanjaro"  >킬리만자로산(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:okavango"  >오카방고 델타(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:sahara"  >사하라 사막(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapname:serengeti"  >세렌게티 평원(중형)</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:atlasdescription"  >
+   	고대 그리스 신화에 따르면 아프리카 북서부에 있는 이 산맥에서 거인 아틀라스가 하늘을 떠받치고 서 있었다고 합니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:capegoodhopedescription"  >
+   	아프리카 남서부 끝에 위치한 희망봉은 "fynbos"로 알려진 독특한 관목 생태계가 형성되어 있는 곳입니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:congodescription"  >
+   	콩고 하천 유역은 세계에서 두 번째로 큰 열대우림으로 수천 종의 동물이 서식하고 있습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:drakensbergdescription"  >
+   	드라켄즈버그는 아프리카 남동부의 고원 지대가 갑자기 낮아지면서 생성된 산맥입니다. 
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:kilimanjarodescription"  >
+   	화산인 킬리만자로산은 아프리카에서 가장 높습니다. 이 산은 적도 부근에 있으면서도 산꼭대기가 빙하와 만년설로 덮여 있는 것으로 유명합니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:okavangodescription"  >
+   		우기가 되면 오카방고 강 주변은 습지대로 변합니다. 하지만 칼라하리 사막에서 강물이 모두 증발하기 때문에 바다에 이르지는 못합니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:saharadescription"  >
+   		아프리카 북부에 위치한 사하라 사막은 전체 면적이 미국과 맞먹을 정도로 광대합니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:serengetidescription"  >
+   		매년 백만 마리 이상의 누가 세렌게티 평원을 지납니다. 이는 동물의 주기적 이동 중에서 가장 규모가 큰 것입니다.
+   	</LOC_STRING>
+</ZT2Strings>
