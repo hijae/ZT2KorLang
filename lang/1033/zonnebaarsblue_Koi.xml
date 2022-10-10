@@ -1,0 +1,49 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <zonnebaarsblue_Koi>Bluegill </zonnebaarsblue_Koi>
+<zonnebaarsblue_Koi_stt>Bluegill </zonnebaarsblue_Koi_stt>
+<zonnebaarsblue_Koi_lower>the Bluegill</zonnebaarsblue_Koi_lower>
+      <zonnebaarsblue_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bluegill</b>
+         </color>
+         <br/>
+        Click to select and place the Bluegill.
+      </zonnebaarsblue_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_zonnebaarsblue_koi:entry">Gill, Blue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zonnebaarsblue_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/zonnebaarsblue/zonnebaarsblue_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Bluegill (Lepomis macrochirus) is a species of freshwater fish sometimes referred to as bream, brim, or copper nose. It is a member of the sunfish family (family Centrarchidae) of order Perciformes. It is native to a wide area of North America, from Quubec to northern Mexico, and has been widely transplanted to stock game fish for anglers. It is commonly fished in Minnesota and Wisconsin, but it is the state fish of the U.S. state of Illinois. It is renowned as an excellent tasting fish on par with Walleye.
+
+                  <p/> Of tropical sunfish body shape, the bluegills most notable feature is the blue or black ear, actually an extension of the gill cover called the opercular flap. Its name, however, comes from the bright blue edging visible on its gill rakers. It can be distinguished from similar species by the (not always pronounced) vertical bars along its flanks. The bluegill grows to a maximum overall length of approximately 40 cm (16 in).
+
+
+                  <p/> Bluegills are popular game fish, caught with live bait, flies, hot dogs, raw chicken or other lures, chiefly at dawn and dusk. One of the easiest baits to use for them is white bread or a corn kernel. Another efficient bait would be redworms or waxworms on ice jigs. They are noted for seeking out underwater vegetation for cover. their natural diet consists largely of small invertebrates and very small fish. The Bluegill itself is also occasionally used as bait for larger game fish species such as blue catfish and largemouth bass. The bluegill is a schooling fish with schools of 20 to 30 individuals. These fish spawn in June in nests in the shallows. During this period males assume a very bold coloration, as they are guarding their nests. An interesting piece of their biology is that some males assume the coloration of the female fish so that the nest guarding males won't show aggression towards them. Then these sneaker males enter nests and spawn. Because of their size and the method of cooking them, bluegills are often called panfish. Bluegill are also commonly referred to as bream. Bluegills are excellent fish to teach children angling. They are notorious for their nibbling or pecking style of feeding and commonly steal bait off a fisherman's hook. They hit hard for their size.(making it easy to tell when the angler has one on the line) Adult channel catfish, largemouth bass, and turtles prey upon bluegill.
+
+
+
+
+
+                  <p/> In some locations where it has been transplanted, it is considered a pest: trade in the species is prohibited in Germany and Japan. In the case of Japan, bluegill were presented to the crown prince, Akihito in 1960 as a gift by Richard J. Daley, mayor of Chicago. The prince, in turn, donated the fish to fishery research agencies in Japan from which they escaped, becoming an invasive species which has wreaked havoc with native species. The emperor has apologized.
+
+
+
+
+<p/>
+
+
+Information from: http://nl.wikipedia.org/wiki/Blauwkeel Zonnebaars!
+<p/>Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

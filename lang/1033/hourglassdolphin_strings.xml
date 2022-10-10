@@ -1,0 +1,140 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <hourglassdolphin>모래시계돌고래</hourglassdolphin>
+      <hourglassdolphin_stt>모래시계돌고래</hourglassdolphin_stt>
+      <hourglassdolphin_lower>모래시계돌고래</hourglassdolphin_lower>
+      <hourglassdolphin_ltt>
+         <color r="255" g="248" b="178">
+            <b>모래시계돌고래</b>
+         </color>
+         <br/>
+         Click to slecet and place the Hourglass Dolphin, A dolphin whose colour looks like the colour of the Killer Whale (Orca).
+      </hourglassdolphin_ltt>
+<!--egg names-->
+      <hourglassdolphin_Egg>모래시계돌고래 알</hourglassdolphin_Egg>
+      <hourglassdolphin_Egg_stt>모래시계돌고래 알</hourglassdolphin_Egg_stt>
+      <hourglassdolphin_Egg_lower>모래시계돌고래 알</hourglassdolphin_Egg_lower>
+      <hourglassdolphin_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Hourglass Dolphin egg</b>
+         </color>
+         <br/>
+         Click on the icon to select the Houglass Dolphin. Move your mouse and click to place the Hourglass Dolphin.
+        </hourglassdolphin_Egg_ltt>
+      <!--gift names-->
+      <hourglassdolphin_Gift>모래시계돌고래 허리가방</hourglassdolphin_Gift>
+      <hourglassdolphin_Gift_stt>모래시계돌고래 허리가방</hourglassdolphin_Gift_stt>
+      <hourglassdolphin_Gift_lower>모래시계돌고래 허리가방</hourglassdolphin_Gift_lower>
+      <hourglassdolphin_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>모래시계돌고래 허리가방</b>
+         </color>
+         <br/>Guests who like to see the Hourglass Dolphin want to buy this souvenir.
+      </hourglassdolphin_Gift_ltt>
+</entityname>
+<zoopedia_hourglassdolphin>
+ <entry>Hourglass Dolphin</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/hourglassdolphin/hourglassdolphin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                      Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                     Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Southern of South-America <br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Lagenorhynchus or Cephalorhynchus</i><br/>Species: <i>L. cruciger</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Hourglass Dolphin</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This nicely coloured dolphin is a fast swimmer.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This dolphin probably eats cephalopods and small fish.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Their length varies from 5.3 ft. (1.63 m.) to 5.9 ft. (1.80 m.). Females are slightly larger than males.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Hourglass Dolphin will be available when your zoo has reached 2 stars.
+   </color>
+   <p/> The Hourglass Dolphin (Lagenorhynchus cruciger) is a rare dolphin which lives in the arctic seas, with water temperatures from 1 to 10 degree Celcius.
+This species is not well known, there are not many dolphins seen and pictures are extremely rare. This species of dolphins is the most adapted to the life in open sea.
+<p/> This dolphin is coloured black on its back and white on the belly. The flanks are black and on each flank there are two white patches. The first right above the eyes to the back fin. Behind the back fin begins the second one and ends near the tale. Between these patches is a thin white strip which looks like an hourglass shape and hence the common name of the dolphin. The tale and fins are black. The long tapered fins are curved shaped. The back fin is also curved. Their length varies from 5.3 ft. (1.63 m.) to 5.9 ft. (1.80 m.). Females are slightly larger than males. Every jaw has an average of 28 teeth.
+<p/> This dolphin probably eats cephalopods and small fish. The Hourglass Dolphin lives in relatively small groups of at most 6 dolphins. They are fast swimmers and they do not jump out of the water, when they are on the run.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Zandloperdolfijn</color> Made by Dennis1991!<br/>
+  </cell>
+ </text>
+</zoopedia_hourglassdolphin>
+</ZT2Strings>

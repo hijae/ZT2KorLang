@@ -1,0 +1,34 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <sailfintangned_Koi>아킬레스 탱</sailfintangned_Koi>
+      <sailfintangned_Koi_stt>아킬레스 탱</sailfintangned_Koi_stt>
+      <sailfintangned_Koi_lower>아킬레스 탱</sailfintangned_Koi_lower>
+      <sailfintangned_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>아킬레스 탱</b>
+         </color>
+         <br/>
+        Click to select and place the Achilles Tang.
+      </sailfintangned_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_sailfintangned_koi:entry">Tang, Achilles</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sailfintangned_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/sailfintangned/sailfintangned_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> Unlike other tangs, the place in the ocean where the the Achilles Tang is found has lots of water turbulence. This tang thrives in this type of environment rather than a placid aquarium.
+
+
+
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

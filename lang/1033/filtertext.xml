@@ -6,7 +6,7 @@
       <LOC_STRING _locID="FilterText:s_Theme_default"  >기본 스타일</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Theme_desert"  >사막 스타일</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Theme_frontier"  >개척지 스타일</LOC_STRING>
-      <LOC_STRING _locID="FilterText:s_Theme_endangered"  >멸종 위기 동물 테마</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_endangered"  >멸종 위기 동물 스타일</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Theme_jungle"  >정글 스타일</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Theme_safari"  >사파리 스타일</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Theme_tundra"  >툰드라 스타일</LOC_STRING>
@@ -85,8 +85,8 @@
       <LOC_STRING _locID="FilterText:s_FoodType_ZooPlankton"  >오징어</LOC_STRING>
 	  
 		<!-- 멸종 동물 확장팩 스트링 -->
-	  <LOC_STRING _locID="FilterText:s_Product_PDLC1"  >공룡팩</LOC_STRING>
+	  <LOC_STRING _locID="FilterText:s_Product_PDLC1"  >Dino Danger 항목</LOC_STRING>
       <LOC_STRING _locID="FilterText:s_Endangerment_Extinct"  >멸종</LOC_STRING>
-      <LOC_STRING _locID="FilterText:s_Product_Extinct" version="2"  >Extinct Animals</LOC_STRING>
-      <LOC_STRING _locID="FilterText:s_Theme_extinct" version="2"  >멸종 테마</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Extinct" version="2"  >Extinct Animals 항목</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_extinct" version="2"  >멸종 스타일</LOC_STRING>
 </ZT2Strings>

@@ -27,7 +27,7 @@
       <LOC_STRING _locID="staffactions:GoCleanAnimal"  >%s을(를) 씻기러 가고 있습니다.</LOC_STRING>
       <LOC_STRING _locID="staffactions:CleanAnimal"  >%s을(를) 씻기고 있습니다.</LOC_STRING>
       <LOC_STRING _locID="superstaff:format"  >
-         <font name="휴먼태그래픽" size="22">%text%</font>
+         <font name="굴림" size="22">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="superstaff:food"  >%s을(를) 보충하려면 스페이스바를 누르세요. </LOC_STRING>
       <LOC_STRING _locID="superstaff:gate"  >문을 열려면 스페이스바를 누르세요.</LOC_STRING>

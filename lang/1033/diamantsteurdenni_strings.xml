@@ -1,0 +1,134 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <diamantsteurdenni>러시아 철갑상어</diamantsteurdenni>
+      <diamantsteurdenni_stt>러시아 철갑상어</diamantsteurdenni_stt>
+      <diamantsteurdenni_lower>러시아 철갑상어</diamantsteurdenni_lower>
+      <diamantsteurdenni_ltt>
+         <color r="255" g="248" b="178">
+            <b>러시아 철갑상어</b>
+         </color>
+         <br/>
+         Click to select and place the Russian sturgeon.
+      </diamantsteurdenni_ltt>
+      <!--gift names-->
+      <diamantsteurdenni_Gift>러시아 철갑상어 가방</diamantsteurdenni_Gift>
+      <diamantsteurdenni_Gift_stt>러시아 철갑상어 가방</diamantsteurdenni_Gift_stt>
+      <diamantsteurdenni_Gift_lower>러시아 철갑상어 가방</diamantsteurdenni_Gift_lower>
+      <diamantsteurdenni_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>러시아 철갑상어 가방</b>
+         </color>
+         <br/>Guests who like to see the Russian sturgeon want to buy this souvenir.
+      </diamantsteurdenni_Gift_ltt>
+</entityname>
+<zoopedia_diamantsteurdenni>
+ <entry>Sturgeon, Russian</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/diamantsteurdenni/diamantsteurdenni_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Swamp<br/></color>
+     <img src="ui/icon_biomes/icon_Wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Black Sea and the surrounding rivers.<br/></color> 
+     <img src="ui/icon_maplocations/Wetlands_blacksea.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Ray finned fishes <i>(Actinopterygii)</i><br/>Order: Sturgeon and Paddlefishes<i>(	Acipenseriformes)</i><br/>Family: Sturgeon <i>(Acipenseridae)</i><br/>Genus: <i>Acipenser</i><br/>Species: <i>A. gueldenstaedtii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/Wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Russian sturgeon.</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Due to overfishing, water pollution and the closure of breeding places, the Russian sturgeon has a hard time surviving.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">When its breeding time, they go to the rivers to lay a proximally 800,000 eggs per fish. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> The Russion sturgeon used to eat small herring like fish, but nowadays they eat snails, mussels and worms, who are introducted in the area by the humans.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Russian sturgeon will be available when your zoo has reached 0.5 stars. 
+   </color>
+   <p/> Habitat: The Russian sturgeon lives in the Black and Caspian seas and their rivers.
+<p/> Natural food: The Russion sturgeon used to eat small herring like fish, but nowadays they eat snails, mussels and worms, which are introducted in the area by the humans. With their projecting wedgeshaped snout they stir up the soft bottom, and with their sensitive barbels they detect the fish and other foods.
+<p/> Poaching: Just like other sturgeons, the Russian sturgeon is in endagered species. Due to overfishing, water pollution and the closure of breeding places, the Russian sturgeon has a hard time surviving. Because poaching in the Caspian sea is prohibited and the planting of artificially breeded young animals has called a first halt to the decrease of Russian sturgeon population.
+<p/> Reproduction in the wild: When its breeding time, they go to the rivers to lay a proximally 800,000 eggs per fish. The young stay their first year in the river where they were born, after that they go to the sea to grow up.
+<p/> Threat: Due to overfishing, water pollution and the closure of breeding places, the Russian sturgeon has a hard time surviving.
+
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://www.zodiacanimals.nl</color> Made by Dennis1991! <color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_diamantsteurdenni>
+</ZT2Strings>

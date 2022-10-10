@@ -1,7 +1,7 @@
 <ZT2Strings>
       <LOC_STRING _locID="genericscenariofailure" version="9" />
       <LOC_STRING _locID="genericscenariofailure:animaldiedsick" version="9"  >
-   		당신은 당신의 동물 중 하나를 잃었습니다! 건강한 동물은 성공적인 동물원의 필수 요소입니다. 목표를 달성할 수 있을 만큼 동물을 오래 키울 수 없었습니다.
+   		당신은 당신의 동물 중 하나를 잃었습니다! 건강한 동물은 성공적인 동물원의 필수 요소입니다. 하지만 목표를 달성할 수 있을 만큼 동물을 오래 키울 수 없었습니다.
    	</LOC_STRING>
       <LOC_STRING _locID="C1scenariogoals" version="9" />
       <LOC_STRING _locID="C1scenariogoals:C1failanimaldeathoverview" version="9"  >

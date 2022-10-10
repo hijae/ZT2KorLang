@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <greenlandsharkden>그린란드상어</greenlandsharkden>
+      <greenlandsharkden_stt>그린란드상어</greenlandsharkden_stt>
+      <greenlandsharkden_lower>그린란드상어</greenlandsharkden_lower>
+      <greenlandsharkden_ltt>
+         <color r="255" g="248" b="178">
+            <b>그린란드상어</b>
+         </color>
+         <br/>
+         Click to select and place the Greenland Shark.
+      </greenlandsharkden_ltt>
+      <!--gift names-->
+      <greenlandsharkden_Gift>그린란드상어 가방</greenlandsharkden_Gift>
+      <greenlandsharkden_Gift_stt>그린란드상어 가방</greenlandsharkden_Gift_stt>
+      <greenlandsharkden_Gift_lower>그린란드상어 가방</greenlandsharkden_Gift_lower>
+      <greenlandsharkden_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>그린란드상어 가방</b>
+         </color>
+         <br/>Guests who like to see the Greenland Shark, want to buy this souvenir.
+      </greenlandsharkden_Gift_ltt>
+</entityname>
+<zoopedia_greenlandsharkden>
+ <entry>Shark, Greenland</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/greenlandsharkden/greenlandsharkden_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous fishes <i>(Chondricthyes)</i><br/>Order: <i>Squaliformes</i><br/>Family: Sleeper sharks  <i>(Dalatiidae)</i><br/>Genus: <i>Somniosus</i><br/>Species: <i>S. microcephalus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Greenland Shark</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Some Greenland sharks were found with an entire reindeer in their stomach. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This sharks is poisonous to eat for humans.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> In Iceland they cook the skin of the shark in a special way to make eatable (for some weeks the skin lays under some stones to ferment, so after that it can dry in the wind.) Although it seems like you are eating ammonia, but in Iceland it is considered a delicacy called Hakarl.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Greenland shark will be available when your zoo has reached 3 stars.  
+   </color>
+   <p/> The Greenland shark (Somniosus microcephalus) is a shark from the family Sleeper sharks (Dalatiidae) and belongs to the order of Squaliformes. It can reach a length up to 24 ft. (7.3 m.) 
+<p/> The Greenland shark lives in seawater and brackish water. It prefers a deep-water climate and lives mainly in the Atlantic Ocean. The depths varies from 0 to 1200 m.
+<p/> For the fishery the Greenland shark is not that important for the commercial sale of fish. This shark is not a popular shark to be fished by fishers.
+<p/> This sharks is poisonous to humans. In Iceland they cook the skin of the shark in a special way to make eatable (for some weeks the skin lays under some stones to ferment, so after that it can dry in the wind.) Although it seems like you are eating ammonia, but in Iceland it is considered a delicacy called Hakarl.
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Groenlandse_haai</color>  Made by Dennis1991! <color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_greenlandsharkden>
+</ZT2Strings>

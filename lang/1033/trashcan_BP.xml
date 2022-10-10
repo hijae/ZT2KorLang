@@ -1,0 +1,16 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <trashcan_BP>푸른 행성 쓰레기통</trashcan_BP>
+      <trashcan_BP_stt>푸른 행성 쓰레기통</trashcan_BP_stt>
+      <trashcan_BP_lower>푸른 행성 쓰레기통</trashcan_BP_lower>
+      <trashcan_BP_ltt>
+         <color r="255" g="248" b="178">
+            <b>푸른 행성 쓰레기통</b>
+         </color>
+         <br/>
+        Click to select and place the Blue Planet Trashcan.
+      </trashcan_BP_ltt>
+   </entityname>
+</ZT2Strings>

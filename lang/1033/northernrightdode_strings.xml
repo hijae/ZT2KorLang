@@ -1,0 +1,160 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <northernrightdode>홀쭉이돌고래</northernrightdode>
+      <northernrightdode_stt>홀쭉이돌고래</northernrightdode_stt>
+      <northernrightdode_lower>홀쭉이돌고래</northernrightdode_lower>
+      <northernrightdode_ltt>
+         <color r="255" g="248" b="178">
+            <b>홀쭉이돌고래</b>
+         </color>
+         <br/>
+         Click to select and place the Northern Right Whale Dolphin.
+      </northernrightdode_ltt>
+<!--egg names-->
+      <northernrightdode_Egg>홀쭉이돌고래 알</northernrightdode_Egg>
+      <northernrightdode_Egg_stt>홀쭉이돌고래 알</northernrightdode_Egg_stt>
+      <northernrightdode_Egg_lower>홀쭉이돌고래 알</northernrightdode_Egg_lower>
+      <northernrightdode_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>홀쭉이돌고래 알</b>
+         </color>
+         <br/>
+         Klik op de icoon om de Northern Right Whale Dolphin ei te selecteren. Beweeg met de muis en click daarna op de Northern Right Whale Dolphin ei te plaatsen.
+       </northernrightdode_Egg_ltt>
+      <!--gift names-->
+      <northernrightdode_Gift>홀쭉이돌고래 인형</northernrightdode_Gift>
+      <northernrightdode_Gift_stt>홀쭉이돌고래 인형</northernrightdode_Gift_stt>
+      <northernrightdode_Gift_lower>홀쭉이돌고래 인형</northernrightdode_Gift_lower>
+      <northernrightdode_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>홀쭉이돌고래 인형</b>
+         </color>
+         <br/>Gasten die graag naar de Northern Right Whale Dolphin kijken zullen de souvenir maar al te graag kopen.
+      </northernrightdode_Gift_ltt>
+</entityname>
+<zoopedia_northernrightdode>
+ <entry>Dolphin, Northern Right whale</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/northernrightdode/northernrightdode_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra, Coastal and Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">North Pacific ocean<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class:  Mammals <i>(Mammalia)</i><br/>Order: Whales and dolphins. <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Lissodelphis</i><br/>Species: <i>Borealis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Northern Right Whale Dolphin Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Adults range from 2 to 3 metres, new borns are c. 90cm</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Adults weigh between 60 to 100kg</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This species usually travel in groups of between 5 animals and 200.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> To unlock the Northern Right Whale Dolphin in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.
+   </color>
+   <p/> The northern right whale dolphin (Lissodelphis borealis) is a right whale dolphin.
+
+
+   <p/> As young calves, these dolphins are greyish brown or sometimes cream. They stay like this for a year, before their body turns black in colour, with a clear white belly, and a white tip to their lower jaw. There are rightwhale dolphins in the north Pacific ocean, and in the Southern oceans above Antarctica, around Tazmania, New Zealand, and even South Africa. The dolphins in the Pacific are the Northern rightwhale dolphins, and are longer with less white on their bodies, than the Southern species. Both have no fin on their smoothly curving backs, and are long and sleek compared to other dolphins.
+
+
+   <p/> They have short thin beaks, and gently sloping foreheads, with pointed tips to their flippers and their tail flukes. They have 74 to 98 teeth on both their upper and lower jaws.
+   <p/> Field ID: Streamlined body; smoothly sloping forehead; short, defined beak, no teeth visible, straight mouthline, irregular white patch on chin, small, narrow flippers, pointed flippers, black and white in colour, light under side (belly), white underside, no dorsal fin, tail flukes are triangular, calm and silky movements
+
+
+   <p/> Length (metres): Adults range from 2 to 3 metres, new borns are c. 90cm
+
+
+   <p/> Weight: Adults weigh between 60 to 100kg
+
+
+   <p/> Diet: Fish and squid
+
+
+   <p/> This species usually travel in groups of between 5 animals and 200. When travelling fast the group will look like they are bouncing along on the water, as they make low leaps together, sometimes travelling as far as 7 metres in one leap! They are timid animals, and usually avoid boats. These graceful swimmers may bow ride sometimes, and are spotted occasionally doing acrobatics, such as breaching, belly flopping, side slapping and lobtailing.
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color> <br/>
+  </cell>
+ </text>
+</zoopedia_northernrightdode>
+</ZT2Strings>

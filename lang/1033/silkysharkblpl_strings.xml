@@ -1,0 +1,150 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <silkysharkblpl>미흑점상어</silkysharkblpl>
+      <silkysharkblpl_stt>미흑점상어</silkysharkblpl_stt>
+      <silkysharkblpl_lower>미흑점상어</silkysharkblpl_lower>
+      <silkysharkblpl_ltt>
+         <color r="255" g="248" b="178">
+            <b>미흑점상어</b>
+         </color>
+         <br/>
+         Click to select and place the Silky Shark.
+      </silkysharkblpl_ltt>
+      <!--gift names-->
+      <silkysharkblpl_Gift>미흑점상어 가방</silkysharkblpl_Gift>
+      <silkysharkblpl_Gift_stt>미흑점상어 가방</silkysharkblpl_Gift_stt>
+      <silkysharkblpl_Gift_lower>미흑점상어 가방</silkysharkblpl_Gift_lower>
+      <silkysharkblpl_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>미흑점상어 가방</b>
+         </color>
+         <br/>Gasten die graag naar de Silky Shark kijken willen maar al te graag dit souvenir kopen.
+      </silkysharkblpl_Gift_ltt>
+</entityname>
+<zoopedia_silkysharkblpl>
+ <entry>Shark, Silky</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/silkysharkblpl/silkysharkblpl_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic and Reef<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Worldwide<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Chondricthyes)</i><br/>Order: Ground Sharks<i>(Carcharhiniformes)</i><br/>Family: Requiem sharks  <i>(Carcharhinidae)</i><br/>Genus: <i>Carcharhinus</i><br/>Species: <i>Falciformis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Silky Shark Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
+
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The maximum size is 3.3 m, but the length is usually not more than 2.4 m. </color>    
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Silky Shark in challenge or campaign games, you must earn a 4 1/2 star zoo fame rating for your zoo. 
+   </color>
+   <p/>   The silky shark, Carcharhinus falciformis, is a large pelagic shark of tropical and warm temperate seas.
+
+
+   <p/>  This species is found worldwide in tropical and warm temperate seas. It is usually pelagic, but sometimes approaches the coast, especially at remote offshore islands. It is found to depths of at least 500 m.
+   <p/>  This shark has a large typical shark body, slender with silky smooth skin. It is brown grey dorsally and white below with no special markings. It can be distinguished from other sharks by the second dorsal fin, which has a very long free tip at the rear, about two and a half times the fin height. The first dorsal fin is also farther back than on any other carcharhiniform, beginning behind the pectoral fins.
+The maximum size is 3.3 m, but the length is usually not more than 2.4 m.
+
+
+   <p/>  The silky shark is a predator. It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.
+
+
+   <p/>  The silky shark is more active, yet less aggressive than the other two big pelagic sharks, the blue shark and oceanic whitetip. It may be more common close to shore than the blue and oceanic whitetip sharks, but it is still a pelagic shark, and quite rarely seen close to shore. The silky shark will most likely be found on reefs which have deep dropoffs.
+
+
+   <p/>  Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
+
+
+ 
+
+
+
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color>
+  </cell>
+ </text>
+</zoopedia_silkysharkblpl>
+</ZT2Strings>

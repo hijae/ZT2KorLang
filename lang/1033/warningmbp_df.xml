@@ -1,0 +1,32 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <warningmbp>해양 생물 경고판</warningmbp>
+      <warningmbp_stt>해양 생물 경고판</warningmbp_stt>
+      <warningmbp_lower>해양 생물 경고판</warningmbp_lower>
+      <warningmbp_ltt>
+         <color r="255" g="248" b="178">
+            <b>해양 생물 경고판</b>
+         </color>
+         <br/>
+        Click to select and place the Marine Life Warning.
+      </warningmbp_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_warningmbp:entry">Marine Life Warning</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warningmbp:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/warningmbp_df/warningmbp_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Marine Life Warning prepare people for dangerous marine life.
+<p/>
+Made by Dennis1991!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

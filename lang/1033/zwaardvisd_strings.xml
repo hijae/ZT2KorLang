@@ -1,0 +1,153 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <zwaardvisd>Swordfish</zwaardvisd>
+      <zwaardvisd_stt>Swordfish</zwaardvisd_stt>
+      <zwaardvisd_lower>the Swordfish</zwaardvisd_lower>
+      <zwaardvisd_ltt>
+         <color r="255" g="248" b="178">
+            <b>Swordfish</b>
+         </color>
+         <br/>
+         Click to select and place the Swordfish.
+      </zwaardvisd_ltt>
+<!--egg names-->
+      <zwaardvisd_Egg>Swordfish Egg</zwaardvisd_Egg>
+      <zwaardvisd_Egg_stt>Swordfish Egg</zwaardvisd_Egg_stt>
+      <zwaardvisd_Egg_lower>the Swordfish Egg</zwaardvisd_Egg_lower>
+      <zwaardvisd_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Swordfish Egg</b>
+         </color>
+         <br/>
+         Click on this icon to select the Swordfish Egg. Move you're mouse and click to place the Swordfish Egg.
+       </zwaardvisd_Egg_ltt>
+      <!--gift names-->
+      <zwaardvisd_Gift>Swordfish Shirt</zwaardvisd_Gift>
+      <zwaardvisd_Gift_stt>Swordfish shirt</zwaardvisd_Gift_stt>
+      <zwaardvisd_Gift_lower>the Swordfish shirt</zwaardvisd_Gift_lower>
+      <zwaardvisd_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Swordfish Shirt</b>
+         </color>
+         <br/>Guest how love the see the Swordfish will buy this souvenir.
+      </zwaardvisd_Gift_ltt>
+</entityname>
+<zoopedia_zwaardvisd>
+ <entry>Swordfish</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/zwaardvisd/zwaardvisd_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Actinopterygii)</i><br/>Order: <i>(Perciformes)</i><br/>Family: Marlins, Sailfish etc <i>(Istiophoridae)</i><br/>Genus: <i>Xiphias</i><br/>Species: <i>Gladius</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Swordfish Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Swordfish have also been observed spawning in the Atlantic Ocean, in water less than 250 ft. (75 m) deep.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In 1998, the Natural Resources Defense Council and SeaWeb hired Fenton Communications to conduct an advertising campaign to promote their assertion that the swordfish population was in danger due to its popularity as a restaurant entree.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Swordfish feed daily, most often at night when they rise to surface and near surface waters in search of smaller fish.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    The Swordfish is available as soon as your zoo gains a fame rating of 2 stars.
+   </color>
+   <p/> Swordfish (Xiphias gladius) are large, highly migratory, predatory fish characterized by a long, flat bill. They are a popular sport fish, though elusive. Swordfish are elongated, round bodied, and lose all teeth and scales by adulthood. They reach a maximum size of 14.75 ft (4.3 m) and 3,190 lb (1,446kg). The International Game Fish Associations all tackle angling record for a swordfish was a 3,183 lb (1,443 kg) specimen taken off Chile in 1953.
+They are the sole member of their family Xiphiidae.
+<p/> The swordfish is named after its sharp bill, resembling a sword (Latin gladius), which together with its streamlined physique allows it to cut through the water with great ease and agility. Contrary to belief the sword is not used to spear, but instead may be used to slash at its prey in order to injure the prey animal, to make for an easier catch. Mainly the swordfish relies on its great speed and agility in the water to catch its prey. One possible defensive use for the sword like bill is for protection from its few natural predators. The shortfin mako shark is one of the rare sea creatures big enough and fast enough to chase down and kill an adult swordfish, but they don't always win. Sometimes in the struggle with a shark a swordfish can kill it by ramming it in the gills or belly.
+
+
+
+
+<p/> Females grow larger than males, with males over 300 lb (135 kg) being rare. Females mature at 4 and 5 years of age in northwest Pacific while males mature first at about 3 to 4 years. In the North Pacific, batch spawning occurs in water warmer than 24 Celcius from March to July and year round in the equatorial Pacific. Adult swordfish forage includes pelagic fish including small tuna, dorado, barracuda, flying fish, mackerel, as well as benthic species of hake and rockfish. Squid are important when available. Swordfish are thought to have few predators as adults although juveniles are vulnerable to predation by large pelagic fish.
+
+
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information of: <color r="255" g="231" b="135">Wikipedia</color>  Made by Dennis1991!
+  </cell>
+ </text>
+</zoopedia_zwaardvisd>
+</ZT2Strings>

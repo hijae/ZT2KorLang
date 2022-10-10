@@ -1,0 +1,193 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <kempridleyseaturtle>켐프각시바다거북</kempridleyseaturtle>
+      <kempridleyseaturtle_stt>켐프각시바다거북</kempridleyseaturtle_stt>
+      <kempridleyseaturtle_lower>켐프각시바다거북</kempridleyseaturtle_lower>
+      <kempridleyseaturtle_ltt>
+         <color r="255" g="248" b="178">
+            <b>켐프각시바다거북</b>
+         </color>
+         <br/>
+         Click to select and place the Kemps Ridley.
+      </kempridleyseaturtle_ltt>
+<!--egg names-->
+      <kempridleyseaturtle_Egg>켐프각시바다거북 알</kempridleyseaturtle_Egg>
+      <kempridleyseaturtle_Egg_stt>켐프각시바다거북 알</kempridleyseaturtle_Egg_stt>
+      <kempridleyseaturtle_Egg_lower>켐프각시바다거북 알</kempridleyseaturtle_Egg_lower>
+      <kempridleyseaturtle_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>켐프각시바다거북 알</b>
+         </color>
+         <br/>
+         Click on this icon to select the Kemps Ridley egg, Move the mouse en click to place the Kemps Ridley Egg.
+       </kempridleyseaturtle_Egg_ltt>
+      <!--gift names-->
+      <kempridleyseaturtle_Gift>켐프각시바다거북 셔츠</kempridleyseaturtle_Gift>
+      <kempridleyseaturtle_Gift_stt>켐프각시바다거북 셔츠</kempridleyseaturtle_Gift_stt>
+      <kempridleyseaturtle_Gift_lower>켐프각시바다거북 셔츠</kempridleyseaturtle_Gift_lower>
+      <kempridleyseaturtle_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>켐프각시바다거북 셔츠</b>
+         </color>
+         <br/>Gasten die genieten van het kijken naar de Kemps Ridley zullen dit souvernir kopen.
+      </kempridleyseaturtle_Gift_ltt>
+</entityname>
+<zoopedia_kempridleyseaturtle>
+ <entry>Schildpad, Kemps</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/kempridleyseaturtle/kempridleyseaturtle_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Critical
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef and Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Gulf of Mexico<br/></color> 
+     <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Turtles <i>(Testudines)</i><br/>Family: Seaturtles <i>(Cheloniidae)</i><br/>Genus: <i>Lepidochelys</i><br/>Species: <i>Kempii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Kemps Ridley Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Their range includes the Atlantic Ocean and the Gulf of Mexico. Almost all females return each year to a single beach, Rancho Nuevo in the Mexican state of Tamaulipas, to lay their eggs.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">These turtles are called Kemps Ridley because Richard Kemp (of Key West) was the first to send in a specimen of the species to Samuel Garman at Harvard.
+
+
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In the past their numbers were severely depleted through hunting, but today major threats include loss of habitat, pollution, and entanglement in fishing (shrimping) nets.
+</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Kemps Ridley in challenge or campaign games, you must earn a 1-star zoo fame rating for your zoo.
+   </color>
+  
+ <p/>Kemps Ridley (Lepidochelys kempii) is a critically endangered species of sea turtle.
+
+ <p/>They are the smallest sea turtle species, growing less than a meter long and averaging only 45 kilograms (100 lb) as an adult.
+
+
+ <p/>On its head it has a beak of sorts used to grab and break up crabs on which it prefers to feed.
+
+
+ <p/>Their range includes the Atlantic Ocean and the Gulf of Mexico. Almost all females return each year to a single beach, Rancho Nuevo in the Mexican state of Tamaulipas, to lay their eggs.
+
+
+ <p/>Kemps Ridley sea turtle changes color with its development. As hatchlings they are almost entirely a dark grey black but when they become adults (the age of adulthood is debated, some say they reach maturity at the age of 7 to 15 but others claim that sexual maturity does not occur until the age of 35) they have a yellow green or white plastron and a grey green carapace.
+
+
+ <p/>The estimated number of nesting females in the year of 1947 was 42,000 but it dove to an estimated 1,000 by the mid 1980s.
+
+
+ <p/>The nesting season for these turtles is between April to June, though some nest as late as July or August. They nest mostly in the Mexican state of Tamaulipas, but they sometimes on Padre Island in the U.S. state of Texas. The adult sea turtles mate offshore and when a powerful wind blows from the north the females land in groups on the beach (they prefer areas with dunes followed by swamps). They are the only species of sea turtle known to lay their eggs during the day.
+
+
+ <p/>Females nest three times during a season with roughly 10 to 28 days between nestings. Incubation can take anywhere from 45 to 70 days. There are, on average, around 110 eggs per nesting.
+
+
+ <p/>The sex of hatchlings is decided by the temperature in the area during incubation. If the temperature is below 29.5 degrees Celsius the offspring will be mainly male.
+
+
+ <p/>The Kemps Ridley sea turtle is a sub species of the green sea turtle.
+
+
+ <p/>These turtles are called Kemps Ridley because Richard Kemp (of Key West) was the first to send in a specimen of the species to Samuel Garman at Harvard.
+
+
+ <p/>Kemps Ridley sea turtles are nicknamed the Heartbreak Turtle because when they died on deck of boats they would lie on their backs so fishermen would say that it died of a broken heart.
+
+
+ <p/>In the past their numbers were severely depleted through hunting, but today major threats include loss of habitat, pollution, and entanglement in fishing (shrimping) nets.
+
+
+ <p/>It was listed as endangered for the first time in the United States on December 2, 1970 and has received protection in Mexico since the 1960s. One of the suggested mechanisms to assist the population in its regrowth is the Turtle Excluder Device (TED). Due to the fact that the biggest hit to the population of Kemps Ridley sea turtles is shrimp trawls, this device is attached to the shrimp trawl. It is a grid of bars with an opening at the top or bottom. It is fitted into the neck of the shrimp trawl in a manner as to allow small animals to slip through the bars and be caught in the bag while larger animals such as sea turtles may strike the bars and be ejected through the opening thus avoiding possible drowning.
+ 
+<p/>On September, 2007, Corpus Christi, Texas wildlife officials found a record of 128 Kemps ridley sea turtle nests on Texas beaches, including 81 on North Padre Island (Padre Island National Seashore) and 4 on Mustang Island. Wildlife officials released 10,594 Kemps ridleys hatchlings along the Texas coast this year. The turtles are popular in Mexico as boot material and food.
+
+
+
+
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color><br/>
+  </cell>
+ </text>
+</zoopedia_kempridleyseaturtle>
+</ZT2Strings>

@@ -1,0 +1,142 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <whitebeakeddolph>White-beaked Dolphin</whitebeakeddolph>
+      <whitebeakeddolph_stt>White-beaked Dolphin</whitebeakeddolph_stt>
+      <whitebeakeddolph_lower>The White-beaked Dolphin</whitebeakeddolph_lower>
+      <whitebeakeddolph_ltt>
+         <color r="255" g="248" b="178">
+            <b>White-beaked Dolphin</b>
+         </color>
+         <br/>
+         Click to select and place the White-beaked Dolphin.
+      </whitebeakeddolph_ltt>
+<!--egg names-->
+      <whitebeakeddolph_Egg>White-beaked Dolphin egg</whitebeakeddolph_Egg>
+      <whitebeakeddolph_Egg_stt>White-beaked Dolphin egg</whitebeakeddolph_Egg_stt>
+      <whitebeakeddolph_Egg_lower>The White-beaked Dolphin egg</whitebeakeddolph_Egg_lower>
+      <whitebeakeddolph_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>White-beaked Dolphin egg</b>
+         </color>
+         <br/>
+         Click on this icon to select the White-beaked Dolphin. Move your mouse and click to place the White-beaked Dolphin.
+       </whitebeakeddolph_Egg_ltt>
+      <!--gift names-->
+      <whitebeakeddolph_Gift>White-beaked Dolphin pouch</whitebeakeddolph_Gift>
+      <whitebeakeddolph_Gift_stt>White-beaked Dolphin pouch</whitebeakeddolph_Gift_stt>
+      <whitebeakeddolph_Gift_lower>The White-beaked Dolphin pouch</whitebeakeddolph_Gift_lower>
+      <whitebeakeddolph_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>White-beaked Dolphin pouch</b>
+         </color>
+         <br/>Guests who like to see the White-beaked Dolphin want to buy this souvenir.
+      </whitebeakeddolph_Gift_ltt>
+</entityname>
+<zoopedia_whitebeakeddolph>
+ <entry>White-beaked Dolphin</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/whitebeakeddolph/whitebeakeddolph_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                      Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Deep sea<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Arctic North<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Lagenorhynchus</i><br/>Species: <i>L. albirostris</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="ui/zoopedia/biome/biome_tundra.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the White-beaked Dolphin</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Adult males can weigh about 300 kg. en can grow to be about 3 m. long.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They can dive for a maximum of 5 minutes, but usually they take a breath every 20 seconds.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">White-beaked Dolphin lives in a group of 2 to 6 dolphins.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the White-beaked Dolphin will be available when your zoo has reached 2 stars.
+   </color>
+   <p/> The White-beaked Dolphin (Lagenorhynchus albirostris) is a dolphin species.<p/> The White-beaked Dolphin Lagenorhynchus albirostris is a mid sized, heavy build dolphin. The curved dorsal fin is large and is striking. Characteristic is the light grey back and the light grey stripe under the dorsal fin that goes to the blow hole. White-beaked Dolphins have a short, white (sometimes grey) snout, their fins are black and their tale is also black. Adults have an average lenght of 2.40 m. (minimum 1.2 m. and maximum 3 m.) When they are born they are already 1 m.
+<p/> White-beaked Dolphins usually live in a group of 2 to 6 dolphins. On a rear occasion larger groups have been seen and it is very unusual that there are over a 100 dolphins. Those groups often have some other dolphins like the related Atlantic White-sided Dolphin, but they are not together very long. The behaviour is very different. The fast swimming White-beaked Dolphin swim very fast through the water, so the water turns into foam, while their curved dorsal fin is shown. Fast swimming varies with slow swimming, where they move to every where they can. There dorsal fin is turned to the  surface and their white back and stripe under the dorsal fin are more noticeable. White-beaked Dolphins like to swim with boats, but just for a couple of minutes. Fishers and yachts sooner or later find a group of White-beaked Dolphins. White-beaked Dolphins like to breach (vertical jumps out of the water). Some land on their back, belly or side of their body, but they al want to make the biggest splash. Usually they make 3 or 4 jumps, then to go back to swimming. Regularly, horizontal jumps, like fast swimming Bottlenose dolphins or Common dolphins, are not seen with the White-beaked Dolphin.
+ <p/> Because of their white drawing on their side they are mis-identified as the Atlantic White-sided Dolphin. They only have a somewhat same name, but a confusion between the Common dolphin and the Atlantic White-sided Dolphin is more likely.
+<p/> The White-beaked Dolphin is a very social dolphin and hunt in groups for shoalfish like the herring or mackerel. The size of the groups varies from 10 to 1000s.
+<p/> They live in the Northern Hemisphere in waters with temperatures between 6 and 20 degrees Celsius. Mainly the water depth is about 60 to 100s metres. In the North Sea the White-beaked Dolphin is the most common dolphin, the most numbers are found in the Scotish waters. Also in the Dutch North Sea the White-beaked Dolphin is after the Harbour Porpoise the most common whalelike. Unfortunately these dolphins rarely or never show themselves on shores, but fishers or sailingyachts are more likely to see a group of dolphins when they are 10 km. off shore. Lately there are 10s of sightings collected.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Witsnuitdolfijn</color> Made by Dennis1991!<br/>
+  </cell>
+ </text>
+</zoopedia_whitebeakeddolph>
+</ZT2Strings>

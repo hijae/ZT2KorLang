@@ -1,0 +1,15 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname:potvis">향고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:potvis_stt">향고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:potvis_lower">향고래</LOC_STRING>
+      <LOC_STRING _locID="entityname:potvis_ltt">
+         <color r="255" g="248" b="178">
+            <b>향고래</b>
+         </color>
+         <br/>
+         
+         
+         Click on the Sperm Whale to select and place it.      
+      
+      </LOC_STRING>
+</ZT2Strings>

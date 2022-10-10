@@ -1,0 +1,139 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <kaapsepelsrobseal>남아프리카물개</kaapsepelsrobseal>
+      <kaapsepelsrobseal_stt>남아프리카물개</kaapsepelsrobseal_stt>
+      <kaapsepelsrobseal_lower>남아프리카물개</kaapsepelsrobseal_lower>
+      <kaapsepelsrobseal_ltt>
+         <color r="255" g="248" b="178">
+            <b>남아프리카물개</b>
+         </color>
+         <br/>
+         Click to select and place the Cape Fur Seal.
+      </kaapsepelsrobseal_ltt>
+      <!--gift names-->
+      <kaapsepelsrobseal_Gift>남아프리카물개 인형</kaapsepelsrobseal_Gift>
+      <kaapsepelsrobseal_Gift_stt>남아프리카물개 인형</kaapsepelsrobseal_Gift_stt>
+      <kaapsepelsrobseal_Gift_lower>남아프리카물개 인형</kaapsepelsrobseal_Gift_lower>
+      <kaapsepelsrobseal_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>남아프리카물개 인형</b>
+         </color>
+         <br/>Guests who enjoy looking at the Cape Fur Seal will gladly buy this as a souvenir.
+      </kaapsepelsrobseal_Gift_ltt>
+</entityname>
+<zoopedia_kaapsepelsrobseal>
+ <entry>Seal, Cape Fur</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/kaapsepelsrobseal/kaapsepelsrobseal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Staus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal Areas<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">South African Coast<br/></color> 
+     <img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammels <i>(Mammalia)</i><br/>Order: Carnivores <i>(Carnivora)</i><br/>Family: Otariidae <i>(Arctocephalinae)</i><br/>Genus: <i>pusillus</i><br/>Species: <i>Arctocephalus Pusillus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cape Fur Seal Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In early spring, the male coms to shore where the females gather around him.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">There is a large colony of Cape Fur Seals in Namibia at Cape Cross with approxmately 80,000 animals.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Cape Fur Seals eat fish and octopus, and squid. </color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> The Cape Fur Seal is availble in Challenge or Campaign Mode as soon as your zoo reaches 1/2 star.
+   </color>
+   <p/> South African: The South African fur seal is found along the coast of Namibia and the west and south coasts of South Africa. Breeding colonies stretch from Cape Frio in Namibia, close to the Angolan border, to Port Elizabeth in South Africa. The population size is estimated to be 1.5-2 million, about two thirds of these in Namibia. 
+
+<p/> 
+Commercial killing of South African fur seals has continued in some form since the early 1600s and more than 2.7 million South African fur seals have been killed since 1900, mostly in Namibia. In the 1980s the demand for the bulls' genitals by the Far Eastern aphrodisiac trade meant that only the genitals of many of the killed seals were taken. An unknown, but relatively small, number of fur seals are victims of marine pollution. 
+
+<p/>: There is an annual commercial hunt of fur seals in Namibia. The 1998 quota was for 35,000 fur seal pups and 5,000 adult males to be killed between August and November, a total increase on the 1997 quota of 10,000 seals. There are currently plans to build a factory complex at Henties Bay which will act as an abattoir, bone meal plant, fat processing plant (with laboratories for the bottling and manufacturing of oils, capsules, creams and cosmetics), tannery, shoe factory, leatherware factory, canning factory, research laboratory, museum and retail sales outlet. 
+
+<p/>It is believed that the sale of seal genitalia for the aphrodisiac trade will be the most lucrative part of the industry. The companies planning the complex are seeking an increase in the numbers of seals killed each year. In 1994 an estimated 200,000 seals unexpectedly died on the Namibian coast, almost certainly due to to malnutrition and starvation because of a scarcity of fish caused by environmental conditions. 
+
+
+<p/> The hunt in South Africa has been suspended since 1990 pending further research. Fur seals in South Africa have been protected since 1973 by the Sea Birds and Seal Protection Act which affords complete protection but allows the government to grant permits to kill fur seals at specific colonies. Between 1973 and 1982 there were an average of 18,750 pups and 530 adult males killed per year, and from 1983 until the suspension the average was 3,500 pups and 4,300 adult males, although these figures were highly variable between years. There were plans to cull a limited number of fur seals around the island of Malgas in March 1999 in order to protect Cape gannet fledglings on the island from fur seal predation. 
+
+<p/>Adult males measure 1.8-2.3m in length and weigh 200-360kg, while adult females are 1.2-1.7m in length and weigh 40-110kg. Pups are 60-80cm long at birth and weigh 5-6kg, male pups slightly longer and heavier then female pups. South African fur seals have been known to dive to over 400m and to live up to 25 years.
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://home.vicnet.net.au/~neils/africa/seal.htm<p/> Coding by Dennis1991 English Zoopedia and Skinning by Nique!</color> 
+  </cell>
+ </text>
+</zoopedia_kaapsepelsrobseal>
+</ZT2Strings>

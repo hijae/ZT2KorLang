@@ -1,0 +1,156 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <stormbandpinguinb>턱끈펭귄</stormbandpinguinb>
+      <stormbandpinguinb_stt>턱끈펭귄</stormbandpinguinb_stt>
+      <stormbandpinguinb_lower>턱끈펭귄</stormbandpinguinb_lower>
+      <stormbandpinguinb_ltt>
+         <color r="255" g="248" b="178">
+            <b>턱끈펭귄</b>
+         </color>
+         <br/>
+         Click to select and place the Chinstrap Penguin.
+      </stormbandpinguinb_ltt>
+<!--egg names-->
+      <stormbandpinguinb_Egg>턱끈펭귄 알</stormbandpinguinb_Egg>
+      <stormbandpinguinb_Egg_stt>턱끈펭귄 알</stormbandpinguinb_Egg_stt>
+      <stormbandpinguinb_Egg_lower>턱끈펭귄 알</stormbandpinguinb_Egg_lower>
+      <stormbandpinguinb_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>턱끈펭귄 알</b>
+         </color>
+         <br/>
+         Click on this icon to select the Chinstrap Penguin egg. Move you'r mouse and click to place the Chinstrap Penguin egg.
+       </stormbandpinguinb_Egg_ltt>
+      <!--gift names-->
+      <stormbandpinguinb_Gift>턱끈펭귄 인형</stormbandpinguinb_Gift>
+      <stormbandpinguinb_Gift_stt>턱끈펭귄 인형</stormbandpinguinb_Gift_stt>
+      <stormbandpinguinb_Gift_lower>턱끈펭귄 인형</stormbandpinguinb_Gift_lower>
+      <stormbandpinguinb_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>턱끈펭귄 인형</b>
+         </color>
+         <br/>Gasten die graag naar de Chinstrap Penguin kijken zullen de souvernir graag kopen.
+      </stormbandpinguinb_Gift_ltt>
+</entityname>
+<zoopedia_stormbandpinguinb>
+ <entry>Penguin, Chinstrap</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/stormbandpinguinb/stormbandpinguinb_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Antarctica<br/></color> 
+     <img src="ui/icon_maplocations/Tundra_Antarctica.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Peguins <i>(Sphenisciformes )</i><br/>Family: Penguins <i>(Spheniscidae)</i><br/>Genus: <i>Pygoscelis</i><br/>Species: <i>antarctica</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Chinstrap Penguin Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In 2004, two male chinstrap penguins named Roy and Silo in Central Park Zoo, New York City formed a pair bond, and took turns trying to hatch a rock, this was substituted by a keeper for a fertile egg, and the pair subsequently hatched and raised the chick.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Their diet consists of krill (a shrimp-like sea creature), shrimp and fish.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Chinstrap Penguin is one of three species in the genus Pygoscelis.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Chinstrap Penguin in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
+   </color>
+   <p/>The Chinstrap Penguin (Pygoscelis antarcticus) is a species of penguin which is found in the South Sandwich Islands, Antarctica, the South Orkneys, South Shetland, South Georgia, Bouvet Island, Balleny and Peter I Island. Their name derives from the narrow black band under their heads which makes it appear as if they are wearing black helmets, making them one of the most easily identified types of penguin. Other names for them are Ringed Penguins, Bearded Penguins, and Stonecracker Penguins due to their harsh call. They grow to 68 cm (27 in) and there are approximately 7,500,000 breeding pairs. The average adult weight of a Chinstrap Penguin is 4.5 kg (10 lbs). Their diet consists of krill (a shrimp like sea creature), shrimp and fish.
+   <p/>The Chinstrap Penguin was first described by German naturalist Forster in 1781. Its specific epithet was often seen as antarctica, however a 2002 review determined the genus Pygoscelis was masculine, and hence the correct binomial name is Pygoscelis antarcticus.
+   <p/>
+
+The Chinstrap Penguin is one of three species in the genus Pygoscelis. Mitochondrial and nuclear DNA evidence suggests the genus split from other penguins around 38 million years ago, about 2 million years after the ancestors of the genus Aptenodytes. In turn, the Adelie Penguins split off from the other members of the genus around 19 million years ago, and the Chinstrap and Gentoo finally diverging around 14 million years ago.
+
+   <p/>On land they build circular nests from stones, and lay around two eggs, which are incubated by both the male and the female for shifts of five to ten days. They can also breed on icebergs, though they prefer non icy conditions. The chicks hatch after about 35 days, and have fluffy gray backs and white fronts. The chicks stay in the nest for 20 to 30 days before they go to join a creche. At around 50 to 60 days old, they moult, gaining their adult plumage and go to sea.
+   <p/>
+The Chinstrap are some of the boldest and most aggressive penguins.
+
+
+   <p/>The diet of the Chinstrap consists of small shoaling animals, krill, small fish and other roaming marine crustaceans. They are considered near shore feeders foraging among the pack ice, although vagrants may occasionally be seen in the open sea. They feed by pursuit diving for prey close to their breeding colonies. Diving effort is usually concentrated near midnight and noon and dives typically last less than a minute and are seldom more than 200 feet deep. Like most penguins, Chinstraps using their flippers to swim at speeds of up to 20 miles per hour. On land, Chinstraps often toboggan on their stomachs, propelling themselves by their feet and flippers. They climb out of the water and up steep slopes using all four limbs and they are able to jump large distances to reach footholds.
+
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color><br/>
+  </cell>
+ </text>
+</zoopedia_stormbandpinguinb>
+</ZT2Strings>

@@ -1,0 +1,148 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <devilray>대서양 쥐가오리</devilray>
+      <devilray_stt>대서양 쥐가오리</devilray_stt>
+      <devilray_lower>대서양 쥐가오리</devilray_lower>
+      <devilray_ltt>
+         <color r="255" g="248" b="178">
+            <b>대서양 쥐가오리</b>
+         </color>
+         <br/>
+         Click to select and then place the Atlantic Devil Ray
+      </devilray_ltt>
+      <!--gift names-->
+      <devilray_Gift>대서양 쥐가오리 가방</devilray_Gift>
+      <devilray_Gift_stt>대서양 쥐가오리 가방</devilray_Gift_stt>
+      <devilray_Gift_lower>대서양 쥐가오리 가방</devilray_Gift_lower>
+      <devilray_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>대서양 쥐가오리 가방</b>
+         </color>
+         <br/>Guests who enjoy watching the Atlantic Devil Ray will buy this gift.
+      </devilray_Gift_ltt>
+</entityname>
+<zoopedia_devilray>
+ <entry>Ray, Devil</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/devilray/devilray_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropical Coastal areas<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous Fishes <i>(Chondrichthyes)</i>
+                  <br/>
+                  Order: <i>Myliobatiformes</i>
+                  <br/>
+                  Family: <i>Mobulidae</i>
+                  <br/>
+                  Genus: <i>Manta</i>
+                  <br/>
+                  Species: <i>Devil Ray</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Atlantic Devil Ray Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Atlantic Devil Ray occurs in coastal waters, reef areas, and also breakwaters. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Devil Ray generally stays in waters with temperatures of 75-77 degrees </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Atlantic Devil Ray occurs almost exclusively on the American coast, however, there are a couple of groups that have been recorded in Africa</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+  
+   </color>
+<p/> The Atlantic Devil Ray is available as soon as your zoo gains a fame rating of: 1/2 stars.
+
+<p/>Description:
+<p/>Taxonomy 
+<p/>The Atlantic devil ray was described in 1831 by Bancroft as Cephalopterus hypostomus. The scientific name for this ray was later changed to Mobula hypostoma (Bancroft 1831). Synonyms include Mobula olfersii and Cephaloptera olfersii M�ller 1834, Cephaloptera massenoidea, Hill 1862, and Ceratobatis robertsi, Ceratobatic robertsii, and Mobula reobertsi, Boulanger 1897. 
+
+
+<p/>Common Names 
+<p/>The name of the Atlantic devil ray comes from the ray's distinctive "horns" formed by the forward facing cephalic fins. It is also known as the lesser devil ray (English), devil ray (English), small devilfish (English), atlantische duivelsrog (Dutch), diable g�ant (French), mante diable (French), diablo (Portuguese), jamanta (Portuguese), manta chica (Spanish), manta enana (Spanish), raya (Spanish), and vestatlantisk djaevlerokke (Danish). The Atlantic devil ray is often confused with its larger family member, Manta birostris, and in many languages the common names appear interchangeable. 
+
+
+<p/>Geographical Distribution 
+<p/>The Atlantic devil ray can be found in the western Atlantic Ocean from North Carolina south to northern Argentina. Sightings are common along the Atlantic coast of Florida and the surrounding areas (particularly in the summer), as well as in the Gulf of Mexico and in the Antilles. This ray is known to inhabit tropical waters between 24-25� south and 34-35� north latitude. Unconfirmed reports suggest M. hypostoma may stray as far north as New Jersey, west to the eastern Atlantic coast, and south to the coast of Senegal, Africa, but these specimens may be misidentified M. mobular or Manta birostris. 
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">http://www.flmnh.ufl.edu/fish/Gallery/Descript/AtlanticDevilRay/AtlanticDevilRay.html</color>Coding by Dennis1991 and Skinning by Nique!
+  </cell>
+ </text>
+</zoopedia_devilray>
+</ZT2Strings>

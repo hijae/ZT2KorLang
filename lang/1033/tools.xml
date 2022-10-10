@@ -9,24 +9,24 @@
          <font name="굴림" size="9" shadowx="0" shadowy="0">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:selectedtypeformat"  >
-         <font name="휴먼모음T" size="14" shadowx="0" shadowy="0" shadowa="64">%text%</font>
+         <font name="굴림" size="14" shadowx="0" shadowy="0" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:selectedcomponentformat"  >
-         <font name="휴먼모음T" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+         <font name="굴림" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:toolheadingformat"  >
-         <font name="휴먼모음T" size="14">%text%</font>
+         <font name="굴림" size="14">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:toolsubheadingformat"  >
          <font name="굴림" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlnodeformat"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="255" b="50" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlnodeformatdisabled"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="255" b="50" a="150">%text%</color>
          </font>
       </LOC_STRING>
@@ -258,7 +258,7 @@
          <br>부모 바인더의 값을 상속합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="tools:nosavewarning"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
             바인더 변경 내용이 적용되지 않았습니다!
          </font>
       </LOC_STRING>
@@ -306,7 +306,7 @@
       <LOC_STRING _locID="tools:taptooltest_stt"  >선택된 탭을 실행합니다.</LOC_STRING>
       <LOC_STRING _locID="tools:taptoolreload_stt"  >선택된 탭과 연관된 개체를 다시 불러옵니다.</LOC_STRING>
       <LOC_STRING _locID="tools:colorlabelformat"  >
-         <font name="휴먼모음T" size="14" shadowa="32">%text%</font>
+         <font name="굴림" size="14" shadowa="32">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:terrainlights_stt"  >
          <color r="255" g="248" b="178">
@@ -369,7 +369,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:overwrite_gesture_label"  >
-         <font name="휴먼모음T" size="20" shadowx="0" shadowy="0">
+         <font name="굴림" size="20" shadowx="0" shadowy="0">
             동작을 덮어쓰시겠습니까?
          </font>
       </LOC_STRING>

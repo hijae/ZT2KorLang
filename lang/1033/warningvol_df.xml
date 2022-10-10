@@ -1,0 +1,32 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <warningvol>고전압 경고판</warningvol>
+      <warningvol_stt>고전압 경고판</warningvol_stt>
+      <warningvol_lower>고전압 경고판</warningvol_lower>
+      <warningvol_ltt>
+         <color r="255" g="248" b="178">
+            <b>고전압 경고판</b>
+         </color>
+         <br/>
+        Click to select and place the High Voltage Warning.
+      </warningvol_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_warningvol:entry">High Voltage Warning</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warningvol:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/warningvol_df/warningvol_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The High Voltage Warning prapare people for Electricity.
+<p/>
+Made by Dennis1991!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

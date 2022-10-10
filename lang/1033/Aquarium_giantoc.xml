@@ -1,0 +1,29 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Aquarium_giantoc>대왕문어 </Aquarium_giantoc>
+      <Aquarium_giantoc_stt>대왕문어 </Aquarium_giantoc_stt>
+      <Aquarium_giantoc_lower>대왕문어 </Aquarium_giantoc_lower>
+      <Aquarium_giantoc_ltt>
+         <color r="255" g="248" b="178">
+            <b>대왕문어 </b>
+         </color>
+         <br/>
+         Click to select and place the Pacific Giant Octopus .
+      </Aquarium_giantoc_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_Aquarium_giantoc:entry">Octopus, Pacific Giant</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_Aquarium_giantoc:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Aquarium_giantoc_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,134 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <bandrobribbonseal>띠무늬물범</bandrobribbonseal>
+      <bandrobribbonseal_stt>띠무늬물범</bandrobribbonseal_stt>
+      <bandrobribbonseal_lower>띠무늬물범</bandrobribbonseal_lower>
+      <bandrobribbonseal_ltt>
+         <color r="255" g="248" b="178">
+            <b>띠무늬물범</b>
+         </color>
+         <br/>
+         Click to select and place the Ribbon Seal.
+      </bandrobribbonseal_ltt>
+      <!--gift names-->
+      <bandrobribbonseal_Gift>띠무늬물범 인형</bandrobribbonseal_Gift>
+      <bandrobribbonseal_Gift_stt>띠무늬물범 인형</bandrobribbonseal_Gift_stt>
+      <bandrobribbonseal_Gift_lower>띠무늬물범 인형</bandrobribbonseal_Gift_lower>
+      <bandrobribbonseal_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>띠무늬물범 인형</b>
+         </color>
+         <br/>Guests who like to see the Ribbon Seal wan to buy this souvenir.
+      </bandrobribbonseal_Gift_ltt>
+</entityname>
+<zoopedia_bandrobribbonseal>
+ <entry>Seal, Ribbon</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/bandrobribbonseal/bandrobribbonseal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">North Pole<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Predator <i>(Carnivora)</i><br/>Family:  Seals <i>(Phocidae)</i><br/>Genus: <i>Phoca</i><br/>Species: <i>P. fasciata</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Ribbon Seal</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Despite Ribbon Seals are not shy, there is not many information known about them.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The function of the inflatable air sack on the right side of their chest is still unknown.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The most important enemies are Killer Whales (Orca) and Sharks.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> In Challenge and Campaign mode the Ribbon Seal will be available when your zoo has reached 0.5 stars.
+   </color>
+   <p/> The Ribbon Seal (Phoca fasciata of Histriophoca fasciata) is a seal species from the family Phocidae. His whole life he lives up and under ice and in open waters of the Bering Sea. He can nearly 30 min. under water. His diet consist several species of fish, like pollock, eelpout, artic cod, but also octopus and shrimp. The most important enemies are Killer Whales (Orca) and Sharks.
+<p/> The Ribbon Seal gets his name from the distinctive circular markings with a brown to drak brown basecolour and ususally 3 white to yellow rings on his body.
+The most animals have these markings:
+
+    * A vertical strip around the neck;
+    * one long strip around the front paw;
+    * one vertical strip around the tail.
+
+<p/> The spots melt together on the tummy, but the drawings can be different. Young animals are white and turn blue/grey when they grow up.
+<p/> Despite Ribbon Seals are not shy, there is not many information known about them.The function of the inflatable air sack on the right side of their chest is still unknown. Because the air sack of the male is bigger, it is probaly used to produce underwater vocalizations to attract a mate.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Bandrob<p/>Made by Dennis1991!</color> 
+  </cell>
+ </text>
+</zoopedia_bandrobribbonseal>
+</ZT2Strings>

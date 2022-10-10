@@ -1,0 +1,34 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <chevrontangned_Koi>쉐브론 탱</chevrontangned_Koi>
+      <chevrontangned_Koi_stt>쉐브론 탱</chevrontangned_Koi_stt>
+      <chevrontangned_Koi_lower>the 쉐브론 탱</chevrontangned_Koi_lower>
+      <chevrontangned_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>쉐브론 탱</b>
+         </color>
+         <br/>
+        Click to select and place the Chevron tang.
+      </chevrontangned_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_chevrontangned_koi:entry">Tang, Chevron</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chevrontangned_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/chevrontangned/chevrontangned_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> This fish is not too rare, it is however not always around, it's never plentiful, it is very popular, so act fast when available!
+  <p/> Juveniles are orange with blue lines on the body, while the dorsal and anal fins are blue. Adults are dark olive brown with thin pinstripes on the body. Adults are not often available. It is not an overly aggressive fish and will usually not bother fish tankmates, with the possible exception of close relatives. It may be picked on by aggressive tangs. Provide this active fish with plenty of swimming room, as well one or two hiding places. Its teeth are adapted for browsing on diatoms (brown algae) off of hard substrates and its needs are easily met. Most specimens are around 2 to 3, large specimens are seldom collected.
+<p/>
+Information from: http://www.marinecenter.com/fish/tangs/chevrontang/!
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

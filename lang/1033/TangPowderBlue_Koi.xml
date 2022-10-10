@@ -1,0 +1,36 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <TangPowderBlue_Koi>파우더 블루탱</TangPowderBlue_Koi>
+      <TangPowderBlue_Koi_stt>파우더 블루탱</TangPowderBlue_Koi_stt>
+      <TangPowderBlue_Koi_lower>파우더 블루탱</TangPowderBlue_Koi_lower>
+      <TangPowderBlue_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>파우더 블루탱</b>
+         </color>
+         <br/>
+        Click to select and place the Powder Blue Tang.
+      </TangPowderBlue_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_tangpowderblue_koi:entry">Tang, Powder Blue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tangpowderblue_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/TangPowderBlue/TangPowderBlue_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>This gorgeous fish is sky blue overall, with a yellow dorsal fin, a white anal fin, a black head and a white band behind the head. It is perhaps the most beautiful members of the genus. Like most tangs, it is very susceptible to ich and the aquarist should be prepared for these inevitable infestations. Despite this, it is one of the most popular of all marine aquarium fishes. It is similar to, and slightly sturdier than the closely related Powder Brown Tang. Both can be shy when introduced to the aquarium and will require plenful hiding places to refuge in if threatened. A tank with a flourishing algae crop or live rock will help this fish adapt to the aquarium. Like most surgeonfish, this species can be aggressive toward surgeonfish tankmates once it acclimates, especially members of its own kind (keep only one per tank). Provide this active fish with plenty of swimming room, as well plenty of hiding places.
+
+
+
+
+
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

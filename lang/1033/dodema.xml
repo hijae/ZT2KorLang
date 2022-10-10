@@ -1,0 +1,35 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <dodema>죽은 사람의 손가락 산호</dodema>
+      <dodema_stt>죽은 사람의 손가락 산호</dodema_stt>
+      <dodema_lower>죽은 사람의 손가락 산호</dodema_lower>
+      <dodema_ltt>
+         <color r="255" g="248" b="178">
+            <b>죽은 사람의 손가락 산호</b>
+         </color>
+         <br/>
+        Click to select and place the Dead man's fingers.
+      </dodema_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_dodema:entry">죽은 사람의 손가락 산호</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dodema:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/dodema/dodema_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/> Attached to rocks, shells and stones where the otherwise dominant algae are inhibited by a lack of light and occasionally on living crabs and gastropods. Generally found in situations where strong water movement prevails. Occasionally on the lower shore but more common sublittorally, down to about 50 m.
+
+<p/> Mature colonies form thick, fleshy masses of irregular shape, typically of stout, finger-like lobes that usually exceed 20 mm in diameter. Young, developing colonies form encrustations about 5 -10mm thick. The height and breadth of colonies are up to 200 mm. Colonies are white or orange in colour, but may appear reddish or brownish during periods of inactivity when the polyps are withdrawn into the colony, owing to the development of a film of epibiota.
+
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

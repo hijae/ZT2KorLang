@@ -1,0 +1,153 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <southernrightdode>남방고추돌고래</southernrightdode>
+      <southernrightdode_stt>남방고추돌고래</southernrightdode_stt>
+      <southernrightdode_lower>남방고추돌고래</southernrightdode_lower>
+      <southernrightdode_ltt>
+         <color r="255" g="248" b="178">
+            <b>남방고추돌고래</b>
+         </color>
+         <br/>
+         Click to select and place the Southern Right Whale Dolphin.
+      </southernrightdode_ltt>
+<!--egg names-->
+      <southernrightdode_Egg>남방고추돌고래 알</southernrightdode_Egg>
+      <southernrightdode_Egg_stt>남방고추돌고래 알</southernrightdode_Egg_stt>
+      <southernrightdode_Egg_lower>남방고추돌고래 알</southernrightdode_Egg_lower>
+      <southernrightdode_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Southern Right Whale Dolphin ei</b>
+         </color>
+         <br/>
+         Klik op de icoon om de Southern Right Whale Dolphin ei te selecteren. Beweeg met de muis en click daarna op de Southern Right Whale Dolphin ei te plaatsen.
+       </southernrightdode_Egg_ltt>
+      <!--gift names-->
+      <southernrightdode_Gift>남방고추돌고래 인형</southernrightdode_Gift>
+      <southernrightdode_Gift_stt>남방고추돌고래 인형</southernrightdode_Gift_stt>
+      <southernrightdode_Gift_lower>남방고추돌고래 인형</southernrightdode_Gift_lower>
+      <southernrightdode_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>남방고추돌고래 인형</b>
+         </color>
+         <br/>Gasten die graag naar de Southern Right Whale Dolphin kijken zullen de souvenir maar al te graag kopen.
+      </southernrightdode_Gift_ltt>
+</entityname>
+<zoopedia_southernrightdode>
+ <entry>Dolphin, Southern Right Whale</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/southernrightdode/southernrightdode_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra, Coastal and Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Antarctic Oceans<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales and Dolphins. <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Lissodelphis</i><br/>Species: <i>Peronii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Southern Right Whale Dolphin Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Southern rightwhale dolphins are the only dolphins without dorsal fins in the southern hemisphere.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Newborn calves are about 80cm (32in) to 1m (39in) in length. Adults are between 1.8 and 2.9 metres (6ft to 9ft 6in). Females tend to be slightly longer than males.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">We do not know how much southern rightwhale dolphins weigh at birth, but adults weigh between 60 and 100 kg (130 to 220lb).
+</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> To unlock the Southern Right Whale Dolphin in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.
+   </color>
+   <p/> The Southern Right Whale Dolphin (Lissodelphis peronii) is a Right Whale Dolphin.
+
+   <p/>
+Southern rightwhale dolphins are the only dolphins without dorsal fins in the southern hemisphere. They are smaller than the northern rightwhale dolphins and have more white on their head and sides. They have slim, graceful bodies which are black on the upper side and white underneath. Their flippers are mainly white and are small and curved. Their flukes are small with a notch in the middle and concave trailing edges. Their beaks are small but distinct. They have between 43 and 49 teeth in each row of both jaws.
+
+
+
+ 
+
+   <p/> Southern rightwhale dolphins are very graceful and often move by leaping out of the water continuously. When they swim slowly, they expose only a small area of the head and back when they surface to breathe. Breaching, belly flopping, side slapping and lob tailing (slapping the flukes on the water surface) have been witnessed. They typically live in groups of between 2 and 100. Some groups are more nervous than others and will swim away from boats, whereas others will approach and possibly bow ride. Southern rightwhale dolphins are often seen in the company of dusky dolphins, hourglass dolphins or pilot whales. They travel in groups, that range from 200 to 2000.
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color> <br/>
+  </cell>
+ </text>
+</zoopedia_southernrightdode>
+</ZT2Strings>

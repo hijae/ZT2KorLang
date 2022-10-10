@@ -1,0 +1,145 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <atlanticwhitemar>백새치</atlanticwhitemar>
+      <atlanticwhitemar_stt>백새치</atlanticwhitemar_stt>
+      <atlanticwhitemar_lower>백새치</atlanticwhitemar_lower>
+      <atlanticwhitemar_ltt>
+         <color r="255" g="248" b="178">
+            <b>백새치</b>
+         </color>
+         <br/>
+         Click here to select and place the Atlantic White Marlin.
+      </atlanticwhitemar_ltt>
+<!--egg names-->
+      <atlanticwhitemar_Egg>백새치 알</atlanticwhitemar_Egg>
+      <atlanticwhitemar_Egg_stt>백새치 알</atlanticwhitemar_Egg_stt>
+      <atlanticwhitemar_Egg_lower>백새치 알</atlanticwhitemar_Egg_lower>
+      <atlanticwhitemar_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>백새치 알</b>
+         </color>
+         <br/>
+         Click on this icon to select the atlantic white marlin egg. Move the cursor over the world and click to place the atlantic white marlin egg.
+       </atlanticwhitemar_Egg_ltt>
+      <!--gift names-->
+      <atlanticwhitemar_Gift>백세치 셔츠</atlanticwhitemar_Gift>
+      <atlanticwhitemar_Gift_stt>백세치 셔츠</atlanticwhitemar_Gift_stt>
+      <atlanticwhitemar_Gift_lower>백세치 셔츠</atlanticwhitemar_Gift_lower>
+      <atlanticwhitemar_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>백세치 셔츠</b>
+         </color>
+         <br/>Guest that like to see the atlantic white marlin will buy this gift.
+      </atlanticwhitemar_Gift_ltt>
+</entityname>
+<zoopedia_atlanticwhitemar>
+ <entry>Marlin, Atlantic White</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/atlanticwhitemar/atlanticwhitemar_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Ray-Finned Fishes <i>(Actinopterygii)</i><br/>Order: <i>Perciformes</i><br/>Family: Marlins <i>(Istiophoridae)</i><br/>Genus: <i>Tetrapturus</i><br/>Species: <i>Albidus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Atlantic White Marlin Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Atlantic White Marlin lives in the Mediterranean Sea and the Atlantic Ocean.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Atlantic White Marlin lives 0 to 150 meters under the water surface.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Atlantic White Marlin is for the fishery very important. With fishing rods they don't hunt on this fish.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Atlantic White Marlin in challenge or campaign mode, do you need a 2 star famous for your zoo.
+   </color>
+   <p/> The white marlin, Tetrapturus albidus, is an oceanodromous fish in the marlin family Istiophoridae. It is a large game fish, with a maximum recorded weight of 82.5 kg (182 lb). It ranges across the central Atlantic ocean, where it feeds on fish and squid.
+
+Ocean City, Maryland is considered the White Marlin Capital of the World.
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy <color r="255" g="231" b="135">Wikipedia, the free enceclopedia.</color>  Made by Dennis1991!
+  </cell>
+ </text>
+</zoopedia_atlanticwhitemar>
+</ZT2Strings>

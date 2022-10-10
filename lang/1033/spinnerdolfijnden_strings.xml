@@ -1,0 +1,149 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <spinnerdolfijnden>긴부리돌고래</spinnerdolfijnden>
+      <spinnerdolfijnden_stt>긴부리돌고래</spinnerdolfijnden_stt>
+      <spinnerdolfijnden_lower>긴부리돌고래</spinnerdolfijnden_lower>
+      <spinnerdolfijnden_ltt>
+         <color r="255" g="248" b="178">
+            <b>긴부리돌고래</b>
+         </color>
+         <br/>
+         Click to select and place the Spinner Dolphin.
+      </spinnerdolfijnden_ltt>
+<!--egg names-->
+      <spinnerdolfijnden_Egg>긴부리돌고래 알</spinnerdolfijnden_Egg>
+      <spinnerdolfijnden_Egg_stt>긴부리돌고래 알</spinnerdolfijnden_Egg_stt>
+      <spinnerdolfijnden_Egg_lower>긴부리돌고래 알</spinnerdolfijnden_Egg_lower>
+      <spinnerdolfijnden_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>긴부리돌고래 알</b>
+         </color>
+         <br/>
+         Click on the icon to select the Spinner Dolphin egg.
+       </spinnerdolfijnden_Egg_ltt>
+      <!--gift names-->
+      <spinnerdolfijnden_Gift>긴부리돌고래 인형</spinnerdolfijnden_Gift>
+      <spinnerdolfijnden_Gift_stt>긴부리돌고래 인형</spinnerdolfijnden_Gift_stt>
+      <spinnerdolfijnden_Gift_lower>긴부리돌고래 인형</spinnerdolfijnden_Gift_lower>
+      <spinnerdolfijnden_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>긴부리돌고래 인형</b>
+         </color>
+         <br/>Guests who like to see the Spinner Dolphin want to buy this souvenir.
+      </spinnerdolfijnden_Gift_ltt>
+</entityname>
+<zoopedia_spinnerdolfijnden>
+ <entry>Dolphin, Spinner</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/spinnerdolfijnden/spinnerdolfijnden_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Wolrdwide<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales and Dolphins. <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Stenella</i><br/>Species: <i>S. longirostris</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Fatcs about the Spinner Dolphin</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Spinner Dolphins live along the coast of Hawaii, during the day they rest in groups along shallow coasts and in sheltered bays.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Some populations of Spinner Dolphins hunt during the night to avoid the rivals.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Spinner Dolphin is sometimes kept in dolphinariums, but their survival chances are small.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> In Challenge and Campaign mode the Spinner Dolphin will be available when your zoo has reached 3 stars.
+   </color>
+   <p/> The Spinner Dolphin (Stenella longirostris) is a dolphin species that lives in (sub)tropical waters all around the world. The dolphin gets his name, Spinner Dolphin, from the Spinner jumps it makes out of the water.
+<p/> The Spinner Dolphin is a lean, muscular and torpedo shaped dolphin with a narrow medium sized to long snout. The dorsal fin is large, triangular or sickle shaped and is placed in the middle of the back. The tale fin is pointed. The large pointed flippers are black to light grey. The Spinner Dolphin has the larges amount of teeth of all whales like: 45 to 65 sharp teeth on every jaw.
+<p/> Looking at their body size, colour and drawing the Spinner Dolphin is the most variable dolphin species. Most animals have a dark grey, brown or black back that goes in light grey or yellow side and usually a white belly. In some populations are yellow or purple ish belly more common. The lips are usually dark surrounded and there runs a darker to light grey stripe between eye and the flipper.
+<p/> Adults have varied in size from 130 cm to 240 cm and weight from 45 kg to 75 kg. Males are usually 170 cm to 240 cm and females are about 170 cm to 220 cm.
+<p/> The Spinner Dolphin lives in (sub)tropical waters of the Atlantic, Indian and Pacific Ocean. You can see the dolphin along the coast as in open sea. It is regularly seen at the coast of Hawaii, Mexico, Bali and Japan.
+<p/> The Spinner Dolphin lives in large groups. In coastal waters the groups have about 10 to 100 animals, but in open sea their are groups with 100 to 10.000 animals. With these large groups the dolphin can cover more than 1000 km. in a few months. Sometimes the dolphin swims with other whale like, like the Pantropical Spotted Dolphin, the Atlantic spotted dolphin and also larger tunas, like the yellow fin tuna. Living with teh yellow fin tuna has for both animals an advantage.The Spinner Dolphin uses echolocation to catch prey, the yellow fin tuna can eat while the dolphins hunt. The yellow fin tuna swims under the Spinner Dolphin, for the Spinner Dolphin that is very good, because they can detect other movement faster, like charging sharks and to protect them from that charge.
+<p/> Spinner Dolphins live along the coast of Hawaii, during the day they rest in groups along shallow coasts and in sheltered bays. It is more quiet and sharks from deeper waters are easy to detect. At night they hunt , during that hunt the large groups is divided into several smaller groups. Regularly they swim with other dolphin species. Becuase of that the grouparrangement changes regularly. Within those smaller groups there are a few (4 to 8) animals that are closely related and live together for several years. When the small groups meet up with each other, tehy celebrate that with jumps out of the water, tale slapping, spinning in the air and sounds. Typical sounds are clicking and whistling.
+<p/> When there are boats, there are usually Spinner Dolphins, they swim for 30 minutes with that boat. Spinner Dolphins are recognisable by their high, vertical jumps out of the water, they can spin in the air to about 7 times around their body. It is the only dolphin that shows this kind of behaviour. Only from the related Clymene Dolphin is known that it also spins around their body while jumping out of the water, but does not show this as often as the Spinner Dolphin. The Spinner Dolphin can swim with 20 km/h.
+<p/> The Spinner Dolphin hunts on small to medium sized fish and squid. This is the same diet as the Pantropical Spotted Dolphin and the Atlantic spotted dolphin, so there could be some competition between them. Some populations of Spinner Dolphins hunt during the night to avoid the rivals, like the Atlantic Spotted Dolphin, because they hunt during the day.
+<p/> Young are born with interceptions of 3 years. After a gestation preiod of 10 to 11 months, one young is born, usually in the Spring or Fall. At birth the young is about 75 cm. The young nurses for about 11 to 19 months. After 4 to 6 years teh females are sexually mature, males after 6 to 9 years.
+<p/> The Spinner Dolphin is a common widespread dolphin. In the 60s and 70s the numbers in the Pacifi Ocean is are stongly dropped, due to the use of nets for tunafishing. Besides tuna the dolphin is caught as well, usually the Spinner Dolphin and the Pantropical Spotted Dolphin, who swim with these tunafish. Fishers can see the dolphins when they come up for air, so the fishers know where to put out their nets.
+<p/> In the last 25 years, dolphinfriendly nets are develloped, so the dophins can escape, most of the times there are divers, who try to help the not moving dolphins to get out of the net. Because of that teh numbers of dolphin getting caught in nets have strongly reduced (With American fishingboats the numbers for caugth Spinner Dolphins are reduced from 180.000 in 1973 to a little over a hundred in 1993), but soem are still getting caugth. In the 80s that numbers of living Spinner Dolphin in the Pacifi Ocean is estimated to 1.5 million animals.
+
+ 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Langsnuitdolfijn</color> Made by Dennis1991! <br/>
+  </cell>
+ </text>
+</zoopedia_spinnerdolfijnden>
+</ZT2Strings>

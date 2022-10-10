@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <potvisdennisb_mm>향고래 전시관</potvisdennisb_mm>
+      <potvisdennisb_mm_stt>향고래 전시관</potvisdennisb_mm_stt>
+      <potvisdennisb_mm_lower>향고래 전시관</potvisdennisb_mm_lower>
+      <potvisdennisb_mm_ltt>
+         <color r="255" g="248" b="178">
+            <b>향고래 전시관</b>
+         </color>
+         <br/>
+        Click to select and plac the Sperm Whale Hall.
+      </potvisdennisb_mm_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_potvisdennisb_mm:entry">Sperm Whale Hall</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_potvisdennisb_mm:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\potvisdennisb_mm\potvisdennisb_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The Sperm Whale Hall is a place where visitors can find more information about the Blue Planet Pack. 
+The visitors will enjoy the Sperm Whale Hall.
+<p/> Made by Dennis1991
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

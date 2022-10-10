@@ -1,0 +1,139 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <pignosedturtle>돼지코거북</pignosedturtle>
+      <pignosedturtle_stt>돼지코거북</pignosedturtle_stt>
+      <pignosedturtle_lower>돼지코거북</pignosedturtle_lower>
+      <pignosedturtle_ltt>
+         <color r="255" g="248" b="178">
+            <b>돼지코거북</b>
+         </color>
+         <br/>
+         Click to select and place the Pignosed Turtle.
+      </pignosedturtle_ltt>
+<!--egg names-->
+      <pignosedturtle_Egg>돼지코거북 알</pignosedturtle_Egg>
+      <pignosedturtle_Egg_stt>돼지코거북 알</pignosedturtle_Egg_stt>
+      <pignosedturtle_Egg_lower>돼지코거북 알</pignosedturtle_Egg_lower>
+      <pignosedturtle_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>돼지코거북 알</b>
+         </color>
+         <br/>
+         Click on this icon to select the Pignosed Turtle Egg. Move your mouse to move the egg and to place it.
+       </pignosedturtle_Egg_ltt>
+      <!--gift names-->
+      <pignosedturtle_Gift>돼지코거북 인형</pignosedturtle_Gift>
+      <pignosedturtle_Gift_stt>돼지코거북 인형</pignosedturtle_Gift_stt>
+      <pignosedturtle_Gift_lower>돼지코거북 인형</pignosedturtle_Gift_lower>
+      <pignosedturtle_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>돼지코거북 인형</b>
+         </color>
+         <br/>Guests who like to see the Pignosed Turtle want to buy this souvenir.
+      </pignosedturtle_Gift_ltt>
+</entityname>
+<zoopedia_pignosedturtle>
+ <entry>Turtle, Pignosed</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/pignosedturtle/pignosedturtle_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Swamp<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Australia<br/></color> 
+     <img src="ui/icon_maplocations/Scrub_Australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Turtles <i>(Testudines)</i><br/>Order: Water turtles <i>(Carettochelyidae)</i><br/>Family: Softshelled turtles <i>(Trionychidae)</i><br/>Genus: <i>Carettochelys</i><br/>Species: <i>C. insculpta</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Pignosed Turtle</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> In Challenge and Campaign mode the Pignosed Turtle will be available when your zoo has reached 1 star.
+   </color>
+   <p/> Pignosed Turtle (Carettochelys insculpta) is a water turtle that lives in northern Australia and New Guinea. The Pignosed Turtle is the only species from the genus Carettochelys and even the only species from the family Carettochelyidae.
+<p/> Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom. The Pignosed Turtle feeds primarily on fish, but also on plants and amphibians. This turtle belongs to the superfamliy Trionychoidea along with the softshelled turtles (Trionychidae), these two families are very strong related.
+<p/> This aquatic species rarely comes out of the water and is a completely adjusted to that, the belly and shell are grown together and their flippers look like oars. Their head and flippers are black, the shell brown grey to black and the belly pinkish white. Males are smaller than females, but they have a longer and bigger tale. Pignosed Turtle gets his name from the fact that every flipper has two visible  toes. This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout. Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Guinese_tweeklauw <p/> Made by Dennis1991!</color> 
+  </cell>
+ </text>
+</zoopedia_pignosedturtle>
+</ZT2Strings>

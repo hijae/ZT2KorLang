@@ -1,0 +1,141 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <grampersrissosdolphin>큰코돌고래</grampersrissosdolphin>
+      <grampersrissosdolphin_stt>큰코돌고래</grampersrissosdolphin_stt>
+      <grampersrissosdolphin_lower>큰코돌고래</grampersrissosdolphin_lower>
+      <grampersrissosdolphin_ltt>
+         <color r="255" g="248" b="178">
+            <b>큰코돌고래</b>
+         </color>
+         <br/>
+         Click to select and place the Rissos Dolphin,.
+      </grampersrissosdolphin_ltt>
+<!--egg names-->
+      <grampersrissosdolphin_Egg>큰코돌고래 알</grampersrissosdolphin_Egg>
+      <grampersrissosdolphin_Egg_stt>큰코돌고래 알</grampersrissosdolphin_Egg_stt>
+      <grampersrissosdolphin_Egg_lower>큰코돌고래 알</grampersrissosdolphin_Egg_lower>
+      <grampersrissosdolphin_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>큰코돌고래 알</b>
+         </color>
+         <br/>
+         Click on the icon to select the dolphin. Move your mouse to place the dolphin.
+       </grampersrissosdolphin_Egg_ltt>
+      <!--gift names-->
+      <grampersrissosdolphin_Gift>큰코돌고래 허리 가방</grampersrissosdolphin_Gift>
+      <grampersrissosdolphin_Gift_stt>큰코돌고래 허리 가방</grampersrissosdolphin_Gift_stt>
+      <grampersrissosdolphin_Gift_lower>큰코돌고래 허리 가방</grampersrissosdolphin_Gift_lower>
+      <grampersrissosdolphin_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>큰코돌고래 허리 가방</b>
+         </color>
+         <br/>Guests who like the see the Rissos Dolphin want to buy this souvenir.
+      </grampersrissosdolphin_Gift_ltt>
+</entityname>
+<zoopedia_grampersrissosdolphin>
+ <entry>Dolphin, Rissos</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/grampersrissosdolphin/grampersrissosdolphin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                      Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Deep Sea<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Grampus</i><br/>Species: <i>G. griseus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Rissos Dolphin.</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Rissos dolphin lives in a shoal of 5 to 25 dolphins in the open sea. Sometimes even near 300 dolphins, but usually 50 to 100 dolphins.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In the northern part of the Atlantic Ocean the baby dolphins are born from April till September, after a gestation period of 13 or 14 months.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Rissos dolphin can be found in temperate and tropical waters worldwide, even in the North sea.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Rissos Dolphin will be available when your zoo has reached 0.5 stars.
+   </color>
+   <p/> The Rissos dolphin (Grampus griseus) or gray dolphin is a dark gray dolphin from the dolphin family (Delphinidae). This dark grey species has a large, pointy dorsal fin and a square shaped head, with no characterised nose, like other dolphins. Because of that nose, sometimes the Rissos dolphin categorised in Globicephalinae.
+<p/> The forehead has a deep chap. On the chest the dolphin has a white spot, shaped like an anchor. The dark fins are long, slim and pointy. The older dolphins often have a paler colour and many scars, caused by other dolphins during a fifth or game, but also octopuses, their main source food, can cause scars. Sometimes the dolphin has that many scars, it looks like its totally white. These scars are on each individual different, that way researchers can tell them apart. The Rissos dolphin does not have many teeth. The bottom jaw 14 teeth, the upper jaw has nothing. These dolphins can weigh up to 1100 lb. (500 kg.) and about 12.5 ft (3.8 m.) The male weight average is about 875 lb. (400 kg.) and length average is 8.5 ft. to 12.5 ft.(2.6 m. to 3.8 m.) The females are smaller, the weight average is about 7 lb. (350 kg.) and can grow up to 12 ft. (3.7 m.)
+<p/> The Rissos dolphin lives in a shoal of 5 to 25 dolphins in the open sea. Sometimes even near 300 dolphins, but usually 50 to 100 dolphins. Even sometimes several shoals come together and becomes one very large shoal of 4000 dolphins. The Bottlenose dolphin takes also part of that shoal. The Rissos dolphin can be found in temperate and tropical waters worldwide, even in the North sea. They do not live in arctic waters. They hunt mostly squid, but also octopus, fish and shellfish. 
+<p/> In the northern part of the Atlantic Ocean the baby dolphins are born from April till September, after a gestation period of 13 or 14 months. At birth the dolphins are 4 ft. to 5 ft. (1.2 m. to 1.5 m.) and are light grey colored. Later on they will get darker. After 13 years, when they are about 10 ft. (3 m.), they are sexually mature. In captivity there have been crossbreeding between the Rissos dolphin and Bottlenose dolphin. 
+<p/> One of the first international famous dolphin, was the Rissos dolphin Pelorus Jack. The Rissos dolphin seldom swim with ships, but Pelorus guided ships and ferryboats who sailed nearby the South Island of New Zealand. In April 1912 Pelorus Jack was killed by a Norwegian whaler. This dolphin is most hunted around Japan. Around Sri Lanka the dolphins are many times caught in fishnets. But probably this species is not at risk. 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Gramper</color> Made by Dennis1991!<br/>
+  </cell>
+ </text>
+</zoopedia_grampersrissosdolphin>
+</ZT2Strings>

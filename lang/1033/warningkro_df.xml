@@ -1,0 +1,32 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <warningkro>악어 경고판</warningkro>
+      <warningkro_stt>악어 경고판</warningkro_stt>
+      <warningkro_lower>악어 경고판</warningkro_lower>
+      <warningkro_ltt>
+         <color r="255" g="248" b="178">
+            <b>악어 경고판</b>
+         </color>
+         <br/>
+        Click to select and place the Crocodile Warning.
+      </warningkro_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_warningkro:entry">Crocodile Warning</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warningkro:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/warningkro_df/warningkro_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Crocodile Warning prapare people for Crocodiles.
+<p/>
+Made by Dennis1991!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

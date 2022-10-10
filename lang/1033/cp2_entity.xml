@@ -1043,7 +1043,7 @@
          <br/>
          
          
-          Click to hire the saber-toothed cat entertainer, a clever performer who entertains guests with small shows at stages.
+          검치호 엔터테이너를 고용하세요. a clever performer who entertains guests with small shows at stages.
       
       
       </LOC_STRING>
@@ -1057,7 +1057,7 @@
          <br/>
          
          
-          Click to hire the dinosaur entertainer. Entertainers perform small shows at stages to entertain guests.
+          공룡 엔터테이너를 고용하세요. Entertainers perform small shows at stages to entertain guests.
       
       
       </LOC_STRING>
@@ -1071,7 +1071,7 @@
          <br/>
          
          
-          Click to hire the paleontologist, who will help your zoo by finding fossils and educating your guests about extinct animal fossils.
+          고생물학자를 고용하세요. who will help your zoo by finding fossils and educating your guests about extinct animal fossils.
       
       
       </LOC_STRING>
@@ -1085,7 +1085,7 @@
          <br/>
          
          
-          Click to hire the dino capture team agent, who will work as a group with other agents to recover dinosaurs that have escaped their exhibits.
+          공룡 생포 팀 요원을 고용하세요. who will work as a group with other agents to recover dinosaurs that have escaped their exhibits.
       
       
       </LOC_STRING>
@@ -1099,7 +1099,7 @@
          <br/>
          
          
-          Click to hire the dino capture team robot, used by dino capture team agents as a decoy when dealing with dangerous dinosaurs.  Made from organic materials safe for dinosaur consumption.
+          공룡 생포 팀 로봇을 고용하세요. used by dino capture team agents as a decoy when dealing with dangerous dinosaurs.  Made from organic materials safe for dinosaur consumption.
       
       
       </LOC_STRING>
@@ -1414,12 +1414,12 @@
       
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:CavePaintingHall"  >Cave Painting Hall</LOC_STRING>
-      <LOC_STRING _locID="entityname:CavePaintingHall_stt"  >Cave Painting Hall</LOC_STRING>
-      <LOC_STRING _locID="entityname:CavePaintingHall_lower"  >the Cave Painting Hall</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall"  >동굴 벽화 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_stt"  >동굴 벽화 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_lower"  >동굴 벽화 전시관</LOC_STRING>
       <LOC_STRING _locID="entityname:CavePaintingHall_ltt"  >
          <color r="255" g="248" b="178">
-            Cave Painting Hall
+            동굴 벽화 전시관
          </color>
          <br/>
          

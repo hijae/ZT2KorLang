@@ -1,0 +1,140 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <mexicansewolf>멕시코늑대</mexicansewolf>
+      <mexicansewolf_stt>멕시코늑대</mexicansewolf_stt>
+      <mexicansewolf_lower>멕시코늑대</mexicansewolf_lower>
+      <mexicansewolf_ltt>
+         <color r="255" g="248" b="178">
+            <b>멕시코늑대</b>
+         </color>
+         <br/>
+         Click to slecet and place the Mexican Wolf. 
+      </mexicansewolf_ltt>
+      <!--gift names-->
+      <mexicansewolf_Gift>멕시코늑대 기념품</mexicansewolf_Gift>
+      <mexicansewolf_Gift_stt>멕시코늑대 기념품</mexicansewolf_Gift_stt>
+      <mexicansewolf_Gift_lower>멕시코늑대 기념품</mexicansewolf_Gift_lower>
+      <mexicansewolf_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>멕시코늑대 기념품</b>
+         </color>
+         <br/>Guests who like to see the Mexican Wolf wan to buy this souvenir.
+      </mexicansewolf_Gift_ltt>
+</entityname>
+<zoopedia_mexicansewolf>
+ <entry>Wolf, Mexican</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/mexicansewolf/mexicansewolf_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="100" g="50" b="50">
+                      Critical
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Scrub<br/></color>
+     <img src="ui/icon_biomes/icon_Scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mexico<br/></color> 
+     <img src="ui/icon_maplocations/Scrub_Mexico.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Carnivorans <i>(Carnivora)</i><br/>Family: Canids <i>(Canidae)</i><br/>Genus: <i>Canis</i><br/>Species: <i>C. lupus baileyi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/Scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Mexican Wolf</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+  
+   </color>
+  <p/> The Mexican Wolf (Canis lupus baileyi) is a mammal and belongs to the family of canids. The Mexican Wolf is a subspecies from the Gray wolf (Canis lupus). The scientific name for Canis lupus baileyi comes from the man Vernon Bailey who almost destroyed the whole population. The Mexican wolf is the most endangered wolf in the world.
+<p/> The Mexican Gray Wolf is the smallest grey wolf subspecies present in North America, reaching an overall length no greater than 135 centimetres (53 inches) and a maximum height of about 80 cm (31 in). Weight ranges from 27 to 45 kilograms (60 to 100 pounds). They have long paws and a streamlined body, so they can move faster.
+<p/> Mexican wolves have long manes and a rich coloured coat. Their coat is black, white, grey and brown, their tale, paws and ears are black.
+<p/> The average age of a Mexican wolf in captivity is 15 years.
+<p/> The Mexican wolf is driven from their natural habitat and only lives in reservations. The wolves prefer oaks and fir tree forrests, mountains, meadows and shrubs.
+<p/> To mark their territory they urinate with a lifted paw, but only the dominant wolf can do that.
+<p/> The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.
+<p/> Wolves communicate with their bodies, but also woth sounds like howling. Wolves can communicate visually through a wide variety of expressions and moods ranging from subtle signals, such as a slight shift in weight, to more obvious ones, such as rolling on their backs to indicate complete submission. They mainly communicate with their own pack, but sometimes also with other wolves. Howling has several meanings. Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. The Wolf uses howling most often during the twilight hours, preceding the adults' departure to the hunt and following their return or to protect something like a fresh kill or their territory.  Some scientists speculate that such group sessions strengthen the wolves' social bonds
+<p/> Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year. Their social hierarchies determines who eats first and who is allowed to mate.
+<p/> Only the alpha pair is allow to reproduce. They mate in February or March and the pups are born in May or April. The gestation period lasts between 60 and 63 days (2 months) and the average litter size is about 4 to 6 pups. Every member of the pack takes care of the pups.
+<p/> The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist. 
+
+
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: wikipedia.org<color r="255" g="231" b="135"></color> Made by Dennis1991!
+  </cell>
+ </text>
+</zoopedia_mexicansewolf>
+</ZT2Strings>

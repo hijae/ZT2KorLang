@@ -1,0 +1,147 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <stellerzeekoedeni>스텔러바다소</stellerzeekoedeni>
+      <stellerzeekoedeni_stt>스텔러바다소</stellerzeekoedeni_stt>
+      <stellerzeekoedeni_lower>스텔러바다소</stellerzeekoedeni_lower>
+      <stellerzeekoedeni_ltt>
+         <color r="255" g="248" b="178">
+            <b>스텔러바다소</b>
+         </color>
+         <br/>
+         Click to select and place the Steller Sea Cow.
+      </stellerzeekoedeni_ltt>
+<!--egg names-->
+      <stellerzeekoedeni_Egg>스텔러바다소 알</stellerzeekoedeni_Egg>
+      <stellerzeekoedeni_Egg_stt>스텔러바다소 알</stellerzeekoedeni_Egg_stt>
+      <stellerzeekoedeni_Egg_lower>스텔러바다소 알</stellerzeekoedeni_Egg_lower>
+      <stellerzeekoedeni_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>스텔러바다소 알</b>
+         </color>
+         <br/>
+         Klik op deze icoon om de Steller Sea Cow ei te plaatsen. Beweeg je muis en klik op de plaats waar je de Steller Sea Cow ei wilt plaatsen.
+       </stellerzeekoedeni_Egg_ltt>
+      <!--gift names-->
+      <stellerzeekoedeni_Gift>스텔러바다소 인형</stellerzeekoedeni_Gift>
+      <stellerzeekoedeni_Gift_stt>스텔러바다소 인형</stellerzeekoedeni_Gift_stt>
+      <stellerzeekoedeni_Gift_lower>스텔러바다소 인형</stellerzeekoedeni_Gift_lower>
+      <stellerzeekoedeni_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>스텔러바다소 인형</b>
+         </color>
+         <br/>Guest how love to see the Steller Sea Cow will buy this gift.
+      </stellerzeekoedeni_Gift_ltt>
+</entityname>
+<zoopedia_stellerzeekoedeni>
+ <entry>Sea Cow, Steller</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/stellerzeekoedeni/stellerzeekoedeni_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Bering Sea<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammal <i>(Mammalia)</i><br/>Order: Dugongs <i>(Sirenia)</i><br/>Family: manatee <i>(Trichechidae)</i><br/>Genus: <i>Hydrodamalis</i><br/>Species: <i>gigas</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Steller Sea Cow Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">There are still sporadic reports of sea cow-like animals from the Bering area and Greenland. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Fossils indicate that Steller Sea Cow was formerly widespread along the North Pacific coast, reaching south to Japan and California.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The sea cow grew up to 7.9 meters (25.9 ft) long and weighed up to three tons, much larger than the manatee or dugong.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Steller Sea Cow in challenge or campaign games, you must earn a 1-1/2 star zoo fame rating for your zoo.
+   </color>
+   <p/> Steller Sea Cow (Hydrodamalis gigas) is an extinct, large sirenian mammal formerly found near the Asiatic coast of the Bering Sea. It was discovered in the Commander Islands in 1741 by the German naturalist Georg Steller, who was traveling with the explorer Vitus Bering. A small population lived in the arctic waters around Bering Island and nearby Copper Island. However, prior to the arrival of humans they lived all along the North Pacific coast.
+<p/> The sea cow grew up to 7.9 meters (25.9 ft) long and weighed up to three tons, much larger than the manatee or dugong. Steller work contains two contradictory weights: 4 and 24.3 tons. The true value may lie between these figures. It looked somewhat like a large seal, but had two stout forelimbs and a whale like tail. According to Steller, The animal never comes out on shore, but always lives in the water. Its skin is black and thick, like the bark of an old oak, its head in proportion to the body is small, it has no teeth, but only two flat white bones one above, the other below. It was completely tame, according to Steller. They fed on a variety of kelp. Wherever sea cows had been feeding, heaps of stalks and roots of kelp were washed ashore.
+<p/> The population of sea cows was small in number and limited in range when Steller first described them. Steller said they were numerous and found in herds, but in 1887, zoologist Leonhard Hess Stejneger estimated that there had been less than 1500 remaining and in danger of extinction from overhunting by humans. They were wiped out quickly by the sailors, seal hunters, and fur traders that followed Bering route past the islands to Alaska, who hunted them both for food and for their skins, which were used to make boats. They were also hunted for their valuable subcutaneous fat, which was not only used for food (usually as a butter substitute), but also for oil lamps because it did not give off any smoke or odor and could be kept for a long time in warm weather without spoiling. By 1768, less than 30 years after it had been discovered, Steller Sea Cow was extinct.
+<p/> Fossils indicate that Steller Sea Cow was formerly widespread along the North Pacific coast, reaching south to Japan and California. Given the rapidity with which its last population was eliminated, it is likely that the arrival of humans in the area was the cause of its extinction elsewhere as well.
+
+
+<p/> There are still sporadic reports of sea cow like animals from the Bering area and Greenland, so it has been suggested that small populations of the animal may have survived to the present day. This remains so far unproven.
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <color r="255" g="231" b="135">Made by Dennis1991</color><br/>
+  </cell>
+ </text>
+</zoopedia_stellerzeekoedeni>
+</ZT2Strings>

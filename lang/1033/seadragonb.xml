@@ -1,0 +1,39 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <seadragonb>나뭇잎해룡 전시관</seadragonb>
+      <seadragonb_stt>나뭇잎해룡 전시관</seadragonb_stt>
+      <seadragonb_lower>나뭇잎해룡 전시관</seadragonb_lower>
+      <seadragonb_ltt>
+         <color r="255" g="248" b="178">
+            <b>나뭇잎해룡 전시관</b>
+         </color>
+         <br/>
+        Click to select and place the Leafy Sea Dragon School.
+      </seadragonb_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_seadragonb:entry">Leafy Sea Dragon School</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seadragonb:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/seadragonb/seadragonb_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/> The Leafy Seadragon can be recognised by the leafy appendages on its body. It has a long tubular snout, a pectoral fin on its neck and a dorsal fin on its back.
+
+<p/> It occurs on kelp covered rocky reefs in depths from about 3 m to 50 m. 
+
+
+<p/> This superbly camouflaged fish is endemic to Australian temperate waters. It is known from the southern coastline of Australia, from Kangaroo Island, South Australia to south western Western-Australia. 
+
+
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

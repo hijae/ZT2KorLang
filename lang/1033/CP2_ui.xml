@@ -28,7 +28,7 @@
          <br>Extinct Animals 확장팩이 설치되었습니다. </br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                Zoo Tycoon 2: Extinct Animals 게임 방법을 배우시겠습니까?
             </color>
@@ -75,13 +75,13 @@
       컴퓨터 화면을 클릭하거나 스페이스바를 누르면 시작합니다.
       </LOC_STRING>
       <LOC_STRING _locID="cloningfeedback:which_animal_success"  >
-      잘했습니다! 당신은 %s을(를) 만들었습니다. 슈퍼 동물은 일반 동물보다 더 크고 건강하며 오래 살 수 있습니다.
+      잘했습니다! %s을(를) 만들었습니다. 슈퍼 동물은 일반 동물보다 더 크고 건강하며 오래 살 수 있습니다.
       </LOC_STRING>
       <LOC_STRING _locID="cloningfeedback:which_animal_normal"  >
-      잘했습니다! 당신은 %s을(를) 만들었습니다.
+      잘했습니다! %s을(를) 만들었습니다.
       </LOC_STRING>
       <LOC_STRING _locID="cloningfeedback:which_animal_failure"  >
-      오 이런, 당신은 실패했습니다! 계속 노력하면 다음 번엔 더 좋은 동물을 얻게 될 겁니다!
+      이런, 실패했습니다! 계속 노력하면 다음 번엔 더 좋은 동물을 얻게 될 겁니다!
       </LOC_STRING>
       <LOC_STRING _locID="cloningfeedback:missing_animal_failure"  >
       앗! 아직 해금된 멸종 동물이 없습니다! 먼저 화석을 찾아보세요.
@@ -99,12 +99,12 @@
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="fpfossildisplay:piece_found"  >당신은 %1s의 화석 조각을 발견했습니다! (%2s)</LOC_STRING>
-      <LOC_STRING _locID="fpfossildisplay:puzzle_ready"  >이제 당신은 멸종 동물 연구소에서 %s의 화석 조각을 조립할 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found"  >%1s의 화석 조각을 발견했습니다! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready"  >이제 멸종 동물 연구소에서 %s의 화석 조각을 조립할 수 있습니다!</LOC_STRING>
       <LOC_STRING _locID="fpfossildisplay:placeable_object_found"  >%s을(를) 찾았습니다.</LOC_STRING>
-      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found"  >You received %2m for %1s you found.</LOC_STRING>
-      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked"  >Your fossil finder was upgraded. Now you can find more fossils!</LOC_STRING>
-      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable"  >Increase your zoo fame to upgrade your fossil finding device!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found"  >찾은 %1s에 대해 %2m을(를) 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked"  >화석 탐지기가 좋아졌습니다. 이제 더 많은 화석을 찾을 수 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable"  >동물원의 평판을 높이면 화석 탐지기가 좋아집니다!</LOC_STRING>
       <LOC_STRING _locID="minigameHelp:minigameHelp_format"  >
          <font name="굴림" size="9" shadowx="1" shadowy="1">
             <color r="250" g="250" b="200">
@@ -115,13 +115,13 @@
       <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding"  >
       <u>Controls:</u>
       <br/>
-      Movement: Arrow Keys (Hold SHIFT to run)
+      이동: 화살표 (Shift를 눌러 달리기)
       <br/>
-      Turn/Look: Move mouse
+      돌기/보기: 마우스 움직임
       <br/>
-      Dig fossil sites: SPACEBAR
+      화석 유적지 파내기: 스페이스바
       <p/>
-      Welcome to fossil finding!  In this game mode, you can walk around your zoo with your handheld Fossil Finder and look for hidden fossil pieces in your zoo. 
+      화석 탐지에 어서 오세요!  이 게임모드에서는 휴대용 화석 탐지기를 들고 산책하며 동물원에 숨겨진 화석 조각을 찾을 수 있습니다.
       <p/>
       The vertical bar in the center of your Fossil Finder lets you know when you're approaching an underground object. When you get really close, a dig site marker automatically appears. Press SPACEBAR to dig at that site, or leave it to continue looking for other sites.   
       <p/>

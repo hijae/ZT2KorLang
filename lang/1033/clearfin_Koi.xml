@@ -1,0 +1,36 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <clearfin_Koi>방사쏠배감펭</clearfin_Koi>
+      <clearfin_Koi_stt>방사쏠배감펭</clearfin_Koi_stt>
+      <clearfin_Koi_lower>방사쏠배감펭</clearfin_Koi_lower>
+      <clearfin_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>방사쏠배감펭</b>
+         </color>
+         <br/>
+        Click to select and place the Clearfin lionfish.
+      </clearfin_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_clearfin_koi:entry">Lionfish, Clearfin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_clearfin_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/clearfin/clearfin_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Clearfin Lionfish, Radial Firefish, or Tailbar Lionfish Pterois radiata, is a carnivorous ray finned fish with venomous spines that lives in the Indian and western Pacific oceans.
+
+<p/>
+It is the only lionfish species with blank spines. But it can also be recognized by the pair of horizontal white stripes on its tail.
+
+<p/>
+Made by Dennis1991!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,164 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <watervaraande>Water monitor</watervaraande>
+      <watervaraande_stt>Water monitor</watervaraande_stt>
+      <watervaraande_lower>the Water monitor</watervaraande_lower>
+      <watervaraande_ltt>
+         <color r="255" g="248" b="178">
+            <b>Water monitor</b>
+         </color>
+         <br/>
+         Click to select and then place the Water monitor.
+      </watervaraande_ltt>
+<!--egg names-->
+      <watervaraande_Egg>Water monitor Egg</watervaraande_Egg>
+      <watervaraande_Egg_stt>Water monitor Egg</watervaraande_Egg_stt>
+      <watervaraande_Egg_lower>the Water monitor Egg</watervaraande_Egg_lower>
+      <watervaraande_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Water monitor Egg</b>
+         </color>
+         <br/>
+         Click this icon to select the Water monitor egg. Move the cursor over the world and click to place the little Water monitor egg.
+       </watervaraande_Egg_ltt>
+      <!--gift names-->
+      <watervaraande_Gift>Water monitor Pop</watervaraande_Gift>
+      <watervaraande_Gift_stt>Water monitor Pop</watervaraande_Gift_stt>
+      <watervaraande_Gift_lower>the Water monitor Pop</watervaraande_Gift_lower>
+      <watervaraande_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Water monitor Pop</b>
+         </color>
+         <br/>Gasten die graag naar de Water monitor kijken willen maar al te graag dit souvenir kopen.
+      </watervaraande_Gift_ltt>
+</entityname>
+<zoopedia_watervaraande>
+ <entry>Monitor, Water</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/watervaraande/watervaraande_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="0" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Wetlands<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Indonesia<br/></color> 
+     <img src="ui/icon_maplocations/Wetlands_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Lizards <i>(Sauria)</i><br/>Family: Monitor <i>(Varanidae)</i><br/>Genus: <i>Varanus</i><br/>Species: Salvator (onofficial)
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Water monitor Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Water monitors are aggressive even though they can be tamed in captivity.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They use both their tail and jaw when fighting.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. </color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Water Monitor in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo.
+   </color>
+<p/> The Water monitor Varanus salvator is a member of the monitor lizard family. They are large lizards growing up to 3 meters (9.8 ft) in length, but most adults are 1.5 meters (4.9 ft) long at most, and are close in size to the Komodo Dragon. Maximum weight of Varanus salvator can be over 75 kg, but most are half that size. Their body is muscular with a long powerful tail. Water monitors are perhaps the most ubiquitous monitor lizards in Asia, and range from Sri Lanka, India, Indochina, the Malay Peninsula and various islands of Malaysia living in tropical forested areas.
+
+<p/> Water monitors are very opportunistic in their feeding, eating small mammals (like rats and monkeys), birds, reptiles,fish, insects and carrion.Large adults can also attack small deer.
+
+<p/> Water monitors are aggressive even though they can be tamed in captivity. They use both their tail and jaw when fighting. They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. 
+They lay 15 to 30 eggs. 
+
+
+<p/> In Hong Kong, it is a protected species under Wild Animals Protection Ordinance Cap 170.
+
+
+
+<p/> In Thailand, the word water monitor or actually local word hia is used as an insulting word for bad and evil things including a bad person. Its name is also considered a word bringing a bad luck, so some people prefer to call them silver and gold in Thai to avoid the jinx.
+
+
+
+<p/> A water monitor portrayed a Komodo Dragon in the 1990 movie, The Freshman.
+
+
+
+
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Gemaakt door <color r="0" g="0" b="0">Dennis1991!</color>
+  </cell>
+ </text>
+</zoopedia_watervaraande>
+</ZT2Strings>

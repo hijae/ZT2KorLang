@@ -1,6 +1,6 @@
 <ZT2Strings>
       <LOC_STRING _locID="zoopedia_label:label">
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="250" b="200">
                동물원 백과사전
             </color>
@@ -12,7 +12,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="text_format:zoopedia_entity_label">
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
             <color r="255" g="250" b="200">%text%</color>
          </font>
       </LOC_STRING>

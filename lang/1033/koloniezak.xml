@@ -1,0 +1,36 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <koloniezak>Pillow Synascidian</koloniezak>
+      <koloniezak_stt>Pillow Synascidian</koloniezak_stt>
+      <koloniezak_lower>the Pillow Synascidian</koloniezak_lower>
+      <koloniezak_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pillow Synascidian</b>
+         </color>
+         <br/>
+        Click to select and place the Pillow Synascidian.
+      </koloniezak_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_koloniezak:entry">Pillow Synascidian</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koloniezak:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/koloniezak/koloniezak_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/>Very common in areas with considerable water movement, typical of vertical rock faces in shallow water but also found on stones, shells etc. to 20m or more.
+
+
+
+
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

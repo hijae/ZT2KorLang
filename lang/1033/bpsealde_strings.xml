@@ -1,0 +1,157 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <bpsealde>아남극물개</bpsealde>
+      <bpsealde_stt>아남극물개</bpsealde_stt>
+      <bpsealde_lower>아남극물개</bpsealde_lower>
+      <bpsealde_ltt>
+         <color r="255" g="248" b="178">
+            <b>아남극물개</b>
+         </color>
+         <br/>
+         Click to select and then place the Subantarctic Fur Seal, a wonderful arctic seal.
+      </bpsealde_ltt>
+<!--egg names-->
+      <bpsealde_Egg>아남극물개 알</bpsealde_Egg>
+      <bpsealde_Egg_stt>아남극물개 알</bpsealde_Egg_stt>
+      <bpsealde_Egg_lower>아남극물개 알</bpsealde_Egg_lower>
+      <bpsealde_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>아남극물개 알</b>
+         </color>
+         <br/>
+         Click this icon to select the Subantarctic Fur Seal egg. Move the cursor over the world and click to place the little Subantarctic Fur Seal egg.
+       </bpsealde_Egg_ltt>
+      <!--gift names-->
+      <bpsealde_Gift>아남극물개 가방</bpsealde_Gift>
+      <bpsealde_Gift_stt>아남극물개 가방</bpsealde_Gift_stt>
+      <bpsealde_Gift_lower>아남극물개 가방</bpsealde_Gift_lower>
+      <bpsealde_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>아남극물개 가방</b>
+         </color>
+         <br/>Guests who enjoy watching the Subantarctic Fur Seal will buy this gift.
+      </bpsealde_Gift_ltt>
+</entityname>
+<zoopedia_bpsealde>
+ <entry>Fur Seal, Subantarctic</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/bpsealde/bpsealde_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Antarctic<br/></color> 
+     <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Carnivores <i>(Carnivora)</i><br/>Family: Seals <i>(Phocidae)</i><br/>Genus: <i>Arctocephalus</i><br/>Species: <i>Tropicalis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Subantarctic Fur Seal Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">There are about 300,000 Subantarctic Fur Seals alive today.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Subantarctic Fur Seals are widespread geographically.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Subantarctic Fur Seals live for about 20 to 25 years.
+</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Subantarctic Fur Seal in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
+   </color>
+   <p/> The Subantarctic Fur Seal (Arctocephalus tropicalis) is a fur seal found in the southern parts of the Indian and Atlantic Oceans. It was first described by Gray in 1872 from a specimen recovered in northern Australia hence the inappropriate tropicalis specific name.
+
+
+
+<p/> The Subantarctic Fur Seal is medium sized compared with other fur seals. Males grow to 2 m and 160 kg whereas females are substantially smaller 1.4 m and 50 kg. Both species have a distinctive creamy orange chest and face. The belly is more brownish. Males have a dark grey to brown back. The female is a lighter grey. Pups are black at birth but molt at the age of about three months. The snout is short and flat. The flippers are short and broad. Subantarctic Fur Seals live for about 20 to 25 years.
+
+
+
+<p/> Subantarctic Fur Seals are widespread geographically. As their name implies they generally breed in more northerly locations than the Antarctic Fur Seals. The largest breeding colonies on Gough in the south Atlantic and Amsterdam in the southern part of the Indian Ocean. Breeding grounds are also found at Marion Island (where there is an overlap with Antarctic Fur Seals), Prince Edward Island, Crozet Islands and the Macquarie Islands. Where grounds overlap, the Subantarctic species can be identified by the orange colour on the chest.
+
+
+
+<p/> There are about 300,000 Subantarctic Fur Seals alive today. This number is probably substantially down on when they were first discovered in 1810 as they were hunted for their pelt throughout the nineteenth century. However populations are recovering rapidly in most areas whilst under the protection of the Convention for the Conservation of Antarctic Seals. A small population on Heard Island is endangered. Unlike the Antarctic Fur Seal, whose genetic variation is low due to hunting making all but one breeding colony extinct by 1900, the diversity amongst Subantarctic specimens remains high.
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <color r="255" g="231" b="135">Made by Dennis1991</color><br/>
+  </cell>
+ </text>
+</zoopedia_bpsealde>
+</ZT2Strings>

@@ -1,0 +1,146 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <humpba>인도태평양혹등고래</humpba>
+      <humpba_stt>인도태평양혹등고래</humpba_stt>
+      <humpba_lower>인도태평양혹등고래</humpba_lower>
+      <humpba_ltt>
+         <color r="255" g="248" b="178">
+            <b>인도태평양혹등고래</b>
+         </color>
+         <br/>
+         Click to select and place the Chinese white dolphin, The Chinese white dolphin lives in Southeast Asia.
+      </humpba_ltt>
+<!--egg names-->
+      <humpba_Egg>인도태평양혹등고래 알</humpba_Egg>
+      <humpba_Egg_stt>인도태평양혹등고래 알</humpba_Egg_stt>
+      <humpba_Egg_lower>인도태평양혹등고래 알</humpba_Egg_lower>
+      <humpba_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>인도태평양혹등고래 알</b>
+         </color>
+         <br/>
+         Click on the icon to select the Chinese white dolphin egg. Move your mouse to place the Chinese white dolphin egg.
+       </humpba_Egg_ltt>
+      <!--gift names-->
+      <humpba_Gift>인도태평양혹등고래 인형</humpba_Gift>
+      <humpba_Gift_stt>인도태평양혹등고래 인형</humpba_Gift_stt>
+      <humpba_Gift_lower>인도태평양혹등고래 인형</humpba_Gift_lower>
+      <humpba_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>인도태평양혹등고래 인형</b>
+         </color>
+         <br/>Guests who like to see the Chinese white dolphin want to buy this souvenir.
+      </humpba_Gift_ltt>
+</entityname>
+<zoopedia_humpba>
+ <entry>Dolphin, Chinese white</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/humpba/humpba_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Asia<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whales and Dolphins. <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Sousa</i><br/>Species: <i>S. chinensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Chinese white dolphin</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Chinese white dolphin is an important attraction for tourists in Hongkong, there are excursions to see the pink dolphin.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">This species can live in brackish water and is seen regularly around estuary and other river mouths and is mangroveswamps.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Males can grow up about 3.20 m and females about 2 to 2.40 m. The bodyweight is about 85 kg.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> In Challenge and Campaign mode the Chinese white dolphin will be available when your zoo has reached 3 stars.
+   </color>
+   <p/> The Chinese white dolphin or Indo-Pacific Humpback dolphin (Sousa chinensis)is a dolphin species that lives in the Indian and western Pacific Ocean. It is related to the Sousa teuszii, a dolphin that lives in the Atlantic Ocean of West Afirca. Probably the population from the western Indian Ocean is a seperate species, Sousa plumbea. The island Sumatra is the seperation of S. chinensis and S. plumbea.
+
+<p/> The Chinese white dolphin is a big, torpedoshaped dolphin. It has a light grey to white coloured back, and is lighter on the belly. Many dolphins are totally white of pinkish coloured. Adults can have yellow, pink, grey or brwon spots. The dorsal fin is small and triangular and is placed in the middle of the back. Young animals have a sickle shaped dorsal fin and adults have a more rounded shaped dorsal fin. The flippers are also rounded shaped. The mouth is long and lean and has about 120 teeth. On the forehead is a light melon. Animals who live west from Sumatra have a fatty bump behind their dorsal fin, animals who live east and southern from Sumatra do not have a fatty bump, but their dorsal fin is much higher. Males can grow up about 3.20 m and females about 2 to 2.40 m. The bodyweight is about 85 kg. 
+
+<p/> The Chinese white dolphin lives in temperate and tropic waters of the Indian Ocean and western Pacific Ocean and the red Sea and Southern Chinese sea. It lives in shallow coastal waters of southern and eastern Africa, to Arabia and India to the Pacific coast of China, Indonesia, the Philippines and Northern Australia. This species can live in brackish water and is seen regularly around estuary and other river mouths and is mangroveswamps. Sometimes it swims to a river like the Yangtze River.
+
+<p/> The Chinese white dolphin eats shoalfish like, Mullet fish and ray-finned fish, but also shellfish and mollusks. While hunting it uses echoloaction. This dolphin lives in small tight groups of maximum 20 animals. Bottlenose dolphins, Spinner dolphins and Indian Harbour Porpoises area seen with the Chinese white dolphin. Sometimes it hunts with these other dolphins. While they are swimming they put there nose of there head out the water, then it comes partially out the water and after that they disappear. A calf is about 1.10 m.
+
+<p/> The Chinese white dolphin is an important attraction for tourists in Hongkong, there are excursions to see the pink dolphin. The habitat of this dolphin was in the mid 90s in danger, due to the building of an airport.
+
+ 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Chinese_witte_dolfijn</color> Made by Dennis1991! <br/>
+  </cell>
+ </text>
+</zoopedia_humpba>
+</ZT2Strings>

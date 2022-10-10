@@ -1,0 +1,36 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <bloedk>붉은 산호</bloedk>
+      <bloedk_stt>붉은 산호</bloedk_stt>
+      <bloedk_lower>붉은 산호</bloedk_lower>
+      <bloedk_ltt>
+         <color r="255" g="248" b="178">
+            <b>붉은 산호</b>
+         </color>
+         <br/>
+        Click to select and place the Precious Coral.
+      </bloedk_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_bloedk:entry">Coral, Precious</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bloedk:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/bloedk/bloedk_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/> Precious coral or red coral is the common name given to Corallium rubrum and several related species of marine coral. The distinguishing characteristic of precious corals is their durable and intensely colored red skeleton, which is used for making jewelry.
+
+<p/> Red corals grow on rocky seabottom with low sedimentation, typically in dark environments--either in the depths or in dark caverns or crevices. The original species, C. rubrum, is found mainly in the Mediterranean Sea. It grows at depths from 10 to 300 m, although the shallower of these habitats have been largely depleted by harvesting.[1] The same species is also found at Atlantic sites near the Strait of Gibraltar and at the Cape Verde Islands.[1] Other Corallium species are native to the western Pacific, notably around Japan (Corallium japonicum) and Taiwan;[2] these occur at depths of 350 to 1500 m in areas with strong currents.
+
+
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

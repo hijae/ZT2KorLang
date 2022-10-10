@@ -1,0 +1,142 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <haringhaai>비악상어</haringhaai>
+      <haringhaai_stt>비악상어</haringhaai_stt>
+      <haringhaai_lower>비악상어</haringhaai_lower>
+      <haringhaai_ltt>
+         <color r="255" g="248" b="178">
+            <b>비악상어</b>
+         </color>
+         <br/>
+         Click to select and place the Porbeagle.
+      </haringhaai_ltt>
+      <!--gift names-->
+      <haringhaai_Gift>비악상어 가방</haringhaai_Gift>
+      <haringhaai_Gift_stt>비악상어 가방</haringhaai_Gift_stt>
+      <haringhaai_Gift_lower>비악상어 가방</haringhaai_Gift_lower>
+      <haringhaai_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>비악상어 가방</b>
+         </color>
+         <br/>Guests who like to see the Porbeagle want to buy this souvenir.
+      </haringhaai_Gift_ltt>
+</entityname>
+<zoopedia_haringhaai>
+ <entry>Porbeagle</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/haringhaai/haringhaai_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Deep sea<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">World wide<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: cartilaginous fishes <i>(Chondrichthyes)</i><br/>Order: Mackerel sharks (Lamniformes)<br/>Family: Mackerel sharks<i>(Lamnidae)</i><br/>Genus: <i>Lamna</i><br/>Species: <i>L. nasus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Porbeagle</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The maximum length of the Porbeagle is 11 ft.(3.50 m.)</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The heaviest Porbeagle ever found was weight at about 550 lb. (250 kg.)</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Probeagle is seen as a potential danger to divers, because of their size and activities. But there are rarely attacks on humans or boats. This animal can be of harm to humans, but is not deadly.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Did you know that this Porbeagle is made by Dennis1991!</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Porbeagle will be available when your zoo has reached 5 stars. 
+   </color>
+<p/> The Porbeagle (Lamna nasus) is a shark form the mackerel sharks (Lamnidae).
+<p/> The maximum length is 11 ft. (3.50 m.) The heaviest Probeagle weight about 550 lb. (250 kg.) His big black eyes, the pionted snout and the little sharp teeth are real eyecatchers.  The upperside of the Porbeagle is dark grey, the bottom is white.
+<p/> This sharkspecies lives seperately or in shoals and hunts on small shoals of deep sea fish, other sharks and squid. The resistance is very low, it takes about 14 years to dubble the population.
+<p/> The Porbeagle lives in the Atlantic Ocean, the Mediteranean sea, from the southwest to southeast of the Pacific Ocean ans the Indian Ocean.
+<p/> The Porbeagle is wanted by commercial fishermen and is caught for fun. The meat is used for human consumption: oil and cattlefood. The fins are used for sharkfinsoup. The meat can be roasted or grilled
+<p/> The Probeagle is seen as a potential danger to divers, because of their size and activities. But there are rarely attacks on humans or boats. This animal can be of harm to humans, but is not deadly.
+
+ 
+</cell>
+  <p /> 
+  <cell width="260" /> 
+- <cell width="620">
+  Information from:  
+  <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/haringhaai</color> 
+  Made by Dennis1991! 
+  <color r="0" g="0" b="0" /> 
+  </cell>
+  </text>
+  </zoopedia_haringhaai>
+  </ZT2Strings>

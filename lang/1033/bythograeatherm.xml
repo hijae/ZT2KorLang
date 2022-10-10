@@ -1,0 +1,38 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <bythograeatherm>장님게</bythograeatherm>
+      <bythograeatherm_stt>장님게</bythograeatherm_stt>
+      <bythograeatherm_lower>장님게</bythograeatherm_lower>
+      <bythograeatherm_ltt>
+         <color r="255" g="248" b="178">
+            <b>장님게</b>
+         </color>
+         <br/>
+        Click to select and place the hydrothermal vent crab.
+      </bythograeatherm_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_bythograeatherm:entry">Crab, hydrothermal vent</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bythograeatherm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/bythograeatherm/bythograeatherm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The vent crab is typically found among dense clusters of tubeworms at an average depth of 1.7 miles and can tolerate a temperature gradient that ranges from 77 fahrenheit in the tubeworm clumps, to 36 fahrenheit, which is the temperature of the water surrounding the vent sites.
+
+
+
+
+
+<p/>
+
+
+Made by Dennis1991 </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

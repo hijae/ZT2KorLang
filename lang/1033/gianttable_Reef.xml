@@ -1,0 +1,35 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <gianttable_Reef>거대한 탁자산호</gianttable_Reef>
+      <gianttable_Reef_stt>거대한 탁자산호</gianttable_Reef_stt>
+      <gianttable_Reef_lower>거대한 탁자산호</gianttable_Reef_lower>
+      <gianttable_Reef_ltt>
+         <color r="255" g="248" b="178">
+            <b>거대한 탁자산호</b>
+         </color>
+         <br/>
+        Click to select and place the Giant Table Coral.
+      </gianttable_Reef_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_gianttable_reef:entry">Coral, Giant Table</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gianttable_reef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/gianttable_Reef/gianttable_Reef_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/> Table coral can be very big.
+ But the kind of man is destroying the corals with fishing nets or diving in to the coral.
+But when table coral grown huge.
+Then even sharks will sleep beneath it.
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

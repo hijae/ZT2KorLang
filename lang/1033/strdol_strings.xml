@@ -1,0 +1,197 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <strdol>줄무늬돌고래</strdol>
+      <strdol_stt>줄무늬돌고래</strdol_stt>
+      <strdol_lower>줄무늬돌고래</strdol_lower>
+      <strdol_ltt>
+         <color r="255" g="248" b="178">
+            <b>줄무늬돌고래</b>
+         </color>
+         <br/>
+         Click to select and place the Striped Dolphin.
+      </strdol_ltt>
+<!--egg names-->
+      <strdol_Egg>줄무늬돌고래 알</strdol_Egg>
+      <strdol_Egg_stt>줄무늬돌고래 알</strdol_Egg_stt>
+      <strdol_Egg_lower>줄무늬돌고래 알</strdol_Egg_lower>
+      <strdol_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>줄무늬돌고래 알</b>
+         </color>
+         <br/>
+         Klik op de icoon om de Striped Dolphin ei te selecteren. Beweeg met de muis en klik daarna op de Striped Dolphin ei om hem te plaatsen.
+       </strdol_Egg_ltt>
+      <!--gift names-->
+      <strdol_Gift>줄무늬돌고래 인형</strdol_Gift>
+      <strdol_Gift_stt>줄무늬돌고래 인형</strdol_Gift_stt>
+      <strdol_Gift_lower>줄무늬돌고래 인형</strdol_Gift_lower>
+      <strdol_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>줄무늬돌고래 인형</b>
+         </color>
+         <br/>Gasten die graag naar de Striped Dolphin kijken zullen de souvenir maar al te graag kopen.
+      </strdol_Gift_ltt>
+</entityname>
+<zoopedia_strdol>
+ <entry>Dolphin, Striped</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/strdol/strdol_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">WorldWide<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Whale and dolphin. <i>(Cetacea)</i><br/>Family: Dolphins <i>(Delphinidae)</i><br/>Genus: <i>Stenella</i><br/>Species: <i>coeruleoalba</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Striped Dolphin Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In common with other dolphins in its genus, the Striped Dolphin moves in large groups - usually in excess of 100 individuals in size. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It has been found in water temperatures ranging from 10 to 26 degrees Celsius, though the standard range is 18 to 22 degrees.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The total population is in excess of two million.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> To unlock the Striped Dolphin in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.
+   </color>
+   <p/> The Striped Dolphin (Stenella coeruleoalba) is an extensively studied dolphin that is found in temperate and tropical waters of all the world oceans.
+
+
+<p/> The Striped Dolphin is one of five species traditionally included in the genus Stenella, however, recent genetic work by LeDuc et al. (1999) indicates that Stenella, as traditionally conceived, is not a natural group. According to that study, the closest relatives of the Striped Dolphin are the Clymene Dolphin, the Common Dolphins, the Atlantic Spotted Dolphin, and Tursiops aduncus, which was formerly considered a subspecies of the Bottlenose Dolphin. The Striped Dolphin was discovered by Meyen in 1833. The specific name coeruleoalba (from Latin caeruleus dark blue and albus white) refers to the characteristic blue and white stripes on the flanks.
+
+
+
+
+
+
+
+<p/> The Striped Dolphin has a similar size and shape to several other dolphins that inhabit the waters that it does (see Pantropical Spotted Dolphin, Atlantic Spotted Dolphin, Clymene Dolphin). However its colouration is very conspicuous and makes them relatively easy to distinguish at sea. The underside is white or pink. There are one or two dark blue bands that run from the bottom of the eye to the flipper. These bands widen to the width of the flipper which are the same size. There are two further blue stripes running from behind the ear, one is short and ends just above the flipper. The other is longer and thickens along the flanks until it curves down under the belly just prior to the tail stock. Above these stripes the dolphin flanks are coloured light blue. The back, dorsal fin, melon and beak are dark blue. There is also a dark blue patch around the eyes. The lips are white. The tail stock is the same mid blue colour as the middle stripe of the flank. At birth individuals weigh about 10 kg (22 pounds) and are up to a metre (3 ft) long. By adulthood they have grown to 2.4 m (8 ft) (females) or 2.6 m (8.5 ft) (males) and weigh 150 kg (330 lb)) (female) or 160 kg (352 lb) (male). Research suggest that sexual maturity was reached at 12 years in Mediterranean females and in the Pacific at between 7 and 9 years. Longevity is about 55 to 60 years. Gestation lasts approximately 12 months and there is a three or four year gap between calving.
+
+
+
+
+
+
+
+<p/> In common with other dolphins in its genus, the Striped Dolphin moves in large groups, usually in excess of 100 individuals in size. Groups may be smaller in the Mediterranean and Atlantic. They may also mix with Common Dolphins. The Striped Dolphin is as capable as any dolphin at performing acrobatics, frequently breaching and jumping far above the surface of the water. Sometimes, it approaches boats in the Atlantic and Mediterranean but this is dramatically less common in other areas, particularly in the Pacific where it has been heavily exploited in the past.
+
+
+
+
+
+
+
+<p/> The Striped Dolphin feeds on small pelagic fish and squid.
+
+
+
+
+
+
+
+<p/> The Striped Dolphin likes temperate or tropical, off shore waters. It is found in abundance in the North and South Atlantic Oceans, including the Mediterranean and Gulf of Mexico, the Indian Ocean and the Pacific Ocean. Roughly speaking it occupies a range running from 40 degrees celcius to degrees 30 celcius. It has been found in water temperatures ranging from 10 to 26 degrees Celsius, though the standard range is 18 to 22 degrees. In the western Pacific, where the species has been extensively studied, a distinctive migration pattern has been identified. This has not been the case in other areas. The dolphin appears to be common in all areas of its range, though that may not be continuous in areas of low population density do exist. The total population is in excess of two million.
+
+
+
+
+
+
+
+<p/> Japan has hunted Striped Dolphin in the western Pacific since at least the 1940s. During the Striped Dolphin drive heyday at least 8 thousand to 9 thousand individuals were killed each year and in one exceptional year 21,000 individuals were killed. Since the 1980s, following the introduction of quotas, this number has fallen to around 1,000 kills per year. Conservationists are concerned about the Mediterranean population which is threatened by pollution, disease, busy shipping lanes and heavy incidental catches in fishing nets.
+
+
+
+
+
+
+
+<p/> Attempts have been made to keep the Striped Dolphin in captivity. However these have all failed, with animals dying within two weeks due to failure to feed.
+
+
+
+
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <color r="255" g="231" b="135">Made by Dennis1991</color> <br/>
+  </cell>
+ </text>
+</zoopedia_strdol>
+</ZT2Strings>

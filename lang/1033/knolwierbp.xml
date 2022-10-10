@@ -1,0 +1,37 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <knolwierbp>옷주름 채찍말</knolwierbp>
+      <knolwierbp_stt>옷주름 채찍말</knolwierbp_stt>
+      <knolwierbp_lower>옷주름 채찍말</knolwierbp_lower>
+      <knolwierbp_ltt>
+         <color r="255" g="248" b="178">
+            <b>옷주름 채찍말</b>
+         </color>
+         <br/>
+        Click to select and place the Furbelows.
+      </knolwierbp_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_knolwierbp:entry">Furbelows</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_knolwierbp:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/knolwierbp/knolwierbp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                    <p/>Saccorhiza polyschides grows from extreme low water springs to a depth of 35 m. It normally attaches to rocks but is occasionally found loose lying on small stones or shells. It can form dense stands in sheltered areas and can tolerate strong currents. 
+
+<p/>Saccorhiza polyschides is kelp species with a distinctive large warty holdfast and a flattened stipe with a frilly margin. The stipe is twisted at the base and widens to form a large flat lamina, which is divided into ribbon like sections. The species is an annual, and very fast growing. It is opportunistic and colonizes available hard substrata in the sublittoral.
+
+
+
+<p/> Made by Dennis1991! 
+ 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

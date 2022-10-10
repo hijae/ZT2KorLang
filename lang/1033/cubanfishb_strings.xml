@@ -1,0 +1,138 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <cubanfishb>쿠바산 도그피시</cubanfishb>
+      <cubanfishb_stt>쿠바산 도그피시</cubanfishb_stt>
+      <cubanfishb_lower>쿠바산 도그피시</cubanfishb_lower>
+      <cubanfishb_ltt>
+         <color r="255" g="248" b="178">
+            <b>쿠바산 도그피시</b>
+         </color>
+         <br/>
+         Click to select and place the Cuban Dogfish.
+      </cubanfishb_ltt>
+      <!--gift names-->
+      <cubanfishb_Gift>쿠바산 도그피시 가방</cubanfishb_Gift>
+      <cubanfishb_Gift_stt>쿠바산 도그피시 가방</cubanfishb_Gift_stt>
+      <cubanfishb_Gift_lower>쿠바산 도그피시 가방</cubanfishb_Gift_lower>
+      <cubanfishb_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>쿠바산 도그피시 가방</b>
+         </color>
+         <br/>Gasten die graag naar de Cuban Dogfish kijken willen maar al te graag dit souvenir kopen.
+      </cubanfishb_Gift_ltt>
+</entityname>
+<zoopedia_cubanfishb>
+ <entry>Dogfish, Cuban</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/cubanfishb/cubanfishb_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous Fishes  <i>(Chondricthyes)</i><br/>Order: <i>(Squaliformes)</i><br/>Family: Dogfish sharks <i>(Squalidae)</i><br/>Genus: <i>Squalus</i><br/>Species: <i>cubensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cuban Dogfish Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It probably feeds on bottom fishes and invertebrates.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Its reproduction is ovoviviparous, with 10 pups in a litter.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Cuban Dogfish in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo. 
+   </color>
+   <p/> The Cuban dogfish, Squalus cubensis, is a dogfish, a member of the family Squalidae in the order Squaliformes. It is found in the Western Atlantic from North Carolina to Florida, in the Gulf of Mexico, around Cuba, Hispaniola, southern Brazil and Argentina. It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m. Its length is up to 110 cm.
+
+
+   <p/> It is a slim, gray shark with black tips to its dorsal fins black and at the edges of its pectoral fins, its pelvic and caudal fins are white, It possess a spine at front edge of each of its two dorsal fans.
+
+
+   <p/> It probably feeds on bottom fishes and invertebrates. The isopod parasites which commonly infest the mouth and gills of marine fish are unusually large in the Cuban dogfish. Its reproduction is ovoviviparous, with 10 pups in a litter.
+
+
+   <p/> It is not generally utilized for food, but taken commercially for the oil and vitamins extracted from its liver.
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color><color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_cubanfishb>
+</ZT2Strings>

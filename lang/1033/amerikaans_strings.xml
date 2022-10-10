@@ -1,0 +1,126 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <amerikaans>아메리카주걱철갑상어</amerikaans>
+      <amerikaans_stt>아메리카주걱철갑상어</amerikaans_stt>
+      <amerikaans_lower>아메리카주걱철갑상어</amerikaans_lower>
+      <amerikaans_ltt>
+         <color r="255" g="248" b="178">
+            <b>아메리카주걱철갑상어</b>
+         </color>
+         <br/>
+         Click to select the American paddlefish.
+      </amerikaans_ltt>
+      <!--gift names-->
+      <amerikaans_Gift>아메리카주걱철갑상어 가방</amerikaans_Gift>
+      <amerikaans_Gift_stt>아메리카주걱철갑상어 가방</amerikaans_Gift_stt>
+      <amerikaans_Gift_lower>아메리카주걱철갑상어 가방</amerikaans_Gift_lower>
+      <amerikaans_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>아메리카주걱철갑상어 가방</b>
+         </color>
+         <br/>Guest wich loves to see the American paddlefish will buy this gift.
+      </amerikaans_Gift_ltt>
+</entityname>
+<zoopedia_amerikaans>
+ <entry>Pddlefish, American</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/amerikaans/amerikaans_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservationstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Wetlands<br/></color>
+     <img src="ui/icon_biomes/icon_Wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Missisipi<br/></color> 
+     <img src="ui/icon_maplocations/Wetlands_missisipi.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Actinopterygii)</i><br/>Order: Sturgeon <i>(Acipenseriformes)</i><br/>Family: Paddlefish <i>(Polyodontidae)</i><br/>genus: <i>Polyodon spathula</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun American paddlefish Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Also called the Mississippi paddlefish or spoonbill.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Polyodon spathula is one of two living species of Paddlefish.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+     The American paddlefish is availble in Challenge or Campaign Mode as soon as your zoo reaches 4 stars.
+   </color>
+   <p/> The American paddlefish, Polyodon spathula, also called the Mississippi paddlefish or spoonbill, lives in slow flowing waters of the Mississippi River drainage system. It appears to have been extirpated from Lake Erie and its tributaries. They are closely related to the sturgeons. This large Chondrostian freshwater fish may grow to 220 cm (7 feet) and weigh up to 100 kg (220 pounds). The paddlefish takes its common and scientific names from its distinctive snout, which is greatly elongated and flattened into a paddle shape. The American paddlefish is believed to use sensitive electroreceptors on its paddle to detect prey, as well as to navigate while migrating to spawning sites. The paddlefish feeds primarily on zooplankton but also feeds on crustaceans and bivalves.
+<p/> Once common throughout the Midwest, overfishing and habitat changes have caused major population declines; both the meat and roe of the paddlefish are desirable as food. Dams and other barriers can prevent the fish from recolonizing places where they once occurred and can deny them access to important critical habitats such as spawning areas. Until about 1900, the paddlefish was also found in the Lake Erie and in river systems tributary thereto in the US and Canada. Invasive species such as zebra mussels have reduced the number of zooplankton in the Great Lakes to such low levels that any hypothetical reintroduction program would seem likely to fail. Recently, paddlefish were spotted in the Danube river. It has not been determined whether these fished escaped from Romanian or Bulgarian fish farms during the 2006 European floods, or whether they were let into the Danube earlier and matured in the river.
+<p/> The American paddlefish is a popular sport fish in states with sufficient populations. Since they are filter-feeders, paddlefish will not accept bait or lures and must be caught by snagging. Several states, including Missouri, have enacted stocking programs for these fish in reservoirs where the resident populations were low or nonexistent, or in areas where historical populations are no longer naturally sustainable.
+<p/> Polyodon spathula is one of two living species of Paddlefish.
+
+   
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://en.wikipedia.org/wiki/American_paddlefish</color> Made by Dennis1991!<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_amerikaans>
+</ZT2Strings>

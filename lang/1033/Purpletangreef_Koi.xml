@@ -1,0 +1,41 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Purpletangreef_Koi>보라양쥐돔</Purpletangreef_Koi>
+      <Purpletangreef_Koi_stt>보라양쥐돔</Purpletangreef_Koi_stt>
+      <Purpletangreef_Koi_lower>보라양쥐돔</Purpletangreef_Koi_lower>
+      <Purpletangreef_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>보라양쥐돔</b>
+         </color>
+         <br/>
+        Click to select and place the Purple Tang.
+      </Purpletangreef_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_Purpletangreef_koi:entry">Tang, Purple</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_Purpletangreef_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/Purpletangreef/Purpletangreef_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> Gorgeous with its deep purple-blue body and a bright yellow tail, the Purple Tang or Yellowtail Tang is a great addition for a large aquarium. Once acclimated it is very hardy and disease resistant. It is also fairly easy to maintain with proper feeding and good water quality. However it is also rather rare, is expensive, and specimens imported these days are almost always adults so take more dedication to acclimate. This excellent prize is best for an experienced aquarist with deep pockets.
+
+
+
+                  <p/> The Purple Tang is a good sized agile fish so will need plenty of space for swimming along with crevices in rocks and corals for retreat and to sleep. Though it is a good community fish, it does get territorial and can be aggressive to new additions to the tank as it gets older. Keep it singly as it does not mix with others of the same genus. Like all seven of the Zebrasoma species, though quite robust it has a tendency to develop Lateral Line Disease (LLD) if tank conditions or diet are neglected. It will need good nutrition along with lots of water movement to provide plenty of oxygen, good filtration, and regular water changes. It is also good at nibbling algae so can be asset in a reef environment, but this species has been known to nip at some of the large polyp stony corals. The bottom line, keep a sharp eye on its environment, diet, and behavior.
+
+
+
+
+
+
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

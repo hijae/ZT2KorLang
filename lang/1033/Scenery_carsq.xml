@@ -1,0 +1,39 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Scenery_carsq>카리브암초꼴뚜기</Scenery_carsq>
+      <Scenery_carsq_stt>카리브암초꼴뚜기</Scenery_carsq_stt>
+      <Scenery_carsq_lower>카리브암초꼴뚜기</Scenery_carsq_lower>
+      <Scenery_carsq_ltt>
+         <color r="255" g="248" b="178">
+            <b>카리브암초꼴뚜기</b>
+         </color>
+         <br/>
+        Click to select and place the Caribbean Reef Squid.
+      </Scenery_carsq_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_scenerycarsq:entry">Squid, Caribbean Reef</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenerycarsq:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/SceneryFish/Scenery_carsq_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Caribbean Reef Squid (Sepioteuthis sepioidea), also known as just the Reef Squid, is a small (20 cm) torpedo shaped squid with fins that extend nearly the entire length of the body and undulate rapidly as it swims.
+
+
+
+
+
+
+
+
+<p/> Made by Dennis1991
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,71 +1,71 @@
 <ZT2Strings>
       <LOC_STRING _locID="credits:headingxtralarge"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="40">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="40">
             <color r="255" g="187" b="68" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headinglarge"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="36">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="36">
             <color r="255" g="197" b="78" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingmedium"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="28">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="28">
             <color r="255" g="197" b="78" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingsmall"  >
-         <font name="휴먼모음T" image="ui/font/color_mainmenu.tga" size="20">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="20">
             <color r="255" g="197" b="78" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingname"  >
-         <font name="휴먼태그래픽" size="28">
+         <font name="굴림" size="28">
             <color r="255" g="217" b="98" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingnamemedium"  >
-         <font name="휴먼태그래픽" size="24">
+         <font name="굴림" size="24">
             <color r="255" g="217" b="98" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingnamesmall"  >
-         <font name="휴먼모음T" size="15">
+         <font name="굴림" size="15">
             <color r="255" g="217" b="98" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingxtralarge"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="40">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="40">
             <color r="210" g="215" b="210" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headinglarge"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="36">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="36">
             <color r="210" g="215" b="210" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingmedium"  >
-         <font name="휴먼태그래픽" image="ui/font/color_mainmenu.tga" size="28">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="28">
             <color r="210" g="215" b="210" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingsmall"  >  
-         <font name="휴먼모음T" image="ui/font/color_mainmenu.tga" size="20">
+         <font name="굴림" image="ui/font/color_mainmenu.tga" size="20">
             <color r="210" g="215" b="210" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingname"  >
-         <font name="휴먼태그래픽" size="28">
+         <font name="굴림" size="28">
  				<color r="227" g="184" b="102" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingnamemedium"  >
-         <font name="휴먼태그래픽" size="24">
+         <font name="굴림" size="24">
  				<color r="227" g="184" b="102" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingnamesmall"  >
-         <font name="휴먼모음T" size="15">
+         <font name="굴림" size="15">
  				<color r="227" g="184" b="102" a="255">%text%</color>
          </font>
       </LOC_STRING>

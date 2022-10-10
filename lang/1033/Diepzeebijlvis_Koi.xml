@@ -1,0 +1,45 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Diepzeebijlvis_Koi>자귀어</Diepzeebijlvis_Koi>
+      <Diepzeebijlvis_Koi_stt>자귀어</Diepzeebijlvis_Koi_stt>
+      <Diepzeebijlvis_Koi_lower>자귀어</Diepzeebijlvis_Koi_lower>
+      <Diepzeebijlvis_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>자귀어</b>
+         </color>
+         <br/>
+        Click to select and place the Hatchetfish.
+      </Diepzeebijlvis_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_Diepzeebijlvis_koi:entry">Fish, Hatchet</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_Diepzeebijlvis_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/Diepzeebijlvis/Diepzeebijlvis_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The common name of the hatchetfishes (family Sternoptychidae) comes from their distinctive body form. They are mostly deep bodied, compressed fishes which have a sharp blade along the lower margin of the body and a handle formed by the posterior half of the body. One of the distinguishing characters of the genus Argyropelecus is the presence of a bony blade in front of the dorsal fin. 
+
+
+<p/> Hatchetfishes are deepsea fishes which have upward directed eyes and light producing photophores. Some of the photophores of the Large Hatchetfish are visible as yellowish dots in a row above the anal fin and running along the abdominal margin. In life, this species is brown dorsally and on the sides. The head and ventral areas around the photophores are black, and the photophores are white to grey with a black margin. 
+
+
+
+
+
+
+<p/> The Large Hatchetfish has a widespread marine distribution. In Australia the species is recorded in temperate waters from Newcastle, New South Wales to south western Western Australia, including Tasmania. It is most common in depths between 400 m to 600 m.
+
+
+
+
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,36 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <noordzeekrabden>식용 게</noordzeekrabden>
+      <noordzeekrabden_stt>식용 게</noordzeekrabden_stt>
+      <noordzeekrabden_lower>식용 게</noordzeekrabden_lower>
+      <noordzeekrabden_ltt>
+         <color r="255" g="248" b="178">
+            <b>식용 게</b>
+         </color>
+         <br/>
+        Click to select and place the Edible crab.
+      </noordzeekrabden_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_noordzeekrabden:entry">Crab, Edible</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_noordzeekrabden:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/noordzeekrabden/noordzeekrabden_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The edible crab, Cancer pagurus, is a species of crab found in the North Sea, North Atlantic and the Mediterranean Sea. It is a robust crab of a reddish brown colour, having an oval carapace with a characteristic pie crust edge and black tips to the claws. Mature adults may have a carapace width of up to about 25 cm and weigh up to 3 kg. Natural lifespan is about 20 years but few individuals will reach this age because of heavy commercial exploitation.
+
+
+
+
+ 
+<p/>
+Made by Dennis1991! With tanks to Dannybob!           </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

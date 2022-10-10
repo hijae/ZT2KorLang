@@ -228,7 +228,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:exit_app_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -252,7 +252,7 @@
          <br>게임을 끝내고 Windows로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_pic"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <br/>
                이 사진을 삭제하시겠습니까?
@@ -268,7 +268,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_pic_cancel_button_stt"  >사진 삭제 취소</LOC_STRING>
       <LOC_STRING _locID="confirm:delete_camera_pics"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <br/>
                카메라에 있는 사진을 모두 삭제하시겠습니까?
@@ -290,14 +290,14 @@
          <br>카메라에 담긴 모든 사진을 삭제하려던 명령을 취소합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:new_profile_label"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                새 프로필 만들기
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:create_profile_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="197" b="78">
                새 프로필을 입력하세요.
             </color>
@@ -320,14 +320,14 @@
          <br>새 프로필을 만듭니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_profile_label"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                프로필 삭제
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_selected_profile_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="197" b="78">
                이 프로필을 삭제하시겠습니까?
             </color>
@@ -348,7 +348,7 @@
          <br>프로필 삭제를 취소하고 프로필 관리 화면으로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:create_new_album"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                새 앨범을 만드시겠습니까?
             </color>
@@ -369,7 +369,7 @@
          <br>새 앨범 만들기를 취소하고 앨범 관리로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_album_confirmation"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                앨범을 삭제하시겠습니까?
             </color>
@@ -390,7 +390,7 @@
          <br>선택한 앨범 삭제를 취소하고 앨범 관리로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:return_mainmenu_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                주 메뉴로 돌아가기 전에 게임을 저장하시겠습니까?
             </color>
@@ -433,19 +433,19 @@
       </LOC_STRING>
       <LOC_STRING _locID="confirm:sell_selected_item"  >%s을(를) 판매하시겠습니까?</LOC_STRING>
       <LOC_STRING _locID="confirm:sell_selected_item_format"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <br/>%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:refundformat"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="255" b="255">
                환불: %text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:cancel_photochallenge_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -455,7 +455,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:fire_selected_staff_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -479,14 +479,14 @@
          <br>직원의 해고를 취소합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:confimation_delete_game_label"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                게임 삭제
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_game_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="192" b="78">
                저장된 게임을 삭제하시겠습니까?
             </color>
@@ -507,7 +507,7 @@
          <br>이전에 저장한 이 게임의 삭제를 취소합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:restart_game_ok_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -523,7 +523,7 @@
          <br>Zoo Tycoon 2를 다시 시작하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:exit_game_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -568,7 +568,7 @@
          <br>대화 상자를 닫고 사진 찍기 챌린지를 포기합니다. </br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:save_current_game_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -592,7 +592,7 @@
          <br>진행하던 게임을 저장하지 않고 불러오기 화면으로 이동합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:overwrite_button_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>
@@ -623,7 +623,7 @@
          <br>이 대화 상자를 닫습니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:graphic_settings_confirmation_format"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>%text%</text>
             </color>
@@ -645,7 +645,7 @@
          <br>마지막 설정으로 돌리려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:tranporation_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   경고: 차량에 타고 있는 관람객을 내리게 할 수 있습니다.
@@ -676,7 +676,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="confirm:restart_game_ok_stt"  >Zoo Tycoon 2 다시 시작</LOC_STRING>
       <LOC_STRING _locID="confirm:tank_delete_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   경고: 이 벽에 붙어있는 수조의 개체도 함께 판매될 수 있습니다!
@@ -699,7 +699,7 @@
          <br>계속하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:show_platform_delete_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   경고: 선택한 무대에서 실행되던 공연까지 삭제됩니다!
@@ -722,7 +722,7 @@
          <br>계속하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:show_platform_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   경고: 수조에 있는 개체 중 공연과 관계없는 것도 함께 판매될 수 있습니다!
@@ -745,7 +745,7 @@
          <br>계속하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:show_tank_merge_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   공연 수조는 합칠 수 없습니다.
@@ -761,7 +761,7 @@
          <br>취소하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:cancel_edit_show_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   공연의 변경 사항을 적용하지 않고 진행하시겠습니까?
@@ -784,7 +784,7 @@
          <br>공연 편집을 계속하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_show_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   이 공연/휴식을 완전히 삭제하시겠습니까?
@@ -807,7 +807,7 @@
          <br>공연/휴식 삭제를 취소합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:show_tank_split_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   경고: 이 수조에서 펼쳐지는 공연에 영향을 미칠 수 있습니다!
@@ -844,7 +844,7 @@
          <br>새 공연 추가를 취소하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:add_show_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   진행 중인 공연을 중단하시겠습니까?
@@ -867,7 +867,7 @@
          <br>공연 편집을 취소하려면 클릭하세요.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:edit_show_confirmation_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   진행 중인 공연을 중단하시겠습니까?
@@ -1633,10 +1633,10 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:poscursorformat"  >
-         <font name="휴먼모음T" size="16" shadowx="0" shadowy="0" shadowa="255">%text%</font>
+         <font name="굴림" size="16" shadowx="0" shadowy="0" shadowa="255">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:negcursorformat"  >
-         <font name="휴먼모음T" size="16" shadowx="0" shadowy="0" shadowa="255">%text%</font>
+         <font name="굴림" size="16" shadowx="0" shadowy="0" shadowa="255">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:species_label"  >
          <font name="굴림" size="9" shadowx="-1" shadowy="1" shadowa="64">
@@ -1968,7 +1968,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:incomplete_circuit"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
             <color r="255" g="255" b="0">
                <text>
                   공사 중인 노선
@@ -2559,12 +2559,12 @@
          <br>선택한 저장된 게임을 삭제합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="loadgame:delete"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             삭제
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="loadgame:loadgame"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                게임 불러오기
             </color>
@@ -2577,12 +2577,12 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="loadgame:cancel"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             취소
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="loadgame:load"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             불러오기
          </font>
       </LOC_STRING>
@@ -2593,7 +2593,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:nameformat"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>
@@ -2678,7 +2678,7 @@
          <font name="굴림" size="12">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_label"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                프로필
             </color>
@@ -2686,7 +2686,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_default"  >기본 프로필</LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manager_label"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                프로필 관리
             </color>
@@ -2717,10 +2717,10 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:motdtext"  >
-         <font name="휴먼모음T" size="14">%text%</font>
+         <font name="굴림" size="14">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:savegame"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             게임 저장하기
          </font>
       </LOC_STRING>
@@ -2745,7 +2745,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:click_to_continue"  >
-         <font name="휴먼태그래픽" size="26" shadowx="0" shadowy="0" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="26" shadowx="0" shadowy="0" image="ui\font\color_mainmenu.tga">
             계속하려면 클릭하세요.
          </font>
       </LOC_STRING>
@@ -2764,28 +2764,28 @@
          <br>연습 게임을 건너뛰고 바로 게임을 시작합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_play_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                연습 게임하기
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                Zoo Tycoon 2 게임 방법을 배우시겠습니까?
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text_endangered"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                Zoo Tycoon 2: Endangered Species 게임 방법을 배우시겠습니까?
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text_marine"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                Zoo Tycoon 2: Marine Mania 게임 방법을 배우시겠습니까?
             </color>
@@ -3184,7 +3184,7 @@
          <br>만족도를 기준으로 관람객 목록을 정렬합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="multilist:multilist_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                동물원 요약 통계
             </color>
@@ -3330,7 +3330,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="options:options_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                게임 옵션
             </color>
@@ -3517,7 +3517,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:back"  >
-         <font name="휴먼모음T" size="14">끝내기</font>
+         <font name="굴림" size="14">끝내기</font>
       </LOC_STRING>
       <LOC_STRING _locID="options:exit_dowload_button_stt"  >다운로드 끝내기</LOC_STRING>
       <LOC_STRING _locID="options:exit_dowload_button_ltt"  >
@@ -3527,7 +3527,7 @@
          <br>다운로드를 끝내고 게임으로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:apply"  >
-         <font name="휴먼모음T" size="14">적용</font>
+         <font name="굴림" size="14">적용</font>
       </LOC_STRING>
       <LOC_STRING _locID="options:apply_button_stt"  >변경 내용 저장 후 끝내기</LOC_STRING>
       <LOC_STRING _locID="options:apply_button_ltt"  >
@@ -3564,7 +3564,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:soundoptions"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                사운드 옵션
             </color>
@@ -3659,7 +3659,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="options:misc_motd_button_stt"  >오늘의 메시지 사용</LOC_STRING>
       <LOC_STRING _locID="options:downloadlabel"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                다운로드
             </color>
@@ -3923,7 +3923,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:album_label"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">앨범:</color>
          </font>
       </LOC_STRING>
@@ -4028,10 +4028,10 @@
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:myphotoalbum"  >내 앨범</LOC_STRING>
       <LOC_STRING _locID="photoalbum:prompt"  >
-         <font name="휴먼모음T" size="16" shadowx="1" shadowy="1" shadowa="64">%text%</font>
+         <font name="굴림" size="16" shadowx="1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:photo_safari_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                사진 찍기
             </color>
@@ -4045,7 +4045,7 @@
          <br>사진을 선택해서 앨범으로 옮기거나 삭제할 수 있습니다. 사진을 두 번 클릭하면 확대해서 볼 수 있습니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:photo_album_manager_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                앨범 관리
             </color>
@@ -4072,28 +4072,28 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:accept_label"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">
                챌린지를 받아들이시겠습니까?
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:confirm_choice_label"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">
                선택 사항을 확정하시겠습니까?
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:goals_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                게임 챌린지
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:branch_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                선택 사항
             </color>
@@ -4129,14 +4129,14 @@
          <br>게임 선택 사항을 수락합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:scenario_win_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                시나리오 성공!
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:continue_label"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">
                시나리오를 계속하시겠습니까?
             </color>
@@ -4164,14 +4164,14 @@
          <br>게임을 끝내고 주 메뉴로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:scenario_failed_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                시나리오 실패!
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:scenario_failed_replay_label"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">
                시나리오를 다시 시작하시겠습니까?
             </color>
@@ -4185,7 +4185,7 @@
          <br>시나리오를 다시 시작합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:challenge_failed_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                챌린지 실패!
             </color>
@@ -4199,7 +4199,7 @@
          <br>시나리오를 계속 진행합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:challenge_won_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                챌린지 성공!
             </color>
@@ -4220,33 +4220,33 @@
          <br>저장한 게임을 불러옵니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:cash_grant_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                지원금
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:tutorial_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                연습 게임
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:tutorial_heading_label"  >
-         <font name="휴먼모음T" size="18">
+         <font name="굴림" size="18">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:tutorial_menu_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                연습 게임 완료
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photochal:tutorial_complete_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                연습 게임 완료
             </color>
@@ -4278,14 +4278,14 @@
          <br>도움말 화면을 닫습니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photom:photo_help_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                사진 찍기
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photom:photo_help_label2"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">
                컨트롤 도움말
             </color>
@@ -4391,7 +4391,7 @@
          <br>선택한 저장된 게임을 삭제합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="savegame:savegame"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                게임 저장하기
             </color>
@@ -4409,17 +4409,17 @@
          <font name="굴림" size="10" shadowx="1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="savegame:cancel"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             취소
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="savegame:save"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             저장하기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="savegame:delete"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             삭제
          </font>
       </LOC_STRING>
@@ -4446,12 +4446,12 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:posmovingformat"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="0" g="255" b="0">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:negmovingformat"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="0" b="0">%text%</color>
          </font>
       </LOC_STRING>
@@ -5049,39 +5049,39 @@
          <color r="255" g="248" b="178">(바로 가기 키: Ctrl+P)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                게임 옵션
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_cancel"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             게임으로 돌아가기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_exit"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             게임 끝내기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_load"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             게임 불러오기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_save"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             게임 저장하기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_options"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             게임 설정
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_mainmenu"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
             주 메뉴로 돌아가기
          </font>
       </LOC_STRING>
@@ -5104,7 +5104,7 @@
          <color r="255" g="248" b="178">(바로 가기 키: &lt;)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:devmodedisplay"  >
-         <font name="휴먼태그래픽" size="24" shadowx="2" shadowy="2" shadowa="32">
+         <font name="굴림" size="24" shadowx="2" shadowy="2" shadowa="32">
             Dev 모드
          </font>
       </LOC_STRING>
@@ -5139,7 +5139,7 @@
          <color r="255" g="248" b="178">(바로 가기 키: P 또는 Pause)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:pause_game_label"  >
-         <font name="휴먼태그래픽" size="24" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+         <font name="굴림" size="24" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
             <color r="255" g="100" b="0">
                <text>
                   게임 일시 중지
@@ -5336,7 +5336,7 @@
          <color r="255" g="248" b="178">(바로 가기 키: B)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:protected_area_label"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
             <color r="255" g="197" b="78">
                <text>
                   보호 구역
@@ -5345,7 +5345,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:traversability_calculation_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
             <color r="240" g="64" b="48">
                <text>
                   보기 계산 중...
@@ -5354,7 +5354,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:influence_calculation_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
             <color r="240" g="64" b="48">
                <text>
                   영향 계산 중...
@@ -5569,14 +5569,14 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="scenario:goals_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                목표와 챌린지
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="scenario:primary_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                주요 목표
             </color>
@@ -5611,7 +5611,7 @@
          <br>시나리오에서 아직 완료되지 않은 모든 목표 목록을 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="scenario:photo_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                사진 찍기 챌린지
             </color>
@@ -5625,7 +5625,7 @@
          <br>카메라를 사용하여 목표를 달성해야 하는 모든 사진 찍기 챌린지 목록을 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="scenario:introduction_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                소개
             </color>
@@ -5788,19 +5788,19 @@
          <br>동물원 전체 지도에서 항목을 표시하거나 숨깁니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:map_legend_label"  >
-         <font name="휴먼모음T" size="18" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="18" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                지도 일러두기
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:zoo_name_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:over_view_map_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                전체 지도
             </color>
@@ -5813,7 +5813,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_status_label"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                동물원 운영 현황
             </color>
@@ -5822,7 +5822,7 @@
       <LOC_STRING _locID="zoostatus:money_format"  >$%d</LOC_STRING>
       <LOC_STRING _locID="zoostatus:number_format"  >%d</LOC_STRING>
       <LOC_STRING _locID="zoostatus:info_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                동물원 정보
             </color>
@@ -5844,7 +5844,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:close_stt"  >닫기</LOC_STRING>
       <LOC_STRING _locID="zoostatus:balance_sheet_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                수입/지출
             </color>
@@ -5860,7 +5860,7 @@
          </marketing_tab_ltt>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:graphs_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                그래프
             </color>
@@ -5874,7 +5874,7 @@
          <br>동물원 운영의 다양한 항목에 대한 월별 그래프를 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:awards_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                수상 내역
             </color>
@@ -5893,7 +5893,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:building_list_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                건물
             </color>
@@ -5927,7 +5927,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:donations_summary_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                기부 현황
             </color>
@@ -5953,7 +5953,7 @@
          <br>동물의 종류별로 받은 기부금 현황을 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_tab_label"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
                동물원 명성
             </color>
@@ -6601,14 +6601,14 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="sequencer:edit_show_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                공연 편집
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="sequencer:view_show_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                공연 보기
             </color>
@@ -6761,14 +6761,14 @@
          <font name="굴림" size="11" image="" shadowx="-1" shadowy="1" shadowa="128">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="sequencer:no_available_animals"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                공연에 참여할 수 있는 동물이 없습니다.
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="sequencer:no_animals_selected"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                관람 모드에 동물 추가하기/추가하지 않기
             </color>
@@ -6781,7 +6781,7 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="training:training_list_label"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="248" b="178">
                동물 훈련
             </color>
@@ -6794,7 +6794,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="training:reward_animal"  >%s에게 상으로 먹이를 주려면 스페이스바를 누르세요.</LOC_STRING>
       <LOC_STRING _locID="training:trainer_training_list_label"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="248" b="178">
                조련사 훈련
             </color>
@@ -6829,14 +6829,14 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="training:percent_format"  >
-         <font name="휴먼모음T" size="20" shadowx="-1" shadowy="1" shadowa="64">
+         <font name="굴림" size="20" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="255" b="255">
                % 
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="training:score_number_format"  >
-         <font name="휴먼모음T" size="20" shadowx="-1" shadowy="1" shadowa="64">
+         <font name="굴림" size="20" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="255" b="255">%text%</color>
          </font>
       </LOC_STRING>
@@ -6861,14 +6861,14 @@
       </LOC_STRING>
       <LOC_STRING _locID="training:new_trick_label"  >%s이(가) 다음 묘기를 펼칠 수 있게 되었습니다.</LOC_STRING>
       <LOC_STRING _locID="training:new_trick_layout_label"  >
-         <font name="휴먼모음T" size="14">
+         <font name="굴림" size="14">
             <color r="255" g="248" b="178">
                실행할 수 있는 새로운 묘기
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="training:unable_to_train_format"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>
@@ -6899,28 +6899,28 @@
          <font name="굴림" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="gesture:gesture_counter_format_1"  >
-         <font name="휴먼태그래픽" size="50">
+         <font name="굴림" size="50">
             <color r="255" g="255" b="255">
                1
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="gesture:gesture_counter_format_2"  >
-         <font name="휴먼태그래픽" size="50">
+         <font name="굴림" size="50">
             <color r="255" g="248" b="178">
                2
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="gesture:gesture_counter_format_3"  >
-         <font name="휴먼태그래픽" size="50">
+         <font name="굴림" size="50">
             <color r="255" g="255" b="255">
                3
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="gesture:gesture_counter_format_go"  >
-         <font name="휴먼태그래픽" size="35">
+         <font name="굴림" size="35">
             <color r="0" g="255" b="0">
                시작!
             </color>
@@ -6929,12 +6929,12 @@
       <LOC_STRING _locID="gesture:wait_tracer_label"  >%s이(가) 위치로 이동할 때까지 기다려 주세요.</LOC_STRING>
       <LOC_STRING _locID="gesture:click_tracer_label"  >%s의 훈련을 시작하려면 트레이서를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="gesture:click_tracer_label_format"  >
-         <font name="휴먼태그래픽" size="25" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="25" image="ui\font\color_mainmenu.tga">
             <color r="255" g="255" b="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="gesture:failed_label"  >
-         <font name="휴먼태그래픽" size="30">
+         <font name="굴림" size="30">
             <color r="255" g="255" b="255">
                훈련 실패!
             </color>
@@ -7007,7 +7007,7 @@
          <br>선택한 설정을 저장하고 끝냅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="customer:customer_label"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                사용자 환경 개선 프로그램
             </color>

@@ -1,0 +1,49 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Scenery_stira>꽁지가오리</Scenery_stira>
+      <Scenery_stira_stt>꽁지가오리</Scenery_stira_stt>
+      <Scenery_stira_lower>꽁지가오리</Scenery_stira_lower>
+      <Scenery_stira_ltt>
+         <color r="255" g="248" b="178">
+            <b>꽁지가오리</b>
+         </color>
+         <br/>
+        Click to select and place the Bluespotted Ribbontail Ray.
+      </Scenery_stira_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_scenerystira:entry">Ray, Bluespotted Ribbontail</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenerystira:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/SceneryFish/Scenery_stira_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The bluespotted ribbontail ray, Taeniura lymma, is a stingray of the family Dasyatidae, found around coral reefs in the tropical Indo West Pacific from the Red Sea and East Africa to the Solomon Islands north to southern Japan and south to northern Australia, between latitudes 32 N and 30 S.
+
+
+  <p/> The bluespotted ribbontail ray is a colourful stingray with large bright blue spots on an oval, elongated disc and with blue longitudinal stripes on the tail. The snout is rounded and angular, the disc with broadly rounded outer corners, and stout tail, tapering and less than twice the body length when intact, with a broad lower caudal finfold reaching the tail tip. The disc has no large thorns but has small, flat denticles along the midback in adults. There is usually one medium sized sting on the tail further back than in most stingrays.
+
+
+
+  <p/> It migrates in groups into shallow sandy areas during the rising tide to feed on molluscs, worms, shrimps, and crabs, dispersing on the falling tide to seek shelter in caves and under ledges. Rarely found buried under the sand. Small specimens are popular among marine aquarists, but it does not do well in aquaria.
+
+
+
+  <p/> Coloration is grey brown to yellow, olive green or reddish brown with large bright blue spots dorsally, white ventrally.
+
+
+
+
+
+
+
+<p/> Made by Dennis1991
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

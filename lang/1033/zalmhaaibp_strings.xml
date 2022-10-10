@@ -1,0 +1,177 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <zalmhaaibp>Salmon shark</zalmhaaibp>
+      <zalmhaaibp_stt>Salmon shark</zalmhaaibp_stt>
+      <zalmhaaibp_lower>the Salmon shark</zalmhaaibp_lower>
+      <zalmhaaibp_ltt>
+         <color r="255" g="248" b="178">
+            <b>Salmon shark</b>
+         </color>
+         <br/>
+         Click to select and place the Salmon shark.
+      </zalmhaaibp_ltt>
+      <!--gift names-->
+      <zalmhaaibp_Gift>zalmhaai Rugtas</zalmhaaibp_Gift>
+      <zalmhaaibp_Gift_stt>zalmhaai Rugtas</zalmhaaibp_Gift_stt>
+      <zalmhaaibp_Gift_lower>De zalmhaai Rugtas</zalmhaaibp_Gift_lower>
+      <zalmhaaibp_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>zalmhaai Rugtas</b>
+         </color>
+         <br/>Gasten die graag naar de zalmhaai kijken zullen dit souvenir maar al te graag kopen.
+      </zalmhaaibp_Gift_ltt>
+</entityname>
+<zoopedia_zalmhaaibp>
+ <entry>Shark, Salmon</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/zalmhaaibp/zalmhaaibp_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">North Pacific Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: cartilaginous fishes  <i>(Chondrichthyes)</i><br/>Order: mackerel sharks <br/>Familie: mackerel sharks <i>(Lamnidae
+)</i><br/>Genus: <i>Lamna</i><br/>Species: <i>Ditropis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Salmon Shark Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Age and sex composition differences have been observed between populations in the eastern and western North Pacific.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Although salmon sharks are thought to be capable of injuring humans, there are few if any attacks on humans.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Individuals have been observing diving as deeply as 668 m, however they are believed to spend most of their time in epipelagic waters.
+
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Salmon shark generally grow to between 200 and 260 cm in length and weigh up to 220 kg.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Salmon Shark will be available when your zoo has reached 5 stars.  
+   </color>
+<p/> The salmon shark, Lamna ditropis, is a shark species occurring in the north Pacific ocean. As an apex predator, the salmon shark feeds on salmon, and also on squid, sablefish, and herring. Salmon shark are remarkable for their ability to maintain body temperature, known as homeothermy, and an as yet unexplained variability in the sex ratio between the eastern north pacific and western north pacific.
+
+
+<p/> Adult salmon sharks are medium grey to black over most of the body, with a white underside with darker blotches. Juveniles are similar in appearance but generally lack blotches. The snout is short and cone shaped, and the overall appearance is similar to a small great white shark.
+
+
+<p/> Salmon shark generally grow to between 200 and 260 cm in length and weigh up to 220 kg. Males appear to reach a maximum size which is slightly smaller than females. Unconfirmed reports exist of salmon shark reaching as much as 4.3 m however the largest confirmed reports indicate a maximum total length of approximately 3 m.
+
+<p/> Salmon shark are ovoviviparous, with a litter size of 2 to 6 pups. As with other Lamniformes shark species, salmon sharks are oophagous, with embryos feeding on the ova produced by the mother.
+
+
+<p/> Females reach sexual maturity at 8 to 10 years, while males generally mature by age 5. Reproduction timing is not well understood, however it is believed to be on a two year cycle with mating occurring in the late summer or early fall. Gestation is approximately 9 months. Some reports indicate that the sex ratio at birth may be 2.2 males per female, however the prevalence of this is not known.
+
+
+<p/> As with only a few other species of fish, salmon shark have the ability to regulate their body temperature. This is accomplished by vascular counter current heat exchangers, known as rete mirabilia, Latin for wonderful nets. Blood moving toward extremities flows near colder returning blood, resulting in heat transfer. The returning blood is warmed, keeping the core of the animal heated. This ability is believed to help the salmon shark exploit prey in a wider range of water temperatures.
+
+
+<p/> The salmon shark is a coastal littoral and epipelagic shark that prefers boreal to cool temperate waters. It is common in continental offshore waters but range inshore to just off beaches. They occur singly or in schools or feeding aggregations of several individuals.
+
+
+<p/> Salmon shark occur in the northern Pacific Ocean, in both coastal waters and in the open ocean. Animals are believed to range as far south as the Sea of Japan and southern California, and as far north as 65 degrees north in Alaska. Individuals have been observing diving as deeply as 668 m, however they are believed to spend most of their time in epipelagic waters.
+
+
+<p/> Age and sex composition differences have been observed between populations in the eastern and western North Pacific. Eastern populations are dominated by females, while the western populations are predominately male. It is not known if these distinctions stem from genetically distinct stocks, or if the segregation occurs as part of salmon shark growth and development.
+
+
+<p/> There is no current commercial fishery for salmon shark, however, they are occasionally caught as bycatch in commercial salmon gillnet fisheries where they are usually discarded. Commercial fisheries regard salmon sharks as nuisances, since they can damage fishing gear, and consume portions of the commercial catch. There are some reports of fishermen deliberately injuring salmon sharks.
+
+<p/> Sport fishermen fish for salmon sharks in Alaska. Alaskan fishing regulations limit the catch of salmon shark to two sharks per person per year.
+
+ 
+<p/> The flesh of the fish is utilized for human consumption, and in the Japanese city of Kesennuma, Miyagi, the heart is considered a delicacy for use in sashimi.
+
+<p/> Although salmon sharks are thought to be capable of injuring humans, there are few if any attacks on humans. There are, however, reports of divers encountering salmon sharks as well as salmon sharks bumping fishing vessels. These reports, however, may need positive identification of the shark species involved.
+
+
+
+
+
+
+ 
+</cell>
+  <p /> 
+  <cell width="260" /> 
+  <cell width="620">
+  Made by  
+  <color r="255" g="231" b="135">Dennis1991</color>  
+  <color r="0" g="0" b="0" /> 
+  </cell>
+  </text>
+  </zoopedia_zalmhaaibp>
+  </ZT2Strings>

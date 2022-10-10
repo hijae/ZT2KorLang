@@ -57,117 +57,117 @@
       </LOC_STRING>    
 	  
 	  
-      <LOC_STRING _locID="montane:icon_stt"  >Montane</LOC_STRING>
-      <LOC_STRING _locID="montane:deepwater"  >Deep Water</LOC_STRING>
-      <LOC_STRING _locID="montane:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="montane:icon_stt"  >산간지대</LOC_STRING>
+      <LOC_STRING _locID="montane:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="montane:deepwater_stt"  >깊은 물</LOC_STRING>
       <LOC_STRING _locID="montane:deepwater_ltt"  >
          <color r="255" g="255" b="255">
-            Deep Water
+            깊은 물
          </color>
          <br/>
-         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:shallowwater"  >Shallow Water</LOC_STRING>
-      <LOC_STRING _locID="montane:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="montane:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="montane:shallowwater_stt"  >얕은 물</LOC_STRING>
       <LOC_STRING _locID="montane:shallowwater_ltt"  >
          <color r="255" g="255" b="255">
-            Shallow Water
+            얕은 물
          </color>
          <br/>
-         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:ground"  >Dirt</LOC_STRING>
-      <LOC_STRING _locID="montane:ground_stt"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:ground"  >풀</LOC_STRING>
+      <LOC_STRING _locID="montane:ground_stt"  >풀</LOC_STRING>
       <LOC_STRING _locID="montane:ground_ltt"  >
          <color r="255" g="255" b="255">
-            Dirt
+            풀
          </color>
          <br/>
-         Click to select dirt. Place the cursor over the world, and then click to create dirt.
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:ground-cover"  >Grass</LOC_STRING>
-      <LOC_STRING _locID="montane:ground-cover_stt"  >Grass</LOC_STRING>
+      <LOC_STRING _locID="montane:ground-cover"  >풀</LOC_STRING>
+      <LOC_STRING _locID="montane:ground-cover_stt"  >풀</LOC_STRING>
       <LOC_STRING _locID="montane:ground-cover_ltt"  >
          <color r="255" g="255" b="255">
-            Grass
+            풀
          </color>
          <br/>
-         Click to select grass. Place the cursor over the world, and then click to create grass.
+         풀로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:mix"  >Grass and Dirt</LOC_STRING>
-      <LOC_STRING _locID="montane:mix_stt"  >Grass and Dirt</LOC_STRING>
+      <LOC_STRING _locID="montane:mix"  >풀과 흙</LOC_STRING>
+      <LOC_STRING _locID="montane:mix_stt"  >풀과 흙</LOC_STRING>
       <LOC_STRING _locID="montane:mix_ltt"  >
          <color r="255" g="255" b="255">
-            Grass and Dirt
+            풀과 흙
          </color>
          <br/>
-         Click to select grass and dirt. Place the cursor over the world, and then click to create an area of grass and dirt.
+         풀과 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 풀과 흙으로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:foliage-mix"  >Alpine Tundra</LOC_STRING>
-      <LOC_STRING _locID="montane:foliage-mix_stt"  >Alpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix"  >고산대 툰드라</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix_stt"  >고산대 툰드라</LOC_STRING>
       <LOC_STRING _locID="montane:foliage-mix_ltt"  >
          <color r="255" g="255" b="255">
-            Alpine Tundra
+            고산대 툰드라
          </color>
          <br/>
-         Click to select alpine tundra. Place the cursor over the world, and then click to place rocks and plants associated with the Alpine Tundra biome.
+         고산대 툰드라로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 고산대 툰드라로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="montane:foliage-mix-terrain"  >Subalpine Tundra</LOC_STRING>
-      <LOC_STRING _locID="montane:foliage-mix-terrain_stt"  >Subalpine Tundra</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix-terrain"  >아고산대 툰드라</LOC_STRING>
+      <LOC_STRING _locID="montane:foliage-mix-terrain_stt"  >아고산대 툰드라</LOC_STRING>
       <LOC_STRING _locID="montane:foliage-mix-terrain_ltt"  >
          <color r="255" g="255" b="255">
-            Subalpine Tundra
+            아고산대 툰드라
          </color>
          <br/>
-         Click to select subalpine tundra. Place the cursor over the world, and then click to create a subalpine tundra area of rocks, plants, trees, and tall grass.
+         아고산대 툰드라로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 아고산대 툰드라로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
 	  
 	  
       <LOC_STRING _locID="temperaterainforest:icon_stt"  >r="255" g="255" b="255"</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:deepwater"  >Deep Water</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:deepwater_stt"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:deepwater"  >깊은 물</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:deepwater_stt"  >깊은 물</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:deepwater_ltt"  >
          <color r="255" g="255" b="255">
-            Deep Water
+            깊은 물
          </color>
          <br/>
-         Click to select deep water. Place the cursor over the world, and then click to create deep water.
+         깊은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 깊은 물로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:shallowwater"  >Shallow Water</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:shallowwater_stt"  >Shallow Water</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:shallowwater"  >얕은 물</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:shallowwater_stt"  >얕은 물</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:shallowwater_ltt"  >
          <color r="255" g="255" b="255">
-            Shallow Water
+            얕은 물
          </color>
          <br/>
-         Click to select shallow water. Place the cursor over the world, and then click to create shallow water.
+         얕은 물로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 얕은 물로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:ground"  >Soil</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:ground_stt"  >Soil</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground"  >흙</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground_stt"  >흙</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:ground_ltt"  >
          <color r="255" g="255" b="255">
-            Soil
+            흙
          </color>
          <br/>
-         Click to select soil. Place the cursor over the world, and then click to create soil.
+         암석으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 암석으로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:ground-cover"  >Moss</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:ground-cover_stt"  >Moss</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground-cover"  >이끼</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:ground-cover_stt"  >이끼</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:ground-cover_ltt"  >
          <color r="255" g="255" b="255">
-            Moss
+            이끼
          </color>
          <br/>
-         Click to select moss. Place the cursor over the world, and then click to create moss.
+         이끼로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 이끼로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:mix"  >Moss and Soil bed</LOC_STRING>
-      <LOC_STRING _locID="temperaterainforest:mix_stt"  >Moss and soil bed</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:mix"  >이끼와 흙</LOC_STRING>
+      <LOC_STRING _locID="temperaterainforest:mix_stt"  >이끼와 흙</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:mix_ltt"  >
          <color r="255" g="255" b="255">
-            Moss and Soil bed
+            이끼와 흙
          </color>
          <br/>
-         Click to select moss and soil bed. Place the cursor over the world, and then click to create an area of moss and soil bed.
+         이끼와 흙으로 이루어진 환경입니다. 땅 위에 커서를 놓고 클릭하면 이끼와 흙으로 이루어진 환경을 만들 수 있습니다.
       </LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:foliage-mix"  >Forest Clearing</LOC_STRING>
       <LOC_STRING _locID="temperaterainforest:foliage-mix_stt"  >Forest Clearing</LOC_STRING>

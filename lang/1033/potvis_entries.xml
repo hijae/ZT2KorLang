@@ -1,0 +1,130 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_potvis:entry">Whale, Sperm</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_potvis:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/potvis/potvis_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conseration Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Deepsea<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">World Wide</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: Mammals <i>(Mammalia)</i>
+                  <br/>
+                  Order: Sperm Whale <i>Physeteridae</i>
+                  <br/>
+                  Family:  Toothed whales <i>Odontoceti</i>
+                  <br/>
+                  Genus: <i>Physeter</i>
+                  <br/>
+                  Species: <i>macrocephalus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Sperm Whale</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Sperm Whale is the largest toothed whale and also one of the largest predators ever alive.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Sperm Whale lives in all world seas. Some have stranded in the 1990's on the Dutch and Belgium coasts.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The recent increase of Sperm Whales in the North Sea is probably due to the end of Whale hunting late 80's.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The large head of the whale, the weird shape and important role in Herman Melvilles Moby Dick have lead to that many consider the whale as a specific whalespecies.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Amber, a waste product from the intestines of the Sperm Whale, is used for production of perfume.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">In Challenge and Campaign mode the Sperm Whale will be available when your zoo has reached 5 stars.</color>
+            <p/>The Sperm Whale (Physeter macrocephalus or P. catodon) is whale from the Sperm Whale family (Physeteridae). It is one of the largest species from the order of tooethed whales (Odontoceti).
+<p/> Sperm whales feed on several species, notably giant squid, octopi, and diverse fish like demersal rays, but the main part of their diet consists of medium sized squid. It cathes its food on a depth of 3000 m. It needs 3000 kg. blood, so it provides enough oxygen to stay fot 2 hours under water. The Sperm Whale eats 3 percent of its bodyweight per day.
+<p/> Amber, a waste product from the intestines of the Sperm Whale, is used for production of perfume.
+<p/> The Sperm Whale is the largest toothed whale and also one of the largest predators ever alive. Males can be about 18 m. and females about 11 m. Their weight can be 50.000 kg. Their body colour is dark grey and when it is in sunlight it is often brownish.
+<p/>The Sperm Whale only has teeth on the bottom jaw, but only males have teeth.
+<p/> The large head of the whale, the weird shape and important role in Herman Melvilles Moby Dick have lead to that many consider the whale as a specific whalespecies.
+<p/>The Sperm Whale lives in all world seas. Some have stranded in the 1990's on the Dutch and Belgium coasts.
+<p/> Some experts say that the North Sea works as a fish trap for the Sperm Whale. On their way from the tropics to the North, some animals take the wrong turn and swim to the North Sea. When animals are used to deep water, they can not deal with sandbanks. It is to shallow and they miss out on their favorite food, the squid. They get disorientated and can not find any food and get confused. Eventually they strand or die at sea.
+<p/> The recent increase of Sperm Whales in the North Sea is probably due to the end of Whale hunting late 80's.
+<p/> Perhaps the most famous piece of sperm whale lore dates from 1970, when a long-dead, 8.000 kg. long specimen came to a beach in Oregon. For a time, it was a curiosity to local residents. As the beach is public right-of-way, it was the duty of the Oregon Department of Transportation to dispose of it. They filled the animal with a half-ton of dynamite. On Thursday, November 12, the dynamite was set off, but the blast did not go toward the Pacific as planned. No one was hurt, but a car was crushed by falling blubber. Onlookers were covered with noxious-smelling bits of dead whale. If they waited just a little longer, and did not blow the whale up, it would have exploded by itself. Due to gas pressure from decomposition built up inside the body, causing an explosion.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Made by Dennis1991!
+         </cell>         
+      </LOC_STRING>
+</ZT2Strings>

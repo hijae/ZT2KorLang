@@ -20,7 +20,7 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text_africa"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                Zoo Tycoon 2: African Adventure에서 지프를 사용하는 방법을 배우시겠습니까?
             </color>

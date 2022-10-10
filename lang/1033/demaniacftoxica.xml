@@ -1,0 +1,35 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <demaniacftoxica>데마니아 탁시커</demaniacftoxica>
+      <demaniacftoxica_stt>데마니아 탁시커</demaniacftoxica_stt>
+      <demaniacftoxica_lower>데마니아 탁시커</demaniacftoxica_lower>
+      <demaniacftoxica_ltt>
+         <color r="255" g="248" b="178">
+            <b>데마니아 탁시커</b>
+         </color>
+         <br/>
+        Click to select the Demania Toxica and place it.
+      </demaniacftoxica_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_demaniacftoxica:entry">crab, Demania Toxica</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_demaniacftoxica:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/demaniacftoxica/demaniacftoxica_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> Some tropical crabs or poison crabs are known for their toxicity ; mortal poisonings due to their eating were reported from many different indo pacific regions, including Vanuatu.
+The more frequent incriminated species belong, for most of them, to the big family of the Xanthidae, wich lived in coral recifs. However, other families are also reported (Majidae, Portunidae) and the list is growing every year, with approximately 80 species registered at this time.
+The Paralytic Shellfish Poisoning or PSP, appears within 30 minutes following consumption. The poison attacks the nervous system and death may occur within a few hours by paralysis of the breathing muscles.
+The liable toxins, first isolated from the crabs meat are molecules of the saxitonine family. This is the strongest neurotoxin known, similar to cyanide in that it stops the nervous message progression, but it is one thousand times more powerful than cyanide. These thermically stable toxins are synthetised by marine and fresh water mirco algae and incorporated intothe food chain, probably accumulating in the fish and mollusc meat, which are subsequently eaten by the crabs.
+Micro-algal proliferation varies between regions and seasons, resulting in some crabs that are considered toxic in some areas and therefore not consumed, being edible elsewhere.
+<p/> 
+<p/> Made by Dennis1991.</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,35 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <kar>잉어</kar>
+      <kar_stt>잉어</kar_stt>
+      <kar_lower>잉어</kar_lower>
+      <kar_ltt>
+         <color r="255" g="248" b="178">
+            <b>잉어</b>
+         </color>
+         <br/>
+        Click to select and place the European carp.
+      </kar_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_kar:entry">Carp, European</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kar:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/kar/kar_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Common carp or European carp (Cyprinus carpio) is a widespread freshwater fish related to the common goldfish (Carassius auratus), with which it is capable of interbreeding. It gives its name to the carp family Cyprinidae. Common carp are native to Asia and Eastern Europe. It has been introduced into environments worldwide. It can grow to a maximum length of 5 feet (1.5 meters), a maximum weight of over 80lb (37.3 kg), and an oldest recorded age of at least 65 years.
+
+
+
+<p/>
+Information from: http://en.wikipedia.org/wiki/Common_carp!
+<p/> Made by: Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

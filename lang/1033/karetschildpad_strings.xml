@@ -1,0 +1,141 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <karetschildpad>매부리바다거북</karetschildpad>
+      <karetschildpad_stt>매부리바다거북</karetschildpad_stt>
+      <karetschildpad_lower>매부리바다거북</karetschildpad_lower>
+      <karetschildpad_ltt>
+         <color r="255" g="248" b="178">
+            <b>매부리바다거북</b>
+         </color>
+         <br/>
+         Click to select and then place the Hawksbill Turtle
+      </karetschildpad_ltt>
+<!--egg names-->
+      <karetschildpad_Egg>매부리바다거북 알</karetschildpad_Egg>
+      <karetschildpad_Egg_stt>매부리바다거북 알</karetschildpad_Egg_stt>
+      <karetschildpad_Egg_lower>매부리바다거북 알</karetschildpad_Egg_lower>
+      <karetschildpad_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>매부리바다거북 알</b>
+         </color>
+         <br/>
+         Click on this icon to place the Hawksbill Turtle Egg
+       </karetschildpad_Egg_ltt>
+      <!--gift names-->
+      <karetschildpad_Gift>매부리바다거북 알</karetschildpad_Gift>
+      <karetschildpad_Gift_stt>매부리바다거북 알</karetschildpad_Gift_stt>
+      <karetschildpad_Gift_lower>매부리바다거북 알</karetschildpad_Gift_lower>
+      <karetschildpad_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>매부리바다거북 알</b>
+         </color>
+         <br/>Guests who enjoy watching the Hawksbill Turtle will enjoy buying this souvenir.
+      </karetschildpad_Gift_ltt>
+</entityname>
+<zoopedia_karetschildpad>
+ <entry>Turtle, Hawksbill</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/karetschildpad/karetschildpad_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Threatened
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Worldwide<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptilia <i>(Reptilia)</i><br/>Order: Testudines <i>(Cheloniidae)</i><br/>Family: Cheloniidae <i>(Cheloniidae)</i><br/>Genus: <i>Eretmochelys</i><br/>Species: <i>E. imbricata</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Hawksbill Turtle Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Although the Hawksbill Turtles seem innocent whle swimming, you should avoid touching them as they typically only come to land when they are sick or dying.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Because of human fishing practices, Eretmochelys imbricata populations around the world are threatened with extinction and the turtle has been classified as critically endangered by the World Conservation Union.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Adult hawksbill turtles have been known to grow up to a meter in length, weighing around 80 kilograms on average. The heaviest hawksbill ever captured was measured to be 127 kilograms.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178"> The Hawksbill Turtle is available in Campaign or Challenge mode once your zoo reaches a fame rating of 1/2 star.
+   </color>
+   <p/>The hawksbill turtle (Eretmochelys imbricata) is a critically endangered sea turtle belonging to the family Cheloniidae. It is the only species in its genus. The species itself has a worldwide distribution, but the Atlantic and Pacific populations are divided into two subspecies. Eretmochelys imbricata imbricata is the subspecies that includes the Atlantic hawksbill turtle populations and the subspecies Eretmochelys imbricata bissa refers to the collective population of hawksbill turtles found in the Pacific Ocean.
+
+<p/>The hawksbill's appearance is similar to that of other marine turtles. It has a generally flattened body shape, a protective carapace, and its flipper-like arms are adapted for swimming in the open ocean. E. imbricata is easily distinguished from other sea turtles by its sharp, curving beak and the saw-like appearance of its shell margins. While the turtle lives a part of its life in the open ocean, it is most often encountered in shallow lagoons and coral reefs where it feeds on its chosen prey, sea sponges. Some of the sponges eaten by E. imbricata are known to be highly toxic and lethal when eaten by other organisms. In addition, the sponges that hawksbills eat are usually those with high silica content, making the turtles one of few animals capable of eating siliceous organisms. They also feed on other invertebrates, such as comb jellies and jellyfish.
+
+<p/>Because of human fishing practices, Eretmochelys imbricata populations around the world are threatened with extinction and the turtle has been classified as critically endangered by the World Conservation Union. Several countries, such as China and Japan, have valued hunting hawksbill turtles for their flesh, which is considered good eating. Hawksbill turtle shells, the primary source of tortoise shell, is used for decorative purposes. Due to the Convention on International Trade in Endangered Species, capture of and trade in hawksbill turtles and products derived from them is illegal in many nations
+
+ </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informatie van: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Karetschildpad <p/> Coded and Skinned by Dennis1991!; English Zoopedia translation by Nique</color> 
+  </cell>
+ </text>
+</zoopedia_karetschildpad>
+</ZT2Strings>

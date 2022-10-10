@@ -1,6 +1,6 @@
 <ZT2Strings>
       <LOC_STRING _locID="loadstatus:format"  >
-         <font name="휴먼모음T" size="14">%text%</font>
+         <font name="굴림" size="14">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="loadstatus:entities"  >개체 불러오는 중...</LOC_STRING>
       <LOC_STRING _locID="loadstatus:objects"  >개체 불러오는 중...</LOC_STRING>
@@ -47,7 +47,7 @@
       <LOC_STRING _locID="loadstatus:paintingTerrain"  >지형 생성 중...</LOC_STRING>
       <LOC_STRING _locID="loadstatus:versioningData"  >데이터 전환 중...</LOC_STRING>
       <LOC_STRING _locID="loadstatus_silly:format"  >
-         <font name="휴먼모음T" size="14">%text%</font>
+         <font name="굴림" size="14">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="loadstatus_silly:entities"  >동물원 입장권 인쇄 중...</LOC_STRING>
       <LOC_STRING _locID="loadstatus_silly:objects"  >동물원 안내도 준비 중...</LOC_STRING>

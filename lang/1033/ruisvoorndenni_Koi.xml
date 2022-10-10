@@ -1,0 +1,38 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <ruisvoorndenni_Koi>컨빅트 탱</ruisvoorndenni_Koi>
+      <ruisvoorndenni_Koi_stt>컨빅트 탱</ruisvoorndenni_Koi_stt>
+      <ruisvoorndenni_Koi_lower>컨빅트 탱</ruisvoorndenni_Koi_lower>
+      <ruisvoorndenni_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>컨빅트 탱</b>
+         </color>
+         <br/>
+        Click to select and place the Convict Tang.
+      </ruisvoorndenni_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_ruisvoorndenni_koi:entry">Tang, Convict</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ruisvoorndenni_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/ruisvoorndenni/ruisvoorndenni_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The manini (Acanthurus triostegus) is a small surgeonfish about 5 inches long. It is yellow with black stripes on its side like a zebra. Its resemblance to a prisoner uniform gave it the nicknames of convict surgeonfish and convict tang. Manini is one of the favorite food fishes found everywhere in shallow waters around the islands of Samoa and the Hawaiian islands. Like alogo (Acanthurus lineatus), the manini belong to the family of surgeonfishes, because of their sharp blades by their tail fin. Even though they have this weapon, they do not use it much.
+
+
+
+<p/> Manini often swim in huge schools of thousands. There are two reasons why they have such huge schools. First, It helps them escape predators. When a large fish attacks a school of manini, they scatter like an explosion. This move confuses the predator and the manini get away. Each manini then has another chance at life if they stay with the group. Second, the manini also use their schooling behavior for food. They like to feed on thin algae which is fiercely guarded by alogo and damselfishes. Just the sight of manini get the alogo fired up. A single manini would not even stand a chance against these predators but a group can succeed. When the alogo chases one manini, the rest of them eat the alogo garden of algae.
+
+
+
+<p/>
+Made by Dennis1991!               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,157 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <SealMonk>지중해몽크물범</SealMonk>
+      <SealMonk_stt>지중해몽크물범</SealMonk_stt>
+      <SealMonk_lower>지중해몽크물범</SealMonk_lower>
+      <SealMonk_ltt>
+         <color r="255" g="248" b="178">
+            <b>지중해몽크물범</b>
+         </color>
+         <br/>
+         Click to select and place the Mediterranean Monk Seal.
+      </SealMonk_ltt>
+<!--egg names-->
+      <SealMonk_Egg>지중해몽크물범 알</SealMonk_Egg>
+      <SealMonk_Egg_stt>지중해몽크물범 알</SealMonk_Egg_stt>
+      <SealMonk_Egg_lower>지중해몽크물범 알</SealMonk_Egg_lower>
+      <SealMonk_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>지중해몽크물범 알</b>
+         </color>
+         <br/>
+         Klik op dit icoon om de Mediterranean Monk Seal Ei te selecteren. Beweeg je muis en klik om de Mediterranean Monk Seal Ei te plaatsen.
+       </SealMonk_Egg_ltt>
+      <!--gift names-->
+      <SealMonk_Gift>지중해몽크물범 가방</SealMonk_Gift>
+      <SealMonk_Gift_stt>지중해몽크물범 가방</SealMonk_Gift_stt>
+      <SealMonk_Gift_lower>지중해몽크물범 가방</SealMonk_Gift_lower>
+      <SealMonk_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>지중해몽크물범 가방</b>
+         </color>
+         <br/>Gasten die graag naar de Mediterranean Monk Seal kijken willen maar al te graag dit souvenir kopen.
+      </SealMonk_Gift_ltt>
+</entityname>
+<zoopedia_sealmonk>
+ <entry>Mediterranean Monk Seal</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/SealMonk/SealMonk_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Critical
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mediterranean Sea<br/></color> 
+     <img src="ui/icon_maplocations/coastal_coasts_mediterrane.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Carnivors <i>(Carnivora)</i><br/>Family: Seal <i>(Phocidae)</i><br/>Genus: <i>Monachus</i><br/>Species: <i>Monachus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Mediterranean Monk Seal Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Is believed to be the world rarest pinniped and one of the most endangered mammals of the world.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Damage inflicted upon fishermen nets and rare attacks on off shore fish farms in Turkey and Greece are known to have pushed local people towards hunting the Mediterranean monk seal, but mostly out of revenge rather than population control.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Nowadays its entire population is estimated to be less than 600 individuals scattered throughout a wide distribution range, which qualifies this species as Critically Endangered.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Mediterranean Monk Seal in challenge or campaign games, you must earn a 2 star zoo fame rating for your zoo.
+   </color>
+   <p/> The Mediterranean Monk Seal (Monachus monachus) is believed to be the world rarest pinniped and one of the most endangered mammals of the world.
+ 
+ 
+   <p/> This species of monk seal grows from approximately 80 cm long at birth to an average of 2.40 m in adults. The latter weigh up to 320 kg, the females being slightly smaller than the males. Their fur is black (males) or brown to dark grey (females) with a paler belly which is close to white in males. Pups are mostly born in autumn, entering the water two weeks afterwards, and are weaned at around 18 weeks of age. They are born with black natal fur, often with a white patch beneath. The shape of these patches can be used to identify individuals. Reproductive maturity is reached at around age four, and maximum age is over twenty years. Pregnant Mediterranean Monk Seals typically use inaccessible undersea caves while giving birth, though historical descriptions show that they used open beaches until the eighteenth century.
+
+
+   <p/> The Mediterranean Monk Seals are diurnal and feed on fish and mollusks, primarily octopus, up to 3 kg per day.
+
+
+   <p/> This earless seal former range extended throughout the Mediterranean Sea and Black Sea coasts line and into the Atlantic, as far South as Cape Verde (where it is now extinct) and as far West as the Madeira.
+
+
+   <p/> Several causes have provoked a dramatic population decrease over the time, mostly commercial hunting (especially during the Roman Empire and Middle Age) and, during the 20th century, eradication by fishermen, who used to consider it a pest due to the damages the seal causes to fishing nets when it preys on fishes caught in those, and coastal urbanisation.
+
+
+   <p/> The species has gone extinct in the Sea of Marmara, due to pollution and heavy ship traffic from the Dardanelles and the Bosphorus. In addition, the last report of a seal in Black Sea dates to the late 1990s.
+   <p/> Nowadays its entire population is estimated to be less than 600 individuals scattered throughout a wide distribution range, which qualifies this species as Critically Endangered. Its current very sparse population is one more serious threat to the species, as it only has two key sites which can be deemed viable: the Aegean Sea and, specially, the one in the Western Sahara portion of Cabo Blanco (which may support the small but growing nucleus in the Desertas Islands). These two key sites for the species are virtually in the extreme opposites of its distribution range, which makes natural population interchange impossible.
+
+
+   <p/> In the summer of 1997, two thirds of the largest surviving single population of Mediterranean monk seals (the one in Cabo Blanco) were wiped out within the space of two months, extremely compromising the species, viable population. While opinions on the precise causes of this epidemic remain sharply divided (the most likely cause being either a morbilivirus or a toxic algae bloom) the mass die off emphasised the precarious status of a species already regarded as critically endangered throughout its range. While still far below the beginning of 1997, numbers in this all important location have started a slow paced recovery ever since. Currently the population in this location is estimated at 150 individuals, down from approximately 300 in 1997 but still the largest colony by far. The threat of a similar incident that could wipe out this entire population remains.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color><br/>
+  </cell>
+ </text>
+</zoopedia_sealmonk>
+</ZT2Strings>

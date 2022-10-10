@@ -1,0 +1,133 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <kaphamerhaaibonnetsharks>삽머리 상어</kaphamerhaaibonnetsharks>
+      <kaphamerhaaibonnetsharks_stt>삽머리 상어</kaphamerhaaibonnetsharks_stt>
+      <kaphamerhaaibonnetsharks_lower>삽머리 상어</kaphamerhaaibonnetsharks_lower>
+      <kaphamerhaaibonnetsharks_ltt>
+         <color r="255" g="248" b="178">
+            <b>삽머리 상어</b>
+         </color>
+         <br/>
+         Click to select and place the Bonnethead Shark.
+      </kaphamerhaaibonnetsharks_ltt>
+      <!--gift names-->
+      <kaphamerhaaibonnetsharks_Gift>삽머리 상어 가방</kaphamerhaaibonnetsharks_Gift>
+      <kaphamerhaaibonnetsharks_Gift_stt>삽머리 상어 가방</kaphamerhaaibonnetsharks_Gift_stt>
+      <kaphamerhaaibonnetsharks_Gift_lower>삽머리 상어 가방</kaphamerhaaibonnetsharks_Gift_lower>
+      <kaphamerhaaibonnetsharks_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>삽머리 상어 가방</b>
+         </color>
+         <br/>Guests who like to see the Bonnethead Shark want to buy this souvenir.
+      </kaphamerhaaibonnetsharks_Gift_ltt>
+</entityname>
+<zoopedia_kaphamerhaaibonnetsharks>
+ <entry>Shark, Bonnethead</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/kaphamerhaaibonnetsharks/kaphamerhaaibonnetsharks_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+	<cell width="128">
+     <color r="255" g="255" b="255">Rainforest <br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">South America<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous fishes <i>(Chondricthyes)</i><br/>Order: Ground sharks<i>(Carcharhiniformes)</i><br/>Family: Predator Sharks <i>(Carcharhinidae)</i><br/>Genus: <i>Sphyrna</i><br/>Species: <i>S. tiburo</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Bonnethead Shark</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Bonnethead Shark is of great importance for commercial fishing. This shark is also hunted by fishers.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Bonnethead Shark can reach up to 1.5 m. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It feeds on fish and shellfish. </color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Bonnethead Shark will be available when your zoo has reached 0.5 stars. 
+   </color>
+   <p/> The Bonnethead Shark(Sphyrna tiburo) is a fish from the hammerheads family (Sphyrnidae), order of predator sharks (Carcharhiniformes), that lives in the Pacific and the Atlantic Ocean.
+<p/>The Bonnethead Shark can reach the maximum length of 150 cm. The body has a streched form.
+<p/>The fish has no sideline.
+<p/>The Bonnethead Shark lives in salt and brakish water in a subtropic climate. The depth of the water is about 10 to 80 cm. from the surface.
+<p/>It feeds on fish, buy hunting small fish. (it is a predator fish)
+<p/>The Bonnethead Shark is of great importance for commercial fishing. This shark is also hunted by fishers.
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Kaphamerhaai</color>  Made by Dennis1991!<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_kaphamerhaaibonnetsharks>
+</ZT2Strings>

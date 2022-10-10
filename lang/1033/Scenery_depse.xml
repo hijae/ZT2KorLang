@@ -1,0 +1,35 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Scenery_depse>큰지느러미오징어</Scenery_depse>
+      <Scenery_depse_stt>큰지느러미오징어</Scenery_depse_stt>
+      <Scenery_depse_lower>큰지느러미오징어</Scenery_depse_lower>
+      <Scenery_depse_ltt>
+         <color r="255" g="248" b="178">
+            <b>큰지느러미오징어</b>
+         </color>
+         <br/>
+        Click to select and place the Dana Octopus Squid.
+      </Scenery_depse_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_scenerydepse:entry">Squid, Dana Octopus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenerydepse:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/SceneryFish/Scenery_depse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The Dana Octopus Squid (Taningia danae) is a species of squid in the family Octopoteuthidae. It reaches a mantle length (ML) of 170 cm, and is probably the fifth largest squid after the Colossal Squid (Mesonychoteuthis hamiltoni), giant squid (Architeuthis sp.), Robust Clubhook Squid (Moroteuthis robusta), and Megalocranchia fisheri.
+
+
+
+
+<p/> Made by Dennis1991
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,45 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <seapin_coastal>깃털말미잘</seapin_coastal>
+      <seapin_coastal_stt>깃털말미잘</seapin_coastal_stt>
+      <seapin_coastal_lower>깃털말미잘</seapin_coastal_lower>
+      <seapin_coastal_ltt>
+         <color r="255" g="248" b="178">
+            <b>깃털말미잘</b>
+         </color>
+         <br/>
+        Click to select and place the Frilled Anemone.
+      </seapin_coastal_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_seapin_coastal:entry">Anemone, Frilled</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seapin_coastal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/seapin_coastal/seapin_coastal_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> Description: Reaches a height of 4 cm. column may be white, cream colored, tan, greenish brown, brownish orange or light orange in color. hundreds of small, thin tentacles. tentacles are usually greyish or white. animal discharges long, white strands of stinging cells when it is disturbed.
+
+
+
+<p/> Habitat: Found on floats, pilings, rocks and other solid objects.
+
+
+
+
+<p/> Natural History: Like most anemones, M. senile is carnivorous but feeds primarily on small organisms.
+
+ 
+
+
+
+<p/>Made by Dennis1991
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

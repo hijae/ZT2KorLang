@@ -1,0 +1,46 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <twospotk_Koi>Twinspot Lionfish</twospotk_Koi>
+      <twospotk_Koi_stt>Twinspot Lionfish</twospotk_Koi_stt>
+      <twospotk_Koi_lower>the Twinspot Lionfish</twospotk_Koi_lower>
+      <twospotk_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>Twinspot Lionfish</b>
+         </color>
+         <br/>
+        Click to select and place the Twinspot Lionfish.
+      </twospotk_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_twospotk_koi:entry">Lionfish, Twinspot</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_twospotk_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/twospotk/twospotk_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Fu Manchu Lionfish, also known as the Twinspot Lionfish, or Ocellated Lionfish, has red, white, and black vertical stripes along the body. It has large, fan-like pectoral fins, and tall, quill-like dorsal fins. It is unique from other Lionfish because of the two, feeler-like appendages on the chin.
+
+
+
+<p/> A 30 gallon or larger aquarium with numerous hiding places is suitable. It will hide while acclimating to its new environment. The top spines are venomous, causing reactions similar to a bee sting, only stronger.
+
+
+
+
+<p/> The Fu Manchu Lionfish diet consists of meaty foods such as live shrimp (including ornamental shrimp), live fish, and sometimes, crustacean flesh.
+
+
+
+
+
+<p/>
+Made by Dennis1991!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

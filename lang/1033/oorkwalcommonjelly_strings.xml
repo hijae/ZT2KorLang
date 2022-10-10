@@ -1,0 +1,146 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <oorkwalcommonjelly>보름달 해파리</oorkwalcommonjelly>
+      <oorkwalcommonjelly_stt>보름달 해파리</oorkwalcommonjelly_stt>
+      <oorkwalcommonjelly_lower>보름달 해파리</oorkwalcommonjelly_lower>
+      <oorkwalcommonjelly_ltt>
+         <color r="255" g="248" b="178">
+            <b>보름달 해파리</b>
+         </color>
+         <br/>
+         Click to select and place the Common Jellyfish.
+      </oorkwalcommonjelly_ltt>
+      <!--gift names-->
+      <oorkwalcommonjelly_Gift>보름달 해파리 셔츠</oorkwalcommonjelly_Gift>
+      <oorkwalcommonjelly_Gift_stt>보름달 해파리 셔츠</oorkwalcommonjelly_Gift_stt>
+      <oorkwalcommonjelly_Gift_lower>보름달 해파리 셔츠</oorkwalcommonjelly_Gift_lower>
+      <oorkwalcommonjelly_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>보름달 해파리 셔츠</b>
+         </color>
+         <br/>Guests who like to see the Common Jellyfish want to buy this souvenir.
+      </oorkwalcommonjelly_Gift_ltt>
+<!--egg names-->
+      <oorkwalcommonjelly_Egg>보름달 해파리 폴립</oorkwalcommonjelly_Egg>
+      <oorkwalcommonjelly_Egg_stt>보름달 해파리 폴립</oorkwalcommonjelly_Egg_stt>
+      <oorkwalcommonjelly_Egg_lower>보름달 해파리 폴립</oorkwalcommonjelly_Egg_lower>
+      <oorkwalcommonjelly_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>보름달 해파리 폴립</b>
+         </color>
+         <br/>
+         Click on this icon to select and place the Common Jellyfish polyp.
+       </oorkwalcommonjelly_Egg_ltt>
+</entityname>
+<zoopedia_oorkwalcommonjelly>
+ <entry>Jellyfish, Common</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/oorkwalcommonjelly/oorkwalcommonjelly_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="225" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">World Wide<br/></color> 
+     <img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Jellyfish <i>(Scyphozoa)</i><br/>Order: Large jellyfish <i>(Semaeostomeae)</i><br/>Family: <i>Pelagiidae</i><br/>Genus: <i>Aurelia</i><br/>Species: <i>A. Aurita</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Common Jellyfish</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Everybody knows this species. They wash on shores in big numbers when there is an eastern wind.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">A Common Jellyfish can move itself by drawing his umbrellalike body together, so water can be pushed out. But most of the times the jellyfish drifts with the current.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">His tentacles and moutharms and have cnidocytes, but are ot poisoness to humans. But they are highly fit for catching small fish and crustaceans.
+</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Common Jellyfish will be available when your zoo has reached 2 stars.
+   </color>
+   <p/> Everybody knows this species. They wash on shores in big numbers when there is an eastern wind. Because it has 4 wthite/pinkish ear like rings in its jellylike body, hence the name Common Jellyfish. But it can not hear with them. Those rings are meant for reproduction. His tentacles and moutharms and have cnidocytes, but are ot poisoness to humans. But they are highly fit for catching small fish and crustaceans. The cnidocytes stun the small fish, so the jellyfish can move them with his moutharms to the central opening.
+<p/> A Common Jellyfish can move itself by drawing his umbrellalike body together, so water can be pushed out. But most of the times the jellyfish drifts with the current.
+<p/> The reproduction of Common jellyfish is very complicated. Shortly: after they mate, swimming larves appear. They shall attach themselves, then they look like polyps, After a while there will appear bumps. Whem these bumps will let themsleves go, little jellyfish will appear. Because their bodies exists for 95 percent of water, they will grow extremely fast into adults of 20 cm. When there is an eastern wind they all die, on shores, irritating seaside visitors.
+<p/> Jellyfish are animals who belong to the Cnidaria and the class Scyphozoa. The name jellyfish is sometimes also used for related Hydrozoa and Cubozoa. Almost all jellyfish live in sea, although they do not have a true organstructure, they have special tissue. The adults exists for 95 to 99 percent of water. Every species can be found in every ocean world wide. A couple species lives in fresh water. The most jellyfish are drifters and feed on small fish and zooplankton, which are caught by the tentacles. The jellyfish have an incomplete digestionsystem. which means they have the same opening for food and what needs to come out.
+<p/> Jellyfish have two important bodyshapes during their existence. First the polypstadium and is characterised by the none moving sessile which catch floating food. The second is the jellyfishstadium and is characterised by the round domeshape and hanging tentacles. This shape is known to many people who know jellyfish.
+<p/> The Portugees battleship (Physalia physalis) and the Fresh Water Jellyfish are, despite what many believe, no jellyfish.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://home.wxs.nl/~ronoffer/duiken/html/biologie/zeeland/oorkwal.htm</color> <color r="0" g="0" b="255">Made by Dennis1991! With thanks to IcyTree!</color>
+  </cell>
+ </text>
+</zoopedia_oorkwalcommonjelly>
+</ZT2Strings>

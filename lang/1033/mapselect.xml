@@ -47,12 +47,12 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:play"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             게임하기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:back"  >
-         <font name="휴먼모음T" size="16">
+         <font name="굴림" size="16">
             돌아가기
          </font>
       </LOC_STRING>
@@ -60,12 +60,12 @@
       <LOC_STRING _locID="mapdata:freeformheading"  >자유 게임 모드</LOC_STRING>
       <LOC_STRING _locID="mapdata:campaignheading"  >캠페인 모드</LOC_STRING>
       <LOC_STRING _locID="mapdata:modeheading"  >
-         <font name="휴먼모음T" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:unlimited"  >
-         <font name="휴먼모음T" size="14">현금 무제한</font>
+         <font name="굴림" size="14">현금 무제한</font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:play_button_stt"  >게임하기</LOC_STRING>
       <LOC_STRING _locID="mapdata:play_button_ltt"  >
@@ -82,12 +82,12 @@
          <br>취소하고 주 메뉴로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:posformat"  >
-         <font name="휴먼모음T" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="굴림" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="0" g="255" b="0">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:campaign_name"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">%text%</font>
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:campaign_names"  >
          <font name="굴림" size="12" image="ui\font\color_mainmenu.tga">%text%</font>
@@ -183,19 +183,19 @@
       <LOC_STRING _locID="difficulty:medium"  >보통</LOC_STRING>
       <LOC_STRING _locID="difficulty:hard"  >고급</LOC_STRING>
       <LOC_STRING _locID="globe_label:format"  >
-         <font name="휴먼모음T" size="15" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="15" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                세계 지도
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="map_name_field:format"  >
-         <font name="휴먼모음T" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="map_other_field:format"  >
-         <font name="휴먼모음T" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">%text%</color>
          </font>
       </LOC_STRING>

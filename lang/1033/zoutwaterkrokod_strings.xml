@@ -1,0 +1,165 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <zoutwaterkrokod>Saltwater Crocodile</zoutwaterkrokod>
+      <zoutwaterkrokod_stt>Saltwater Crocodile</zoutwaterkrokod_stt>
+      <zoutwaterkrokod_lower>the Saltwater Crocodile</zoutwaterkrokod_lower>
+      <zoutwaterkrokod_ltt>
+         <color r="255" g="248" b="178">
+            <b>Saltwater Crocodile</b>
+         </color>
+         <br/>
+         Click to select and place the Saltwater Crocodile.
+      </zoutwaterkrokod_ltt>
+      <!--egg names-->
+      <zoutwaterkrokod_Egg>Saltwater Crocodile Egg</zoutwaterkrokod_Egg>
+      <zoutwaterkrokod_Egg_stt>Saltwater Crocodile Egg</zoutwaterkrokod_Egg_stt>
+      <zoutwaterkrokod_Egg_lower>the Saltwater Crocodile Egg</zoutwaterkrokod_Egg_lower>
+      <zoutwaterkrokod_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Saltwater Crocodile Egg</b>
+         </color>
+         <br/>
+         Click on this icon to select and place the Salwater Crocodile Egg.
+       </zoutwaterkrokod_Egg_ltt>
+      <!--gift names-->
+      <zoutwaterkrokod_Gift>Saltwater Crocodile Had</zoutwaterkrokod_Gift>
+      <zoutwaterkrokod_Gift_stt>Saltwater Crocodile Had</zoutwaterkrokod_Gift_stt>
+      <zoutwaterkrokod_Gift_lower>the Saltwater Crocodile Had</zoutwaterkrokod_Gift_lower>
+      <zoutwaterkrokod_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Saltwater Crocodile Had</b>
+         </color>
+         <br/>Gasten die graag naar de Saltwater Crocodile kijken willen maar al te graag dit souvenir kopen.
+      </zoutwaterkrokod_Gift_ltt>
+   </entityname>
+   <zoopedia_zoutwaterkrokod>
+      <entry>Crocodile, Saltwater</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/zoutwaterkrokod/zoutwaterkrokod_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                    Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+                </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Coastal<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Southeast Asia<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Reptiles
+  <i>(Reptilia)</i> 
+  <br /> 
+  Order: Crocs and aligators.
+  <i>(Crocodylia)</i> 
+  <br /> 
+  Family: Crocs
+  <i>(Crocodylidae)</i> 
+  <br /> 
+  Genus: 
+  <i>Crocodylus</i> 
+  <br /> 
+  Species: 
+  <i>porosus</i> 
+   
+</color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Saltwater Crocodile Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">An average adult male saltwater crocodile is typically 15.75 to 16.6 feet (4.8 to 5 meters) long, and weighs roughly 770 kilograms (1,700 pounds). </color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Saltwater crocodiles are severely depleted in numbers through much of their range, with sightings in areas such as Thailand, Cambodia and Vietnam becoming extremely rare and the species may in fact even be extinct in one or more of these countries. </color>
+               </cell>
+               <br/>
+
+                              <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Saltwater crocodiles generally spend the tropical wet season in freshwater swamps and rivers, moving downstream to estuaries in the dry season, and sometimes traveling far out to sea.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Saltwater Crocodile in challenge or campaign games, you must earn a 1 star zoo fame rating for your zoo.</color>
+            <p/>The Saltwater or Estuarine Crocodile (Crocodylus porosus) is the largest of all living crocodilians and reptiles. It is found in suitable habitat throughout Southeast Asia and northern Australia. Saltwater crocodiles are known in the Northern Territory of Australia as salties. The Alligator Rivers are misnamed after the resemblance of the saltie to alligators as compared to freshwater crocodiles, which also inhabit the Northern Territory. 
+    <p/> An average adult male saltwater crocodile is typically 15.75 to 16.6 feet (4.8 to 5 meters) long, and weighs roughly 770 kilograms (1,700 pounds). Females are much smaller than males, with typical female body lengths in the range of 7 to 9 ft (2.1 to 2.7 m).[1] The saltwater crocodile has fewer armor plates on its neck than other crocodilians, and its broad body contrasts with that of most other lean crocodiles, leading to early unverified assumptions that the reptile was an alligator.
+
+
+    <p/> The largest size saltwater crocodiles can reach is the subject of considerable controversy. The longest crocodile ever measured snout to tail was the skin of a deceased crocodile, which was 20.3 ft (6.2 m) long. Since skins tend to shrink slightly after removal from the carcass, this crocodile living length was estimated at 20.6 ft (6.3 m), and it probably weighed well over 1,200 kg (2,600 lbs). Incomplete remains (the skull of a crocodile shot in Orrissa[3]) have been claimed to come from a 25 ft (7.6 m) crocodile, but scholarly examination suggested a length no greater than 23 ft (7 m). The life expectancy of a Saltwater crocodile is approximately 70 years.
+
+
+    <p/> With recent restoration in saltwater crocodile habitat and reduced poaching, it is possible that 23 ft (7 m) or larger crocodiles are alive today. Guinness has accepted a claim of a 23 ft (7 m) male Saltwater Crocodile living within Bhitarkanika Park in the state of Orissa, India, although no verified measurements have been made.
+
+
+    <p/> A crocodile shot in Queensland in 1957 was reported to be 26 ft (8 m) long, but no verified measurements were made and no remains of this crocodile exist. A replica of this crocodile has been made as a tourist attraction. Many other unconfirmed reports of 26+ ft (8+ m) crocodiles have been made but these are highly suspect.
+
+
+
+
+
+
+        </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"> <u><color r="255" g="231" b="135"> Made by Dennis1991</color></u>
+         </cell>
+      </text>
+   </zoopedia_zoutwaterkrokod>
+</ZT2Strings>

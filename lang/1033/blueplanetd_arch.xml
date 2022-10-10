@@ -1,0 +1,45 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <blueplanetd_arch>푸른 행성 아치형 입구</blueplanetd_arch>
+      <blueplanetd_arch_stt>푸른 행성 아치형 입구</blueplanetd_arch_stt>
+      <blueplanetd_arch_lower>푸른 행성 아치형 입구</blueplanetd_arch_lower>
+      <blueplanetd_arch_ltt>
+         <color r="255" g="248" b="178">
+            <b>푸른 행성 아치형 입구</b>
+         </color>
+         <br/>
+        Click to select and place the Blue Planet Arch.
+      </blueplanetd_arch_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_blueplanetd_arch:entry">Arch, Blue Planet</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_blueplanetd_arch:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/blueplanetd_arch/blueplanetd_arch_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  Blue Planet Arch       
+            
+            
+         
+                  
+                  <p/>
+                  
+                  The Guests will love the Blue Planet Arch and maybe you to.
+               
+                  
+                  <p/>
+                  
+                  Gemaakt door Dennis1991!
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

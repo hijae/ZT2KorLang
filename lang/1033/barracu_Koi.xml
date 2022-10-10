@@ -1,0 +1,46 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <barracu_Koi>큰꼬치고기</barracu_Koi>
+      <barracu_Koi_stt>큰꼬치고기</barracu_Koi_stt>
+      <barracu_Koi_lower>큰꼬치고기</barracu_Koi_lower>
+      <barracu_Koi_ltt>
+         <color r="255" g="248" b="178">
+            <b>큰꼬치고기</b>
+         </color>
+         <br/>
+        Click to select and place the Great Barracuda.
+      </barracu_Koi_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_barracu_koi:entry">Barracuda, Great</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_barracu_koi:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/animals/barracu/barracu_Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> The Great Barracuda is a species of barracuda. Its binomial name is Sphyraena barracuda. Great barracudas often grow over 6ft long. The great barracuda is a type of ray finned fish.
+
+
+
+
+<p/> Barracudas are elongated fish with powerful jaws. The lower jaw of the large mouth juts out beyond the upper. Barracudas possess strong, fang like teeth. These are unequal in size and set in sockets in the jaws on the roof of the mouth. The head is quite large and is pointed and pike like in appearance. The gill covers do not have spines and are covered with small scales. The two dorsal fins are widely separated, with the first having five spines and the second having one spine and nine soft rays. The second dorsal fin equals the anal fin in size and is situated more or less above it. The lateral line is prominent and extends straight from head to tail. The spinous dorsal fin is placed above the pelvics. The hind end of the caudal fin is forked or concave. It is set at the end of a stout peduncle. The pectoral fins are placed low down on the sides. The barracuda swim bladder is large.
+
+
+<p/> In general, the barracudas coloration is dark green or grey above chalky white below. This varies somewhat. Sometimes there is a row of darker cross bars or black spots on each side. The fins may be yellowish or dusky.
+
+
+<p/> Barracudas appear in open seas. They are voracious predators and hunt using a classic example of lie in wait or ambush. They rely on surprise and short bursts of speed (up to 27mph (43 km/h)) to overrun their prey, sacrificing maneuverability. Barracudas are more or less solitary in their habits. Young and half grown fish frequently congregate in shoals. Their food is composed almost totally of fishes of all kinds. Large barracudas, when gorged, may attempt to herd a shoal of prey fish in shallow water, where they guard over them until they are ready for another meal.
+
+
+
+<p/>
+Made by Dennis1991
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

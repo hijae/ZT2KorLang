@@ -1,0 +1,144 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <koperhaaibluep>무태상어</koperhaaibluep>
+      <koperhaaibluep_stt>무태상어</koperhaaibluep_stt>
+      <koperhaaibluep_lower>무태상어</koperhaaibluep_lower>
+      <koperhaaibluep_ltt>
+         <color r="255" g="248" b="178">
+            <b>무태상어</b>
+         </color>
+         <br/>
+         Click to select and place the Bronze whaler.
+      </koperhaaibluep_ltt>
+      <!--gift names-->
+      <koperhaaibluep_Gift>무태상어 가방</koperhaaibluep_Gift>
+      <koperhaaibluep_Gift_stt>무태상어 가방</koperhaaibluep_Gift_stt>
+      <koperhaaibluep_Gift_lower>무태상어 가방</koperhaaibluep_Gift_lower>
+      <koperhaaibluep_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>무태상어 가방</b>
+         </color>
+         <br/>Gasten die graag naar de Bronze Whaler kijken willen maar al te graag dit souvenir kopen.
+      </koperhaaibluep_Gift_ltt>
+</entityname>
+<zoopedia_koperhaaibluep>
+ <entry>Bronze whaler</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/koperhaaibluep/koperhaaibluep_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Kust<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantische Oceaan<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>Chondricthyes</i><br/>Order: <i>Carcharhiniformes</i><br/>Family: <i>Carcharhinidae</i><br/>Genus: <i>Carcharhinus</i><br/>Species: <i>brachyurus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Bronze Whaler Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is often confused with the dusky shark.
+
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Reproduction is viviparous and the female will deliver between seven and twenty live pups. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Males live for up to thirty years, and females for up to twenty five. 
+</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Bronze Whaler will be available when your zoo has reached 4.5 stars. 
+   </color>
+   <p/> The copper shark, bronze whaler, or narrowtooth shark, Carcharhinus brachyurus, is a large shark of the Carcharhinidae family, found in subtropical seas and oceans worldwide, except the eastern coast of North America and the northern Indian Ocean. Their length is up to about 3.5 metres and they can weigh up to 300 kilogrammes.
+
+
+<p/> The bronze whaler (its most common name) has a blunt broad snout, narrow bent cusps on the upper teeth, and no interdorsal ridge. They are gray to bronze in color on the back, and white below. The fins are similarly coloured except the pelvic fins, which have dusky tips, and the pectoral fins, which have dusky to black tips.
+
+
+<p/> Bronze whalers are often seen close inshore feeding on schooling fish, such as salmon, frequently within the surf zone but they are also found around offshore islands near deep water where they prey on squid as well as pelagic and bottom dwelling fish.
+
+
+<p/> Reproduction is viviparous and the female will deliver between seven and twenty live pups. Males live for up to thirty years, and females for up to twenty five. It can be dangerous to spearfishers with recently speared fish, and also towards surfers as its prey is often found in the surf. The bronze whaler is a large and aggressive shark that should be considered very dangerous - it has attacked people, notably along the eastern coast of Australia, but it has not been confirmed in any fatal attacks on humans. It is often confused with the dusky shark.
+
+
+
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color><color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_koperhaaibluep>
+</ZT2Strings>

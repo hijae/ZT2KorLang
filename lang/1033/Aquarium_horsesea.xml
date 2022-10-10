@@ -1,0 +1,29 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Aquarium_horsesea>얼룩말해마</Aquarium_horsesea>
+      <Aquarium_horsesea_stt>얼룩말해마</Aquarium_horsesea_stt>
+      <Aquarium_horsesea_lower>얼룩말해마</Aquarium_horsesea_lower>
+      <Aquarium_horsesea_ltt>
+         <color r="255" g="248" b="178">
+            <b>얼룩말해마</b>
+         </color>
+         <br/>
+        Click to select and place the Zebra Seahorse.
+      </Aquarium_horsesea_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_Aquarium_horsesea:entry">Seahorse, Zebra</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_Aquarium_horsesea:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/scenery/Aquarium_horsesea_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

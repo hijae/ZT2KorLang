@@ -1,0 +1,151 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <blauwehaarkwalblue>파랑해파리</blauwehaarkwalblue>
+      <blauwehaarkwalblue_stt>파랑해파리</blauwehaarkwalblue_stt>
+      <blauwehaarkwalblue_lower>파랑해파리</blauwehaarkwalblue_lower>
+      <blauwehaarkwalblue_ltt>
+         <color r="255" g="248" b="178">
+            <b>파랑해파리</b>
+         </color>
+         <br/>
+         Click to select and place the Blue jellyfish .
+      </blauwehaarkwalblue_ltt>
+      <!--gift names-->
+      <blauwehaarkwalblue_Gift>파랑해파리 셔츠</blauwehaarkwalblue_Gift>
+      <blauwehaarkwalblue_Gift_stt>파랑해파리 셔츠</blauwehaarkwalblue_Gift_stt>
+      <blauwehaarkwalblue_Gift_lower>파랑해파리 셔츠</blauwehaarkwalblue_Gift_lower>
+      <blauwehaarkwalblue_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>파랑해파리 셔츠</b>
+         </color>
+         <br/>Guests how like to see the Blue jellyfish will buy this souvenir.
+      </blauwehaarkwalblue_Gift_ltt>
+<!--egg names-->
+      <blauwehaarkwalblue_Egg>파랑해파리 폴립</blauwehaarkwalblue_Egg>
+      <blauwehaarkwalblue_Egg_stt>파랑해파리 폴립</blauwehaarkwalblue_Egg_stt>
+      <blauwehaarkwalblue_Egg_lower>파랑해파리 폴립</blauwehaarkwalblue_Egg_lower>
+      <blauwehaarkwalblue_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>파랑해파리 폴립</b>
+         </color>
+         <br/>
+         Click on this icon the select and place the Blue jellyfish polip.
+       </blauwehaarkwalblue_Egg_ltt>
+</entityname>
+<zoopedia_blauwehaarkwalblue>
+ <entry>Jellyfish, Blue</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/blauwehaarkwalblue/blauwehaarkwalblue_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="225" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Atlantic Ocean<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Jellyfish <i>(Scyphozoa)</i><br/>Order: <i>(Semaeostomae)</i><br/>Family: <i>Cyaneidae</i><br/>Genus: <i>Cyanea</i><br/>Species: <i>Lamarckii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Blue jellyfish Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Cyanea lamarckii occurs in coastal waters all around the British Isles.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The bell can grow up to 30 cm in diameter.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Hollow marginal tentacles arise from the underneath the bell.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Blue jellyfish in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
+   </color>
+   
+
+<p/> Cyanea lamarckii occurs in coastal waters all around the British Isles. It has been recorded from the Shetland Islands, the Orkneys, along the east coast of England, Dartmouth in the south and up through the west coasts of England and Wales. 
+
+
+
+<p/> The bell can grow up to 30 cm in diameter. Hollow marginal tentacles arise from the underneath the bell. These are arranged in eight horseshoe or rectangular shaped groups each with 40 to 60 tentacles. Beneath the bell is a short thick manubrium merging onto four wide membranous and folded curtain like oral lips. The oral lips may be yellowish and fade to white at their extremities. It has thick and frilly oral arms that are slightly shorter than the diameter of the bell. The sense organs in the bell are protected by a long exumbrellar extension which forms a hood. Its colour varies from translucent through pale yellow, pale brown, pale grey to light blue or purple. In faintly coloured species the blue tends to outline the pattern of the internal sculpting of the bell (Russell, 1970). It has four interradial folded gonads that hang freely downwards beneath the bell surface.
+
+
+
+
+
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Dennis1991</color> <color r="0" g="0" b="255"></color>
+  </cell>
+ </text>
+</zoopedia_blauwehaarkwalblue>
+</ZT2Strings>

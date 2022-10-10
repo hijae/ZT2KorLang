@@ -1,6 +1,6 @@
 <ZT2Strings>
       <LOC_STRING _locID="confirm:cancel_dl_button_label"  >
-         <font name="휴먼모음T" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="굴림" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br/>

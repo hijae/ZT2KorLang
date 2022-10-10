@@ -1,0 +1,154 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <cymbospondylu>심보스폰딜루스</cymbospondylu>
+      <cymbospondylu_stt>심보스폰딜루스</cymbospondylu_stt>
+      <cymbospondylu_lower>심보스폰딜루스</cymbospondylu_lower>
+      <cymbospondylu_ltt>
+         <color r="255" g="248" b="178">
+            <b>심보스폰딜루스</b>
+         </color>
+         <br/>
+         Click to select and then place an Cymbospondylus, a marine lizard.
+      </cymbospondylu_ltt>
+      <!--gift names-->
+      <cymbospondylu_Gift>심보스폰딜루스 셔츠</cymbospondylu_Gift>
+      <cymbospondylu_Gift_stt>심보스폰딜루스 셔츠</cymbospondylu_Gift_stt>
+      <cymbospondylu_Gift_lower>심보스폰딜루스 셔츠</cymbospondylu_Gift_lower>
+      <cymbospondylu_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>심보스폰딜루스 셔츠</b>
+         </color>
+         <br/>Guests who enjoy watching the cymbospondylu will buy this gift.
+      </cymbospondylu_Gift_ltt>
+   </entityname>
+   
+   <!--zoopedia entries-->
+   <zoopedia_cymbospondylu version="2">
+      <entry>Cymbospondylus</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/cymbospondylu/cymbospondylu_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pelagic<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Global Warm Oceans<br/></color>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Class: <i>Sauropsida</i><br/>Order: <i>Ichthyosauria</i><br/>Family: <i>Ichthyosauridae</i><br/>Genus: <i>Cymbospondylus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cymbospondylus Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">like resemblance have led to speculation as to whether Cymbospondylus was a true Ichthyosaur.
+
+</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The eel-like tail of Cymbospondylus made up almost half the total body length.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Like present day sea snakes, Cymbospondylus probably swam by wriggling its body from side to side.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Cymbospondylus fossils have been found in both Germany and Nevada, and the first species was named by Joseph Leidy in 1868.
+
+</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">To unlock the cymbospondylu in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+         <p/>Cymbospondylus was a primitive early Ichthyosaur that lived in the middle of the Triassic period (220 million years ago). Despite its primitive nature, it was also one of the largest Ichthyosaurs, and fossils range from 6 m (18 ft) up to 10 m (30 ft) long. It was one of the least fish like of the Ichthyosaurs, lacking a dorsal fin and fluked tail. It did, however, have an elongated snout like other Ichthyosaurs, although still classified as an Ichthyosaur of the primitive shastasaurid group, its eel like resemblance have led to speculation as to whether Cymbospondylus was a true Ichthyosaur.
+         <p/>The eel like tail of Cymbospondylus made up almost half the total body length, and it is possible that the tail was used as a primary swimming mechanism. Like present day sea snakes, Cymbospondylus probably swam by wriggling its body from side to side. The paddle like limbs Cymbospondylus had were serving use primarily as underwater stabilizers and slowing down the Ichthyosaurs swimming speed.
+
+
+
+         <p/>Cymbospondylus fossils have been found in both Germany and Nevada, and the first species was named by Joseph Leidy in 1868.
+
+
+
+
+
+
+
+
+
+
+
+
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Made by <u><color r="255" g="231" b="135">Dennis1991</color></u>.
+         <br/>With Great Thanks To <u><color r="255" g="231" b="135">Papa Panda</color></u>.
+         </cell>
+      </text>
+   </zoopedia_cymbospondylu>
+</ZT2Strings>

@@ -1,0 +1,37 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <reuzenvallis>발리스네리아 기간티아</reuzenvallis>
+      <reuzenvallis_stt>발리스네리아 기간티아</reuzenvallis_stt>
+      <reuzenvallis_lower>발리스네리아 기간티아</reuzenvallis_lower>
+      <reuzenvallis_ltt>
+         <color r="255" g="248" b="178">
+            <b>발리스네리아 기간티아</b>
+         </color>
+         <br/>
+        Klik om de Vallisneria Gigantea te plaatsen.
+      </reuzenvallis_ltt>
+   </entityname>
+      <LOC_STRING _locID="zoopedia_reuzenvallis:entry">Vallisneria Gigantea</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reuzenvallis:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/foliage/reuzenvallis/reuzenvallis_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/> Vallisneria gigantea is one of the biggest, commonly grow aquatic plants. As the others Vallisneria is really modest to water parameters and nutrients and without some problems, it is growing even there, where the other aquatic plants starts stagnate because of poor levels of nutrients in gravel or water.
+
+
+
+<p/> Made by Dennis1991
+
+
+ <br/>
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

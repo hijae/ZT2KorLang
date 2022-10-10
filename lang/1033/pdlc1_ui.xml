@@ -20,12 +20,12 @@
             자세한 내용은 도움말/정보에 명시되어 있습니다.
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="mainmenu:pdlc1_installed_stt"  >공룡팩 설치 완료</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:pdlc1_installed_stt"  >Dino Danger 설치 완료</LOC_STRING>
       <LOC_STRING _locID="mainmenu:pdlc1_installed_ltt"  >
          <color r="255" g="248" b="178">
-            <b>공룡팩 설치 완료</b>
+            <b>Dino Danger 설치 완료</b>
          </color>
-         <br>공룡팩이 설치되었습니다. </br>
+         <br>Dino Danger 확장팩이 설치되었습니다. </br>
       </LOC_STRING>
   
 </ZT2Strings>

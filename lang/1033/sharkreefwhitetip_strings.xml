@@ -1,0 +1,133 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <sharkreefwhitetip>백기흉상어</sharkreefwhitetip>
+      <sharkreefwhitetip_stt>백기흉상어</sharkreefwhitetip_stt>
+      <sharkreefwhitetip_lower>백기흉상어</sharkreefwhitetip_lower>
+      <sharkreefwhitetip_ltt>
+         <color r="255" g="248" b="178">
+            <b>백기흉상어</b>
+         </color>
+         <br/>
+         Click to select and place the Whitetip reef shark.
+      </sharkreefwhitetip_ltt>
+      <!--gift names-->
+      <sharkreefwhitetip_Gift>백기흉상어 가방</sharkreefwhitetip_Gift>
+      <sharkreefwhitetip_Gift_stt>백기흉상어 가방</sharkreefwhitetip_Gift_stt>
+      <sharkreefwhitetip_Gift_lower>백기흉상어 가방</sharkreefwhitetip_Gift_lower>
+      <sharkreefwhitetip_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>백기흉상어 가방</b>
+         </color>
+         <br/>Guests who like to see the Whitetip reef shark want to buy this souvenir.
+      </sharkreefwhitetip_Gift_ltt>
+</entityname>
+<zoopedia_sharkreefwhitetip>
+ <entry>Shark, Whitetip reef</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/sharkreefwhitetip/sharkreefwhitetip_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Pacific and Indian Ocean<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous fishes <i>(Chondricthyes)</i><br/>Order: Ground sharks<i>(Carcharhiniformes)</i><br/>Family: Predator Sharks<i>(Carcharhinidae)</i><br/>Genus: <i>Triaenodon</i><br/>Species: <i>T. obesus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Whitetip reef shark</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Whitetip reef shark is not that important for commercial fishing, but it is for fun fishers.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Whitetip reef shark is dangerous to humans: it can hurt humans.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">During the day it rests on sandy grounds of the reefs or in caves, where they gather. </color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    In Challenge and Campaign mode the Whitetip reef shark will be available when your zoo has reached 0.5 stars. 
+   </color>
+   <p/> The Whitetip reef shark (Triaenodon obesus) is a fish from the family of predator fish (Carcharhinidae), order ground sharks (Carcharhiniformes), that lives in the Pacific and Indian Ocean.
+<p/> The Whitetip reef shark can reach a length of 213 cm. and live for about 25 years. It has a streched form. The mouth is at the bottom of its head. It has no sideline, but it has 2 dorsal fins and no bottom fin. The point of the first dorsal fin and the caudal fin are white. The shark swims woth snake movements trough the water.
+<p/> The Whitetip reef shark is a salt water fish that lives in a tropical climate. This species can be found in seas, caves, waters with hard ground and coral reefs. The depth is about 1 to 330 m. under the surface. The shark hunts during the night. With its lean and snake like body, it can go into narrow spaces to find its prey. During the day it rests on sandy grounds of the reefs or in caves, where they gather.
+<p/> It feeds on fish, by hunting small fish (it is a predator fish)
+<p/>The Whitetip reef shark is not that important for commercial fishing, but it is for fun fishers. It can be seen in some aquaria. Ususally its a shy shark and is not interested in humans. But the Whitetip reef shark is dangerous to humans: it can hurt humans.
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from: <color r="255" g="231" b="135">http://nl.wikipedia.org/wiki/Witpuntrifhaai</color>  Made by Dennis1991! <color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_sharkreefwhitetip>
+</ZT2Strings>

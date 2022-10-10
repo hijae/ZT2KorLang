@@ -1,0 +1,153 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <zandhagedis>Sand Lizard</zandhagedis>
+      <zandhagedis_stt>Sand Lizard</zandhagedis_stt>
+      <zandhagedis_lower>The Sand Lizard</zandhagedis_lower>
+      <zandhagedis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sand Lizard</b>
+         </color>
+         <br/>
+         Click to select and place the Sand Lizard.
+      </zandhagedis_ltt>
+   </entityname>
+   <zoopedia_zandhagedis>
+      <entry>Lizard, Sand</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/zandhagedis/zandhagedis_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="155" b="0">
+Low Risk.
+                        </color>
+                     </color>                  
+                  </cell>
+                </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Coastal<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">European Coasts<br/></color>
+                  <img src="ui/icon_maplocations/Temperateforest_Europe.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Reptiles 
+                  <i>( Reptilia )</i>
+                  <br/>
+                  Order: Lizards. 
+                  <i>( Sauria )</i>
+                  <br/>
+                  Family: Wall lizards 
+                  <i>( Lacertidae )</i>
+                  <br/>
+                  Genus: <i>Lacerta</i>
+                  <br/>
+                  Species:<i>L. agilis</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Sand Lizard.</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In The Netherlands the Sand Lizard is found on the Veluwe, but due to forrestmanagement they are in danger.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Utrecht (Province in the Netherlands) this species is really in danger, butthey are trying to get this species back in the Gooi (a place in Utrecht).</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Enemies of the Sand Lizard are snakes, predator mammals like cats, foxes and birds like Pheasants, crows and goose.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255"> The lenght including the tale is 16 to 20 cm., some can be a little longer.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Did you know that the Sand Lizard is made by Dennis1991?</color>
+               </cell>
+               <br/>
+               </cell>
+            </cell>
+         
+         <cell width="340">
+           <p/> The Sand Lizard, also known as dune lizard, (Lacerta agilis) is a lizrad from the family of wall lizards (Lacertidae).
+<p/> The lenght including the tale is 16 to 20 cm., some can be a little longer. The lizard has a small head and a blunt snout. The female has a dark brown side with a row of light, dark circled spots and a light brown back. Males have a green to dark green side and belly. When it is breeding season, the side and belly of the male will turn yellow green to bright green and on the sides of the back are mostly a row of yellow spots to the end of the tale. When it is not breeding season, males and females are more difficult to sepeate from each other. Males have a finer drawing and a bigger head.
+<p/> There are many subspecies that look slightly different, the variety erythronota has bright red on the upperside of the back when it is breeding season. The subspecies usually are distinguished by a different structure of scales or a different drawing or living area.
+<p/> This species that is not easy to distinguish from the finer build Viviparous lizard. Youngsters of the Viviparous lizard have a black tale and have no drawing on the side/ The head of the Viviparous lizard is more flattened. Often the Sand Lizard is identified for the Viviparous lizard.
+<p/> The Sand Lizard is a lizard that lives on the ground, but is also a climber. This in 1758 by Linnaeus discovered species is one of the first discribed lizards. The Sand Lizard lives in Europe, but not in northern Scandinavia, Ireland, Spain and Portugal and Italy. In Italy some small populations are found, but they are placed there.
+<p/> Their habitat is open areas with low vegetation, mostly sandy and sunny places like open areas in forrests and meadows. Also human made dykes are good places for the Sand lizard, because of their vegetation and height. The ideal biome is a rough old meadow with height difference. This is a good protection from predators and wind. Protection from the wind is very important for their thermoregulation.
+<p/> In the Netherlands the Sand lizard can be found in the Veluwe, but due to forrestmanagement they are in danger. In Utrecht (Province in the Netherlands) this species is really in danger, butthey are trying to get this species back in the Gooi (a place in Utrecht). In the dune area the lizards have a good life, posssibly due to the high temperatures lately. There are other main points of the distributed places (see map) To make protect the Sand lizard and other reptiles there is a specific wildlifemanagement.
+<p/> If we go further south, the Sand lizard can be found much higher. As well as in lowlands as in mountain areas up to 3500 m. this species can be found there. At night and with cold or moisty wheter, the Sand Lizard stays in its shelter, like a hole, under rocks, between rocks etc. The Sand lizard is only active when it is sunny wheter, then it is very hungry and hunts every thing that moves and can fit in its mouth. It feeds on insects and other small invertebrates. When the temperature rises to much the lizard goes back into its shelter.
+<p/> The Sand Lizard sometimes is found in huge groups, but it is a solitary species and lives in its own territory, where it protects its shelter.
+Enemies of the Sand Lizard are snakes, predator mammals like cats, foxes and birds like Pheasants, crows and goose. But also bigger lizards like the Pearllizard, eats smaller lizards, but does not live in the Netherlands or Belgium. The lizard is not commen in teh Benelux and is protected by CITES.
+<p/> In the Netherlands lives also the Viviparous lizard. It prefers moist wheter and a low temperature. In areas where both species live, they are rarely seen together, probably because the Sand Lizard eats the youngsters of the Viviparous lizard. Due to dehydration and the lost of their habitat the Viviparous lizard is in serious danger, but the Sand lizard is stable.
+<p/> At the end of the winter the Sand lizard wakes up from their hibernation the males have after two moults their base colours. They defent their territory against other male lizards. They are lustful when it comes to the females. When a female is not ready to reproduce, she must fight the male off of her. Even if they are mating, the female is ready to fight and sometimes it looks that way. The male bites the female on her side and turns his body so that both cloacas come in contact with each other. Because the lizard has a dubble penis, it can contact both sides, Their tales are always in the way. The mating lasts for a couple of minutes and several attempts are done.
+<p/> During the breeding season, from April till May, many males are seen looking for females. The females is likely to be seen from the end of May till June, when she is looking for the right place to lay her 5 to 15 eggs. The eggs are buries in a shallow hole in sandy and sunny places. The development of teh eggs depends on the temperature, when it is 21 to 24 degrees Celsius, the eggs will come out after two months, when the temperature is lower, it can take up to three months. The youngsters are 5 to 6 cm. including tale and are directly independent.
+
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Information from: http://nl.wikipedia.org/wiki/zandhagedis.  <color r="255" g="231" b="135"><b>Made by Dennis1991!</b></color>
+         </cell>
+      </text>
+   </zoopedia_zandhagedis>
+</ZT2Strings>
