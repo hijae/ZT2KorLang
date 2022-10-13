@@ -10,7 +10,7 @@
             <b>먹이주기 금지 경고판</b>
          </color>
          <br/>
-        Click to select and place the No Feeding Warning.
+        먹이주기 금지 경고판을 설치합니다.
       </warningnof_ltt>
    </entityname>
       <LOC_STRING _locID="zoopedia_warningnof:entry">No Feeding Warning</LOC_STRING>

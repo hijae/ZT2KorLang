@@ -1167,237 +1167,237 @@
          <br/>
          Click to select and then place a pteranodon statue. Guests appreciate the beauty of a well-placed statue, especially one they helped create.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:SizeMural"  >Size Comparison Mural</LOC_STRING>
-      <LOC_STRING _locID="entityname:SizeMural_stt"  >Size comparison mural</LOC_STRING>
-      <LOC_STRING _locID="entityname:SizeMural_lower"  >the size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural"  >크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_stt"  >크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_lower"  >크기 비교 벽화</LOC_STRING>
       <LOC_STRING _locID="entityname:SizeMural_ltt"  >
          <color r="255" g="248" b="178">
-            Size Comparison Mural
+            크기 비교 벽화
          </color>
          <br/>
          
          Click to select and then place the size comparison mural.  Guests are amused and educated by comparing their size to the size of these extinct animals.
 
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomlarge_xt"  >Family Restroom</LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomlarge_xt_stt"  >Family restroom</LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomlarge_xt_lower"  >the family restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt"  >대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_stt"  >대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_lower"  >대형 화장실</LOC_STRING>
       <LOC_STRING _locID="entityname:bathroomlarge_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Family Restroom
+            대형 화장실
          </color>
          <br/>
          
-         Click to select and then place the family restroom. They cost more than small restrooms, but accommodate up to six guests.
+         대형 화장실을 설치합니다. 소형 화장실보다 설치 비용이 많이 들지만 6명이 더 들어갈 수 있습니다.
 
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomsmall_xt"  >Small Restroom</LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomsmall_xt_stt"  >Small restroom</LOC_STRING>
-      <LOC_STRING _locID="entityname:bathroomsmall_xt_lower"  >the small restroom</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt"  >소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_stt"  >소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_lower"  >소형 화장실</LOC_STRING>
       <LOC_STRING _locID="entityname:bathroomsmall_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Small Restroom
+            소형 화장실
          </color>
          <br/>
          
-         Click to select and then place the small restroom, which accommodates one guest at a time.
+         소형 화장실을 설치합니다. 소형 화장실은 한 번에 한 명의 관람객이 이용할 수 있습니다.
   
      </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt"  >Fruit Cup Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_stt"  >Fruit cup cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_lower"  >the fruit cup cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt"  >생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_stt"  >생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_lower"  >생과일 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Fruit Cup Cart
+            생과일 가판대
          </color>
          <br/>
          
-         Click to select and then place the fruit cup cart. Many guests enjoy fruit as a healthy snack.
+         생과일 가판대를 설치합니다. 몸에 좋은 음식을 원하는 관람객들은 생과일을 즐겨 먹습니다.
 
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_icecream_xt"  >Ice Cream Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_icecream_xt_stt"  >Ice cream cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_icecream_xt_lower"  >the ice cream cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt"  >아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_stt"  >아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_lower"  >아이스크림 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_icecream_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Ice Cream Cart
+            아이스크림 가판대
          </color>
          <br/>
          
-         Click to select and then place the ice cream cart, a big favorite with young zoo guests.
+         아이스크림 가판대를 설치합니다. 아이들은 아이스크림을 아주 좋아합니다.
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_pretzel_xt"  >Pretzel Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_stt"  >Pretzel cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_lower"  >the pretzel cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt"  >쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_stt"  >쿠키 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_lower"  >쿠키 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_pretzel_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Pretzel Cart
+            쿠키 가판대
          </color>
          <br/>
          
-         Click to select and then place the pretzel cart. Pretzels may make guests thirsty.   
+         쿠키 가판대를 설치합니다. 쿠키를 먹고 나면 갈증을 느끼게 됩니다.   
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt"  >Cotton Candy Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_stt"  >Cotton candy cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_lower"  >the cotton candy cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt"  >솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_stt"  >솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_lower"  >솜사탕 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Cotton Candy Cart
+            솜사탕 가판대
          </color>
          <br/>
          
-         Click to select and then place the cotton candy cart. Cotton candy is a classic kids' treat.
+         솜사탕 가판대를 설치합니다. 솜사탕은 아이들이 좋아하는 간식입니다.
        
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt"  >Cheesecake Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_stt"  >Cheesecake cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_lower"  >the cheesecake cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt"  >치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_stt"  >치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_lower"  >치즈케이크 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Cheesecake Cart
+            치즈케이크 가판대
          </color>
          <br/>
          
-         Click to select and then place the cheesecake cart. Adult guests love cheesecake for dessert.
-      
+         치즈 케이크 가판대를 설치합니다.
+어른들은 디저트로 치즈 케이크를 즐깁니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_popcorn_xt"  >Popcorn Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_stt"  >Popcorn cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_lower"  >the popcorn cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt"  >팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_stt"  >팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_lower"  >팝콘 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:snackcart_popcorn_xt_ltt"  >
          <color r="255" g="248" b="178">
             Popcorn Cart
          </color>
          <br/>
          
-         Click to select and then place the popcorn cart. Popcorn is a filling snack that may make guests thirsty.
+         팝콘 가판대를 설치합니다. 팝콘을 먹은 관람객들은 갈증을 느끼게 됩니다.
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_coffee_xt"  >Coffee Drink Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_coffee_xt_stt"  >Coffee drink stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_coffee_xt_lower"  >the coffee drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt"  >커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_stt"  >커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_lower"  >커피 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_coffee_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Coffee Drink Stand
+            커피 판매대
          </color>
          <br/>
          
-         Click to select and then place the coffee drink stand. Adult guests love the caffeine jolt, and some younger guests are willing to try it, too.
+         커피 판매대를 설치합니다. 어른들은 커피를 즐겨 마시며 일부 아이들도 커피를 좋아합니다.
 
       
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt"  >Shish Kebab Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_stt"  >Shish kebab food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_lower"  >the shish kebab food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt"  >꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_stt"  >꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_lower"  >꼬치구이 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Shish Kebab Food Stand
+            꼬치구이 판매대
          </color>
          <br/>
          
-         Click to select and then place the shish kebab food stand, which offers protein-rich food at a reasonable price.
+         꼬치구이 판매대를 설치합니다. 꼬치구이는 단백질이 풍부하고 가격도 적당한 음식입니다.
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_hotdog_xt"  >Hot Dog Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_stt"  >Hot dog food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_lower"  >the hot dog food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt"  >핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_stt"  >핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_lower"  >핫도그 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_hotdog_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Hot Dog Food Stand
+            핫도그 판매대
          </color>
          <br/>
          
-         Click to select and then place the hot dog food stand. Especially popular with kids, hot dogs are a classic American food.
+         핫도그 판매대를 설치합니다. 핫도그는 아이들이 특히 좋아하는 음식입니다.
             
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_burger_xt"  >Hamburger Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_burger_xt_stt"  >Hamburger food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_burger_xt_lower"  >the hamburger food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt"  >햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_stt"  >햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_lower"  >햄버거 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_burger_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Hamburger Food Stand
+            햄버거 판매대
          </color>
          <br/>
          
-         Click to select and then place the hamburger food stand. Hamburgers are reasonably priced and reasonably filling.     
+         햄버거 판매대를 설치합니다. 햄버거는 비싸지 않은 가격으로 허기를 채울 수 있는 음식입니다.     
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_salad_xt"  >Salad Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_salad_xt_stt"  >Salad food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_salad_xt_lower"  >the salad food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt"  >샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_stt"  >샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_lower"  >샐러드 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_salad_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Salad Food Stand
+            샐러드 판매대
          </color>
          <br/>
          
-         Click to select and then place the salad food stand. Kids usually don't like salads, but adults love them.
+         샐러드 판매대를 설치합니다. 아이들은 샐러드를 싫어하지만 어른들은 아주 좋아합니다.
             
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_soda_xt"  >Soda Drink Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_soda_xt_stt"  >Soda drink stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_soda_xt_lower"  >the soda drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt"  >음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_stt"  >음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_lower"  >음료수 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_soda_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Soda Drink Stand
+            음료수 판매대
          </color>
          <br/>
          
-         Click to select and then place the soda drink stand. Sodas are the most popular drink among most zoo guests. 
+         음료수 판매대를 설치합니다. 관람객들은 음료수를 아주 좋아합니다. 
            
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sub_xt"  >Sub Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sub_xt_stt"  >Sub food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sub_xt_lower"  >the sub food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt"  >샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_stt"  >샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_lower"  >샌드위치 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_sub_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Sub Food Stand
+            샌드위치 판매대
          </color>
          <br/>
          
-         Click to select and then place the sub food stand. Subs are meat-filled sandwiches that are commonly devoured for lunch.
-      
+         샌드위치 판매대를 설치합니다. 샌드위치에는 고기가 들어 있어서 점심 식사로 손색이 없습니다.
+
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sushi_xt"  >Sushi Food Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sushi_xt_stt"  >Sushi food stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_sushi_xt_lower"  >the sushi food stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt"  >초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_stt"  >초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_lower"  >초밥 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_sushi_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Sushi Food Stand
+            초밥 판매대
          </color>
          <br/>
          
-         Click to select and then place the sushi food stand. An expensive food choice, sushi is more popular with adults than kids.
+         초밥 판매대를 설치합니다. 가격이 비싼 편인 초밥은 아이들보다 어른들이 더 좋아합니다. 
            
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_water_xt"  >Water Drink Stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_water_xt_stt"  >Water drink stand</LOC_STRING>
-      <LOC_STRING _locID="entityname:foodstand_water_xt_lower"  >the water drink stand</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt"  >생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_stt"  >생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_lower"  >생수 판매대</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_water_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Water Drink Stand
+            생수 판매대
          </color>
          <br/>
          
-         Click to select and then place the water drink stand. Water satisfies your guests' most basic thirst needs.  
+         생수 판매대를 설치합니다. 생수는 관람객들의 갈증을 해소해 줍니다.
       
       
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:giftcart_xt"  >Extinct Gift Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:giftcart_xt_stt"  >Extinct Gift Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:giftcart_xt_lower"  >the Extinct gift cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt"  >멸종 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_stt"  >멸종 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_lower"  >멸종 기념품 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:giftcart_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Gift Cart
+            멸종 기념품 가판대
          </color>
          <br/>
          
          
-         Click to select and then place an Extinct gift cart, where guests can buy extinct animal souvenirs.
+         멸종 기념품 가판대를 설치합니다. 관람객들은 이곳에서 멸종 동물 기념품을 구입합니다.
       
       
       </LOC_STRING>
@@ -1654,115 +1654,115 @@
 		   <br/>
 		         Click to select and then place a dwarf azalea, a hardy plant known for its many clusters of small flowers.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:bench_xt"  >Extinct Bench</LOC_STRING>
-      <LOC_STRING _locID="entityname:bench_xt_stt"  >Extinct bench</LOC_STRING>
-      <LOC_STRING _locID="entityname:bench_xt_lower"  >the Extinct bench</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt"  >멸종 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_stt"  >멸종 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_lower"  >멸종 벤치</LOC_STRING>
       <LOC_STRING _locID="entityname:bench_xt_ltt"  >
 		   <color r="255" g="248" b="178">
-		      Extinct Bench
+		      멸종 벤치
 		   </color>
 		   <br/>
-		         Click to select and then place an extinct-themed bench. Guests enjoy visiting themed areas in your zoo.
+         멸종 벤치를 설치합니다. 관람객들은 색다른 분위기를 느낄 수 있는 멸종 스타일 벤치를 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:DonationBox_xt"  >Extinct Donation Box</LOC_STRING>
-      <LOC_STRING _locID="entityname:DonationBox_xt_stt"  >Extinct donation box</LOC_STRING>
-      <LOC_STRING _locID="entityname:DonationBox_xt_lower"  >the Extinct donation box</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt"  >멸종 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_stt"  >멸종 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_lower"  >멸종 동물 기부함</LOC_STRING>
       <LOC_STRING _locID="entityname:DonationBox_xt_ltt"  >
 		   <color r="255" g="248" b="178">
-		            Extinct Donation Box
+            멸종 동물 기부함
 		   </color>
 		   <br/>
-		   Click to select and then place an extinct-themed donation box. Guests won't donate money if they can't find a donation box, so place them all over your zoo.
+		   멸종 스타일 기부함을 설치합니다. 주변에 기부함이 없으면 관람객들의 기부를 받을 수가 없습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:umbrellatable_xt"  >Extinct Umbrella Table</LOC_STRING>
-      <LOC_STRING _locID="entityname:umbrellatable_xt_stt"  >Extinct umbrella table</LOC_STRING>
-      <LOC_STRING _locID="entityname:umbrellatable_xt_lower"  >the Extinct umbrella table</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt"  >멸종 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_stt"  >멸종 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_lower"  >멸종 동물 파라솔</LOC_STRING>
       <LOC_STRING _locID="entityname:umbrellatable_xt_ltt"  >
 		   <color r="255" g="248" b="178">
-		      Extinct Umbrella Table
+		      멸종 동물 파라솔
 		   </color>
 		   <br/>
-		         Click to select and then place an extinct-themed umbrella table, which provides guests with a shaded place to rest and eat.      
+         멸종 동물 파라솔을 설치합니다. 관람객들이 파라솔 그늘 밑에서 편안하게 식사를 할 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:ViewingArea_xt"  >Extinct Viewing Canopy</LOC_STRING>
-      <LOC_STRING _locID="entityname:ViewingArea_xt_stt"  >Extinct viewing canopy</LOC_STRING>
-      <LOC_STRING _locID="entityname:ViewingArea_xt_lower"  >the Extinct viewing canopy</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt"  >멸종 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_stt"  >멸종 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_lower"  >멸종 동물 그늘 지붕</LOC_STRING>
       <LOC_STRING _locID="entityname:ViewingArea_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Viewing Canopy
+            멸종 동물 그늘 지붕
          </color>
          <br/>
-         Click to select and then place an extinct-themed viewing canopy, which allows guests to view animals in shaded comfort.
+         멸종 동물 그늘 지붕을 설치합니다. 관람객들은 그늘 지붕 밑에서 편안하게 동물을 구경할 수 있습니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:lamp_xt"  >Extinct Lamp Post</LOC_STRING>
-      <LOC_STRING _locID="entityname:lamp_xt_stt"  >Extinct lamp post</LOC_STRING>
-      <LOC_STRING _locID="entityname:lamp_xt_lower"  >the Extinct lamp post</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt"  >멸종 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_stt"  >멸종 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_lower"  >멸종 동물 가로등</LOC_STRING>
       <LOC_STRING _locID="entityname:lamp_xt_ltt"  >
 		   <color r="255" g="248" b="178">
-		      Extinct Lamp Post
+		      멸종 동물 가로등
 		   </color>
 		   <br/>
-		         Click to select and then place an extinct-themed lamp post. Guests enjoy visiting themed areas in your zoo.
+         멸종 동물 가로등을 설치합니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:trashcan_xt"  >Extinct Trash Can</LOC_STRING>
-      <LOC_STRING _locID="entityname:trashcan_xt_stt"  >Extinct trash can</LOC_STRING>
-      <LOC_STRING _locID="entityname:trashcan_xt_lower"  >the Extinct trash can</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt"  >멸종 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_stt"  >멸종 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_lower"  >멸종 동물 쓰레기통 can</LOC_STRING>
       <LOC_STRING _locID="entityname:trashcan_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Trash Can
+            멸종 동물 쓰레기통
          </color>
          <br/>
-         Click to select and then place an extinct-themed trash can. Trash cans should be placed all over your zoo so that guests can dispose of their garbage.
+         멸종 동물 쓰레기통을 설치합니다. 관람객들이 쓰레기를 쉽게 버릴 수 있도록 동물원 곳곳에 쓰레기통을 설치하는 것이 좋습니다. 
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Statue_xt"  >Extinct Statue</LOC_STRING>
-      <LOC_STRING _locID="entityname:Statue_xt_stt"  >Extinct statue</LOC_STRING>
-      <LOC_STRING _locID="entityname:Statue_xt_lower"  >the Extinct statue</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt"  >멸종 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_stt"  >멸종 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_lower"  >멸종 동물 동상</LOC_STRING>
       <LOC_STRING _locID="entityname:Statue_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Statue
+            멸종 동물 동상
          </color>
          <br/>
-         Click to select and then place an extinct-themed statue. Guests appreciate the beauty of a well-placed statue.
+         멸종 동물 동상을 설치합니다. 동물원에 설치하면 관람객이 감상할 수 있는 멋진 동상입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:PathArch_xt"  >Extinct Arch</LOC_STRING>
-      <LOC_STRING _locID="entityname:PathArch_xt_stt"  >Extinct arch</LOC_STRING>
-      <LOC_STRING _locID="entityname:PathArch_xt_lower"  >the Extinct arch</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt"  >멸종 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_stt"  >멸종 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_lower"  >멸종 동물 아치</LOC_STRING>
       <LOC_STRING _locID="entityname:PathArch_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Arch
+            멸종 동물 아치
          </color>
          <br/>
-         Click to select and then place an extinct-themed arch, which can be an attractive addition to paths or entrances to themed areas in your zoo. 
+         멸종 동물 아치를 설치합니다. 아치는 길이나 입구, 테마가 있는 공간을 멋지게 꾸며줍니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Fountain_xt"  >Extinct Decorative Tar Pit</LOC_STRING>
-      <LOC_STRING _locID="entityname:Fountain_xt_stt"  >Extinct decorative tar pit</LOC_STRING>
-      <LOC_STRING _locID="entityname:Fountain_xt_lower"  >the Extinct decorative tar pit</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt"  >장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_stt"  >장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_lower"  >장식용 타르 웅덩이</LOC_STRING>
       <LOC_STRING _locID="entityname:Fountain_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Decorative Tar Pit
+            장식용 타르 웅덩이
          </color>
          <br/>
-         Click to select and then place an extinct-themed decorative tar pit. Guests appreciate the beauty of well-placed decorative items.
+         장식용 타르 웅덩이를 설치합니다.관람객들은 주변 환경과 잘 어울리는 시설물을 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:MusicalRock_xt"  >Extinct Music Rock</LOC_STRING>
-      <LOC_STRING _locID="entityname:MusicalRock_xt_stt"  >Extinct music rock</LOC_STRING>
-      <LOC_STRING _locID="entityname:MusicalRock_xt_lower"  >the Extinct music rock</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt"  >멸종 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_stt"  >멸종 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_lower"  >멸종 동물 소리 바위</LOC_STRING>
       <LOC_STRING _locID="entityname:MusicalRock_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Music Rock
+            멸종 테마 소리 바위
          </color>
          <br/>
-         Click to select and then place an extinct-themed music rock, which plays music from speakers hidden inside of it.
+         멸종 동물 소리 바위를 설치합니다. 소리 바위는 스피커가 들어 있어서 음악이 나오는 바위입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide"  >Brachiosaurus Slide</LOC_STRING>
-      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_stt"  >Brachiosaurus slide</LOC_STRING>
-      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_lower"  >the brachiosaurus slide</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide"  >브라키오사우르스 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_stt"  >브라키오사우르스 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_lower"  >브라키오사우르스 미끄럼틀</LOC_STRING>
       <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_ltt"  >
          <color r="255" g="248" b="178">
-            Brachiosaurus Slide
+            브라키오사우르스 미끄럼틀
          </color>
          <br/>
-         Click to select and then place a brachiosaurus slide, an enormous slide your young guests can play on.
+         브라키오사우르스 미끄럼틀을 설치합니다. 브라키오사우르스 미끄럼틀은 어린이들이 좋아하는 놀이 시설입니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:highextinct_xt"  >멸종 테마 울타리</LOC_STRING>
       <LOC_STRING _locID="entityname:highextinct_xt_stt"  >멸종 테마 울타리</LOC_STRING>
@@ -1772,7 +1772,7 @@
             멸종 테마 울타리
          </color>
          <br/>
-         Click to select and then place sections of Extinct fence. Guests enjoy visiting themed areas in your zoo.
+         멸종 테마 울타리를 만듭니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:lowextinct_xt"  >낮은 멸종 테마 울타리</LOC_STRING>
       <LOC_STRING _locID="entityname:lowextinct_xt_stt"  >낮은 멸종 테마 울타리</LOC_STRING>
@@ -1782,7 +1782,7 @@
             낮은 멸종 테마 울타리
          </color>
          <br/>
-         Click to select and then place sections of low Extinct fence. Guests enjoy visiting themed areas in your zoo.
+         낮은 멸종 테마 울타리를 만듭니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:extinctwindow_xt"  >멸종 테마 창문 울타리</LOC_STRING>
       <LOC_STRING _locID="entityname:extinctwindow_xt_stt"  >멸종 테마 창문 울타리</LOC_STRING>
@@ -1792,7 +1792,7 @@
             멸종 테마 창문 울타리
          </color>
          <br/>
-         Click to select and then place sections of Extinct window fence. Guests enjoy visiting themed areas in your zoo.
+         멸종 테마 창문 울타리를 만듭니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:electricfence"  >전기 울타리</LOC_STRING>
       <LOC_STRING _locID="entityname:electricfence_stt"  >전기 울타리</LOC_STRING>
@@ -1804,212 +1804,212 @@
          <br/>
          Click to select and then place sections of electric fence. A weak fence with a small electric charge to discourage animals from escaping.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:path_extinct_xt"  >멸종 테마 보도</LOC_STRING>
-      <LOC_STRING _locID="entityname:path_extinct_xt_stt"  >Extinct path</LOC_STRING>
-      <LOC_STRING _locID="entityname:path_extinct_xt_lower"  >the extinct path</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt"  >멸종 테마 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_stt"  >멸종 테마 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_lower"  >멸종 테마 길</LOC_STRING>
       <LOC_STRING _locID="entityname:path_extinct_xt_ltt"  >
 		         <color r="255" g="248" b="178">
-		            Extinct Path
+		            멸종 테마 길
 		         </color>
 		         <br/>
-		         Click to select and then place sections of extinct-themed path. Guests enjoy visiting themed areas in your zoo.     
+		         멸종 테마 길을 만듭니다. 관람객은 동물원에서 테마가 있는 공간을 좋아합니다.   
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Grenade"  >Traquilization Grenade</LOC_STRING>
-      <LOC_STRING _locID="entityname:Grenade_stt"  >Traquilization grenade</LOC_STRING>
-      <LOC_STRING _locID="entityname:Grenade_lower"  >the traquilization grenade</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade"  >진정탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_stt"  >진정탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_lower"  >진정탄</LOC_STRING>
       <LOC_STRING _locID="entityname:Grenade_ltt"  >
          <color r="255" g="248" b="178">
-            Traquilization Grenade
+            진정탄
          </color>
          <br/>
-         This remote tranquilization device is used to make animals go to sleep.
+         원격 진정 장치는 동물을 잠들게 하는 데 사용됩니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Hotdog_Rubble"  >Hotdog</LOC_STRING>
-      <LOC_STRING _locID="entityname:Hotdog_Rubble_stt"  >Hotdog</LOC_STRING>
-      <LOC_STRING _locID="entityname:Hotdog_Rubble_lower"  >the hotdog</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble"  >핫도그</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_stt"  >핫도그</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_lower"  >핫도그</LOC_STRING>
       <LOC_STRING _locID="entityname:Hotdog_Rubble_ltt"  >
          <color r="255" g="248" b="178">
-            Hotdog
+            핫도그
          </color>
          <br/>
-         Remnants of a food stand, animals will enjoy playing with and eatting the hotdog.
+         가판대의 잔해입니다. 동물들은 핫도그를 가지고 놀고 먹는 것을 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood"  >Wood Fragment</LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_stt"  >Wood fragment</LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_lower"  >the wood fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood"  >나무 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_stt"  >나무 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_lower"  >나무 조각</LOC_STRING>
       <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_ltt"  >
          <color r="255" g="248" b="178">
-            Wood Fragment
+            나무 조각
          </color>
          <br/>
-         Remnants of a wooden building, animals will enjoy playing with the rubble.
+         목조 건물의 잔해입니다. 동물들은 잔해를 가지고 노는 것을 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete"  >Concrete Fragment</LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_stt"  >Concrete fragment</LOC_STRING>
-      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_lower"  >the concrete fragment</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete"  >콘크리트 파편</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_stt"  >콘크리트 파편</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_lower"  >콘크리트 파편</LOC_STRING>
       <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_ltt"  >
          <color r="255" g="248" b="178">
-            Concrete Fragment
+            콘크리트 파편
          </color>
          <br/>
-         Remnants of a concrete building, animals will enjoy playing with the rubble.
+         콘크리트 건물의 파편입니다. 동물들은 파편을 가지고 노는 것을 좋아합니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_concrete"  >Concrete Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_concrete_stt"  >Concrete rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_concrete_lower"  >the concrete rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete"  >콘크리트 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_stt"  >콘크리트 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_lower"  >콘크리트 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_concrete_ltt"  >
          <color r="255" g="248" b="178">
-            Concrete Rubble
+            콘크리트 잔해
          </color>
          <br/>
-         Remnants of a concrete building.
+         콘크리트 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_df"  >Building Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_df_stt"  >Building rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_df_lower"  >the building rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df"  >건물 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_stt"  >건물 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_lower"  >건물 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_df_ltt"  >
          <color r="255" g="248" b="178">
-            Building Rubble
+            건물 잔해
          </color>
          <br/>
-         Remnants of a building.
+         건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_end"  >Endangered themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_end_stt"  >Endangered themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_end_lower"  >the endangered themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end"  >멸종 위기 동물 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_stt"  >멸종 위기 동물 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_lower"  >멸종 위기 동물 스타일 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_end_ltt"  >
          <color r="255" g="248" b="178">
-            Endangered Themed Rubble
+            멸종 위기 동물 스타일 잔해
          </color>
          <br/>
-         Remnants of a endangered themed building.
+         멸종 위기 동물 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_et"  >Desert Themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_et_stt"  >Desert themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_et_lower"  >the desert themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et"  >사막 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_stt"  >사막 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_lower"  >사막 스타일 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_et_ltt"  >
          <color r="255" g="248" b="178">
-            Desert Themed Rubble
+            사막 스타일 잔해
          </color>
          <br/>
-         Remnants of a desert themed building.
+         사막 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_jt"  >Jungle Themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_jt_stt"  >Jungle themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_jt_lower"  >the jungle themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt"  >정글 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_stt"  >정글 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_lower"  >정글 스타일 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_jt_ltt"  >
          <color r="255" g="248" b="178">
-            Jungle Themed Rubble
+            정글 스타일 잔해
          </color>
          <br/>
-         Remnants of a jungle themed building.
+         정글 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_st"  >Safari Themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_st_stt"  >Safari themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_st_lower"  >the safari themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st"  >사파리 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_stt"  >사파리 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_lower"  >사파리 스타일 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_st_ltt"  >
          <color r="255" g="248" b="178">
-            Safari Themed Rubble
+            사파리 스타일 잔해
          </color>
          <br/>
-         Remnants of a safari themed building.
+         사파리 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_tt"  >Tundra Themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_tt_stt"  >Tundra themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_tt_lower"  >the tundra themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt"  >툰드라 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_stt"  >툰드라 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_lower"  >툰드라 스타일 잔해 rubble</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_tt_ltt"  >
          <color r="255" g="248" b="178">
-            Tundra Themed Rubble
+            툰드라 스타일 잔해
          </color>
          <br/>
-         Remnants of a tundra themed building.
+         툰드라 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_wood"  >Wood Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_wood_stt"  >Wood rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_wood_lower"  >the wood rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood"  >목조 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_stt"  >목조 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_lower"  >목조 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_wood_ltt"  >
          <color r="255" g="248" b="178">
-            Wood Rubble
+            목조 잔해
          </color>
          <br/>
-         Remnants of a wood building.
+         목조 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_xt"  >Extinct Themed Rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_xt_stt"  >Extinct themed rubble</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_xt_lower"  >the extinct themed rubble</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt"  >멸종 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_stt"  >멸종 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_lower"  >멸종 스타일 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_xt_ltt"  >
          <color r="255" g="248" b="178">
-            Extinct Themed Rubble
+            멸종 스타일 잔해
          </color>
          <br/>
-         Remnants of an extinct themed building.
+         멸종 스타일 건물의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_InsectKiosk"  >Destroyed Insect Kiosk</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_InsectKiosk_stt"  >Destroyed insect kiosk</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_InsectKiosk_lower"  >the destroyed insect kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk"  >파괴된 곤충 전시장</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_stt"  >파괴된 곤충 전시장</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_lower"  >파괴된 곤충 전시장</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_InsectKiosk_ltt"  >
          <color r="255" g="248" b="178">
-            Destroyed Insect Kiosk
+            파괴된 곤충 전시장
          </color>
          <br/>
-         Pieces of a destroyed insect kiosk.
+         파괴된 곤충 전시장의 조각들입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_metal"  >Destroyed Food Cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_metal_stt"  >Destroyed food cart</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_metal_lower"  >the destroyed food cart</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal"  >파괴된 음식 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_stt"  >파괴된 음식 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_lower"  >파괴된 음식 가판대</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_metal_ltt"  >
          <color r="255" g="248" b="178">
-            Destroyed Food Cart
+            파괴된 음식 가판대
          </color>
          <br/>
-         Remnants of a destroyed food cart.
+         파괴된 음식 가판대의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_ReptileKiosk"  >Destroyed Reptile Kiosk</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_stt"  >Destroyed reptile kiosk</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_lower"  >the destroyed reptile kiosk</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk"  >파괴된 파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_stt"  >파괴된 파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_lower"  >파괴된 파충류 전시관</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_ReptileKiosk_ltt"  >
          <color r="255" g="248" b="178">
-            Destroyed Reptile Kiosk
+            파괴된 파충류 전시관
          </color>
          <br/>
-         Pieces of a destroyed reptile kiosk.
+         파괴된 곤충 전시장의 조각들입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_SizeMural"  >Destroyed Size Comparison Mural</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_SizeMural_stt"  >Destroyed size comparison mural</LOC_STRING>
-      <LOC_STRING _locID="entityname:rubble_SizeMural_lower"  >the destroyed size comparison mural</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural"  >파괴된 크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_stt"  >파괴된 크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_lower"  >파괴된 크기 비교 벽화</LOC_STRING>
       <LOC_STRING _locID="entityname:rubble_SizeMural_ltt"  >
          <color r="255" g="248" b="178">
-            Destroyed Size Comparison Mural
+            파괴된 크기 비교 벽화
          </color>
          <br/>
-         Remnants of an destroyed size comparison mural.
+         파괴된 크기 비교 벽화의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:stump"  >Tree Stump</LOC_STRING>
-      <LOC_STRING _locID="entityname:stump_stt"  >Tree stump</LOC_STRING>
-      <LOC_STRING _locID="entityname:stump_lower"  >the tree stump</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump"  >나무 그루터기</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_stt"  >나무 그루터기</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_lower"  >나무 그루터기</LOC_STRING>
       <LOC_STRING _locID="entityname:stump_ltt"  >
          <color r="255" g="248" b="178">
-            Tree Stump
+            나무 그루터기
          </color>
          <br/>
-         A stump left over from a destroyed tree.
+         파괴된 나무에서 남은 그루터기입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:cactusstump"  >Cactus Remains</LOC_STRING>
-      <LOC_STRING _locID="entityname:cactusstump_stt"  >Cactus remains</LOC_STRING>
-      <LOC_STRING _locID="entityname:cactusstump_lower"  >the cactus remains</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump"  >선인장 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_stt"  >선인장 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_lower"  >선인장 잔해</LOC_STRING>
       <LOC_STRING _locID="entityname:cactusstump_ltt"  >
          <color r="255" g="248" b="178">
-            Cactus Remains
+            선인장 잔해
          </color>
          <br/>
-         Remains of a destroyed cactus.
+         파괴된 선인장의 잔해입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Fossil"  >Dig Pit Bone</LOC_STRING>
-      <LOC_STRING _locID="entityname:Fossil_stt"  >Dig pit bone</LOC_STRING>
-      <LOC_STRING _locID="entityname:Fossil_lower"  >the dig pit bone</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil"  >뼈 구덩이 파기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_stt"  >뼈 구덩이 파기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_lower"  >뼈 구덩이 파기</LOC_STRING>
       <LOC_STRING _locID="entityname:Fossil_ltt"  >
          <color r="255" g="248" b="178">
-            Dig Pit Bone
+            뼈 구덩이 파기
          </color>
          <br/>
          Guests really like looking at the bone, their piece of a bigger puzzle.

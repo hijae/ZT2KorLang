@@ -8,7 +8,7 @@
             티라노사우루스 렉스
          </color>
          <br/>
-         티라노사우루스 렉스를 선택하고 적당한 우리에 넣어주세요. 육식성을 가진 포식자 공룡입니다.
+         티라노사우루스 렉스를 적당한 우리에 넣어주세요. 육식성을 가진 포식자 공룡입니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:Styracosaurus"  >스티라코사우루스</LOC_STRING>
       <LOC_STRING _locID="entityname:Styracosaurus_stt"  >스티라코사우루스</LOC_STRING>
@@ -18,7 +18,7 @@
             스티라코사우루스
          </color>
          <br/>
-         스티라코사우루스를 선택하고 적당한 우리에 넣어주세요. 뿔 달린 작은 초식 공룡이며 날카로운 가시가 있는 프릴을 가지고 있습니다.
+         스티라코사우루스를 적당한 우리에 넣어주세요. 뿔 달린 작은 초식 공룡이며 날카로운 가시가 있는 프릴을 가지고 있습니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:Triceratops"  >트리케라톱스</LOC_STRING>
       <LOC_STRING _locID="entityname:Triceratops_stt"  >트리케라톱스</LOC_STRING>
@@ -28,7 +28,7 @@
             트리케라톱스
          </color>
          <br/>
-         트리케라톱스를 선택하고 적당한 우리에 넣어주세요. 뿔과 프릴이 있는 커다란 초식 공룡입니다.
+         트리케라톱스를 적당한 우리에 넣어주세요. 뿔과 프릴이 있는 커다란 초식 공룡입니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:Carnotaurus"  >카르노타우루스</LOC_STRING>
       <LOC_STRING _locID="entityname:Carnotaurus_stt"  >카르노타우루스</LOC_STRING>
@@ -38,7 +38,7 @@
             카르노타우루스
          </color>
          <br/>
-         카르노타우루스를 선택하고 적당한 우리에 넣어주세요. 남미 출신의 육식 공룡입니다.
+         카르노타우루스를 적당한 우리에 넣어주세요. 남미 출신의 육식 공룡입니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift"  >티라노사우루스 렉스 모자</LOC_STRING>
       <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_stt"  >티라노사우루스 렉스 모자</LOC_STRING>
@@ -50,35 +50,35 @@
          <br/>   
          티라노사우루스를 관람하는 손님들은 이 선물을 구매할것입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Carnotaurus_Gift"  >Carnotaurus Stuffed Animal</LOC_STRING>
-      <LOC_STRING _locID="entityname:Carnotaurus_Gift_stt"  >Carnotaurus stuffed animal</LOC_STRING>
-      <LOC_STRING _locID="entityname:Carnotaurus_Gift_lower"  >the Carnotaurus stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift"  >카르노타우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_stt"  >카르노타우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_lower"  >카르노타우루스 인형</LOC_STRING>
       <LOC_STRING _locID="entityname:Carnotaurus_Gift_ltt"  >
          <color r="255" g="248" b="178">
-            Carnotaurus Stuffed Animal
+            카르노타우루스 인형
          </color>
          <br/>   
-         Guests who enjoy watching the Carnotaurus will buy this gift.
+         카르노타우루스를 좋아하는 관람객들이 많이 찾는 상품입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Styracosaurus_Gift"  >Styracosaurus Shirt</LOC_STRING>
-      <LOC_STRING _locID="entityname:Styracosaurus_Gift_stt"  >Styracosaurus shirt</LOC_STRING>
-      <LOC_STRING _locID="entityname:Styracosaurus_Gift_lower"  >the Styracosaurus shirt</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift"  >스티라코사우루스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_stt"  >스티라코사우루스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_lower"  >스티라코사우루스 셔츠</LOC_STRING>
       <LOC_STRING _locID="entityname:Styracosaurus_Gift_ltt"  >
          <color r="255" g="248" b="178">
-            Styracosaurus Shirt
+            스티라코사우루스 셔츠
          </color>
          <br/>   
-         Guests who enjoy watching the Styracosaurus will buy this gift.
+         스티라코사우르스를 좋아하는 관람객들이 많이 찾는 상품입니다.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Triceratops_Gift"  >Triceratops Stuffed Animal</LOC_STRING>
-      <LOC_STRING _locID="entityname:Triceratops_Gift_stt"  >Triceratops stuffed animal</LOC_STRING>
-      <LOC_STRING _locID="entityname:Triceratops_Gift_lower"  >the Triceratops stuffed animal</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift"  >트리케라톱스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_stt"  >트리케라톱스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_lower"  >트리케라톱스 인형</LOC_STRING>
       <LOC_STRING _locID="entityname:Triceratops_Gift_ltt"  >
          <color r="255" g="248" b="178">
-            Triceratops Stuffed Animal
+            트리케라톱스 인형
          </color>
          <br/>   
-         Guests who enjoy watching the Triceratops will buy this gift.
+         트리케라톱스를 좋아하는 관람객들이 많이 찾는 상품입니다.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest"  >소철</LOC_STRING>
       <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_stt"  >소철</LOC_STRING>
@@ -88,7 +88,7 @@
             소철
          </color>
          <br/>
-         Click to select and then place a king sago, a cycad plant that has survived from the age of dinosaurs to the present day.
+         소철을 적당한 위치에 심으세요. a cycad plant that has survived from the age of dinosaurs to the present day.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:dinofence"  >공룡 울타리</LOC_STRING>
       <LOC_STRING _locID="entityname:dinofence_stt"  >공룡 울타리</LOC_STRING>

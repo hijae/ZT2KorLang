@@ -10,7 +10,7 @@
             <b>악어 경고판</b>
          </color>
          <br/>
-        Click to select and place the Crocodile Warning.
+        악어 경고판을 설치합니다.
       </warningkro_ltt>
    </entityname>
       <LOC_STRING _locID="zoopedia_warningkro:entry">Crocodile Warning</LOC_STRING>

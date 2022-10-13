@@ -10,7 +10,7 @@
             <b>해양 생물 경고판</b>
          </color>
          <br/>
-        Click to select and place the Marine Life Warning.
+        해양 생물 경고판을 설치합니다.
       </warningmbp_ltt>
    </entityname>
       <LOC_STRING _locID="zoopedia_warningmbp:entry">Marine Life Warning</LOC_STRING>

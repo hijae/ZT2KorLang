@@ -10,7 +10,7 @@
             <b>고전압 경고판</b>
          </color>
          <br/>
-        Click to select and place the High Voltage Warning.
+        고전압 경고판을 설치합니다.
       </warningvol_ltt>
    </entityname>
       <LOC_STRING _locID="zoopedia_warningvol:entry">High Voltage Warning</LOC_STRING>
