@@ -1,4 +1,4 @@
-# Zoo Tycoon 2 ㅕnofficial Korean Patch
+# Zoo Tycoon 2 Unofficial Korean Patch
  
 주타이쿤2 비공식 한국어 패치
 * 모든 번역은 한글판 Zoo Tycoon 2의 형태와 유사하여야 합니다.
@@ -8,4 +8,4 @@
   * 이 폴더안에 있는 모든 파일을 한글화 하면 됩니다.
 
 한글화 된 파일은 Release에서 받으면 됩니다.
-merge가 진행되면 자동으로 생성됩니다.
+새로운 변경점이 발생하면 자동으로 생성됩니다.
