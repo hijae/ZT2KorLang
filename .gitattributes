@@ -2,4 +2,4 @@
 * text=auto
 
 # Preserve reviewed XML hashes on Windows and Unix.
-complete-korean/source/** text eol=lf
+Korean/source/** text eol=lf

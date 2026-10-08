@@ -1,4 +1,4 @@
-"""글꼴 선택 및 매니페스트 변조 거부 검사. python -m unittest discover -s complete-korean"""
+"""글꼴 선택 및 매니페스트 변조 거부 검사. python -m unittest discover -s Korean"""
 
 from collections import Counter
 import json

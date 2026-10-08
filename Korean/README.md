@@ -36,7 +36,7 @@
 
 ## 빌드와 검사
 
-Python 3.9 이상과 표준 라이브러리만 필요합니다. `complete-korean`에서 실행하십시오.
+Python 3.9 이상과 표준 라이브러리만 필요합니다. `Korean`에서 실행하십시오.
 
 ```text
 python build_patch.py --check

@@ -16,18 +16,18 @@ jobs:
       run: echo "date=$(TZ=Asia/Seoul date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
  
     - name: Validate Korean patch
-      run: python3 -m unittest discover -s complete-korean -v
+      run: python3 -m unittest discover -s Korean -v
 
     - name: Build Korean patch (original Gulim font)
-      run: python3 complete-korean/build_patch.py --date "${{ steps.date.outputs.date }}"
+      run: python3 Korean/build_patch.py --date "${{ steps.date.outputs.date }}"
 
     - name: Build Korean patch (optional Pretendard)
-      run: python3 complete-korean/build_patch.py --font pretendard --date "${{ steps.date.outputs.date }}"
+      run: python3 Korean/build_patch.py --font pretendard --date "${{ steps.date.outputs.date }}"
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "complete-korean/ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,complete-korean/ZZZZZZKorlang${{ steps.date.outputs.date }}-Pretendard.z2f"
+        artifacts: "Korean/ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,Korean/ZZZZZZKorlang${{ steps.date.outputs.date }}-Pretendard.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ver-${{ steps.date.outputs.date }}
         name: ZT2 Korean Patch ${{ steps.date.outputs.date }}
