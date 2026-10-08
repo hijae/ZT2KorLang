@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:entry">초원 굴</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:text">
+			<cell pady="0" width="1000" />
+			<p />
+			<cell width="260" />
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="60" g="54" b="38">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+						<p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+						초원 굴은 포클랜드늑대 같은 작은 초원 동물에게 안성맞춤입니다. 이런 동물은 굴이 제공하는 어두운 지하 환경에서 자는 것을 좋아합니다.
+					</font></color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry">바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text">
+ 			<cell pady="0" width="1000" />
+ 			<p />
+ 			<cell width="260" />
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="60" g="54" b="38">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+ 						<p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+ 						이 커다란 바위 구조물은 거의 모든 멸종 동물에게 적합한 튼튼한 은신처입니다. 시원하고 상쾌하며 조용한 곳을 좋아하는 멸종 동물이라면 누구나 바위 은신처를 즐깁니다. 외부에 설치된 시원한 폭포는 보기에도 아름답고 동물을 차분하게 해 줍니다.
+ 					</font></color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING> 
+ 
+</ZT2Strings>

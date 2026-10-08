@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="BFUserProfile" version="0" />
+      <LOC_STRING _locID="BFUserProfile:saveDirectory">Saved</LOC_STRING>
+      <LOC_STRING _locID="BFUserProfile:tempDirectory">tmp</LOC_STRING>
+</ZT2Strings>

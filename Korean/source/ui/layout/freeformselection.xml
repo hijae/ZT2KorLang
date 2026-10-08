@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="Map Selection Shell">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="normal" />
+   <UIAspect>
+      <default>
+         <BFRect x="0" y="0" w="0" h="0" />
+         <BFColor r="0" g="0" b="0" a="0" />
+      </default>
+   </UIAspect>
+   <children>
+      <UILayout name="Map Selection">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="hidden" />
+         <UIAspect>
+            <default image="">
+               <BFRect x="0" y="0" w="1024" h="768" />
+               <BFColor r="255" g="255" b="255" a="130" />
+            </default>
+         </UIAspect>
+         <children>
+            <UIStatic name="clouds">
+               <UIRegion x="170" y="60" w="719" h="619" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="ui\mapselect\clouds.dds">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UIStatic>
+            <UIStatic name="left end cap">
+               <UIRegion x="0" y="-1" w="1024" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="ui\shared\headerbar.dds">
+                     <BFRect x="0" y="0" w="128" h="64" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UIStatic>
+            <UIText name="Selected Scenario Map">
+               <UIRegion x="0" y="0" w="200" h="100" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="hidden" />
+               <UIAspect>
+                  <default />
+               </UIAspect>
+            </UIText>
+            <UIText name="Map Mode Heading">
+               <UIRegion x="24" y="3" w="1000" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default>
+                     <BFFont>
+                        <BFColor r="225" g="192" b="32" a="255" />
+                     </BFFont>
+                  </default>
+               </UIAspect>
+               <text format="mapdata:modeheading" />
+            </UIText>
+            <UILayout name="Left Layout">
+               <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIShowHideAnim time=".3">
+                  <start x="-512" y="0" w="1024" h="768" />
+                  <end x="0" y="0" w="1024" h="768" />
+               </UIShowHideAnim>
+               <children>
+                  <UILayout name="Background 1">
+                     <UIRegion x="18" y="55" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\mapselect\newpan.dds">
+                           <BFRect x="0" y="0" w="256" h="512" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <children>
+                        <UILayout name="Map Data Layout">
+                           <UIRegion x="0" y="0" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect>
+                              <default image="">
+                                 <BFRect x="0" y="0" w="301" h="455" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                           </UIAspect>
+                           <children />
+                        </UILayout>
+                        <UILayout name="Campaign Selection Layout">
+                           <UIRegion x="0" y="-5" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="" />
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                           <children>
+                              <UIToggleSet name="Campaign Scenario List" template="listbox" rows="-1" yspacer="5">
+                                 <UIRegion x="0" y="300" w="-5" h="255" walign="max" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default />
+                                 </UIAspect>
+                                 <children />
+                              </UIToggleSet>
+                              <UIToggleSet name="Campaign List" template="listbox" rows="-1" yspacer="4">
+                                 <UIRegion x="0" y="32" w="-5" h="240" walign="max" />
+                                 <UIState visible="normal" />
+                                 <children />
+                              </UIToggleSet>
+                              <UIText name="Campaign List Label">
+                                 <UIRegion x="0" y="7" w="256" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:select_campaign_label">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Campaign Select Label">
+                                 <UIRegion x="0" y="273" w="256" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:map_scenario_label">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                           </children>
+                        </UILayout>
+                        <UILayout name="Location Selection Layout">
+                           <UIRegion x="0" y="-5" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="">
+                              <default image="" sound="">
+                                 <BFRect x="0" y="0" w="512" h="512" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                           <children>
+                              <UIToggleSet name="Map List" template="listbox" rows="-1">
+                                 <UIRegion x="0" y="300" w="-5" h="255" walign="max" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default />
+                                 </UIAspect>
+                                 <children />
+                              </UIToggleSet>
+                              <UIToggleSet name="Location List" template="listbox" rows="-1">
+                                 <UIRegion x="0" y="32" w="-5" h="240" walign="max" />
+                                 <UIState active="normal" visible="normal" />
+                                 <children>
+                                    <UIToggleButton name="all locations" template="locationbutton">
+                                       <UIAspect locid="worldlocation:all" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="all" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="alpine" template="locationbutton">
+                                       <UIAspect locid="alpine:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="alpine" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="alpine" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="benthic" template="locationbutton" xPack="2">
+                                       <UIAspect locid="benthic:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="benthic" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="benthic" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="borealforest" template="locationbutton">
+                                       <UIAspect locid="borealforest:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="borealforest" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="borealforest" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="coastal" template="locationbutton" xPack="2">
+                                       <UIAspect locid="coastal:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="coastal" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="coastal" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="desert" template="locationbutton">
+                                       <UIAspect locid="desert:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="desert" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="desert" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="grassland" template="locationbutton">
+                                       <UIAspect locid="grassland:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="grassland" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="grassland" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="pelagic" template="locationbutton" xPack="2">
+                                       <UIAspect locid="pelagic:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="pelagic" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="pelagic" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="reef" template="locationbutton" xPack="2">
+                                       <UIAspect locid="reef:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="reef" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="reef" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="savannah" template="locationbutton">
+                                       <UIAspect locid="savannah:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="savannah" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="savannah" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="scrub" template="locationbutton">
+                                       <UIAspect locid="scrub:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="scrub" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="scrub" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="temperateforest" template="locationbutton">
+                                       <UIAspect locid="temperateforest:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="temperateforest" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="temperateforest" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="tropicalrainforest" template="locationbutton">
+                                       <UIAspect locid="tropicalrainforest:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="tropicalrainforest" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="tropicalrainforest" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="tundra" template="locationbutton">
+                                       <UIAspect locid="tundra:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="tundra" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="tundra" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="wetlands" template="locationbutton">
+                                       <UIAspect locid="wetlands:icon_stt" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_WORLD_LOCATION" data="BFString" string="wetlands" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="globe">
+                                             <child msg="ZT_SET_SECONDARY_GLOBE" data="BFString" string="wetlands" />
+                                          </event>
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="contentpack1" template="locationbutton" xPack="101">
+                                       <UIAspect locid="worldlocation:cp1africa" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_XPACK_FILTER" data="int" value="101" />
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="xpack1" template="locationbutton" xPack="1">
+                                       <UIAspect locid="worldlocation:endangered" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_XPACK_FILTER" data="int" value="1" />
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="xpack2" template="locationbutton" xPack="2">
+                                       <UIAspect locid="worldlocation:marine" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_XPACK_FILTER" data="int" value="2" />
+                                       </on>
+                                    </UIToggleButton>
+                                    <UIToggleButton name="contentpack2" template="locationbutton" xPack="3">
+                                       <UIAspect locid="worldlocation:cp2extinct" />
+                                       <text format="mainmenu:profile_name" />
+                                       <on>
+                                          <event msg="ZT_SET_XPACK_FILTER" data="int" value="3" />
+                                       </on>
+                                    </UIToggleButton>                                    
+                                 </children>
+                              </UIToggleSet>
+                              <UIText name="Map List Label">
+                                 <UIRegion x="0" y="7" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:map_location_label">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Map Select Label">
+                                 <UIRegion x="0" y="273" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:map_select_label">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                           </children>
+                        </UILayout>
+                     </children>
+                  </UILayout>
+                  <UILayout name="World Map Loacation Background">
+                     <UIRegion x="320" y="90" w="375" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\mapselect\selectback.dds">
+                           <BFRect x="0" y="0" w="512" h="64" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <children>
+                        <UIText name="Globe Label">
+                           <UIRegion x="0" y="10" w="375" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="globe_label:format">
+                              <default>
+                                 <BFFont align="center">
+                                    <BFColor r="64" g="255" b="64" a="255" />
+                                 </BFFont>
+                              </default>
+                           </UIAspect>
+                        </UIText>
+                     </children>
+                  </UILayout>
+                  <UIStatic name="button background">
+                     <UIRegion x="2" y="662" w="104" h="100" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\shared\buttonbackleft.dds">
+                           <BFRect x="0" y="27" w="104" h="100" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIButton name="Cancel Map">
+                     <UIRegion x="10" y="681" w="75" h="75" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState visible="normal" active="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="mapdata:cancel_button" />
+                     <UIAspect>
+                        <default image="ui\shared\button_back.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="uiclick">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Map Selection">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Left Layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Right Layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Main Menu Layout">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="BFS_CLEARSCENARIO" />
+                        <event msg="ZT_SCENARIO_SELECTION_CHANGED" data="BFString" string="" />
+                     </activate>
+                  </UIButton>
+               </children>
+            </UILayout>
+            <UILayout name="Right Layout">
+               <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIShowHideAnim time=".3">
+                  <start x="1024" y="0" w="1024" h="768" />
+                  <end x="0" y="0" w="1024" h="768" />
+               </UIShowHideAnim>
+               <children>
+                  <UILayout name="Map Data &amp; Background">
+                     <UIRegion x="750" y="55" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\mapselect\newpan.dds">
+                           <BFRect x="0" y="0" w="256" h="512" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <children>
+                        <UILayout name="Map Data Layout">
+                           <UIRegion x="0" y="0" w="256" h="555" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect>
+                              <default image="">
+                                 <BFRect x="0" y="0" w="301" h="455" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                           </UIAspect>
+                           <children>
+                              <UIStatic name="Map Image">
+                                 <UIRegion x="4" y="25" w="248" h="241" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default image="">
+                                       <BFRect x="0" y="0" w="256" h="256" />
+                                       <BFColor r="255" g="255" b="255" a="255" />
+                                    </default>
+                                 </UIAspect>
+                              </UIStatic>
+                              <UILayout name="Map Lock Image">
+                                 <UIRegion x="4" y="25" w="248" h="241" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="hidden" />
+                                 <UIAspect>
+                                    <default />
+                                 </UIAspect>
+                                 <UIShowHideAnim time=".3">
+                                    <colors>
+                                       <start r="255" g="255" b="255" a="0" />
+                                       <end r="255" g="255" b="255" a="128" />
+                                    </colors>
+                                 </UIShowHideAnim>
+                                 <children>
+                                    <UIStatic>
+                                       <UIRegion x="0" y="0" w="248" h="241" xalign="min" yalign="min" walign="len" halign="len" />
+                                       <UIState active="normal" visible="normal" />
+                                       <UIAspect>
+                                          <default image="ui/mapselect/lockedmap.dds">
+                                             <BFRect x="32" y="16" w="192" h="192" />
+                                             <BFColor r="255" g="255" b="255" a="192" />
+                                          </default>
+                                       </UIAspect>
+                                    </UIStatic>
+                                 </children>
+                              </UILayout>
+                              <UIText name="Map Name Label">
+                                 <UIRegion x="0" y="268" w="256" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default>
+                                       <BFFont align="center" />
+                                    </default>
+                                 </UIAspect>
+                                 <text format="mapname:largeformat">멋진 지도</text>
+                              </UIText>
+                              <UIText name="location header">
+                                 <UIRegion x="0" y="290" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="maplocation:header">
+                                    <default>
+                                       <BFFont align="center" />
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Map Location">
+                                 <UIRegion x="0" y="305" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="245" g="239" b="130" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="maplocation:format">남아프리카</text>
+                              </UIText>
+                              <UIText name="Biome Header">
+                                 <UIRegion x="0" y="325" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:biome">
+                                    <default>
+                                       <BFFont align="center" />
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Map Biome">
+                                 <UIRegion x="0" y="340" w="256" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="245" g="239" b="130" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="maplocation:format">열대 우림</text>
+                              </UIText>
+                              <UIText name="Map Size header">
+                                 <UIRegion x="0" y="360" w="128" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapsize:header">
+                                    <default>
+                                       <BFFont align="right" />
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Map Size">
+                                 <UIRegion x="130" y="360" w="128" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default>
+                                       <BFFont>
+                                          <BFColor r="245" g="239" b="130" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="maplocation:format">대형</text>
+                              </UIText>
+                              <UIText name=" Difficulty header">
+                                 <UIRegion x="0" y="380" w="128" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="difficulty:header">
+                                    <default>
+                                       <BFFont align="right" />
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIText name="Scenario Difficulty">
+                                 <UIRegion x="130" y="380" w="128" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default>
+                                       <BFFont>
+                                          <BFColor r="245" g="239" b="130" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="difficulty:format">매우 어려움</text>
+                              </UIText>
+                              <UIText name="Map Info Label">
+                                 <UIRegion x="0" y="2" w="256" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:map_info_label">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UISlider name="Starting Cash Slider" min="5000" max="100000000" inc="100" value="30000">
+                                 <UIRegion x="20" y="390" w="270" h="50" />
+                                 <UIState active="normal" visible="normal" />
+                                 <children>
+                                    <UIPushButton name="slideup" interval="0.2" holdChange="0.85" holdCap="0.01">
+                                       <UIRegion x="150" y="0" w="37" h="22" />
+                                       <UIAspect>
+                                          <default image="ui/shared/button_spinners.dds">
+                                             <BFRect x="0" y="0" w="37" h="22" />
+                                             <BFColor r="255" g="255" b="255" a="255" />
+                                          </default>
+                                          <standard>
+                                             <normal>
+                                                <BFRect x="0" y="0" w="37" h="22" />
+                                             </normal>
+                                             <highlighted>
+                                                <BFRect x="0" y="22" w="37" h="22" />
+                                             </highlighted>
+                                             <activated>
+                                                <BFRect x="37" y="0" w="37" h="22" />
+                                             </activated>
+                                             <disabled>
+                                                <BFRect x="37" y="22" w="37" h="22" />
+                                                <BFColor r="255" g="255" b="255" a="0" />
+                                             </disabled>
+                                          </standard>
+                                       </UIAspect>
+                                       <activate>
+                                          <event msg="UI_SCROLL" data="BFPoint" x="+1" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="number">
+                                             <child msg="UI_SEND_TEXT" data="BFType" type="ZT_SET_STARTING_SCENARIO_CASH" />
+                                          </event>
+                                       </activate>
+                                    </UIPushButton>
+                                    <UIPushButton name="slidedown" interval="0.2" holdChange="0.85" holdCap="0.01">
+                                       <UIRegion x="150" y="18" w="37" h="22" />
+                                       <UIAspect>
+                                          <default image="ui/shared/button_spinners.dds">
+                                             <BFRect x="0" y="0" w="37" h="22" />
+                                             <BFColor r="255" g="255" b="255" a="255" />
+                                          </default>
+                                          <standard>
+                                             <normal>
+                                                <BFRect x="0" y="44" w="37" h="22" />
+                                             </normal>
+                                             <highlighted>
+                                                <BFRect x="0" y="66" w="37" h="22" />
+                                             </highlighted>
+                                             <activated>
+                                                <BFRect x="37" y="44" w="37" h="22" />
+                                             </activated>
+                                             <disabled>
+                                                <BFRect x="37" y="66" w="37" h="22" />
+                                                <BFColor r="255" g="255" b="255" a="0" />
+                                             </disabled>
+                                          </standard>
+                                       </UIAspect>
+                                       <activate>
+                                          <event msg="UI_SCROLL" data="BFPoint" x="-1" />
+                                          <event msg="UI_CHILD" data="UIChildData" name="number">
+                                             <child msg="UI_SEND_TEXT" data="BFType" type="ZT_SET_STARTING_SCENARIO_CASH" />
+                                          </event>
+                                       </activate>
+                                    </UIPushButton>
+                                    <ZTMoneyText name="number" posformat="mapdata:posformat" nocents="true" nominus="false">
+                                       <UIRegion x="10" y="8" w="135" h="24" xalign="min" yalign="min" walign="len" halign="len" />
+                                       <UIAspect>
+                                          <default>
+                                             <BFFont align="right">
+                                                <BFColor r="255" g="255" b="255" a="255" />
+                                             </BFFont>
+                                          </default>
+                                       </UIAspect>
+                                    </ZTMoneyText>
+                                 </children>
+                                 <field name="number" type="float" fmt="%.2f" />
+                              </UISlider>
+                              <UIText name="Unlimited Display">
+                                 <UIRegion x="0" y="400" w="256" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="mapdata:unlimited">
+                                    <default>
+                                       <BFFont align="center">
+                                          <BFColor r="64" g="255" b="64" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                              </UIText>
+                              <UIListBox name="Scenario Description Layout" template="panel">
+                                 <UIRegion x="8" y="430" w="246" h="120" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect>
+                                    <default image="" sound="" />
+                                 </UIAspect>
+                                 <children>
+                                    <UIText name="Scenario Description" autosize="true">
+                                       <UIRegion x="0" y="0" w="225" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+                                       <UIState active="normal" visible="normal" />
+                                       <UIAspect locid="">
+                                          <default>
+                                             <BFFont>
+                                                <BFColor r="250" g="250" b="200" a="255" />
+                                             </BFFont>
+                                          </default>
+                                       </UIAspect>
+                                       <text format="maplocation:format" type="multi">지도 설명</text>
+                                    </UIText>
+                                 </children>
+                              </UIListBox>
+                           </children>
+                        </UILayout>
+                     </children>
+                  </UILayout>
+                  <UIStatic name="Map Location Background">
+                     <UIRegion x="255" y="630" w="500" h="105" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\mapselect\maplocback.dds">
+                           <BFRect x="0" y="0" w="512" h="128" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIText name="Map Name Field">
+                     <UIRegion x="255" y="640" w="500" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="">
+                           <BFFont align="center" />
+                           <BFRect x="0" y="0" w="512" h="20" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <text format="map_name_field:format" />
+                  </UIText>
+                  <UIText name="Map Biome Field">
+                     <UIRegion x="255" y="675" w="500" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="">
+                           <BFFont align="center" />
+                           <BFRect x="0" y="0" w="250" h="20" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <text format="map_other_field:format" />
+                  </UIText>
+                  <UIText name="Map Location Field">
+                     <UIRegion x="255" y="695" w="500" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="">
+                           <BFFont align="center" />
+                           <BFRect x="0" y="0" w="250" h="20" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                     <text format="map_other_field:format" />
+                  </UIText>
+                  <UIStatic name="button background">
+                     <UIRegion x="900" y="662" w="122" h="101" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\shared\buttonbackright.dds">
+                           <BFRect x="12" y="27" w="114" h="101" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIButton name="Play Map">
+                     <UIRegion x="935" y="680" w="75" h="75" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState visible="normal" active="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="mapdata:play_button" />
+                     <UIAspect>
+                        <default image="ui\shared\button_ok.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="uiclick">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Map Selection">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Left Layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Right Layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Main Menu Layout">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Main Menu">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Selected Scenario Map">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="ZT_LOADGAME" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Selected Scenario Map">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="ZT_CACHE_MAPDATA" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="number">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="ZT_GIVE_CASHGRANT" />
+                        </event>
+                     </activate>
+                  </UIButton>
+               </children>
+            </UILayout>
+            <ZTGlobe name="globe" cursor="rotate.cur" selectionRotateSpeed="2.0" dotHighlightCursor="hyperlnk.cur" mouseIncrement=".01" mouseDownFriction=".4" mouseUpFriction=".015" frictionTransitionTime=".5" moveTime="1.0" screamThreshold="7.0" screamDelay="5.0">
+               <UIRegion x="297" y="169" w="430" h="430" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIAspect alwayshit="true" draw3D="true">
+                  <default image="ui\layout\white1x1.dds">
+                     <BFColor r="255" g="255" b="255" a="0" />
+                  </default>
+               </UIAspect>
+               <globe>
+                  <BFPhysObj>
+                     <position x="0" y="100" z="0" />
+                     <BFSceneGraphComponent modelfile="ui/globe/earth.nif" allowAllNodes="true" />
+                  </BFPhysObj>
+               </globe>
+               <clouds>
+                  <BFPhysObj>
+                     <position x="0" y="100" z="0" />
+                     <BFSceneGraphComponent modelfile="ui/globe/clouds.nif" allowAllNodes="true" />
+                  </BFPhysObj>
+               </clouds>
+               <dot>
+                  <BFPhysObj>
+                     <position x="0" y="100" z="0" />
+                     <BFSceneGraphComponent modelfile="ui/globe/mapdot_normal.nif" allowAllNodes="true" />
+                     <BFCollisionComponent />
+                  </BFPhysObj>
+               </dot>
+               <selected>
+                  <BFPhysObj>
+                     <position x="0" y="100" z="0" />
+                     <BFSceneGraphComponent modelfile="ui/globe/mapdot_selected.nif" allowAllNodes="true" />
+                  </BFPhysObj>
+               </selected>
+               <highlighted>
+                  <BFPhysObj>
+                     <position x="0" y="100" z="0" />
+                     <BFSceneGraphComponent modelfile="ui/globe/mapdot_selected.nif" allowAllNodes="true" />
+                  </BFPhysObj>
+               </highlighted>
+               <dotHighlightColor r="255" g="96" b="0" />
+               <secondaryGlobe>
+                  <grassland>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_grassland.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </grassland>
+                  <savannah>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_savannah.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </savannah>
+                  <desert>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_desert.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </desert>
+                  <alpine>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_alpine.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </alpine>
+                  <tundra>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_tundra.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </tundra>
+                  <tropicalrainforest>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_rainforest.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </tropicalrainforest>
+                  <temperateforest>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_temperate.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </temperateforest>
+                  <borealforest>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_boreal.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </borealforest>
+                  <scrub>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_scrub.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </scrub>
+                  <wetlands>
+                     <BFPhysObj>
+                        <position x="0" y="100" z="0" />
+                        <BFSceneGraphComponent modelfile="ui/globe/earth_biome_wetlands.nif" allowAllNodes="true" />
+                     </BFPhysObj>
+                  </wetlands>
+               </secondaryGlobe>
+            </ZTGlobe>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

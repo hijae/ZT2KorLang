@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9" />
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">흰돌고래</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>						 
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="255" g="255" b="0"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     취약
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라</font><br /></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+				 </cell>
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">북극해</font></color>
+                  <br />
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+               </cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: 포유류 (Mammalia)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: 고래목 (Cetacea)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: 일각고래과  (Monodontidae)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">Delphinapterus</font>
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">leucas</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>				 
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰돌고래는 짙은 회색, 갈색 또는 검은색을 띠고 태어나지만 서서히 흰색으로 변하면서 5살 정도가 되면 완전히 흰색이 됩니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰돌고래는 앞뿐만 아니라 뒤를 향해서도 헤엄칠 수 있습니다!</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰돌고래는 먹이를 씹지 않고 통째로 삼켜 버립니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰돌고래는 수심이 얕은 지역의 바닥 근처에서 먹이를 구하기 때문에 해저에 머무는 물고기를 주로 먹습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰돌고래의 목은 매우 유연하여 먹이를 먹으면서도 쉽게 움직일 수 있으며, 입의 흡입력을 강하게 해서 먹히지 않으려고 저항하는 먹잇감을 쉽게 빨아들입니다. </font></color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 흰돌고래를 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">이빨고래류인 흰돌고래는 돌고래와 가깝지만 머리모양과 짧은 지느러미로 쉽게 구별할 수 있습니다. 흰돌고래의 영문 명칭인 '벨루가'는 흰색을 뜻하는 러시아어 '벨루하'에서 유래되었습니다. 등지느러미가 없는 흰돌고래는 태어날 때 몸 전체가 검은색이나 짙은 갈색이지만 5살 정도 되면 우윳빛의 흰색으로 변합니다. 수컷은 최대 길이가 7m에 달하며, 암컷은 이보다 조금 작습니다. 수천 마리씩 무리를 지어서 이동하면서 물고기, 문어, 게, 고둥, 오징어를 먹습니다. 주로 북극해에 서식하며 미국의 뉴저지와 유럽의 라인강 유역까지 남하하는 경우도 있습니다.     
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> © 마이크로소프트 1993-2005. 모든 권리 보유.
+         </font></color></cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9" />
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">록호퍼펭귄</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>						 
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="255" g="255" b="0"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     취약
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">연안</font><br /></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+				 </cell>
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">남극해 군도</font></color>
+                  <br />
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+               </cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: 조류 (Aves)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: 펭귄목 (Sphenisciformes)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: 펭귄과 (Spheniscidae)
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">Eudyptes</font>
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">chrysocome</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>				 
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">암컷은 번식 기간 동안 대개 2개의 알을 낳지만 그 중 하나만 품습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">록호퍼펭귄의 평균 수명은 10년입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">수컷은 머리를 흔들어 머리에 있는 노란색 장식깃으로 시선을 끌면서 암컷에게 구애합니다.</font></color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 록호퍼펭귄을 입양하려면 동물원 명성을 별 2개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">록호퍼펭귄은 그들의 서식지인 바위 섬에서 바위 사이를 이리저리 뛰어다니는 모습 때문에 '록호퍼'라는 이름이 붙었습니다. 이들은 아남극 펭귄종으로 포클랜드 제도, 맥쿼리 섬, 안티포디스 제도 같은 남쪽 섬들에 주로 서식합니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">멋지고 인상적인 장식깃과 진한 붉은 색의 눈을 지닌 록호퍼펭귄은 강렬한 눈빛처럼 공격적인 성격의 소유자입니다. 이들이 둥지를 틀기에 좋은 바위 지대를 차지하려고 싸우는 모습은 흔하게 볼 수 있습니다. 덩치는 작지만 물갈퀴가 달린 다리와 날개의 힘이 강해서 사냥과 수영 솜씨가 뛰어납니다.
+				</font></color><p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">주로 샛비늘치와 크릴 새우를 먹고, 때로 작은 오징어를 잡아 먹기도 합니다. 청새리상어, 레오퍼드바다표범, 물개가 천적이며, 육지에 있는 알이나 새끼는 갈매기를 비롯한 다른 새들에게 쉽게 공격을 받습니다. 
+				</font></color><p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">록호퍼펭귄은 해안의 바위 지역에 둥지를 틀기 때문에 물에서 바위까지 뛰어 오르는 기술은 생존과 직결됩니다.  
+         </font></color></cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UIButton name="TextButtonExample">
+   <UIRegion x="50" y="50" w="150" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="normal" />
+   <UIAspect string="글자 단추">
+      <default image="" />
+      <normal>
+         <BFFont name="Gulim" size="16">
+            <BFColor r="255" g="255" b="255" a="255" />
+         </BFFont>
+      </normal>
+      <activated>
+         <BFFont name="Gulim" size="16" underline="1">
+            <BFColor r="194" g="194" b="0" a="255" />
+         </BFFont>
+      </activated>
+      <highlighted>
+         <BFFont name="Gulim" size="16" underline="1">
+            <BFColor r="255" g="255" b="0" a="255" />
+         </BFFont>
+      </highlighted>
+      <disabled />
+   </UIAspect>
+   <UIHotKeys />
+</UIButton>

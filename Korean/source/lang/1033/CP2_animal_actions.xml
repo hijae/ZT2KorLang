@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:ShooOther">%s 쫓아내는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Shoo">쫓아내는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooAngry">화가 나서 울음소리를 내는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooHappy">만족해서 울음소리를 내는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MooAt">%s에게 울음소리를 내는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BeckonOther">%s에게 가까이 오라고 손짓하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:Beckon">가까이 오라고 손짓하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MotionOther">%s에게 몸짓하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MotionOtherBack">%s에게 몸짓으로 응답하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:PlayInWater">물에서 노는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GapeAt">%s에게 입을 벌려 보이는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GapeAnswer">%s에게 응답하여 입을 벌려 보이는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:StandTwoLegs">두 발로 서려고 하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WaitingToRub">%s에게 몸을 비비려고 기다리는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToRollInSnow">눈 위에서 뒹굴러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:RollingInSnow">눈 위에서 뒹구는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:AggressiveAngry">공격적으로 행동하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WanderAimless">정처 없이 돌아다니는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToBashBuilding">%s 들이받으러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BashingBuilding">%s 들이받는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:AttemptBash">%s 파손에 실패하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:RunningAroundRampage">난동을 부리며 뛰어다니는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GettingShocked">%s에게 전기 충격을 받는 중</LOC_STRING>
+</ZT2Strings>

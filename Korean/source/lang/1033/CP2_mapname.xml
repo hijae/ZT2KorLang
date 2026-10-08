@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="mapname:gobidesert">
+	고비 사막(소형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:frostyalps">
+	알프스 산맥(중형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:americanprairie">
+	아메리카 대초원(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:amazonbasin">
+	아마존 분지(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:fossilridge">
+	화석 산릉(대형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapname:extinctjunior">
+	초급 멸종 동물원(소형)
+	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:gobidesertdescription">
+   	고비 사막에서는 멸종 동물의 화석이 쌓인 지층이 많이 발견되었습니다. 폭포와 오아시스가 생명 유지에 필요한 물과 식물 자원을 제공합니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:americanprairiedescription">
+   	북아메리카의 대초원에는 많은 동물 종이 삽니다. 마지막 빙하기 이후 사람들의 초원 이용이 늘어나면서, 이곳에 사는 종들도 계속 변하고 있습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:frostyalpsdescription">
+   	이 북쪽 고산 지대의 험준한 산과 눈 덮인 봉우리는 동물원 건설에 도전과 모험을 제공하며, 놀라운 경관을 선사합니다!
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:amazonbasindescription">
+   	범람했던 아마존강의 물이 빠지면서 풍요로운 습지가 드러났습니다. 강을 따라 흐르는 폭포가 동물원을 위한 무성하고 이국적인 풍경을 만들어 줍니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:fossilridgedescription">
+   	관목 지대와 숲이 만나는 산등성이에 있는 이곳에서 고생물학자들이 화석이 쌓인 지층을 발굴했습니다. 
+   	</LOC_STRING>
+      <LOC_STRING _locID="mapdescription:extinctjuniordescription">
+   	새 사육사를 위해 특별히 만든 동물원으로, 필요한 것이 거의 모두 갖춰져 있습니다. 동물을 데려와 먹이만 주면 됩니다!
+   	</LOC_STRING>
+
+</ZT2Strings>

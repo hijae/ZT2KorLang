@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_about:entry">도움말/주타이쿤 2 정보</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_about:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				마이크로소프트사를 위해 블루 팽 게임즈™가 개발했습니다.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				블루 팽 게임즈와 블루 팽 로고는 블루 팽 게임즈 유한책임회사의 상표입니다.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  제품 식별 번호를 보려면 주타이쿤 2 디스크를 시디롬 드라이브에 삽입하십시오. 	
+                  
+                  
+                  
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+디스크를 삽입하면 나타나는 자동 실행 화면에 제품 식별 번호가 표시됩니다. 	            
+                  </font><p />
+                  <img src="ui/zoopedia/MsGslogo_white.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/radlogo.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				이 소프트웨어의 일부는 사용 허가를 받아 포함되었습니다. © 1997-2004 뉴메리컬 디자인 유한회사. 모든 권리를 보유합니다. 게임브리오®는 뉴메리컬 디자인 유한회사의 등록 상표입니다.
+				
+                  
+                  
+                  
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				마일스 사운드 시스템을 사용합니다. 저작권 © 1991-2002 래드 게임 툴스사.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				빙크 비디오를 사용합니다. 저작권 © 1997-2004 래드 게임 툴스사.
+				
+                  
+                  
+				
+                  
+                  
+                  
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+				
+                  
+                  
+				경고: 이 컴퓨터 프로그램은 저작권법과 국제 조약의 보호를 받습니다. 이 프로그램의 전부 또는 일부를 허가 없이 복제하거나 배포하면 엄중한 민사상 및 형사상 처벌을 받을 수 있으며, 법이 허용하는 최대 범위에서 기소됩니다.
+				
+               
+               
+				
+               
+               
+               
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

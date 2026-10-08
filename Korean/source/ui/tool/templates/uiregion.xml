@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="editUIRegion">
+	<UIRegion x="10" y="0" w="0" h="100" walign="max" />
+	<children>
+		<UIStatic>
+			<UIRegion x="0" y="0" w="250" h="20" />
+			<UIAspect string="화면 영역 정보" />
+		</UIStatic>
+		<UIStatic>
+			<UIRegion x="10" y="20" w="60" h="20" />
+			<UIAspect string="x" />
+		</UIStatic>
+		<UITextEdit name="x">
+			<UIRegion x="70" y="20" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="130" y="20" w="60" h="20" />
+			<UIAspect string="가로 위치 정렬" />
+		</UIStatic>
+		<UITextEdit name="xalign">
+			<UIRegion x="190" y="20" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="10" y="40" w="60" h="20" />
+			<UIAspect string="y" />
+		</UIStatic>
+		<UITextEdit name="y">
+			<UIRegion x="70" y="40" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="130" y="40" w="60" h="20" />
+			<UIAspect string="세로 위치 정렬" />
+		</UIStatic>
+		<UITextEdit name="yalign">
+			<UIRegion x="190" y="40" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="10" y="60" w="60" h="20" />
+			<UIAspect string="w" />
+		</UIStatic>
+		<UITextEdit name="w">
+			<UIRegion x="70" y="60" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="130" y="60" w="60" h="20" />
+			<UIAspect string="너비 정렬" />
+		</UIStatic>
+		<UITextEdit name="walign">
+			<UIRegion x="190" y="60" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="10" y="80" w="60" h="20" />
+			<UIAspect string="h" />
+		</UIStatic>
+		<UITextEdit name="h">
+			<UIRegion x="70" y="80" w="60" h="20" />
+		</UITextEdit>
+		<UIStatic>
+			<UIRegion x="130" y="80" w="60" h="20" />
+			<UIAspect string="높이 정렬" />
+		</UIStatic>
+		<UITextEdit name="halign">
+			<UIRegion x="190" y="80" w="60" h="20" />
+		</UITextEdit>
+	</children>
+</UILayout>

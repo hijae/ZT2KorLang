@@ -1,0 +1,1754 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="Settings Panel">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="normal" />
+   <UIAspect string="">
+      <default image="" sound="">
+         <BFRect x="0" y="0" w="0" h="0" />
+         <BFColor r="255" g="255" b="255" a="255" />
+      </default>
+   </UIAspect>
+   <children>
+      <UILayout name="back ground pieces">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <children>
+            <UILayout name="background graphic" template="blank">
+               <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+            <UILayout name="header graphic" template="header">
+               <UIRegion x="0" y="0" w="0" h="30" xalign="min" yalign="min" walign="max" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UILayout name="Left Advanced Options layout">
+         <UIRegion x="50" y="135" w="320" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="hidden" />
+         <UIShowHideAnim time=".3">
+            <start x="370" y="135" w="0" h="480" />
+            <end x="50" y="135" w="320" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+         </UIShowHideAnim>
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <children>
+            <UILayout name="Left well graphic" template="panelwell">
+               <UIRegion x="0" y="0" w="320" h="470" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="" />
+               </UIAspect>
+            </UILayout>
+            <UILayout name="Advanced Options Left">
+               <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect string="">
+                  <default image="" sound="">
+                     <BFRect x="0" y="0" w="0" h="0" />
+                     <BFColor r="0" g="0" b="0" a="0" />
+                  </default>
+               </UIAspect>
+               <UIHotKeys />
+               <children>
+                  <UILayout name="2d Sound FX Volume">
+                     <UIRegion x="10" y="10" w="300" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <children>
+                        <UIText name="MusicVolumeSliderLabel">
+                           <UIRegion x="0" y="0" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:twodvolume">
+                              <default image="ui/shared/back_buy.dds" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="59" g="83" b="66" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="17" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                        </UIText>
+                        <UISlider name="2dSoundFXVolumeSlider" min="0" max="100" inc="5" value="100">
+                           <UIRegion x="10" y="18" w="290" h="22" />
+                           <UIAspect alwayshit="true" />
+                           <UIHotKeys>
+                              <down code="38" msg="UI_SCROLL" data="BFPoint" y="-1" />
+                              <down code="40" msg="UI_SCROLL" data="BFPoint" y="+1" />
+                           </UIHotKeys>
+                           <children>
+                              <UIStatic name="slideback">
+                                 <UIRegion w="90" h="100" walign="% min" halign="% min" />
+                                 <UIAspect alwayshit="never">
+                                    <default image="ui/shared/c_back_D.dds" />
+                                 </UIAspect>
+                              </UIStatic>
+                              <UIText name="number">
+                                 <UIRegion x="0" y="0" h="20" w="45" />
+                                 <UIAspect>
+                                    <default image="">
+                                       <BFFont y="3" align="center">
+                                          <BFColor r="255" g="255" b="255" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="options:number" />
+                              </UIText>
+                              <UIDrag name="thumb">
+                                 <UIRegion y="0" w="53" h="20" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:twod_audio_thumb_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="39" w="53" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="6" w="53" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="0" y="6" w="53" h="20" />
+                                       </activated>
+                                    </standard>
+                                 </UIAspect>
+                                 <drag>
+                                    <UIDragCommand msg="UI_MOUSE_DRAG" axis="x" />
+                                 </drag>
+                              </UIDrag>
+                              <UIPushButton name="slideup">
+                                 <UIRegion x="45" y="0" w="10" h="100" halign="% min" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:twod_audio_lower_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="1" y="66" w="10" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="12" y="66" w="10" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="23" y="66" w="10" h="20" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="34" y="66" w="10" h="20" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <activate>
+                                    <event msg="UI_SCROLL" data="BFPoint" x="-1" />
+                                 </activate>
+                              </UIPushButton>
+                              <UIPushButton name="slidedown">
+                                 <UIRegion x="259" y="0" w="10" h="100" halign="% min" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:twod_audio_higher_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="87" w="10" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="12" y="87" w="10" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="23" y="87" w="10" h="20" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="34" y="37" w="10" h="20" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <activate>
+                                    <event msg="UI_SCROLL" data="BFPoint" x="+1" />
+                                 </activate>
+                              </UIPushButton>
+                           </children>
+                           <thumb name="thumb" axis="x">
+                              <UIRegion x="75" y="0" w="-50" h="90" walign="max" halign="% min" />
+                           </thumb>
+                           <field name="number" type="float" fmt="%.0f%%" />
+                        </UISlider>
+                     </children>
+                  </UILayout>
+                  <UILayout name="3d Sound FX Volume">
+                     <UIRegion x="10" y="50" w="300" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <children>
+                        <UIText name="MusicVolumeSliderLabel">
+                           <UIRegion x="0" y="7" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:threedvolume">
+                              <default image="ui/shared/back_buy.dds" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="59" g="83" b="66" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="17" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                        </UIText>
+                        <UISlider name="3dSoundFXVolumeSlider" min="0" max="100" inc="5" value="100">
+                           <UIRegion x="10" y="25" w="290" h="22" />
+                           <UIAspect alwayshit="true" />
+                           <UIHotKeys>
+                              <down code="38" msg="UI_SCROLL" data="BFPoint" y="-1" />
+                              <down code="40" msg="UI_SCROLL" data="BFPoint" y="+1" />
+                           </UIHotKeys>
+                           <children>
+                              <UIStatic name="slideback">
+                                 <UIRegion w="90" h="100" walign="% min" halign="% min" />
+                                 <UIAspect alwayshit="never">
+                                    <default image="ui/shared/c_back_D.dds" />
+                                 </UIAspect>
+                              </UIStatic>
+                              <UIText name="number">
+                                 <UIRegion x="0" y="0" h="20" w="45" />
+                                 <UIAspect>
+                                    <default image="">
+                                       <BFFont y="3" align="center">
+                                          <BFColor r="255" g="255" b="255" a="255" />
+                                       </BFFont>
+                                    </default>
+                                 </UIAspect>
+                                 <text format="options:number" />
+                              </UIText>
+                              <UIDrag name="thumb">
+                                 <UIRegion y="0" w="53" h="20" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:threed_audio_thumb_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="39" w="53" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="6" w="53" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="0" y="6" w="53" h="20" />
+                                       </activated>
+                                    </standard>
+                                 </UIAspect>
+                                 <drag>
+                                    <UIDragCommand msg="UI_MOUSE_DRAG" axis="x" />
+                                 </drag>
+                              </UIDrag>
+                              <UIPushButton name="slideup">
+                                 <UIRegion x="45" y="0" w="10" h="100" halign="% min" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:threed_audio_lower_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="1" y="66" w="10" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="12" y="66" w="10" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="23" y="66" w="10" h="20" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="34" y="66" w="10" h="20" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <activate>
+                                    <event msg="UI_SCROLL" data="BFPoint" x="-1" />
+                                 </activate>
+                              </UIPushButton>
+                              <UIPushButton name="slidedown">
+                                 <UIRegion x="259" y="0" w="10" h="100" halign="% min" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:threed_audio_higher_button" />
+                                 <UIAspect>
+                                    <default image="ui/shared/slider_B_horiz.dds" />
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="87" w="10" h="20" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="12" y="87" w="10" h="20" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="23" y="87" w="10" h="20" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="34" y="37" w="10" h="20" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <activate>
+                                    <event msg="UI_SCROLL" data="BFPoint" x="+1" />
+                                 </activate>
+                              </UIPushButton>
+                           </children>
+                           <thumb name="thumb" axis="x">
+                              <UIRegion x="75" y="0" w="-50" h="90" walign="max" halign="% min" />
+                           </thumb>
+                           <field name="number" type="float" fmt="%.0f%%" />
+                        </UISlider>
+                     </children>
+                  </UILayout>
+                  <UILayout name="sound quality toggle set">
+                     <UIRegion x="10" y="105" w="456" h="600" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText name="Sound Mode Label">
+                           <UIRegion x="0" y="0" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:soundmode">
+                              <default image="ui/shared/back_buy.dds" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="59" g="83" b="66" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="17" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                        <UIToggleSet name="Sound Mode ToggleSet">
+                           <UIRegion x="0" y="10" w="350" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHotKeys />
+                           <children>
+                              <UIToggleButton name="Sound Mode 16" sticky="1">
+                                 
+                                 <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:soundmode_16bit" />
+                                 <UIAspect string="">
+                                    <default image="ui\shared\button_check.dds" />
+                                    <alternate>
+                                       <normal>
+                                          <BFRect x="0" y="0" w="64" h="64" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="64" w="64" h="64" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="64" y="0" w="64" h="64" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="64" y="64" w="64" h="64" />
+                                       </disabled>
+                                    </alternate>
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="128" w="64" h="64" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="192" w="64" h="64" />
+                                       </highlighted>
+                                       <activated sound="uicheck">
+                                          <BFRect x="64" y="128" w="64" h="64" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="64" y="192" w="64" h="64" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <UIHotKeys />
+                                 <on>
+                                    <event msg="ZT_EVENT" data="BFString" string="use8bitsoundsoff" />
+                                 </on>
+                              </UIToggleButton>
+                              <UIText name="Sound Mode 16 Text" sticky="1">
+                                 <UIRegion x="55" y="15" w="246" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="options:soundmode_16bit">
+                                    <default image="">
+                                       <BFFont y="10" />
+                                       <BFColor r="255" g="255" b="255" a="255" />
+                                    </default>
+                                 </UIAspect>
+                                 <UIHotKeys />
+                                 <on>
+                                    <event msg="ZT_EVENT" data="BFString" string="use8bitsoundsoff" />
+                                 </on>
+                              </UIText>
+                              <UIToggleButton name="Sound Mode 8" sticky="1">
+                                 <UIRegion x="145" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIHelpInfo name="" short="" long="" help="" ids="options:soundmode_8bit" />
+                                 <UIAspect string="">
+                                    <default image="ui\shared\button_check.dds" />
+                                    <alternate>
+                                       <normal>
+                                          <BFRect x="0" y="0" w="64" h="64" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="64" w="64" h="64" />
+                                       </highlighted>
+                                       <activated>
+                                          <BFRect x="64" y="0" w="64" h="64" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="64" y="64" w="64" h="64" />
+                                       </disabled>
+                                    </alternate>
+                                    <standard>
+                                       <normal>
+                                          <BFRect x="0" y="128" w="64" h="64" />
+                                       </normal>
+                                       <highlighted>
+                                          <BFRect x="0" y="192" w="64" h="64" />
+                                       </highlighted>
+                                       <activated sound="uicheck">
+                                          <BFRect x="64" y="128" w="64" h="64" />
+                                       </activated>
+                                       <disabled>
+                                          <BFRect x="64" y="192" w="64" h="64" />
+                                       </disabled>
+                                    </standard>
+                                 </UIAspect>
+                                 <UIHotKeys />
+                                 <on>
+                                    <event msg="ZT_EVENT" data="BFString" string="use8bitsoundson" />
+                                 </on>
+                              </UIToggleButton>
+                              <UIText name="Sound Mode 8 Text" sticky="1">
+                                 <UIRegion x="200" y="15" w="100" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                                 <UIState active="normal" visible="normal" />
+                                 <UIAspect locid="options:soundmode_8bit">
+                                    <default image="">
+                                       <BFFont y="10" />
+                                       <BFColor r="255" g="255" b="255" a="255" />
+                                    </default>
+                                    <standard>
+                                       <normal />
+                                       <activated />
+                                       <highlighted />
+                                       <disabled />
+                                    </standard>
+                                    <alternate>
+                                       <normal>
+                                          <BFFont size="12" x="1" y="1" bold="1" underline="1">
+                                             <BFColor r="220" g="220" b="0" a="255" />
+                                          </BFFont>
+                                       </normal>
+                                       <disabled />
+                                    </alternate>
+                                 </UIAspect>
+                                 <on>
+                                    <event msg="ZT_EVENT" data="BFString" string="use8bitsoundson" />
+                                 </on>
+                                 <UIHotKeys />
+                              </UIText>
+                           </children>
+                        </UIToggleSet>
+                     </children>
+                  </UILayout>
+                  <UILayout name="Audio Board Settings">
+                     <UIRegion x="10" y="170" w="456" h="300" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText name="Audio Board Setting Text">
+                           <UIRegion x="0" y="0" w="290" h="15" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:audioboardsettingtext">
+                              <default image="ui/shared/back_buy.dds" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="59" g="83" b="66" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="15" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                        <UILayout name="Audio Setting background" template="uneditfield">
+                           <UIRegion x="10" y="17" w="265" h="33" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="" />
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UILayout>
+                        <UIText name="Audio Setting">
+                           <UIRegion x="10" y="18" w="262" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="">
+                                 <BFFont x="3" y="0" align="center">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="15" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                           <text type="multi" format="options:audio_rez_display_font" />
+                        </UIText>
+                        <UILayout template="panelwell">
+                           <UIRegion x="10" y="50" w="265" h="90" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIAspect>
+                              <default image="">
+                                 <BFRect x="0" y="0" w="256" h="205" />
+                              </default>
+                           </UIAspect>
+                           <UIState active="normal" visible="normal" />
+                           <UIHotKeys />
+                           <children />
+                        </UILayout>
+                        <UIToggleSet name="ProvidersList" template="listbox" rows="-1">
+                           <UIRegion x="10" y="53" w="260" h="84" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="optionshelp:soundproviders" />
+                           <hscroll name="none" />
+                        </UIToggleSet>
+                     </children>
+                  </UILayout>
+                  <UILayout name="Video Resolution Layout">
+                     <UIRegion x="10" y="307" w="280" h="192" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText name="Video Resolution Text">
+                           <UIRegion x="0" y="7" w="138" h="15" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:videoresolution">
+                              <default image="ui/shared/back_buy.dds" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="59" g="83" b="66" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="15" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                        <UILayout name="Video Setting background" template="uneditfield">
+                           <UIRegion x="10" y="25" w="265" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="" />
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UILayout>
+                        <UIText name="Video Setting">
+                           <UIRegion x="10" y="30" w="265" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="">
+                                 <BFFont x="5" y="0">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                 </BFFont>
+                                 <BFRect x="0" y="0" w="138" h="15" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                           <text type="multi" format="options:audio_rez_display_font" />
+                        </UIText>
+                        <UILayout name="List background" template="panelwell">
+                           <UIRegion x="10" y="50" w="265" h="96" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIAspect>
+                              <default image="ui/shared/dropdwn_back.dds">
+                                 <BFRect x="0" y="0" w="256" h="205" />
+                              </default>
+                           </UIAspect>
+                        </UILayout>
+                        <UIToggleSet name="ResolutionList" template="listbox" rows="-1">
+                           <UIRegion x="10" y="53" w="260" h="90" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIAspect>
+                              <default />
+                           </UIAspect>
+                           <UIState visible="normal" />
+                        </UIToggleSet>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UILayout name="Right Advanced Options layout">
+         <UIRegion x="650" y="135" w="332" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="hidden" />
+         <UIShowHideAnim time=".3">
+            <start x="650" y="135" w="0" h="480" />
+            <end x="650" y="135" w="332" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+         </UIShowHideAnim>
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <children>
+            <UILayout name="Right well graphic" template="panelwell">
+               <UIRegion x="0" y="0" w="332" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+            <UILayout name="Advanced Options Right">
+               <UIRegion x="0" y="0" w="332" h="480" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect string="">
+                  <default image="" sound="">
+                     <BFRect x="0" y="0" w="0" h="0" />
+                     <BFColor r="0" g="0" b="0" a="0" />
+                  </default>
+               </UIAspect>
+               <UIHotKeys />
+               <children>
+                  <UIListBox name="Slider List" template="listbox" rows="-1">
+                     <UIRegion x="30" y="3" w="300" h="474" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                  </UIListBox>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UILayout name="Ui back ground ">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="0" g="0" b="0" a="0" />
+            </default>
+         </UIAspect>
+         <children>
+            <UIStatic name="background graphic 1">
+               <UIRegion x="350" y="90" w="324" h="613" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="ui/options/optionpanel.dds">
+                     <BFRect x="0" y="0" w="324" h="613" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UIStatic>
+         </children>
+      </UILayout>
+      <UIText name="options Label">
+         <UIRegion x="24" y="5" w="1024" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect locid="options:options_label">
+            <default image="" sound="">
+               <BFRect x="0" y="0" w="135" h="17" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <UIHotKeys />
+      </UIText>
+      <UIText name="Video Menu Label">
+         <UIRegion x="390" y="115" w="250" h="35" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect locid="options:videooptions">
+            <default image="" sound="">
+               <BFFont align="center">
+                  <BFColor r="59" g="83" b="66" a="255" />
+               </BFFont>
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <UIHotKeys />
+         <text type="multi" />
+      </UIText>
+      <UILayout name="Main Options">
+         <UIRegion x="0" y="20" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect string="">
+            <default image="" sound="">
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="0" g="0" b="0" a="0" />
+            </default>
+         </UIAspect>
+         <UIHotKeys />
+         <children>
+            <UILayout name="detail setting">
+               <UIRegion x="370" y="119" w="350" h="450" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="Video Quality Label">
+                     <UIRegion x="15" y="3" w="230" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="options:videoquality">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="15" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+                  <UIToggleSet name="Quality Menu">
+                     <UIRegion x="10" y="15" w="500" h="320" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect string="">
+                        <default image="" sound="">
+                           <BFRect x="0" y="0" w="0" h="0" />
+                           <BFColor r="0" g="0" b="0" a="0" />
+                        </default>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <children>
+                        <UIText name="High Detail Text" sticky="1">
+                           <UIRegion x="60" y="10" w="70" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:high_preset">
+                              <default image="">
+                                 <BFFont y="3" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal />
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <text type="multi" />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="highest detail" />
+                           </on>
+                        </UIText>
+                        <UIToggleButton name="High Detail" sticky="1">
+                           <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:high_detail_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Slider List">
+                                 <child msg="UI_DISABLE" />
+                              </event>
+                              <event msg="ZT_EVENT" data="BFString" string="highest detail" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Left Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Right Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </on>
+                        </UIToggleButton>
+                        <UIText name="Medium Detail Text" sticky="1">
+                           <UIRegion x="60" y="60" w="70" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:medium_preset">
+                              <default image="">
+                                 <BFFont y="3" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal />
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <text type="multi" />
+                           <UIHotKeys />
+                        </UIText>
+                        <UIToggleButton name="Medium Detail" sticky="1">
+                           <UIRegion x="0" y="50" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:medium_detail_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Slider List">
+                                 <child msg="UI_DISABLE" />
+                              </event>
+                              <event msg="ZT_EVENT" data="BFString" string="high detail" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Left Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Right Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </on>
+                        </UIToggleButton>
+                        <UIText name="Low Detail Text" sticky="1">
+                           <UIRegion x="176" y="10" w="90" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:low_preset">
+                              <default image="">
+                                 <BFFont y="3" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal />
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <text type="multi" />
+                           <UIHotKeys />
+                        </UIText>
+                        <UIToggleButton name="Low Detail" sticky="1">
+                           <UIRegion x="120" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:low_detail_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Slider List">
+                                 <child msg="UI_DISABLE" />
+                              </event>
+                              <event msg="ZT_EVENT" data="BFString" string="medium detail" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Left Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Right Advanced Options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </on>
+                        </UIToggleButton>
+                        <UIText name="Custom Detail Text" sticky="1">
+                           <UIRegion x="176" y="60" w="70" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:custom_preset">
+                              <default image="">
+                                 <BFFont y="3" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal />
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <text type="multi" />
+                           <UIHotKeys />
+                        </UIText>
+                        <UIToggleButton name="Custom Detail" sticky="1">
+                           <UIRegion x="120" y="50" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:custom_detail_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Slider List">
+                                 <child msg="UI_ENABLE" />
+                              </event>
+                              <event msg="ZT_EVENT" data="BFString" string="custom detail" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Left Advanced Options layout">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Right Advanced Options layout">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </on>
+                        </UIToggleButton>
+                     </children>
+                  </UIToggleSet>
+               </children>
+            </UILayout>
+            <UILayout name="Master Volume">
+               <UIRegion x="370" y="232" w="350" h="450" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="SoundVolumeSliderLabel">
+                     <UIRegion x="0" y="7" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="options:mastervolume">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="17" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UISlider name="SoundVolumeSlider" min="0" max="100" inc="5" value="100">
+                     <UIRegion x="10" y="25" w="290" h="22" />
+                     <UIAspect alwayshit="true" />
+                     <UIHotKeys>
+                        <down code="38" msg="UI_SCROLL" data="BFPoint" y="-1" />
+                        <down code="40" msg="UI_SCROLL" data="BFPoint" y="+1" />
+                     </UIHotKeys>
+                     <children>
+                        <UIStatic name="slideback">
+                           <UIRegion w="90" h="100" walign="% min" halign="% min" />
+                           <UIAspect alwayshit="never">
+                              <default image="ui/shared/c_back_D.dds" />
+                           </UIAspect>
+                        </UIStatic>
+                        <UIText name="number">
+                           <UIRegion x="0" y="0" h="20" w="45" />
+                           <UIAspect>
+                              <default image="">
+                                 <BFFont y="3" align="center">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                 </BFFont>
+                              </default>
+                           </UIAspect>
+                           <text format="options:number" />
+                        </UIText>
+                        <UIDrag name="thumb">
+                           <UIRegion y="0" w="53" h="20" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:master_audio_thumb_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="39" w="53" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="6" w="53" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="0" y="6" w="53" h="20" />
+                                 </activated>
+                              </standard>
+                           </UIAspect>
+                           <drag>
+                              <UIDragCommand msg="UI_MOUSE_DRAG" axis="x" />
+                           </drag>
+                        </UIDrag>
+                        <UIPushButton name="slideup">
+                           <UIRegion x="45" y="0" w="10" h="100" halign="% min" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:master_audio_lower_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <activate>
+                              <event msg="UI_SCROLL" data="BFPoint" x="-1" />
+                           </activate>
+                        </UIPushButton>
+                        <UIPushButton name="slidedown">
+                           <UIRegion x="259" y="0" w="10" h="100" halign="% min" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:master_audio_higher_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <activate>
+                              <event msg="UI_SCROLL" data="BFPoint" x="+1" />
+                           </activate>
+                        </UIPushButton>
+                     </children>
+                     <thumb name="thumb" axis="x">
+                        <UIRegion x="75" y="0" w="-50" h="90" walign="max" halign="% min" />
+                     </thumb>
+                     <field name="number" type="float" fmt="%.0f%%" />
+                  </UISlider>
+               </children>
+            </UILayout>
+            <UILayout name="Music Volume">
+               <UIRegion x="370" y="282" w="350" h="450" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <children>
+                  <UIText name="MusicVolumeSliderLabel">
+                     <UIRegion x="0" y="7" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="options:musicvolume">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="17" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UISlider name="MusicVolumeSlider" min="0" max="100" inc="5" value="100">
+                     <UIRegion x="10" y="25" w="290" h="22" />
+                     <UIAspect alwayshit="true" />
+                     <UIHotKeys>
+                        <down code="38" msg="UI_SCROLL" data="BFPoint" y="-1" />
+                        <down code="40" msg="UI_SCROLL" data="BFPoint" y="+1" />
+                     </UIHotKeys>
+                     <children>
+                        <UIStatic name="slideback">
+                           <UIRegion w="90" h="100" walign="% min" halign="% min" />
+                           <UIAspect alwayshit="never">
+                              <default image="ui/shared/c_back_D.dds" />
+                           </UIAspect>
+                        </UIStatic>
+                        <UIText name="number">
+                           <UIRegion x="0" y="0" h="20" w="45" />
+                           <UIAspect>
+                              <default image="">
+                                 <BFFont y="3" align="center">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                 </BFFont>
+                              </default>
+                           </UIAspect>
+                           <text format="options:number" />
+                        </UIText>
+                        <UIDrag name="thumb">
+                           <UIRegion y="0" w="53" h="20" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:music_audio_thumb_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="39" w="53" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="6" w="53" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="0" y="6" w="53" h="20" />
+                                 </activated>
+                              </standard>
+                           </UIAspect>
+                           <drag>
+                              <UIDragCommand msg="UI_MOUSE_DRAG" axis="x" />
+                           </drag>
+                        </UIDrag>
+                        <UIPushButton name="slideup">
+                           <UIRegion x="45" y="0" w="10" h="100" halign="% min" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:music_audio_lower_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <activate>
+                              <event msg="UI_SCROLL" data="BFPoint" x="-1" />
+                           </activate>
+                        </UIPushButton>
+                        <UIPushButton name="slidedown">
+                           <UIRegion x="259" y="0" w="10" h="100" halign="% min" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:music_audio_higher_button" />
+                           <UIAspect>
+                              <default image="ui/shared/slider_B_horiz.dds" />
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <activate>
+                              <event msg="UI_SCROLL" data="BFPoint" x="+1" />
+                           </activate>
+                        </UIPushButton>
+                     </children>
+                     <thumb name="thumb" axis="x">
+                        <UIRegion x="75" y="0" w="-50" h="90" walign="max" halign="% min" />
+                     </thumb>
+                     <field name="number" type="float" fmt="%.0f%%" />
+                  </UISlider>
+               </children>
+            </UILayout>
+            <UILayout name="full screen toggle set">
+               <UIRegion x="370" y="327" w="350" h="450" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="Video Mode Label">
+                     <UIRegion x="0" y="5" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="options:videomode">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="17" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+                  <UIToggleSet name="FullscreenToggleSet">
+                     <UIRegion x="0" y="10" w="350" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHotKeys />
+                     <children>
+                        <UIToggleButton name="Fullscreen" sticky="1">
+                           
+                           <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:full_screen_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="fullscreen" />
+                           </on>
+                        </UIToggleButton>
+                        <UIText name="Full Screen Text" sticky="1">
+                           <UIRegion x="55" y="15" w="246" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:fullscreen">
+                              <default image="">
+                                 <BFFont y="10" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal />
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="fullscreen" />
+                           </on>
+                        </UIText>
+                        <UIToggleButton name="Windowed" sticky="1">
+                           <UIRegion x="145" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:windowed_screen_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="windowed" />
+                           </on>
+                        </UIToggleButton>
+                        <UIText name="Windowed Text" sticky="1">
+                           <UIRegion x="200" y="15" w="100" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:windowed">
+                              <default image="">
+                                 <BFFont y="10" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <activated />
+                                 <highlighted />
+                                 <disabled />
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFFont size="12" x="1" y="1" bold="1" underline="1">
+                                       <BFColor r="220" g="220" b="0" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled />
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="windowed" />
+                           </on>
+                        </UIText>
+                     </children>
+                  </UIToggleSet>
+               </children>
+            </UILayout>
+            <UILayout name="First Person Mode">
+               <UIRegion x="370" y="365" w="456" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="First Person Mode Label">
+                     <UIRegion x="0" y="25" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <BFRect x="0" y="0" w="135" h="17" />
+                     <UIAspect locid="options:firstpersonmode">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="17" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+               </children>
+            </UILayout>
+            <UILayout name="Mouse Look Mode">
+               <UIRegion x="370" y="360" w="300" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UILayout>
+                     <UIRegion x="0" y="35" w="456" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText>
+                           <UIRegion x="64" y="25" w="300" h="16" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:enablemouselook">
+                              <default image="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                                 <BFFont name="Gulim" size="16" />
+                              </default>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="" />
+                           </on>
+                           <off>
+                              <event msg="ZT_EVENT" data="BFString" string="" />
+                           </off>
+                        </UIText>
+                        <UIToggleButton name="mouselook" sticky="0" toggle="0">
+                           
+                           <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:misc_mouse_look_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="freemouselookon" />
+                           </on>
+                           <off>
+                              <event msg="ZT_EVENT" data="BFString" string="freemouselookoff" />
+                           </off>
+                        </UIToggleButton>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+            <UILayout name="Message of the Day ">
+               <UIRegion x="375" y="425" w="456" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="Message of the Day Label">
+                     <UIRegion x="0" y="25" w="290" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <BFRect x="0" y="0" w="135" h="17" />
+                     <UIAspect locid="options:motdlabel">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont x="5" y="0">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="138" h="17" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+               </children>
+            </UILayout>
+            <UILayout>
+               <UIRegion x="370" y="420" w="300" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UILayout>
+                     <UIRegion x="0" y="35" w="456" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText>
+                           <UIRegion x="64" y="25" w="300" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:enablemotd">
+                              <default image="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                                 <BFFont name="Gulim" size="16" />
+                              </default>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="" />
+                           </on>
+                           <off>
+                              <event msg="ZT_EVENT" data="BFString" string="" />
+                           </off>
+                        </UIText>
+                        <UIToggleButton name="MOTDEnabledButton" sticky="0" toggle="0">
+                           
+                           <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:misc_motd_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_EVENT" data="BFString" string="MOTDEnabled" />
+                              <event msg="UI_CHILD" data="UIChildData" name="MOTD hider">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="ZT_EVENT" data="BFString" string="MOTDDisabled" />
+                              <event msg="UI_CHILD" data="UIChildData" name="MOTD hider">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+            <UILayout name="Vince label">
+               <UIRegion x="380" y="507" w="456" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UIText name="Message of the Day Label">
+                     <UIRegion x="0" y="0" w="290" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="options:vincelabel">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont>
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+               </children>
+            </UILayout>
+            <UILayout name="Vince yes button and text ">
+               <UIRegion x="372" y="475" w="300" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+               <children>
+                  <UILayout>
+                     <UIRegion x="0" y="35" w="456" h="150" xalign="min" yalign="min" walign="len" halign="len" />
+                     <children>
+                        <UIText>
+                           <UIRegion x="64" y="25" w="300" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="options:vinceyes">
+                              <default image="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                                 <BFFont />
+                              </default>
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                        <UIButton name="yes vince button" sticky="0" toggle="0">
+                           
+                           <UIRegion x="0" y="0" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="options:yes_vince_button" />
+                           <UIAspect string="">
+                              <default image="ui\shared\button_check.dds" />
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="128" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="192" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="uicheck">
+                                    <BFRect x="64" y="128" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="192" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Customer Feedback Layout">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </on>
+                        </UIButton>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UIButton name="Back">
+         <UIRegion x="395" y="585" w="75" h="75" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIHelpInfo name="" short="" long="" help="" ids="options:exit_options_button" />
+         <UIAspect>
+            <default image="ui\shared\button_back.dds" sound="">
+               <BFRect x="0" y="0" w="-1" h="-1" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+            <standard>
+               <normal>
+                  <BFRect x="0" y="0" w="64" h="64" />
+               </normal>
+               <highlighted>
+                  <BFRect x="0" y="64" w="64" h="64" />
+               </highlighted>
+               <activated sound="uiclick">
+                  <BFRect x="64" y="0" w="64" h="64" />
+               </activated>
+               <disabled>
+                  <BFRect x="64" y="64" w="64" h="64" />
+               </disabled>
+            </standard>
+         </UIAspect>
+         <UIHotKeys />
+         <activate>
+            <event msg="UI_CHILD" data="UIChildData" name="Main Menu Layout">
+               <child msg="UI_SHOW" />
+            </event>
+            <event msg="ZT_EVENT" data="BFString" string="back" />
+            <event msg="UI_HIDE" />
+         </activate>
+      </UIButton>
+      <UIButton name="Apply">
+         <UIRegion x="555" y="585" w="75" h="75" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIHelpInfo name="" short="" long="" help="" ids="options:apply_button" />
+         <UIAspect>
+            <default image="ui\shared\button_ok.dds" sound="">
+               <BFRect x="0" y="0" w="-1" h="-1" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+            <standard>
+               <normal>
+                  <BFRect x="0" y="0" w="64" h="64" />
+               </normal>
+               <highlighted>
+                  <BFRect x="0" y="64" w="64" h="64" />
+               </highlighted>
+               <activated sound="uiclick">
+                  <BFRect x="64" y="0" w="64" h="64" />
+               </activated>
+               <disabled>
+                  <BFRect x="64" y="64" w="64" h="64" />
+               </disabled>
+            </standard>
+         </UIAspect>
+         <UIHotKeys />
+         <activate>
+            <event msg="ZT_EVENT" data="BFString" string="accept settings" />
+            <event msg="ZT_EVENT" data="BFString" string="back" />
+            <event msg="UI_HIDE" />
+            <event msg="UI_CHILD" data="UIChildData" name="Main Menu Layout">
+               <child msg="UI_SHOW" />
+            </event>
+         </activate>
+      </UIButton>
+   </children>
+</UILayout>

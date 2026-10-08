@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="xp2_tutorial1" version="9" />
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscaping" version="9">수조를 설치하면 수조에 채워지는 물은 수조가 건설된 주변 지역 서식 환경의 물입니다. 지금은 수조를 초원에 건설했으므로 수조에 채워진 물은 초원의 물입니다. 이제 이 수조를 쥐가오리가 살 수 있는 암초 서식 환경으로 만들어 보겠습니다. 조경 탭을 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4" version="9" />
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortal" version="9">무대를 설치하면 자동으로 수조 연결문이 선택됩니다. 수조 연결문은 공연에 참가할 동물이 일반 수조에서 공연 수조로 이동하는 통로입니다. 수조 연결문은 수조 벽에 설치해야 합니다. 이제 돌고래 우리와 범고래 우리를 공연 수조와 연결하겠습니다. 수조 벽을 클릭해 수조 연결문을 설치하기만 하면 됩니다.</LOC_STRING>      
+   
+</ZT2Strings>

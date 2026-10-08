@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoSafari" version="9" />
+      <LOC_STRING _locID="PhotoSafari:VIPsSpecialGuests" version="9">
+동물원의 명성이 별 3개가 되자 사람들이 동물원에 많은 관심을 보이기 시작했습니다. 소문에 의하면 억만장자인 빌리 실리스와 세계적인 과학자인 앨빈 아인하임도 조만간 우리 동물원을 방문할 것이라고 합니다.
+      <p />
+동물원을 방문 중인 이들 유명 인사의 사진을 찍으면 관람객을 훨씬 많이 유치할 수 있을 것입니다.
+      <p />
+다음 사진을 찍으세요.
+      <br />
+		*  억만장자 사업가 빌리 실리스가 음식을 먹거나 마시고 있는 모습
+			<br />
+		*  저명한 과학자 앨빈 아인하임이 동물을 관찰하고 있는 모습
+      </LOC_STRING>      
+</ZT2Strings>

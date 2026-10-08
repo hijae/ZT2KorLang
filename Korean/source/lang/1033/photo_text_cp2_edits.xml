@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext" version="9" />
+      <LOC_STRING _locID="PhotoChallengetext:PHUngulate" version="9">
+               
+		학술지에서 발굽이 짝수인 유제류(우제류)에 관한 교육용 기사를 쓰려고 여러분에게 연락했습니다. 특정한 사진 세 장이 필요하며 사진 한 장당 $750을 주겠다고 제안했습니다. 단봉 낙타, 겜즈복, 톰슨 가젤의 사진을 찍으면 $2,250을 받습니다. 사진으로 인한 홍보 효과로 동물원 명성도 높아질 것입니다.
+
+      		             
+                <br />
+               
+      		난이도: 초급
+         	
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHUngulateShort" version="9">
+   		단봉 낙타, 겜즈복, 톰슨 가젤의 사진을 한 장씩 찍어 주세요.
+   	</LOC_STRING>
+</ZT2Strings>

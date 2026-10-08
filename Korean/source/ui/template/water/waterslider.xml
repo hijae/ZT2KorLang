@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout templateName="waterslider">
+   <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+   <children>
+      <UIText name="Slider Text">
+         <UIRegion x="10" y="0" w="150" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect>
+            <default>
+               <BFFont align="center">
+                  <BFColor r="200" g="200" b="200" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="tools:toolheadingformat">제목</text>
+      </UIText>
+      <UILayout>
+         <UIRegion x="10" y="25" w="150" h="10" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect>
+            <default image="ui/shared/white1x1.dds">
+               <BFColor r="75" g="75" b="75" a="200" />
+            </default>
+         </UIAspect>
+         <children>
+            <UILayout name="Thumb">
+               <UIRegion x="0" y="0" w="12" h="0" xalign="min" yalign="min" walign="len" halign="max" />
+               <children>
+                  <UIDrag bounded="true">
+                     <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" halign="max" walign="max" />
+                     <UIAspect alwayshit="true">
+                        <default image="ui/tool/filler.tga">
+                           <BFRect x="1" y="2" w="14" h="11" />
+                           <BFColor r="125" g="125" b="125" a="255" />
+                        </default>
+                     </UIAspect>
+                     <drag>
+                        <UIDragCommand msg="UI_ADD_POS" axis="x" />
+                     </drag>
+                     <dragevents>
+                        <event msg="ZT_RUN_SCRIPT" data="BFString" string="global tool/water/watertool.lua doSomething" />
+                     </dragevents>
+                  </UIDrag>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

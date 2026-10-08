@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UIListBox name="editUIComponent" rows="-1" autosize="true">
+	<UIRegion walign="max" />
+	<children>
+		<UIStatic>
+			<UIRegion h="20" walign="max" />
+			<UIAspect string="화면 구성 요소 정보" />
+		</UIStatic>
+		<UILayout>
+			<UIRegion x="20" h="20" walign="max" />
+			<children>
+				<UIStatic>
+					<UIRegion x="0" y="0" w="50" h="20" walign="% min" />
+					<UIAspect string="이름" />
+				</UIStatic>
+				<UIText name="name">
+					<UIRegion x="50" y="0" w="100" h="20" xalign="% min" walign="% min" />
+				</UIText>
+			</children>
+		</UILayout>
+	</children>
+</UIListBox>

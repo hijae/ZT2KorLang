@@ -1,2 +1,7 @@
 .DS_Store
 lang/.DS_Store
+
+# Generated supplemental patch and Python cache
+Korean/*.z2f
+Korean/*.tmp
+Korean/__pycache__/

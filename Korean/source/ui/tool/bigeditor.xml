@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UITool name="uitool">
+	<UIRegion x="2" y="10" w="796" h="736" />
+	<UIAspect>
+		<default image="ui/tool/c_back_D.tga" />
+	</UIAspect>
+	<children />
+	<decorations>
+		<UIDrag name="drag">
+			<UIRegion h="16" walign="max" />
+			<UIAspect string="화면 편집기">
+				<default image="ui/tool/c_back_N.tga" />
+			</UIAspect>
+			<drag>
+				<UIDragCommand msg="UI_ADD_POS" />
+			</drag>
+		</UIDrag>
+		<UIButton>
+			<UIRegion x="-20" y="0" w="16" h="16" xalign="max" />
+			<UIAspect>
+				<default image="ui/tool/b_close.tga" />
+			</UIAspect>
+			<activate>
+				<event msg="UI_HIDE" />
+			</activate>
+		</UIButton>
+		<UIDrag name="resize">
+			<UIRegion x="-16" y="-16" w="16" h="16" xalign="max" yalign="max" />
+			<UIAspect>
+				<default image="ui/tool/b_resize.tga" />
+			</UIAspect>
+			<drag>
+				<UIDragCommand msg="UI_ADD_SIZE" />
+			</drag>
+		</UIDrag>
+		<UISlider name="vscroll" min="0" max="100" inc="1" value="0" span="40">
+			<UIRegion x="-16" y="16" w="16" h="-16" xalign="max" yalign="min" walign="len" halign="max" />
+			<UIAspect>
+				<default image="ui/tool/c_back_D.tga" />
+			</UIAspect>
+			<UIHotKeys>
+				<down code="38" msg="UI_SCROLL" data="BFPoint" y="-4" />
+				<down code="40" msg="UI_SCROLL" data="BFPoint" y="+4" />
+			</UIHotKeys>
+			<children>
+				<UIPushButton name="slideup">
+					<UIRegion w="100" h="16" walign="% min" />
+					<UIAspect>
+						<default image="ui/tool/b_up.tga" />
+					</UIAspect>
+					<activate>
+						<event msg="UI_SCROLL" data="BFPoint" y="-4" />
+					</activate>
+				</UIPushButton>
+				<UIPushButton name="slidedown">
+					<UIRegion y="-16" w="100" h="16" yalign="max" walign="% min" />
+					<UIAspect>
+						<default image="ui/tool/b_down.tga" />
+					</UIAspect>
+					<activate>
+						<event msg="UI_SCROLL" data="BFPoint" y="+4" />
+					</activate>
+				</UIPushButton>
+				<UIDrag name="thumb">
+					<UIRegion h="10" w="100" walign="% min" />
+					<UIAspect>
+						<default image="ui/tool/b_thumb.tga" />
+					</UIAspect>
+					<drag>
+						<UIDragCommand msg="UI_MOUSE_DRAG" axis="y" />
+					</drag>
+				</UIDrag>
+			</children>
+			<thumb name="thumb" axis="y">
+				<UIRegion y="16" h="-16" w="100" halign="max" walign="% min" />
+			</thumb>
+		</UISlider>
+	</decorations>
+	<vscroll name="vscroll" />
+	<templates>
+		<badnode file="ui/tool/templates/badnode.xml" />
+		<badattr file="ui/tool/templates/badattr.xml" />
+		<UITextBuffer file="ui/tool/templates/uicomponent.xml" />
+		<UIRegion file="ui/tool/templates/uiregion.xml" />
+		<UIState file="ui/tool/templates/uistate.xml" />
+	</templates>
+</UITool>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_chum:entry">밑밥</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chum:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">밑밥은 생선을 잘게 잘라 만든 먹이입니다. 백상아리, 범고래 등의 해양 육식 동물이 좋아합니다.    
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">밑밥은 그물이 달린 부표에 매달거나 먹이 상자에 넣어 줄 수 있습니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:entry">해파리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />                   
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">대부분의 동물은 따끔한 촉수를 지닌 해파리를 피해 다닙니다. 하지만 일부 바다 거북은 해파리의 촉수에 면역성이 있어서 해파리를 주요 먹이로 삼습니다.
+               </font></color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:entry">동물성 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">동물성 플랑크톤은 해류를 따라 떠다니는 극히 작은 해양 동물입니다. 동물성 플랑크톤에는 미세한 원생동물부터 작은 갑각류, 물고기의 알까지 다양한 동물 종류가 포함됩니다. 부유성 소형 식물인 식물성 플랑크톤도 대표적인 플랑크톤입니다.
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">쥐가오리, 고래상어, 흰수염고래 등 바닷물에서 먹이를 걸러 먹는 동물들은 플랑크톤만 먹고 삽니다. 
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:entry">조개</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">조개는 게, 가리비, 굴 등을 포함하는 매우 다양한 먹이를 모두 가리킵니다. 돌고래와 해달을 비롯한 많은 해양 동물은 껍데기를 벗기기가 힘든데도 조개를 주식으로 삼습니다.    
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">조개는 바닥에 놓거나 그물이 달린 부표, 해초 사료 또는 인공 암초에 넣어주면 됩니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:entry">해초</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">해초는 다양한 종류의 대형 해조류를 통칭하는 이름입니다. 바다소, 푸른바다거북 등의 해양 동물이 해초를 좋아합니다.    
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">해초는 바닥에 놓거나 먹이 상자 또는 해초 사료에 넣어주면 됩니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:entry">오징어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64" />               
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">오징어는 부드럽고 맛이 좋아서 많은 해양 동물들이 아주 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

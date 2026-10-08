@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="staffthoughts:EntertainerGotoEntertainGuests">공연할 시간입니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerEntertainGuests">관람객들이 제 공연을 좋아하면 좋겠습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerGotoEntertainGuest">이런, %s이(가) 지루해 보입니다. 즐겁게 해 드려야겠습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerEntertainGuest">%s이(가) 제 익살스러운 행동을 좋아해서 기쁩니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerSplashFountain">여기에 물놀이 분수가 있어서 다행입니다. 이 의상은 덥습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EntertainerDanceMusicalRock">음악이 있다면 춤을 춥시다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:MaintenanceWorkerGetPlantFoliage">저곳에는 %s의 식물을 심으면 좋겠습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:MaintenanceWorkerGoPlantTree">%s에 나무를 심으러 갑니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorGotoEducateGuestsFossils">빨리 관람객에게 화석에 대해 가르치고 싶습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:EducatorEducateGuestsFossils">아! 발굴 체험장에서 뼈를 발굴해 보라고 알려 주는 것을 잊지 맙시다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistSearchFossil">저기, 근처에 뭔가 있는 것 같습니다...</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistMarkFossil">이곳에 표시를 해서 발굴 지점을 확보합시다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistGotoDigFossil">탐지는 충분히 했으니 이제 발굴할 시간입니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:PaleontologistDigFossil">흙을 파는 일이 좋습니다! 화석을 찾는 것이 제 일에서 가장 즐거운 부분입니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateRegroup">%s이(가) 이번에는 어디로 갔을까요?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateLookFor">%s이(가) 어디에 있을까요?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateTagDino">목표를 찾았습니다! %s이(가) 저기 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallDinoDistraction">%s 마취하려면 주의를 돌려야 합니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallDinoTranq">지금 %s 마취해야 합니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateRecallTeam">잘했습니다. 난동이 끝났습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTCrateCallRobotReplacement">이런! 주의를 돌리던 로봇이 사라졌습니다! 대체 로봇을 불러야겠습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryCrateTeamGoCrateAnimal">제가 동물을 상자에 가둘 차례입니다.</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryCrateTeamCrateAnimal">공룡을 상자에 가뒀습니다. 다른 난동 공룡도 있습니까?</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotFollow">11011001101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotStaffFailure">10101102</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotWaitingForTask">00000000</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotGoingToDistract">111011001</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotDistracting">101001101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTRobotAttackedAnimal">1040206085오류</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryRobotSplashFountain">1020100101</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTTranqFollow">뒤처지지 않도록 따라가야겠습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DRTTranqChaseDino">%s이(가) 저기 있습니다! 위치를 잡으세요!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryTranqTeamGoTranqAnimal">이런 일을 하기에는 급여가 너무 적습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:DinoRecoveryTranqTeamTranqAnimal">위험했습니다!</LOC_STRING>
+      <LOC_STRING _locID="staffthoughts:Scared">이런! %s이(가) 난동을 부리고 있습니다!</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,1657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="Gesture tool layout">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="normal" />
+   <children>
+      <UILayout alwayshit="true" name="gesture layout">
+         <UIRegion x="670" y="-250" w="350" h="250" xalign="min" yalign="max" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIHotKeys>
+            <file name="UI/hotkeys/hotkeys.xml" node="escclose" />
+         </UIHotKeys>
+         <children>
+            <UILayout name="tool background">
+               <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+               <UIAspect>
+                  <default image="ui\shared\white1x1.dds" sound="">
+                     <BFRect x="0" y="0" w="-1" h="-1" />
+                     <BFColor r="34" g="68" b="102" a="200" />
+                  </default>
+               </UIAspect>
+               <UIState active="normal" visible="normal" />
+               <children>
+                  <UILayout name="header ">
+                     <UIRegion x="0" y="0" w="0" h="25" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\shared\white1x1.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="77" g="117" b="189" a="200" />
+                        </default>
+                     </UIAspect>
+                  </UILayout>
+                  <UIText name="tool label">
+                     <UIRegion x="28" y="5" w="300" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:gt_label">
+                        <default image="" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFFont align="left">
+                              <BFColor r="255" g="197" b="78" a="255" />
+                           </BFFont>
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal />
+                           <highlighted />
+                           <activated />
+                           <disabled />
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+                  <UIButton name="close">
+                     <UIRegion x="-42" y="-7" w="40" h="40" xalign="max" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="zoostatus:close" />
+                     <UIAspect string="">
+                        <default image="ui\shared\button_close.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Gesture tool layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Camera Set">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="ZT_SETMODE" data="BFString" string="mode_selection" />
+                     </activate>
+                  </UIButton>
+               </children>
+            </UILayout>
+            <UILayout name="Header tools">
+               <UIRegion x="0" y="10" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="640" h="579" />
+                  </default>
+               </UIAspect>
+               <children>
+                  <UIToggleButton name="New gesture">
+                     <UIRegion x="0" y="10" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:new_gesture" />
+                     <UIAspect string="">
+                        <default image="ui\tool\new.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                        <alternate>
+                           <normal>
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </alternate>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <on>
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="new_spline_label" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="background">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="prop list">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="ZT_CREATE_NEW_SPLINE" />
+                     </on>
+                     <off>
+                        <event msg="UI_CHILD" data="UIChildData" name="background">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="prop list">
+                           <child msg="UI_HIDE" />
+                        </event>
+                     </off>
+                  </UIToggleButton>
+                  <UIButton name="Load gesture">
+                     <UIRegion x="25" y="10" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:load_gesture" />
+                     <UIAspect string="">
+                        <default image="ui\tool\load.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="load_spline_label" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="ZT_SPLINEMODE_LOADSPLINE" />
+                     </activate>
+                  </UIButton>
+                  <UIButton name="Save gesture">
+                     <UIRegion x="50" y="10" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:save_gesture" />
+                     <UIAspect string="">
+                        <default image="ui\tool\save.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="ZT_SPLINEMODE_SAVESPLINE" />
+                     </activate>
+                  </UIButton>
+                  <UIText name="Display Spline Name" maxlength="25">
+                     <UIRegion x="85" y="21" w="175" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default>
+                           <BFFont x="3" y="1">
+                              <BFColor r="255" g="255" b="255" a="255" />
+                           </BFFont>
+                        </default>
+                     </UIAspect>
+                     <text format="entityname:format">여기에 곡선 이름 입력</text>
+                  </UIText>
+                  <UITextEdit name="Spline Name Label" template="textedit" cursor="edit.cur" maxlength="25">
+                     <UIRegion x="85" y="21" w="175" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default>
+                           <BFFont x="3" y="1">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                        </default>
+                     </UIAspect>
+                     <text format="entityname:format" />
+                     <textchanged>
+                        <event msg="UI_SELF">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="" />
+                        </event>
+                        <event msg="UI_SELF">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="ZT_SET_ENTITY_NAME" />
+                        </event>
+                     </textchanged>
+                  </UITextEdit>
+                  <UIButton name="Undo">
+                     <UIRegion x="255" y="10" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:undo" />
+                     <UIAspect string="">
+                        <default image="ui\tool\undo.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                           <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                              <child msg="UI_HIDE" />
+                           </event>
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="" />
+                        </event>
+                        <event msg="ZT_SPLINEMODEUNDO" />
+                     </activate>
+                  </UIButton>
+                  <UIButton name="DELETE">
+                     <UIRegion x="280" y="10" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:delete" />
+                     <UIAspect string="">
+                        <default image="ui\tool\delete.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                           <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                              <child msg="UI_HIDE" />
+                           </event>
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                           <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                              <child msg="UI_HIDE" />
+                           </event>
+                        </event>
+                        <event msg="ZT_REMOVESPLINEPOINT" />
+                     </activate>
+                  </UIButton>
+                  <UIToggleButton name="opacity button">
+                     <UIRegion x="317" y="22" w="20" h="21" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIAspect>
+                        <default image="ui/tool/dither0.tga" />
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="32" h="32" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="32" y="0" w="32" h="32" />
+                           </highlighted>
+                           <activated>
+                              <BFRect x="0" y="32" w="32" h="32" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="32" y="32" w="32" h="32" />
+                           </disabled>
+                        </standard>
+                        <alternate>
+                           <normal image="ui/tool/dither1.tga">
+                              <BFRect x="0" y="0" w="32" h="32" />
+                           </normal>
+                           <highlighted image="ui/tool/dither1.tga">
+                              <BFRect x="32" y="0" w="32" h="32" />
+                           </highlighted>
+                           <activated image="ui/tool/dither1.tga">
+                              <BFRect x="0" y="32" w="32" h="32" />
+                           </activated>
+                           <disabled image="ui/tool/dither1.tga">
+                              <BFRect x="32" y="32" w="32" h="32" />
+                           </disabled>
+                        </alternate>
+                     </UIAspect>
+                     <UIHelpInfo ids="tools:ditherbackground" />
+                     <on>
+                        <event msg="UI_CHILD" data="UIChildData" name="tool background">
+                           <child msg="UI_SET_ALPHA" data="int" value="128" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="header ">
+                           <child msg="UI_SET_ALPHA" data="int" value="128" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="header 2">
+                           <child msg="UI_SET_ALPHA" data="int" value="128" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="tools 2 background">
+                           <child msg="UI_SET_ALPHA" data="int" value="128" />
+                        </event>
+                     </on>
+                     <off>
+                        <event msg="UI_CHILD" data="UIChildData" name="tool background">
+                           <child msg="UI_SET_ALPHA" data="int" value="200" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="header ">
+                           <child msg="UI_SET_ALPHA" data="int" value="200" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="header 2">
+                           <child msg="UI_SET_ALPHA" data="int" value="200" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="tools 2 background">
+                           <child msg="UI_SET_ALPHA" data="int" value="200" />
+                        </event>
+                     </off>
+                  </UIToggleButton>
+               </children>
+            </UILayout>
+            <UILayout name="move icon">
+               <UIRegion x="2" y="0" w="25" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIAspect alwayshit="true">
+                  <default image="ui\shared\moveable.dds">
+                     <BFRect x="0" y="0" w="32" h="32" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+            <UILayout name="Spline tools">
+               <UIRegion x="0" y="10" w="553" h="435" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIAspect>
+                  <default />
+               </UIAspect>
+               <UIState active="normal" visible="normal" />
+               <children>
+                  <UILayout name="tools 2 background">
+                     <UIRegion x="210" y="55" w="130" h="110" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIAspect>
+                        <default image="ui\shared\white1x1.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="34" g="68" b="102" a="200" />
+                        </default>
+                     </UIAspect>
+                     <children>
+                        <UILayout name="header 2">
+                           <UIRegion x="0" y="0" w="0" h="40" xalign="min" yalign="min" walign="max" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect>
+                              <default image="ui\shared\white1x1.dds" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                                 <BFColor r="77" g="117" b="189" a="200" />
+                              </default>
+                           </UIAspect>
+                        </UILayout>
+                        <UIText name="currenttool label">
+                           <UIRegion x="5" y="6" w="120" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="">
+                              <default image="" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                                 <BFFont align="center">
+                                    <BFColor r="255" g="197" b="78" a="255" />
+                                 </BFFont>
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal />
+                                 <highlighted />
+                                 <activated />
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <text type="multi" />
+                        </UIText>
+                     </children>
+                  </UILayout>
+                  <UIToggleSet name="Next and Prev">
+                     <UIRegion x="0" y="20" w="553" h="435" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIAspect>
+                        <default />
+                     </UIAspect>
+                     <UIState active="normal" visible="hidden" />
+                     <children>
+                        <UIButton name="Next" toggle="0" sticky="0">
+                           <UIRegion x="270" y="70" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:next" />
+                           <UIAspect string="">
+                              <default image="ui\tool\next.dds" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="ZT_SPLINEMODE_SLIDEVALUE" data="int" value="1" />
+                           </activate>
+                        </UIButton>
+                        <UIButton name="Previous" toggle="0" sticky="0">
+                           <UIRegion x="235" y="70" w="45" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:previous" />
+                           <UIAspect string="">
+                              <default image="ui\tool\previous.dds" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="ZT_SPLINEMODE_SLIDEVALUE" data="int" value="-1" />
+                           </activate>
+                        </UIButton>
+                     </children>
+                  </UIToggleSet>
+                  <UIToggleSet name="Increase and Decrease">
+                     <UIRegion x="10" y="20" w="553" h="435" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIAspect>
+                        <default />
+                     </UIAspect>
+                     <UIState active="normal" visible="hidden" />
+                     <children>
+                        <UIPushButton name="Increase">
+                           <UIRegion x="270" y="110" w="24" h="24" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:increase" />
+                           <UIAspect string="">
+                              <default image="UI\tool\trick_sequencer_asset.dds" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="150" y="0" w="17" h="17" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="150" y="18" w="17" h="17" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="150" y="36" w="17" h="17" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="150" y="52" w="17" h="17" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="ZT_SPLINEMODE_CHANGESELECTION" data="int" value="1" />
+                           </activate>
+                        </UIPushButton>
+                        <UIPushButton name="Decrease">
+                           <UIRegion x="235" y="110" w="25" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:decrease" />
+                           <UIAspect string="">
+                              <default image="UI\tool\trick_sequencer_asset.dds" sound="">
+                                 <BFRect x="0" y="0" w="-1" h="-1" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="168" y="0" w="17" h="17" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="168" y="18" w="17" h="17" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="168" y="36" w="17" h="17" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="168" y="52" w="17" h="17" />
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="ZT_SPLINEMODE_CHANGESELECTION" data="int" value="-1" />
+                           </activate>
+                        </UIPushButton>
+                     </children>
+                  </UIToggleSet>
+                  <UIText name="Insert node Label">
+                     <UIRegion x="10" y="49" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:insert_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIToggleSet name="Insert node method and Insert event method">
+                     <UIRegion x="125" y="37" w="512" h="256" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect string="">
+                        <default image="" sound="">
+                           <BFColor r="0" g="0" b="0" a="0" />
+                        </default>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <children>
+                        <UIToggleButton name="Insert Node (front)" toggle="0" sticky="0">
+                           <UIRegion x="5" y="5" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:insert_text_begin" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addnode_beginning.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="ZT_ADDSPLINEPOINT" data="BFString" string="front" />
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:node_start_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Insert Node (middle)" toggle="0" sticky="0">
+                           <UIRegion x="27" y="5" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:insert_text_middle" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addnode_middle.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="ZT_ADDSPLINEPOINT" data="BFString" string="middle" />
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:node_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Insert Node (end)" toggle="0" sticky="0">
+                           <UIRegion x="49" y="5" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:insert_text_end" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addnode_end.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="ZT_ADDSPLINEPOINT" data="BFString" string="end" />
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:node_end_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Add Event" toggle="0" sticky="0">
+                           <UIRegion x="5" y="23" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:insert_event" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:event_label" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="event background">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="ZT_SPLINEMODE_PLACEEVENT" />
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="event background">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="event list">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Change Event Window Size" toggle="0" sticky="0">
+                           <UIRegion x="5" y="41" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:event_window" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_SPLINEMODE_ADJUSTEVENTWINDOWS" />
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:event_size_label" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="Event Hidden Label">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="SetEventHidden">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Change Event Scale" toggle="0" sticky="0">
+                           <UIRegion x="5" y="59" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:event_scale" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_SPLINEMODE_ADJUSTEVENTSCALE" />
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:event_scale_header" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="Event Hidden Label">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="SetEventHidden">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Event Scale Display">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Change Score Proc" toggle="0" sticky="0">
+                           <UIRegion x="5" y="77" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:spline_size" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_SPLINEMODE_ADJUSTSCORINGPROXIMITIES" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:score_size_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Change Spline Size" toggle="0" sticky="0">
+                           <UIRegion x="5" y="95" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:spline_size" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_SPLINEMODE_SETSPLINERADIUS" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:spline_size_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                        <UIToggleButton name="Change Spline Tracing Speed" toggle="0" sticky="0">
+                           <UIRegion x="5" y="113" w="30" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIHelpInfo name="" short="" long="" help="" ids="tools:spline_speed" />
+                           <UIAspect string="">
+                              <default image="ui\tool\addevent.dds" sound="">
+                                 <BFColor r="255" g="255" b="255" a="255" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </standard>
+                              <alternate>
+                                 <normal>
+                                    <BFRect x="64" y="0" w="64" h="64" />
+                                 </normal>
+                                 <highlighted>
+                                    <BFRect x="0" y="64" w="64" h="64" />
+                                 </highlighted>
+                                 <activated sound="">
+                                    <BFRect x="0" y="0" w="64" h="64" />
+                                 </activated>
+                                 <disabled>
+                                    <BFRect x="64" y="64" w="64" h="64" />
+                                 </disabled>
+                              </alternate>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <on>
+                              <event msg="ZT_SPLINEMODE_SETSPLINESPEED" />
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="tools:spline_speed_label" />
+                              </event>
+                           </on>
+                           <off>
+                              <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                                 <child msg="UI_SET_LOCID" data="BFString" string="" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Insert node method">
+                                 <child msg="UI_ACTIVATE_OFF" />
+                              </event>
+                           </off>
+                        </UIToggleButton>
+                     </children>
+                  </UIToggleSet>
+                  <UIText name="Insert event Label">
+                     <UIRegion x="10" y="67" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:insert_event_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIToggleSet name="Insert event method">
+                     <UIRegion x="10" y="84" w="512" h="256" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect string="">
+                        <default image="" sound="">
+                           <BFRect x="0" y="0" w="0" h="0" />
+                           <BFColor r="0" g="0" b="0" a="0" />
+                        </default>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <children />
+                  </UIToggleSet>
+                  <UIText name="Event Window Label">
+                     <UIRegion x="10" y="85" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:event_window_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIText name="Event Scale Label">
+                     <UIRegion x="10" y="103" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:event_scale_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIText name="Event Scale Display">
+                     <UIRegion x="165" y="103" w="30" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <text format="tools:event_scale_display" />
+                  </UIText>
+                  <UIText name="Scoring Prox">
+                     <UIRegion x="10" y="121" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:scoring_prox_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIText name="Spline Thickness Label">
+                     <UIRegion x="10" y="139" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:spline_thickness_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIText name="Spline Speed Label">
+                     <UIRegion x="10" y="157" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:spline_tracing_speed_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIText name="Spline Speed Display">
+                     <UIRegion x="165" y="157" w="30" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <text format="tools:spline_tracing_speed_display" />
+                  </UIText>
+                  <UIText name="View Label">
+                     <UIRegion x="10" y="215" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:view_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIButton name="View gesture">
+                     <UIRegion x="85" y="200" w="70" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:view_gesture" />
+                     <UIAspect string="">
+                        <default image="ui\tool\viewgesture.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Insert node method and Insert event method">
+                           <child msg="UI_ACTIVATE_OFF" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Next and Prev">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="Increase and Decrease">
+                           <child msg="UI_SHOW" />
+                        </event>
+                        <event msg="ZT_SPLINEMODE_TESTPLAYSPLINE" />
+                        <event msg="UI_CHILD" data="UIChildData" name="currenttool label">
+                           <child msg="UI_SET_LOCID" data="BFString" string="" />
+                        </event>
+                     </activate>
+                  </UIButton>
+                  <UIText name="Play Label">
+                     <UIRegion x="160" y="215" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:test_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIButton name="play gesture">
+                     <UIRegion x="220" y="200" w="70" h="45" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:play_gesture" />
+                     <UIAspect string="">
+                        <default image="ui\tool\playgesture.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="Insert node method and Insert event method">
+                           <child msg="UI_ACTIVATE_OFF" />
+                        </event>
+                        <event msg="ZT_SPLINEMODE_TESTFROMTRAINERMODE" />
+                     </activate>
+                  </UIButton>
+                  <UIText name="Event Hidden Label">
+                     <UIRegion x="240" y="168" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:event_hidden_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIToggleButton name="SetEventHidden" toggle="0" sticky="0">
+                     <UIRegion x="210" y="161" w="32" h="32" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:eventhidden" />
+                     <UIAspect string="">
+                        <default image="ui\shared\button_check.dds" />
+                        <alternate>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated>
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </alternate>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="128" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="192" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="uicheck">
+                              <BFRect x="64" y="128" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="192" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <on>
+                        <event msg="ZT_SPLINEMODE_SETEVENTHIDDEN" data="bool" value="true" />
+                     </on>
+                     <off>
+                        <event msg="ZT_SPLINEMODE_SETEVENTHIDDEN" data="bool" value="false" />
+                     </off>
+                  </UIToggleButton>
+                  <UIText name="Spline Visible Label">
+                     <UIRegion x="240" y="190" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:visible_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UIToggleButton name="SetSplineVisibility" toggle="0" sticky="0">
+                     <UIRegion x="210" y="183" w="32" h="32" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:visible" />
+                     <UIAspect string="">
+                        <default image="ui\shared\button_check.dds" />
+                        <alternate>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated>
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </alternate>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="128" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="192" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="uicheck">
+                              <BFRect x="64" y="128" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="192" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <on>
+                        <event msg="ZT_SPLINEMODE_SETSPLINEVISIBLE" data="bool" value="true" />
+                     </on>
+                     <off>
+                        <event msg="ZT_SPLINEMODE_SETSPLINEVISIBLE" data="bool" value="false" />
+                     </off>
+                  </UIToggleButton>
+                  <UIText name="Event Override Label">
+                     <UIRegion x="10" y="180" w="138" h="17" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="tools:event_score_override_label">
+                        <default image="ui/shared/back_buy.dds" sound="">
+                           <BFFont />
+                           <BFRect x="0" y="0" w="138" h="17" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                  </UIText>
+                  <UITextEdit name="Event Score Override" template="textedit" cursor="edit.cur" maxlength="3">
+                     <UIRegion x="128" y="180" w="45" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="tools:event_override" />
+                     <UIAspect>
+                        <default>
+                           <BFFont x="3" y="1">
+                              <BFColor r="59" g="83" b="66" a="255" />
+                           </BFFont>
+                        </default>
+                     </UIAspect>
+                     <text format="entityname:format" />
+                     <textchanged>
+                        <event msg="UI_SELF">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="" />
+                        </event>
+                        <event msg="UI_SELF">
+                           <child msg="UI_SEND_TEXT" data="BFType" type="ZT_SET_EVENT_SCORE_OVERRIDE" />
+                        </event>
+                     </textchanged>
+                  </UITextEdit>
+               </children>
+            </UILayout>
+            <UILayout name="Prop Layout">
+               <UIRegion x="35" y="31" w="200" h="117" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect locid="">
+                  <default image="" sound="">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+                  <normal />
+               </UIAspect>
+               <children>
+                  <UIStatic name="background">
+                     <UIRegion x="0" y="0" w="0" h="110" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="0" y="-98" w="-1" h="-1" />
+                        <end x="0" y="0" w="-1" h="-1" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="ui\shared\white1x1.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="34" g="68" b="102" a="255" />
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UILayout name="prop list" alwayshit="true">
+                     <UIRegion x="5" y="5" w="-5" h="105" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIAspect alwayshit="false" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="5" y="-98" w="-1" h="-1" />
+                        <end x="5" y="20" w="-1" h="-1" />
+                     </UIShowHideAnim>
+                     <children>
+                        <UIListBox name="prop list panel" template="listbox" columns="1" rows="-1" yspacer="0">
+                           <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <children />
+                        </UIListBox>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+            <UILayout name="Event Layout">
+               <UIRegion x="35" y="125" w="200" h="117" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect locid="">
+                  <default image="" sound="">
+                     <BFRect x="0" y="0" w="512" h="512" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+                  <normal />
+               </UIAspect>
+               <children>
+                  <UIStatic name="event background">
+                     <UIRegion x="0" y="0" w="0" h="110" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="0" y="-98" w="-1" h="-1" />
+                        <end x="0" y="0" w="-1" h="-1" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="ui\shared\white1x1.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="34" g="68" b="102" a="255" />
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UILayout name="event list" alwayshit="true">
+                     <UIRegion x="5" y="5" w="-5" h="105" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIAspect alwayshit="false" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="5" y="-98" w="-1" h="-1" />
+                        <end x="5" y="20" w="-1" h="-1" />
+                     </UIShowHideAnim>
+                     <children>
+                        <UIListBox name="event list panel" template="listbox" columns="1" rows="-1" yspacer="0">
+                           <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <children />
+                        </UIListBox>
+                     </children>
+                  </UILayout>
+               </children>
+            </UILayout>
+            <UIDrag bounded="true" cursor="movebox.cur">
+               <UIRegion x="0" y="0" w="-40" h="20" xalign="min" yalign="min" walign="max" halign="len" />
+               <UIAspect alwayshit="true">
+                  <default image="ui/shared/white1x1.dds">
+                     <BFRect x="0" y="0" w="1" h="1" />
+                     <BFColor r="255" g="255" b="255" a="0" />
+                  </default>
+                  <standard>
+                     <activated x="0" y="0" w="1" h="1">
+                        <BFColor r="134" g="201" b="139" a="64" />
+                     </activated>
+                  </standard>
+               </UIAspect>
+               <drag>
+                  <UIDragCommand msg="UI_ADD_POS" />
+               </drag>
+            </UIDrag>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

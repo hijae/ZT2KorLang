@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout templateName="watertextedit">
+   <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+   <children>
+      <UIText name="Slider Text">
+         <UIRegion x="10" y="0" w="150" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect>
+            <default>
+               <BFFont align="center">
+                  <BFColor r="200" g="200" b="200" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="tools:toolheadingformat">제목</text>
+      </UIText>
+      <UITextEdit name="Text Edit" template="textedit" cursor="edit.cur" maxlength="0">
+         <UIRegion x="5" y="25" w="170" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect>
+            <default>
+               <BFFont x="3" y="5">
+                  <BFColor r="255" g="255" b="255" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="tools:toolcomponentformat">값</text>
+         <textchanged>
+            <event msg="ZT_RUN_SCRIPT" data="BFString" string="global tool/water/watertool.lua doSomething" />
+         </textchanged>
+      </UITextEdit>
+   </children>
+</UILayout>

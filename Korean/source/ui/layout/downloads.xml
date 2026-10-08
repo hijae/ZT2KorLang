@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="Downloads">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="hidden" />
+   <UIAspect>
+      <default>
+         <BFRect x="0" y="0" w="0" h="0" />
+         <BFColor r="0" g="0" b="0" a="0" />
+      </default>
+   </UIAspect>
+   <children>
+      <UILayout name="back ground pieces">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="0" h="0" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+         <children>
+            <UILayout name="background " template="blank">
+               <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFColor r="255" g="255" b="255" a="128" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+            <UILayout name="head bar template" template="header">
+               <UIRegion x="0" y="0" w="0" h="30" xalign="min" yalign="min" walign="max" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="256" h="256" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UIText name="down load label">
+         <UIRegion x="24" y="3" w="447" h="25" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect locid="options:downloadlabel">
+            <default>
+               <BFFont name="Gulim" bold="1" size="10">
+                  <BFColor r="63" g="100" b="74" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+      </UIText>
+      <UILayout name="second head bar template" template="header">
+         <UIRegion x="47" y="62" w="912" h="30" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default image="">
+               <BFRect x="0" y="0" w="256" h="256" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+      </UILayout>
+      <UIText name="title line for: Item Name">
+         <UIRegion x="100" y="70" w="447" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect locid="ZTDownloadMode:ItemName">
+            <default>
+               <BFFont>
+                  <BFColor r="63" g="100" b="74" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="ZTDownloadMode:HeaderFormat" />
+      </UIText>
+      <UIText name="title line for: Size">
+         <UIRegion x="500" y="70" w="62" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect locid="ZTDownloadMode:Size">
+            <default>
+               <BFFont>
+                  <BFColor r="63" g="100" b="74" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="ZTDownloadMode:HeaderFormat" />
+      </UIText>
+      <UIText name="title line for: Status">
+         <UIRegion x="585" y="70" w="257" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect locid="ZTDownloadMode:Status">
+            <default>
+               <BFFont>
+                  <BFColor r="63" g="100" b="74" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="ZTDownloadMode:HeaderFormat" />
+      </UIText>
+      <UIText name="title line for: Click to Download here">
+         <UIRegion x="735" y="70" w="193" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIAspect locid="ZTDownloadMode:ClickHere">
+            <default>
+               <BFFont align="right">
+                  <BFColor r="63" g="100" b="74" a="255" />
+               </BFFont>
+            </default>
+         </UIAspect>
+         <text format="ZTDownloadMode:HeaderFormat" />
+      </UIText>
+      <UIListBox name="DownloadItemsList" template="listbox" rows="-1">
+         <UIRegion x="0" y="92" w="1013" h="355" />
+         <UIAspect>
+            <default>
+               <BFRect x="0" y="0" w="1024" h="32" />
+               <BFColor r="255" g="255" b="255" a="0" />
+            </default>
+         </UIAspect>
+      </UIListBox>
+      <UIStatic name="button background">
+         <UIRegion x="2" y="662" w="104" h="100" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default image="ui\shared\buttonbackleft.dds">
+               <BFRect x="0" y="27" w="104" h="100" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+      </UIStatic>
+      <UIStatic name="Logo">
+         <UIRegion x="350" y="450" w="300" h="300" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default image="ui/shared/zoo2logo.dds">
+               <BFRect x="0" y="0" w="256" h="256" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+      </UIStatic>
+      <UIButton name="Back">
+         <UIRegion x="10" y="677" w="75" h="75" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIHelpInfo name="" short="" long="" help="" ids="options:exit_dowload_button" />
+         <UIAspect>
+            <default image="ui\shared\button_back.dds" sound="">
+               <BFRect x="0" y="0" w="-1" h="-1" />
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+            <standard>
+               <normal>
+                  <BFRect x="0" y="0" w="64" h="64" />
+               </normal>
+               <highlighted>
+                  <BFRect x="0" y="64" w="64" h="64" />
+               </highlighted>
+               <activated sound="uiclick">
+                  <BFRect x="64" y="0" w="64" h="64" />
+               </activated>
+               <disabled>
+                  <BFRect x="64" y="64" w="64" h="64" />
+               </disabled>
+            </standard>
+         </UIAspect>
+         <UIHotKeys />
+         <activate>
+            <event msg="ZT_EXIT_DOWNLOADS" data="BFString" string="confirmexit" />
+         </activate>
+      </UIButton>
+   </children>
+</UILayout>

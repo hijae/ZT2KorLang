@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+   
+   <entityname>
+      
+      <drinkingfountain_df>식수대</drinkingfountain_df>
+      <drinkingfountain_df_stt>식수대</drinkingfountain_df_stt>
+      <drinkingfountain_df_lower>식수대</drinkingfountain_df_lower>
+      <drinkingfountain_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>식수대</b>
+         </color>
+         <br />
+         식수대를 선택한 다음 설치합니다. 관람객들이 물을 마실 수 있습니다.
+      </drinkingfountain_df_ltt>
+   </entityname>
+   
+   
+   <zoopedia_drinkingfountain>
+      <entry>식수대</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">식수대는 동물원에 수입을 가져다주지는 않지만 관람객들은 시원한 물로 갈증을 풀 수 있어 늘 고마워합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain>
+   <guestpackactions>
+      <GoToDrinkingFountain>%s에서 물을 마시러 가고 있습니다.</GoToDrinkingFountain>
+      <UseDrinkingFountain>%s에서 물을 마시고 있습니다.</UseDrinkingFountain>      
+   </guestpackactions>
+   <guestpackthoughts>
+      <GoToDrinkingFountain>목이 마른데 여기서 %s의 물을 마실 수 있어 다행이야.</GoToDrinkingFountain>
+      <UseDrinkingFountain>%s의 물은 정말 시원해.</UseDrinkingFountain>            
+   </guestpackthoughts>
+</ZT2Strings>

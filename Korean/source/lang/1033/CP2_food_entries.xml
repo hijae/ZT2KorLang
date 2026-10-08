@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_roots:entry">뿌리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_roots:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/Terrain/Terrain_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+대부분의 동물은 먹이를 얻기 위해 노력하는 것을 좋아합니다. 먹이를 찾으려고 땅을 파는 
+                  </font><a href="zoopedia:zoopedia_beaver:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">아메리카비버</font></color>
+                     </u><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">, 
+                  </font></a>
+                  <a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마운틴고릴라</font></color>
+                     </u><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">, 
+                  </font></a>
+                  <a href="zoopedia:zoopedia_warthoggiant:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">혹멧돼지</font></color>
+                     </u><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">, 
+                  </font></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">그리고 
+                  </font><a href="zoopedia:zoopedia_gigantopithecus:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">기간토피테쿠스</font></color>
+                     </u>
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">                  
+ 같은 동물은 뿌리를 즐겨 먹습니다.  
+
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+뿌리를 바닥이나 먹이 접시, 사료 더미, 먹이통에 놓으세요.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>  
+ 
+</ZT2Strings>

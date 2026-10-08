@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout>
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <children>
+      <UILayout>
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <children>
+            <UILayout name="wait message layout" template="blank">
+               <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIShowHideAnim time=".2f">
+                  <start x="513" y="391" w="0" h="0" />
+                  <end x="225" y="300" w="600" h="100" />
+               </UIShowHideAnim>
+               <UIAspect>
+                  <default image="" />
+               </UIAspect>
+               <UIState active="normal" visible="hidden" />
+               <children>
+                  <UIText name="wait message">
+                     <UIRegion x="-280" y="10" w="280" h="100" xalign="min" yalign="min" walign="max" halign="max" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="gesture:wait_tracer_label">
+                        <default image="" sound="">
+                           <BFFont font="Gulim" size="12" align="center">
+                              <BFColor r="255" g="248" b="178" a="255" />
+                           </BFFont>
+                        </default>
+                        <standard>
+                           <normal />
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <text type="multi" format="gesture:click_tracer_label_format" />
+                  </UIText>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UILayout>
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <children>
+            <UILayout name="start message layout" template="blank">
+               <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIShowHideAnim time=".2f">
+                  <start x="513" y="391" w="0" h="0" />
+                  <end x="225" y="300" w="600" h="100" />
+               </UIShowHideAnim>
+               <UIAspect>
+                  <default image="" />
+               </UIAspect>
+               <UIState active="normal" visible="hidden" />
+               <children>
+                  <UIText name="start message">
+                     <UIRegion x="-280" y="10" w="280" h="100" xalign="min" yalign="min" walign="max" halign="max" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="gesture:click_tracer_label_format">
+                        <default image="" sound="">
+                           <BFFont font="Gulim" size="12" align="center">
+                              <BFColor r="255" g="248" b="178" a="255" />
+                           </BFFont>
+                        </default>
+                        <standard>
+                           <normal />
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <text type="multi" format="gesture:click_tracer_label_format" />
+                  </UIText>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+      <UILayout>
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <children>
+            <ZTUITimedEvents name="count down">
+               <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="hidden" />
+               <children>
+                  <UILayout name="Counter layout 3" template="blank">
+                     <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="513" y="391" w="0" h="0" />
+                        <end x="455" y="300" w="100" h="100" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                     <children>
+                        <UIText name="Numbers">
+                           <UIRegion x="0" y="10" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="gesture:gesture_counter_format_3">
+                              <default image="" sound="">
+                                 <BFFont align="center">
+                                    <BFColor r="255" g="248" b="178" a="255" />
+                                 </BFFont>
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                     </children>
+                  </UILayout>
+                  <UILayout name="Counter layout 2" template="blank">
+                     <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="513" y="391" w="0" h="0" />
+                        <end x="455" y="300" w="100" h="100" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                     <children>
+                        <UIText name="Numbers">
+                           <UIRegion x="0" y="10" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="gesture:gesture_counter_format_2">
+                              <default image="" sound="">
+                                 <BFFont align="center">
+                                    <BFColor r="255" g="248" b="178" a="255" />
+                                 </BFFont>
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                     </children>
+                  </UILayout>
+                  <UILayout name="Counter layout 1" template="blank">
+                     <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="513" y="391" w="0" h="0" />
+                        <end x="455" y="300" w="100" h="100" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                     <children>
+                        <UIText name="Numbers">
+                           <UIRegion x="0" y="10" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="gesture:gesture_counter_format_1">
+                              <default image="" sound="">
+                                 <BFFont align="center">
+                                    <BFColor r="255" g="248" b="178" a="255" />
+                                 </BFFont>
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                     </children>
+                  </UILayout>
+                  <UILayout name="Counter layout go" template="blank">
+                     <UIRegion x="513" y="391" w="0" h="0" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="hidden" />
+                     <UIShowHideAnim time=".2f">
+                        <start x="513" y="391" w="0" h="0" />
+                        <end x="455" y="300" w="100" h="100" />
+                     </UIShowHideAnim>
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                     <children>
+                        <UIText name="Go text">
+                           <UIRegion x="0" y="20" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="gesture:gesture_counter_format_go">
+                              <default image="" sound="">
+                                 <BFFont align="center">
+                                    <BFColor r="255" g="248" b="178" a="255" />
+                                 </BFFont>
+                              </default>
+                              <normal />
+                           </UIAspect>
+                           <UIHotKeys />
+                        </UIText>
+                     </children>
+                  </UILayout>
+               </children>
+               <timedEvents>
+                  <event time=".1" msg="UI_CHILD" data="UIChildData" name="Counter layout 3">
+                     <child msg="UI_SHOW" />
+                  </event>
+                  <event time=".5" msg="UI_CHILD" data="UIChildData" name="Counter layout 3">
+                     <child msg="UI_HIDE" />
+                  </event>
+                  <event time=".1" msg="UI_CHILD" data="UIChildData" name="Counter layout 2">
+                     <child msg="UI_SHOW" />
+                  </event>
+                  <event time=".5" msg="UI_CHILD" data="UIChildData" name="Counter layout 2">
+                     <child msg="UI_HIDE" />
+                  </event>
+                  <event time=".1" msg="UI_CHILD" data="UIChildData" name="Counter layout 1">
+                     <child msg="UI_SHOW" />
+                  </event>
+                  <event time=".5" msg="UI_CHILD" data="UIChildData" name="Counter layout 1">
+                     <child msg="UI_HIDE" />
+                  </event>
+                  <event time=".1" msg="UI_CHILD" data="UIChildData" name="Counter layout go">
+                     <child msg="UI_SHOW" />
+                  </event>
+                  <event time=".05" msg="ZT_FP_TRACINGSTART" />
+                  <event time=".5" msg="UI_CHILD" data="UIChildData" name="Counter layout go">
+                     <child msg="UI_HIDE" />
+                  </event>
+               </timedEvents>
+            </ZTUITimedEvents>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

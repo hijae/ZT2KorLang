@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname" version="9" />
+      <LOC_STRING _locID="entityname:marinefence_high_mm" version="9">높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_stt" version="9">높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_lower" version="9">높은 해양 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_high_mm_ltt" version="9">
+         <color r="255" g="248" b="178">
+            높은 해양 울타리
+         </color>
+         <br />
+         
+         
+         높은 해양 울타리를 설치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm" version="9">해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_stt" version="9">해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_lower" version="9">해양 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:marinefence_window_mm_ltt" version="9">
+         <color r="255" g="248" b="178">
+            해양 창문 울타리
+         </color>
+         <br />
+         
+         
+         해양 창문 울타리를 설치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_Adult" version="9">고래상어 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_Adult_stt" version="9">고래상어 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_Adult_lower" version="9">고래상어 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:SharkWhale_Gift_Adult_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>고래상어 가방</b>
+         </color>
+         <br />
+         고래상어를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CodArctic_ltt" version="9">
+         <color r="255" g="248" b="178">
+            살아있는 극지대구
+         </color>
+         <br />
+         
+         
+         
+         살아있는 극지대구를 선택한 다음 배치합니다. 장난감 역할도 하는 살아있는 먹이입니다.
+      
+      
+      </LOC_STRING>
+</ZT2Strings>

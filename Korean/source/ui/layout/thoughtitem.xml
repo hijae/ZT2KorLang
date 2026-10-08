@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UIText name="thought" autosize="true">
+   <UIRegion x="0" w="0" h="20" walign="max" />
+   <UIAspect>
+      <standard>
+         <normal>
+            <BFFont name="Gulim" size="8">
+               <BFColor r="255" g="255" b="255" a="255" />
+            </BFFont>
+         </normal>
+      </standard>
+   </UIAspect>
+   <text format="entityinfo:thought_format" type="multi" />
+</UIText>

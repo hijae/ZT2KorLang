@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Terrain_Carrots">당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_stt">당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_lower">당근</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Carrots_ltt">
+         <color r="255" g="248" b="178">
+            당근
+         </color>
+         <br />
+         
+         
+         당근을 선택한 다음 배치합니다. 당근은 초식동물이 좋아하는 채소입니다.
+      
+      
+      </LOC_STRING>
+</ZT2Strings>

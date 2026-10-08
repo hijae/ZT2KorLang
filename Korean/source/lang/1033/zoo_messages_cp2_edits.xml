@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoomessages" version="11" />
+      <LOC_STRING _locID="zoomessages:sugar_mode_guest_on" version="11">어린 관람객에게 당분 충격 효과가 발생했습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:sugar_mode_guest_off" version="11">어린 관람객의 당분 충격 효과가 사라졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_guest_on" version="11">성인 관람객에게 카페인 흥분 효과가 발생했습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_guest_off" version="11">성인 관람객의 카페인 흥분 효과가 사라졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_staff_on" version="11">동물원 직원에게 카페인 흥분 효과가 발생했습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:caffeine_mode_staff_off" version="11">동물원 직원의 카페인 흥분 효과가 사라졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_found" version="11">동물 중 한 마리에게 질병이 생겼습니다! 멸종 동물 연구소로 가서 치료법을 찾으세요.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_cured" version="11">질병의 치료법을 찾았습니다! 동물에게 다가가 스페이스바를 눌러 치료하세요.</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:disease_reward" version="11">질병의 치료법을 찾은 보상으로 %m을(를) 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:animal_rampage" version="11">%s이(가) 날뛰고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="zoomessages:animal_dock_failed" version="11">%1s이(가) %2s에 다가갈 수 없습니다. 다른 개체와 너무 가까이 있을 수 있습니다.</LOC_STRING>
+</ZT2Strings>

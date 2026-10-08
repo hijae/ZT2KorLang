@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ImeUIConfig>
+   <appearance symbolColor="0" symbolColorOff="421752" symbolColorText="-16777216" symbolHeight="24" symbolTranslucence="160" symbolPlacement="0" candColorBase="-1" candColorBorder="-16777216" candColorText="0" compColorInput="16776960" compColorTargetConv="255" compColorConverted="65280" compColorTargetNotConv="16711680" compColorInputErr="16711680" compTranslucence="128" compColorText="0" fontName="Gulim" fontSize="12" fontWeight="400" />
+   <textEdit fontName="Gulim" fontSize="12" fontWeight="400" />
+</ImeUIConfig>

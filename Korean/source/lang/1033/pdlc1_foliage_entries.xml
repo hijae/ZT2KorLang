@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kingsagotree:entry">소철</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kingsagotree:text">
+     <color r="60" g="54" b="38">
+      <cell pady="0" width="1000" />
+      <p />
+      <cell width="260" />
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+       <cell width="150">
+        <img src="entities/objects/foliage/KingSagoPlant_Rainforest/KingSagoPlant_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
+       </cell>
+       <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+        소철은 천천히 자라는 야자나무 모양의 식물들을 묶은 분류군과 그 대표 속을 함께 가리키는 이름입니다. 오늘날에는 소철류 11속 150종만 남아 있지만, 약 2억 년 전 공룡 시대인 쥐라기에는 지배적인 식물이었습니다. 소철류는 움직이는 정자를 지닌 원시적인 겉씨식물로, 식물 꼭대기의 원뿔 모양 무리 안에 노출된 씨앗을 만듭니다. 열대와 아열대, 따뜻한 온대 지역에 분포합니다. 대부분은 가지가 없는 기둥 모양 줄기 끝에 잎이 모여 달리는 큰 식물입니다. 미국에 분포하는 유일한 종은 플로리다의 모래 많은 숲에서 발견됩니다. 이 종과 다른 소철류에서는 빵과 전분 식품을 만드는 사고 전분을 얻습니다. 소철류는 아름다운 잎을 지닌 상록 식물로, 관상 가치 때문에 자주 재배됩니다. 소철의 한 종류는 인기 있는 분재 소재입니다. 대부분의 소철류는 무분별한 채집 때문에 멸종 위험에 처해 있습니다.
+         </font></cell>
+         </cell>
+			<p />        
+         <cell width="260" />
+         <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+      </font></cell>
+     </color>
+    </LOC_STRING>
+ 
+</ZT2Strings>

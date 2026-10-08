@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+   
+   <entityname>
+      
+      <Statue_Gorilla_df>고릴라 동상</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>고릴라 동상</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>고릴라 동상</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>고릴라 동상</b>
+         </color>
+         <br />
+         고릴라 동상을 선택한 다음 설치합니다. 어미 고릴라와 새끼의 모습을 표현한 아름다운 동상입니다.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>호랑이 동상</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>호랑이 동상</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>호랑이 동상</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>호랑이 동상</b>
+         </color>
+         <br />
+         호랑이 동상을 선택한 다음 설치합니다. 어미 호랑이와 새끼들의 모습을 표현한 아름다운 동상입니다.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>거북 트램펄린</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>거북 트램펄린</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>거북 트램펄린</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>거북 트램펄린</b>
+         </color>
+         <br />
+         거북 트램펄린을 선택한 다음 설치합니다. 어린이가 올라가 뛰어노는 것을 좋아합니다.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>소형 분수대</Fountain_Small_df>
+      <Fountain_Small_df_stt>소형 분수대</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>소형 분수대</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>소형 분수대</b>
+         </color>
+         <br />
+         소형 분수대를 선택한 다음 설치합니다. 관람객이 구경하는 것을 좋아합니다.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>물놀이 분수대</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>물놀이 분수대</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>물놀이 분수대</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>물놀이 분수대</b>
+         </color>
+         <br />
+         물놀이 분수대를 선택한 다음 설치합니다. 어린이가 시원한 물에 젖으며 즐겁게 놀 수 있습니다.
+      </Fountain_Splash_df_ltt>
+      
+            
+      <brickwindow_df>벽돌 창문 울타리</brickwindow_df>
+      <brickwindow_df_stt>벽돌 창문 울타리</brickwindow_df_stt>
+      <brickwindow_df_lower>벽돌 창문 울타리</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>벽돌 창문 울타리</b>
+         </color>
+         <br />
+         벽돌 창문 울타리를 선택한 다음 설치합니다. 튼튼하고 동물도 잘 볼 수 있습니다.
+      </brickwindow_df_ltt>
+      <stonewindow_df>돌 창문 울타리</stonewindow_df>
+      <stonewindow_df_stt>돌 창문 울타리</stonewindow_df_stt>
+      <stonewindow_df_lower>돌 창문 울타리</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>돌 창문 울타리</b>
+         </color>
+         <br />
+         돌 창문 울타리를 선택한 다음 설치합니다. 튼튼하고 동물도 잘 볼 수 있습니다.
+      </stonewindow_df_ltt>
+      <junglewindow>정글 창문 울타리</junglewindow>
+      <junglewindow_stt>정글 창문 울타리</junglewindow_stt>
+      <junglewindow_lower>정글 창문 울타리</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>정글 창문 울타리</b>
+         </color>
+         <br />
+         정글 창문 울타리를 선택한 다음 설치합니다. 튼튼하고 동물도 잘 볼 수 있습니다.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   
+   <zoopedia_brickwindow>
+	      <entry>벽돌 창문 울타리</entry>
+	      <text>
+	         <cell pady="0" width="1000" />
+	         <p />
+	         <cell width="260" />
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="60" g="54" b="38">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+	                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+	                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리와 일반 벽돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
+	               </font></color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>돌 창문 울타리</entry>
+		      <text>
+		         <cell pady="0" width="1000" />
+		         <p />
+		         <cell width="260" />
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="60" g="54" b="38">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+		                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+		                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리와 일반 돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
+		               </font></color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>정글 창문 울타리</entry>
+		      <text>
+		         <cell pady="0" width="1000" />
+		         <p />
+		         <cell width="260" />
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="60" g="54" b="38">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+		                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">정글 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+		                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">정글 스타일 울타리는 호랑이, 고릴라, 침팬지 같은 정글과 열대우림 동물을 위한 우리를 만들 때 가장 잘 어울립니다. 관람객은 특정 테마로 꾸민 시설을 좋아합니다.
+		               </font></color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>거북 트램펄린</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />               
+                  <p />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">어린이는 알록달록한 공기 주입식 거북의 등 위로 올라가 트램펄린에서 높이 뛰어오르는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>소형 분수대</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">소형 분수대는 공간을 많이 차지하지 않으면서 동물원을 아름답게 꾸미기에 좋습니다. 관람객은 동물원의 분수대를 구경하는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>물놀이 분수대</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">물놀이 분수대는 어린이가 안으로 뛰어들어 시원하고 상쾌한 물에서 놀 수 있도록 설계되었습니다.
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

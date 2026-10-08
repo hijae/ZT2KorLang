@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="Sound Tester Output layout">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="normal" />
+   <children>
+		<UILayout name="Sound Test Layout">
+		<UIRegion x="450" y="60" w="499" h="190" xalign="min" yalign="min" walign="len" halign="len" />
+		<UIState active="normal" visible="hidden" />
+		<UIAspect>
+			<default />
+			<normal />
+		</UIAspect>
+		<children>
+			<UILayout name="Sound Test Background" template="blank">
+				<UIRegion x="0" y="0" w="499" h="190" />
+				<UIState active="normal" visible="normal" />
+				<UIAspect>
+					<default image="">
+					<BFRect x="0" y="0" w="399" h="160" />
+					</default>
+				</UIAspect>
+				<children>
+					<UIText name="Sound Test Info Box Label">
+                        <UIRegion x="10" y="10" w="380" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="center">
+                                    <BFColor r="10" g="10" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>음향 테스트 화면</text>
+					</UIText>
+					
+					<UIText name="Sound Stage Name Label">
+                        <UIRegion x="80" y="30" w="150" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>마일스 음향 무대 이름:</text>
+					</UIText>
+					<UIText name="Sound Stage Name">
+                        <UIRegion x="232" y="30" w="268" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>이름을 기다리는 중....</text>
+					</UIText>
+					<UIButton name="soundroomdown">
+						<UIRegion x="10" y="30" w="20" h="20" />
+						<UIState active="normal" visible="normal" />
+						<UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+						<UIAspect>
+							<default image="ui/shared/slider_B_horiz.dds" />
+							<standard>
+								<normal>
+									<BFRect x="1" y="66" w="10" h="20" />
+								</normal>
+								<highlighted>
+									<BFRect x="12" y="66" w="10" h="20" />
+								</highlighted>
+								<activated>
+									<BFRect x="23" y="66" w="10" h="20" />
+								</activated>
+								<disabled>
+									<BFRect x="34" y="66" w="10" h="20" />
+								</disabled>
+							</standard>
+						</UIAspect>
+						<activate>
+							<event msg="ZT_DEBUGSOUND_CHANGESOUNDROOM" data="int" value="-1" />
+						</activate>
+					</UIButton>
+					<UIButton name="soundroomup">
+						<UIRegion x="40" y="30" w="20" h="20" />
+						<UIState active="normal" visible="normal" />
+						<UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisup" />
+						<UIAspect>
+							<default image="ui/shared/slider_B_horiz.dds" />
+							<standard>
+								<normal>
+									<BFRect x="0" y="87" w="10" h="20" />
+								</normal>
+								<highlighted>
+									<BFRect x="12" y="87" w="10" h="20" />
+								</highlighted>
+								<activated>
+									<BFRect x="23" y="87" w="10" h="20" />
+								</activated>
+								<disabled>
+									<BFRect x="34" y="37" w="10" h="20" />
+								</disabled>
+							</standard>
+						</UIAspect>
+						<activate>
+							<event msg="ZT_DEBUGSOUND_CHANGESOUNDROOM" data="int" value="1" />
+						</activate>
+					</UIButton>
+					
+					<UIText name="Sound Stage Global Effect Level Label">
+                        <UIRegion x="80" y="55" w="200" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>무대 전체 효과 [0.0~1.0]:</text>
+					</UIText>
+					<UIText name="Sound Stage Global Effect Level">
+                        <UIRegion x="282" y="55" w="218" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>값을 기다리는 중....</text>
+					</UIText>
+					<UIPushButton name="roomglobaldown">
+                        <UIRegion x="10" y="55" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+                        <UIAspect alwayshit="true">
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEROOMGLOBAL" data="float" value="-0.005f" />
+                        </activate>
+					</UIPushButton>
+					<UIPushButton name="roomglobalup">
+                        <UIRegion x="40" y="55" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisup" />
+                        <UIAspect alwayshit="true">
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEROOMGLOBAL" data="float" value="+0.005f" />
+                        </activate>
+					</UIPushButton>
+					
+					<UIText name="Occlusion Global Effect Level Label">
+                        <UIRegion x="80" y="80" w="205" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>전체 차폐 효과 [0.0~1.0]:</text>
+					</UIText>
+					<UIText name="Occlusion Global Effect Level">
+                        <UIRegion x="300" y="80" w="200" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+					</UIText>
+					<UIPushButton name="occlusionglobaldown">
+                        <UIRegion x="10" y="80" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEOCCLUSIONGLOBAL" data="float" value="-0.005f" />
+                        </activate>
+					</UIPushButton>
+					<UIPushButton name="occlusionglobalup">
+                        <UIRegion x="40" y="80" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisup" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEOCCLUSIONGLOBAL" data="float" value="+0.005f" />
+                        </activate>
+					</UIPushButton>
+					
+					<UIText name="Obstruction Global Effect Level Label">
+                        <UIRegion x="80" y="105" w="215" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>전체 방해 효과 [0.0~1.0]:</text>
+					</UIText>
+					<UIText name="Obstruction Global Effect Level">
+                        <UIRegion x="300" y="105" w="200" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+					</UIText>
+					<UIPushButton name="obstructionglobaldown">
+                        <UIRegion x="10" y="105" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEOBSTRUCTIONGLOBAL" data="float" value="-0.005f" />
+                        </activate>
+					</UIPushButton>
+					<UIPushButton name="obstructionglobalup">
+                        <UIRegion x="40" y="105" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisup" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEOBSTRUCTIONGLOBAL" data="float" value="+0.005f" />
+                        </activate>
+					</UIPushButton>
+					
+					<UIText name="Exclusion Global Effect Level Label">
+                        <UIRegion x="80" y="130" w="202" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect locid="soundtester:soundtester_exclusionglobaleffect_label">
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="255" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+                        <text>전체 제외 효과 [0.0~1.0]:</text>
+					</UIText>
+					<UIText name="Exclusion Global Effect Level">
+                        <UIRegion x="300" y="130" w="200" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+					</UIText>
+					<UIPushButton name="exclusionglobaldown">
+                        <UIRegion x="10" y="130" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="1" y="66" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="66" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="66" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="66" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEEXCLUSIONGLOBAL" data="float" value="-0.005f" />
+                        </activate>
+					</UIPushButton>
+					<UIPushButton name="exclusionglobalup">
+                        <UIRegion x="40" y="130" w="20" h="20" />
+                        <UIState active="normal" visible="normal" />
+                        <UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisup" />
+                        <UIAspect>
+                            <default image="ui/shared/slider_B_horiz.dds" />
+                            <standard>
+                                <normal>
+                                    <BFRect x="0" y="87" w="10" h="20" />
+                                </normal>
+                                <highlighted>
+                                    <BFRect x="12" y="87" w="10" h="20" />
+                                </highlighted>
+                                <activated>
+                                    <BFRect x="23" y="87" w="10" h="20" />
+                                </activated>
+                                <disabled>
+                                    <BFRect x="34" y="37" w="10" h="20" />
+                                </disabled>
+                            </standard>
+                        </UIAspect>
+                        <activate>
+                            <event msg="ZT_DEBUGSOUND_CHANGEEXCLUSIONGLOBAL" data="float" value="+0.005f" />
+                        </activate>
+					</UIPushButton>
+					
+					<UIText name="Ambient 2D Sound Toggle">
+                        <UIRegion x="40" y="155" w="268" h="20" xalign="min" yalign="min" walign="len" halign="len" />
+                        <UIState active="normal" visible="normal" />
+                        <UIAspect>
+                            <default>
+                                <BFFont align="left">
+                                    <BFColor r="255" g="255" b="0" a="255" />
+                                </BFFont>
+                            </default>
+                        </UIAspect>
+					</UIText>
+					<UIButton name="Toggle2DAmbient">
+						<UIRegion x="10" y="155" w="20" h="20" />
+						<UIState active="normal" visible="normal" />
+						<UIHelpInfo name="" short="" long="" help="" ids="tools:Xaxisdown" />
+						<UIAspect>
+							<default image="ui/shared/slider_B_horiz.dds" />
+							<standard>
+								<normal>
+									<BFRect x="1" y="66" w="10" h="20" />
+								</normal>
+								<highlighted>
+									<BFRect x="12" y="66" w="10" h="20" />
+								</highlighted>
+								<activated>
+									<BFRect x="23" y="66" w="10" h="20" />
+								</activated>
+								<disabled>
+									<BFRect x="34" y="66" w="10" h="20" />
+								</disabled>
+							</standard>
+						</UIAspect>
+						<activate>
+							<event msg="ZT_DEBUGSOUND_TOGGLE2DAMBIENTSOUND" data="int" value="-1" />
+						</activate>
+					</UIButton>
+				</children>
+			</UILayout>
+			<UILayout name="Sound Test Header Background" template="header">
+				<UIRegion x="0" y="0" w="499" h="10" />
+				<UIState active="normal" visible="normal" />
+				<UIAspect>
+					<default image="">
+					<BFRect x="0" y="0" w="499" h="160" />
+					</default>
+				</UIAspect>
+			</UILayout>
+		</children>
+		</UILayout>
+	</children>
+</UILayout>

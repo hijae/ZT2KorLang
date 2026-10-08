@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout columns="1" name="New Trick row">
+   <UIRegion x="5" y="0" w="0" h="45" xalign="min" yalign="min" walign="max" halign="len" />
+   <UIAspect>
+      <default image="ui\layout\shared\white1x1.dds" />
+   </UIAspect>
+   <children>
+      <UILayout name="New Trick Entry">
+         <UIRegion x="10" y="0" w="0" h="45" xalign="min" yalign="min" walign="max" halign="len" />
+         <UIState active="normal" visible="normal" />
+         <UIAspect>
+            <default image="" />
+         </UIAspect>
+         <children>
+            <UIStatic name="training trick icon">
+               <UIRegion x="3" y="2" w="40" h="40" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect alwayshit="never">
+                  <default image="ui\layout\white1x1.dds">
+                     <BFColor r="255" g="255" b="255" a="255" />
+                     <BFRect x="0" y="0" w="64" h="64" />
+                  </default>
+               </UIAspect>
+            </UIStatic>
+            <UIText name="trick name" autosize="true">
+               <UIRegion x="50" y="5" w="200" h="55" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIAspect alwayshit="never">
+                  <default>
+                     <BFFont>
+                        <BFColor r="255" g="255" b="255" a="255" />
+                     </BFFont>
+                  </default>
+                  <standard>
+                     <highlighted>
+                        <BFFont>
+                           <BFColor r="128" g="255" b="128" a="255" />
+                        </BFFont>
+                     </highlighted>
+                     <activated>
+                        <BFFont>
+                           <BFColor r="0" g="255" b="0" a="255" />
+                        </BFFont>
+                     </activated>
+                     <disabled>
+                        <BFFont>
+                           <BFColor r="64" g="64" b="64" a="128" />
+                        </BFFont>
+                     </disabled>
+                  </standard>
+               </UIAspect>
+               <text format="entityname:format" type="multi">고리 통과 점프 1단계 및 20단계</text>
+            </UIText>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

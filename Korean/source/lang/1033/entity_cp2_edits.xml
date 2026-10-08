@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:Poop_GiantBird">거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_stt">거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_lower">거대 새똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_ltt">
+         <color r="255" g="248" b="178">
+            <b>거대 새똥</b>
+         </color>
+         <br />
+         클릭하여 거대 조류의 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick">거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_stt">거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_lower">거대 새똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_GiantBird_Sick_ltt">
+         <color r="255" g="248" b="178">
+            <b>거대 새똥 (아픔)</b>
+         </color>
+         <br />
+         클릭하여 아픈 거대 조류의 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant">거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_stt">거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_lower">거대 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_ltt">
+         <color r="255" g="248" b="178">
+            <b>거대 똥</b>
+         </color>
+         <br />
+         클릭하여 거대 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick">거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_stt">거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_lower">거대 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Giant_Sick_ltt">
+         <color r="255" g="248" b="178">
+            <b>거대 똥 (아픔)</b>
+         </color>
+         <br />
+         클릭하여 아픈 동물의 거대 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+   
+</ZT2Strings>

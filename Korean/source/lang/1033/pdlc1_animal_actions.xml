@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:GoingToBuildNest">둥지를 만들러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:BuildingNest">둥지를 만드는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToWorkOnNest">둥지를 손보러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:WorkingOnNest">둥지를 손보는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GoingToFinishNest">둥지를 완성하러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:FinishingNest">둥지를 완성하는 중</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GrowlHappy">만족해서 으르렁거리는 중</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+   
+   
+   
+   <entityname>
+   
+      
+      
+      
+      
+      <FlowerBedRound_Zoo_df>원형 화단</FlowerBedRound_Zoo_df>
+		<FlowerBedRound_Zoo_df_stt>원형 화단</FlowerBedRound_Zoo_df_stt>
+		<FlowerBedRound_Zoo_df_lower>원형 화단</FlowerBedRound_Zoo_df_lower>
+		<FlowerBedRound_Zoo_df_ltt>
+		         <color r="255" g="248" b="178">
+		            <b>원형 화단</b>
+		         </color>
+		         <br />
+		         원형 화단을 선택한 다음 설치합니다. 동물원의 관람객 구역에 색채와 아름다움을 더할 수 있습니다.     
+      </FlowerBedRound_Zoo_df_ltt>
+
+      <FlowerBedMoon_Zoo_df>달 모양 화단</FlowerBedMoon_Zoo_df>
+		<FlowerBedMoon_Zoo_df_stt>달 모양 화단</FlowerBedMoon_Zoo_df_stt>
+		<FlowerBedMoon_Zoo_df_lower>달 모양 화단</FlowerBedMoon_Zoo_df_lower>
+		<FlowerBedMoon_Zoo_df_ltt>
+		         <color r="255" g="248" b="178">
+		            <b>달 모양 화단</b>
+		         </color>
+		         <br />
+		         달 모양 화단을 선택한 다음 설치합니다. 동물원의 관람객 구역에 색채와 아름다움을 더할 수 있습니다.     
+      </FlowerBedMoon_Zoo_df_ltt>
+
+      <FlowerBedStar_Zoo_df>태양 모양 화단</FlowerBedStar_Zoo_df>
+		<FlowerBedStar_Zoo_df_stt>태양 모양 화단</FlowerBedStar_Zoo_df_stt>
+		<FlowerBedStar_Zoo_df_lower>태양 모양 화단</FlowerBedStar_Zoo_df_lower>
+		<FlowerBedStar_Zoo_df_ltt>
+		         <color r="255" g="248" b="178">
+		            <b>태양 모양 화단</b>
+		         </color>
+		         <br />
+		         태양 모양 화단을 선택한 다음 설치합니다. 동물원의 관람객 구역에 색채와 아름다움을 더할 수 있습니다.     
+      </FlowerBedStar_Zoo_df_ltt>
+
+      <FlowerBedHexagon_Zoo_df>육각형 화단</FlowerBedHexagon_Zoo_df>
+		<FlowerBedHexagon_Zoo_df_stt>육각형 화단</FlowerBedHexagon_Zoo_df_stt>
+		<FlowerBedHexagon_Zoo_df_lower>육각형 화단</FlowerBedHexagon_Zoo_df_lower>
+		<FlowerBedHexagon_Zoo_df_ltt>
+		         <color r="255" g="248" b="178">
+		            <b>육각형 화단</b>
+		         </color>
+		         <br />
+		         육각형 화단을 선택한 다음 설치합니다. 동물원의 관람객 구역에 색채와 아름다움을 더할 수 있습니다.     
+      </FlowerBedHexagon_Zoo_df_ltt>
+
+      
+
+      
+      
+      <cablefence_df>케이블 울타리</cablefence_df>
+      <cablefence_df_stt>케이블 울타리</cablefence_df_stt>
+      <cablefence_df_lower>케이블 울타리</cablefence_df_lower>
+      <cablefence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>케이블 울타리</b>
+         </color>
+         <br />
+         케이블 울타리를 선택한 다음 설치합니다. 튼튼하고 가격도 저렴합니다.
+      </cablefence_df_ltt>
+      
+      <alpinefence_df>고산 난간 울타리</alpinefence_df>
+      <alpinefence_df_stt>고산 난간 울타리</alpinefence_df_stt>
+      <alpinefence_df_lower>고산 난간 울타리</alpinefence_df_lower>
+      <alpinefence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>고산 난간 울타리</b>
+         </color>
+         <br />
+         고산 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </alpinefence_df_ltt>
+      
+      <borealfence_df>북방림 난간 울타리</borealfence_df>
+      <borealfence_df_stt>북방림 난간 울타리</borealfence_df_stt>
+      <borealfence_df_lower>북방림 난간 울타리</borealfence_df_lower>
+      <borealfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>북방림 난간 울타리</b>
+         </color>
+         <br />
+         북방림 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </borealfence_df_ltt>
+      
+      <desertfence_df>사막 난간 울타리</desertfence_df>
+      <desertfence_df_stt>사막 난간 울타리</desertfence_df_stt>
+      <desertfence_df_lower>사막 난간 울타리</desertfence_df_lower>
+      <desertfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>사막 난간 울타리</b>
+         </color>
+         <br />
+         사막 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </desertfence_df_ltt>
+      
+      <grasslandfence_df>초원 난간 울타리</grasslandfence_df>
+      <grasslandfence_df_stt>초원 난간 울타리</grasslandfence_df_stt>
+      <grasslandfence_df_lower>초원 난간 울타리</grasslandfence_df_lower>
+      <grasslandfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>초원 난간 울타리</b>
+         </color>
+         <br />
+         초원 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </grasslandfence_df_ltt>
+      
+      <savannahfence_df>사바나 난간 울타리</savannahfence_df>
+      <savannahfence_df_stt>사바나 난간 울타리</savannahfence_df_stt>
+      <savannahfence_df_lower>사바나 난간 울타리</savannahfence_df_lower>
+      <savannahfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>사바나 난간 울타리</b>
+         </color>
+         <br />
+         사바나 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </savannahfence_df_ltt>
+      
+      <scrubfence_df>관목림 난간 울타리</scrubfence_df>
+      <scrubfence_df_stt>관목림 난간 울타리</scrubfence_df_stt>
+      <scrubfence_df_lower>관목림 난간 울타리</scrubfence_df_lower>
+      <scrubfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>관목림 난간 울타리</b>
+         </color>
+         <br />
+         관목림 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </scrubfence_df_ltt>
+      
+      <temperatefence_df>온대림 난간 울타리</temperatefence_df>
+      <temperatefence_df_stt>온대림 난간 울타리</temperatefence_df_stt>
+      <temperatefence_df_lower>온대림 난간 울타리</temperatefence_df_lower>
+      <temperatefence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>온대림 난간 울타리</b>
+         </color>
+         <br />
+         온대림 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </temperatefence_df_ltt>
+      
+      <tropicalfence_df>열대우림 난간 울타리</tropicalfence_df>
+      <tropicalfence_df_stt>열대우림 난간 울타리</tropicalfence_df_stt>
+      <tropicalfence_df_lower>열대우림 난간 울타리</tropicalfence_df_lower>
+      <tropicalfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>열대우림 난간 울타리</b>
+         </color>
+         <br />
+         열대우림 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </tropicalfence_df_ltt>
+      
+      <tundrafence_df>툰드라 난간 울타리</tundrafence_df>
+      <tundrafence_df_stt>툰드라 난간 울타리</tundrafence_df_stt>
+      <tundrafence_df_lower>툰드라 난간 울타리</tundrafence_df_lower>
+      <tundrafence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>툰드라 난간 울타리</b>
+         </color>
+         <br />
+         툰드라 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </tundrafence_df_ltt>
+      
+      <wetlandsfence_df>습지대 난간 울타리</wetlandsfence_df>
+      <wetlandsfence_df_stt>습지대 난간 울타리</wetlandsfence_df_stt>
+      <wetlandsfence_df_lower>습지대 난간 울타리</wetlandsfence_df_lower>
+      <wetlandsfence_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>습지대 난간 울타리</b>
+         </color>
+         <br />
+         습지대 난간 울타리를 선택한 다음 설치합니다. 동물을 가두는 데 무난한 성능을 갖춘 아름다운 울타리입니다.
+      </wetlandsfence_df_ltt>
+   </entityname>
+   
+   
+
+   <zoopedia_biome_themed_fences>
+      <entry>서식 환경 테마 난간 울타리</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\alpinefence_df\alpinefence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <img src="entities\objects\fences\borealfence_df\borealfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\fences\desertfence_df\desertfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" /> 
+                  <img src="entities\objects\fences\grasslandfence_df\grasslandfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\fences\savannahfence_df\savannahfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\fences\scrubfence_df\scrubfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\fences\temperatefence_df\temperatefence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />                   
+                  <img src="entities\objects\fences\tropicalfence_df\tropicalfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\fences\tundrafence_df\tundrafence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" /> 
+                  <img src="entities\objects\fences\wetlandsfence_df\wetlandsfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">서식 환경 테마 난간 울타리는 강도가 보통 수준이지만 여러 동물을 위한 보기 좋은 우리 울타리로 사용할 수 있습니다. 
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_biome_themed_fences>
+
+   <zoopedia_cablefence>
+      <entry>케이블 울타리</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\cablefence_df\cablefence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">케이블 울타리는 고무 같은 플라스틱으로 코팅한 강철 케이블로 만들어져 저렴하고 튼튼합니다.
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">하지만 케이블 울타리를 타고 올라갈 수 있는 동물이 많습니다. 침팬지 우리에는 사용하지 마세요!
+               </font></color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_cablefence>
+        
+</ZT2Strings>
