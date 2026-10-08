@@ -83,7 +83,7 @@ Microsoft Encarta의 일반 백과사전 설명은 주피디아와 구분합니�
 | ElephantAsian_050505.z2f | 아시아코끼리 |
 | BeautificationPack_061305.z2f | 동물원 꾸미기 시설 |
 | GuestPack.z2f | 식수대·관람객 문구 |
-| PDLC1_2.z2f | 위험한 공룡 팩 호환 내용; 추가 언어 XML 없음 |
+| PDLC1_2.z2f | Dino Danger Pack 호환 내용; 추가 언어 XML 없음 |
 
 공식 팩의 언어 XML 10개만 보충하며 원본 모델·이미지·스크립트는 포함하지 않습니다. 실제 목표 스크립트와 원문 설명이 다른 조건은 확인한 근거를 별도로 적용하고 게임 스크립트는 변경하지 않습니다.
 
