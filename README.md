@@ -11,10 +11,7 @@
 1. Release에서 ZZZZZZKorlang[날짜].z2f 형태의 파일을 받습니다.
 2. Zoo Tycoon 2가 설치된 위치에 넣습니다. 보통 "C:/Program Files (x86)/Microsoft Games/Zoo Tycoon 2"가 설치된 위치 입니다.
 
-새로운 변경점이 발생하면 자동으로 생성됩니다.
-
-https://cafe.naver.com/newzootycooncafe/187
-이 네이버 카페글의 GaMERCaT님께서 작업하신 결과물을 누구나 수정 및 재배포가 가능하도록 배포해주신 덕분에 시작 할 수 있게 되었습니다.
+새로운 번역이 추가되면 날짜가 변경된 파일이 올라옵니다.
 
 ## 공식 콘텐츠 번역 보충 패치
 
@@ -25,3 +22,9 @@ https://cafe.naver.com/newzootycooncafe/187
 3. 게임을 다시 실행합니다. 보충판을 바꾸거나 제거하려면 이전 보충 파일만 삭제합니다.
 
 게임 실행 파일이나 글꼴 파일은 포함하지 않습니다. 기본판은 `python complete-korean/build_patch.py`, 선택판은 `python complete-korean/build_patch.py --font pretendard`로 빌드합니다. 수정 범위·검증 상태와 상세 설치법은 [보충 패치 안내](complete-korean/README.md), 용어 기준은 [용어표](complete-korean/TERMINOLOGY.md)를 확인하십시오.
+
+
+# Special Thanks
+
+https://cafe.naver.com/newzootycooncafe/187
+이 네이버 카페글의 GaMERCaT님께서 작업하신 결과물을 누구나 수정 및 재배포가 가능하도록 배포해주신 덕분에 시작 할 수 있게 되었습니다.
