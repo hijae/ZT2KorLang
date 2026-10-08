@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex">티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_stt">티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_lower">티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_ltt">
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스
+         </color>
+         <br />
+         티라노사우루스 렉스를 선택한 다음 우리에 배치합니다. 육식성을 가진 포식자 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus">스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_stt">스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_lower">스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_ltt">
+         <color r="255" g="248" b="178">
+            스티라코사우루스
+         </color>
+         <br />
+         스티라코사우루스를 선택한 다음 우리에 배치합니다. 뿔 달린 작은 초식 공룡이며 날카로운 가시가 있는 프릴을 가지고 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops">트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_stt">트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_lower">트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_ltt">
+         <color r="255" g="248" b="178">
+            트리케라톱스
+         </color>
+         <br />
+         트리케라톱스를 선택한 다음 우리에 배치합니다. 뿔과 프릴이 있는 커다란 초식 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus">카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_stt">카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_lower">카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_ltt">
+         <color r="255" g="248" b="178">
+            카르노타우루스
+         </color>
+         <br />
+         카르노타우루스를 선택한 다음 우리에 배치합니다. 남미 출신의 육식 공룡입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift">티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_stt">티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_lower">티라노사우루스 렉스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRex_Gift_ltt">
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스 모자
+         </color>
+         <br />   
+         티라노사우루스 렉스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift">카르노타우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_stt">카르노타우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_lower">카르노타우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Carnotaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            카르노타우루스 인형
+         </color>
+         <br />   
+         카르노타우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift">스티라코사우루스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_stt">스티라코사우루스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_lower">스티라코사우루스 셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Styracosaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            스티라코사우루스 셔츠
+         </color>
+         <br />   
+         스티라코사우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift">트리케라톱스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_stt">트리케라톱스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_lower">트리케라톱스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Triceratops_Gift_ltt">
+         <color r="255" g="248" b="178">
+            트리케라톱스 인형
+         </color>
+         <br />   
+         트리케라톱스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest">소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_stt">소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_lower">소철</LOC_STRING>
+      <LOC_STRING _locID="entityname:KingSagoPlant_Rainforest_ltt">
+         <color r="255" g="248" b="178">
+            소철
+         </color>
+         <br />
+         소철을 선택한 다음 심습니다. 공룡 시대부터 오늘날까지 살아남은 소철 식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence">공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_stt">공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_lower">공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:dinofence_ltt">
+         <color r="255" g="248" b="178">
+            공룡 울타리
+         </color>
+         <br />
+         공룡 울타리를 선택한 다음 설치합니다. 선사 시대의 거대한 동물을 가두도록 설계한 매우 튼튼한 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat">공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_stt">공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_lower">공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_DinoMeat_ltt">
+         <color r="255" g="248" b="178">
+            공룡 고기
+         </color>
+         <br />
+         공룡 고기를 선택한 다음 배치합니다. 육식 공룡의 먹이에 꼭 필요한 부분입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves">소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_stt">소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_lower">소철 잎</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_CycadLeaves_ltt">
+         <color r="255" g="248" b="178">
+            소철 잎
+         </color>
+         <br />
+         소철 잎을 선택한 다음 배치합니다. 초식 공룡이 즐겨 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino">공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_stt">공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_lower">공룡 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_ltt">
+         <color r="255" g="248" b="178">
+            공룡 똥
+         </color>
+         <br />
+         공룡의 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick">공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_stt">공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_lower">공룡 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dino_Sick_ltt">
+         <color r="255" g="248" b="178">
+            공룡 똥 (아픔)
+         </color>
+         <br />
+         아픈 공룡의 배설물을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest">트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_stt">트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_lower">트리케라톱스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TriceratopsNest_ltt">
+         <color r="255" g="248" b="178">
+            트리케라톱스 둥지
+         </color>
+         <br />
+         트리케라톱스 둥지를 선택한 다음 배치합니다. 트리케라톱스가 알을 낳는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest">스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_stt">스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_lower">스티라코사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StyracosaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            스티라코사우루스 둥지
+         </color>
+         <br />
+         스티라코사우루스 둥지를 선택한 다음 배치합니다. 스티라코사우루스가 알을 낳는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest">티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_stt">티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_lower">티라노사우루스 렉스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:TyrannosaurusRexNest_ltt">
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스 둥지
+         </color>
+         <br />
+         티라노사우루스 렉스 둥지를 선택한 다음 배치합니다. 티라노사우루스 렉스가 알을 낳는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest">카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_stt">카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_lower">카르노타우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:CarnotaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            카르노타우루스 둥지
+         </color>
+         <br />
+         카르노타우루스 둥지를 선택한 다음 배치합니다. 카르노타우루스가 알을 낳는 곳입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy">공룡 먹잇감 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_stt">공룡 먹잇감 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_lower">공룡 먹잇감 모형</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoPreyDummy_ltt">
+         <color r="255" g="248" b="178">
+            공룡 먹잇감 모형
+         </color>
+         <br />
+         공룡 먹잇감 모형을 선택한 다음 배치합니다. 공룡들은 이 모형을 할퀴고, 물고, 들이받는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinomeat:entry">공룡 고기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinomeat:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/Terrain/Terrain_DinoMeat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">이 거대한 고깃덩어리는 재미있는 공룡 모양으로 만들어졌습니다. 티라노사우루스 렉스나 카르노타우루스 같은 육식 공룡에게 완벽한 먹이가 됩니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cycadleaves:entry">소철 잎</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cycadleaves:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/food/Terrain/Terrain_CycadLeaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  소철 같은 소철류 식물은 공룡 시대에 가장 흔한 식물 종류 중 하나였습니다. 소철 잎은 스티라코사우루스와 트리케라톱스 같은 초식 공룡의 먹이에서 큰 비중을 차지했을 것으로 보입니다.  
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinofence:entry">공룡 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinofence:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\dino_fence\dinofence_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강화 강철로 만든 공룡 울타리는 강력한 선사 시대의 거대한 동물도 우리에서 탈출하지 못하게 할 만큼 튼튼합니다. 티라노사우루스 렉스 같은 큰 공룡이 넘어가지 못하도록 울타리 위쪽에는 전기도 흐릅니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinosaurnest:entry">공룡 둥지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinosaurnest:text">
+			<cell pady="0" width="1000" />
+			<p />
+			<cell width="260" />
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="60" g="54" b="38">
+						<img src="entities\objects\eggs\Dinosaur_Nest\DinosaurNest_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+						<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">오늘날의 많은 파충류와 날지 못하는 새처럼, 많은 공룡도 알을 낳기 위해 땅에 둥지를 만들었습니다. 공룡 둥지의 첫 화석 증거는 1923년 고비 사막에서 발견되었습니다.
+					</font></color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinopreydummy:entry">공룡 먹잇감 모형</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinopreydummy:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <p />
+                  <img src="entities\objects\enrichment\Dino_Prey_Dummy\DinoPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 먹잇감 모형은 매트 재료와 인장력을 견디는 강철 골조로 만든 공룡 모양의 모형입니다.
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">이 모형은 공격에 반응하여 움직이므로 육식 동물은 물거나 할퀴며 공격 연습을 하는 것을 즐깁니다.
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스와 트리케라톱스처럼 영역을 지키는 공룡은 뿔로 모형을 들이받는 것을 즐깁니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beddingmaterial" version="2" />
+      <LOC_STRING _locID="zoopedia_beddingmaterial:entry" version="2">잠자리 재료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beddingmaterial:text" version="2">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+			잠자리 재료는 넓은 나뭇잎과 부드러운 덤불로 이루어져 있으며 
+            동물원에 있는 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </font><a href="zoopedia:zoopedia_chimp:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
+                     </u>
+                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </font><a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마운틴고릴라</font></color>
+                     </u>
+                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            , 
+         
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </font><a href="zoopedia:zoopedia_panda:entry">
+                     <u>
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
+                     </u>
+                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            를 비롯한 많은 동물들이 편안한 잠자리를 만드는 데 사용합니다.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeybars" version="2" />
+      <LOC_STRING _locID="zoopedia_monkeybars:entry" version="2">구름다리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monkeybars:text" version="2">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities/objects/enrichment/MonkeyBars/MonkeyBars_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  구름다리는 막대를 수평과 수직 방향으로 엮어 놓은 구조물로 흔하고 인기 있는 놀이 시설입니다. 침팬지 같은 영장류 동물은 구름다리에 매달려 노는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

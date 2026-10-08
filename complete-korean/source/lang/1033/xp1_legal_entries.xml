@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_about" version="2" />
+      <LOC_STRING _locID="zoopedia_about:entry" version="2">도움말/주타이쿤 2 정보</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_about:text" version="2">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+© 및 ℗ 2005 마이크로소프트사. 모든 권리를 보유합니다.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+마이크로소프트, 마이크로소프트 게임 스튜디오 로고, 윈도우, 윈도우 로고 및 주타이쿤은 미국 및/또는 기타 국가에서의 마이크로소프트사 등록 상표 또는 상표입니다.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+본 제품은 마이크로소프트사를 위하여 블루 팽 게임즈™에 의해 개발된 것입니다. 
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">블루 팽 게임즈와 블루 팽 로고는 블루 팽 게임즈 유한책임회사의 상표입니다.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+이 제품은 사용이 허가되었습니다. 제품 식별 번호를 보려면 주타이쿤 2: 멸종 위기 동물 디스크를 시디롬 드라이브에 넣으십시오. 디스크를 넣으면 나타나는 자동 실행 화면에 제품 식별 번호가 표시됩니다.           
+                  </font><p />
+                  <img src="ui/zoopedia/MsGslogo_white.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/radlogo.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64" />
+                	<img src="ui/zoopedia/jeeplogo_64X128.dds" sx="0" sy="0" sw="128" sh="64" />               
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+이 소프트웨어의 일부는 사용 허가를 받아 포함되었습니다. © 1997-2005 뉴메리컬 디자인 유한회사. 모든 권리를 보유합니다. 게임브리오®는 뉴메리컬 디자인 유한회사의 등록 상표입니다.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+마일스 사운드 시스템을 사용합니다. 저작권 © 1991-2005 래드 게임 툴스사.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+빙크 비디오를 사용합니다. 저작권 © 1997-2005 래드 게임 툴스사.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+지프®는 다임러크라이슬러사의 등록 상표입니다.
+  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+경고: 이 컴퓨터 프로그램은 저작권법과 국제 조약의 보호를 받습니다. 이 프로그램의 전부 또는 일부를 허가 없이 복제하거나 배포하면 엄중한 민사상 및 형사상 처벌을 받을 수 있으며, 법이 허용하는 최대 범위에서 기소됩니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_home:entry">목차</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_home:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+					주피디아에 오신 것을 환영합니다. 주피디아는 주타이쿤 2에 등장하는 동물과 시설물에 대한 정보를 담고 있습니다.
+					</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+					정보를 보려면 왼쪽에 있는 목록에서 해당 항목을 찾아 클릭하면 됩니다.
+               
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="guestactions:GoWatchEntertainer">%s의 공연을 보러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:WatchingEntertainer">%s의 익살스러운 행동을 보는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:HuggingEntertainer">%s 안아 주는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:TakingPictureEntertainer">%s와 함께 사진을 찍는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoToFossilDigPit">%s에서 발굴하러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:UseFossilDigPit">%s에서 발굴하는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:ExitFossilDigPit">%s에서 나오는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoToDeliverFossil">%s에 화석을 가져가러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:DeliveringFossil">%s 건네주는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:GoingtoDanceStage">무대에서 춤추러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:DancingAtStage">무대에서 춤추는 중</LOC_STRING>
+      <LOC_STRING _locID="guestactions:PlayingWith">%s와 노는 중</LOC_STRING>
+</ZT2Strings>

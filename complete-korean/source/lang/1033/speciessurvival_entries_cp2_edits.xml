@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="SpeciesSurvival" version="9" />
+      <LOC_STRING _locID="SpeciesSurvival:SecondGenerationFailureoverview" version="9">
+       이런, %s이(가) 한 마리밖에 없습니다! 번식 프로그램을 유지하기에 충분한 수의 암수 동물을 확보하지 못했습니다. 여러 세대에 걸쳐 동물을 번식시키는 특별한 성과를 달성할 수 없습니다.
+      </LOC_STRING>      
+</ZT2Strings>

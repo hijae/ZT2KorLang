@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tarfountain:entry">멸종 동물 테마 장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tarfountain:text">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\fountain_xt\fountain_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />     
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 테마 장식용 타르 웅덩이는 원유가 지표면으로 솟아올라 끈적한 아스팔트 웅덩이가 되는 모습을 보여 줍니다. 자연에서 무거운 타르는 수만 년 동안 동물의 뼈와 이빨을 보존해 왔습니다. 더 높은 곳을 찾는 검치고양이 석상이 호기심 많은 관람객을 부글거리는 장식용 타르 웅덩이로 이끕니다. 안전하지만 관람객에게는 매우 끈적하게 느껴질 수 있습니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+
+ 
+</ZT2Strings>

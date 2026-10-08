@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="DinoCampaign:HarmonyIntro">
+      조화롭게 살다
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOverview">
+      멸종 동물을 되살리는 일은 동물원에 특별한 과제를 안겨 줍니다. 멸종 동물과 일반 동물이 나란히 사는 동물원을 운영할 수 있겠습니까? 목표는 서로 다른 동물 15종이 있고 그중 적어도 8종은 멸종 동물인 동물원을 만드는 것입니다.
+      <p />
+      모든 사업에는 시작이 있습니다. 서로 다른 동물 세 종을 입양하거나 확보하고 기본적인 생활 조건을 만족시켜 동물원 운영을 시작하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOverviewShort">
+      멸종 동물을 되살리는 일은 동물원에 특별한 과제를 안겨 줍니다. 멸종 동물과 일반 동물이 나란히 사는 동물원을 운영할 수 있겠습니까? 이 캠페인의 시나리오를 모두 완료하면 브라키오사우르스 미끄럼틀을 사용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptThreeShort">
+      서로 다른 동물 세 종을 입양하거나 확보하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptThree">
+      동물원에 동물 세 종이 있습니다. 세계적인 동물원을 향해 나아가고 있습니다! $15,000의 보조금을 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptEight">
+      서로 다른 동물 여섯 종을 입양하거나 확보하고 기본적인 생활 조건을 만족시켜 다음 단계로 나아가세요. 힌트: 한 우리에 여러 종을 함께 두면 공간과 비용을 절약할 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptEightShort">
+      서로 다른 동물 여섯 종을 입양하거나 확보하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptEight">
+      동물원에 동물 여섯 종이 있습니다. 15종이라는 목표의 거의 절반에 도달했습니다! $25,000의 보조금을 추가로 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptTenExtinct">
+      출발이 좋습니다! 이제 멸종 동물을 더 추가할 때입니다. 서로 다른 멸종 동물 8종을 입양하거나 확보하고 기본적인 생활 조건을 만족시키면 사업을 마무리할 자금을 더 받을 수 있습니다! 기본적인 생활 조건이 시급하게 부족한 동물이 동물원에 있으면 목표를 완료할 수 없습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyAdoptTenExtinctShort">
+      추가 자금을 받으려면 멸종 동물 8종을 확보하고 동물원에 기본적인 생활 조건이 시급하게 부족한 동물이 없도록 하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishAdoptTenExtinct">
+      동물원에 멸종 동물 8종이 있습니다! 마지막 목표 달성을 돕기 위한 보조금 $25,000을 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinalGoal">
+      사업이 거의 완료되었습니다! 멸종 동물이 사는 동물원을 성공적으로 만들었다는 소문이 퍼지고 있습니다. 이제 마지막 목표를 달성할 때입니다! 멸종 동물 적어도 8종과 멸종하지 않은 동물 적어도 5종을 포함하여 서로 다른 동물 15종을 전시하면 시나리오를 완료합니다! 힌트: 성공하려면 자금과 공간을 현명하게 활용해야 합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinalGoalShort">
+      시나리오를 완료하려면 멸종 동물 적어도 8종과 멸종하지 않은 동물 적어도 5종을 포함하여 서로 다른 동물 15종을 전시하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishFinalGoal">
+      성공했습니다! 서로 다른 동물 15종이 조화롭게 사는 세계적인 동물원을 만들었습니다. 익명의 기부자가 동물원에 $50,000을 기부하겠다고 제안했습니다. 계속 플레이하려면 확인 단추를 클릭하세요. 다음 시나리오로 넘어가려면 다음 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalFourBiomes">
+      (선택 사항) 동물의 종이 다양한 것도 중요하지만 동물원에 여러 서식 환경이 있는 것도 중요합니다. 서로 다른 서식 환경 네 종류의 동물을 입양하거나 확보하면 $10,000의 보너스를 받습니다. 목표에 포함되려면 동물을 각자 주 서식 환경에 배치해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalFourBiomesShort">
+      (선택 사항) 서로 다른 서식 환경 네 종류의 동물을 입양하거나 확보하고 각자 주 서식 환경에 전시하면 $10,000의 보너스를 받습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishOptionalFourBiomes">
+      축하합니다! 동물원에 서로 다른 서식 환경 네 종류를 갖추어 $10,000의 보너스를 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalEightBiomes">
+      (선택 사항) 동물의 종을 추가하면서 동물원이 계속 번창하고 있습니다. 여러 서식 환경의 동물을 모두 전시하는 것은 세계적인 동물원을 만드는 데 매우 중요합니다. 서로 다른 서식 환경 여덟 종류의 동물을 입양하거나 확보하면 $25,000의 보너스를 추가로 받습니다. 목표에 포함되려면 동물을 각자 주 서식 환경에 배치해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyOptionalEightBiomesShort">
+      (선택 사항) 서로 다른 서식 환경 여덟 종류의 동물을 입양하거나 확보하고 각자 주 서식 환경에 전시하면 $25,000의 보너스를 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HarmonyFinishOptionalEightBiomes">
+      아주 잘했습니다! 동물원에 서로 다른 서식 환경 여덟 종류를 갖추어 $25,000의 보너스를 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayIntro">
+      어려운 길
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayOverview">
+      더 이상 입양할 멸종 동물이 없습니다! 하지만 관람객들은 멸종 동물을 보고 싶어합니다. 관람객들이 원하는 것을 제공할 방법은 하나뿐입니다. 직접 땅을 팔 때입니다! 적어도 서로 다른 멸종 동물 여덟 종이 있는 별 4개 동물원을 만들 수 있는지 도전해 보세요!
+      <p />
+      먼저 멸종 동물 연구소를 설치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayOverviewShort">
+      더 이상 입양할 멸종 동물이 없습니다! 관람객들이 원하는 것을 제공할 방법은 하나뿐입니다. 직접 땅을 팔 때입니다!  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayLabShort">
+      멸종 동물 연구소를 설치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishLabShort">
+      축하합니다! 멸종 동물 연구소를 설치했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishLab">
+      잘했습니다! 멸종 동물 연구소를 설치했으니 동물원에 멸종 동물을 들여오기 위한 일을 시작할 수 있습니다. 입양할 수 없으므로 새 연구소에서 직접 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCollectFirstFossil">
+      멸종 동물을 얻을 수 있는 유일한 방법은 동물원에서 화석을 발견하는 것입니다. 멸종 동물 연구소로 가서 화석 탐지를 시작하세요. 연구소에서 화석을 조립할 수 있도록 조각을 충분히 모으세요. 완전한 화석을 조립하려면 같은 동물의 조각 여섯 개가 필요합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCollectFirstFossilShort">
+      완전한 화석을 조립할 수 있도록 같은 동물의 화석 조각 여섯 개를 모으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishCollectFirstFossil">
+      화석 조각 여섯 개를 모두 모았습니다. 이제 멸종 동물 연구소로 가서 첫 화석을 조립할 수 있습니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayBuildFirstFossil">
+      동물 한 마리의 조각을 모두 모았습니다. 이제 완전한 골격을 조립하세요! 발견한 조각들을 조립하면 첫 동물을 만들 수 있게 됩니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayBuildFirstFossilShort">
+      찾은 조각으로 완전한 골격을 조립하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishBuildFirstFossil">
+      잘했습니다! 이제 멸종 동물 연구소에서 첫 동물을 만들 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCreateFirstFossil">
+      멸종 동물 연구소로 돌아가 첫 동물을 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayCreateFirstFossilShort">
+      멸종 동물 연구소에서 동물을 만드세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishCreateFirstFossil">
+      축하합니다! 멸종 동물 연구소에서 첫 동물을 만들었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourExtinct">
+      관람객들이 멸종 동물이 전시된 것을 보고 기뻐하며 더 많은 동물을 보고 싶어합니다. 화석을 더 발견하고 적어도 서로 다른 멸종 동물 네 종을 전시한 뒤 기본적인 생활 조건을 만족시키면 $20,000의 보조금을 받습니다. 동물들이 건강하게 지내도록 돌보세요. 방치, 질병, 공격으로 동물이 죽으면 시나리오에 실패합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourExtinctShort">
+      동물원에 적어도 서로 다른 멸종 동물 네 종을 전시하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourExtinct">
+      멸종 동물을 보기 위해 관람객들이 동물원으로 몰려오고 있습니다! 다른 곳에서는 볼 수 없는 특별한 동물들 덕분에 동물원이 지역에서 가장 인기 있는 명소가 되었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayEightExtinct">
+      동물원을 널리 알리려면 계속 멸종 동물을 추가하세요. 적어도 서로 다른 멸종 동물 여덟 종을 전시하고 기본적인 생활 조건을 만족시킨 뒤 동물원을 별 4개까지 발전시키면 시나리오를 완료합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayEightExtinctShort">
+      동물원에 적어도 서로 다른 멸종 동물 여덟 종을 전시하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishEightExtinct">
+      멋집니다! 멸종 동물을 보기 위해 관람객들이 몰려오고 있습니다! 잘했습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayAnimalDeathFail">
+      이런! 동물 한 마리가 죽었습니다! 이 시나리오를 다시 플레이하고 동물들이 건강하고 행복하게 지내도록 돌보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWay3stars">
+      동물원 명성 별 3개를 달성하여 이달의 동물원으로 선정되었습니다! 상금 $20,000도 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourStars">
+      마지막 과제는 멸종 동물 연구를 계속하면서 훌륭한 동물원도 만들 수 있다는 것을 보여주는 것입니다. 동물원 명성을 별 4개까지 높이면 시나리오를 완료합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFourStarsShort">
+      시나리오를 완료하려면 동물원 명성을 별 4개까지 높이세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourStars">
+      잘했습니다! 동물원을 운영하면서 멸종 동물을 탐구하고 연구하는 능력을 보여주어 어려운 길을 선택했는데도 모든 일을 해낼 실력이 있다는 것을 입증했습니다! 보상으로 동물원이 $50,000의 보조금을 받았습니다! 계속 플레이하려면 확인 단추를 클릭하세요. 다음 시나리오로 넘어가려면 다음 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishFourStarsShort">
+      멋집니다! 성공했습니다! 축하합니다! 별 4개 동물원에 이 많은 멸종 동물까지 갖추었습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayPhoto">
+      (선택 사항) 지역 과학 박물관이 새로운 멸종 동물 전시를 위해 완성된 골격의 사진을 원합니다. 멸종 동물 교육관에서 완성한 골격을 각각 촬영하면 동물원에 $15,000을 기부하겠다고 약속했습니다! 골격을 멸종 동물 교육관의 단상에서 치워 동물원에 설치한 뒤 사진을 찍으세요. 힌트: 이 과제를 완료하려면 화석 발굴 체험장과 멸종 동물 교육관이 필요합니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:HardWayFinishPhoto">
+      과학 박물관이 멸종 동물 전시를 두 주 일찍 시작했습니다! 여러분의 신속한 일 처리에 깊이 감명받아 빨리 완료한 보상으로 $20,000의 보너스를 지급하기로 했습니다! 수표가 오고 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleIntro">
+      티라노사우루스 렉스 소동
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleOverview">
+      자매 동물원의 원장이 긴급한 요청을 해왔습니다. 티라노사우루스 렉스를 전시하고 있는데 너무 자주 난동을 부려 동물원을 폐쇄해야 했다고 합니다. 난동을 부리는 공룡의 친구가 되어 줄 다른 티라노사우루스 렉스를 제공해 주기를 바랍니다. 여러분의 동물원에는 아직 공룡을 전시하지 않았지만 도움을 주려면 이제 시작해야 합니다.
+      <p />
+      먼저 동물원 명성을 별 4개까지 높이세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleOverviewShort">
+      자매 동물원의 원장이 긴급한 요청을 해왔습니다. 티라노사우루스 렉스가 너무 자주 난동을 부려 동물원을 폐쇄했다고 합니다. 친구가 되어 줄 다른 티라노사우루스 렉스를 제공해 주기를 바랍니다. 이 시나리오를 완료하면 브라키오사우르스 미끄럼틀을 사용할 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourStarsShort">
+      동물원 명성을 별 4개까지 높이세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourStars">
+      잘했습니다! 동물원 명성이 별 4개가 되어 공룡을 추가하는 데 도움이 되는 보조금을 받았습니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleAdoptDino">
+      동물원이 별 4개가 되었으니 이제 공룡을 추가할 때입니다! 원하는 공룡을 확보하고 기본적인 생활 조건을 만족시키세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleAdoptDinoShort">
+      원하는 공룡을 확보하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishAdoptDino">
+      새 공룡이 잘 지내고 있는 것 같습니다! 필요한 티라노사우루스 렉스를 얻기 위한 일이 순조롭게 진행되고 있습니다! 이를 돕기 위한 보조금 $10,000을 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishAdoptDinoShort">
+      공룡이 잘 지내고 있습니다. $10,000의 보조금을 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleBuildDRT">
+      안전이 우선입니다! 여러분의 동물원에서도 공룡 문제가 생기기 전에 공룡 생포 팀 벙커를 설치하세요. 공룡 생포 팀은 동물원에서 대기하며 공룡과 관련된 모든 문제를 도와줍니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleBuildDRTShort">
+      공룡 생포 팀 벙커를 설치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishBuildDRT">
+      공룡 생포 팀이 공룡들을 관리하고 있습니다. 동물원 자금에 $5,000이 추가되었습니다. 이제 공룡을 더 추가하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishBuildDRTShort">
+      공룡 생포 팀이 공룡들을 관리하고 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourDinos">
+      티라노사우루스 렉스를 얻으려면 현재 동물원의 공룡들을 잘 관리할 수 있다는 것을 입증해야 합니다. 동물원에 공룡 네 종을 전시하고 기본적인 생활 조건을 만족시키세요. 성공하면 다음 단계로 나아가기 위한 보조금을 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFourDinosShort">
+      공룡 네 종을 확보하고 기본적인 생활 조건을 만족시키면 보조금을 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourDinosShort">
+      공룡들을 보세요! 티라노사우루스 렉스를 얻는 데 도움이 되는 보조금 $20,000을 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFourDinos">
+      공룡 전시가 관람객들을 불러 모으고 동물원 관계자들 사이에서 여러분의 명성을 높이고 있습니다! 티라노사우루스 렉스를 얻는 데 도움이 되는 보조금 $20,000을 받았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFiveStars">
+      티라노사우루스 렉스를 입양하려면 동물원 평가 별 5개를 달성해야 합니다. 동물원 명성을 별 5개까지 높이면 티라노사우루스 렉스를 얻을 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFiveStarsShort">
+      동물원 명성을 별 5개까지 높이세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFiveStarsShort">
+      별 5개를 달성했습니다! 티라노사우루스 렉스를 입양할 수 있게 되었으며 $75,000의 보조금을 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishFiveStars">
+      동물원이 세계적인 시설로 발전했습니다! 티라노사우루스 렉스를 입양할 수 있게 되었으며 $75,000의 추가 보조금을 받았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleStartRampageShort">
+      공룡 한 마리가 난동을 부리고 있습니다! 서둘러 난동을 멈출 방법을 찾으세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleStartRampage">
+      이런! 공룡 한 마리가 난동을 부리기 시작했습니다! 공룡 생포 팀이 대처하겠지만 공룡 마취 모드로 전환하여 도와줄 수도 있습니다! 난동을 부리는 공룡 찾기 단추를 클릭한 다음 공룡의 정보 패널에서 동물 마취 단추를 클릭하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleEndRampageShort">
+      휴! 아슬아슬했습니다! 난동이 끝났으며 아무도 다치지 않았습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleEndRampage">
+      성공했습니다! 난동이 끝났습니다! 이제 다시 동물원 운영에 집중할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleGetTrex">
+      동물원에 티라노사우루스 렉스를 입양하거나 확보하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleGetTrexShort">
+      동물원에 티라노사우루스 렉스를 입양하거나 확보하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishGetTrex">
+      임무가 거의 완료되었습니다! 과제 하나만 더 남았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishGetTrexShort">
+      임무가 거의 완료되었습니다! 과제 하나만 더 남았습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleReleaseTrex">
+      티라노사우루스 렉스를 야생으로 돌려보내면 자매 동물원에서 말썽을 부리는 티라노사우루스 렉스에게 친구가 생깁니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleReleaseTrexShort">
+      티라노사우루스 렉스를 야생으로 돌려보내세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishReleaseTrex">
+      축하합니다! 자매 동물원에 티라노사우루스 렉스를 기증한 덕분에 그 동물원은 공룡의 난동 문제를 해결하고 마침내 다시 문을 열 수 있게 되었습니다! 여러분의 모든 노력에 감사하며 동물원에 $50,000을 보냈습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroublePhoto">
+      (선택 사항) 월간 공룡 탐구가 사육되는 공룡에 대한 기사를 위해 사진을 원합니다. 기사에 필요한 사진은 세 장입니다. 먹이를 먹는 공룡, 먹잇감 모형을 가지고 노는 공룡, 잠자는 공룡의 사진을 찍으면 $15,000을 받습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:TroubleFinishPhoto">
+      사진이 월간 공룡 탐구의 발행인들이 원하던 모습 그대로였습니다! 기쁜 마음으로 $15,000을 지급합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinoCampaign:UnlockQuagga">
+	축하합니다! 콰가를 입양할 수 있게 되었습니다!
+	</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignshort">멸종 동물 탐구</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS1">조화롭게 살다</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS1short">조화롭게 살다</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS2">곤란한 방법</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS2short">곤란한 방법</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS3">티렉스 문제</LOC_STRING>
+      <LOC_STRING _locID="DinoCampaignLabels:DinoCampaignS3short">티렉스 문제</LOC_STRING>
+   
+</ZT2Strings>

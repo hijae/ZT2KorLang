@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="cp2_tutorial1:welcomeTutorialOne">
+      주타이쿤 2: 멸종 동물에 오신 것을 환영합니다! 이 연습 게임에서는 멸종 동물 연구소에서 화석을 찾고 조립한 다음 멸종 동물을 되살려 내는 법을 배웁니다! 질병을 치료하는 완전히 새로운 방식으로 동물을 돌보세요.
+      <p />
+      확인 단추를 클릭하면 멸종 동물에서의 모험을 시작할 수 있습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openConstructionPanelHeading">
+      건설 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openConstructionPanel">
+      동물 우리를 만드는 방법은 이미 알고 있을 것입니다. 잘 모르겠다면 메인 메뉴에서 주타이쿤 2 연습 게임을 다시 플레이하여 기억을 되살려 보세요. 먼저 멸종 동물 연구소를 배치하여 시작해 봅시다. 건설 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openBuildingTabHeading">
+      건물들
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:openBuildingTab">
+      건물 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabIconHeading">
+      멸종 동물 연구소
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabIcon">
+      멸종 동물 연구소 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLabHeading">
+      멸종 동물 연구소 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLab">
+      화단 사이의 빈 공간이 보이나요? 그곳이 연구소를 설치하기 좋은 자리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeExtinctResearchLabCompleted">
+      잘했습니다! 이제 멸종 동물 연구소에서 기다리고있는 흥미진진한 일들을 살펴봅시다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabHeading">
+      멸종 동물 연구소 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLab">
+      멸종 동물 연구소를 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabCompleted">
+      좋습니다. 이제 멸종 동물 연구소의 기능을 사용해 봅시다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingTabHeading">
+      화석 발굴 탭 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingTab">
+      멸종 동물 연구소의 정보 패널에서 화석 발굴 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingButtonHeading">
+      화석 발굴 단추 클릭하기
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilFindingButton">
+      좋습니다! 화석 탐사를 시작하기 위해 화석 발굴 단추를 클릭하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingHeading">
+      화석 발굴
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstFind">
+      화석 탐지기는 동물원에 묻혀있는 화석들을 찾을 수 있도록 도와줍니다. 화석에 가까워지면 탐지기 중간의 바가 점점 차오르며 화석을 찾았을 때, 깃발이 나타나 발굴 장소를 가리킵니다.
+      <p />
+      화석 발굴지를 찾을 수 있는지 알아보세요. 만약 당신이 멸종 동물 테마 아치가 있는 길을 따라 내려간다면, 그곳에서 약간의 화석을 발견할 수 있을지도 모릅니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstFindCompleted">
+      당신이 첫 화석 발굴지를 찾아냈습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstDig">
+      화석 발굴지를 찾아냈으니, 그 위에 서서 스페이스바를 눌러 땅을 파기 시작하세요! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilDigHeading">
+      화석 발굴
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingFirstDigCompleted">
+      첫 번째 화석 조각을 발견했습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondFind">
+      쉽지 않나요? 어서 더 찾아봅시다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondFindCompleted">
+      두 번째 화석 발굴지를 찾았습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondDig">
+      두 번째 화석 발굴지 위에서 스페이스바를 눌러 화석을 발굴하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingSecondDigCompleted">
+      완전한 화석을 만들기 위해 화석 조각을 더 찾아야합니다. 계속하려면 확인 단추를 클릭하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingDigRest">
+      이제 화석을 찾는 방법을 알았습니다! 동물원에 고생물학자를 배치하면 화석이 묻혀 있을 만한 발굴지를 찾는 일을 도와줍니다. 연습 게임을 더 쉽게 마칠 수 있도록 남은 발굴지는 미리 표시해 두었습니다. 마지막 화석 조각 네 개를 발굴하면 다음 단계로 넘어갑니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:FossilFindingDigRestCompleted">
+      잘했습니다! 완전한 화석을 조립할 만큼 조각을 모았습니다. 이제 조립해 봅시다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabBuilding">
+      멸종 동물 연구소를 클릭하여 선택하세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingTabHeading">
+      화석 조립 탭 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingTab">
+      멸종 동물 연구소의 정보 패널에서 화석 조립 탭을 클릭하세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingDodoHeading">
+      도도새 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingDodo">
+      조립할 수 있는 화석 목록에서 도도새를 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectFossilBuildingButton">
+      다음으로 화석 조립 단추를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:AssembleHeading">
+      화석 조립
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterFossilBuildingHeading">
+      화석 조립
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterFossilBuilding">
+      화석을 조립하려면 조각을 끌어 골격 윤곽선 안의 올바른 위치에 놓으면 됩니다. &lt; 및 &gt; 키를 눌러 조각을 회전시키세요. 조각이 올바른 위치에 놓이면 색이 바뀝니다. 동물원을 돌보기 위해 잠시 나가야 하더라도 -- 걱정하지 마세요. 조립한 내용은 저장됩니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodoHeading">
+      도도새 조립
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodo">
+      이 창을 옆으로 옮기고 도도새 골격을 조립하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:BuildDodoCompleted">
+      잘했습니다! 도도새 골격을 완성했으니 이제 연구소에서 도도새를 무료로 만들 수 있습니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:opencreatingHeading">
+      동물 생성 미니게임
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationTabHeading">
+      동물 생성 탭 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationTab">
+      멸종 동물 연구소의 정보 패널에서 멸종 동물 생성 탭을 클릭하세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationDodoHeading">
+      도도새 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationDodo">
+      만들 수 있는 동물 목록에서 도도새를 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationButton">
+      다음으로 동물 생성 단추를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectAnimalCreationButtonHeading">
+      동물 생성
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterAnimalCreation">
+      이제 멸종 동물을 만드는 방법을 알아봅시다. 스캔 라인을 움직이기 시작하면 표시된 키 순서의 아이콘을 스캔 라인이 지날 때 마우스 왼쪽 단추나 화살표 키를 눌러 아이콘에 맞춰 입력하세요. 계속할 준비가 되면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:enterAnimalCreationHeading">
+      멸종 동물 만들기
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:createDodo">
+      연구소 화면을 클릭하여 동물 생성 미니게임을 시작하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedHeading">
+      새로운 도도새!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompleted">
+      축하합니다! 도도새를 만드는 데 성공했습니다! 멸종 동물 연구소 밖의 운반 상자에서 도도새를 찾을 수 있습니다. 멸종 동물 연구소에서 나가려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedSuper">
+      멋집니다! 슈퍼 도도새를 만들었습니다! 슈퍼 동물은 입양한 동물과 같지만 더 강하고 건강하며 오래 삽니다. 멸종 동물 연구소 밖의 운반 상자에서 슈퍼 도도새를 찾을 수 있습니다. 멸종 동물 연구소에서 나가려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoFailedHeading">
+      이런!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoCompletedFailed">
+      아쉽습니다! 도도새를 만들 만큼 아이콘을 맞추지 못했습니다. 대신 %s을(를) 만들었습니다. 멸종 동물 연구소에서 나가려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:creatingDodoTryAgain">
+      처음에 성공하지 못했더라도 다시 시도해 보세요! 마지막 단계를 다시 시도하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodoHeading">
+      도도새 배치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodo">
+      새 도도새를 멸종 동물 연구소 왼쪽의 열대우림 우리 안으로 옮긴 뒤 운반 상자에서 꺼내세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:placeDodoCompleted">
+      잘했습니다! 도도새가 새 우리에 적응하고 있습니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseIntro">
+      동물원의 동물들이 병에 걸릴 수도 있습니다. 이런 일이 생기면 멸종 동물 연구소에서 치료제를 찾을 수 있습니다. 방법을 알아보려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectExtinctResearchLabBuildingDisease">
+      도도새가 "연습 게임 사랑병"이라는 병에 걸렸다고 해봅시다. 화면 오른쪽 위의 병에 걸린 동물 찾기 단추를 클릭하여 아픈 도도새를 찾으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseHeading">
+      질병 치료
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:selectDiseaseButton">
+      질병 치료 모드로 전환하려면 질병 치료 단추를 클릭하세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressBigDiseaseButton">
+      도도새가 "연습 게임 사랑병"이라는 병에 걸렸다고 해봅시다. 화면 오른쪽 위의 병에 걸린 동물 찾기 단추를 클릭하여 아픈 도도새를 찾으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressBigDiseaseButtonHeading">
+      병에 걸린 동물 찾기 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressTrackDiseasedAnimalButton">
+      병에 걸린 동물의 정보 패널에서 동물 찾기 단추를 누르면 질병 치료 모드로 전환됩니다. 치료제를 찾으려면 지금 아픈 동물의 사진을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:PressTrackDiseasedAnimalButtonHeading">
+      정보 패널을 통한 질병 치료
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:DiseaseCureMode">
+      병에 걸린 동물의 치료제를 찾으려면 동물원을 돌아다니며 여러 물체, 나무, 식물에서 표본을 채취하고 올바른 치료제 재료를 찾아야 합니다. 연구용 표본을 채취하려면 대상에 다가가 스페이스바를 누르세요. 
+      <p />
+      질병 치료 창 옆의 연구 힌트 상자에서 연구팀의 새 연구 결과를 받아 올바른 재료를 찾을 수 있습니다. (바로 가기 키: H) 치료제 재료 세 가지를 모두 찾으면 동물의 병을 치료할 수 있습니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialDiseaseHeading">
+      질병 치료 연구
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialDisease">
+      도도새가 "연습 게임 사랑병"에 걸렸습니다. 어떻게 해야 할까요? 연구 문구 상자의 힌트를 살펴보세요. 도도새를 치료하는 데 필요한 재료를 찾는 데 도움이 됩니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialCureDisease">
+      먼저 도도새에게서 표본을 채취한 다음, 도도새의 병을 치료하는 데 필요한 나머지 재료를 계속 찾으세요. 연구 힌트가 더 필요하면 H를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialCureDiseaseCompleted">
+      질병 치료제를 찾았습니다! 계속하려면 확인 단추를 누르세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialApplyCureHeading">
+      도도새 치료
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialApplyCure">
+      이제 치료제가 있으니 도도새에게 다가가 스페이스바를 눌러 필요한 약을 주세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial1:TutorialOneCompleted">
+      도도새의 병을 치료했습니다! 이제 동물원의 동물들이 병에 걸렸을 때 치료하는 방법을 알았습니다. 잘했습니다! 벌써 연습 게임을 끝까지 마쳤습니다! 공룡들을 다루는 법 연습 게임으로 넘어가려면 확인 단추를 클릭하세요. 메인 메뉴로 돌아가 나만의 동물원을 만들려면 X 단추를 클릭하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:welcomeTutorialTwo">
+      공룡이 사는 동물원을 운영하기는 쉽지 않습니다. 이 연습 게임에서는 공룡을 우리 안에 두는 방법과 진정시킬 필요가 있을 때 생포하는 방법을 배웁니다. 시작할 준비가 되면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:BeforeRampage">
+      이 동물원에는 안킬로사우루스와 티라노사우루스 렉스가 있습니다. 두 동물 모두 성미가 급해서 기분이 나빠지면 지나가는 곳마다 파괴할 수 있습니다. 연습을 위해 동물원을 폐쇄해 두었습니다. 난동을 부리는 공룡을 다루는 방법을 배울 준비가 되었나요? 준비가 되면 확인 단추를 클릭하여 공룡이 난동을 부리게 하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TriggerRampage">
+      티라노사우루스 렉스가 난동을 부리기 시작했습니다! 먼저 자기 우리를 부수고, 그다음에는 동물원을 부술 것입니다. 이제 행동할 때입니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectTrex">
+      화면 오른쪽 위의 난동을 부리는 동물 찾기 단추는 난동을 부리는 동물이 있음을 알려 줍니다. 이 단추를 클릭하여 난동을 부리는 티라노사우루스 렉스에게 이동하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:clickTranquilize">
+      난동을 부리는 티라노사우루스 렉스는 집거나 운반 상자에 넣을 수 없습니다. 동물의 정보 패널에서 동물 찾기 단추가 동물 마취 단추로 바뀌었습니다. 서둘러 이 단추를 누르세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TranquilizeInstructions">
+      난동을 부리는 티라노사우루스 렉스를 마취하려면 마취총으로 조준하세요. 티라노사우루스 렉스가 조준선에 들어오면 충전 표시가 찰 때까지 조준을 유지하세요. 표시가 초록색으로 바뀌면 스페이스바를 눌러 티라노사우루스 렉스를 마취하세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TranquilizeComplete">
+      멋집니다! 난동을 부리는 티라노사우루스 렉스를 멈추는 데 성공했습니다. 이제 정상으로 돌아왔습니다. 공룡이 난동을 부리고 나면 잔해가 남습니다. 잔해를 치우기 전에는 그 자리에 건물을 다시 지을 수 없습니다. 우선 티라노사우루스 렉스를 운반 상자에 넣어 둡시다. 티라노사우루스 렉스를 선택하여 운반 상자에 넣으세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:DRTMessage">
+      난동을 부리는 공룡을 직접 마취하는 위험한 일을 하고 싶지 않다면 공룡 생포 팀을 고용할 수 있습니다. 방법을 알아봅시다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openConstructionPanelHeading">
+      건설 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openConstructionPanel">
+      공룡 생포 팀의 거점은 공룡 생포 팀 벙커입니다. 건설 패널을 여세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openBuildingTabHeading">
+      건물들
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:openBuildingTab">
+      이제 건물 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectDRTIconHeading">
+      공룡 생포 팀 벙커
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:selectDRTIcon">
+      공룡 생포 팀 벙커 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRTHeading">
+      공룡 생포 팀 벙커 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRT">
+      우리 사이에 길이 없는 공간이 보이나요? 그곳에 공룡 생포 팀 벙커를 설치하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:placeDRTCompleted">
+      잘했습니다! 이제 공룡 생포 팀에게 일을 맡길 수 있습니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:AnkyloRampage">
+      이번에는 안킬로사우루스가 난동을 부리고 있습니다! 길을 비켜 주고 공룡 생포 팀에게 맡기세요! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:AnkyloRampageWait">
+      공룡 생포 팀이 난동을 부리는 공룡을 생포할 때까지 기다리세요. 팀이 능숙하게 움직이는 모습을 지켜보세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial2:TutorialTwoCompleted">
+      공룡 생포 팀이 난동을 멈추었습니다. 공룡은 화가 나면 더 자주 난동을 부린다는 점을 기억하세요. 하지만 우리 안에 갇혀 있는 것이 싫어서 난동을 부릴 때도 있습니다. 이제 동물원에서 공룡이 난동을 부려도 대처할 수 있습니다. 다음 연습 게임으로 넘어가려면 확인 단추를 클릭하세요. 메인 메뉴로 돌아가 나만의 동물원을 만들려면 X 단추를 클릭하세요! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:welcomeTutorialThree">
+      관람객에게 즐거움과 놀라움을 주고 지식을 전하는 새로운 건물과 직원들에 대해 배울 준비가 되었나요? 멸종 동물을 위한 새로운 동물 놀이 기구도 알아봅니다! 시작할 준비가 되면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanelHeading">	
+      건설 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanel">
+      먼저 멸종 동물 교육관을 설치해 봅시다. 건설 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openBuildingTabHeading">
+      건물들
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openBuildingTab">
+      이제 건물 탭을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectExtinctEdCenterIconHeading">
+      멸종 동물 교육관
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectExtinctEdCenterIcon">
+      멸종 동물 교육관 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctEdCenterHeading">
+      멸종 동물 교육관 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctResearchLab">
+      길 안쪽의 빈 직사각형 공간이 보이나요? 그곳은 새 멸종 동물 교육관을 설치하기에 딱 알맞은 자리입니다! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeExtinctResearchLabCompleted">
+      잘했습니다! 건물 하나만 더 설치하면 재미있는 활동이 시작됩니다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:GetDirtyHeading">
+      직접 흙을 파 보세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:GetDirty">
+      어린 관람객들은 직접 참여하는 시설을 좋아합니다. 손에 흙이 묻더라도 직접 파 보고 싶어합니다! 화석 발굴 체험장을 만들어 주세요. 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanelHeading2">
+      건설 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openConstructionPanel2">
+      건설 단추를 다시 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDigPitIconHeading">
+      화석 발굴 체험장
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDigPitIcon">
+      화석 발굴 체험장 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPitHeading">
+      화석 발굴 체험장 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPit">
+      화석 발굴 체험장은 관람객이 쉽게 갈 수 있는 곳에 설치하는 것이 좋습니다. 길 안쪽의 빈 마름모꼴 공간이 보이나요? 그곳이 좋은 자리입니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeDigPitCompleted">
+      이제 어린 관람객들이 흙을 파며 놀 수 있습니다! 흥미로운 것을 발견하면 멸종 동물 교육관으로 가져갈 수 있습니다. 관람객들이 발굴하는 모습을 다 살펴봤다면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:EntertainerIntro">
+      멸종 동물 교육관과 화석 발굴 체험장 외에도 관람객들을 즐겁게 해줄 방법이 있습니다. 좀 더 화려한 즐길거리를 원한다면 새로운 직원 두 명을 만나 보세요! 만날 준비가 되면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:EntertainerIntroHeading">
+      새로운 직원들
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanelHeading">
+      직원 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanel">
+      먼저 직원 패널을 여세요. 직원 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerStageIconHeading">
+      엔터테이너 무대
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerStageIcon">
+      엔터테이너 무대 아이콘을 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStageHeading">
+      엔터테이너 무대 설치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStage">
+      엔터테이너 무대를 설치하세요. 줄로 둘러싸인 구역 안의 두 화장실 사이 모래길이 좋은 자리입니다. 누군가 무대에 올라갈 수 있도록 공간을 충분히 남겨 두세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerStageCompleted">
+      좋습니다! 이제 엔터테이너를 찾아 공연을 즐겨 봅시다! 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerIconHeading">
+      엔터테이너
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectEntertainerIcon">
+      엔터테이너 아이콘을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerHeading">
+      엔터테이너 배치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainer">
+      엔터테이너를 무대 근처의 길에 배치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeEntertainerCompleted">
+      멋집니다! 엔터테이너는 묘기와 공연으로 관람객들을 즐겁게 합니다. 무대에서 가장 좋은 공연을 펼치지만 동물원을 돌아다니며 관람객을 즐겁게 하기도 합니다. 매달 말 $200의 월급을 받습니다. 공룡 의상과 스밀로돈 의상 중에서 고를 수 있습니다! 공연을 다 봤다면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:PaleoIntro">
+      동물원에 새로 고용할 수 있는 직원이 한 명 더 있습니다. 바로 고생물학자입니다. 고생물학자는 멸종 동물 교육관에서 관람객들에게 지식을 전합니다. 강의가 없는 시간에는 동물원에서 화석 조각을 찾아 멸종 동물 연구소로 가져갑니다.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:PaleoIntroHeading">
+      고생물학자
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanelHeading2">
+      직원 패널
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openStaffPanel2">
+      직원 단추를 클릭하여 직원 패널을 다시 여세요.  
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectPaleontologistIconHeading">
+      고생물학자
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectPaleontologistIcon">
+      고생물학자 아이콘을 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologistHeading">
+      고생물학자 배치
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologist">
+      고생물학자를 멸종 동물 교육관 근처에 배치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placePaleontologistCompleted">
+      잘했습니다! 이제 고생물학자가 관람객들에게 화석에 대해 가르칠 수 있습니다. 강의를 마치면 화석을 찾는 일을 합니다. 고생물학자는 전문 교육을 받은 직원으로, 한 달에 $500의 월급을 받습니다. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodoHeading">
+      도도새 선택
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodo">
+      동물들이 잘 지내는지 살펴봅시다. 방금 설치한 건물들 오른쪽의 열대우림 우리에 있는 도도새 한 마리를 클릭하세요. 
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:selectDodoCompleted">
+      새 도도새는 잘 지내는 것 같지만 서식 환경에 대한 생활 조건은 완전히 만족하지 못하고 있습니다. 도도새가 우리를 더 편안하게 느끼도록 무엇을 할 수 있을까요? 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendationsHeading">
+      기후 조절 기구
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendations">
+      멸종 동물은 동물원의 다른 동물보다 주변 환경에 더 민감합니다. 자신의 기후에 맞는 기구 가까이에 있는 것을 좋아합니다. 도도새는 열대우림 동물이므로 우리 안에 안개가 자욱한 샘이 있으면 좋아합니다. 도도새의 정보 패널에서 사육사 조언 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:openDodoRecommendationsComplete">
+      좋습니다. 이제 동물 놀이 기구 단추를 클릭하여 도도새에게 권장되는 동물 놀이 기구를 살펴보세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfallHeading">
+      안개가 자욱한 샘
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfall">
+      안개가 자욱한 샘을 클릭한 다음 도도새 우리 안에 설치하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:placeWaterfallComplete">
+      아주 좋습니다! 이제 도도새가 행복해합니다! 추운 기후의 동물을 만족시키는 빙하와 따뜻한 기후의 동물을 만족시키는 타르 구덩이도 있습니다! 멸종 동물의 서식 환경에 맞는 기구를 설치하는 것을 잊지 마세요. 계속하려면 확인 단추를 클릭하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenter">
+      멸종 동물 교육관을 살펴봅시다. 지도에서 찾은 다음 클릭하여 선택하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenterHeading">
+      멸종 동물 교육관
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:BackToEdCenterCompleted">
+      잘했습니다! 관람객들이 발굴 체험장에서 찾은 뼈를 가져오고 있습니다! 곧 멋진 멸종 동물 골격을 완성할 것입니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="cp2_tutorial3:TutorialThreeComplete">
+      이 연습 게임은 여기까지입니다. 주타이쿤 2: 멸종 동물의 재미있고 멋진 기능을 다시 알아보고 싶다면 언제든 돌아오세요! 메인 메뉴로 돌아가 멋진 멸종 동물 동물원을 만들려면 X 단추를 클릭하세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_campaignname">멸종 동물 연습 게임</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1">멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1short">멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T1overviewshort">새로운 시설인 멸종 동물 연구소의 흥미로운 기능을 알아보세요!</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2">공룡들을 다루는 법</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2short">공룡들을 다루는 법</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T2overviewshort">공룡의 난동에 대처하는 연습을 하고, 난동을 멈추는 방법과 공룡 생포 팀에 대해 알아보세요!
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3">교육 및 엔터테인먼트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3short">교육 및 엔터테인먼트</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:cp2_T3overviewshort">멸종 동물 교육관, 새로운 직원 두 명, 기후를 조절하는 특별한 기구에 대해 알아보세요!</LOC_STRING>
+</ZT2Strings>

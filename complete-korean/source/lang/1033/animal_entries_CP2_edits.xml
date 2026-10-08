@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_zebra" version="9" />
+      <LOC_STRING _locID="zoopedia_zebra:entry" version="9">얼룩말</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zebra:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/ZebraCommon/ZebraCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+		</cell>
+		<cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">보존 상태:</font><br />
+                        <color r="170" g="255" b="0"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">비교적 양호</font></color>
+                     </color>                  
+                  </cell>
+               </cell>              
+   
+               <cell width="128">   
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사바나</font></color>
+                  <br />
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카 동부</font></color>
+                  <br />
+                  <img src="ui/icon_maplocations/Savannah_Africa_East.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+               </cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강: 포유류 (Mammalia)
+                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">목: 말목 (Perissodactyla)
+                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과: 말과(말, 당나귀, 얼룩말) (Equidae)</font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Equus</font>
+                     <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">burchelli</font>
+                     <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">boehmi</font>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+               </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">얼룩말은 다른 얼룩말의 몸에 있는 줄무늬 모양으로 서로를 알아볼 수도 있습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">말과의 다른 동물보다는 힘들겠지만 잘 길들이면 마차를 끌게 만들 수 있습니다. 하지만 사람을 태울 정도로 길들이기는 아주 어렵습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">얼룩말도 사육하는 말과 똑같은 몸 동작과 소리를 사용하여 서로 의사를 전달합니다. 예를 들어 귀를 내리면 뒷발질을 할 가능성이 크고, 콧김을 내뿜으면 긴장했다는 뜻입니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">얼룩말 무리는 식량을 찾아 하루에 20km 이상 돌아다니기도 하지만 밤에는 대개 일정한 휴식처로 돌아옵니다.</font></color>
+		                 </cell>
+		                 <cell width="32" pady="10">
+		                    <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+		                 </cell>
+		                 <cell width="202" pady="10">
+		                    <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">주타이쿤의 과학자와 번식 전문가들은 멸종한 </font><a href="zoopedia:zoopedia_quagga:entry">
+		  		                 <u>
+		  		                    <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">콰가얼룩말</font></color>
+		  		                 </u>
+		  		              </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">의 복원을 위해 번식을 시도해 왔습니다.</font></color>
+		                 </cell>               
+		                 <br />
+		              </cell>
+		           </cell>
+		           <cell width="340">
+		              <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 얼룩말을 입양하려면 동물원 명성을 별 한 개 반까지 올려야 합니다.</font></color>
+		              <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">얼룩말은 말과의 동물로서 눈길을 끄는 흑백 줄무늬를 가지고 있습니다. 얼룩말은 아프리카에서만 발견되지만 한눈에 띄는 외모 때문에 전 세계에서 가장 유명한 포유류 중 하나입니다. 얼룩말에는 그레비얼룩말, 산얼룩말, 평야얼룩말(버첼얼룩말이라고도 함)의 세 가지 종이 있으며 각기 줄무늬 모양이 다릅니다.</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">얼룩말은 말, 나귀 등이 속한 말과(Equidae)의 동물입니다. 현재까지의 자료에 의하면 가장 오래된 말과의 조상은 히라코테리움(에오히푸스라는 이름으로 더욱 잘 알려짐)이라는 작은 동물로서 약 5천5백만 년 전 에오세 때 살았습니다. 현대의 말, 나귀, 얼룩말의 직계 조상으로 알려진 동물들은 약 4백만 년 전 플라이오세 때 유럽, 아프리카와 아시아에 분포되어 있었습니다.</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">말과의 다른 동물과 마찬가지로 얼룩말도 기본적으로는 초식 동물로, 거친 풀을 주로 먹습니다. 얼룩말에게는</font></color><a href="zoopedia:zoopedia_lion:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사자</font></color>
+               </u>
+            </a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">와 하이에나를 비롯한 여러 천적이 있지만 지난 200년 동안은 인간이 이들의 생존에 가장 큰 위협이었습니다. 일례로 1870년대까지 남아프리카에 서식했던 콰가얼룩말(머리와 목에는 줄무늬가 있지만 대개 몸통, 엉덩이, 뒷다리 쪽에는 줄무늬가 없는 얼룩말)은 사람들의 과도한 사냥 때문에 멸종하고 말았습니다. 오늘날에는 그레비얼룩말과 산얼룩말이 사냥과 서식지 파괴로 인해 위험에 처해 있습니다.</font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처</font></color><a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+               </u>
+            </a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">© 1993-2003 마이크로소프트 코퍼레이션. 모든 권리 보유.</font></color></cell>
+      </LOC_STRING>
+</ZT2Strings>

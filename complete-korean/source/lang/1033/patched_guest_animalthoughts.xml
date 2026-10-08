@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts" version="2" />
+      <LOC_STRING _locID="guestthoughts:AnimalUnhappy" version="2">%s이(가) 뭔가 불만이 있나 봐.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalUseShelterBad" version="2">%s에게는 더 자연스러운 은신처가 편안할 것 같아.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalNurseGood" version="2">와! %2s이(가) %1s에게 젖을 먹이고 있어.</LOC_STRING>
+</ZT2Strings>

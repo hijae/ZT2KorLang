@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="staffactions:GotoEntertainGuest">%s 즐겁게 하러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoPerformance">관람객에게 공연하러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Performing">관람객에게 공연하는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:JumpOnStage">무대로 뛰어오르는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:LeaveStage">무대에서 내려오는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EntertainGuest">%s 즐겁게 하는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:HugGuest">%s 안아 주는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:PictureGuest">%s이(가) 사진을 찍게 해 주는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoDanceMusicalRock">%s 옆에서 춤추러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:DanceMusicalRock">%s 옆에서 춤추는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EntertainerSplashFountain">%s 옆에서 춤추는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GotoEducateGuestsFossils">관람객에게 화석에 대해 가르치러 가는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EducateGuestsFossils">관람객에게 화석에 대해 가르치는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:BeingScared">%s에게서 달아나는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:SearchFossil">화석을 찾고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:MarkingFossil">화석 지점에 표시하는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoToDigFossil">화석을 발굴하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:DigFossil">화석을 발굴하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Regrouping">%s와 다시 모이는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:LookFor">%s을(를) 찾고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:TagDino">%s을(를) 생포 대상으로 지정하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:ChasingDino">%s을(를) 쫓고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CallDinoDistract">%s을(를) 산만하게 만들기를 요청하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitDinoDistraction">%s이(가) 산만해지기를 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CallDinoTranq">%s을(를) 마취하기를 요청하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:WaitDinoTranq">%s이(가) 마취되기를 기다리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:RecallDRT">공룡 생포 팀을 %s(으)로 불러들이고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:CallRobotReplacement">로봇 교체를 위해 %s을(를) 호출 중입니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:LeavingDRTBuilding">공룡 생포 팀 벙커에서 나오고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoingToDRTBuilding">%s(으)로 돌아가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:EnteringDRTBuilding">%s에 들어가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Following">%s을(를) 따라가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoingToDistract">%s을(를) 산만하게 만들기 위해 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:Distracting">%s을(를) 산만하게 만들고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="staffactions:AttackedAnimal">잠시 %s의 주의를 돌리는 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:DinoRecoveryRobotSplashFountain">%s 때문에 주의가 흐트러진 중</LOC_STRING>
+      <LOC_STRING _locID="staffactions:GoTranqAnimal">%s을(를) 마취하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="superstaff:TagCaveman">스페이스바를 눌러 %s에게 표시하세요.</LOC_STRING>
+</ZT2Strings>

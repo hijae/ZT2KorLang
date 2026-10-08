@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="badAttr">
+	<UIRegion x="20" y="0" w="100" h="20" walign="% min" />
+	<children>
+		<UIStatic name="label">
+			<UIRegion x="0" w="50" h="20" xalign="% min" walign="% min" />
+			<UIAspect string="표시 이름" />
+		</UIStatic>
+		<UITextEdit name="value" template="textedit" cursor="edit.cur">
+			<UIRegion x="50" w="100" h="20" xalign="% min" walign="% min" />
+			<UIAspect string="값" alwayshit="region" />
+		</UITextEdit>
+	</children>
+</UILayout>

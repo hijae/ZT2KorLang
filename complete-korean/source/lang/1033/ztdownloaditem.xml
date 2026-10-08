@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="ZTDownloadItem" version="0" />
+      <LOC_STRING _locID="ZTDownloadItem:CancelDownload">취소</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:Download">다운로드</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:AwaitingDownload">다운로드 대기 중</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:ContactingServer">서버에 연결 중</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:ProgressFormatString">%d%%</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:MultiFileProgressFormatString">%d / %d 파일 완료--%d%%</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:GettingFile">파일 받는 중</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:DownloadComplete">다운로드 완료</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:DownloadCanceled">다운로드가 취소됨</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:ErrorFormatString">오류: %d %u</LOC_STRING>
+      <LOC_STRING _locID="ZTDownloadItem:NumFiles">%d 파일</LOC_STRING>
+</ZT2Strings>

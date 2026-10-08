@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="ztapp" version="2" />
+      <LOC_STRING _locID="ztapp:es_regkey" version="2">Software\Microsoft\Microsoft Games\Zoo Tycoon 2\1.1</LOC_STRING>
+      <LOC_STRING _locID="ztapp:es_eula_filename" version="2">eseula.rtf</LOC_STRING>
+</ZT2Strings>

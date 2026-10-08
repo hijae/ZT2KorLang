@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "status": "passed_static_validation",
+  "version": "2026-10-08",
+  "reviewed_candidate_sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
+  "language_xml_files": 287,
+  "ui_xml_files": 26,
+  "config_xml_files": 1,
+  "total_xml_files": 314,
+  "loc_string_count": 15449,
+  "font_family": "Pretendard",
+  "font_reference_count": 7174,
+  "current_revision_changes": {
+    "baseline_sha256": "188dccbb239f9c0adb5ce24fd670c41265e154b9f2694fd295e9bcfa3c56c0dd",
+    "corrected_text_fields": 2217,
+    "changed_language_files": 186,
+    "added_ui_files": 2,
+    "added_ui_font_face_changes": 12,
+    "approved_native_token_order_corrections": 1,
+    "zoopedia_color_changes": 10650,
+    "zoopedia_color_nodes": 3550,
+    "zoopedia_text_color": "#3C3626"
+  },
+  "fresh_source_comparison": {
+    "leaf_records": 15875,
+    "ui_and_story_pairs": 7909,
+    "encyclopedia_pairs": 2041,
+    "entity_long_tooltips": 1220,
+    "entity_canonical_names": 1231,
+    "credits_legal_pairs": 683,
+    "names_domain_records": 360,
+    "notes": [
+      "Entity short variants checked against canonical names and duplicate-source groups.",
+      "Personal name pools checked for labels, structure, and nonempty localized members; every invented name was not literally retranslated.",
+      "Source-era population/status statements retained unless a documented source error was corrected."
+    ]
+  },
+  "download_packs": [
+    {
+      "name": "LeopardAndDummy.z2f",
+      "language_files": [
+        "lang/1033/LeopardBlack_strings.xml",
+        "lang/1033/StuffedPrey_strings.xml"
+      ]
+    },
+    {
+      "name": "HolidayPack.z2f",
+      "language_files": [
+        "lang/1033/HolidayPack_strings.xml"
+      ]
+    },
+    {
+      "name": "TundraAndMuskOx.z2f",
+      "language_files": [
+        "lang/1033/TundraTheme_strings.xml",
+        "lang/1033/MuskOx_strings.xml"
+      ]
+    },
+    {
+      "name": "ChallengePack1.z2f",
+      "language_files": [
+        "lang/1033/challengepack1_text.xml"
+      ]
+    },
+    {
+      "name": "SceneryPack.z2f",
+      "language_files": [
+        "lang/1033/SceneryPack_strings.xml"
+      ]
+    },
+    {
+      "name": "ElephantAsian_050505.z2f",
+      "language_files": [
+        "lang/1033/ElephantAsian_strings.xml"
+      ]
+    },
+    {
+      "name": "BeautificationPack_061305.z2f",
+      "language_files": [
+        "lang/1033/BeautificationPack_strings.xml"
+      ]
+    },
+    {
+      "name": "GuestPack.z2f",
+      "language_files": [
+        "lang/1033/GuestPack_strings.xml"
+      ]
+    },
+    {
+      "name": "PDLC1_2.z2f",
+      "language_files": []
+    }
+  ],
+  "static_validation": {
+    "archive_crc": "passed",
+    "exact_reviewed_changes": "passed",
+    "xml_structure_id_attribute_reference_preservation": "passed; only reviewed Zoopedia RGB attributes and new UI font faces intentionally changed",
+    "format_tokens": "preserved except one native-source role-order correction",
+    "functional_save_directory": "Saved",
+    "functional_temporary_directory": "tmp",
+    "public_rebuild": "byte-identical to reviewed candidate",
+    "public_rebuild_sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
+    "negative_builder_checks": {
+      "invalid_xml": true,
+      "unregistered_file": true,
+      "path_traversal": true,
+      "id": true,
+      "format_token": true,
+      "reference": true
+    },
+    "private_path_or_credential_marker_hits": 0
+  },
+  "runtime_validation": {
+    "current_candidate_tested": false,
+    "previous_baseline_user_confirmation": {
+      "sha256": "188dccbb239f9c0adb5ce24fd670c41265e154b9f2694fd295e9bcfa3c56c0dd",
+      "scope": [
+        "Panda scientific name looked clear",
+        "Basic and tundra large restroom tooltips matched"
+      ]
+    },
+    "not_tested": [
+      "All gameplay and campaign objectives",
+      "All encyclopedia scrolling and layout",
+      "Save/load on this new candidate"
+    ]
+  },
+  "distribution": [
+    "XML source, documentation and Python builder only",
+    "No executables, DLLs, font binaries, personal settings, saves, private paths, or diagnostics"
+  ],
+  "known_limits": [
+    "Not every external mod is translated.",
+    "Some inconsistent native messages are preserved pending runtime evidence.",
+    "XML patch alone does not replace font names hard-coded in every executable."
+  ],
+  "installation_verification": {
+    "status": "installed_file_hash_verified",
+    "sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
+    "runtime_tested": false
+  }
+}

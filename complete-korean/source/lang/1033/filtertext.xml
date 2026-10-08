@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="FilterText" version="2" />
+      <LOC_STRING _locID="FilterText:format" version="2">
+         <font name="Pretendard" size="10" shadowx="-1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="FilterText:all_all" version="2">모두</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_default" version="2">기본 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_desert" version="2">사막 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_frontier" version="2">개척지 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_endangered" version="2">멸종 위기 동물 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_jungle" version="2">정글 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_safari" version="2">사파리 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_tundra" version="2">툰드라 스타일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_alpine" version="2">고산</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_borealforest" version="2">북방림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_desert" version="2">사막</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_grassland" version="2">초원</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_savannah" version="2">사바나</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_scrub" version="2">관목림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_temperateforest" version="2">온대림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_tropicalrainforest" version="2">열대우림</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_tundra" version="2">툰드라</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_zoodecoration" version="2">동물원 장식물</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_wetlands" version="2">습지대</LOC_STRING>
+      <LOC_STRING _locID="FilterText:b_lowfence_true" version="2">낮은 울타리</LOC_STRING>
+      <LOC_STRING _locID="FilterText:b_lowfence_false" version="2">높은 울타리</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Stand" version="2">판매대</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Cart" version="2">가판대</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Restaurant" version="2">레스토랑</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Bathroom" version="2">화장실</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_DonationBox" version="2">기부함</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_TrashCan" version="2">쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Statue" version="2">동상</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Fountain" version="2">분수대</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Seating" version="2">쉼터</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Canopy" version="2">그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Arch" version="2">아치</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Playground" version="2">놀이터</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Station" version="2">탑승장</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Track" version="2">노선</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_TourObject" version="2">관람물</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Treat" version="2">간식</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Toy" version="2">장난감</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_ObjectType_Misc" version="2">기타</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Endangerment_LowRisk" version="2">비교적 양호</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Endangerment_Vulnerable" version="2">취약</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Endangerment_Endangered" version="2">위험</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Endangerment_Critical" version="2">멸종 위기</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Trough" version="2">여물통</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Dish" version="2">그릇</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Carcass" version="2">갈비뼈 모양 먹이통</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Substrate" version="2">사료</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Elevated" version="2">나무 계단</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Log" version="2">통나무</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_Mound" version="2">흰개미집</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_GroundFood" version="2">땅 위에 놓는 음식</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Meat" version="2">고기</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Fish" version="2">생선</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Fruit" version="2">과일</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Vegetation" version="2">야채</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Water" version="2">물</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Honey" version="2">꿀</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Insects" version="2">곤충</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_EndangeredSpecies" version="2">멸종 위기 동물 항목</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Zoo2" version="2">주타이쿤 2 항목</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Downloads" version="2">다운로드한 콘텐츠</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_TransportationMode_Ground" version="2">지프 투어 시설</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_TransportationMode_Sky" version="2">리프트 투어 시설</LOC_STRING>
+      <LOC_STRING _locID="FilterText:b_Researchable_true" version="2">연구 대상</LOC_STRING>
+      <LOC_STRING _locID="FilterText:b_ShowAnimal_true" version="2">공연 참가 동물</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_ArtificialReef" version="2">인공 암초</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_BuoyLure" version="2">부표</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_BuoyNet" version="2">그물 달린 부표</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_FoodBox" version="2">먹이 상자</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Container_BrowseHolder" version="2">나무 기둥</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Marine" version="2">해양 동물</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_coastal" version="2">연안</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_pelagic" version="2">원양</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_reef" version="2">암초</LOC_STRING>
+      <LOC_STRING _locID="FilterText:biome_benthic" version="2">해저</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Chum" version="2">밑밥</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Jellyfish" version="2">해파리</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Shellfish" version="2">조개</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Seaweed" version="2">해초</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_Squid" version="2">오징어</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_FoodType_ZooPlankton" version="2">동물성 플랑크톤</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Extinct" version="2">멸종 동물 항목</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Theme_extinct" version="2">멸종 동물 테마</LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Endangerment_Extinct" version="2">멸종</LOC_STRING>
+</ZT2Strings>

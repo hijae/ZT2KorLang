@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:RunningFromAnimal_Happy">우와! %s 때문에 조금 놀랐어요.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalMotionGood">저기요, %1s이(가) %2s 쪽으로 몸짓하고 있어요.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalBeckonChildGood">멋져요! %s이(가) 새끼에게 오라고 손짓하고 있어요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGapeWideGood">%s 정말 굉장해요! 입을 얼마나 크게 벌리는지 보세요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGapeBad">이런! %s 무서워 보여요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalTryStandTwoLegsGood">저것 봐요! %s이(가) 두 발로 서려고 해요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalSnowGood">멋져요! %s이(가) 눈 위에서 뒹굴고 있어요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalGrowlGood">들었어요?! %s이(가) 관심을 끌려고 으르렁거려요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalAttemptEscape">이런! %s이(가) 우리에서 탈출하려고 해요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalTestFence">어쩌죠, %s이(가) 울타리에 전기가 흐르는지 확인하고 있어요.</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:AnimalShockedFence">이런! 저 울타리 때문에 %s이(가) 살짝 감전됐어요!</LOC_STRING>
+</ZT2Strings>

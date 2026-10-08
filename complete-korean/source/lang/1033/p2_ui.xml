@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityinfo:conservation_extinct_stt">멸종</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_extinct">
+         <font name="Pretendard" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               멸종
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

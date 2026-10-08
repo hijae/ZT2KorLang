@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<messages>
+   <message id="1" type="html" frequency="10" priority="true">
+	<html>
+ 		<font name="Pretendard" size="8">
+"오늘의 메시지"를 켜면 주타이쿤 2가 인터넷에 연결하여 새 메시지를 받아<br />주 메뉴에 표시합니다. 이 기능을 켜려면 게임 옵션을 클릭한 다음 "오늘의 메시지 사용" 확인란을 선택하세요.
+		</font>
+	</html>
+   </message>
+</messages>

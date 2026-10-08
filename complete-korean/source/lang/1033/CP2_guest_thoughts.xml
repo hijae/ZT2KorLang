@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="guestthoughts:GotEntertained">%s이(가) 있어서 다행이에요. 지루해지고 있었거든요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotEntertained_Show">우와! %s의 공연은 정말 멋졌어요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilDigPit_Success">%s에서 제가 파낸 멋진 뼈를 보세요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilDigPit_Failure">이건 쓰레기잖아요! %s에 왜 이런 게 있죠?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotoDanceStage">저것 봐요. 빈 무대가 있어요! 관객을 모을 수 있는지 해 볼래요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:DanceAtStage">저를 보는 사람들이 저만큼 즐거워하면 좋겠어요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseTarFountain">우와, 타르에 붙잡힐 뻔했어요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:ViewFossilEducationCenter">멸종 동물을 배우기에 정말 좋은 곳이에요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseFossilEducationCenter">멸종 동물의 골격을 조립하는 일을 도와줄 거예요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Hand">우와! 이 멸종 동물의 손과 제 손을 비교해 보세요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Foot">우와! 이 멸종 동물의 발과 제 발을 비교해 보세요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:UseSizeMural_Size">세상에! 멸종 동물은 정말 어마어마하게 컸군요!</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:KillerPenguinDonation">펭귄에게 돈을 주면 저한테 잘해 줄까요?</LOC_STRING>
+      <LOC_STRING _locID="guestthoughts:GotEducatedFossils">오늘 화석에 대해 많이 배웠어요!</LOC_STRING>
+</ZT2Strings>

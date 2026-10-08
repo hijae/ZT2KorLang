@@ -1,0 +1,994 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_styracosaurus" version="9" />
+      <LOC_STRING _locID="zoopedia_styracosaurus:entry" version="9">스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_styracosaurus:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">열대우림</font><br /></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Ornithischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Ceratopsidae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Styracosaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">albertensis</font>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+					 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 더 잘 알려진 트리케라톱스의 조상입니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 티라노사우루스 렉스와 카르노타우루스 같은 육식 포식자로부터 몸을 지키기 위한 뿔과 가시 달린 목 장식을 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 소철과 같은 소철류의 잎을 먹는 초식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뼈가 모여 있는 화석층을 보면 스티라코사우루스는 아마 무리를 지어 이동하며 먹이를 찾았을 것입니다.</font></color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 스티라코사우루스를 입양하려면 동물원 명성을 별 1개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 6천5백만 년 이전의 백악기에 살았던 초식 공룡입니다. 트리케라톱스보다 몸집이 작은 조상으로, 약 1천만 년 먼저 살았습니다. 성체는 길이가 약 5 m (18 ft), 높이가 1.8 m (6 피트)였으며 몸무게는 최고 3톤이었습니다. 주둥이에 큰 뿔 하나, 눈 위에 작은 뿔 하나씩이 있었고 목 장식에는 긴 가시가 여러 개 달려 있었습니다. 목 장식은 티라노사우루스 같은 육식 포식자로부터 몸을 지켜 주었으며, 몸을 더 크고 위협적으로 보이게 했습니다. 짝짓기 때 더 매력적으로 보이게 했을 수도 있습니다. 트리케라톱스처럼 날카로운 부리로 소철류 같은 낮게 자라는 식물의 잎을 자르고, 강한 턱으로 질긴 잎을 씹었습니다. 스티라코사우루스는 1915년 캐나다 앨버타의 레드디어 계곡에서 발견되었습니다. 애리조나에서는 스티라코사우루스 화석 약 100개가 모여 있는 대규모 화석층도 발견되었으며, 이는 무리를 지어 다녔음을 보여 줍니다.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops" version="9" />
+      <LOC_STRING _locID="zoopedia_triceratops:entry" version="9">트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북방림</font></color>
+						<br />
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+					</cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Ornithischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Ceratopsidae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Triceratops</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">horridus</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 스티라코사우루스의 후손입니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 세 개의 뿔과 프릴이라고 부르는 뼈로 된 목 장식을 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 티라노사우루스 렉스와 카르노타우루스 같은 포식자를 막기 위해 뿔과 목 장식을 사용합니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 소철과 같은 소철류의 잎을 먹는 초식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 식물을 자르기 위한 날카로운 부리가 있었으며, 턱을 옆으로 벌려 잎을 모을 수 있었습니다.</font></color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 트리케라톱스를 입양하려면 동물원 명성을 별 4개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 6천5백만 년 이전의 백악기에 살았던 네 발로 걷는 초식 공룡의 한 속입니다. 두개골에는 주둥이 위에 하나, 양쪽 눈 위에 하나씩 세 개의 뿔이 있었습니다. 이름은 그리스어로 "셋"을 뜻하는 트레이스, "뿔"을 뜻하는 케라트, "얼굴"을 뜻하는 옵스에서 유래했습니다. 트리케라톱스는 뿔 달린 공룡 중 가장 큰 동물의 하나였습니다. 또 다른 특징으로는 부리와 방패 같은 목 장식, 즉 프릴이 있습니다. 트리케라톱스는 공룡 시대 말기에 북아메리카와 아시아에 널리 살았던 다양한 조반목 공룡 중 "뿔 얼굴"이라는 뜻의 각룡류에 속했습니다. 미국과 캐나다의 내륙을 덮었던 해로 근처의 낮은 해안 평원에 6천7백만~6천5백만 년 전 홍수가 쌓아 놓은 퇴적층에서 두개골이 많이 발견되었습니다.
+            
+				</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">다 자란 트리케라톱스는 길이가 약 8 m (26 ft)였으며 몸무게는 최고 12톤이었습니다. 성체의 두개골은 길이가 2.5 m (8 ft)였고, 끝에는 새처럼 좁은 부리가 있었습니다. 부리 안쪽의 이빨은 큰 가위처럼 보이는 빽빽한 열을 이루었습니다. 머리와 목 사이의 관절을 돌려 턱을 옆으로 벌리면서 식물을 모을 수 있었습니다. 먹이를 모은 뒤에는 머리를 되돌리고 강한 턱 사이에서 잘게 잘랐습니다. 목 장식의 아래쪽에는 혈관이 촘촘하게 퍼져 있었습니다. 화석 증거에 따르면 코끼리가 귀로 피를 보내 열을 내보내는 것과 비슷하게 이 혈관을 통해 목 장식에서 열을 방출했습니다. 일부 과학자는 트리케라톱스가 코뿔소처럼 빠르게 달릴 수 있었다고 생각하지만, 다른 과학자는 그러기에는 너무 무겁고 둔했다고 봅니다.
+				
+				</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스의 골격은 멕시코만 근처 미시시피강 하류의 오늘날 저지대와 비슷한 넓은 충적 평원에서 발견되었습니다. 턱은 그 평원에서 자랐던 것으로 알려진 부들과 작은 야자류 같은 섬유질 식물을 뜯어 먹기에 알맞았습니다. 큰 몸집으로 보아 먹이가 풍부한 환경에 살았을 것입니다. 두개골에는 일부 아문 찔린 상처가 있어 오늘날 수컷 염소나 사슴처럼 뿔을 맞대고 서로 싸웠음을 짐작할 수 있습니다. 그러나 일부 고생물학자는 뿔이 암수가 서로 같은 종임을 알아보거나, 특히 무리 내 우위와 짝짓기를 비롯한 사회적 행동에 사용되었을 수 있다고 생각합니다. 
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex" version="9" />
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:entry" version="9">티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">열대우림</font><br /></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Saurischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Tyrannosauridae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Tyrannosaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">rex</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 다른 어떤 육식 공룡보다 티라노사우루스에 대해 더 많이 알고 있습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 트리케라톱스나 스티라코사우루스 같은 초식 동물을 자주 사냥하는 육식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스의 화석화된 배설물에서 트리케라톱스의 목 장식이 발견되었습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 저항하는 초식 동물의 날카로운 뿔로부터 배를 보호하는 격자 모양의 뼈를 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스의 위에는 반 톤이 넘는 고기가 들어갈 수 있었습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 최근 티라노사우루스 새끼가 보온을 위한 솜털 같은 깃털로 덮여 있었을 수 있다는 증거를 발견했습니다.</font></color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 티라노사우루스 렉스를 입양하려면 동물원 명성을 별 5개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 약 6천5백만 년 전 백악기 후기에 살았던 크고 두 발로 걷는 육식 공룡의 속을 가리키는 이름입니다. 이름은 그리스어로 "폭군"을 뜻하는 티라노스와 "도마뱀"을 뜻하는 사우로스에서 유래했습니다. 큰 몸집과 곧게 선 자세, 톱니 모양의 이빨, 손가락이 두 개 달린 작은 앞다리로 쉽게 알아볼 수 있으며, 지금까지 존재한 육상 육식 동물 중 가장 큰 동물의 하나였습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 다른 어떤 육식 공룡보다 티라노사우루스에 대해 더 많이 알고 있습니다. 몽골과 미국 서부, 캐나다 전역에서 이 거대한 용반목 공룡의 골격 수십 개가 발견되었습니다. 특히 크고 완전한 골격인 "수"는 시카고의 필드 박물관에 전시되어 있습니다. 몬태나에서 발견된 또 다른 티라노사우루스 화석은 보존 상태가 매우 좋아 넓적다리뼈 안에 혈관과 다른 연조직이 남아 있었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 수각아목의 티라노사우루스과에 속합니다. 속에 포함된 종의 수에 대해서는 과학자들의 의견이 다르지만, 일부는 네 종을 인정하며 이 중 티라노사우루스 렉스가 가장 잘 알려져 있습니다. 
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 기가노토사우루스와 카르카로돈토사우루스만을 제외하면 가장 큰 육상 육식 동물의 하나였습니다. 길이는 12.5 m (41 ft), 높이는 5 m (16 ft)에 이르렀고 몸무게는 5톤을 넘었습니다. 두개골은 크고 유연했으며, 그 안에는 오늘날 파충류와 비슷한 크기의 뇌가 있었습니다. 뼈를 부수는 무는 힘은 다른 어떤 육식 공룡보다 강했을 가능성이 큽니다. 콧등에는 사마귀 같은 혹과 움푹 팬 곳이 있었습니다. 시야가 넓었지만 눈을 정면에 집중할 수도 있었습니다. 짧은 팔에는 신경이 적어 팔의 움직임이 서툴고 둔했을 것으로 보입니다. 통 모양의 가슴으로 보아 폐가 매우 컸습니다. 격자 모양의 뼈가 위와 다른 내장 기관을 보호했습니다. 다리는 길고 가늘었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 큰 몸을 움직이고 덤불에 가리지 않은 시야로 볼 수 있는 넓은 동물 이동로나 탁 트인 숲 같은 열린 지형을 좋아했을 것입니다. 과학자들은 빠르게 걸을 수 있었으며 먹잇감을 쫓을 때 최고 40 km/h (25 mph)로 달렸을 수 있다고 추정합니다. 또 튼튼하게 뻗은 골반으로 몸을 지탱하고 턱을 땅에 댄 채 엎드려, 높은 곳에 있는 눈으로 먹잇감을 살피며 매복할 수도 있었습니다. 
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 티라노사우루스가 오늘날 포유류처럼 온혈 동물이었는지 논쟁하고 있습니다. 일정한 체온을 유지했다는 증거가 있으며, 이를 위해서는 다른 파충류보다 높은 대사율이 필요했을 것입니다. 일부 과학자는 비행이 아니라 보온을 위한 깃털이 있었을 수도 있다고 주장합니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">체온이 높았다면 티라노사우루스는 다른 파충류보다 자주 먹어야 했을 것입니다. 위에는 반 톤이 넘는 고기가 들어갈 수 있었으며 몇 주마다 그만큼을 먹었을 것입니다. 과학자들은 티라노사우루스의 먹잇감을 직접 보여 주는 2리터 (2.1 qt) 크기의 화석화된 배설물 덩어리를 발견했습니다. 여기에는 어린 초식 공룡의 부분적으로 소화된 뼛조각이 들어 있었습니다. 티라노사우루스의 이빨이 남긴 깊은 구멍과 홈이 있는 트리케라톱스 골반도 식단을 보여 주는 증거입니다. 활동적인 다른 육식 동물처럼 굶주림이나 홍수로 죽어 썩어 가는 공룡의 사체도 먹었을 것입니다. 일부 티라노사우루스 두개골의 이빨 자국은 얼굴을 물며 서로 싸웠음을 보여 줍니다. 
+
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus" version="9" />
+      <LOC_STRING _locID="zoopedia_carnotaurus:entry" version="9">카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>						 
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북방림</font></color>
+						<br />
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+					</cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">남아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Saurischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Abelisauridae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Carnotaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">sastrei</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스라는 이름은 "뿔 달린 육식 동물"이라는 뜻입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">눈 위의 울퉁불퉁한 뿔은 머리를 맞대는 싸움이나 짝짓기 의식에 사용되었을 수 있습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">대부분의 다른 육식 동물과 달리 카르노타우루스의 머리와 턱은 불도그처럼 뭉툭했습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 똑바로 서서 걷고 팔이 매우 작으며 모습도 비슷했지만, 티라노사우루스 렉스와는 관계가 없습니다.</font></color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 카르노타우루스를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 특이한 공룡입니다. 눈썹 위의 울퉁불퉁한 뿔 때문에 "뿔 달린 육식 동물"이라는 뜻의 이름이 붙었습니다. 대부분의 공룡 화석이 북아메리카에서 발견된 것과 달리 카르노타우루스는 남아메리카에서 발견되었습니다. 비교적 최근인 1984년 아르헨티나에서 호세 에프. 보나파르테가 발견했으며, 화석은 하나뿐이었습니다. 하지만 보존 상태가 매우 좋아 피부의 거친 돌기까지 볼 수 있었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 약 1억 1천3백만~9천1백만 년 전 백악기 중기에 살았습니다. 길이는 약 7.5 m (약 25 ft), 몸무게는 약 1000 kg (1 톤)이었습니다. 눈 위에 큰 뿔 두 개가 있고, 티라노사우루스 렉스보다도 작은 팔과 손가락이 네 개인 "손"이 있었습니다. 각 손에는 뒤쪽으로 향한 가시가 달려 있었습니다. 대부분의 육식 동물처럼 뒷다리로 걸었지만, 기가노토사우루스와 알로사우루스, 티라노사우루스 렉스 같은 익숙한 육식 공룡과는 관계가 없습니다. 대신 남반구 특유의 육식 공룡 무리인 아벨리사우루스류에 속합니다.
+
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:entry">슈퍼 스티라코사우루스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+			 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">열대우림</font><br /></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Ornithischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Ceratopsidae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Styracosaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">albertensis</font>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+					 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 더 잘 알려진 트리케라톱스의 조상입니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 티라노사우루스 렉스와 카르노타우루스 같은 육식 포식자로부터 몸을 지키기 위한 뿔과 가시 달린 목 장식을 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 소철과 같은 소철류의 잎을 먹는 초식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뼈가 모여 있는 화석층을 보면 스티라코사우루스는 아마 무리를 지어 이동하며 먹이를 찾았을 것입니다.</font></color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조각을 찾아 조립하면 멸종 동물 연구소에서 슈퍼 스티라코사우루스를 만들 수 있습니다. 자세한 내용은 다음 링크를 눌러 확인하세요: </font><a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소. </font></color>  </u> </a> </color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스는 6천5백만 년 이전의 백악기에 살았던 초식 공룡입니다. 트리케라톱스보다 몸집이 작은 조상으로, 약 1천만 년 먼저 살았습니다. 성체는 길이가 약 5 m (18 ft), 높이가 1.8 m (6 피트)였으며 몸무게는 최고 3톤이었습니다. 주둥이에 큰 뿔 하나, 눈 위에 작은 뿔 하나씩이 있었고 목 장식에는 긴 가시가 여러 개 달려 있었습니다. 목 장식은 티라노사우루스 같은 육식 포식자로부터 몸을 지켜 주었으며, 몸을 더 크고 위협적으로 보이게 했습니다. 짝짓기 때 더 매력적으로 보이게 했을 수도 있습니다. 트리케라톱스처럼 날카로운 부리로 소철류 같은 낮게 자라는 식물의 잎을 자르고, 강한 턱으로 질긴 잎을 씹었습니다. 스티라코사우루스는 1915년 캐나다 앨버타의 레드디어 계곡에서 발견되었습니다. 애리조나에서는 스티라코사우루스 화석 약 100개가 모여 있는 대규모 화석층도 발견되었으며, 이는 무리를 지어 다녔음을 보여 줍니다.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:entry">슈퍼 트리케라톱스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+			 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+			 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북방림</font></color>
+						<br />
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+					</cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Ornithischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Ceratopsidae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Triceratops</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">horridus</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 스티라코사우루스의 후손입니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 세 개의 뿔과 프릴이라고 부르는 뼈로 된 목 장식을 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 티라노사우루스 렉스와 카르노타우루스 같은 포식자를 막기 위해 뿔과 목 장식을 사용합니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 소철과 같은 소철류의 잎을 먹는 초식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 식물을 자르기 위한 날카로운 부리가 있었으며, 턱을 옆으로 벌려 잎을 모을 수 있었습니다.</font></color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조각을 찾아 조립하면 멸종 동물 연구소에서 슈퍼 트리케라톱스를 만들 수 있습니다. 자세한 내용은 다음 링크를 눌러 확인하세요: </font><a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소. </font></color>  </u> </a> </color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스는 6천5백만 년 이전의 백악기에 살았던 네 발로 걷는 초식 공룡의 한 속입니다. 두개골에는 주둥이 위에 하나, 양쪽 눈 위에 하나씩 세 개의 뿔이 있었습니다. 이름은 그리스어로 "셋"을 뜻하는 트레이스, "뿔"을 뜻하는 케라트, "얼굴"을 뜻하는 옵스에서 유래했습니다. 트리케라톱스는 뿔 달린 공룡 중 가장 큰 동물의 하나였습니다. 또 다른 특징으로는 부리와 방패 같은 목 장식, 즉 프릴이 있습니다. 트리케라톱스는 공룡 시대 말기에 북아메리카와 아시아에 널리 살았던 다양한 조반목 공룡 중 "뿔 얼굴"이라는 뜻의 각룡류에 속했습니다. 미국과 캐나다의 내륙을 덮었던 해로 근처의 낮은 해안 평원에 6천7백만~6천5백만 년 전 홍수가 쌓아 놓은 퇴적층에서 두개골이 많이 발견되었습니다.
+            
+				</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">다 자란 트리케라톱스는 길이가 약 8 m (26 ft)였으며 몸무게는 최고 12톤이었습니다. 성체의 두개골은 길이가 2.5 m (8 ft)였고, 끝에는 새처럼 좁은 부리가 있었습니다. 부리 안쪽의 이빨은 큰 가위처럼 보이는 빽빽한 열을 이루었습니다. 머리와 목 사이의 관절을 돌려 턱을 옆으로 벌리면서 식물을 모을 수 있었습니다. 먹이를 모은 뒤에는 머리를 되돌리고 강한 턱 사이에서 잘게 잘랐습니다. 목 장식의 아래쪽에는 혈관이 촘촘하게 퍼져 있었습니다. 화석 증거에 따르면 코끼리가 귀로 피를 보내 열을 내보내는 것과 비슷하게 이 혈관을 통해 목 장식에서 열을 방출했습니다. 일부 과학자는 트리케라톱스가 코뿔소처럼 빠르게 달릴 수 있었다고 생각하지만, 다른 과학자는 그러기에는 너무 무겁고 둔했다고 봅니다.
+				
+				</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">트리케라톱스의 골격은 멕시코만 근처 미시시피강 하류의 오늘날 저지대와 비슷한 넓은 충적 평원에서 발견되었습니다. 턱은 그 평원에서 자랐던 것으로 알려진 부들과 작은 야자류 같은 섬유질 식물을 뜯어 먹기에 알맞았습니다. 큰 몸집으로 보아 먹이가 풍부한 환경에 살았을 것입니다. 두개골에는 일부 아문 찔린 상처가 있어 오늘날 수컷 염소나 사슴처럼 뿔을 맞대고 서로 싸웠음을 짐작할 수 있습니다. 그러나 일부 고생물학자는 뿔이 암수가 서로 같은 종임을 알아보거나, 특히 무리 내 우위와 짝짓기를 비롯한 사회적 행동에 사용되었을 수 있다고 생각합니다. 
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:entry">슈퍼 티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>	  
+			 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">열대우림</font><br /></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Saurischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Tyrannosauridae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Tyrannosaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">rex</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 다른 어떤 육식 공룡보다 티라노사우루스에 대해 더 많이 알고 있습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 트리케라톱스나 스티라코사우루스 같은 초식 동물을 자주 사냥하는 육식 동물입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스의 화석화된 배설물에서 트리케라톱스의 목 장식이 발견되었습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 저항하는 초식 동물의 날카로운 뿔로부터 배를 보호하는 격자 모양의 뼈를 지녔습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스의 위에는 반 톤이 넘는 고기가 들어갈 수 있었습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 최근 티라노사우루스 새끼가 보온을 위한 솜털 같은 깃털로 덮여 있었을 수 있다는 증거를 발견했습니다.</font></color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조각을 찾아 조립하면 멸종 동물 연구소에서 슈퍼 티라노사우루스 렉스를 만들 수 있습니다. 자세한 내용은 다음 링크를 눌러 확인하세요: </font><a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소. </font></color>  </u> </a> </color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 약 6천5백만 년 전 백악기 후기에 살았던 크고 두 발로 걷는 육식 공룡의 속을 가리키는 이름입니다. 이름은 그리스어로 "폭군"을 뜻하는 티라노스와 "도마뱀"을 뜻하는 사우로스에서 유래했습니다. 큰 몸집과 곧게 선 자세, 톱니 모양의 이빨, 손가락이 두 개 달린 작은 앞다리로 쉽게 알아볼 수 있으며, 지금까지 존재한 육상 육식 동물 중 가장 큰 동물의 하나였습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 다른 어떤 육식 공룡보다 티라노사우루스에 대해 더 많이 알고 있습니다. 몽골과 미국 서부, 캐나다 전역에서 이 거대한 용반목 공룡의 골격 수십 개가 발견되었습니다. 특히 크고 완전한 골격인 "수"는 시카고의 필드 박물관에 전시되어 있습니다. 몬태나에서 발견된 또 다른 티라노사우루스 화석은 보존 상태가 매우 좋아 넓적다리뼈 안에 혈관과 다른 연조직이 남아 있었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 수각아목의 티라노사우루스과에 속합니다. 속에 포함된 종의 수에 대해서는 과학자들의 의견이 다르지만, 일부는 네 종을 인정하며 이 중 티라노사우루스 렉스가 가장 잘 알려져 있습니다. 
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 기가노토사우루스와 카르카로돈토사우루스만을 제외하면 가장 큰 육상 육식 동물의 하나였습니다. 길이는 12.5 m (41 ft), 높이는 5 m (16 ft)에 이르렀고 몸무게는 5톤을 넘었습니다. 두개골은 크고 유연했으며, 그 안에는 오늘날 파충류와 비슷한 크기의 뇌가 있었습니다. 뼈를 부수는 무는 힘은 다른 어떤 육식 공룡보다 강했을 가능성이 큽니다. 콧등에는 사마귀 같은 혹과 움푹 팬 곳이 있었습니다. 시야가 넓었지만 눈을 정면에 집중할 수도 있었습니다. 짧은 팔에는 신경이 적어 팔의 움직임이 서툴고 둔했을 것으로 보입니다. 통 모양의 가슴으로 보아 폐가 매우 컸습니다. 격자 모양의 뼈가 위와 다른 내장 기관을 보호했습니다. 다리는 길고 가늘었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">티라노사우루스는 큰 몸을 움직이고 덤불에 가리지 않은 시야로 볼 수 있는 넓은 동물 이동로나 탁 트인 숲 같은 열린 지형을 좋아했을 것입니다. 과학자들은 빠르게 걸을 수 있었으며 먹잇감을 쫓을 때 최고 40 km/h (25 mph)로 달렸을 수 있다고 추정합니다. 또 튼튼하게 뻗은 골반으로 몸을 지탱하고 턱을 땅에 댄 채 엎드려, 높은 곳에 있는 눈으로 먹잇감을 살피며 매복할 수도 있었습니다. 
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과학자들은 티라노사우루스가 오늘날 포유류처럼 온혈 동물이었는지 논쟁하고 있습니다. 일정한 체온을 유지했다는 증거가 있으며, 이를 위해서는 다른 파충류보다 높은 대사율이 필요했을 것입니다. 일부 과학자는 비행이 아니라 보온을 위한 깃털이 있었을 수도 있다고 주장합니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">체온이 높았다면 티라노사우루스는 다른 파충류보다 자주 먹어야 했을 것입니다. 위에는 반 톤이 넘는 고기가 들어갈 수 있었으며 몇 주마다 그만큼을 먹었을 것입니다. 과학자들은 티라노사우루스의 먹잇감을 직접 보여 주는 2리터 (2.1 qt) 크기의 화석화된 배설물 덩어리를 발견했습니다. 여기에는 어린 초식 공룡의 부분적으로 소화된 뼛조각이 들어 있었습니다. 티라노사우루스의 이빨이 남긴 깊은 구멍과 홈이 있는 트리케라톱스 골반도 식단을 보여 주는 증거입니다. 활동적인 다른 육식 동물처럼 굶주림이나 홍수로 죽어 썩어 가는 공룡의 사체도 먹었을 것입니다. 일부 티라노사우루스 두개골의 이빨 자국은 얼굴을 물며 서로 싸웠음을 보여 줍니다. 
+
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+         </font></color></cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:entry">슈퍼 카르노타우루스</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+		 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+			 </cell>
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+		 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+		 	 </cell>
+		 <cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     멸종
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북방림</font></color>
+						<br />
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+					</cell>
+					<cell width="128">
+						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">남아메리카</font></color>
+						<br />
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+               <br />
+               <cell width="284" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  강: Archosauria
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  목: Saurischia
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  과: Abelisauridae
+                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Carnotaurus</font>
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">sastrei</font>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+				 </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스라는 이름은 "뿔 달린 육식 동물"이라는 뜻입니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">눈 위의 울퉁불퉁한 뿔은 머리를 맞대는 싸움이나 짝짓기 의식에 사용되었을 수 있습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">대부분의 다른 육식 동물과 달리 카르노타우루스의 머리와 턱은 불도그처럼 뭉툭했습니다.</font></color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 똑바로 서서 걷고 팔이 매우 작으며 모습도 비슷했지만, 티라노사우루스 렉스와는 관계가 없습니다.</font></color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조각을 찾아 조립하면 멸종 동물 연구소에서 슈퍼 카르노타우루스를 만들 수 있습니다. 자세한 내용은 다음 링크를 눌러 확인하세요: </font><a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소. </font></color>  </u> </a> </color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 특이한 공룡입니다. 눈썹 위의 울퉁불퉁한 뿔 때문에 "뿔 달린 육식 동물"이라는 뜻의 이름이 붙었습니다. 대부분의 공룡 화석이 북아메리카에서 발견된 것과 달리 카르노타우루스는 남아메리카에서 발견되었습니다. 비교적 최근인 1984년 아르헨티나에서 호세 에프. 보나파르테가 발견했으며, 화석은 하나뿐이었습니다. 하지만 보존 상태가 매우 좋아 피부의 거친 돌기까지 볼 수 있었습니다.
+
+</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">카르노타우루스는 약 1억 1천3백만~9천1백만 년 전 백악기 중기에 살았습니다. 길이는 약 7.5 m (약 25 ft), 몸무게는 약 1000 kg (1 톤)이었습니다. 눈 위에 큰 뿔 두 개가 있고, 티라노사우루스 렉스보다도 작은 팔과 손가락이 네 개인 "손"이 있었습니다. 각 손에는 뒤쪽으로 향한 가시가 달려 있었습니다. 대부분의 육식 동물처럼 뒷다리로 걸었지만, 기가노토사우루스와 알로사우루스, 티라노사우루스 렉스 같은 익숙한 육식 공룡과는 관계가 없습니다. 대신 남반구 특유의 육식 공룡 무리인 아벨리사우루스류에 속합니다.
+
+         </font></color></cell>
+      </LOC_STRING>
+
+</ZT2Strings>

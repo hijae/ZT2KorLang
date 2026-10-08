@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_paths" version="2" />
+      <LOC_STRING _locID="zoopedia_paths:entry" version="2">길</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text" version="2">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">적절한 위치에 길이 나 있으면 원하는 곳으로 쉽게 갈 수 있기 때문에 관람객들의 만족도가 높아집니다.
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">길에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 길 재료를 클릭하세요.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff" version="3" />
+      <LOC_STRING _locID="zoopedia_staff:entry" version="3">직원</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text" version="3">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동물원 운영에 도움을 주는 여러 형태의 직원을 고용할 수 있습니다.
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">직원에 대한 정보를 보려면 왼쪽에 있는 목록에서 해당 직원을 클릭하세요.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

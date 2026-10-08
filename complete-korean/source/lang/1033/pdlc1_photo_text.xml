@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexPhotos">포식자 티라노사우루스 렉스</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRex">
+      고생물학 실무 협회의 과학자들이 티라노사우루스 렉스의 식습관에 대한 논쟁을 해결하는 데 도움을 요청했습니다. 과학자들은 티라노사우루스 렉스가 먹이 일부를 동물의 사체에서 얻었을 수는 있지만, 매우 뛰어난 포식자이기도 했을 것이라고 생각합니다. 이 이론을 증명할 사진 두 장을 찍어 달라고 합니다. 성공하면 사진으로 인한 홍보 효과로 동물원에 관람객이 더 많이 찾아올 것입니다!
+         <br />
+         난이도: 고급	
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexShort">
+      다음 모습을 담은 사진 두 장을 찍으세요:
+         <p />
+   		* 먹잇감을 사냥하는 티라노사우루스 렉스.   		
+         <br />
+   		* 먹잇감을 붙잡는 티라노사우루스 렉스.
+      </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexSuccess">여러분의 사진이 고생물학 실무 협회의 과학자들에게 깊은 인상을 주었습니다! 티라노사우루스 렉스가 뛰어난 포식자였음을 증명했습니다.
+	   </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTRexSuccessShort">티라노사우루스 렉스가 사냥하는 사진 덕분에 동물원에 관람객이 더 많이 찾아왔습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TRexStalking">먹잇감을 사냥하는 티라노사우루스 렉스의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TRexCatching">먹잇감을 붙잡는 티라노사우루스 렉스의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitPhotos">과학자의 방문</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisit">세계적으로 유명한 고생물학자 앨빈 아인하임이 동물원을 방문합니다! 아인하임 교수가 동물원의 공룡을 관찰하는 사진을 찍으면 홍보 효과로 동물원 명성이 조금 높아질 것입니다. 다음 사진을 찍으세요:
+					<br />         
+		* 공룡을 관찰하는 앨빈 아인하임의 사진.  
+					<br />
+		난이도: 중급.			
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitShort">공룡을 관찰하는 앨빈 아인하임의 사진을 찍으세요.   	
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitSuccess">앨빈 아인하임의 사진으로 인한 홍보 효과로 동물원 명성이 높아졌습니다! 뿐만 아니라 현재 동물원에 있는 모든 관람객의 행복도도 조금 높아졌습니다. 모두가 뛰어난 학자가 가장 좋아하는 동물원을 방문했다는 사실에 기뻐하고 있습니다!</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitSuccessShort">앨빈 아인하임의 사진으로 인한 홍보 효과로 관람객의 행복도가 조금 높아지고 동물원 명성도 높아졌습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitFailure">앨빈 아인하임이 동물원을 떠났습니다! 안타깝게도 필요한 사진을 찍기 전에 떠나 버렸습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitFailureShort">필요한 사진을 찍기 전에 앨빈 아인하임이 동물원을 떠났습니다.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoScientistVisitScientistName">앨빈 아인하임</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoScientistVisitDinosaur">공룡을 관찰하는 앨빈 아인하임의 사진을 찍으세요.</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoScientistVisitArrival">유명한 과학자 앨빈 아인하임이 동물원에 들어왔습니다!</LOC_STRING>
+</ZT2Strings>

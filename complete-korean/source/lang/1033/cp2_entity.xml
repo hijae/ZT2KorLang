@@ -1,0 +1,2027 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:weak">허약한 </LOC_STRING>
+      <LOC_STRING _locID="entityname:super">슈퍼 </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus">안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_stt">안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_lower">안킬로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_ltt">
+         <color r="255" g="248" b="178">
+            안킬로사우루스
+         </color>
+         <br />
+         
+         
+         안킬로사우루스를 선택한 다음 우리에 배치합니다. 몸이 단단한 갑옷으로 덮여 있으며 꼬리 끝에는 커다란 곤봉이 달린 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch">오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_stt">오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_lower">오록스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_ltt">
+         <color r="255" g="248" b="178">
+            오록스
+         </color>
+         <br />
+         
+         
+         오록스를 선택한 다음 우리에 배치합니다. 오늘날 여러 소 품종의 조상입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced">아르크토두스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_stt">아르크토두스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_lower">아르크토두스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_ltt">
+         <color r="255" g="248" b="178">
+            아르크토두스
+         </color>
+         <br />
+         
+         
+         아르크토두스를 선택한 다음 우리에 배치합니다. 지금까지 살았던 곰 중 가장 큰 곰입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant">에피오르니스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_stt">에피오르니스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_lower">에피오르니스</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_ltt">
+         <color r="255" g="248" b="178">
+            에피오르니스
+         </color>
+         <br />
+         
+         
+         에피오르니스를 선택한 다음 우리에 배치합니다. 과일을 먹는 거대한 새로, 동물 중 가장 큰 알을 낳았습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck">파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_stt">파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_lower">파란영양</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_ltt">
+         <color r="255" g="248" b="178">
+            파란영양
+         </color>
+         <br />
+         
+         
+         파란영양을 선택한 다음 우리에 배치합니다. 검은영양 및 론영양과 친척 관계인 동물로, 비교적 최근에 멸종했습니다. 
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant">티타노틸로푸스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_stt">티타노틸로푸스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_lower">티타노틸로푸스</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_ltt">
+         <color r="255" g="248" b="178">
+            티타노틸로푸스
+         </color>
+         <br />
+         
+         
+         티타노틸로푸스를 선택한 다음 우리에 배치합니다. 세계에서 가장 큰 낙타 중 하나입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed">스밀로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_stt">스밀로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_lower">스밀로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_ltt">
+         <color r="255" g="248" b="178">
+            스밀로돈
+         </color>
+         <br />
+         
+         
+         스밀로돈을 선택한 다음 우리에 배치합니다. 두 개의 거대한 칼날 같은 앞니와 짧은 꼬리가 특징인 고양이과 육식 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered">에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_stt">에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_lower">에우클라도케로스</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_ltt">
+         <color r="255" g="248" b="178">
+            에우클라도케로스
+         </color>
+         <br />
+         
+         
+         에우클라도케로스를 선택한 다음 우리에 배치합니다. 덤불처럼 가지가 많은 뿔을 가진 사슴입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus">데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_stt">데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_lower">데이노니쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_ltt">
+         <color r="255" g="248" b="178">
+            데이노니쿠스
+         </color>
+         <br />
+         
+         
+         데이노니쿠스를 선택한 다음 우리에 배치합니다. 빠르고 민첩한 육식 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus">데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_stt">데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_lower">데이노수쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_ltt">
+         <color r="255" g="248" b="178">
+            데이노수쿠스
+         </color>
+         <br />
+         
+         
+         데이노수쿠스를 선택한 다음 우리에 배치합니다. 지금까지 알려진 악어 중 가장 큽니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon">디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_stt">디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_lower">디메트로돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_ltt">
+         <color r="255" g="248" b="178">
+            디메트로돈
+         </color>
+         <br />
+         
+         
+         디메트로돈을 선택한 다음 우리에 배치합니다. 공룡 시대 이전에 살았던 고대 파충류입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon">디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_stt">디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_lower">디프로토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_ltt">
+         <color r="255" g="248" b="178">
+            디프로토돈
+         </color>
+         <br />
+         
+         
+         디프로토돈을 선택한 다음 우리에 배치합니다. 지금까지 살았던 유대류 중 가장 큰 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo">도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_stt">도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_lower">도도새</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_ltt">
+         <color r="255" g="248" b="178">
+            도도새
+         </color>
+         <br />
+         
+         
+         도도새를 선택한 다음 우리에 배치합니다. 천적을 두려워할 필요 없이 살았던 과일을 먹는 온순한 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus">도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_stt">도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_lower">도에디쿠루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_ltt">
+         <color r="255" g="248" b="178">
+            도에디쿠루스
+         </color>
+         <br />
+         
+         
+         도에디쿠루스를 선택한 다음 우리에 배치합니다. 아르마딜로와 친척 관계인 거대한 동물로, 곤봉 같은 꼬리에 가시가 달려 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian">난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_stt">난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_lower">난쟁이코끼리</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_ltt">
+         <color r="255" g="248" b="178">
+            난쟁이코끼리
+         </color>
+         <br />
+         
+         
+         난쟁이코끼리를 선택한 다음 우리에 배치합니다. 가장 작은 코끼리 중 하나입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus">기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_stt">기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_lower">기간토피테쿠스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_ltt">
+         <color r="255" g="248" b="178">
+            기간토피테쿠스
+         </color>
+         <br />
+         
+         
+         기간토피테쿠스를 선택한 다음 우리에 배치합니다. 지금까지 살았던 유인원 중 가장 큽니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus">켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_stt">켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_lower">켄트로사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_ltt">
+         <color r="255" g="248" b="178">
+            켄트로사우루스
+         </color>
+         <br />
+         
+         
+         켄트로사우루스를 선택한 다음 우리에 배치합니다. 몸에 많은 가시가 있는 것으로 유명한 스테고사우루스류 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave">동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_stt">동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_lower">동굴사자</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_ltt">
+         <color r="255" g="248" b="178">
+            동굴사자
+         </color>
+         <br />
+         
+         
+         동굴사자를 선택한 다음 우리에 배치합니다. 지금까지 살았던 고양이과 육식 동물 중 가장 큽니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican">마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_stt">마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_lower">마스토돈</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_ltt">
+         <color r="255" g="248" b="178">
+            마스토돈
+         </color>
+         <br />
+         
+         
+         마스토돈을 선택한 다음 우리에 배치합니다. 북방림에 살았던 대형 초식 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx">프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_stt">프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_lower">프로트아르케옵테릭스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_ltt">
+         <color r="255" g="248" b="178">
+            프로트아르케옵테릭스
+         </color>
+         <br />
+         
+         
+         프로트아르케옵테릭스를 선택한 다음 우리에 배치합니다. 깃털이 있다는 사실이 처음으로 발견된 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly">코엘로돈타</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_stt">코엘로돈타</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_lower">코엘로돈타</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_ltt">
+         <color r="255" g="248" b="178">
+            코엘로돈타
+         </color>
+         <br />
+         
+         
+         코엘로돈타를 선택한 다음 우리에 배치합니다. 수마트라코뿔소와 친척 관계인 고대 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium">시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_stt">시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_lower">시바테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_ltt">
+         <color r="255" g="248" b="178">
+            시바테리움
+         </color>
+         <br />
+         
+         
+         시바테리움을 선택한 다음 우리에 배치합니다. 멸종한 기린과 동물로, 오카피와 가까운 친척 관계입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant">메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_stt">메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_lower">메가테리움</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_ltt">
+         <color r="255" g="248" b="178">
+            메가테리움
+         </color>
+         <br />
+         
+         
+         메가테리움을 선택한 다음 우리에 배치합니다. 오늘날의 나무늘보와 친척 관계인 거대한 두 발 보행 잡식 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus">스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_stt">스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_lower">스테고사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_ltt">
+         <color r="255" g="248" b="178">
+            스테고사우루스
+         </color>
+         <br />
+         
+         
+         스테고사우루스를 선택한 다음 우리에 배치합니다. 등에 있는 골판으로 체온을 조절했던 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus">스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_stt">스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_lower">스토케소사우루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_ltt">
+         <color r="255" g="248" b="178">
+            스토케소사우루스
+         </color>
+         <br />
+         
+         
+         스토케소사우루스를 선택한 다음 우리에 배치합니다. 쥐라기에 살았던 작은 티라노사우루스류 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine">태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_stt">태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_lower">태즈메이니아주머니늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_ltt">
+         <color r="255" g="248" b="178">
+            태즈메이니아주머니늑대
+         </color>
+         <br />
+         
+         
+         태즈메이니아주머니늑대를 선택한 다음 우리에 배치합니다. 동물 중 입을 가장 크게 벌릴 수 있는 유대류 육식 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor">유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_stt">유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_lower">유타랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_ltt">
+         <color r="255" g="248" b="178">
+            유타랍토르
+         </color>
+         <br />
+         
+         
+         유타랍토르를 선택한 다음 우리에 배치합니다. 뒷다리로 서서 걸었던 대형 육식 공룡입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor">벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_stt">벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_lower">벨로키랍토르</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_ltt">
+         <color r="255" g="248" b="178">
+            벨로키랍토르
+         </color>
+         <br />
+         
+         
+         벨로키랍토르를 선택한 다음 우리에 배치합니다. 백악기에 살았던 작고 깃털이 있는 랩터입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah">포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_stt">포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_lower">포클랜드늑대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_ltt">
+         <color r="255" g="248" b="178">
+            포클랜드늑대
+         </color>
+         <br />
+         
+         
+         포클랜드늑대를 선택한 다음 우리에 배치합니다. 근대 역사에서 멸종한 것으로 알려진 유일한 개과 동물입니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant">메트리디오코에루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_stt">메트리디오코에루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_lower">메트리디오코에루스</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_ltt">
+         <color r="255" g="248" b="178">
+            메트리디오코에루스
+         </color>
+         <br />
+         
+         
+         메트리디오코에루스를 선택한 다음 우리에 배치합니다. 지금까지 살았던 혹멧돼지 중 가장 큰 종의 하나입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga">콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_stt">콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_lower">콰가</LOC_STRING>
+      <LOC_STRING _locID="entityname:Quagga_ltt">
+         <color r="255" g="248" b="178">
+            콰가
+         </color>
+         <br />
+         
+         
+         콰가를 선택한 다음 우리에 배치합니다. 오늘날 얼룩말과 친척 관계인 동물입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller">킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_stt">킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_lower">킬러펭귄</LOC_STRING>
+      <LOC_STRING _locID="entityname:PenguinKiller_ltt">
+         <color r="255" g="248" b="178">
+            킬러펭귄
+         </color>
+         <br />
+         
+         
+         킬러펭귄을 선택한 다음 우리에 배치합니다. 다른 동물에게 위험할 수 있으므로 주의하세요!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare">날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_stt">날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_lower">날쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:SpringHare_ltt">
+         <color r="255" g="248" b="178">
+            날쥐
+         </color>
+         <br />
+         
+         
+         날쥐를 선택한 다음 우리에 배치합니다. 물에 닿으면 녹아 없어지므로 주의하세요!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel">다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_stt">다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_lower">다람쥐</LOC_STRING>
+      <LOC_STRING _locID="entityname:Squirrel_ltt">
+         <color r="255" g="248" b="178">
+            다람쥐
+         </color>
+         <br />
+         
+         
+         다람쥐를 선택한 다음 우리에 배치합니다. 물에 닿으면 녹아 없어지므로 주의하세요!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant">거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_stt">거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_lower">거대 황소개구리</LOC_STRING>
+      <LOC_STRING _locID="entityname:BullfrogGiant_ltt">
+         <color r="255" g="248" b="178">
+            거대 황소개구리
+         </color>
+         <br />
+         
+         
+         거대 황소개구리를 선택한 다음 우리에 배치합니다. 물에 닿으면 녹아 없어지므로 주의하세요!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant">거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_stt">거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_lower">거대 왕나비</LOC_STRING>
+      <LOC_STRING _locID="entityname:ButterflyMonarchGiant_ltt">
+         <color r="255" g="248" b="178">
+            거대 왕나비
+         </color>
+         <br />
+         
+         
+         거대 왕나비를 선택한 다음 우리에 배치합니다. 물에 닿으면 녹아 없어지므로 주의하세요!
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant">에피오르니스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_stt">에피오르니스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_lower">에피오르니스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_ltt">
+         <color r="255" g="248" b="178">
+            에피오르니스 똥
+         </color>
+         <br />
+         에피오르니스 똥을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick">에피오르니스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_stt">에피오르니스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_lower">에피오르니스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_BirdElephant_Sick_ltt">
+         <color r="255" g="248" b="178">
+            에피오르니스 똥 (아픔)
+         </color>
+         <br />
+         에피오르니스 똥(아픔)을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon">디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_stt">디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_lower">디프로토돈 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_ltt">
+         <color r="255" g="248" b="178">
+            디프로토돈 똥
+         </color>
+         <br />
+         디프로토돈 똥을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick">디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_stt">디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_lower">디프로토돈 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Diprotodon_Sick_ltt">
+         <color r="255" g="248" b="178">
+            디프로토돈 똥 (아픔)
+         </color>
+         <br />
+         디프로토돈 똥(아픔)을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo">도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_stt">도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_lower">도도새 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_ltt">
+         <color r="255" g="248" b="178">
+            도도새 똥
+         </color>
+         <br />
+         도도새 똥을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick">도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_stt">도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_lower">도도새 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Dodo_Sick_ltt">
+         <color r="255" g="248" b="178">
+            도도새 똥 (아픔)
+         </color>
+         <br />
+         도도새 똥(아픔)을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus">도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_stt">도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_lower">도에디쿠루스 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_ltt">
+         <color r="255" g="248" b="178">
+            도에디쿠루스 똥
+         </color>
+         <br />
+         도에디쿠루스 똥을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick">도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_stt">도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_lower">도에디쿠루스 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_Doedicurus_Sick_ltt">
+         <color r="255" g="248" b="178">
+            도에디쿠루스 똥 (아픔)
+         </color>
+         <br />
+         도에디쿠루스 똥(아픔)을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant">메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_stt">메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_lower">메가테리움 똥</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_ltt">
+         <color r="255" g="248" b="178">
+            메가테리움 똥
+         </color>
+         <br />
+         메가테리움 똥을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick">메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_stt">메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_lower">메가테리움 똥 (아픔)</LOC_STRING>
+      <LOC_STRING _locID="entityname:Poop_SlothGroundGiant_Sick_ltt">
+         <color r="255" g="248" b="178">
+            메가테리움 똥 (아픔)
+         </color>
+         <br />
+         메가테리움 똥(아픔)을 선택한 다음 배치합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift">안킬로사우루스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_stt">안킬로사우루스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_lower">안킬로사우루스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Ankylosaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            안킬로사우루스 모자
+         </color>
+         <br />
+         안킬로사우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift">오록스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_stt">오록스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_lower">오록스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:CowAuroch_Gift_ltt">
+         <color r="255" g="248" b="178">
+            오록스 모자
+         </color>
+         <br />
+         오록스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift">아르크토두스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_stt">아르크토두스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_lower">아르크토두스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:BearShortfaced_Gift_ltt">
+         <color r="255" g="248" b="178">
+            아르크토두스 허리 가방
+         </color>
+         <br />
+         아르크토두스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift">에피오르니스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_stt">에피오르니스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_lower">에피오르니스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:BirdElephant_Gift_ltt">
+         <color r="255" g="248" b="178">
+            에피오르니스 모자
+         </color>
+         <br />
+         에피오르니스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift">파란영양 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_stt">파란영양 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_lower">파란영양 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Bluebuck_Gift_ltt">
+         <color r="255" g="248" b="178">
+            파란영양 티셔츠
+         </color>
+         <br />
+         파란영양을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift">티타노틸로푸스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_stt">티타노틸로푸스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_lower">티타노틸로푸스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:CamelGiant_Gift_ltt">
+         <color r="255" g="248" b="178">
+            티타노틸로푸스 가방
+         </color>
+         <br />
+         티타노틸로푸스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift">스밀로돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_stt">스밀로돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_lower">스밀로돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:CatSaberToothed_Gift_ltt">
+         <color r="255" g="248" b="178">
+            스밀로돈 인형
+         </color>
+         <br />
+         스밀로돈을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift">에우클라도케로스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_stt">에우클라도케로스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_lower">에우클라도케로스 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeerBushAntlered_Gift_ltt">
+         <color r="255" g="248" b="178">
+            에우클라도케로스 모자
+         </color>
+         <br />
+         에우클라도케로스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift">데이노니쿠스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_stt">데이노니쿠스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_lower">데이노니쿠스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinonychus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            데이노니쿠스 티셔츠
+         </color>
+         <br />
+         데이노니쿠스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift">데이노수쿠스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_stt">데이노수쿠스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_lower">데이노수쿠스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Deinosuchus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            데이노수쿠스 인형
+         </color>
+         <br />
+         데이노수쿠스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift">디메트로돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_stt">디메트로돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_lower">디메트로돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dimetrodon_Gift_ltt">
+         <color r="255" g="248" b="178">
+            디메트로돈 가방
+         </color>
+         <br />
+         디메트로돈을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift">디프로토돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_stt">디프로토돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_lower">디프로토돈 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Diprotodon_Gift_ltt">
+         <color r="255" g="248" b="178">
+            디프로토돈 가방
+         </color>
+         <br />
+         디프로토돈을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift">도도새 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_stt">도도새 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_lower">도도새 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Dodo_Gift_ltt">
+         <color r="255" g="248" b="178">
+            도도새 인형
+         </color>
+         <br />
+         도도새를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift">도에디쿠루스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_stt">도에디쿠루스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_lower">도에디쿠루스 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:Doedicurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            도에디쿠루스 티셔츠
+         </color>
+         <br />
+         도에디쿠루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift">난쟁이코끼리 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_stt">난쟁이코끼리 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_lower">난쟁이코끼리 티셔츠</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantDwarfSicilian_Gift_ltt">
+         <color r="255" g="248" b="178">
+            난쟁이코끼리 티셔츠
+         </color>
+         <br />
+         난쟁이코끼리를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift">기간토피테쿠스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_stt">기간토피테쿠스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_lower">기간토피테쿠스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gigantopithecus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            기간토피테쿠스 가방
+         </color>
+         <br />
+         기간토피테쿠스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift">켄트로사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_stt">켄트로사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_lower">켄트로사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Kentrosaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            켄트로사우루스 가방
+         </color>
+         <br />
+         켄트로사우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift">동굴사자 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_stt">동굴사자 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_lower">동굴사자 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:LionCave_Gift_ltt">
+         <color r="255" g="248" b="178">
+            동굴사자 허리 가방
+         </color>
+         <br />
+         동굴사자를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift">마스토돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_stt">마스토돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_lower">마스토돈 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:MastodonAmerican_Gift_ltt">
+         <color r="255" g="248" b="178">
+            마스토돈 인형
+         </color>
+         <br />
+         마스토돈을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift">프로트아르케옵테릭스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_stt">프로트아르케옵테릭스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_lower">프로트아르케옵테릭스 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Protarchaeopteryx_Gift_ltt">
+         <color r="255" g="248" b="178">
+            프로트아르케옵테릭스 허리 가방
+         </color>
+         <br />
+         프로트아르케옵테릭스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift">코엘로돈타 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_stt">코엘로돈타 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_lower">코엘로돈타 모자</LOC_STRING>
+      <LOC_STRING _locID="entityname:RhinocerosWooly_Gift_ltt">
+         <color r="255" g="248" b="178">
+            코엘로돈타 모자
+         </color>
+         <br />
+         코엘로돈타를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift">시바테리움 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_stt">시바테리움 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_lower">시바테리움 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Sivatherium_Gift_ltt">
+         <color r="255" g="248" b="178">
+            시바테리움 가방
+         </color>
+         <br />
+         시바테리움을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift">메가테리움 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_stt">메가테리움 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_lower">메가테리움 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:SlothGroundGiant_Gift_ltt">
+         <color r="255" g="248" b="178">
+            메가테리움 인형
+         </color>
+         <br />
+         메가테리움을 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift">스테고사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_stt">스테고사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_lower">스테고사우루스 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stegosaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            스테고사우루스 가방
+         </color>
+         <br />
+         스테고사우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift">스토케소사우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_stt">스토케소사우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_lower">스토케소사우루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Stokesosaurus_Gift_ltt">
+         <color r="255" g="248" b="178">
+            스토케소사우루스 인형
+         </color>
+         <br />
+         스토케소사우루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift">태즈메이니아주머니늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_stt">태즈메이니아주머니늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_lower">태즈메이니아주머니늑대 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Thylacine_Gift_ltt">
+         <color r="255" g="248" b="178">
+            태즈메이니아주머니늑대 인형
+         </color>
+         <br />
+         태즈메이니아주머니늑대를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift">유타랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_stt">유타랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_lower">유타랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Utahraptor_Gift_ltt">
+         <color r="255" g="248" b="178">
+            유타랍토르 인형
+         </color>
+         <br />
+         유타랍토르를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift">벨로키랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_stt">벨로키랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_lower">벨로키랍토르 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:Velociraptor_Gift_ltt">
+         <color r="255" g="248" b="178">
+            벨로키랍토르 인형
+         </color>
+         <br />
+         벨로키랍토르를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift">포클랜드늑대 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_stt">포클랜드늑대 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_lower">포클랜드늑대 허리 가방</LOC_STRING>
+      <LOC_STRING _locID="entityname:Warrah_Gift_ltt">
+         <color r="255" g="248" b="178">
+            포클랜드늑대 허리 가방
+         </color>
+         <br />
+         포클랜드늑대를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift">메트리디오코에루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_stt">메트리디오코에루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_lower">메트리디오코에루스 인형</LOC_STRING>
+      <LOC_STRING _locID="entityname:WarthogGiant_Gift_ltt">
+         <color r="255" g="248" b="178">
+            메트리디오코에루스 인형
+         </color>
+         <br />
+         메트리디오코에루스를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest">안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_stt">안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_lower">안킬로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnkylosaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            안킬로사우루스 둥지
+         </color>
+         <br />
+         안킬로사우루스 둥지를 선택한 다음 배치합니다. 안킬로사우루스가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest">데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_stt">데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_lower">데이노니쿠스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:DeinonychusNest_ltt">
+         <color r="255" g="248" b="178">
+            데이노니쿠스 둥지
+         </color>
+         <br />
+         데이노니쿠스 둥지를 선택한 다음 배치합니다. 데이노니쿠스가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest">켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_stt">켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_lower">켄트로사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:KentrosaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            켄트로사우루스 둥지
+         </color>
+         <br />
+         켄트로사우루스 둥지를 선택한 다음 배치합니다. 켄트로사우루스가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest">스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_stt">스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_lower">스테고사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StegosaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            스테고사우루스 둥지
+         </color>
+         <br />
+         스테고사우루스 둥지를 선택한 다음 배치합니다. 스테고사우루스가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest">스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_stt">스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_lower">스토케소사우루스 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:StokesosaurusNest_ltt">
+         <color r="255" g="248" b="178">
+            스토케소사우루스 둥지
+         </color>
+         <br />
+         스토케소사우루스 둥지를 선택한 다음 배치합니다. 스토케소사우루스가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest">유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_stt">유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_lower">유타랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:UtahraptorNest_ltt">
+         <color r="255" g="248" b="178">
+            유타랍토르 둥지
+         </color>
+         <br />
+         유타랍토르 둥지를 선택한 다음 배치합니다. 유타랍토르가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest">벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_stt">벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_lower">벨로키랍토르 둥지</LOC_STRING>
+      <LOC_STRING _locID="entityname:VelociraptorNest_ltt">
+         <color r="255" g="248" b="178">
+            벨로키랍토르 둥지
+         </color>
+         <br />
+         벨로키랍토르 둥지를 선택한 다음 배치합니다. 벨로키랍토르가 알을 낳는 둥지입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots">뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_stt">뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_lower">뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Terrain_Roots_ltt">
+         <color r="255" g="248" b="178">
+            뿌리
+         </color>
+         <br />
+         
+         
+         먹이와 둥지 재료로 많이 쓰이는 뿌리를 선택한 다음 배치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots">그릇에 담긴 뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_stt">그릇에 담긴 뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_lower">먹이 그릇</LOC_STRING>
+      <LOC_STRING _locID="entityname:FoodDish_Roots_ltt">
+         <color r="255" g="248" b="178">
+            그릇에 담긴 뿌리
+         </color>
+         <br />
+         
+         
+          그릇에 담긴 뿌리를 선택한 다음 배치합니다. 먹이 그릇은 작기 때문에 자주 채워 주어야 합니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots">여물통에 든 뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_stt">여물통에 든 뿌리</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_lower">여물통</LOC_STRING>
+      <LOC_STRING _locID="entityname:Trough_Roots_ltt">
+         <color r="255" g="248" b="178">
+            여물통에 든 뿌리
+         </color>
+         <br />
+         
+         
+         여물통에 든 뿌리를 선택한 다음 배치합니다. 작은 동물 최대 6마리가 동시에 이용할 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots">뿌리 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_stt">뿌리 사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_lower">사료</LOC_STRING>
+      <LOC_STRING _locID="entityname:SubstratePile_Roots_ltt">
+         <color r="255" g="248" b="178">
+            뿌리 사료
+         </color>
+         <br />
+         
+         뿌리가 섞인 나무껍질과 기타 유기물 더미를 선택한 다음 배치합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct">스밀로돈 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_stt">스밀로돈 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_lower">스밀로돈 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerExtinct_ltt">
+         <color r="255" g="248" b="178">
+            스밀로돈 엔터테이너
+         </color>
+         <br />
+         
+         
+          스밀로돈 엔터테이너를 고용하세요. 무대에서 작은 공연을 펼쳐 관람객들을 즐겁게 하는 재능 있는 공연자입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur">공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_stt">공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_lower">공룡 엔터테이너</LOC_STRING>
+      <LOC_STRING _locID="entityname:EntertainerDinosaur_ltt">
+         <color r="255" g="248" b="178">
+            공룡 엔터테이너
+         </color>
+         <br />
+         
+         
+          공룡 엔터테이너를 고용하세요. 엔터테이너들은 무대에서 작은 공연을 펼쳐 관람객들을 즐겁게 합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist">고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_stt">고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_lower">고생물학자</LOC_STRING>
+      <LOC_STRING _locID="entityname:Paleontologist_ltt">
+         <color r="255" g="248" b="178">
+            고생물학자
+         </color>
+         <br />
+         
+         
+          고생물학자를 고용하세요. 화석을 찾고 관람객에게 멸종 동물 화석에 대해 설명하여 동물원을 돕습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam">공룡 생포 팀 요원</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_stt">공룡 생포 팀 요원</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_lower">공룡 생포 팀 요원</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryTeam_ltt">
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 요원
+         </color>
+         <br />
+         
+         
+          공룡 생포 팀 요원을 고용하세요. 다른 요원들과 팀을 이루어 우리에서 탈출한 공룡을 생포합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot">공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_stt">공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_lower">공룡 생포 팀 로봇</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryRobot_ltt">
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 로봇
+         </color>
+         <br />
+         
+         
+          공룡 생포 팀 로봇을 고용하세요. 공룡 생포 팀 요원들이 위험한 공룡을 상대할 때 미끼로 사용하는 로봇입니다. 공룡이 먹어도 안전한 유기물로 만들어졌습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit">발굴 체험장</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_stt">발굴 체험장</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_lower">발굴 체험장</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilDigPit_ltt">
+         <color r="255" g="248" b="178">
+            발굴 체험장
+         </color>
+         <br />
+         
+         발굴 체험장을 선택한 다음 설치합니다. 관람객들이 흙을 파며 배울 수 있는 곳입니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter">멸종 동물 교육관</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_stt">멸종 동물 교육관</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_lower">멸종 동물 교육관</LOC_STRING>
+      <LOC_STRING _locID="entityname:FossilEducationCenter_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 교육관
+         </color>
+         <br />
+         
+         멸종 동물 교육관을 선택한 다음 설치합니다. 안내원과 고생물학자가 이곳에서 강의하며, 관람객들은 화석 발굴 체험장에서 찾은 뼈로 멸종 동물 조각상을 만드는 일을 돕습니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk">메갈로케로스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_stt">메갈로케로스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_lower">메갈로케로스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_IrishElk_ltt">
+         <color r="255" g="248" b="178">
+            메갈로케로스 조각상
+         </color>
+         <br />
+         메갈로케로스 조각상을 선택한 다음 설치합니다. 관람객들은 잘 배치된 조각상의 아름다움을 감상하며, 직접 만드는 데 참여한 조각상을 특히 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth">황제매머드 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_stt">황제매머드 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_lower">황제매머드 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Mammoth_ltt">
+         <color r="255" g="248" b="178">
+            황제매머드 조각상
+         </color>
+         <br />
+         황제매머드 조각상을 선택한 다음 설치합니다. 관람객들은 잘 배치된 조각상의 아름다움을 감상하며, 직접 만드는 데 참여한 조각상을 특히 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex">티라노사우루스 렉스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_stt">티라노사우루스 렉스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_lower">티라노사우루스 렉스 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_TyrannosaurusRex_ltt">
+         <color r="255" g="248" b="178">
+            티라노사우루스 렉스 조각상
+         </color>
+         <br />
+         티라노사우루스 렉스 조각상을 선택한 다음 설치합니다. 관람객들은 잘 배치된 조각상의 아름다움을 감상하며, 직접 만드는 데 참여한 조각상을 특히 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon">프테라노돈 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_stt">프테라노돈 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_lower">프테라노돈 조각상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_Pteranodon_ltt">
+         <color r="255" g="248" b="178">
+            프테라노돈 조각상
+         </color>
+         <br />
+         프테라노돈 조각상을 선택한 다음 설치합니다. 관람객들은 잘 배치된 조각상의 아름다움을 감상하며, 직접 만드는 데 참여한 조각상을 특히 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural">크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_stt">크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_lower">크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:SizeMural_ltt">
+         <color r="255" g="248" b="178">
+            크기 비교 벽화
+         </color>
+         <br />
+         
+         크기 비교 벽화를 선택한 다음 설치합니다. 관람객들은 자신의 크기를 멸종 동물의 크기와 비교하며 즐거움을 느끼고 지식을 얻습니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_stt">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_lower">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_xt_ltt">
+         <color r="255" g="248" b="178">
+            대형 화장실
+         </color>
+         <br />
+         
+         대형 화장실을 선택한 다음 설치합니다. 소형 화장실보다 비싸지만 관람객 6명이 함께 이용할 수 있습니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_stt">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_lower">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_xt_ltt">
+         <color r="255" g="248" b="178">
+            소형 화장실
+         </color>
+         <br />
+         
+         소형 화장실을 선택한 다음 설치합니다. 관람객 한 명이 이용할 수 있습니다.
+  
+     </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_stt">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_lower">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_xt_ltt">
+         <color r="255" g="248" b="178">
+            생과일 가판대
+         </color>
+         <br />
+         
+         생과일 가판대를 선택한 다음 설치합니다. 많은 관람객은 건강에 좋은 간식으로 과일을 즐겨 먹습니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_stt">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_lower">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_xt_ltt">
+         <color r="255" g="248" b="178">
+            아이스크림 가판대
+         </color>
+         <br />
+         
+         아이스크림 가판대를 선택한 다음 설치합니다. 아이스크림은 동물원의 어린 관람객이 특히 좋아하는 간식입니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_stt">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_lower">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_xt_ltt">
+         <color r="255" g="248" b="178">
+            프레첼 가판대
+         </color>
+         <br />
+         
+         프레첼 가판대를 선택한 다음 설치합니다. 프레첼은 관람객이 갈증을 느끼게 할 수 있습니다.   
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_stt">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_lower">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_xt_ltt">
+         <color r="255" g="248" b="178">
+            솜사탕 가판대
+         </color>
+         <br />
+         
+         솜사탕 가판대를 선택한 다음 설치합니다. 솜사탕은 어린 관람객이 즐겨 먹는 대표적인 간식입니다.
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_stt">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_lower">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_xt_ltt">
+         <color r="255" g="248" b="178">
+            치즈케이크 가판대
+         </color>
+         <br />
+         
+         치즈케이크 가판대를 선택한 다음 설치합니다. 어른 관람객은 후식으로 치즈케이크를 즐겨 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_stt">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_lower">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_xt_ltt">
+         <color r="255" g="248" b="178">
+            팝콘 가판대
+         </color>
+         <br />
+         
+         팝콘 가판대를 선택한 다음 설치합니다. 팝콘은 배를 채워 주는 간식으로, 관람객이 갈증을 느끼게 할 수 있습니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_stt">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_lower">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_xt_ltt">
+         <color r="255" g="248" b="178">
+            커피 판매대
+         </color>
+         <br />
+         
+         커피 판매대를 선택한 다음 설치합니다. 어른 관람객은 카페인의 각성 효과를 좋아하며 어린 관람객 중에도 커피를 맛보려는 사람이 있습니다.
+
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_stt">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_lower">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_xt_ltt">
+         <color r="255" g="248" b="178">
+            꼬치구이 판매대
+         </color>
+         <br />
+         
+         꼬치구이 판매대를 선택한 다음 설치합니다. 꼬치구이는 단백질이 풍부하고 가격도 적당한 음식입니다.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_stt">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_lower">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_xt_ltt">
+         <color r="255" g="248" b="178">
+            핫도그 판매대
+         </color>
+         <br />
+         
+         핫도그 판매대를 선택한 다음 설치합니다. 핫도그는 특히 어린 관람객에게 인기가 많은 미국의 대표적인 음식입니다.
+            
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_stt">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_lower">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_xt_ltt">
+         <color r="255" g="248" b="178">
+            햄버거 판매대
+         </color>
+         <br />
+         
+         햄버거 판매대를 선택한 다음 설치합니다. 햄버거는 가격이 적당하고 배도 적당히 채워 줍니다.     
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_stt">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_lower">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_xt_ltt">
+         <color r="255" g="248" b="178">
+            샐러드 판매대
+         </color>
+         <br />
+         
+         샐러드 판매대를 선택한 다음 설치합니다. 어린 관람객은 대체로 샐러드를 좋아하지 않지만 어른 관람객은 아주 좋아합니다.
+            
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_stt">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_lower">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_xt_ltt">
+         <color r="255" g="248" b="178">
+            음료수 판매대
+         </color>
+         <br />
+         
+         음료수 판매대를 선택한 다음 설치합니다. 탄산음료는 대부분의 동물원 관람객에게 가장 인기 있는 음료입니다. 
+           
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_stt">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_lower">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_xt_ltt">
+         <color r="255" g="248" b="178">
+            샌드위치 판매대
+         </color>
+         <br />
+         
+         샌드위치 판매대를 선택한 다음 설치합니다. 고기가 들어간 샌드위치는 흔히 점심으로 즐겨 먹는 음식입니다.
+
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_stt">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_lower">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_xt_ltt">
+         <color r="255" g="248" b="178">
+            초밥 판매대
+         </color>
+         <br />
+         
+         초밥 판매대를 선택한 다음 설치합니다. 초밥은 가격이 비싸며 어린 관람객보다 어른 관람객에게 인기가 많습니다. 
+           
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_stt">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_lower">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_xt_ltt">
+         <color r="255" g="248" b="178">
+            생수 판매대
+         </color>
+         <br />
+         
+         생수 판매대를 선택한 다음 설치합니다. 생수는 관람객의 가장 기본적인 갈증을 해소해 줍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt">멸종 동물 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_stt">멸종 동물 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_lower">멸종 동물 기념품 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:giftcart_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 기념품 가판대
+         </color>
+         <br />
+         
+         
+         멸종 동물 기념품 가판대를 설치합니다. 관람객들은 이곳에서 멸종 동물 기념품을 구입합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter">멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_stt">멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_lower">멸종 동물 연구소</LOC_STRING>
+      <LOC_STRING _locID="entityname:CloningCenter_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 연구소
+         </color>
+         <br />
+         
+         멸종 동물 연구소는 멸종 동물에 관한 활동의 거점입니다. 이곳을 거점으로 화석을 찾고 조립하며, 멸종 동물을 만들고 질병을 치료합니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall">동굴 벽화 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_stt">동굴 벽화 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_lower">동굴 벽화 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavePaintingHall_ltt">
+         <color r="255" g="248" b="178">
+            동굴 벽화 전시관
+         </color>
+         <br />
+         
+         동굴 벽화 전시관을 선택한 다음 설치합니다. 관람객들은 수천 년 전에 사람들이 동물을 어떻게 그렸는지 살펴볼 수 있습니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer">엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_stt">엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_lower">엔터테이너 무대</LOC_STRING>
+      <LOC_STRING _locID="entityname:StageEntertainer_ltt">
+         <color r="255" g="248" b="178">
+            엔터테이너 무대
+         </color>
+         <br />
+         
+         엔터테이너 무대를 선택한 다음 설치합니다. 동물 의상을 입은 직원들이 관람객들을 즐겁게 해줍니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding">공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_stt">공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_lower">공룡 생포 팀 벙커</LOC_STRING>
+      <LOC_STRING _locID="entityname:DinoRecoveryBuilding_ltt">
+         <color r="255" g="248" b="178">
+            공룡 생포 팀 벙커
+         </color>
+         <br />
+         
+         공룡 생포 팀 벙커를 선택한 다음 설치합니다. 꼭대기의 장식용 조각상이 눈에 띄지 않도록 가려 주며, 정예 공룡 생포 팀이 이 건물을 사용합니다.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker">깃발을 꽂은 화석 지점</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_stt">깃발을 꽂은 화석 지점</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_lower">깃발을 꽂은 화석 지점</LOC_STRING>
+      <LOC_STRING _locID="entityname:fossilmarker_ltt">
+         <color r="255" g="248" b="178">
+            깃발을 꽂은 화석 지점
+         </color>
+         <br />
+         
+         깃발을 꽂은 화석 지점을 선택한 다음 배치합니다. 이곳에는 멸종 동물의 화석이 묻혀 있을 수도 있습니다!
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock">도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_stt">도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_lower">도도새 돌</LOC_STRING>
+      <LOC_STRING _locID="entityname:DodoRock_ltt">
+         <color r="255" g="248" b="178">
+            도도새 돌
+         </color>
+         <br />
+         
+         
+         도도새 돌을 선택한 다음 배치합니다. 도도새가 먹이를 소화하는 데 도움이 되는 돌입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny">난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_stt">난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_lower">난쟁이코끼리 통나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:ElephantLog_tiny_ltt">
+         <color r="255" g="248" b="178">
+            난쟁이코끼리 통나무
+         </color>
+         <br />
+         
+         
+         난쟁이코끼리 통나무를 선택한 다음 배치합니다. 난쟁이코끼리만을 위해 만든 동물 놀이 기구입니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier">빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_stt">빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_lower">빙하</LOC_STRING>
+      <LOC_STRING _locID="entityname:Glacier_ltt">
+         <color r="255" g="248" b="178">
+            빙하
+         </color>
+         <br />
+         
+         
+         빙하를 선택한 다음 배치합니다. 우리를 더 춥게 만들어 툰드라, 북방림, 고산 동물들을 만족시킵니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall">안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_stt">안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_lower">안개가 자욱한 샘</LOC_STRING>
+      <LOC_STRING _locID="entityname:MistyWaterfall_ltt">
+         <color r="255" g="248" b="178">
+            안개가 자욱한 샘
+         </color>
+         <br />
+         
+         
+         안개가 자욱한 샘을 선택한 다음 배치합니다. 우리를 더 따뜻하고 습하게 만들어 초원, 습지, 열대우림 동물들을 만족시킵니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit">타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_stt">타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_lower">타르 구덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:TarPit_ltt">
+         <color r="255" g="248" b="178">
+            타르 구덩이
+         </color>
+         <br />
+         
+         
+         타르 구덩이를 선택한 다음 배치합니다. 우리를 더 덥게 만들어 사막, 관목림, 사바나 동물들을 만족시킵니다.
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large">대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_stt">대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_lower">대형 초원 굴</LOC_STRING>
+      <LOC_STRING _locID="entityname:AnimalBurrows_Grasslands_Large_ltt">
+         <color r="255" g="248" b="178">
+            대형 초원 굴
+         </color>
+         <br />
+         대형 초원 굴을 선택한 다음 배치합니다. 포클랜드늑대와 다른 초원 동물들이 은신처로 사용합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter">바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_stt">바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_lower">바위 은신처</LOC_STRING>
+      <LOC_STRING _locID="entityname:LargeExtinctShelter_Shelter_ltt">
+         <color r="255" g="248" b="178">
+            바위 은신처
+         </color>
+         <br />
+         바위 은신처를 선택한 다음 배치합니다. 매우 큰 동물을 위한 대형 은신처입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine">에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_stt">에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_lower">에델바이스</LOC_STRING>
+      <LOC_STRING _locID="entityname:Edelweiss_Alpine_ltt">
+		   <color r="255" g="248" b="178">
+		      에델바이스
+		   </color>
+		   <br />
+		         에델바이스를 선택한 다음 배치합니다. 유럽 고산 지역이 원산지인 꽃입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine">칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_stt">칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_lower">칠레소나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:MonkeyPuzzleTree_Alpine_ltt">
+		   <color r="255" g="248" b="178">
+		      칠레소나무
+		   </color>
+		   <br />
+		         칠레소나무를 선택한 다음 배치합니다. 날카로운 잎이 달린 큰 상록수로, 살아 있는 화석이라고도 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine">바늘풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_stt">바늘풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_lower">바늘풀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Speargrass_Alpine_ltt">
+		   <color r="255" g="248" b="178">
+		      바늘풀
+		   </color>
+		   <br />
+		         바늘풀을 선택한 다음 배치합니다. 뉴질랜드가 원산지인 상록 다년생 식물로, 향기로운 꽃이 핍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert">용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_stt">용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_lower">용설란선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:AgaveCactus_Desert_ltt">
+		   <color r="255" g="248" b="178">
+		      용설란선인장
+		   </color>
+		   <br />
+		         용설란선인장을 선택한 다음 배치합니다. 사막 동물들이 용설란선인장을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert">알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_stt">알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_lower">알로에 베라</LOC_STRING>
+      <LOC_STRING _locID="entityname:AloeVera_Desert_ltt">
+		   <color r="255" g="248" b="178">
+		      알로에 베라
+		   </color>
+		   <br />
+		         알로에 베라를 선택한 다음 배치합니다. 줄기가 없고 잎이 두툼하며 가장자리에 톱니가 있는 사막 식물로, 약초로 쓰이는 것으로 유명합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert">사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_stt">사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_lower">사와로선인장</LOC_STRING>
+      <LOC_STRING _locID="entityname:SaguaroCactus_Desert_ltt">
+		   <color r="255" g="248" b="178">
+		      사와로선인장
+		   </color>
+		   <br />
+		         사와로선인장을 선택한 다음 배치합니다. 중앙아메리카와 북아메리카가 원산지인 멸종 위기 선인장으로, 성장이 느립니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland">네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_stt">네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_lower">네군도단풍나무</LOC_STRING>
+      <LOC_STRING _locID="entityname:BoxElder_Grassland_ltt">
+		   <color r="255" g="248" b="178">
+		      네군도단풍나무
+		   </color>
+		   <br />
+		         네군도단풍나무를 선택한 다음 배치합니다. 북아메리카가 원산지인 단풍나무입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland">데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_stt">데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_lower">데이지 꽃</LOC_STRING>
+      <LOC_STRING _locID="entityname:Daisies_Grassland_ltt">
+		   <color r="255" g="248" b="178">
+		      데이지 꽃
+		   </color>
+		   <br />
+		         데이지 꽃을 선택한 다음 배치합니다. 유럽이 원산지이며 북아메리카에서도 흔히 볼 수 있는 꽃입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland">키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_stt">키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_lower">키 큰 미역취</LOC_STRING>
+      <LOC_STRING _locID="entityname:TallGoldenrod_Grassland_ltt">
+		   <color r="255" g="248" b="178">
+		      키 큰 미역취
+		   </color>
+		   <br />
+		         키 큰 미역취를 선택한 다음 배치합니다. 북아메리카에서 흔히 볼 수 있으며 숲, 풀밭, 언덕은 물론 바위가 많은 곳에서도 자랍니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra">난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_stt">난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_lower">난쟁이 진달래</LOC_STRING>
+      <LOC_STRING _locID="entityname:DwarfAzalea_Tundra_ltt">
+		   <color r="255" g="248" b="178">
+		      난쟁이 진달래
+		   </color>
+		   <br />
+		         난쟁이 진달래를 선택한 다음 배치합니다. 작은 꽃이 많이 모여 피는 것으로 유명한 강인한 식물입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt">멸종 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_stt">멸종 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_lower">멸종 동물 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_xt_ltt">
+		   <color r="255" g="248" b="178">
+		      멸종 동물 벤치
+		   </color>
+		   <br />
+         멸종 동물 벤치를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt">멸종 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_stt">멸종 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_lower">멸종 동물 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_xt_ltt">
+		   <color r="255" g="248" b="178">
+            멸종 동물 기부함
+		   </color>
+		   <br />
+		   멸종 동물 기부함을 선택한 다음 설치합니다. 관람객은 기부함을 찾지 못하면 돈을 기부하지 않으므로 동물원 곳곳에 기부함을 설치해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt">멸종 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_stt">멸종 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_lower">멸종 동물 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_xt_ltt">
+		   <color r="255" g="248" b="178">
+		      멸종 동물 파라솔
+		   </color>
+		   <br />
+         멸종 동물 파라솔을 선택한 다음 설치합니다. 관람객이 그늘에서 쉬고 식사할 수 있는 장소를 제공합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt">멸종 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_stt">멸종 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_lower">멸종 동물 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 그늘 지붕
+         </color>
+         <br />
+         멸종 동물 그늘 지붕을 선택한 다음 설치합니다. 관람객이 그늘에서 편안하게 동물을 관람할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt">멸종 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_stt">멸종 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_lower">멸종 동물 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_xt_ltt">
+		   <color r="255" g="248" b="178">
+		      멸종 동물 가로등
+		   </color>
+		   <br />
+         멸종 동물 가로등을 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt">멸종 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_stt">멸종 동물 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_lower">멸종 동물 쓰레기통 </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 쓰레기통
+         </color>
+         <br />
+         멸종 동물 쓰레기통을 선택한 다음 설치합니다. 관람객이 쓰레기를 버릴 수 있도록 동물원 곳곳에 쓰레기통을 설치해야 합니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt">멸종 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_stt">멸종 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_lower">멸종 동물 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 동상
+         </color>
+         <br />
+         멸종 동물 동상을 선택한 다음 설치합니다. 관람객은 주변 경관과 잘 어울리는 조각상의 아름다움을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt">멸종 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_stt">멸종 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_lower">멸종 동물 아치</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 아치
+         </color>
+         <br />
+         멸종 동물 아치를 선택한 다음 설치합니다. 동물원에서 특정 테마로 꾸민 구역의 길이나 입구를 아름답게 장식할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt">장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_stt">장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_lower">장식용 타르 웅덩이</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_xt_ltt">
+         <color r="255" g="248" b="178">
+            장식용 타르 웅덩이
+         </color>
+         <br />
+         장식용 타르 웅덩이를 설치합니다. 관람객들은 주변 환경과 잘 어울리는 시설물을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt">멸종 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_stt">멸종 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_lower">멸종 동물 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 소리 바위
+         </color>
+         <br />
+         멸종 동물 소리 바위를 선택한 다음 설치합니다. 안에 숨겨진 스피커에서 음악이 흘러나옵니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide">브라키오사우루스 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_stt">브라키오사우루스 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_lower">브라키오사우루스 미끄럼틀</LOC_STRING>
+      <LOC_STRING _locID="entityname:Playground_BrachiosaurusSlide_ltt">
+         <color r="255" g="248" b="178">
+            브라키오사우루스 미끄럼틀
+         </color>
+         <br />
+         브라키오사우루스 미끄럼틀을 설치합니다. 브라키오사우루스 미끄럼틀은 어린이들이 좋아하는 놀이 시설입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt">멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_stt">멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_lower">멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:highextinct_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 테마 울타리
+         </color>
+         <br />
+         멸종 동물 테마 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt">낮은 멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_stt">낮은 멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_lower">낮은 멸종 동물 테마 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowextinct_xt_ltt">
+         <color r="255" g="248" b="178">
+            낮은 멸종 동물 테마 울타리
+         </color>
+         <br />
+         낮은 멸종 동물 테마 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt">멸종 동물 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_stt">멸종 동물 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_lower">멸종 동물 테마 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:extinctwindow_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 동물 테마 창문 울타리
+         </color>
+         <br />
+         멸종 동물 테마 창문 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence">전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_stt">전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_lower">전기 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:electricfence_ltt">
+         <color r="255" g="248" b="178">
+            전기 울타리
+         </color>
+         <br />
+         전기 울타리를 선택한 다음 설치합니다. 약한 전류를 흘려 동물들의 탈출을 막는 강도가 낮은 울타리입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt">멸종 동물 테마 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_stt">멸종 동물 테마 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_lower">멸종 동물 테마 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:path_extinct_xt_ltt">
+		         <color r="255" g="248" b="178">
+		            멸종 동물 테마 길
+		         </color>
+		         <br />
+		         멸종 동물 테마 길을 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.   
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade">진정탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_stt">진정탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_lower">진정탄</LOC_STRING>
+      <LOC_STRING _locID="entityname:Grenade_ltt">
+         <color r="255" g="248" b="178">
+            진정탄
+         </color>
+         <br />
+         원격 진정 장치는 동물을 잠들게 하는 데 사용됩니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble">핫도그</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_stt">핫도그</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_lower">핫도그</LOC_STRING>
+      <LOC_STRING _locID="entityname:Hotdog_Rubble_ltt">
+         <color r="255" g="248" b="178">
+            핫도그
+         </color>
+         <br />
+         가판대의 잔해입니다. 동물들은 핫도그를 가지고 놀고 먹는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood">나무 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_stt">나무 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_lower">나무 조각</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Wood_ltt">
+         <color r="255" g="248" b="178">
+            나무 조각
+         </color>
+         <br />
+         목조 건물의 잔해입니다. 동물들은 잔해를 가지고 노는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete">콘크리트 파편</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_stt">콘크리트 파편</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_lower">콘크리트 파편</LOC_STRING>
+      <LOC_STRING _locID="entityname:Rubble_Fragment_Concrete_ltt">
+         <color r="255" g="248" b="178">
+            콘크리트 파편
+         </color>
+         <br />
+         콘크리트 건물의 파편입니다. 동물들은 파편을 가지고 노는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete">콘크리트 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_stt">콘크리트 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_lower">콘크리트 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_concrete_ltt">
+         <color r="255" g="248" b="178">
+            콘크리트 잔해
+         </color>
+         <br />
+         콘크리트 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df">건물 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_stt">건물 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_lower">건물 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_df_ltt">
+         <color r="255" g="248" b="178">
+            건물 잔해
+         </color>
+         <br />
+         건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end">멸종 위기 동물 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_stt">멸종 위기 동물 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_lower">멸종 위기 동물 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_end_ltt">
+         <color r="255" g="248" b="178">
+            멸종 위기 동물 스타일 잔해
+         </color>
+         <br />
+         멸종 위기 동물 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et">사막 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_stt">사막 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_lower">사막 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 스타일 잔해
+         </color>
+         <br />
+         사막 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt">정글 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_stt">정글 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_lower">정글 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_jt_ltt">
+         <color r="255" g="248" b="178">
+            정글 스타일 잔해
+         </color>
+         <br />
+         정글 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st">사파리 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_stt">사파리 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_lower">사파리 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_st_ltt">
+         <color r="255" g="248" b="178">
+            사파리 스타일 잔해
+         </color>
+         <br />
+         사파리 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt">툰드라 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_stt">툰드라 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_lower">툰드라 스타일 잔해 </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_tt_ltt">
+         <color r="255" g="248" b="178">
+            툰드라 스타일 잔해
+         </color>
+         <br />
+         툰드라 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood">목조 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_stt">목조 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_lower">목조 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_wood_ltt">
+         <color r="255" g="248" b="178">
+            목조 잔해
+         </color>
+         <br />
+         목조 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt">멸종 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_stt">멸종 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_lower">멸종 스타일 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_xt_ltt">
+         <color r="255" g="248" b="178">
+            멸종 스타일 잔해
+         </color>
+         <br />
+         멸종 스타일 건물의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk">파괴된 곤충 전시장</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_stt">파괴된 곤충 전시장</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_lower">파괴된 곤충 전시장</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_InsectKiosk_ltt">
+         <color r="255" g="248" b="178">
+            파괴된 곤충 전시장
+         </color>
+         <br />
+         파괴된 곤충 전시장의 조각들입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal">파괴된 음식 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_stt">파괴된 음식 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_lower">파괴된 음식 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_metal_ltt">
+         <color r="255" g="248" b="178">
+            파괴된 음식 가판대
+         </color>
+         <br />
+         파괴된 음식 가판대의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk">파괴된 파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_stt">파괴된 파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_lower">파괴된 파충류 전시관</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_ReptileKiosk_ltt">
+         <color r="255" g="248" b="178">
+            파괴된 파충류 전시관
+         </color>
+         <br />
+         파괴된 파충류 전시관의 조각들입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural">파괴된 크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_stt">파괴된 크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_lower">파괴된 크기 비교 벽화</LOC_STRING>
+      <LOC_STRING _locID="entityname:rubble_SizeMural_ltt">
+         <color r="255" g="248" b="178">
+            파괴된 크기 비교 벽화
+         </color>
+         <br />
+         파괴된 크기 비교 벽화의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:stump">나무 그루터기</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_stt">나무 그루터기</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_lower">나무 그루터기</LOC_STRING>
+      <LOC_STRING _locID="entityname:stump_ltt">
+         <color r="255" g="248" b="178">
+            나무 그루터기
+         </color>
+         <br />
+         파괴된 나무에서 남은 그루터기입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump">선인장 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_stt">선인장 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_lower">선인장 잔해</LOC_STRING>
+      <LOC_STRING _locID="entityname:cactusstump_ltt">
+         <color r="255" g="248" b="178">
+            선인장 잔해
+         </color>
+         <br />
+         파괴된 선인장의 잔해입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil">발굴 체험장의 뼈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_stt">발굴 체험장의 뼈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_lower">발굴 체험장의 뼈</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fossil_ltt">
+         <color r="255" g="248" b="178">
+            발굴 체험장의 뼈
+         </color>
+         <br />
+         관람객들은 더 큰 퍼즐의 한 조각인 이 뼈를 구경하는 것을 아주 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub">원시인 곤봉</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_stt">원시인 곤봉</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_lower">원시인 곤봉</LOC_STRING>
+      <LOC_STRING _locID="entityname:CavemanClub_ltt">
+         <color r="255" g="248" b="178">
+            원시인 곤봉
+         </color>
+         <br />
+         원시인을 아주 좋아하는 관람객들이 구입하는 재미있고 안전한 모형 곤봉입니다. 가장 엄격한 안전 기준에 맞춰 만들었습니다.
+	</LOC_STRING>
+   
+</ZT2Strings>

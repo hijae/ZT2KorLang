@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_cloning:entry">멸종 동물 생성</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cloning:text">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="60" g="54" b="38">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+			</color>
+		    </cell>  
+		<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">    
+		멸종 동물을 만드는 곳은
+			</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소 </font></color>
+			       </u> 
+			</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+           	입니다.
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		먼저  
+	    </font><a href="zoopedia:zoopedia_fossilfinding:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지 </font></color>
+               </u>
+            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		와  
+	    </font><a href="zoopedia:zoopedia_fossilbuilding:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조립 </font></color>
+               </u>
+            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		을 완료하면 멸종 동물 연구소에서 비용 없이 해당 동물을 생성할 기회가 열립니다! 연구소를 클릭한 다음 정보 패널에서 멸종 동물 생성 탭을 선택하세요. 이미 조립한 동물 목록에서 원하는 동물을 선택하세요. 
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		다음으로 연구소의 플라스마 화면에 나타나는 키보드와 마우스 조합을 살펴보세요. 키보드와 마우스를 사용하여 이 조합을 그대로 입력해야 합니다. 녹색 탐지선이 도달하기 직전에 조합의 각 부분을 입력해야 합니다. 정확성과 타이밍이 중요합니다. 
+		</font><p />
+		    <cell width="600">
+			<color r="60" g="54" b="38">
+			  <img src="UI\fx\traininggestures\cloningcenter_mystery.dds" sx="0" sy="0" sw="0" sh="0" width="64" height="64" />
+			</color>
+		    </cell><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		더 높은 별 등급의 동물을 생성하려고 할 때에는 키 아이콘 대신 ? 아이콘이 나타날 수도 있습니다. 그 자리에 있던 키를 기억하고 탐지선이 도달하면 누르세요. 멸종 동물을 만드는 일이 쉽다고는 하지 않았습니다! 
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		아주 잘하면 선택한 멸종 동물의 슈퍼 개체를 얻습니다. 이런 멸종 동물은 가장 행복하고 건강하며 힘이 세고, 관람객들도 매우 좋아합니다. 잘하면 일반 멸종 동물을 얻습니다. 실패하면 아무도 본 적 없는 동물이 나올 수도 있습니다!
+		</font><p />
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorampage:entry">공룡 난동</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dinorampage:text">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		사육 중인 공룡은 때때로 난동을 부립니다. 이 거대한 동물들이 왜 그렇게 사나워지는지는 아무도 정확히 모릅니다. 하지만 난동을 부리면 울타리, 식물, 동물원 건물 등 길을 막는 거의 모든 것을 파괴할 수 있습니다. 결국 지쳐서 멈추지만, 그전에 수리비가 많이 드는 피해를 일으킵니다. 더 저렴하고 안전하게 난동을 멈추는 방법은 위험한 공룡을 마취하는 것입니다. 직접 행동하는 사육사라면 화면 오른쪽 위의 큰 난동 동물 찾기 단추를 클릭한 다음 공룡의 정보 패널에서 마취 단추를 클릭하세요. 준비되었나요? 그렇다면 마취총을 들고 행동에 나서세요. 표시등이 녹색으로 바뀔 때까지 마취총으로 공룡을 계속 조준해야 합니다. 그런 다음 스페이스바를 눌러 난동을 부리는 공룡을 마취하세요!
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		직접 나서기보다 맡기는 편을 좋아한다면 
+			    </font><a href="zoopedia:zoopedia_dinorecoveryteam:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
+			       </u>
+			    </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		을 불러낼 수 있는 곳은  
+				</font><a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커입니다. </font></color>
+			       </u> 
+				</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		이 팀은 공룡 문제를 대신 해결할 수 있지만, 먼저 장비를 갖춰야 하므로 시간이 좀 걸릴 수도 있습니다. 직접 해결하는 편이 더 빠르고 저렴할 수도 있습니다.             	           	
+		</font><p />
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_diseaseresearch:entry">질병 치료</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_diseaseresearch:text">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="60" g="54" b="38">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+			</color>
+		    </cell>  
+		<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">		
+		동물에게는 때때로 질병이 생깁니다. 다행히 치료법을 연구할 수 있는 
+				</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color> 
+			       </u>  
+				</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		가 있습니다. 동물에게 질병이 생겨 치료가 필요하다는 동물원 메시지가 나타나면 
+				</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color> 
+			       </u>  
+				</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		를 선택한 다음 정보 패널에서 질병 치료 탭을 선택하세요. 단추를 클릭하면 치료제가 될 만한 물건의 표본을 채취하기 시작합니다. 질병 동물 찾기 단추를 클릭한 다음 질병에 걸린 동물의 정보 패널에서 그림을 클릭하여 질병 치료에 들어갈 수도 있습니다.
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		먼저 질병에 걸린 동물에게서 작은 표본을 채취하세요. 연구팀이 표본을 분석하면 치료법을 찾기 위해 무엇이 필요한지 알려 주는 연구소 보고서를 받습니다. H 키를 누르면 정확한 물건을 찾는 데 더 가까워지는 새 보고서를 받을 수 있습니다. 새 연구 보고서를 요청할 때마다 치료법을 찾았을 때 받는 보상이 줄어들므로, 직접 물건을 찾으면 더 많은 돈을 벌 수 있습니다!
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		치료법을 찾으면 1인칭 시점으로 전환하여 동물을 씻기거나 치료할 때와 같은 방법으로 질병을 치료하세요. 사육사에게 치료제를 주면 사육사가 대신 동물을 치료할 수도 있습니다!
+               </font></cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilfinding:entry">화석 탐지</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilfinding:text">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">	
+		    <cell width="600">
+			<color r="60" g="54" b="38">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+			</color>
+		    </cell>  
+		<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		멸종 동물을 생성하는 곳인 
+		</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color> 
+               </u> </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               에서 동물을 만들기 전에 동물원에 묻힌 화석 조각을 찾아야 합니다! 그러려면 
+		</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color> 
+               </u> </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		를 선택하고 정보 패널에서 화석 찾기 탭을 클릭한 다음 화석 탐지를 시작하는 단추를 클릭하세요. 
+		      </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		      이 게임 모드에서는 휴대용 화석 탐지기를 들고 동물원을 돌아다닙니다. 화석 탐지기 가운데의 세로 막대는 땅속의 물체에 가까워지고 있는지 알려 줍니다. 아주 가까워지면 발굴 지점 표시가 자동으로 나타납니다. 스페이스바를 눌러 그 지점을 발굴하거나, 그대로 두고 다른 지점을 계속 찾으세요.   
+		      </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		      수집한 화석은 모두 
+			</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+		       <u>
+			  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color> 
+		       </u> </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">		      
+		      에 보관됩니다. 완전한 화석을 조립할 만큼 조각이 모이면 연구소로 가서 화석 조립 탭과 화석 조립하기 단추를 선택한 다음 
+
+			    </font><a href="zoopedia:zoopedia_fossilbuilding:entry">
+		               <u>
+		                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조립</font></color> 
+		               </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 게임을 시작하세요! </font></a>
+			<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+			화석을 찾고 조립하는 작업을 마치면 마지막 단계로 넘어갈 수 있습니다. 바로 
+			    </font><a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동물 생성입니다</font></color>
+			       </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">! </font></a>
+           	
+		</cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilbuilding:entry">화석 조립</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fossilbuilding:text">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="60" g="54" b="38">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+			</color>
+		    </cell>  
+		<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		먼저  
+			</font><a href="zoopedia:zoopedia_fossilfinding:entry">
+		       <u>
+			  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지</font></color>
+			  </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 게임에서 
+			</font></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+
+		화석 조각을 한 세트 전부 찾았다면, 조각들을 조립하여 멸종 동물의 완전한 골격을 만드세요. 정보 패널에서 화석 조립 탭을 선택한 다음 조립할 멸종 동물을 선택하면 됩니다.
+		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		동물의 골격을 완전히 조립하면 해당 동물의 
+			    </font><a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">생성</font></color>
+			       </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 을 </font></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+	       시도할 수 있습니다. 작업 장소는 
+				</font><a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소입니다</font></color>
+			       </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">. </font></a>
+		<p />
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING> 
+
+   
+</ZT2Strings>

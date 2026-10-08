@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2" />
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2">포상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+포상은 </font><a href="zoopedia:zoopedia_awards:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">상</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 을 수상하거나 </font><a href="zoopedia:zoopedia_challenge:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 게임</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">을 하는 동안 또는 </font><a href="zoopedia:zoopedia_campaign:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">캠페인 게임을 마치면 받을 수 있습니다.</font></color></u></a>
+<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+수상 내역 화면에는 받을 수 있는 모든 포상이 표시됩니다. 수상 내역 화면을 보려면 [동물원 명성] 단추를 클릭한 다음 [수상 내역] 탭을 선택합니다.
+               </font></cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2" />
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2">지프 투어 도로 건설</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+지프 투어를 제공하려면 도로와 1개 이상의 탑승장을 설치해야 합니다. 탑승장 출입구는 관람객이 드나들 수 있도록 인도와 연결되어야 합니다. 투어 노선 건설을 마치면 탑승장이 개장되며 여기서 차량을 구입하게 됩니다.
+</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+모든 도로는 일방통행로이므로 지프는 탑승장에서 진행 방향을 바꿉니다. 도로가 중간에 끊겨서는 안 됩니다.
+               </font></cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2" />
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2">투어</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2">
+         <color r="60" g="54" b="38">
+            <cell pady="0" width="1000" />
+            <p />
+            <cell width="260" />
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+관람객들은 지프나 리프트를 타고 신나는 투어를 즐기고 싶어합니다. 투어가 재미있으면 투어 등급도 올라가고 투어 기부금도 늘어납니다!
+     </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+관람객들은 투어를 즐기는 동안 동물, 동물 은신처, 서식 환경에 어울리는 식물이나 바위, 다양한 스타일의 건물, 분수, 아치, 화단, 관람물(있는 경우) 등 다양한 볼거리를 원합니다.
+     </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+투어를 즐기는 관람객들을 위해 다양한 볼거리를 제공해야 합니다. 투어가 단조로우면 관람객이 지루해 합니다.                           
+               </font></cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

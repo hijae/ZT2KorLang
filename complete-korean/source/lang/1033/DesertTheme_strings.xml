@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityname:bathroomlarge_et">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_et_stt">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_et_lower">대형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomlarge_et_ltt">
+		   <color r="255" g="248" b="178">
+		      대형 화장실
+		   </color>
+		   <br />
+		   대형 화장실을 선택한 다음 설치합니다. 소형 화장실보다 비싸지만 관람객 6명이 함께 이용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_et">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_et_stt">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_et_lower">소형 화장실</LOC_STRING>
+      <LOC_STRING _locID="entityname:bathroomsmall_et_ltt">
+         <color r="255" g="248" b="178">
+            소형 화장실
+         </color>
+         <br />
+         소형 화장실을 선택한 다음 설치합니다. 관람객 한 명이 이용할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_et">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_et_stt">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_et_lower">햄버거 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_burger_et_ltt">
+		         <color r="255" g="248" b="178">
+		            햄버거 판매대
+		         </color>
+		         <br />
+		         햄버거 판매대를 선택한 다음 설치합니다. 햄버거는 가격이 적당하고 배도 적당히 채워 줍니다.     
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_et">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_et_stt">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_et_lower">핫도그 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_hotdog_et_ltt">
+         <color r="255" g="248" b="178">
+            핫도그 판매대
+         </color>
+         <br />
+         핫도그 판매대를 선택한 다음 설치합니다. 핫도그는 특히 어린 관람객에게 인기가 많은 미국의 대표적인 음식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_et">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_et_stt">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_et_lower">샐러드 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_salad_et_ltt">
+		         <color r="255" g="248" b="178">
+		            샐러드 판매대
+		         </color>
+		         <br />
+		         샐러드 판매대를 선택한 다음 설치합니다. 어린 관람객은 대체로 샐러드를 좋아하지 않지만 어른 관람객은 아주 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_et">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_et_stt">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_et_lower">음료수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_soda_et_ltt">
+         <color r="255" g="248" b="178">
+            음료수 판매대
+         </color>
+         <br />
+          음료수 판매대를 선택한 다음 설치합니다. 탄산음료는 대부분의 동물원 관람객에게 가장 인기 있는 음료입니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_et">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_et_stt">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_et_lower">샌드위치 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sub_et_ltt">
+         <color r="255" g="248" b="178">
+            샌드위치 판매대
+         </color>
+         <br />
+          샌드위치 판매대를 선택한 다음 설치합니다. 고기가 들어간 샌드위치는 흔히 점심으로 즐겨 먹는 음식입니다.
+ 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_et">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_et_stt">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_et_lower">초밥 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_sushi_et_ltt">
+         <color r="255" g="248" b="178">
+            초밥 판매대
+         </color>
+         <br />
+          초밥 판매대를 선택한 다음 설치합니다. 초밥은 가격이 비싸며 어린 관람객보다 어른 관람객에게 인기가 많습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_et">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_et_stt">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_et_lower">생수 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_water_et_ltt">
+         <color r="255" g="248" b="178">
+            생수 판매대
+         </color>
+         <br />
+          생수 판매대를 선택한 다음 설치합니다. 생수는 관람객의 가장 기본적인 갈증을 해소해 줍니다.    
+ 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_et">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_et_stt">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_et_lower">꼬치구이 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_shishkabob_et_ltt">
+         <color r="255" g="248" b="178">
+            꼬치구이 판매대
+         </color>
+         <br />
+          꼬치구이 판매대를 선택한 다음 설치합니다. 꼬치구이는 단백질이 풍부하고 가격도 적당한 음식입니다.
+ 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_et">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_et_stt">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_et_lower">커피 판매대</LOC_STRING>
+      <LOC_STRING _locID="entityname:foodstand_coffee_et_ltt">
+         <color r="255" g="248" b="178">
+            커피 판매대
+         </color>
+         <br />
+          커피 판매대를 선택한 다음 설치합니다. 어른 관람객은 카페인의 각성 효과를 좋아하며 어린 관람객 중에도 커피를 맛보려는 사람이 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_et">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_et_stt">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_et_lower">치즈케이크 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cheesecake_et_ltt">
+         <color r="255" g="248" b="178">
+            치즈케이크 가판대
+         </color>
+         <br />
+         치즈케이크 가판대를 선택한 다음 설치합니다. 어른 관람객은 후식으로 치즈케이크를 즐겨 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_et">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_et_stt">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_et_lower">팝콘 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_popcorn_et_ltt">
+         <color r="255" g="248" b="178">
+            팝콘 가판대
+         </color>
+         <br />
+          팝콘 가판대를 선택한 다음 설치합니다. 팝콘은 배를 채워 주는 간식으로, 관람객이 갈증을 느끼게 할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_et">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_et_stt">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_et_lower">프레첼 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_pretzel_et_ltt">
+         <color r="255" g="248" b="178">
+            프레첼 가판대
+         </color>
+         <br />
+          프레첼 가판대를 선택한 다음 설치합니다. 프레첼은 관람객이 갈증을 느끼게 할 수 있습니다.   
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_et">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_et_stt">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_et_lower">솜사탕 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_cottoncandy_et_ltt">
+         <color r="255" g="248" b="178">
+            솜사탕 가판대
+         </color>
+         <br />
+          솜사탕 가판대를 선택한 다음 설치합니다. 솜사탕은 어린 관람객이 즐겨 먹는 대표적인 간식입니다.
+ 
+ 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_et">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_et_stt">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_et_lower">생과일 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_fruitcup_et_ltt">
+         <color r="255" g="248" b="178">
+            생과일 가판대
+         </color>
+         <br />
+          생과일 가판대를 선택한 다음 설치합니다. 많은 관람객은 다른 간식 대신 건강에 좋은 과일을 즐겨 먹습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_et">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_et_stt">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_et_lower">아이스크림 가판대</LOC_STRING>
+      <LOC_STRING _locID="entityname:snackcart_icecream_et_ltt">
+         <color r="255" g="248" b="178">
+            아이스크림 가판대
+         </color>
+         <br />
+          아이스크림 가판대를 선택한 다음 설치합니다. 아이스크림은 동물원의 어린 관람객이 특히 좋아하는 간식입니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_et">사막 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_et_stt">사막 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_et_lower">사막 벤치</LOC_STRING>
+      <LOC_STRING _locID="entityname:bench_et_ltt">
+		   <color r="255" g="248" b="178">
+		      사막 벤치
+		   </color>
+		   <br />
+		         사막 벤치를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_et">사막 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_et_stt">사막 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_et_lower">사막 기부함</LOC_STRING>
+      <LOC_STRING _locID="entityname:DonationBox_et_ltt">
+		   <color r="255" g="248" b="178">
+		            사막 기부함
+		   </color>
+		   <br />
+		   사막 기부함을 선택한 다음 설치합니다. 관람객은 기부함을 찾지 못하면 돈을 기부하지 않으므로 동물원 곳곳에 기부함을 설치해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_et">사막 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_et_stt">사막 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_et_lower">사막 파라솔</LOC_STRING>
+      <LOC_STRING _locID="entityname:umbrellatable_et_ltt">
+		   <color r="255" g="248" b="178">
+		      사막 파라솔
+		   </color>
+		   <br />
+		         사막 파라솔을 선택한 다음 설치합니다. 관람객이 그늘에서 쉬고 식사할 수 있는 장소를 제공합니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_et">사막 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_et_stt">사막 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_et_lower">사막 그늘 지붕</LOC_STRING>
+      <LOC_STRING _locID="entityname:ViewingArea_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 그늘 지붕
+         </color>
+         <br />
+         사막 그늘 지붕을 선택한 다음 설치합니다. 관람객이 그늘에서 편안하게 동물을 관람할 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_et">사막 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_et_stt">사막 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_et_lower">사막 가로등</LOC_STRING>
+      <LOC_STRING _locID="entityname:lamp_et_ltt">
+		   <color r="255" g="248" b="178">
+		      사막 가로등
+		   </color>
+		   <br />
+		         사막 가로등을 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_et">사막 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_et_stt">사막 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_et_lower">사막 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="entityname:trashcan_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 쓰레기통
+         </color>
+         <br />
+         사막 쓰레기통을 선택한 다음 설치합니다. 관람객이 쓰레기를 버릴 수 있도록 동물원 곳곳에 쓰레기통을 설치해야 합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_et">사막 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_et_stt">사막 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_et_lower">사막 동상</LOC_STRING>
+      <LOC_STRING _locID="entityname:Statue_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 동상
+         </color>
+         <br />
+         사막 동상을 선택한 다음 설치합니다. 관람객은 주변 경관과 잘 어울리는 조각상의 아름다움을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_et">사막 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_et_stt">사막 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_et_lower">사막 아치형 입구</LOC_STRING>
+      <LOC_STRING _locID="entityname:PathArch_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 아치형 입구
+         </color>
+         <br />
+         사막 아치형 입구를 선택한 다음 설치합니다. 동물원에서 특정 테마로 꾸민 구역의 길이나 입구를 아름답게 장식할 수 있습니다. 
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_et">사막 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_et_stt">사막 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_et_lower">사막 분수대</LOC_STRING>
+      <LOC_STRING _locID="entityname:Fountain_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 분수대
+         </color>
+         <br />
+         사막 분수대를 선택한 다음 설치합니다. 관람객은 주변 경관과 잘 어울리는 분수대의 아름다움을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_et">사막 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_et_stt">사막 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_et_lower">사막 소리 바위</LOC_STRING>
+      <LOC_STRING _locID="entityname:MusicalRock_et_ltt">
+         <color r="255" g="248" b="178">
+            사막 소리 바위
+         </color>
+         <br />
+         사막 소리 바위를 선택한 다음 설치합니다. 안에 숨겨진 스피커에서 음악이 흘러나옵니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:desertfence">사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertfence_stt">사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertfence_lower">사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertfence_ltt">
+         <color r="255" g="248" b="178">
+            사막 울타리
+         </color>
+         <br />
+         사막 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:lowdesert">낮은 사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowdesert_stt">낮은 사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowdesert_lower">낮은 사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:lowdesert_ltt">
+         <color r="255" g="248" b="178">
+            낮은 사막 울타리
+         </color>
+         <br />
+         낮은 사막 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:desertwindow">사막 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertwindow_stt">사막 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertwindow_lower">사막 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="entityname:desertwindow_ltt">
+         <color r="255" g="248" b="178">
+            사막 창문 울타리
+         </color>
+         <br />
+         사막 창문 울타리를 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="entityname:desert">사막 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:desert_stt">사막 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:desert_lower">사막 길</LOC_STRING>
+      <LOC_STRING _locID="entityname:desert_ltt">
+		         <color r="255" g="248" b="178">
+		            사막 길
+		         </color>
+		         <br />
+		         사막 길을 선택한 다음 설치합니다. 관람객은 동물원에서 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.     
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertfence:entry">사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertfence:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\desert_et\desert_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lowdesert:entry">낮은 사막 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lowdesert:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\lowdesert_et\lowdesert_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertwindow:entry">사막 창문 울타리</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertwindow:text">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <img src="entities\objects\fences\desertwindow_et\desertwindow_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               </font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

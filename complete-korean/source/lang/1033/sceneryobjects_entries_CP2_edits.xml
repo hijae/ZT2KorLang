@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_soundrock" version="9" />
+      <LOC_STRING _locID="zoopedia_soundrock:entry" version="9">음악 바위</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soundrock:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities/objects/scenery/MusicalRock_df/MusicalRock_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/scenery/MusicalRock_jt/MusicalRock_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/scenery/MusicalRock_St/MusicalRock_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities/objects/scenery/MusicalRock_xt/MusicalRock_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">작은 바위 모양의 야외 스피커는 주변 경관과 자연스럽게 어울리면서 관람객에게 색다른 흥미를 줍니다. 관람객은 걸을 때 근처에서 음악이 들리면 좋아합니다.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="9" />
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="9">테마 쓰레기통</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\trashcan_xt\trashcan_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                    
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객이 쓰레기통에 쓰레기를 버리면 관리원들이 쓰레기통을 비웁니다. 쓰레기통이 가득 차 있으면 관람객이 싫어합니다. 주변에 쓰레기통이 없으면 관람객은 길에 쓰레기를 버립니다. 관람객은 테마 시설물을 좋아하며, 특히 투어 중에 구경하는 것을 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp" version="9" />
+      <LOC_STRING _locID="zoopedia_themedlamp:entry" version="9">테마 가로등</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\lamp_jt\lamp_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\lamp_st\lamp_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\lamp_xt\lamp_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공원에 멋진 분위기를 조성해 줍니다. 관람객은 테마 시설물을 좋아하며, 특히 투어 중에 구경하는 것을 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="9" />
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="9">테마 관람 차양</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\ViewingArea_xt\ViewingArea_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객이 지붕 아래에서 동물을 볼 수 있도록 만들어 놓은 시설입니다. 관람객은 그늘 지붕의 테마가 동물 우리와 어울릴 때 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains" version="9" />
+      <LOC_STRING _locID="zoopedia_themedfountains:entry" version="9">테마 분수</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\Fountain_Jt\Fountain_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\Fountain_St\Fountain_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\Fountain_xt\Fountain_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객은 특히 자신이 좋아하는 동물 모양의 분수대를 좋아합니다. 테마 구역은 관람객을 즐겁게 합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue" version="9" />
+      <LOC_STRING _locID="zoopedia_themedstatue:entry" version="9">테마 조각상</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\Statue_Jt\Statue_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\Statue_St\Statue_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\Statue_xt\Statue_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객은 특히 자신이 좋아하는 동물 모양의 동상을 좋아합니다. 투어 중인 관람객은 테마 구역을 구경하는 것을 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench" version="9" />
+      <LOC_STRING _locID="zoopedia_themedbench:entry" version="9">테마 벤치</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\bench_jt\bench_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\bench_st\bench_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\bench_xt\bench_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객이 동물원을 돌아다니다가 지칠 때 주위에 벤치가 있으면 앉아서 쉴 수 있습니다. 지친 관람객은 주위에 벤치가 없으면 불만이 쌓입니다. 투어 중인 관람객은 테마 구역을 구경하는 것을 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch" version="9" />
+      <LOC_STRING _locID="zoopedia_themedarch:entry" version="9">테마 아치</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\PathArch_Jt\PathArch_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\PathArch_St\PathArch_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\PathArch_xt\PathArch_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">주변 지역과 길을 멋지게 장식해 주는 시설입니다. 관람객은 출입문을 지나면서 즐거워합니다. 투어 중인 관람객은 테마 구역을 구경하는 것을 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="9" />
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="9">테마 파라솔 탁자</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\umbrellatable_xt\umbrellatable_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관람객이 동물원에서 구입한 음식물을 앉아서 먹을 수 있는 시설입니다. 관람객은 앉아서 음식을 먹는 것을 좋아하며, 테이블을 찾을 수 없으면 불쾌해합니다. 관람객은 주변 동물 우리와 어울리는 테마로 꾸민 조경 시설물을 특히 좋아합니다.</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox" version="9" />
+      <LOC_STRING _locID="zoopedia_donationbox:entry" version="9">기부함</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox:text" version="9">
+         <cell pady="40" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <br />
+                  <img src="entities/objects/scenery/donationbox_df/donationbox_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\DonationBox_Jt\DonationBox_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\DonationBox_St\DonationBox_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
+                  <img src="entities\objects\scenery\DonationBox_xt\DonationBox_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">기부함 앞면에는 우리에 전시된 동물에 대한 자세한 정보가 설명되어 있습니다. 관람객들은 전시된 동물과 기부함에 설명된 정보를 보고 기부금을 냅니다. 전시된 동물을 좋아하는 관람객일수록 기부할 가능성이 높습니다.</font></color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

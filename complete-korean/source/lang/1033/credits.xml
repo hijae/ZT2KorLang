@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="credits:headingxtralarge">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="40">
+            <color r="255" g="187" b="68" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headinglarge">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="36">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingmedium">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="28">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingsmall">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="20">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingname">
+         <font name="Pretendard" size="28">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingnamemedium">
+         <font name="Pretendard" size="24">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingnamesmall">
+         <font name="Pretendard" size="15">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingxtralarge">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="40">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headinglarge">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="36">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingmedium">
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="28">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingsmall">  
+         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="20">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingname">
+         <font name="Pretendard" size="28">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingnamemedium">
+         <font name="Pretendard" size="24">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingnamesmall">
+         <font name="Pretendard" size="15">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:zoo2">주타이쿤 2</LOC_STRING>
+      <LOC_STRING _locID="credits:devteam">개발팀</LOC_STRING>
+      <LOC_STRING _locID="credits:management">블루 팽 경영진</LOC_STRING>
+      <LOC_STRING _locID="credits:additional">추가 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:microsoftdevteam">마이크로소프트 개발팀</LOC_STRING>
+      <LOC_STRING _locID="credits:executiveproducer">총괄 제작자</LOC_STRING>
+      <LOC_STRING _locID="credits:producer">제작자</LOC_STRING>
+      <LOC_STRING _locID="credits:leaddesigner">수석 디자이너</LOC_STRING>
+      <LOC_STRING _locID="credits:projectmanager">프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:projectartmanager">프로젝트 미술 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:projectdesignmanager">프로젝트 디자인 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:projectengineeringmanager">프로젝트 기술 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:projectqamanager">프로젝트 품질 보증 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:testingmanager">테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:associateproducer">협력 제작자</LOC_STRING>
+      <LOC_STRING _locID="credits:technicaldesigner">기술 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:leadprogrammer">수석 프로그래머 및 설계자</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringleads">수석 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringlead">수석 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:artmanager">미술 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:artdirector">미술 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringdirector">기술 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:artlead">수석 미술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalengineering">추가 기술 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:usertesting">사용자 테스트</LOC_STRING>
+      <LOC_STRING _locID="credits:audiolead">수석 음향 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:audiodirector">음향 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:designlead">수석 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:leadtester">수석 테스터</LOC_STRING>
+      <LOC_STRING _locID="credits:setup">설치</LOC_STRING>
+      <LOC_STRING _locID="credits:printdesignleads">수석 인쇄물 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:additionaldesign">추가 디자인</LOC_STRING>
+      <LOC_STRING _locID="credits:devlead">수석 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:projectartdirector">프로젝트 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:techartdirector">기술 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:techartist">기술 미술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:animationlead">수석 애니메이션 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:designtest">소프트웨어 설계 및 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="credits:designteam">디자인팀</LOC_STRING>
+      <LOC_STRING _locID="credits:pssteam">제품 지원 서비스팀</LOC_STRING>
+      <LOC_STRING _locID="credits:studiomanagement">스튜디오 경영진</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringteam">기술팀</LOC_STRING>
+      <LOC_STRING _locID="credits:artteam">미술팀</LOC_STRING>
+      <LOC_STRING _locID="credits:testing">품질 보증</LOC_STRING>
+      <LOC_STRING _locID="credits:testingteam">테스트팀</LOC_STRING>
+      <LOC_STRING _locID="credits:sound">음향 및 음악 제작</LOC_STRING>
+      <LOC_STRING _locID="credits:production">제작</LOC_STRING>
+      <LOC_STRING _locID="credits:productionassistant">제작 보조</LOC_STRING>
+      <LOC_STRING _locID="credits:marketing">마케팅</LOC_STRING>
+      <LOC_STRING _locID="credits:marketingandpr">마케팅 및 홍보</LOC_STRING>
+      <LOC_STRING _locID="credits:business">사업</LOC_STRING>
+      <LOC_STRING _locID="credits:support">지원</LOC_STRING>
+      <LOC_STRING _locID="credits:ceo">최고 경영자 및 창작 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:coo">최고 운영 책임자</LOC_STRING>
+      <LOC_STRING _locID="credits:president">대표</LOC_STRING>
+      <LOC_STRING _locID="credits:vpsoftware">첨단 기술 부문 부사장</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalweb">추가 웹 콘텐츠 기술 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalanimation">추가 애니메이션 및 미술 제작</LOC_STRING>
+      <LOC_STRING _locID="credits:movies">주타이쿤 2 소개 영상 및 블루 팽 로고 영상</LOC_STRING>
+      <LOC_STRING _locID="credits:programmanager">프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:addprogrammng">추가 프로그램 관리</LOC_STRING>
+      <LOC_STRING _locID="credits:artdirection">미술 감독</LOC_STRING>
+      <LOC_STRING _locID="credits:addart">추가 미술 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:devmanager">개발 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:addprogram">추가 프로그래밍</LOC_STRING>
+      <LOC_STRING _locID="credits:gamedesignmanager">게임 디자인 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:adddesignsupport">추가 게임 디자인 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:businessmanagement">사업 관리</LOC_STRING>
+      <LOC_STRING _locID="credits:userexpteam">사용자 경험팀</LOC_STRING>
+      <LOC_STRING _locID="credits:contentcoordination">콘텐츠 조정</LOC_STRING>
+      <LOC_STRING _locID="credits:webcommunityteam">웹 및 커뮤니티팀</LOC_STRING>
+      <LOC_STRING _locID="credits:playtest">사용성 및 플레이 테스트</LOC_STRING>
+      <LOC_STRING _locID="credits:marketingteam">마케팅팀</LOC_STRING>
+      <LOC_STRING _locID="credits:prteam">홍보팀</LOC_STRING>
+      <LOC_STRING _locID="credits:testmanager">테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="credits:projecttestlead">수석 프로젝트 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:testteam">테스트팀</LOC_STRING>
+      <LOC_STRING _locID="credits:test_temp">품질 보증 임시 테스터</LOC_STRING>
+      <LOC_STRING _locID="credits:windowscompteam">윈도우 호환성팀</LOC_STRING>
+      <LOC_STRING _locID="credits:reconteam">리콘팀</LOC_STRING>
+      <LOC_STRING _locID="credits:setupteam">설치팀</LOC_STRING>
+      <LOC_STRING _locID="credits:studioleads">수석 스튜디오 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:localization">현지화 프로그램 관리</LOC_STRING>
+      <LOC_STRING _locID="credits:irelandteam">아일랜드팀</LOC_STRING>
+      <LOC_STRING _locID="credits:japanteam">일본팀</LOC_STRING>
+      <LOC_STRING _locID="credits:bgsj">비지에스제이</LOC_STRING>
+      <LOC_STRING _locID="credits:koreateam">한국팀</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwanteam">대만팀</LOC_STRING>
+      <LOC_STRING _locID="credits:sbsi">(지멘스 비즈니스 서비스)</LOC_STRING>
+      <LOC_STRING _locID="credits:rad">엠펙 레이어-3 재생 기능은 래드 게임 툴스사의 마일스 사운드 시스템에서 제공합니다. 엠펙 레이어-3 음향 압축 기술은 프라운호퍼 통합회로 연구소와 톰슨 멀티미디어의 사용 허가를 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="credits:miles">마일스 사운드 시스템을 사용합니다. 저작권 © 1991 - 2002 래드 게임 툴스사.</LOC_STRING>
+      <LOC_STRING _locID="credits:bink">빙크 비디오를 사용합니다. 저작권 © 1997 - 2004 래드 게임 툴스사.</LOC_STRING>
+      <LOC_STRING _locID="credits:gamebryo">이 소프트웨어의 일부는 사용 허가를 받아 포함되었습니다. © 1997-2004 뉴메리컬 디자인 유한회사. 모든 권리를 보유합니다. 게임브리오®는 뉴메리컬 디자인 유한회사의 등록 상표입니다.</LOC_STRING>
+      <LOC_STRING _locID="credits:rapan">추가 애니메이션 및 미술 제작: 라판 - www.rapan.com</LOC_STRING>
+      <LOC_STRING _locID="credits:liquid_dev">추가 애니메이션 및 미술 제작: 리퀴드 디벨롭먼트 - www.liquiddevelopment.com</LOC_STRING>
+      <LOC_STRING _locID="credits:new_pencil">주타이쿤 2 소개 영상 및 블루 팽 로고 영상: 뉴 펜슬 - www.newpencil.com</LOC_STRING>
+      <LOC_STRING _locID="credits:dsonic">음악 및 음향 효과: 디소닉 - www.dsonicaudio.com</LOC_STRING>
+      <LOC_STRING _locID="credits:heavymelody">헤비 멜로디 - www.heavymelodymusic.com</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalsound">추가 음향 제공</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalanimationandart">추가 애니메이션 및 미술 제작</LOC_STRING>
+      <LOC_STRING _locID="credits:bluefangthanks">블루 팽이 감사의 마음을 전합니다...</LOC_STRING>
+      <LOC_STRING _locID="credits:friendsfamily1">우리의 가족과 친구들에게,</LOC_STRING>
+      <LOC_STRING _locID="credits:friendsfamily2">큰 힘이 되어 주셔서 감사합니다!</LOC_STRING>
+      <LOC_STRING _locID="credits:soundeffects">음향 효과</LOC_STRING>
+      <LOC_STRING _locID="credits:jeeptrademark">지프®는 다임러크라이슬러사의 등록 상표입니다.</LOC_STRING>
+      <LOC_STRING _locID="credits:zrmanagement">스튜디오 지알 경영진</LOC_STRING>
+      <LOC_STRING _locID="credits:msprojectteam">마이크로소프트 프로젝트팀</LOC_STRING>
+      <LOC_STRING _locID="credits:businessdev">사업 개발</LOC_STRING>
+      <LOC_STRING _locID="credits:msdevteam">마이크로소프트 개발팀</LOC_STRING>
+      <LOC_STRING _locID="credits:msdesignteam">마이크로소프트 디자인팀</LOC_STRING>
+      <LOC_STRING _locID="credits:userresearch">사용자 조사</LOC_STRING>
+      <LOC_STRING _locID="credits:userexperience">사용자 경험</LOC_STRING>
+      <LOC_STRING _locID="credits:printproduction">인쇄물 제작</LOC_STRING>
+      <LOC_STRING _locID="credits:msqateam">마이크로소프트 품질 보증팀</LOC_STRING>
+      <LOC_STRING _locID="credits:tntsupport">티앤티 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:configurationtest">구성 테스트</LOC_STRING>
+      <LOC_STRING _locID="credits:productsupport">제품 지원</LOC_STRING>
+      <LOC_STRING _locID="credits:korealocalteam">한국 현지화팀</LOC_STRING>
+      <LOC_STRING _locID="credits:irelandlocalteam">아일랜드 현지화팀</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwanlocalteam">대만 현지화팀</LOC_STRING>
+      <LOC_STRING _locID="credits:msglobalizationteam">마이크로소프트 국제화팀</LOC_STRING>
+      <LOC_STRING _locID="credits:korea">한국</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwan">대만</LOC_STRING>
+      <LOC_STRING _locID="credits:dublin">더블린</LOC_STRING>
+      <LOC_STRING _locID="credits:back_message">주 메뉴로 돌아가려면 &lt;Esc&gt;나 마우스 왼쪽 단추를 누르세요.</LOC_STRING>
+      <LOC_STRING _locID="credits:testingintern">테스트 인턴</LOC_STRING>
+      <LOC_STRING _locID="credits:artintern">미술 인턴</LOC_STRING>
+      <LOC_STRING _locID="credits:appengineeringlead">수석 응용 프로그램 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:coreengineeringlead">수석 핵심 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="credits:xp2miles">주타이쿤 2: 해양 동물은 마일스 사운드 시스템을 사용합니다. 저작권 © 1991 - 2006 래드 게임 툴스사.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jr_surprenant">제이알 서프르낭</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:adam_levesque">애덤 레베크</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_barlow">제이슨 발로</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_shea">브라이언 셰이</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:fred_galpern">프레드 갤펀</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lou_catanzaro">루 카탄자로</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:alex_chouls">알렉스 촐스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:linda_currie">린다 커리</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steven_serafino">스티븐 세라피노</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bart_simon">바트 사이먼</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:shawn_stone">숀 스톤</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ike_adams">아이크 애덤스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tj_bordelon">티제이 보델론</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steve_gargolinski">스티브 가골린스키</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ralph_hebb">랠프 헵</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:matt_kimmel">맷 킴멜</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_kolenski">마크 콜렌스키</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:nathan_sitkoff">네이선 시트코프</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_wheeler">존 휠러</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_wingrove">데이비드 윙그로브</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:eric_camara">에릭 카마라</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_downey">스콧 다우니</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mitch_fletcher">미치 플레처</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tom_gale">토머스 게일</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andre_gressieux">앙드레 그레시외</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zachary_morong">재커리 모롱</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:karla_zimonja">칼라 지몬야</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:richard_baker">리처드 베이커</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_sopel">댄 소펠</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_freemer">조 프리머</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:charles_miles">찰스 마일스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_triola">스콧 트리올라</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:hank_howie">행크 하위</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:vince_kraft_it">빈스 크래프트 - 정보 기술</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:vince_kraft">빈스 크래프트</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dina_spylios">디나 스필리오스 - 사무실 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ron_clabo">론 클라보</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_lesser">제니퍼 흐라보타 레서</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_clark">마이클 클라크</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_labore">브라이언 라보어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:robert_jerauld">로버트 제럴드 - 수석 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns">디애나 헌스 - 수석 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns_producer">디애나 헌스 - 제작자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_christensen">제니퍼 크리스텐슨 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown">케빈 브라운 - 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:korey_kuriel">코리 큐리엘 - 선임 미술 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stephane_duguay">스테판 뒤게</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier">프랭크 클리어 - 수석 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier_soft_dev_lead">프랭크 클리어 - 수석 소프트웨어 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:aaron_nicholls">애런 니컬스 - 수석 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marc_scattergood">마크 스캐터굿</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti">토머스 주코티 - 게임 디자인 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti_director">토머스 주코티 - 디자인 감독</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:howard_philips">하워드 필립스 - 게임 디자이너</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:james_spahn">제임스 스판 - 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_fos">데이나 포스 - 사용자 경험 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kiki_mcmillan">키키 맥밀런 - 수석 사용자 경험 담당자 및 선임 작가</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kiki_mcmillan_senior_writer">키키 맥밀런 - 선임 작가</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marti_mckenna">마티 맥케나 (볼트) - 편집자 </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:louan_williams">루앤 윌리엄스 - 라이선스 전문가</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dave_pierot">데이브 피에로 - </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:web_content">웹 콘텐츠 및 커뮤니티 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bradley_shelton">브래들리 셸턴 - 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:reagan_wright">레이건 라이트 (블루베어 스튜디오) - </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoopedia_ui_design">주피디아 화면 디자이너</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_ivanov">댄 이바노프 (지멘스 비즈니스 서비스) - </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoopedia_ui_dev">주피디아 화면 개발자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_burdick">마크 버딕 - 수석 사용자 테스트 프로젝트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bill_fulton">빌 풀턴 - 사용자 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ramon_romero">라몬 로메로 - 수석 사용자 테스트 그룹 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ramon_romero_lead">라몬 로메로 - 수석 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_steury">키스 스튜리 - 수석 사용자 테스트 그룹 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:melissa_federoff">멀리사 페더로프</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_burkhead">폴 버크헤드</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:user_test_assist">사용자 테스트 보조</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:adam_kovach">애덤 코바치 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ben_arndt">벤 아른트 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:leslie_mcbride">레슬리 맥브라이드 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jen_martin">젠 마틴 - 홍보 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:humberto_castaneda">움베르토 카스타네다 - 테스트 관리자(퇴직)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:korey_krauskopf">코리 크라우스코프 - 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder">엠 앤드루 바인더 - 수석 소프트웨어 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder_project">앤드루 바인더 - 수석 프로젝트 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bill_metters">빌 메터스 - 선임 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brandon_baker">브랜던 베이커 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brishan_merrillbrown">브리샨 메릴브라운 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones">브라이스 존스 - 소프트웨어 설계 및 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones_test">브라이스 존스 - 선임 프로젝트 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lee">크리스 리 - 소프트웨어 설계 및 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lee_test">크리스 리 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:christopher_singleton">크리스토퍼 싱글턴 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:clint_kreider">클린트 크라이더 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_alenick">데이비드 앨러닉 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_eim">데이비드 아임 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_tunnell">제니퍼 터널 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeremy_williams">제러미 윌리엄스 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_burns">존 번스 - 소프트웨어 설계 및 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_burns_test">존 번스 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_heeren">존 히어런 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_harris">키스 해리스 - 수석 소프트웨어 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marwan_jubran">마르완 주브란 -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:software_design_engineer_test">소프트웨어 설계 및 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marwan_jubran_software">마르완 주브란 - 소프트웨어 설계 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl">폴 에이치 그래드월 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl_senior">폴 그래드월 - 선임 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ty_roberts">타이 로버츠 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:val_miller">밸 밀러 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:julie_carpenter">줄리 카펜터 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller">밸러리 밀러 (볼트)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller_designer">밸러리 밀러 (필터) - 디자이너</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_ascolese">패트릭 애스콜리즈 - 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_ascolese_compatibility">패트릭 애스콜리즈 - 수석 호환성 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_kerns">팀 컨스 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:xi_wu">시 우 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chad_herrewig">채드 헤러위그 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rufus_marshall">루퍼스 마셜 (볼트) - 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:craig_marshall">크레이그 마셜 - 수석 리콘 플레이 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_green">크리스 그린 (볼트) - 리콘 초기 테스트 조정 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic">그레그 프랭코비치 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic_senior">그레그 프랭코비치 - 선임 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:siemens">(지멘스 비즈니스 서비스)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:christopher_guthrie">크리스토퍼 거스리 - 설치 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_brown">제이슨 브라운 - 설치 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_brown_dev">제이슨 브라운 (지멘스 비즈니스 서비스) - 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:julie_mccormack">줄리 맥코맥 - 설치 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:sean_stroud">숀 스트라우드 - 설치 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bonnie_ross">보니 로스 - 스튜디오 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_grande">존 그랜디 - 수석 제품 기획자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_pape">프랭크 페이프 - 사업 개발 감독</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:todd_stevens">토드 스티븐스 - 수석 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kyle_shannon">카일 섀넌 - 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_haveson">라이언 헤이브슨 - 그룹 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stacie_scattergood">스테이시 스캐터굿 - 행정 보조</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek">팀 즈나메나체크 - 그룹 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek_exec">팀 즈나메나체크 - 총괄 제작자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tony_cox">토니 콕스 - 개발 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:victoria_olson">빅토리아 올슨 - 현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_foster">데이비드 포스터 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_ward">그레그 워드 - 선임 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_twomey">존 투미 - 소프트웨어 설계 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_mckevitt">폴 매케빗 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:takayuki_tsuchiya">쓰치야 다카유키 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kazuyuki_kumai">구마이 가즈유키 - 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kaoru_ito">이토 가오루 - 현지화 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yutaka_hasegawa">하세가와 유타카 -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lead_software_design_engineer">수석 소프트웨어 설계 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yuji_yoneshige">요네시게 유지 - 수석 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:munetaka_fuse">후세 무네타카 - 소프트웨어 설계 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:sachiko_nagasawa">나가사와 사치코 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kenichi_akiyama">아키야마 겐이치 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:miyuki_nouguchi">노구치 미유키 - 사용자 교육</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mariko_kikuchi">기쿠치 마리코 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masaki_kokubun">고쿠분 마사키 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:fujiko_okabe">오카베 후지코 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kazuya_kakizaki">가키자키 가즈야 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masayo_ohara">오하라 마사요 - 프로그램 관리자 보조</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yumiko_furukawa">후루카와 유미코 - 행정 보조</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:atsushi_hori">호리 아쓰시 - 지식 재산 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:aya_kazama">가자마 아야 - 마케팅</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yoko_muto">무토 요코</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:junichi_taya">다야 준이치</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_riley">패트릭 라일리</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ikuyo_tsukuda">쓰쿠다 이쿠요</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masayuki_kurasawa">구라사와 마사유키</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yukihiko_kinoshita">기노시타 유키히코</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:miyuki_iwai">이와이 미유키</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:hiroko_hirotani">히로타니 히로코</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yoko_ohsine">오시네 요코</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasuhiro_miyahara">미야하라 야스히로</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:il_jin_park">박일진 (와이즈 서테크) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:software_test_engineer">소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jae_youn_kim">김재연 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:whi_young_yoon">윤휘영 (와이즈 서테크) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:localization_program_manager">현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:byung_soo_kim">김병수 - 마케팅 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:carole_lin">캐럴 린 (104) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng">라나 펑 - 수석 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng_program_manager">라나 펑 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lilia_lee">릴리아 리 (104) - 테스터</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lilia_lee_test_associate">릴리아 리 (104) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wenchin_deng">원친 덩 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:name">이름</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns_program">디애나 헌스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wesley_yanagi">웨슬리 야나기</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier_name">프랭크 클리어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown_lead">케빈 브라운</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jim_hawk_name">짐 호크</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mike_cody">마이크 코디</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bob_settles_lead">밥 세틀스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller_add">밸러리 밀러 (필터)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_foss_ux">데이나 포스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_bell_ux">켈리 벨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_sutherland">존 서덜랜드</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeannie_voirin-gerde">지니 보이린거드</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_goebel_test">케빈 괴벨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_amdur">댄 암두르</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder_name">앤드루 바인더</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_duzmal_project">팀 두즈멀</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:prodipto_roy_test">프로디프토 로이</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_kafer_test">제프 케이퍼</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:justin_jones_test">저스틴 존스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl_test">폴 그래드월</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones_name">브라이스 존스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dennis_ham">데니스 햄 (볼트)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic_pss">그레그 프랭코비치</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:phil_spencer">필 스펜서</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bonnie_ross_name">보니 로스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek_name">팀 즈나메나체크</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:shannon_loftis">섀넌 로프티스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:laura_fryer">로라 프라이어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:caesar_filori">시저 필로리</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:muffy_bryan">머피 브라이언</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti_studio">토머스 주코티</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tony_cox_studio">토니 콕스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown_studio">케빈 브라운</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_pape_studio">프랭크 페이프</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:todd_stevens_studio">토드 스티븐스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kyle_shannon_studio">카일 섀넌</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasmine_nelson_local">야스민 넬슨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steven_garrad">스티븐 개러드</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:redmond_ohanlon_local">레드먼드 오핸런</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ian_walsh">이언 월시</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tina_lin">티나 린</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rita_thiede">리타 티데</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jae_youn_kim_local">김재연</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:min_woo_lee">이민우</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng_local">라나 펑</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wen-chin_deng">원친 덩</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_macmillan">스콧 맥밀런</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_scott">켈리 스콧</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_bray">케빈 브레이</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:douglas_dasilva">더그 다실바</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_dill">케빈 딜</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_finch">마크 핀치</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_johnson">마이클 존슨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_mcmahon">라이언 맥마흔</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_ramsey">마이클 램지</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bernie_rissmiller">버니 리스밀러</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bj_johnson">비제이 존슨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:leonardo_montenegro">레오나르도 몬테네그로</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_carpentier">키스 카펜티어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rich_vanderscoff">리치 밴더스코프</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stephan_wenninger">슈테판 베닝거</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeanpaul_lebreton">장폴 르브르통</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:george_valavanis">조지 발라바니스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rob_harrington">롭 해링턴 - 정보 기술</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jay_dee_alley">제이 디 앨리</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rapan">라판 - www.rapan.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:liquid_dev">리퀴드 디벨롭먼트 <br /> www.liquiddevelopment.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:new_pencil">뉴 펜슬 - www.newpencil.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dsonic">디소닉 - www.dsonicaudio.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoo_new_england">뉴잉글랜드 동물원 협회</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:franklin_park_zoo">프랭클린 파크 동물원</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:corporate_catering">기업 식음료 서비스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brandon_stander">브랜던 스탠더 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jim_hawk">짐 호크 - 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_major">제이슨 메이저 - 수석 소프트웨어 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bob_settles">밥 세틀스 - 수석 게임 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_goebel">케빈 괴벨 - 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_foss">데이나 포스 - 사용자 경험 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_bell">켈리 벨 - 수석 사용자 경험 담당자 및 편집자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_groce">제이슨 그로스 - 작가</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lassen">크리스 래슨</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_jones">그레그 비 존스 - 그룹 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_duzmal">팀 두즈멀 - 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:justin_jones">저스틴 존스 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_kafer">제프 케이퍼 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:prodipto_roy">프로디프토 로이 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_djorgee">조 조지 - 예비 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:cody_roesch">코디 로시 (엑셀 데이터) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:erik_anderson">에릭 앤더슨 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_vincenzi">조 빈첸지 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mike_ruete">마이크 루티 - 소프트웨어 설계 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_miller">스콧 밀러 (볼트) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:titus_lowell">타이터스 로웰 (볼트) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:blake_dodson">블레이크 도드슨 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_osgood_graver">마이클 오스굿그레이버 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:craig_henry">크레이그 헨리 - 수석 소프트웨어 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:diana_leon">디애나 레온</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasmine_nelson">야스민 넬슨 - 수석 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:in_goo_kown">권인구 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:soo_gyeong_jo">조수경 (와이즈 서테크) - 현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dupre_deng">듀프리 덩 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_wang">제프 왕 (104) - 현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:daniel_huang">대니얼 황 (104) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:enda_kelly">엔다 켈리 - 테스트팀 수석 담당자</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:redmond_ohanlon">레드먼드 오핸런 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:levente_vero">레벤테 베로 - 현지화 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_stokes">데이비드 스토크스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_ratta">브라이언 라타</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_mcclure">라이언 맥클루어</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_bouchard">앤드루 부샤르</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thiago_oliveira">치아구 올리베이라</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kirk_longendyke">커크 롱언다이크</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:oleg_bayborodin">올레크 바이보로딘</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_higgins">댄 히긴스</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_tohline">크리스 톨라인</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:calvin_barreto">캘빈 바레토</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:troy_annichiarico">트로이 아니키아리코</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dylan_decoster">딜런 디코스터</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:vlad_paul">블라드 폴</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andy_bouchard">앤디 부샤르</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:evan_goncalo">에번 곤살루</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bill_schofield">빌 스코필드</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:justin_jones_2">저스틴 존스</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Project_Team">마이크로소프트 프로젝트팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Production">제작</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Deanna_Hearns">디애나 헌스 - 제작자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Marketing">마케팅</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dan_Amdur">댄 암두르 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Business_Development">사업 개발</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jim_Hawk">짐 호크 - 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Development_Team">마이크로소프트 개발팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Frank_Klier">프랭크 클리어 - 수석 소프트웨어 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Design_Team">마이크로소프트 디자인팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Thomas_Zuccotti">토머스 주코티 - 디자인 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bob_Settles">밥 세틀스 - 수석 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Valerie_Miller">밸러리 밀러 (필터) - 디자인 보조</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Audio_Team">마이크로소프트 음향팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Caesar_Filori">시저 필로리 - 음향 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Cody">마이크 코디 - 음향 제작 보조</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Art_Team">마이크로소프트 미술팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kevin_Brown">케빈 브라운 - 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Doug_McBride">더그 맥브라이드 - 수석 미술 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:User_Research">사용자 조사</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kevin_Goebel">케빈 괴벨 - 수석 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Nichols">팀 니컬스 - 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:User_Experience">사용자 경험</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dana_Fos">데이나 포스 - 사용자 경험 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kelly_Bell">켈리 벨 - 수석 사용자 경험 담당자 및 편집자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Heidi_Wartelle">하이디 워텔 - 편집자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Sutherland">존 서덜랜드 - 작가</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steve_Barnes">스티브 반스 - 작가</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Print_Production">인쇄물 제작</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Lassen">크리스 래슨 - 수석 문서 디자인 담당자 </LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Raquel_Robertson">라켈 로버트슨 - 그래픽 디자이너 (삭슨 앤드 테일러 현장팀)</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Quality_Assurance_Team">마이크로소프트 품질 보증팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_B_Jones">그레그 비 존스 - 그룹 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyle_Shannon">카일 섀넌 - 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Daland_Davis">댈런드 데이비스 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Andrew_Binder">앤드루 바인더 - 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Duzmal">팀 두즈멀 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Paul_Gradwohl">폴 그래드월 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bryce_Jones">브라이스 존스 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mark_Amos">마크 에이머스 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Justin_Jones">저스틴 존스 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Carolyn_Gold">캐럴린 골드 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steve_Robinson">스티브 로빈슨 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Michael_McCormack">마이클 맥코맥 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_Hjertager">그레그 예르타거 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ted_Keith">테드 키스 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Thomas">존 토머스 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Joe_Djorgee">조 조지 - 예비 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Craig_Marshall">크레이그 마셜 - 예비 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Colin_Forbes">콜린 포브스 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Grayson_Nootenboom">그레이슨 누턴붐 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Nicholas_Roth">니컬러스 로스  (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Benjamin_Folden">벤저민 폴든 (볼트)  - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Donnie_Taylor">도니 테일러 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Sarah_Bowman">세라 보먼 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:TnT_Support">티앤티 지원</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Lee">크리스 리 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jon_Burns_test">존 번스 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Marwan_Jubran">마르완 주브란 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Ruete">마이크 루티 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kazuyuki_Shibuya">시부야 가즈유키 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Configuration_Testing">구성 테스트</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Patrick_Ascolese">패트릭 애스콜리즈 - 수석 호환성 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jon_Burns">존 번스 - 수석 호환성 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Grodin_TnT">마이크 그로딘 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ernest_Wu">어니스트 우 (엑셀 데이터) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyle_OBrien">카일 오브라이언 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Setup_Team">설치팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dennis_Ham">데니스 햄 (볼트) - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Gabriel_Sipos">가브리엘 시포시 (지멘스 비즈니스 서비스) - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Product_Support">제품 지원</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_Frankovic">그레그 프랭코비치 - 선임 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Diana_Leon">디애나 레온 - 수석 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Globalization_Teams">마이크로소프트 국제화팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Yasmine_Nelson">수석 국제 프로그램 관리자 - 야스민 넬슨</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tina_Lin">국제 프로그램 관리자 - 티나 린</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Korea">한국</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jae_Youn_Kim">김재연 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jun_Hyeong_Kim">김준형 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyoung_Han_Yoon">윤경한 - 현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Taiwan">대만</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Lana_Peng">라나 펑 - 수석 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:WenChin_Deng">원친 덩 - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Aha_Chiu">아하 추 (104) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Sean_Wu">숀 우 (104) - 현지화 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dublin">더블린</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tom_McManamon">톰 맥매너먼 - 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Enda_Kelly">엔다 켈리 - 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steven_Garrad">스티븐 개러드 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Barry_OSullivan">배리 오설리번 - 사용자 경험</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Website_Production">웹사이트 제작 </LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dave_Pierot">데이브 피에로 - 수석 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Peoples">존 피플스 - 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jason_Carl">제이슨 칼 - 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Andrea_Drougas">앤드리아 드루거스 (필터) - 국제 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Anne_Morency">앤 머런시 (삭슨 앤드 테일러) - 콘텐츠 작가</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jeannie_VoirinGerde">지니 보이린거드 - 수석 웹 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jason_Graf">제이슨 그라프 - 수석 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Barney">크리스 바니 (지멘스 비즈니스 서비스) - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Susan_Clark">수전 클라크 (볼트) - 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Publishing_Management_Team">배급 관리팀</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bonnie_Ross">보니 로스 - 제작 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ken_Lobb">켄 롭 - 창작 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Znamenacek">팀 즈나메나체크 - 총괄 제작자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Laura_Fryer">로라 프라이어 - 총괄 제작자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tony_Cox">토니 콕스 - 개발 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kiki_Wolfkill">키키 울프킬 - 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Josh_Atkins">조시 앳킨스 - 디자인 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Guy_Whitmore">가이 휘트모어 - 음향 감독</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Todd_Stevens">토드 스티븐스 - 그룹 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Frank_Pape">프랭크 페이프 - 선임 사업 개발 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Production">제작</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Tanya_Erwin">타냐 어윈 - 제작자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Deanna_Hearns">디애나 헌스 - 제작자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Marketing">마케팅</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jason_Ing">제이슨 잉 - 제품 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Business_Development">사업 개발</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jim_Hawk">짐 호크 - 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Development">마이크로소프트 개발팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Frank_Klier">프랭크 클리어 - 수석 소프트웨어 개발 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Design">마이크로소프트 디자인팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Thomas_Zuccotti">토머스 주코티 - 디자인 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Bob_Settles">밥 세틀스 - 수석 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Audio">마이크로소프트 음향팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Caesar_Filori">시저 필로리 - 음향 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mike_Cody">마이크 코디 - 수석 음향 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Art">마이크로소프트 미술팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kevin_Brown">케빈 브라운 - 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Doug_McBride">더그 맥브라이드 - 수석 미술 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:User_Research">사용자 조사</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kevin_Goebel">케빈 괴벨 - 수석 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kevin_Keeker">케빈 키커 - 수석 사용자 조사 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:User_Experience">사용자 경험</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kelly_Bell">켈리 벨 - 사용자 경험 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Heidi_Hendricks">하이디 헨드릭스 - 수석 사용자 경험 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jon_Seal">존 실 - 작가</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Christine_Clifton">크리스틴 클리프턴손턴 (삭슨 앤드 테일러) - 작가 및 편집자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Print_Production">인쇄물 제작</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Chris_Lassen">크리스 래슨 - 수석 문서 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Doug_Startzel">더그 스타첼 (럭스 그룹) - 문서 디자인</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Quality">마이크로소프트 품질 보증팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Greg_B">그레그 비 존스 - 그룹 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kyle_Shannon">카일 섀넌 - 테스트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Daland_Davis">댈런드 "댈바노어" 데이비스 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mark_Amos">마크 에이머스 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Carolyn_Gold">캐럴린 골드 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Brian_Yu">브라이언 유 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Derek_Mantey">데릭 맨티 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Steve_Robinson">스티브 로빈슨 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Michael_McCormack">마이클 맥코맥 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Greg_Hjertager">그레그 예르타거 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mike_Grodin">마이크 그로딘 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Alison_Burkley">앨리슨 버클리 (엑셀 데이터) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Brett_Dupree">브렛 듀프리 (볼트) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:John_Thomas">존 토머스 (볼트) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Sarah_Bowman">세라 보먼 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Craig_Marshall">크레이그 마셜 - 예비 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mark_McAllister">마크 맥앨리스터 - 수석 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Colin_Forbes">콜린 포브스 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Grayson_Nootenboom">그레이슨 누턴붐 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Nicholas_Roth">니컬러스 로스 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Benjamin_Folden">벤저민 폴든 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Donnie_Taylor">도니 테일러 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Ann_Thomas">앤 토머스 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Chad_Hale">채드 헤일 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kevin_Sherard">케빈 셰러드 (볼트) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Ross_Little">로스 리틀 (엑셀 데이터) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Stephen_Bonikowsky">스티븐 보니코스키 (엑셀 데이터) - 테스트 협력 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:XNA_Game">엑스엔에이 게임 플랫폼 확장 기능</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Chris_Lee">크리스 리 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jon_Burns_Test">존 번스 - 수석 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Marwan_Jubran">마르완 주브란 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mike_Ruete">마이크 루티 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kazuyuki_Shibuya">시부야 가즈유키 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Configuration_Testing">구성 테스트</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Patrick_Ascolese">패트릭 애스콜리즈 - 수석 호환성 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jon_Burns">존 번스 - 수석 호환성 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Mike_Grodin_Config">마이크 그로딘 - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Ernest_Wu">어니스트 우 (엑셀 데이터) - 소프트웨어 테스트 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kyle_OBrien">카일 오브라이언 (볼트) - 소프트웨어 테스트 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Setup_Team">설치팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Brandon_Burlison">브랜던 벌리슨 - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Gabriel_Sipos">가브리엘 시포시 (지멘스 비즈니스 서비스) - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Product_Support">제품 지원</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Greg_Frankovic">그레그 프랭코비치 - 선임 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Diana_Leon">디애나 레온 - 수석 기술 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Microsoft_Globalization">마이크로소프트 국제화팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Yasmine_Nelson">야스민 넬슨 - 수석 국제 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Tina_Lin">티나 린 - 국제 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Dublin">더블린</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Gary_Smith">게리 스미스 - 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Enda_Kelly">엔다 켈리 - 수석 테스트 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Steven_Garrad">스티븐 개러드 - 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Francesco_Sansone">프란체스코 산소네 - 테스터</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Ben_Cahill">벤 케이힐 - 국제 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Website_Production">웹사이트 제작</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Dave_Pierot">데이브 피에로 - 수석 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:John_Peoples">존 피플스 - 사이트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jeannie_Voirin">지니 보이린거드 - 수석 웹 디자인 담당자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Matt_Sokolowski">맷 소콜로스키 (불비전 커뮤니케이션즈) - 웹 디자인</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Daniel_Hailemariam">대니얼 하일레마리암 (럭스 그룹) - 웹 제작</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Jason_Graf">제이슨 그라프 - 수석 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Chris_Barney">크리스 바니 (지멘스 비즈니스 서비스) - 소프트웨어 개발 엔지니어</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Susan_Clark">수전 클라크 (볼트) - 프로젝트 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Tina_Lin_Website">티나 린 - 국제 프로그램 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Publishing_Management">배급 관리팀</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Bonnie_Ross">보니 로스 - 총괄 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Phil_Spencer">필 스펜서 - 총괄 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Ken_Lobb">켄 롭 - 창작 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Laura_Fryer">로라 프라이어 - 총괄 제작자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Tony_Cox">토니 콕스 - 개발 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Kiki_Wolfkill">키키 울프킬 - 미술 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Josh_Atkins">조시 앳킨스 - 디자인 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Guy_Whitmore">가이 휘트모어 - 음향 감독</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Todd_Stevens">토드 스티븐스 - 그룹 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Nick_Dimitrov">닉 디미트로프 - 그룹 사업 관리자</LOC_STRING>
+      <LOC_STRING _locID="cp2MSteamnames:Frank_Pape">프랭크 페이프 - 선임 사업 개발 감독</LOC_STRING>
+</ZT2Strings>

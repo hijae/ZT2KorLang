@@ -1,0 +1,741 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="In Game Options Shell">
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+   <UIState active="normal" visible="HIDDEN" />
+   <UIAspect>
+      <default />
+   </UIAspect>
+   <children>
+      <UILayout name="In Game Options" modal="true">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len" />
+         <UIState active="normal" visible="hidden" />
+         <UIAspect string="" alwayshit="true">
+            <default image="ui\shared\white1x1.dds">
+               <BFColor r="0" g="0" b="0" a="128" />
+            </default>
+         </UIAspect>
+         <UIHotKeys>
+            <file name="UI/hotkeys/hotkeys.xml" node="esctextcancel" />
+         </UIHotKeys>
+         <show>
+            <event msg="UI_SEND_NAMED_EVENTS" data="BFString" string="pause" />
+         </show>
+         <hide>
+            <event msg="UI_SEND_NAMED_EVENTS" data="BFString" string="unpause" />
+         </hide>
+         <children>
+            <UILayout name="in game options layout" template="blank">
+               <UIRegion x="320" y="128" w="385" h="382" xalign="min" yalign="min" walign="len" halign="len" />
+               <UIState active="normal" visible="normal" />
+               <UIShowHideAnim time=".2f">
+                  <start x="513" y="391" w="0" h="0" />
+                  <end x="320" y="128" w="385" h="382" />
+                  
+                  <_start x="-438" y="0" w="-1" h="-1" />
+                  <_end x="0" y="0" w="-1" h="-1" />
+               </UIShowHideAnim>
+               <UIAspect>
+                  <default image="">
+                     <BFRect x="0" y="0" w="385" h="382" />
+                     <BFColor r="255" g="255" b="255" a="255" />
+                  </default>
+               </UIAspect>
+               <children>
+                  <UILayout name="top header bar" template="header">
+                     <UIRegion x="0" y="0" w="0" h="30" xalign="min" yalign="min" walign="max" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                  </UILayout>
+                  <UILayout name="well graphics" template="panelwell">
+                     <UIRegion x="62" y="98" w="260" h="245" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="" />
+                     </UIAspect>
+                  </UILayout>
+                  <UILayout name="logo">
+                     <UIRegion x="140" y="14" w="90" h="90" xalign="min" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect>
+                        <default image="ui\shared\zoo2logo.dds" />
+                     </UIAspect>
+                  </UILayout>
+                  <UIText name="Options Menu Label">
+                     <UIRegion x="4" y="1" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_label">
+                        <default image="" sound="">
+                           <BFFont>
+                              <BFColor r="255" g="248" b="178" a="255" />
+                           </BFFont>
+                           <BFRect x="0" y="0" w="0" h="0" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <normal />
+                     </UIAspect>
+                     <UIHotKeys />
+                  </UIText>
+                  <UIStatic name="Cancel Shadow">
+                     <UIRegion x="-1" y="73" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_cancel">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="128" />
+                              </BFFont>
+                           </normal>
+                        </standard>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="Exit Shadow">
+                     <UIRegion x="-1" y="63" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_exit">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="128" />
+                              </BFFont>
+                           </normal>
+                        </standard>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="Load Shadow">
+                     <UIRegion x="-1" y="52" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_load">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="128" />
+                              </BFFont>
+                           </normal>
+                        </standard>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="Save Shadow">
+                     <UIRegion x="-1" y="40" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_save">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="128" />
+                              </BFFont>
+                           </normal>
+                        </standard>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="Return To Main Menu Shadow">
+                     <UIRegion x="-1" y="28" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_mainmenu">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="128" />
+                              </BFFont>
+                           </normal>
+                        </standard>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIHoverButton name="TextButton Cancel Hover">
+                     <UIRegion x="0" y="72" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_cancel">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="255" g="197" b="78" a="255" />
+                              </BFFont>
+                           </normal>
+                           <disabled />
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <enter>
+                        <event msg="UI_CHILD" data="UIChildData" name="TextButton Cancel">
+                           <child msg="UI_SHOW" />
+                        </event>
+                     </enter>
+                  </UIHoverButton>
+                  <UIHoverButton name="TextButton Cancel">
+                     <UIRegion x="0" y="72" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIShowHideAnim time=".01" exitRate=".02">
+                        <colors text="true">
+                           <start r="255" g="197" b="78" a="255" />
+                           <end r="255" g="255" b="201" a="255" />
+                        </colors>
+                     </UIShowHideAnim>
+                     <UIState active="normal" visible="hidden" />
+                     <UIAspect locid="shell:ingameoptions_cancel">
+                        <default image="">
+                           <BFFont align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="255" g="197" b="78" a="255" />
+                              </BFFont>
+                           </normal>
+                           <highlighted>
+                              <BFFont>
+                                 <BFColor r="255" g="255" b="201" a="255" />
+                              </BFFont>
+                           </highlighted>
+                           <activated>
+                              <BFFont>
+                                 <BFColor r="255" g="255" b="0" a="255" />
+                              </BFFont>
+                           </activated>
+                           <disabled />
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                     </activate>
+                     <leave>
+                        <event msg="UI_CHILD" data="UIChildData" name="TextButton Cancel">
+                           <child msg="UI_HIDE" />
+                        </event>
+                     </leave>
+                  </UIHoverButton>
+                  <UIHoverButton name="TextButton Save Hover">
+                     <UIRegion x="0" y="39" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIAspect locid="shell:ingameoptions_save">
+                        <default image="">
+                           <BFFont name="Pretendard" size="16" align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="255" g="197" b="78" a="255" />
+                              </BFFont>
+                           </normal>
+                           <disabled>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="0" />
+                              </BFFont>
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <enter>
+                        <event msg="UI_CHILD" data="UIChildData" name="TextButton Save">
+                           <child msg="UI_SHOW" />
+                        </event>
+                     </enter>
+                  </UIHoverButton>
+                  <UIHoverButton name="TextButton Save">
+                     <UIRegion x="0" y="39" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                     <UIShowHideAnim time=".01" exitRate=".02">
+                        <colors text="true">
+                           <start r="255" g="197" b="78" a="255" />
+                           <end r="255" g="255" b="201" a="255" />
+                        </colors>
+                     </UIShowHideAnim>
+                     <UIState active="normal" visible="hidden" />
+                     <UIAspect locid="shell:ingameoptions_save">
+                        <default image="">
+                           <BFFont name="Pretendard" size="16" align="center" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFFont>
+                                 <BFColor r="255" g="197" b="78" a="255" />
+                              </BFFont>
+                           </normal>
+                           <highlighted>
+                              <BFFont>
+                                 <BFColor r="255" g="255" b="201" a="255" />
+                              </BFFont>
+                           </highlighted>
+                           <activated>
+                              <BFFont>
+                                 <BFColor r="255" g="255" b="0" a="255" />
+                              </BFFont>
+                           </activated>
+                           <disabled>
+                              <BFFont>
+                                 <BFColor r="64" g="64" b="64" a="0" />
+                              </BFFont>
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                           <child msg="UI_HIDE" />
+                        </event>
+                        <event msg="ZT_SETMODE" data="BFString" string="mode_save" />
+                     </activate>
+                     <leave>
+                        <event msg="UI_CHILD" data="UIChildData" name="TextButton Save">
+                           <child msg="UI_HIDE" />
+                        </event>
+                     </leave>
+                  </UIHoverButton>
+                  <UILayout name="exit with save option">
+                     <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                     <children>
+                        <UIHoverButton name="TextButton Exit Hover">
+                           <UIRegion x="0" y="62" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="shell:ingameoptions_exit">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <enter>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Exit">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </enter>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Exit">
+                           <UIRegion x="0" y="62" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIShowHideAnim time=".01" exitRate=".02">
+                              <colors text="true">
+                                 <start r="255" g="197" b="78" a="255" />
+                                 <end r="255" g="255" b="201" a="255" />
+                              </colors>
+                           </UIShowHideAnim>
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="shell:ingameoptions_exit">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <highlighted>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="201" a="255" />
+                                    </BFFont>
+                                 </highlighted>
+                                 <activated>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="0" a="255" />
+                                    </BFFont>
+                                 </activated>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="UI_CHILD" data="UIChildData" name="Confirm Dialog">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="Exit Game layout">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </activate>
+                           <leave>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Exit">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </leave>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Return Hover">
+                           <UIRegion x="0" y="27" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="shell:ingameoptions_mainmenu">
+                              <default image="">
+                                 <BFFont align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled>
+                                    <BFFont>
+                                       <BFColor r="100" g="100" b="100" a="255" />
+                                    </BFFont>
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <enter>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Return To MainMenu">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </enter>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Return To MainMenu">
+                           <UIRegion x="0" y="27" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIShowHideAnim time=".01" exitRate=".02">
+                              <colors text="true">
+                                 <start r="255" g="197" b="78" a="255" />
+                                 <end r="255" g="255" b="201" a="255" />
+                              </colors>
+                           </UIShowHideAnim>
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="shell:ingameoptions_mainmenu">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" underline="0" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <highlighted>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="201" a="255" />
+                                    </BFFont>
+                                 </highlighted>
+                                 <activated>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="0" a="255" />
+                                    </BFFont>
+                                 </activated>
+                                 <disabled>
+                                    <BFFont>
+                                       <BFColor r="100" g="100" b="100" a="255" />
+                                    </BFFont>
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="UI_CHILD" data="UIChildData" name="return_mainmenu">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </activate>
+                           <leave>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Return To MainMenu">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </leave>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Load Hover">
+                           <UIRegion x="0" y="51" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="shell:ingameoptions_load">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <enter>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Load">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </enter>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Load">
+                           <UIRegion x="0" y="51" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIShowHideAnim time=".01" exitRate=".02">
+                              <colors text="true">
+                                 <start r="255" g="197" b="78" a="255" />
+                                 <end r="255" g="255" b="201" a="255" />
+                              </colors>
+                           </UIShowHideAnim>
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="shell:ingameoptions_load">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <highlighted>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="201" a="255" />
+                                    </BFFont>
+                                 </highlighted>
+                                 <activated>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="0" a="255" />
+                                    </BFFont>
+                                 </activated>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="UI_CHILD" data="UIChildData" name="save current game">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </activate>
+                           <leave>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Load">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </leave>
+                        </UIHoverButton>
+                     </children>
+                  </UILayout>
+                  <UILayout name="exit no save option">
+                     <UIRegion x="0" y="0" w="0" h="0" xalign="min" yalign="min" walign="max" halign="max" />
+                     <UIState visible="hidden" />
+                     <children>
+                        <UIHoverButton name="TextButton Exit Hover">
+                           <UIRegion x="0" y="62" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="shell:ingameoptions_exit">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <enter>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Exit">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </enter>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Exit">
+                           <UIRegion x="0" y="62" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIShowHideAnim time=".01" exitRate=".02">
+                              <colors text="true">
+                                 <start r="255" g="197" b="78" a="255" />
+                                 <end r="255" g="255" b="201" a="255" />
+                              </colors>
+                           </UIShowHideAnim>
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="shell:ingameoptions_exit">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <highlighted>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="201" a="255" />
+                                    </BFFont>
+                                 </highlighted>
+                                 <activated>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="0" a="255" />
+                                    </BFFont>
+                                 </activated>
+                                 <disabled />
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="UI_CHILD" data="UIChildData" name="Confirm Dialog">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="exit_zoo">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </activate>
+                           <leave>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Exit">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </leave>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Return Hover">
+                           <UIRegion x="0" y="27" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIState active="normal" visible="normal" />
+                           <UIAspect locid="shell:ingameoptions_mainmenu">
+                              <default image="">
+                                 <BFFont align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <disabled>
+                                    <BFFont>
+                                       <BFColor r="100" g="100" b="100" a="255" />
+                                    </BFFont>
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <enter>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Return To MainMenu">
+                                 <child msg="UI_SHOW" />
+                              </event>
+                           </enter>
+                        </UIHoverButton>
+                        <UIHoverButton name="TextButton Return To MainMenu">
+                           <UIRegion x="0" y="27" w="100" h="24" xalign="% min" yalign="% min" walign="% min" halign="len" />
+                           <UIShowHideAnim time=".01" exitRate=".02">
+                              <colors text="true">
+                                 <start r="255" g="197" b="78" a="255" />
+                                 <end r="255" g="255" b="201" a="255" />
+                              </colors>
+                           </UIShowHideAnim>
+                           <UIState active="normal" visible="hidden" />
+                           <UIAspect locid="shell:ingameoptions_mainmenu">
+                              <default image="">
+                                 <BFFont name="Pretendard" size="16" underline="0" align="center" />
+                              </default>
+                              <standard>
+                                 <normal>
+                                    <BFFont>
+                                       <BFColor r="255" g="197" b="78" a="255" />
+                                    </BFFont>
+                                 </normal>
+                                 <highlighted>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="201" a="255" />
+                                    </BFFont>
+                                 </highlighted>
+                                 <activated>
+                                    <BFFont>
+                                       <BFColor r="255" g="255" b="0" a="255" />
+                                    </BFFont>
+                                 </activated>
+                                 <disabled>
+                                    <BFFont>
+                                       <BFColor r="100" g="100" b="100" a="255" />
+                                    </BFFont>
+                                 </disabled>
+                              </standard>
+                           </UIAspect>
+                           <UIHotKeys />
+                           <activate>
+                              <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="UI_CHILD" data="UIChildData" name="in game options layout">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                              <event msg="ZT_EXITTOMAINMENU" />
+                           </activate>
+                           <leave>
+                              <event msg="UI_CHILD" data="UIChildData" name="TextButton Return To MainMenu">
+                                 <child msg="UI_HIDE" />
+                              </event>
+                           </leave>
+                        </UIHoverButton>
+                     </children>
+                  </UILayout>
+                  <UIButton name="close">
+                     <UIRegion x="-48" y="-7" w="48" h="46" xalign="max" yalign="min" walign="len" halign="len" />
+                     <UIState active="normal" visible="normal" />
+                     <UIHelpInfo name="" short="" long="" help="" ids="entityinfo:close_button" />
+                     <UIAspect string="">
+                        <default image="ui\shared\button_close.dds" sound="">
+                           <BFRect x="0" y="0" w="-1" h="-1" />
+                           <BFColor r="255" g="255" b="255" a="255" />
+                        </default>
+                        <standard>
+                           <normal>
+                              <BFRect x="0" y="0" w="64" h="64" />
+                           </normal>
+                           <highlighted>
+                              <BFRect x="0" y="64" w="64" h="64" />
+                           </highlighted>
+                           <activated sound="">
+                              <BFRect x="64" y="0" w="64" h="64" />
+                           </activated>
+                           <disabled>
+                              <BFRect x="64" y="64" w="64" h="64" />
+                           </disabled>
+                        </standard>
+                     </UIAspect>
+                     <UIHotKeys />
+                     <activate>
+                        <event msg="UI_CHILD" data="UIChildData" name="In Game Options">
+                           <child msg="UI_HIDE" />
+                        </event>
+                     </activate>
+                  </UIButton>
+               </children>
+            </UILayout>
+         </children>
+      </UILayout>
+   </children>
+</UILayout>

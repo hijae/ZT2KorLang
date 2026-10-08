@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:AmbushOther">숨어서 %s을(를) 노리고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GatherPride">무리의 일원을 부르고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:JoinPride">무리에 합류하러 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MoveAsPride">무리지어 움직이고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:HuntAsPride">무리지어서 %s를 사냥하고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:LeadingPrideTo">무리를 이끌고 %s를 향해 가고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:LeadingPride">무리를 이끌고 있습니다.</LOC_STRING>
+      <LOC_STRING _locID="animalactions:PrideCallMissing">무리에서 이탈한 구성원을 부르고 있습니다.</LOC_STRING>
+</ZT2Strings>

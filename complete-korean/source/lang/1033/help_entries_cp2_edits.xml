@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy" version="9" />
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:order" version="9">!!!관람객 만족시키기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:entry" version="9">관람객 만족시키기</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_keepingguestshappy:text" version="9">
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="60" g="54" b="38">
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+         입구로 들어오는 관람객은 각자 좋아하는 동물, 음식, 시설에 관심이 있으며, 목마름과 배고픔, 피로의 정도도 서로 다릅니다.
+		
+               
+ 
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+
+               
+               
+               
+		관람객의 상태를 빠르게 확인하는 간단한 방법은 두 가지입니다.
+		
+               
+
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+               
+               
+		첫째, 동물원에 있는 관람객을 클릭하면 게임 창 오른쪽 아래에 관람객 정보 패널이 표시됩니다. 관람객 정보 패널에는 그 관람객의 생각과 감정에 대한 많은 정보가 있습니다.
+		
+               
+
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+		둘째, 주 게임 패널의 요약 정보 보기 단추를 클릭하면 현재 동물원에 있는 전체 관람객 목록이 표시됩니다. 요약 정보 보기 화면에서는 좋아하는 동물, 행복도, 화장실 욕구 등을 기준으로 관람객 목록을 정렬할 수 있습니다.
+		
+               
+               
+
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+   
+               
+		동물원의 관람객을 행복하고 만족스럽게 유지하는 방법은 다음 조언을 참고하세요.
+		
+ 
+                  </font><p />
+
+                  <i><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동물원에 관람객을 모으는 10가지 요령</font></i>
+
+                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+  
+                  1. 넉넉한 공간을 마련하세요. 사람이 몰려도 충분히 움직일 수 있도록 길을 만드세요. 인기 있는 우리 근처에 넓은 관람 구역을 마련하는 것도 관람객을 행복하게 합니다. 
+		
+               
+ 
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+                  
+                  
+                  2. 청결을 유지하세요. 동물원 곳곳에 재활용 통과 쓰레기통을 배치하면 깨끗하게 유지하는 데 도움이 됩니다. 
+		
+    
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+                  
+                  3. 인기 있는 동물을 전시하고 가능한 한 다양한 종을 추가하세요. 동물원 명성 점수에 큰 영향을 미칩니다! 
+		
+               
+
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+                  
+                  
+                  4. 관람객이 먹고, 마시고, 쉴 수 있는 시설을 제공하면 관람객이 행복해집니다. 그런 면에서 관람객도 동물원에 사는 동물과 크게 다르지 않습니다. 
+		
+
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+                  
+                  5. 동물들의 번식을 장려하세요. 관람객은 아기 동물을 좋아합니다. 
+
+
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+
+                  
+                  6. 관람객을 행복하게 하면서 지출을 유도하는 일과 수익을 최대화하는 일 사이의 균형을 찾을 때까지 동물원 입장료와 판매 가격을 바꿔 보세요. 
+		
+               
+               
+
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+ 
+                  
+                  7. 관람객은 동물원에서 즐거운 시간을 보내고 싶어합니다. 동물을 보는 것뿐 아니라 흥미로운 조각상, 분수, 테마 구역도 감상하고 싶어합니다. 어린 관람객은 놀이터 기구에서 노는 것을 좋아합니다. 
+		
+                                
+                  
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  8. 동물원의 아름다움에 신경 쓰세요. 꽃과 분수는 관람객의 행복도에 큰 차이를 만들 수 있습니다. 
+		
+                  
+                  
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  
+                  
+                  9. 관람객은 잘 설계한 우리에서 행복하고 건강한 동물을 볼 때 가장 행복합니다. 
+		
+               
+                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  
+                  
+                  10. 관람객은 배우고 싶어하기도 합니다. 자연 생태계를 표현한 우리에서 동물을 보면 동물원에 더 많은 돈을 기부할 수도 있습니다.
+               
+                                           
+                  </font><p />
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+   
+</ZT2Strings>

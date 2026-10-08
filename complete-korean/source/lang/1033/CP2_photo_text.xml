@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoTitle">
+		도도새 사진
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhoto">
+		월간 고대 동물에서 표지 기사를 찾고 있습니다. 다시 돌아온 도도새를 소개할 표지 사진이 필요합니다. 도도새 돌과 함께 있는 도도새의 사진을 찍으면 잡지사에서 $750을 받습니다.
+		<p />
+		난이도: 초급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoShort">
+			다음 사진을 찍으세요: 
+			<p />
+		* 도도새 돌과 함께 있는 도도새.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoSuccess">
+		여러분의 사진은 월간 고대 동물의 도도새 특집에 꼭 맞았습니다! 사진 대금 $750을 받았습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDodoPhotoSuccessShort">
+		도도새 사진을 찍어 $750을 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DodoPhoto">
+		도도새 돌과 함께 있는 도도새의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoTitle">
+		오록스와 파란영양 사진
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhoto">
+		지역 역사 협회에서 동물 사진 모음에 빠진 사진 몇 장을 채워 달라고 합니다. 오록스 사진과 파란영양 사진을 찾고 있으며 책에도 이 사진들을 사용하려고 합니다. 사진을 찍어 주면 동물원에 기부금을 보내 줄 것입니다!
+		<p />
+		난이도: 초급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoShort">
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 오록스.
+			<p />   
+		* 파란영양.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoSuccess">
+		여러분의 오록스와 파란영양 사진은 역사 협회에서 원하던 바로 그 사진들이었습니다. 협회에서 기꺼이 동물원에 기부금 $2,500을 보내 주었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHBluebuckAurochPhotoSuccessShort">
+		오록스와 파란영양 사진을 찍어 동물원 기부금 $2,500을 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_AurochPhoto">
+		오록스의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_BluebuckPhoto">
+		파란영양의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosTitle">
+		가족 사진
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotos">
+		동물원의 새로운 광고를 만들 때가 되었습니다. 가족 단위 관람객들은 동물원을 즐겨 찾으며, 여러분도 더 많은 가족이 찾아오기를 바랍니다. 동물원에 행복한 동물 가족들이 있다면 더 많은 관람객 가족이 방문하여 기부금을 낼 것입니다! 도도새 가족, 시바테리움 가족, 에우클라도케로스 가족의 사진을 찍으면 마케팅 팀에서 가족 단위 관람객을 동물원으로 끌어들일 멋진 광고판을 만들 수 있습니다.
+		<p />
+		난이도: 중급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosShort">
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 도도새 가족(세 마리 이상).
+			<p />   
+		* 시바테리움 가족(세 마리 이상).
+			<p />   
+		* 에우클라도케로스 가족(세 마리 이상).
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosSuccess">
+		광고가 대성공을 거두었습니다! 입장객이 늘고 동물원 명성도 높아졌습니다. 무엇보다도 광고판이 마케팅 거장 잡지에서 선정한 "올해의 광고"로 뽑혀 상금 $5,000을 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFamilyPhotosSuccessShort">
+		동물 가족 사진 덕분에 관람객이 더 많이 찾아왔고 상금 $5,000도 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DodoFamilyPhoto">
+		도도새 세 마리의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_SivatheriumFamilyPhoto">
+		시바테리움 세 마리의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DeerFamilyPhoto">
+		에우클라도케로스 세 마리의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessTitle">
+		유대류 열풍
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhoto">
+		지역 도서관에서 유대류 열풍 사진 대회를 개최합니다. 우승 상금은 $6,000입니다! 멸종 동물을 자랑할 수 있는 특별한 기회입니다. 안개가 자욱한 샘 근처의 디프로토돈과 입을 크게 벌린 태즈메이니아주머니늑대의 사진을 찍으면 우승은 틀림없습니다!
+		<p />
+		난이도: 고급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoShort">
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 안개가 자욱한 샘 근처의 디프로토돈.
+			<p />   
+		* 입을 크게 벌린 태즈메이니아주머니늑대.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoSuccess">
+		디프로토돈과 태즈메이니아주머니늑대 사진으로 유대류 열풍 대회에서 우승했습니다! 도서관에서 방금 $6,000의 수표를 보내왔습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoSuccessShort">
+		유대류 열풍 사진 대회에서 우승하여 $6,000을 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoFailure">
+		유대류 열풍 대회에 필요한 사진을 찍지 못했습니다. 다음에는 더 좋은 결과가 있기를 바랍니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHMarsupialMadnessPhotoFailureShort">
+		유대류 열풍 사진 도전 과제를 거절했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DiprotodonPhoto">
+		안개가 자욱한 샘 근처의 디프로토돈 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ThylacinePhoto">
+		입을 크게 벌린 태즈메이니아주머니늑대의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentTitle">
+		멸종 동물의 즐거운 생활
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhoto">
+		멸종 동물 복원 협회에서 동물원에 지원금 $8,000을 주려고 합니다. 먼저 여러분이 멸종 동물들을 행복하고 즐겁게 돌볼 수 있는지 확인해야 합니다. 빙하 옆의 코엘로돈타, 타르 구덩이 근처의 메트리디오코에루스, 대나무를 먹는 기간토피테쿠스의 사진을 찍어 지원금을 받으세요.
+		<p />
+		난이도: 중급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoShort">
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 빙하 옆의 코엘로돈타.
+			<p />   
+		* 타르 구덩이 근처의 메트리디오코에루스.
+			<p />
+		* 대나무를 먹는 기간토피테쿠스.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoSuccess">
+		여러분의 사진은 멸종 동물 복원 협회에서 원하던 바로 그 사진들이었습니다. 협회에서 방금 동물원에 지원금 $8,000을 보내 주었습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoSuccessShort">
+		사진을 찍어 멸종 동물 복원 협회에서 동물원 지원금 $8,000을 받았습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoFailure">
+		멸종 동물 복원 협회와의 약속을 포기했습니다! 협회에서 요청한 사진을 모두 찍는 일을 거절했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctEnrichmentPhotoFailureShort">
+		멸종 동물 복원 협회의 사진 도전 과제를 거절했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WoolyGlacierPhoto">
+		빙하 옆에 있는 코엘로돈타의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_WarthogTarpitPhoto">
+		타르 구덩이 근처에 있는 메트리디오코에루스의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_GigantopithecusPhoto">
+		대나무를 먹는 기간토피테쿠스의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DiseasedAnimalPhoto">
+		병에 걸린 동물의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_EntertainerJoking">
+		농담을 하는 엔터테이너의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_GuestDigging">
+		화석 발굴 체험장에서 땅을 파는 관람객의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CompletedSkeleton">
+		멸종 동물 교육관에 있는 완성된 골격의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HealthyAnimalPhoto">
+		에피오르니스와 함께 있는 디프로토돈의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHHardWayPhotoShort">
+		(선택 사항) 다음 사진을 찍으세요: 
+		<p />
+		* 황제매머드 골격 조각상.
+		<p />
+		* 메갈로케로스 골격 조각상.
+		<p />
+		* 티라노사우루스 렉스 골격 조각상.
+		<p />
+		* 프테라노돈 골격 조각상.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHHardWayPhotoShortSuccess">
+	        과학 박물관에서 여러분이 찍은 골격 사진의 대금으로 $20,000을 주었습니다!
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoMammoth">
+	        황제매머드 골격 조각상의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoElk">
+	        메갈로케로스 골격 조각상의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoTRex">
+	        티라노사우루스 렉스 골격 조각상의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_HardWayPhotoPteranodon">
+	        프테라노돈 골격 조각상의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHTroublePhotoShort">
+   			(선택 사항) 다음 사진을 찍으세요: 
+			<p />   
+		* 먹이를 먹는 공룡.
+			<p />   
+		* 먹잇감 모형을 가지고 노는 공룡.
+			<p />
+		* 잠을 자는 공룡.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoEat">
+	        먹이를 먹는 공룡의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoPreyDummy">
+	        먹잇감 모형을 가지고 노는 공룡의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_TroublePhotoSleep">
+	        잠을 자는 공룡의 사진을 찍으세요.
+	        </LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHFinishTroublePhotoShort">
+		멋진 사진입니다! 월간 공룡 탐구에서 사진 대금 $15,000을 주었습니다. 
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureTitle">
+		공룡 생포 현장 사진
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCapture">
+		공룡 안전 위원회에서 공룡 안전 안내 책자에 실을 사진을 찾고 있습니다. 활동 중인 공룡 생포 팀, 난동을 부리는 공룡에게 파괴된 건물 또는 나무, 공룡 생포 팀 벙커의 사진을 찍으면 $5,000을 주겠다고 약속했습니다.
+		<p />
+		난이도: 고급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureShort">
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 한 장의 사진에 담긴 공룡 생포 팀원 세 명.
+			<p />   
+		* 난동을 부리는 공룡에게 파괴되어 잔해만 남은 건물 또는 나무.
+			<p />   
+		* 공룡 생포 팀 벙커.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureSuccess">
+		여러분의 사진이 공룡 안전 위원회의 안내 책자에 멋지게 실렸고, 지원금 $5,000도 받았습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureSuccessShort">
+		여러분의 사진이 공룡 안전 위원회의 안내 책자에 멋지게 실렸습니다! 지원금 $5,000도 받았습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureFailure">
+		공룡 안전 위원회에서 요청한 사진을 받지 못했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHDinoCaptureFailureShort">
+		공룡 안전 위원회의 사진 도전 과제를 거절했습니다.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoTeam">
+		활동 중인 공룡 생포 팀원 세 명의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_Rubble">
+		난동을 부리는 공룡에게 파괴된 건물 또는 나무의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_DinoBuilding">
+		공룡 생포 팀 벙커의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementTitle">
+		흥미진진한 멸종 동물
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhoto">
+		새로운 홍보 활동을 시작할 때가 되었습니다! 놀라운 멸종 동물들, 새로운 관람객 편의 시설, 멸종 동물 연구소까지 자랑할 거리가 많습니다! 동물원 곳곳에서 생동감 넘치는 사진을 찍으면 새로운 관람객을 끌어들일 수 있을 것입니다!
+		<p />
+		난이도: 고급
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoShort">  
+   			다음 사진을 찍으세요: 
+			<p />   
+		* 멸종 동물 연구소에서 생성한 슈퍼 멸종 동물 한 마리.
+			<p />   
+		* 브라키오사우르스 미끄럼틀을 타고 내려오는 어린이.
+			<p />
+		* 무대에서 공연하는 엔터테이너.
+			<p />
+		* 화석 발굴 체험장에서 멸종 동물 교육관으로 화석 뼈를 운반하는 어린이.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoSuccess">
+		멋진 사진입니다! 새로운 광고가 많은 관람객을 끌어들일 것입니다. 앞으로 며칠 동안 동물원 입장객이 크게 늘어날 것입니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoSuccessShort">
+		새로운 광고가 많은 관람객을 끌어들일 것입니다. 앞으로 며칠 동안 동물원 입장객이 크게 늘어날 것입니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoFailure">
+		새로운 홍보 활동에 필요한 사진을 찍지 못했습니다. 관람객을 더 많이 끌어들일 기회를 놓쳤습니다!
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:PHExtinctExcitementPhotoFailureShort">
+		홍보용 사진 도전 과제를 거절했습니다.  
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_SuperAnimalPhoto">
+		멸종 동물 연구소에서 생성한 슈퍼 멸종 동물 중 아무 동물이나 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ChildSlidePhoto">
+		브라키오사우르스 미끄럼틀을 타는 어린이의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_ShowStagePhoto">
+		무대에서 공연하는 엔터테이너의 사진을 찍으세요.
+		</LOC_STRING>
+      <LOC_STRING _locID="PhotoChallengetext:stt_CarryBonePhoto">
+		화석 발굴 체험장에서 멸종 동물 교육관으로 뼈를 운반하는 어린이의 사진을 찍으세요.
+		</LOC_STRING>
+</ZT2Strings>

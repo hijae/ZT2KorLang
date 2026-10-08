@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="tools" version="2" />
+      <LOC_STRING _locID="tools:insert_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>노드 삽입</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>이벤트 삽입 </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>스플라인 크기</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>점수 판정 거리</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:visible_stt" version="2">스플라인 표시 전환</LOC_STRING>
+      <LOC_STRING _locID="tools:visible_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>스플라인 표시</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:eventhidden_stt" version="2">기억 이벤트 전환</LOC_STRING>
+      <LOC_STRING _locID="tools:event_hidden_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>기억 이벤트</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_override_stt" version="2">이벤트 점수 재정의</LOC_STRING>
+      <LOC_STRING _locID="tools:event_score_override_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>이벤트 재정의</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_speed_stt" version="2">스플라인 추적 속도를 변경합니다.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_tracing_speed_label" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>추적 속도</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_tracing_speed_display" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_speed_label" version="2">
+         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+            <b>스플라인 추적 속도 변경</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_stt" version="2">이벤트 크기를 변경합니다.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_label" version="2">
+         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+            <b>이벤트 크기</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_display" version="2">
+         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_scale_header" version="2">
+         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+            <b>이벤트 크기 변경</b>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

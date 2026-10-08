@@ -21,12 +21,16 @@ jobs:
       with:
         type: 'zip'
         filename: 'ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f'
+        path: 'lang config'
         
+
+    - name: Build Korean supplement
+      run: python3 complete-korean/build_patch.py
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f"
+        artifacts: "ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,complete-korean/ZZZZZZZZ_Korlang_Complete_20261007.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ver-${{ steps.date.outputs.date }}
         name: ZT2 Korean Patch ${{ steps.date.outputs.date }}

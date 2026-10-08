@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="genericscenariofailure" version="9" />
+      <LOC_STRING _locID="genericscenariofailure:animaldiedsick" version="9">
+   		당신은 당신의 동물 중 하나를 잃었습니다! 건강한 동물은 성공적인 동물원의 필수 요소입니다. 하지만 목표를 달성할 수 있을 만큼 동물을 오래 키울 수 없었습니다.
+   	</LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals" version="9" />
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeathoverview" version="9">
+      	동물 보호 협회 관계자들은 최근 월샘 동물 공원에서 동물이 죽은 사고에 유감을 표하고 있습니다. 관계자들은 공원 운영을 계속할 수 있을지 다시 평가하고 있습니다. 남아 있는 동물들은 다른 시설로 옮겨졌습니다.
+   </LOC_STRING>
+      <LOC_STRING _locID="C1scenariogoals:C1failanimaldeath" version="9">
+       	동물 보호 협회 관계자들은 최근 동물이 죽은 사고에 유감을 표하고 있습니다. 남아 있는 동물들은 다른 시설로 옮겨졌습니다.
+   </LOC_STRING>
+</ZT2Strings>

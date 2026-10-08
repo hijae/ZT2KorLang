@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UIListBox templateName="listbox" template="panel">
+   <UIAspect>
+      <default image="">
+         <BFRect x="32" y="32" w="448" h="448" />
+         <BFFont name="Pretendard" size="15" />
+      </default>
+   </UIAspect>
+</UIListBox>

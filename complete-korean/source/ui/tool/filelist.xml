@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UILayout name="FileListShell">
+   <UIRegion x="-223" y="10" w="223" h="736" xalign="max" />
+   <children>
+      <UIListBox name="FileList" template="listbox" rows="-1">
+         <UIRegion x="0" y="16" walign="max" halign="max" />
+         <UIAspect>
+            <default image="ui/tool/filelist.tga">
+               <BFColor r="255" g="255" b="255" a="255" />
+            </default>
+         </UIAspect>
+      </UIListBox>
+   </children>
+   <decorations>
+      <UIDrag name="drag">
+         <UIRegion h="16" walign="max" />
+         <UIAspect string="불러온 파일">
+            <default image="ui/tool/c_back_N.tga" />
+         </UIAspect>
+         <drag>
+            <UIDragCommand msg="UI_ADD_POS" />
+         </drag>
+      </UIDrag>
+      <UIDrag name="resize">
+         <UIRegion x="-16" y="-16" w="16" h="16" xalign="max" yalign="max" />
+         <UIAspect>
+            <default image="ui/tool/b_resize.tga" />
+         </UIAspect>
+         <drag>
+            <UIDragCommand msg="UI_ADD_SIZE" />
+         </drag>
+      </UIDrag>
+   </decorations>
+</UILayout>

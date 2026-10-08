@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+   <entityname>
+      
+      <ElephantAsian>아시아코끼리</ElephantAsian>
+      <ElephantAsian_stt>아시아코끼리</ElephantAsian_stt>
+      <ElephantAsian_lower>아시아코끼리</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>아시아코끼리</b>
+         </color>
+         <br />
+         아시아코끼리를 선택한 다음 배치합니다. 아시아코끼리는 힘이 세고 아프리카 코끼리보다 귀가 작습니다.
+      </ElephantAsian_ltt>
+      
+      <ElephantAsian_Gift>아시아코끼리 봉제 인형</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>아시아코끼리 봉제 인형</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>아시아코끼리 봉제 인형</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>아시아코끼리 봉제 인형</b>
+         </color>
+         <br />아시아코끼리를 구경하는 것을 좋아하는 관람객이 구입하는 기념품입니다.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>아시아코끼리</entry>
+      <text>
+         <cell pady="0" width="1000" />
+         <p />
+         <cell width="260" />
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96" />
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						 </cell>	
+						<cell width="156" />
+                  <br />   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     보존 상태:
+                     </font><br />
+                        <color r="255" g="155" b="0"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     위험
+                        </font></color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관목림</font><br /></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+               </cell>
+               <cell width="128">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동남아시아</font><br /></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+               </cell>
+               <br />
+               <cell width="284">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강: 포유류 (Mammalia)</font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">목: 장비목 (Proboscidea)</font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과: 코끼리과 (Elephantidae)</font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Elephas</font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">종:</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">maximus</font></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+               </cell>
+            </cell>
+         </cell>
+         <p />
+         <p />
+         <cell width="260" />
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+            </cell>
+            <cell width="176">
+               <color r="40" g="36" b="25">
+                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+               </color>
+            </cell>
+            <p />
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">새끼 아시아코끼리는 어미와 무리 안의 다른 암컷들의 보살핌을 받습니다. 이 암컷들은 "이모"라고 불립니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아코끼리는 다른 동물들을 위해 길을 내는 선구자입니다. 코끼리가 숲에 만든 길은 다른 동물들도 자주 이용합니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 무리 안팎의 개체와 의사소통할 때 낮은 주파수의 음파를 이용합니다. 이 음파는 최대 10마일까지 전달될 수 있습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아코끼리는 인도코끼리라고도 불립니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아코끼리는 상아로 된 엄니를 이용하여 땅을 파고 나무를 뿌리째 뽑으며, 번식기에 과시 행동을 합니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">무리의 우두머리 코끼리는 암컷입니다. 보통 무리에서 가장 크거나 나이가 많거나 경험이 풍부한 암컷이 우두머리가 됩니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 코끝에 있는 손가락 같은 돌기는 매우 섬세하여 땅콩 같은 작은 물건도 집을 수 있습니다.</font></color>
+               </cell>
+               <br />
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아코끼리는 먹이를 먹는 동안 가르랑거립니다.</font></color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 게임이나 캠페인 게임에서 아시아코끼리를 입양하려면 동물원 명성이 별 3-1/2개에 도달해야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 길고 근육질인 코와 길게 휜 한 쌍의 엄니가 특징인 거대한 포유동물입니다. 지능이 높고 힘이 센 코끼리는 가장 큰 육상 동물이며, 60년 이상 살아 수명이 가장 긴 동물에도 속합니다. 건강하게 다 자란 코끼리에게는 인간을 제외하면 천적이 없습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">역사적으로 사람들은 코끼리의 거대한 몸집과 힘을 높이 평가했습니다. 전장에서는 코끼리에 올라탄 병사들이 적을 짓밟고 공포에 빠뜨렸습니다. 코끼리는 정글을 지나 무거운 물자를 나르거나, 한때 자신들이 살던 숲에서 거대한 통나무를 끌어내도록 훈련받기도 했습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 오랫동안 존경과 숭배를 받아 왔습니다. 태국, 인도 및 다른 동남아시아 국가에서는 아름답게 장식한 코끼리가 지금도 전통 종교 의식에서 중요한 역할을 합니다. 불교 전통에 따르면 부처는 지상에서 여러 번 태어나는 동안 흰 코끼리의 모습을 선택한 적이 있습니다. 드물게 나타나는 흰 코끼리는 지금도 신이 모습을 드러낸 것으로 받아들여집니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리 조상의 화석을 보면 과거에는 오스트레일리아와 남극을 제외한 모든 대륙에서 살았음을 알 수 있습니다. 하지만 오늘날 코끼리의 서식지는 아프리카와 동남아시아 일부 지역으로 제한됩니다. 코끼리는 이 지역의 초원, 습지, 숲, 사막 및 산 등 다양한 환경에서 삽니다. 초식 동물이므로 거대한 몸집을 유지하려면 많은 양의 먹이가 필요합니다. 마실 물도 많이 필요하기 때문에 식물이 풍부하고 물이 충분한 지역에서만 살 수 있습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">몇 마리뿐인 작은 무리라도 한 지역의 먹이와 물을 빠르게 고갈시킬 수 있으므로 코끼리는 계속 이동해야 합니다. 코끼리 무리는 계절에 따라 큰 고리를 그리며 이동하면서 활동 범위 안에서 새로운 자원을 찾습니다. 이 활동 범위는 1500 sq km (600 sq mi)가 넘을 수 있습니다. 코끼리는 먹이를 찾기 위해 한 해에 5000~10,000 km (3100~6200 mi)를 이동할 수 있으며, 이는 기록된 포유동물의 이동 거리 가운데 가장 깁니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카 코끼리와 아시아코끼리는 크기, 색깔 및 다른 신체적 특징이 다릅니다. 아프리카 코끼리는 몸집이 더 크고 어깨 위로 드리워지는 넓은 귀로 구별할 수 있습니다. 수컷의 키는 4 m (13 ft), 몸무게는 7000 kg (15,400 lb)에 이를 수 있습니다. 암컷은 키가 더 작아 평균 2.8 m (9 ft)이며, 몸무게도 훨씬 가벼운 약 3600 kg (7900 lb)입니다. 아프리카 코끼리의 몸은 밝은 회색이지만, 몸에 바른 진흙 때문에 짙은 회색, 붉은색 또는 갈색으로 보일 수도 있습니다. 이마는 낮고 평평하며 등은 약간 움푹 들어가 있습니다. 부채 모양의 귀는 평균 길이 1.5 m (5 ft), 너비 1.2 m (4 ft)입니다. 암수 모두 길고 휜 엄니를 갖고 있습니다. 
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아코끼리는 아프리카 코끼리보다 키가 작고 몸이 다부지며, 귀가 어깨까지 내려오지 않습니다. 평균적인 아시아코끼리 수컷의 키는 3 m (10 ft), 몸무게는 2300 kg (5100 lb)으로 아프리카 코끼리 수컷의 몸무게의 약 절반입니다. 암컷의 평균 키는 2.4 m (7.8 ft), 평균 몸무게는 3000 kg (6600 lb)입니다. 아시아코끼리는 짙은 회색 피부, 둥글게 솟은 이마 및 둥근 등을 갖고 있습니다. 귀는 평균 길이 0.75 m (2.5 ft), 너비 0.6 m (2 ft)입니다. 암컷의 엄니는 없거나 발달하지 않았을 수 있습니다. 
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 매우 무겁지만 거의 소리 없이 우아하게 걷습니다. 기둥 같은 다리가 부드럽고 규칙적인 보폭으로 거대한 몸을 앞으로 움직입니다. 각 발바닥에는 탄력 있는 조직으로 된 두꺼운 쿠션이 있어 체중에서 오는 충격을 흡수합니다. 발가락은 걸을 때 체중의 균형을 잡아 줍니다. 코끼리는 보통 약 6 km/h (약 4 mph)의 속도로 걸으며, 최대 40 km/h (25 mph)로 돌진할 수 있습니다. 전속력으로 질주하거나 도랑을 뛰어넘을 수는 없지만, 강과 호수에는 쉽게 들어갑니다. 물이 몸을 지탱해 주므로 지치지 않고 먼 거리를 헤엄칠 수 있습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 엄니는 한 쌍의 길어진 위턱 앞니로, 현존하는 동물의 이빨 가운데 가장 크고 무겁습니다. 엄니는 뿌리와 물을 찾아 땅을 파거나 먹이를 얻기 위해 나무껍질을 벗기거나 짝짓기 철에 서로 싸우는 데 쓰입니다. 아프리카 코끼리 암컷은 사자와 호랑이 같은 새끼의 포식자를 쫓아내는 데도 엄니를 씁니다. 새끼의 첫 앞니는 태어난 뒤 6~12개월 안에 교체되며, 엄니가 되는 두 번째 앞니는 평생 매년 약 17 cm (약 7 in)씩 자랍니다. 엄니의 성장은 유전과 영양 상태에 따라 결정되며, 오랜 세월 동안 일상적으로 마모되어 길이가 줄어듭니다. 아프리카 코끼리 수컷의 엄니는 보통 무게가 20~45 kg (50~100 lb), 길이가 1.8~2.4 m (6~8 ft)입니다. 다 자란 아시아코끼리 수컷의 엄니는 평균 길이 1.5 m (5 ft), 무게 30 kg (70 lb)입니다. 아프리카 코끼리의 엄니가 더 크고 암수 모두 엄니를 갖고 있기 때문에, 상아를 노리는 사냥꾼에게는 아시아코끼리보다 더 매력적인 표적이 됩니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 이빨은 모두 어금니이며 총 네 개가 있습니다. 어금니에는 잎, 줄기 및 뿌리를 갈아 먹는 데 쓰는 톱니 같은 융기가 있습니다. 이빨 하나의 무게가 5 kg (11 lb)을 넘고 길이가 30 cm (12 in)에 이를 수 있습니다. 첫 번째 어금니 한 쌍은 입의 앞쪽에 자리합니다. 이 앞쪽 어금니가 마모되면 조각으로 떨어져 나가고 뒤쪽의 두 어금니가 앞으로 이동합니다. 이어서 입 뒤쪽에 새로운 두 어금니가 나와 앞으로 이동한 어금니를 대체합니다. 코끼리는 평생 뒤쪽 어금니를 여섯 번 교체합니다. 마지막 어금니가 닳아 없어지는 시기는 40~약 60세 사이이며, 이때 코끼리는 더 이상 먹이를 씹지 못해 굶어 죽습니다. 코끼리에게는 드물지 않은 죽음의 원인입니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 피부에는 땀샘이 없으며, 귀가 열을 내보내는 방열판 역할을 합니다. 코끼리가 귀를 퍼덕이면 넓은 귀 안의 많은 혈관이 공기에 노출되어 혈액이 식고, 식은 혈액이 다시 온몸을 순환합니다. 더운 기후에서 진화한 아프리카 코끼리의 귀가 더 서늘한 지역에서 진화한 아시아코끼리의 귀보다 큰 이유는 이 냉각 방식으로 설명될 수 있습니다. 코끼리의 꼬리는 털이 없지만 끝부분에 성긴 털뭉치가 있어 성가신 파리를 쫓는 데 유용합니다. 보통 꼬리의 무게는 10킬로그램 (22 lb)에 이를 수 있습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 시력이 좋지 않으며, 눈은 거대한 머리에 비해 작습니다. 머리를 좌우로 조금밖에 돌릴 수 없어서 옆쪽을 보는 범위가 좁습니다. 시야를 넓히려면 몸 전체를 움직여야 합니다. 청각, 후각, 미각 및 촉각 등 다른 감각은 예민합니다. 가장 민감한 기관은 코이며, 땅과 공기에서 먹이나 위험의 냄새를 맡는 데 자주 쓰입니다. 코끼리는 먼 곳의 물 냄새를 맡을 수 있고, 한 마일이 넘게 떨어진 곳의 특정 소리도 들을 수 있습니다. 
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 복잡한 사회적 행동을 보이며, 가장 나이가 많은 암컷이 이끄는 긴밀한 가족 집단에서 삽니다. 가족은 자매, 사촌, 이모, 조카 및 이들의 어린 새끼로 이루어지며, 규모는 2~29마리입니다. 평생 함께 지낼 수도 있습니다. 가족이 너무 커지면 일부 암컷이 떠나 새로운 무리를 만듭니다. 가족 구성원들은 함께 목욕하고 먹이를 찾고 이동합니다. 보통 우두머리 암컷으로부터 46 m (150 ft) 이내에 머무르며 울음소리로 서로 연락합니다. 몇 시간만 떨어져 있어도 다시 만날 때는 달리기, 낮게 울기, 빙글빙글 돌기, 나팔 같은 소리 내기, 배설하기, 소변보기, 엄니를 부딪치기 및 머리로 서로의 몸을 문지르기 등 복잡한 인사 행동을 합니다. 가족은 어리거나 병들거나 늙거나 장애가 있는 구성원을 포식자로부터 보호하기도 합니다. 가족의 가장 나이 많은 암컷이 죽으면 보통 그다음으로 나이가 많은 암컷이 우두머리가 됩니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 접촉, 소리, 냄새 및 몸짓으로 서로 의사소통합니다. 접촉은 주로 코로 이루어지며, 어미가 새끼를 부드럽게 쓰다듬는 행동부터 우두머리 암컷이 말을 듣지 않는 미성숙 수컷을 훈계하며 때리는 행동까지 다양합니다. 서로 밀치거나 발로 차거나 몸을 비비는 것도 의사소통 방법입니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리는 소리로도 의사소통하며, 근처의 다른 코끼리에게 경고하거나 인사할 때 나팔 같은 소리를 냅니다. 낮은 주파수의 우르릉거리는 소리도 내는데, 이 소리는 먼 거리까지 전달되어 수 킬로미터 떨어진 코끼리의 귀에 닿을 수 있습니다. 최근 연구에 따르면 코끼리는 사람의 귀에 들리지 않는 초저주파 소리로도 의사소통합니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 의사소통에는 소변이나 똥으로 여러 페로몬을 분비하는 방법도 포함됩니다. 이 화학적 냄새 신호는 근처 코끼리가 감지하거나 바람을 타고 멀리 있는 코끼리에게 전달될 수 있습니다. 수컷의 발정기에 분비샘에서 나오는 분비물도 냄새 메시지를 전달합니다. 이 밖에 다양한 몸의 자세로 정보를 공유합니다. 예를 들어 아프리카 코끼리는 귀를 넓게 펼치고 퍼덕이면서 코를 몸에 붙여 곧 돌진할 것임을 알립니다. 
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리의 감정에 대해서는 많은 글이 쓰였습니다. 야생 코끼리의 관찰을 통해 이들이 충성스럽고 다정하며, 가족의 다른 구성원을 위해 목숨을 걸기도 한다는 사실이 확인되었습니다. 야생 코끼리는 새로운 새끼의 탄생을 축하하고, 가족 구성원이 죽으면 슬퍼하며 눈물을 흘리기도 하는 것으로 알려져 있습니다. 사육 환경에서는 특정 사육사나 서커스 직원에게 애착을 갖고 다른 사람에게는 협조하지 않을 수 있습니다.
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">작성:</font></color><br /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">데이비드 조지 고든
+            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">검토:</font></color><br /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">러스 로치
+         </font></color></cell>
+         <p />
+         <cell width="260" />
+         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">자료 제공: </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 참고 자료 라이브러리 2004.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">© 1993-2003 마이크로소프트사. 모든 권리를 보유합니다.
+         </font></color></cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

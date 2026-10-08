@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds" version="9" />
+      <LOC_STRING _locID="entityneeds:animal_eggtimer" version="9">부화 타이머</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_eggtimer_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>부화 타이머</b>
+         </color>
+         <br />
+	이 타이머는 알의 현재 부화 진행 정도를 나타냅니다. 막대가 가득 차면 알이 부화할 때가 된 것입니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:disabled" version="9">해당 없음</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="zoomessages" version="9" />
+      <LOC_STRING _locID="zoomessages:NoTrainingPlatform" version="9">%s을(를) 훈련시키려면 조련사에게 수조 입구가 필요합니다.</LOC_STRING>
+</ZT2Strings>

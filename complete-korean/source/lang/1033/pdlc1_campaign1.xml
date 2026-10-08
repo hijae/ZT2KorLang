@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZT2Strings>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooIntro">공룡 동물원</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooOverviewShort">위풍당당한 티라노사우루스 렉스를 데려와 어려움을 겪고 있는 동물원을 구하세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFame1Overview">과학자들이 멸종 동물 복원 기술로 공룡을 되살리는 방법을 알아냈을 때, 여러분의 동물원은 가장 먼저 스티라코사우루스를 전시한 동물원 중 하나였습니다. 한동안 입장객이 크게 늘었지만 이제 관람객들이 전시에 싫증을 느끼면서 동물원 입장객이 줄었습니다.
+      <p />
+		동물원 이사회에서는 티라노사우루스 렉스를 동물원에 전시하기를 바랍니다. 하지만 이 훌륭한 포식자는 최고의 동물원만 입양할 수 있습니다. 티라노사우루스 렉스를 입양하려면 먼저 동물원 명성을 높이고 더 많은 관람객을 끌어들여야 합니다.
+      <p />이사회에서는 동물원을 발전시키기 위한 적극적인 활동에 자금을 지원하기로 했습니다. 동물원 명성을 별 3개까지 올리면 이사회에서 현금 지원금을 줄 것입니다.       
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuest1Overview">동물원 이사회에서는 지금까지의 성과를 만족스럽게 생각하지만 관람객을 더 많이 끌어들이기를 바랍니다. 격려 차원에서 동물원을 찾은 총 관람객 수가 100명에 도달하면 카르노타우루스를 기증하겠다고 했습니다.      
+		</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuest1Success">100명이 넘는 관람객이 동물원을 방문했습니다! 동물원의 새로운 인기에 고무된 이사회에서 여러분이 비용을 부담하지 않고도 카르노타우루스를 입양할 수 있게 해 주었습니다. 동물원 입구 근처의 운반 상자에서 카르노타우루스를 찾을 수 있습니다.
+      <p />이사회에서는 이 성공을 매우 기뻐하며 동물원을 찾은 총 관람객 수가 150명에 도달하면 트리케라톱스를 입양해 주기로 했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuest2Success">150명이 넘는 관람객이 동물원을 방문했습니다! 계속 높아지는 동물원의 인기를 인정받아 이사회에서 여러분이 비용을 부담하지 않고도 트리케라톱스를 입양할 수 있게 해 주었습니다. 동물원 입구 근처의 운반 상자에서 트리케라톱스를 찾을 수 있습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFame1Success">동물원을 발전시킨 성과에 이사회가 깊은 인상을 받아 현금 지원금을 주었습니다!
+      <p />
+      동물원 명성을 별 4개까지 올리면 이사회에서 더 많은 현금 지원금을 주겠다고 약속했습니다.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFame2Success">동물원 명성이 그 어느 때보다 높아졌습니다! 이사회에서 여러분의 노력에 대한 보상으로 현금 지원금을 주었습니다.
+      <p />
+      동물원 명성을 별 5개까지 올리면 이사회에서 더 많은 현금 지원금을 주겠다고 약속했습니다.      
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFame3Success">동물원 명성의 최고 수준인 별 5개에 도달했습니다! 이사회에서 이 성과를 인정하여 현금 지원금을 주었습니다.
+      <p />
+      이 시나리오에서 승리하려면 티라노사우루스 렉스를 입양하고 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooSuccessOverview">
+      새로운 티라노사우루스 렉스가 엄청난 인기를 끌고 있습니다! 관람객들은 새 동물에 매우 기뻐하며 이사회에서도 공룡 동물원의 성공에 깊은 인상을 받았습니다. 훌륭한 성과를 축하합니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooOverallGoal">별 5개 동물원을 만들고 티라노사우루스 렉스를 데려온 뒤, 티라노사우루스 렉스의 기본적인 생활 조건을 만족시키세요.
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooOverallGoalDone">티라노사우루스 렉스를 데려와 기본적인 생활 조건을 만족시켰습니다!
+      </LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuestGoal1">동물원을 찾은 총 관람객 수를 100명으로 늘려 카르노타우루스를 무료로 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuestGoal1Done">동물원 관람객 수가 100명에 도달하여 카르노타우루스를 무료로 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuestGoal2">동물원을 찾은 총 관람객 수를 150명으로 늘려 트리케라톱스를 무료로 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooGuestGoal2Done">동물원 관람객 수가 150명에 도달하여 트리케라톱스를 무료로 받았습니다.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal1">동물원 명성을 별 3개까지 올려 현금 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal1Done">동물원 명성이 별 3개에 도달하여 현금 지원금을 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal2">동물원 명성을 별 4개까지 올려 현금 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal2Done">동물원 명성이 별 4개에 도달하여 현금 지원금을 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal3">동물원 명성을 별 5개까지 올려 현금 지원금을 받으세요.</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZoo:DinosaurZooFameGoal3Done">동물원 명성이 별 5개에 도달하여 현금 지원금을 받았습니다!</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZooLabels:DinosaurZooCampaignshort">공룡 동물원</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZooLabels:DinosaurZooCampaignS1">공룡 동물원</LOC_STRING>
+      <LOC_STRING _locID="DinosaurZooLabels:DinosaurZooCampaignS1short">공룡 동물원</LOC_STRING>
+   
+</ZT2Strings>
