@@ -7,7 +7,7 @@
          <cell width="260" />
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
-               <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -23,7 +23,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -39,12 +39,12 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   제품 식별 번호를 보려면 주타이쿤 2 디스크를 시디롬 드라이브에 삽입하십시오. 	
                   
                   
                   
-                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
 디스크를 삽입하면 나타나는 자동 실행 화면에 제품 식별 번호가 표시됩니다. 	            
                   </font><p />
@@ -52,7 +52,7 @@
                   <img src="ui/zoopedia/BF_Color_2004.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="ui/zoopedia/radlogo.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="ui/zoopedia/gamebryologo.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -62,7 +62,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -78,7 +78,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -94,7 +94,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

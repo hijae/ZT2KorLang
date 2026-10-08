@@ -10,19 +10,19 @@
                <cell width="150">
                   <img src="entities/objects/foliage/BlackThornBush/BlackThornBush_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             		'슬로' 또는 '슬로 자두나무'로도 불리는 블랙손은 서아시아, 유럽, 지중해 연안에 자생하는 자두나무 종류의 식물입니다. 가지는 짧고 뻣뻣하며 가시가 많고 작은 잎이 많이 달려 있습니다. 작은 흰색 꽃이 피고 나면 직경 1.3cm 정도의 짙은 파란색 열매가 열립니다. 블랙손 덤불의 키는 3m에서 4m 정도입니다.
 		</font></cell>
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             	내용 출처 
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             	© 1993-2003 마이크로소프트 코퍼레이션. 모든 권리 보유.
             </font></cell>
          </color>
@@ -37,14 +37,14 @@
                <cell width="150">
                   <img src="entities/objects/foliage/BananaLeaf/BananaLeaf_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             바나나잎 덤불은 바나나 나무와 많이 비슷하지만 
             크기는 훨씬 작습니다.
 		</font></cell>
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -78,9 +78,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -125,7 +125,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/GambaGrass/GambaGrass_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -158,7 +158,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -191,7 +191,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -229,7 +229,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -263,9 +263,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -310,7 +310,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Papyrus/Papyrus_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -344,9 +344,9 @@
                   
                   </font><a href="zoopedia:zoopedia_sedge:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사초과 </font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사초과 </font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -380,7 +380,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -415,7 +415,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -453,7 +453,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -493,7 +493,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -527,9 +527,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -574,7 +574,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Cattails/Cattails_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                큰부들은 큰 키의 여러해살이 풀이며 포복성의 뿌리와 길고 평평한 잎이 특징입니다.
               꽃은 원주형 꽃이삭에 달리며 열매 이삭은 갈색으로
                표면이 부드럽습니다. 큰부들은 온대 기후와 열대 기후의 민물 늪지대에서 자라지만
@@ -588,7 +588,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -622,9 +622,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -669,7 +669,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Bluebush/Bluebush_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -703,7 +703,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -739,7 +739,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -773,9 +773,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -820,7 +820,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Sedge/Sedge_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -855,7 +855,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -888,7 +888,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -923,7 +923,7 @@
                   
                   </font><a href="zoopedia:zoopedia_papyrus:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">파피루스</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">를 만들었습니다. 사초과에 속하는 한 식물은 건초나 포장용 재료로 쓰이는 것도 있습니다.
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">파피루스</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">를 만들었습니다. 사초과에 속하는 한 식물은 건초나 포장용 재료로 쓰이는 것도 있습니다.
 	       황새풀은 베갯속으로 쓰입니다.
       
                
@@ -944,7 +944,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -978,9 +978,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1025,7 +1025,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/SpinosaBush/SpinosaBush_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                풍접초 덤불은 아프리카 북동부의 건조 및 반건조 지역에 자생하는 키작은 관목으로서, 특히 낙타와 같은 풀을 뜯어먹는 동물의 중요한 먹이입니다. 
                튼튼하고 적응성이 뛰어나 케냐 북부의 생태학자들은 토양의 염분 문제를 해결하는 데 풍접초 덤불을 사용하여 실험을 하기도 했습니다.
 		</font></cell>
@@ -1048,7 +1048,7 @@
                   <img src="entities\objects\foliage\YellowFlowerbedMedium\YellowFlowerbedMedium_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\foliage\BlueFlowerbedLarge\BlueFlowerbedLarge_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\foliage\OrangeFlowerbedLarge\OrangeFlowerbedLarge_Zoo_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">예쁘게 장식된 화단은 동물원의 시각적 환경을 향상시키며 동물원을 찾는 관람객에게 친근한 환경을 제공해 줍니다.
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">예쁘게 장식된 화단은 동물원의 시각적 환경을 향상시키며 동물원을 찾는 관람객에게 친근한 환경을 제공해 줍니다.
                </font></color>
             </cell>
          </cell>
@@ -1063,7 +1063,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/DesertGrass/DesertGrass_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 잔디는 관상형 초목으로서 군데군데 덤불을 형성합니다. 또한 사막 잔디는 고온 건조한 사막 환경에서 잘 자라는 것이 특징입니다.	
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사막 잔디는 관상형 초목으로서 군데군데 덤불을 형성합니다. 또한 사막 잔디는 고온 건조한 사막 환경에서 잘 자라는 것이 특징입니다.	
       </font></cell>
             </cell>
             <p />
@@ -1079,8 +1079,8 @@
                <cell width="150">
                   <img src="entities/objects/foliage/ElephantGrass/ElephantGrass_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리풀은 키가 크고 거친 목초로서 아프리카 열대 지방과 아시아 남부가 원산지입니다. 주로 아프리카 사바나의 호수나 강바닥을 따라 축축한 토양에서 조밀한 덤불 형태로 자라는데, 키는 3m 정도 됩니다.
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리풀잎의 가장자리는 매우 날카로워 코끼리풀덤불을 헤치고 지나가기란 쉽지 않습니다. 그래서 새들이 코끼리풀덤불 속에 둥지를 많이 틉니다.
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리풀은 키가 크고 거친 목초로서 아프리카 열대 지방과 아시아 남부가 원산지입니다. 주로 아프리카 사바나의 호수나 강바닥을 따라 축축한 토양에서 조밀한 덤불 형태로 자라는데, 키는 3m 정도 됩니다.
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리풀잎의 가장자리는 매우 날카로워 코끼리풀덤불을 헤치고 지나가기란 쉽지 않습니다. 그래서 새들이 코끼리풀덤불 속에 둥지를 많이 틉니다.
                </font></cell>
             </cell>
             <p />
@@ -1096,7 +1096,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Toadstools/Toadstools_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                그냥 버섯이라고도 부르는 독버섯은 정확하게는 주름이 있는 곰팡이류(또는 균류)에 속하며 일반적으로는 다육질이나 목질의 버섯을 가리키는 말입니다. 식용종은 버섯이라는 용어를 붙이고, 독성이 있거나 불쾌한 종을 독버섯이라 부르는 것은 과학적 근거가 전혀 없습니다.
  예를 들어, 두 종류의 독버섯을 비교할 때 그 관련성이 독버섯과 식용 버섯을 비교할 때보다 더 적을 수도 있습니다.
  
@@ -1108,7 +1108,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1142,9 +1142,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1189,7 +1189,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/ReindeerLichen/ReindeerLichen_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                순록이끼는 북극의 생태계에서 아주 중요한 위치를 차지하는 종으로 순록, 말코손바닥사슴 및 북아메리카 순록의 주요한 겨울 먹잇감입니다. 순록이끼는 형태가 다양하지만 
                일반적으로 가지가 많고 꼿꼿한 관 모양의 엽상체를 가지고 있으며 잎겨드랑이에 작은 구멍이 뚫려 있습니다. 
                매우 천천히 자라며 과도한 방목과 화재에 쉽게 파괴됩니다. 순록이끼는 온도와 습도가 가장 높은 봄과 가을에 가장 빨리 자랍니다. 
@@ -1198,7 +1198,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1232,9 +1232,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1279,7 +1279,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/WaterLily/WaterLily_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1313,7 +1313,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1345,7 +1345,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1377,7 +1377,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1409,7 +1409,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1447,7 +1447,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1481,9 +1481,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1528,7 +1528,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/juneGrass/JuneGrass_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1561,7 +1561,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1600,7 +1600,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1634,9 +1634,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1681,7 +1681,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Dandelions/Dandelions_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1723,7 +1723,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1757,9 +1757,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1804,7 +1804,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/ArcticMoss/ArcticMoss_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1837,7 +1837,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1876,7 +1876,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1918,7 +1918,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1952,9 +1952,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -1999,7 +1999,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/WhiteLillies/WhiteLillies_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">흰 백합은 여러해살이 식물로 층이 있는 비늘줄기, 칼날 모양의 잎, 커다란 하나의 나팔 모양의 꽃이 특징입니다. 이 꽃에는 반점이 있는 꽃잎과 밖으로 
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">흰 백합은 여러해살이 식물로 층이 있는 비늘줄기, 칼날 모양의 잎, 커다란 하나의 나팔 모양의 꽃이 특징입니다. 이 꽃에는 반점이 있는 꽃잎과 밖으로 
                드러난 수술이 있습니다. 17세기까지 약초로 사용되던 흰 백합은 전갈이나 
                뱀의 독을 치료하는 용도에서부터 근육통, 불임 치료까지 다양한 용도로 쓰였습니다.
 		</font></cell>
@@ -2017,7 +2017,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Larkspur/Larkspur_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2048,7 +2048,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2082,9 +2082,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2129,19 +2129,19 @@
                <cell width="150">
                   <img src="entities/objects/foliage/AfricanDaisy/AfricanDaisy_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">국화과 식물로 아프리카 남부가 원산지인 한해살이풀입니다. 미국에서 아프리카 데이지는 토양 상태가 좋고 일조량이 풍부한 곳에서 정원용 화초로 재배됩니다. 꽃은 여름부터 가을까지 피며 가장 흔한 종은 푸른 눈의 아프리카 데이지로 알려진 식물입니다. 보통 높이는 60cm가 넘으며 꽃은 직경 7cm에 주변은 흰색의 설상화로 가운데는 푸른색의 관상화로 이루어져있습니다. 꽃잎은 밤마다 닫혔다가 다음날 아침에 다시 열립니다. 주황색 꽃이 피는 왜성 품종도 있습니다.
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">국화과 식물로 아프리카 남부가 원산지인 한해살이풀입니다. 미국에서 아프리카 데이지는 토양 상태가 좋고 일조량이 풍부한 곳에서 정원용 화초로 재배됩니다. 꽃은 여름부터 가을까지 피며 가장 흔한 종은 푸른 눈의 아프리카 데이지로 알려진 식물입니다. 보통 높이는 60cm가 넘으며 꽃은 직경 7cm에 주변은 흰색의 설상화로 가운데는 푸른색의 관상화로 이루어져있습니다. 꽃잎은 밤마다 닫혔다가 다음날 아침에 다시 열립니다. 주황색 꽃이 피는 왜성 품종도 있습니다.
                   </font><p />
                </cell>
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             	내용 출처 
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             	© 1993-2003 마이크로소프트 코퍼레이션. 모든 권리 보유.
             </font></cell>
          </color>
@@ -2156,7 +2156,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/AfricanViolets/AfricanViolets_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" width="128" height="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2200,7 +2200,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2234,9 +2234,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2281,7 +2281,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/JungleLillies/JungleLillies_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" width="128" height="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                동양 백합이라고도 하는 정글 백합은 커다란 별 모양의 꽃잎과
                강한 향이 특징으로 현재 전 세계 원예 산업 시장에서
                가장 사랑받는 꽃으로 손꼽힙니다. 정글 백합은 색이 아름답고 향이 좋아서
@@ -2301,7 +2301,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/LilyOfTheValley/LilyOfTheValley_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2344,7 +2344,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2378,9 +2378,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2425,7 +2425,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/FringedPolygala/FringedPolygala_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2465,7 +2465,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2499,9 +2499,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2546,7 +2546,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/ProteaWildflowers/ProteaWildflowers_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2584,7 +2584,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2618,9 +2618,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2665,7 +2665,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Baobob/Baobob_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2698,7 +2698,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2732,9 +2732,9 @@
                   
                   </font><a href="zoopedia:zoopedia_maple:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">단풍나무 </font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">단풍나무 </font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2772,7 +2772,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2806,7 +2806,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2847,7 +2847,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2881,9 +2881,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -2928,7 +2928,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/UmbrellaAcacia/UmbrellaAcacia_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -2970,7 +2970,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3004,9 +3004,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3051,7 +3051,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/AcaciaCaffra/AcaciaCaffra_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3093,7 +3093,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3127,9 +3127,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3174,7 +3174,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Orchid/Orchid_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3213,7 +3213,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3247,9 +3247,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3294,7 +3294,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/ElephantEar/ElephantEar_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3329,7 +3329,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3363,9 +3363,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3410,7 +3410,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Kily/Kily_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3446,7 +3446,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3488,7 +3488,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3522,9 +3522,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3569,7 +3569,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/BananaTree/BananaTree_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3602,7 +3602,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3643,7 +3643,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3678,7 +3678,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3716,7 +3716,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3750,9 +3750,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3797,7 +3797,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Kapok/Kapok_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3831,7 +3831,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3875,7 +3875,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3909,9 +3909,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -3956,7 +3956,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/RedCedar/RedCedar_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -3994,9 +3994,9 @@
                   
                   </font><a href="zoopedia:zoopedia_cypress:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">상록수</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">상록수</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4037,7 +4037,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4071,9 +4071,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4118,7 +4118,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/FoxtailPalm/FoxtailPalm_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4144,7 +4144,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4183,7 +4183,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/TreeFern/TreeFern_Rainforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4217,7 +4217,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4251,9 +4251,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4298,7 +4298,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Birch/Birch_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4333,7 +4333,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4370,7 +4370,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4404,7 +4404,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4442,7 +4442,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4476,9 +4476,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4523,7 +4523,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Maple/Maple_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4558,7 +4558,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4595,7 +4595,7 @@
                   
                   
                   
-                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4632,7 +4632,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4666,9 +4666,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4713,7 +4713,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/FountainBamboo/FountainBamboo_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4757,7 +4757,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4791,9 +4791,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -4838,7 +4838,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/WaterBamboo/WaterBamboo_Temperate_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4870,7 +4870,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4918,7 +4918,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/HimalayanBirch/HimalayanBirch_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                쉽게 벗겨지는 하얀색 껍질을 지닌 히말라야 자작나무는
                주 타이쿤 2에 등장하는 나무들 중 가장 희귀하고 아름다운 나무입니다. 히말라야 자작나무는
                중국과 히말라야 서부가 원산지이며 10m에서 20m 정도까지
@@ -4937,7 +4937,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/BlackSpruce/BlackSpruce_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -4970,7 +4970,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5005,7 +5005,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5040,7 +5040,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5081,7 +5081,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5115,9 +5115,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5162,7 +5162,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/BalsamFir/BalsamFir_Boreal_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5203,7 +5203,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5242,7 +5242,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5276,9 +5276,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5323,7 +5323,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Tamarack/Tamarack_Borealforest_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5360,7 +5360,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5399,7 +5399,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5433,9 +5433,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5480,7 +5480,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/HimalayanPine/HimalayanPine_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5514,7 +5514,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5549,7 +5549,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5584,7 +5584,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5618,7 +5618,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5663,7 +5663,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5697,9 +5697,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5744,7 +5744,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/YellowCedar/YellowCedar_Alpine_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5778,9 +5778,9 @@
                   
                   </font><a href="zoopedia:zoopedia_cypress:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">편백나무</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">편백나무</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5817,7 +5817,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5851,9 +5851,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -5898,7 +5898,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/DatePalm/DatePalm_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5938,7 +5938,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -5973,7 +5973,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6007,7 +6007,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6046,7 +6046,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6080,9 +6080,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6127,7 +6127,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/CamelThornAcacia/CamelThornAcacia_Desert_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6163,9 +6163,9 @@
                   
                   </font><a href="zoopedia:zoopedia_elephant:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6199,9 +6199,9 @@
                   
                   </font><a href="zoopedia:zoopedia_giraffe:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">기린</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">기린</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6239,7 +6239,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6273,9 +6273,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6320,13 +6320,13 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Mangrove/Mangrove_Wetland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">맹그로브나무는 3개의 서로 다른 과에 속하는 여러 열대 꽃식물을 통칭하는 이름입니다. 맹그로브나무는 소금기가 있는 얕은 물에서 잘 자라는 특징이 있어서 특히 해안이나 강 하구의 어귀에서 많이 볼 수 있습니다. 활 모양으로 휘어져 엉켜 있는 뿌리는 썰물 때 지면에 노출되어있으며 일부 맹그로브의 뿌리는 수면 위까지 자라나기도 합니다. 호흡근이라고 하는 수직으로 뻗은 가지는 나무에 산소를 공급하는 역할을 합니다. 맹그로브 중 개체 수가 가장 많고 중요한 종은 붉은색을 띄는 것이 특징인 붉은 맹그로브나무입니다. 목재는 숯의 재료로 쓰이고 가죽 가공에 들어가는 타닌산의 원료로 사용됩니다. 특이하게도 맹그로브나무 씨는 나무에 달려 있는 상태로 발아하며, 묘목이 최대 30cm까지 자라기도 합니다. 묘목은 시가 모양이며 뿌리부분이 잎부분보다 무겁습니다. 묘목은 떨어지면서 어미 나무의 아래쪽 진흙에 자리를 잡습니다. 붉은맹그로브, 흰맹그로브, 버튼맹그로브는 플로리다 남부를 비롯한 여러 열대 지방에 자생합니다. 검은맹그로브는 마편초과에 속합니다.
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">맹그로브나무는 3개의 서로 다른 과에 속하는 여러 열대 꽃식물을 통칭하는 이름입니다. 맹그로브나무는 소금기가 있는 얕은 물에서 잘 자라는 특징이 있어서 특히 해안이나 강 하구의 어귀에서 많이 볼 수 있습니다. 활 모양으로 휘어져 엉켜 있는 뿌리는 썰물 때 지면에 노출되어있으며 일부 맹그로브의 뿌리는 수면 위까지 자라나기도 합니다. 호흡근이라고 하는 수직으로 뻗은 가지는 나무에 산소를 공급하는 역할을 합니다. 맹그로브 중 개체 수가 가장 많고 중요한 종은 붉은색을 띄는 것이 특징인 붉은 맹그로브나무입니다. 목재는 숯의 재료로 쓰이고 가죽 가공에 들어가는 타닌산의 원료로 사용됩니다. 특이하게도 맹그로브나무 씨는 나무에 달려 있는 상태로 발아하며, 묘목이 최대 30cm까지 자라기도 합니다. 묘목은 시가 모양이며 뿌리부분이 잎부분보다 무겁습니다. 묘목은 떨어지면서 어미 나무의 아래쪽 진흙에 자리를 잡습니다. 붉은맹그로브, 흰맹그로브, 버튼맹그로브는 플로리다 남부를 비롯한 여러 열대 지방에 자생합니다. 검은맹그로브는 마편초과에 속합니다.
                   </font><p />
                </cell>
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6360,9 +6360,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6407,7 +6407,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/Cypress/Cypress_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6446,7 +6446,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6480,9 +6480,9 @@
                   
                   </font><a href="zoopedia:zoopedia_yellowcedar:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">알래스카 삼나무</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">알래스카 삼나무</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6522,7 +6522,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6556,9 +6556,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6603,7 +6603,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/WeepingMyall/WeepingMyall_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6643,7 +6643,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6677,9 +6677,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6724,7 +6724,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/YellowFeverAcacia/YellowFeverAcacia_Scrub_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6763,7 +6763,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6797,9 +6797,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6844,7 +6844,7 @@
                <cell width="150">
                   <img src="entities/objects/foliage/TremblingAspen/TremblingAspen_Grassland_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6876,7 +6876,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -6912,7 +6912,7 @@
                </cell>
             </cell>
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6946,9 +6946,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -6994,7 +6994,7 @@
                   <img src="entities/objects/foliage/LogMedium/LogMedium_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                   <img src="entities/objects/foliage/LogSmall/LogSmall_Wetlands_ icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
-               <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell pady="15" width="400"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   습지대용 통나무는 모두 비버나 악어 같은 습지대 동물들에게 편안한 안식처가 됩니다.
@@ -7018,7 +7018,7 @@
             </cell>
             <p />
             <cell width="260" />
-            <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <cell width="620"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                
@@ -7052,9 +7052,9 @@
                
                </font><a href="zoopedia:zoopedia_encarta:entry">
                   <u>
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                   </u>
-               </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                
                
                

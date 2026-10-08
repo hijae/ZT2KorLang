@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="255" g="255" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="255" g="255" b="0"><font name="Gulim" size="10">
                       Vulnerable
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Tundra</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Tundra</font><br /></color>
      <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Antarctica</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Antarctica</font><br /></color> 
      <img src="ui/icon_maplocations/Tundra_Antarctica.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Mammals </font><i><font name="Malgun Gothic" size="10">(Mammalia)</font></i><br /><font name="Malgun Gothic" size="10">Order: Peguins </font><i><font name="Malgun Gothic" size="10">(Sphenisciformes )</font></i><br /><font name="Malgun Gothic" size="10">Family: Penguins </font><i><font name="Malgun Gothic" size="10">(Spheniscidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Pygoscelis</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">antarctica</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Mammals </font><i><font name="Gulim" size="10">(Mammalia)</font></i><br /><font name="Gulim" size="10">Order: Peguins </font><i><font name="Gulim" size="10">(Sphenisciformes )</font></i><br /><font name="Gulim" size="10">Family: Penguins </font><i><font name="Gulim" size="10">(Spheniscidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Pygoscelis</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">antarctica</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Chinstrap Penguin Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Chinstrap Penguin Facts</font>
     </color>
    </cell>
    <p />
@@ -106,38 +106,38 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">In 2004, two male chinstrap penguins named Roy and Silo in Central Park Zoo, New York City formed a pair bond, and took turns trying to hatch a rock, this was substituted by a keeper for a fertile egg, and the pair subsequently hatched and raised the chick.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">In 2004, two male chinstrap penguins named Roy and Silo in Central Park Zoo, New York City formed a pair bond, and took turns trying to hatch a rock, this was substituted by a keeper for a fertile egg, and the pair subsequently hatched and raised the chick.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10"> Their diet consists of krill (a shrimp-like sea creature), shrimp and fish.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10"> Their diet consists of krill (a shrimp-like sea creature), shrimp and fish.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The Chinstrap Penguin is one of three species in the genus Pygoscelis.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The Chinstrap Penguin is one of three species in the genus Pygoscelis.</font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Chinstrap Penguin in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
    </font></color>
-   <p /><font name="Malgun Gothic" size="10">The Chinstrap Penguin (Pygoscelis antarcticus) is a species of penguin which is found in the South Sandwich Islands, Antarctica, the South Orkneys, South Shetland, South Georgia, Bouvet Island, Balleny and Peter I Island. Their name derives from the narrow black band under their heads which makes it appear as if they are wearing black helmets, making them one of the most easily identified types of penguin. Other names for them are Ringed Penguins, Bearded Penguins, and Stonecracker Penguins due to their harsh call. They grow to 68 cm (27 in) and there are approximately 7,500,000 breeding pairs. The average adult weight of a Chinstrap Penguin is 4.5 kg (10 lbs). Their diet consists of krill (a shrimp like sea creature), shrimp and fish.
-   </font><p /><font name="Malgun Gothic" size="10">The Chinstrap Penguin was first described by German naturalist Forster in 1781. Its specific epithet was often seen as antarctica, however a 2002 review determined the genus Pygoscelis was masculine, and hence the correct binomial name is Pygoscelis antarcticus.
-   </font><p /><font name="Malgun Gothic" size="10">
+   <p /><font name="Gulim" size="10">The Chinstrap Penguin (Pygoscelis antarcticus) is a species of penguin which is found in the South Sandwich Islands, Antarctica, the South Orkneys, South Shetland, South Georgia, Bouvet Island, Balleny and Peter I Island. Their name derives from the narrow black band under their heads which makes it appear as if they are wearing black helmets, making them one of the most easily identified types of penguin. Other names for them are Ringed Penguins, Bearded Penguins, and Stonecracker Penguins due to their harsh call. They grow to 68 cm (27 in) and there are approximately 7,500,000 breeding pairs. The average adult weight of a Chinstrap Penguin is 4.5 kg (10 lbs). Their diet consists of krill (a shrimp like sea creature), shrimp and fish.
+   </font><p /><font name="Gulim" size="10">The Chinstrap Penguin was first described by German naturalist Forster in 1781. Its specific epithet was often seen as antarctica, however a 2002 review determined the genus Pygoscelis was masculine, and hence the correct binomial name is Pygoscelis antarcticus.
+   </font><p /><font name="Gulim" size="10">
 
 The Chinstrap Penguin is one of three species in the genus Pygoscelis. Mitochondrial and nuclear DNA evidence suggests the genus split from other penguins around 38 million years ago, about 2 million years after the ancestors of the genus Aptenodytes. In turn, the Adelie Penguins split off from the other members of the genus around 19 million years ago, and the Chinstrap and Gentoo finally diverging around 14 million years ago.
 
-   </font><p /><font name="Malgun Gothic" size="10">On land they build circular nests from stones, and lay around two eggs, which are incubated by both the male and the female for shifts of five to ten days. They can also breed on icebergs, though they prefer non icy conditions. The chicks hatch after about 35 days, and have fluffy gray backs and white fronts. The chicks stay in the nest for 20 to 30 days before they go to join a creche. At around 50 to 60 days old, they moult, gaining their adult plumage and go to sea.
-   </font><p /><font name="Malgun Gothic" size="10">
+   </font><p /><font name="Gulim" size="10">On land they build circular nests from stones, and lay around two eggs, which are incubated by both the male and the female for shifts of five to ten days. They can also breed on icebergs, though they prefer non icy conditions. The chicks hatch after about 35 days, and have fluffy gray backs and white fronts. The chicks stay in the nest for 20 to 30 days before they go to join a creche. At around 50 to 60 days old, they moult, gaining their adult plumage and go to sea.
+   </font><p /><font name="Gulim" size="10">
 The Chinstrap are some of the boldest and most aggressive penguins.
 
 
-   </font><p /><font name="Malgun Gothic" size="10">The diet of the Chinstrap consists of small shoaling animals, krill, small fish and other roaming marine crustaceans. They are considered near shore feeders foraging among the pack ice, although vagrants may occasionally be seen in the open sea. They feed by pursuit diving for prey close to their breeding colonies. Diving effort is usually concentrated near midnight and noon and dives typically last less than a minute and are seldom more than 200 feet deep. Like most penguins, Chinstraps using their flippers to swim at speeds of up to 20 miles per hour. On land, Chinstraps often toboggan on their stomachs, propelling themselves by their feet and flippers. They climb out of the water and up steep slopes using all four limbs and they are able to jump large distances to reach footholds.
+   </font><p /><font name="Gulim" size="10">The diet of the Chinstrap consists of small shoaling animals, krill, small fish and other roaming marine crustaceans. They are considered near shore feeders foraging among the pack ice, although vagrants may occasionally be seen in the open sea. They feed by pursuit diving for prey close to their breeding colonies. Diving effort is usually concentrated near midnight and noon and dives typically last less than a minute and are seldom more than 200 feet deep. Like most penguins, Chinstraps using their flippers to swim at speeds of up to 20 miles per hour. On land, Chinstraps often toboggan on their stomachs, propelling themselves by their feet and flippers. They climb out of the water and up steep slopes using all four limbs and they are able to jump large distances to reach footholds.
 
 
 
@@ -149,8 +149,8 @@ The Chinstrap are some of the boldest and most aggressive penguins.
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Made by </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">Dennis1991</font></color><br />
+  <cell width="620"><font name="Gulim" size="10">
+   Made by </font><color r="255" g="231" b="135"><font name="Gulim" size="10">Dennis1991</font></color><br />
   </cell>
  </text>
 </zoopedia_stormbandpinguinb>

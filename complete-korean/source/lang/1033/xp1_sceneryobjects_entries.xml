@@ -9,9 +9,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\Geyser\Geyser_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 간헐적으로 증기와 물을 뿜어내는 천연 온천입니다. 땅속의 온천수가 바위를 타고 흐르다 뜨거운 마그마와 만나면 증기로 변해 지표면으로 세차게 분출되면서 간헐 온천이 형성됩니다.
-</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 간헐 온천은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -26,9 +26,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\BatCave\BatCave_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 몸집이 작은 박쥐가 수백 마리씩 떼를 지어 서식하는 곳입니다. 박쥐는 무섭다는 평판과 달리 대부분 사람에게 무해하며, 모기 같은 해충을 잡아먹는 이로운 동물입니다.      
-</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 박쥐 동굴은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -43,9 +43,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\rock_pool\RockPool_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 동물원의 경관을 아름답게 꾸며 주는 시설입니다. 호랑이 같은 몸집이 큰 고양이과 동물은 시원한 바위 연못에서 노는 것을 좋아합니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 바위 연못은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.      
      </font></color>
     </cell>
@@ -60,9 +60,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\Dormant_Volcano\Dormant_Volcano_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 일반적으로 화산은 지표면 밖으로 뜨거운 마그마를 뿜어내지만, 다행히 이 화산은 대개 활동을 멈춘 상태입니다!
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 화산은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -77,9 +77,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\zoopedia_redwoodtunnel\RedwoodTunnel_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 세쿼이아 나무 둥치가 터널 모양으로 벌어져 있어 지프를 타고 그 사이를 지나갈 수 있습니다. 세쿼이아 나무 터널은 도로 위에만 설치할 수 있습니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 세쿼이아 나무 터널은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -94,9 +94,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\SnowEmitter_df\SnowEmitter_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 눈가루를 뿌려 환상적인 분위기를 연출하는 기계로 툰드라 지대에 잘 어울립니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 제설기는 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -111,9 +111,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\MineralDeposit_df\MineralDeposit_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 자연적으로 생성된 큰 바위로 관람객의 시선을 끕니다. 사막이나 관목림 지대에 잘 어울립니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 자수정 바위는 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -128,9 +128,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\FogEmitter_df\FogEmitter_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 짙은 안개를 뿜어내어 습지 분위기를 더해 주는 시설입니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 안개 분사기는 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -145,7 +145,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\MylarBalloons_df\MylarBalloons_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-     <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 보존 상태가 위험하거나 멸종 위기에 처한 동물이 새끼를 낳을 때마다 받는 선물입니다. 풍선 다발은 투어를 즐기는 관람객이 좋아합니다.
      </font></color>
     </cell>
@@ -160,9 +160,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\CrystalTunnel_df\CrystalTunnel_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 영롱한 빛으로 가득 찬 수정 터널은 관람객에게 인기가 좋습니다.
-      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 수정 터널은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>
@@ -178,9 +178,9 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities\objects\scenery\Statue_20000Guest\Statue_20000Guest_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 동물원 주변에 동상을 세워 놓으면 관람객들이 투어를 즐기는 동안 감상합니다.          
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 2만 명의 관람객이 동물원을 방문하면 이 동상을 사용할 수 있습니다. 
                </font></color>
             </cell>
@@ -196,9 +196,9 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities\objects\scenery\Statue_AnimalBabies\Statue_AnimalBabies_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 동물원 주변에 동상을 세워 놓으면 관람객들이 투어를 즐기는 동안 감상합니다.          
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 멸종 위기 동물 번식 공로상을 수상하면 이 동상을 사용할 수 있습니다. 
                </font></color>
             </cell>

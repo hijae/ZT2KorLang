@@ -12,8 +12,8 @@
                   <br />
                   <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">관람객들이 쓰레기통에 쓰레기를 버리면 관리원은 쓰레기통을 비웁니다. 관람객들은 쓰레기통이 쓰레기로 가득 차 있으면 싫어하고 쓰레기통을 사용 할 수 없으면 길에 쓰레기를 버립니다. 투어 중인 관람객은 테마 시설물을 구경하는 것을 좋아합니다.          
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.     
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">관람객들이 쓰레기통에 쓰레기를 버리면 관리원은 쓰레기통을 비웁니다. 관람객들은 쓰레기통이 쓰레기로 가득 차 있으면 싫어하고 쓰레기통을 사용 할 수 없으면 길에 쓰레기를 버립니다. 투어 중인 관람객은 테마 시설물을 구경하는 것을 좋아합니다.          
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.     
                </font></color>
             </cell>
          </cell>
@@ -30,9 +30,9 @@
                   <br />
                   <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                관람객이 지붕 아래에서 동물을 볼 수 있도록 만들어 놓은 시설입니다. 투어 중인 관람객은 테마 시설물을 구경하는 것을 좋아합니다.
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요. 
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요. 
                </font></color>
             </cell>
          </cell>
@@ -49,9 +49,9 @@
                   <br />
                   <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                관람객이 동물원에서 구입한 음식물을 앉아서 먹을 수 있는 시설입니다. 관람객은 앉아서 음식을 먹는 것을 더 좋아합니다. 투어 중인 관람객은 테마 시설물을 구경하는 것을 좋아합니다.
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">포상으로 받을 수 있는 테마 시설물을 확인하려면 [동물원 명성] 단추를 클릭하고 [수상 내역] 탭을 클릭한 다음 [보유하고 있는 포상 내역]을 클릭하세요.
                </font></color>
             </cell>
          </cell>

@@ -18,7 +18,7 @@
                   <img src="entities\objects\paths\jungle\path_jungle_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\paths\safari\path_safari_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\paths\extinct_xt\path_extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">길은 아스팔트, 벽돌, 콘크리트, 흙, 모래, 돌로 만들 수 있습니다.</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">어떤 재료로 만드느냐 하는 것보다는 길을 만든다는 것 자체가 더 중요하지만 적절한 재료를 선택하면 동물원을 더 아름답게 꾸밀 수 있습니다.</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 모드에서 챌린지를 완료하면 정글 스타일 길과 사파리 스타일 길을 사용할 수 있습니다.</font></color>
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">길은 아스팔트, 벽돌, 콘크리트, 흙, 모래, 돌로 만들 수 있습니다.</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">어떤 재료로 만드느냐 하는 것보다는 길을 만든다는 것 자체가 더 중요하지만 적절한 재료를 선택하면 동물원을 더 아름답게 꾸밀 수 있습니다.</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 모드에서 챌린지를 완료하면 정글 스타일 길과 사파리 스타일 길을 사용할 수 있습니다.</font></color>
             </cell>
          </cell>
       </LOC_STRING>

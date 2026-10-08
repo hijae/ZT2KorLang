@@ -48,10 +48,10 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                        <color r="255" g="255" b="255"><font name="Gulim" size="10">
                       Low Risk
                         </font></color>
                      </color>                  
@@ -59,16 +59,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Reef</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Reef</font><br /></color>
      <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Atlantic Ocean</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Atlantic Ocean</font><br /></color> 
      <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Cartilaginous Fishes  </font><i><font name="Malgun Gothic" size="10">(Chondricthyes)</font></i><br /><font name="Malgun Gothic" size="10">Order: </font><i><font name="Malgun Gothic" size="10">(Squaliformes)</font></i><br /><font name="Malgun Gothic" size="10">Family: Dogfish sharks </font><i><font name="Malgun Gothic" size="10">(Squalidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Squalus</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">cubensis</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Cartilaginous Fishes  </font><i><font name="Gulim" size="10">(Chondricthyes)</font></i><br /><font name="Gulim" size="10">Order: </font><i><font name="Gulim" size="10">(Squaliformes)</font></i><br /><font name="Gulim" size="10">Family: Dogfish sharks </font><i><font name="Gulim" size="10">(Squalidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Squalus</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">cubensis</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -85,7 +85,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cuban Dogfish Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Cuban Dogfish Facts</font>
     </color>
    </cell>
    <p />
@@ -95,44 +95,44 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">It probably feeds on bottom fishes and invertebrates.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">It probably feeds on bottom fishes and invertebrates.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Its reproduction is ovoviviparous, with 10 pups in a litter.
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Its reproduction is ovoviviparous, with 10 pups in a litter.
 </font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>        
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m.</font></color>
        
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Cuban Dogfish in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo. 
    </font></color>
-   <p /><font name="Malgun Gothic" size="10"> The Cuban dogfish, Squalus cubensis, is a dogfish, a member of the family Squalidae in the order Squaliformes. It is found in the Western Atlantic from North Carolina to Florida, in the Gulf of Mexico, around Cuba, Hispaniola, southern Brazil and Argentina. It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m. Its length is up to 110 cm.
+   <p /><font name="Gulim" size="10"> The Cuban dogfish, Squalus cubensis, is a dogfish, a member of the family Squalidae in the order Squaliformes. It is found in the Western Atlantic from North Carolina to Florida, in the Gulf of Mexico, around Cuba, Hispaniola, southern Brazil and Argentina. It inhabits continental shelves and uppermost slopes at depths from 60 to 380 m. Its length is up to 110 cm.
 
 
-   </font><p /><font name="Malgun Gothic" size="10"> It is a slim, gray shark with black tips to its dorsal fins black and at the edges of its pectoral fins, its pelvic and caudal fins are white, It possess a spine at front edge of each of its two dorsal fans.
+   </font><p /><font name="Gulim" size="10"> It is a slim, gray shark with black tips to its dorsal fins black and at the edges of its pectoral fins, its pelvic and caudal fins are white, It possess a spine at front edge of each of its two dorsal fans.
 
 
-   </font><p /><font name="Malgun Gothic" size="10"> It probably feeds on bottom fishes and invertebrates. The isopod parasites which commonly infest the mouth and gills of marine fish are unusually large in the Cuban dogfish. Its reproduction is ovoviviparous, with 10 pups in a litter.
+   </font><p /><font name="Gulim" size="10"> It probably feeds on bottom fishes and invertebrates. The isopod parasites which commonly infest the mouth and gills of marine fish are unusually large in the Cuban dogfish. Its reproduction is ovoviviparous, with 10 pups in a litter.
 
 
-   </font><p /><font name="Malgun Gothic" size="10"> It is not generally utilized for food, but taken commercially for the oil and vitamins extracted from its liver.
+   </font><p /><font name="Gulim" size="10"> It is not generally utilized for food, but taken commercially for the oil and vitamins extracted from its liver.
 
 </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Made by </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">Dennis1991</font></color><color r="0" g="0" b="0" />
+  <cell width="620"><font name="Gulim" size="10">
+   Made by </font><color r="255" g="231" b="135"><font name="Gulim" size="10">Dennis1991</font></color><color r="0" g="0" b="0" />
   </cell>
  </text>
 </zoopedia_cubanfishb>

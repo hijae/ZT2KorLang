@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="alert:sttformat">
-         <font name="Malgun Gothic" size="10">%text%</font>
+         <font name="Gulim" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="alert:lttformat">
-         <font name="Malgun Gothic" size="10">%text%</font>
+         <font name="Gulim" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="alert:save_game_message">
-         <font name="Malgun Gothic" size="20">
+         <font name="Gulim" size="20">
             게임 저장 완료
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="alert:alert">
-         <font name="Malgun Gothic" size="16">
+         <font name="Gulim" size="16">
             <color r="255" g="197" b="78">
                <b>%text%</b>
             </color>

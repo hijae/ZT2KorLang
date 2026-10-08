@@ -20,7 +20,7 @@
                   <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/FoodDish/FoodDish_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">그릇은 어떤 종류의 동물이나 음식에도 사용할 수 있는 다용도 먹이통입니다. 그러나 그릇은 여물통과 달리 동시에 많은 동물이 사용할 수 없기 때문에 여물통보다는 좀 더 자주 먹이를 채워야 합니다.</font></color>
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">그릇은 어떤 종류의 동물이나 음식에도 사용할 수 있는 다용도 먹이통입니다. 그러나 그릇은 여물통과 달리 동시에 많은 동물이 사용할 수 없기 때문에 여물통보다는 좀 더 자주 먹이를 채워야 합니다.</font></color>
             </cell>
          </cell>
       </LOC_STRING>
@@ -41,7 +41,7 @@
                   <img src="entities/objects/food/Trough/Trough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/Trough/Trough_branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/Trough/Trough_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">여러 동물이 동시에 이용할 수 있으며 물과 먹이를 함께 담을 수 있는 다용도 먹이통입니다. 여물통에는 그릇보다 많은 양의 먹이를 담을 수가 있어서 자주 채워 줄 필요가 없습니다.</font></color>
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">여러 동물이 동시에 이용할 수 있으며 물과 먹이를 함께 담을 수 있는 다용도 먹이통입니다. 여물통에는 그릇보다 많은 양의 먹이를 담을 수가 있어서 자주 채워 줄 필요가 없습니다.</font></color>
             </cell>
          </cell>
       </LOC_STRING>   

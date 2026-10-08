@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="0" g="225" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="0" g="225" b="0"><font name="Gulim" size="10">
                       Low Risk
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Coastal</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Coastal</font><br /></color>
      <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Atlantic Ocean</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Atlantic Ocean</font><br /></color> 
      <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Jellyfish </font><i><font name="Malgun Gothic" size="10">(Scyphozoa)</font></i><br /><font name="Malgun Gothic" size="10">Order: </font><i><font name="Malgun Gothic" size="10">(Semaeostomae)</font></i><br /><font name="Malgun Gothic" size="10">Family: </font><i><font name="Malgun Gothic" size="10">Cyaneidae</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Cyanea</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">Lamarckii</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Jellyfish </font><i><font name="Gulim" size="10">(Scyphozoa)</font></i><br /><font name="Gulim" size="10">Order: </font><i><font name="Gulim" size="10">(Semaeostomae)</font></i><br /><font name="Gulim" size="10">Family: </font><i><font name="Gulim" size="10">Cyaneidae</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Cyanea</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">Lamarckii</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Blue jellyfish Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Blue jellyfish Facts</font>
     </color>
    </cell>
    <p />
@@ -106,35 +106,35 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Cyanea lamarckii occurs in coastal waters all around the British Isles.
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Cyanea lamarckii occurs in coastal waters all around the British Isles.
 </font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The bell can grow up to 30 cm in diameter.
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The bell can grow up to 30 cm in diameter.
 </font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Hollow marginal tentacles arise from the underneath the bell.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Hollow marginal tentacles arise from the underneath the bell.</font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Blue jellyfish in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
    </font></color>
    
 
-<p /><font name="Malgun Gothic" size="10"> Cyanea lamarckii occurs in coastal waters all around the British Isles. It has been recorded from the Shetland Islands, the Orkneys, along the east coast of England, Dartmouth in the south and up through the west coasts of England and Wales. 
+<p /><font name="Gulim" size="10"> Cyanea lamarckii occurs in coastal waters all around the British Isles. It has been recorded from the Shetland Islands, the Orkneys, along the east coast of England, Dartmouth in the south and up through the west coasts of England and Wales. 
 
 
 
-</font><p /><font name="Malgun Gothic" size="10"> The bell can grow up to 30 cm in diameter. Hollow marginal tentacles arise from the underneath the bell. These are arranged in eight horseshoe or rectangular shaped groups each with 40 to 60 tentacles. Beneath the bell is a short thick manubrium merging onto four wide membranous and folded curtain like oral lips. The oral lips may be yellowish and fade to white at their extremities. It has thick and frilly oral arms that are slightly shorter than the diameter of the bell. The sense organs in the bell are protected by a long exumbrellar extension which forms a hood. Its colour varies from translucent through pale yellow, pale brown, pale grey to light blue or purple. In faintly coloured species the blue tends to outline the pattern of the internal sculpting of the bell (Russell, 1970). It has four interradial folded gonads that hang freely downwards beneath the bell surface.
+</font><p /><font name="Gulim" size="10"> The bell can grow up to 30 cm in diameter. Hollow marginal tentacles arise from the underneath the bell. These are arranged in eight horseshoe or rectangular shaped groups each with 40 to 60 tentacles. Beneath the bell is a short thick manubrium merging onto four wide membranous and folded curtain like oral lips. The oral lips may be yellowish and fade to white at their extremities. It has thick and frilly oral arms that are slightly shorter than the diameter of the bell. The sense organs in the bell are protected by a long exumbrellar extension which forms a hood. Its colour varies from translucent through pale yellow, pale brown, pale grey to light blue or purple. In faintly coloured species the blue tends to outline the pattern of the internal sculpting of the bell (Russell, 1970). It has four interradial folded gonads that hang freely downwards beneath the bell surface.
 
 
 
@@ -144,8 +144,8 @@
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Made by </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">Dennis1991</font></color> <color r="0" g="0" b="255" />
+  <cell width="620"><font name="Gulim" size="10">
+   Made by </font><color r="255" g="231" b="135"><font name="Gulim" size="10">Dennis1991</font></color> <color r="0" g="0" b="255" />
   </cell>
  </text>
 </zoopedia_blauwehaarkwalblue>

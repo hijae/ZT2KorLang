@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="255" g="255" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="255" g="255" b="0"><font name="Gulim" size="10">
                       Vulnerable
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Pelagic</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Pelagic</font><br /></color>
      <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Atlantic Ocean</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Atlantic Ocean</font><br /></color> 
      <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Ray-Finned Fishes </font><i><font name="Malgun Gothic" size="10">(Actinopterygii)</font></i><br /><font name="Malgun Gothic" size="10">Order: </font><i><font name="Malgun Gothic" size="10">Perciformes</font></i><br /><font name="Malgun Gothic" size="10">Family: Marlins </font><i><font name="Malgun Gothic" size="10">(Istiophoridae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Tetrapturus</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">Albidus</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Ray-Finned Fishes </font><i><font name="Gulim" size="10">(Actinopterygii)</font></i><br /><font name="Gulim" size="10">Order: </font><i><font name="Gulim" size="10">Perciformes</font></i><br /><font name="Gulim" size="10">Family: Marlins </font><i><font name="Gulim" size="10">(Istiophoridae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Tetrapturus</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">Albidus</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Atlantic White Marlin Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Atlantic White Marlin Facts</font>
     </color>
    </cell>
    <p />
@@ -106,27 +106,27 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The Atlantic White Marlin lives in the Mediterranean Sea and the Atlantic Ocean.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The Atlantic White Marlin lives in the Mediterranean Sea and the Atlantic Ocean.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The Atlantic White Marlin lives 0 to 150 meters under the water surface.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The Atlantic White Marlin lives 0 to 150 meters under the water surface.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The Atlantic White Marlin is for the fishery very important. With fishing rods they don't hunt on this fish.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The Atlantic White Marlin is for the fishery very important. With fishing rods they don't hunt on this fish.</font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Atlantic White Marlin in challenge or campaign mode, do you need a 2 star famous for your zoo.
    </font></color>
-   <p /><font name="Malgun Gothic" size="10"> The white marlin, Tetrapturus albidus, is an oceanodromous fish in the marlin family Istiophoridae. It is a large game fish, with a maximum recorded weight of 82.5 kg (182 lb). It ranges across the central Atlantic ocean, where it feeds on fish and squid.
+   <p /><font name="Gulim" size="10"> The white marlin, Tetrapturus albidus, is an oceanodromous fish in the marlin family Istiophoridae. It is a large game fish, with a maximum recorded weight of 82.5 kg (182 lb). It ranges across the central Atlantic ocean, where it feeds on fish and squid.
 
 Ocean City, Maryland is considered the White Marlin Capital of the World.
 
@@ -138,8 +138,8 @@ Ocean City, Maryland is considered the White Marlin Capital of the World.
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Content provided courtesy </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">Wikipedia, the free enceclopedia.</font></color><font name="Malgun Gothic" size="10">  Made by Dennis1991!
+  <cell width="620"><font name="Gulim" size="10">
+   Content provided courtesy </font><color r="255" g="231" b="135"><font name="Gulim" size="10">Wikipedia, the free enceclopedia.</font></color><font name="Gulim" size="10">  Made by Dennis1991!
   </font></cell>
  </text>
 </zoopedia_atlanticwhitemar>

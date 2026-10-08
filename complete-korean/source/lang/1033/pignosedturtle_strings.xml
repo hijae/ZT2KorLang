@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="255" g="255" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="255" g="255" b="0"><font name="Gulim" size="10">
                       Vulnerable
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Swamp</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Swamp</font><br /></color>
      <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Australia</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Australia</font><br /></color> 
      <img src="ui/icon_maplocations/Scrub_Australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Turtles </font><i><font name="Malgun Gothic" size="10">(Testudines)</font></i><br /><font name="Malgun Gothic" size="10">Order: Water turtles </font><i><font name="Malgun Gothic" size="10">(Carettochelyidae)</font></i><br /><font name="Malgun Gothic" size="10">Family: Softshelled turtles </font><i><font name="Malgun Gothic" size="10">(Trionychidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Carettochelys</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">C. insculpta</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Turtles </font><i><font name="Gulim" size="10">(Testudines)</font></i><br /><font name="Gulim" size="10">Order: Water turtles </font><i><font name="Gulim" size="10">(Carettochelyidae)</font></i><br /><font name="Gulim" size="10">Family: Softshelled turtles </font><i><font name="Gulim" size="10">(Trionychidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Carettochelys</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">C. insculpta</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Pignosed Turtle</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts about the Pignosed Turtle</font>
     </color>
    </cell>
    <p />
@@ -106,34 +106,34 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom.</font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10"> In Challenge and Campaign mode the Pignosed Turtle will be available when your zoo has reached 1 star.
+   <color r="255" g="248" b="178"><font name="Gulim" size="10"> In Challenge and Campaign mode the Pignosed Turtle will be available when your zoo has reached 1 star.
    </font></color>
-   <p /><font name="Malgun Gothic" size="10"> Pignosed Turtle (Carettochelys insculpta) is a water turtle that lives in northern Australia and New Guinea. The Pignosed Turtle is the only species from the genus Carettochelys and even the only species from the family Carettochelyidae.
-</font><p /><font name="Malgun Gothic" size="10"> Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom. The Pignosed Turtle feeds primarily on fish, but also on plants and amphibians. This turtle belongs to the superfamliy Trionychoidea along with the softshelled turtles (Trionychidae), these two families are very strong related.
-</font><p /><font name="Malgun Gothic" size="10"> This aquatic species rarely comes out of the water and is a completely adjusted to that, the belly and shell are grown together and their flippers look like oars. Their head and flippers are black, the shell brown grey to black and the belly pinkish white. Males are smaller than females, but they have a longer and bigger tale. Pignosed Turtle gets his name from the fact that every flipper has two visible  toes. This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout. Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.
+   <p /><font name="Gulim" size="10"> Pignosed Turtle (Carettochelys insculpta) is a water turtle that lives in northern Australia and New Guinea. The Pignosed Turtle is the only species from the genus Carettochelys and even the only species from the family Carettochelyidae.
+</font><p /><font name="Gulim" size="10"> Their habitat consist of rivers, lakes and pools with shallow depths and a muddy bottom. The Pignosed Turtle feeds primarily on fish, but also on plants and amphibians. This turtle belongs to the superfamliy Trionychoidea along with the softshelled turtles (Trionychidae), these two families are very strong related.
+</font><p /><font name="Gulim" size="10"> This aquatic species rarely comes out of the water and is a completely adjusted to that, the belly and shell are grown together and their flippers look like oars. Their head and flippers are black, the shell brown grey to black and the belly pinkish white. Males are smaller than females, but they have a longer and bigger tale. Pignosed Turtle gets his name from the fact that every flipper has two visible  toes. This turlte is called in English Pignosed Turtle for a reason: it has nostrils at the end of a fleshy snout. Their mouth looks like a beak, the eyes are bulged and their shell can be about 45 to 50 cm.
 
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Information from: </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">http://nl.wikipedia.org/wiki/Guinese_tweeklauw </font><p /><font name="Malgun Gothic" size="10"> Made by Dennis1991!</font></color> 
+  <cell width="620"><font name="Gulim" size="10">
+   Information from: </font><color r="255" g="231" b="135"><font name="Gulim" size="10">http://nl.wikipedia.org/wiki/Guinese_tweeklauw </font><p /><font name="Gulim" size="10"> Made by Dennis1991!</font></color> 
   </cell>
  </text>
 </zoopedia_pignosedturtle>

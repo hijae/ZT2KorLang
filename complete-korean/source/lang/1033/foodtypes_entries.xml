@@ -9,7 +9,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -21,9 +21,9 @@
                   
                   </font><a href="zoopedia:zoopedia_panda:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -35,9 +35,9 @@
                   
                   </font><a href="zoopedia:zoopedia_redpanda:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">붉은 팬더</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">붉은 팬더</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -49,9 +49,9 @@
                   
                   </font><a href="zoopedia:zoopedia_gorilla:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -61,7 +61,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -85,7 +85,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -97,9 +97,9 @@
                   
                   </font><a href="zoopedia:zoopedia_chimp:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -111,9 +111,9 @@
                   
                   </font><a href="zoopedia:zoopedia_gorilla:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -125,9 +125,9 @@
                   
                   </font><a href="zoopedia:zoopedia_lemur:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">호랑이꼬리여우원숭이 </font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">호랑이꼬리여우원숭이 </font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -152,7 +152,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -164,9 +164,9 @@
                   
                   </font><a href="zoopedia:zoopedia_beaver:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">비버</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">비버</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -178,9 +178,9 @@
                   
                   </font><a href="zoopedia:zoopedia_chimp:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -192,9 +192,9 @@
                   
                   </font><a href="zoopedia:zoopedia_elephant:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -206,10 +206,10 @@
                   
                   </font><a href="zoopedia:zoopedia_moose:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">말코손바닥사슴입니다.</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">말코손바닥사슴입니다.</font></color>
                      </u>
                   </a>
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -221,7 +221,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -245,7 +245,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -269,7 +269,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\food\Terrain\Terrain_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -280,7 +280,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                            
@@ -303,7 +303,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\food\Terrain\Terrain_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -314,7 +314,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -337,7 +337,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\food\Terrain\Terrain_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -359,7 +359,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\food\Terrain\Terrain_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -379,7 +379,7 @@
          <cell width="260" />
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
-               <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                어떤 동물이라도 물이 없으면 살 수 없습니다. 
                그러므로 동물들이 깨끗한 물을 계속 공급 받을 수 있도록 항상 신경 써야 합니다.
 				</font></color>

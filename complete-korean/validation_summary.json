@@ -2,17 +2,17 @@
   "schema_version": 1,
   "version": "2026-10-08",
   "status": "passed_static_and_offscreen_gdi_validation",
-  "reviewed_candidate_sha256": "d3058ef6017945993181f215513ec6932f1fc71f36c250d9e05e5f1c6b53a2e2",
+  "reviewed_candidate_sha256": "7de0f7fea8370d8ebb136b7b8138fe937a4aa9551b2f675c1e51875069ff768f",
   "builds": {
-    "ZZZZZZZZ_Korlang_Complete_20261007.z2f": "d3058ef6017945993181f215513ec6932f1fc71f36c250d9e05e5f1c6b53a2e2",
-    "ZZZZZZZZ_Korlang_Complete_Pretendard_20261008.z2f": "f279ed10e03b185881378ea2875b31d171d34feff07b9a7552a6c9968decabbb"
+    "ZZZZZZKorlang2026-10-08.z2f": "7de0f7fea8370d8ebb136b7b8138fe937a4aa9551b2f675c1e51875069ff768f",
+    "ZZZZZZKorlang2026-10-08-Pretendard.z2f": "080098da68b02dc086de4364ecb0f1c6fabd39fcc228c4db6874bb1f3b5713bc"
   },
   "total_xml_files": 359,
   "language_xml_files": 332,
   "ui_xml_files": 26,
   "config_xml_files": 1,
   "loc_string_count": 17141,
-  "default_font": "Malgun Gothic",
+  "default_font": "Gulim",
   "optional_font": "Pretendard",
   "font_reference_count": 8951,
   "maintainer_requested_changes": {
@@ -20,23 +20,31 @@
     "existing_font_coverage_files_added": 45,
     "product_name_corrected_text_fields": 71,
     "base_lang_and_config_unchanged": true,
-    "existing_unofficial_prose_changed": false
+    "existing_unofficial_prose_changed": false,
+    "original_gulim_default_restored": true,
+    "default_font_updated_source_files": 202,
+    "default_font_updated_attributes": 8951
   },
   "static_validation": {
     "xml_crc_manifest": "passed",
     "two_variants_differ_only_in_font_attributes": true,
     "baseline_ids_tokens_references_preserved": true,
     "existing_unofficial_layout_text_style_preserved": true,
-    "unit_tests_passed": 10,
+    "unit_tests_passed": 13,
     "negative_builder_checks": [
       "invalid_xml",
       "unregistered_file",
       "path_traversal",
       "id",
       "format_token",
-      "reference"
+      "reference",
+      "original_xml_hash"
     ],
-    "repeat_build_byte_identical": true
+    "repeat_build_byte_identical": true,
+    "default_font_only_change_from_previous_submission": true,
+    "optional_reviewed_xml_byte_identical_to_previous_submission": true,
+    "original_base_files_git_index_hashes_verified": 364,
+    "base_merged_archive_crc_and_contents": "passed"
   },
   "offscreen_font_validation": {
     "api": "Windows GDI",
@@ -47,7 +55,7 @@
       400,
       700
     ],
-    "default_selected_family": "맑은 고딕",
+    "default_selected_family": "굴림",
     "optional_selected_family": "Pretendard",
     "missing_glyphs": 0,
     "missing_font_control_selected_family": "굴림",
@@ -143,10 +151,13 @@
     "Executable hard-coded font names are not modified.",
     "External UI mods can override XML files and require a separate color/layout compatibility patch.",
     "The 45 existing font-coverage files retain their original untranslated text.",
-    "Two pre-existing invalid XML files remain in the untouched original lang tree; neither contains font tags."
+    "Two pre-existing invalid XML files remain in the untouched original lang tree; one (lang/1033/aa_entity_foliage_rr.xml) is retained without repair in the combined archive."
   ],
   "distribution": [
-    "XML source, documentation, standard-library Python scripts only",
+    "Combined original and reviewed XML, documentation, standard-library Python scripts only",
     "No executables, DLLs, font binaries, personal settings, saves, private paths or RR assets"
-  ]
+  ],
+  "archive_xml_files": 414,
+  "preserved_original_only_xml_files": 55,
+  "release_filename": "ZZZZZZKorlang2026-10-08.z2f"
 }

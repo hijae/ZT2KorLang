@@ -365,8 +365,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\tundra_tt\tundra_tt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 북극곰과 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 북극곰과 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -382,8 +382,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\lowtundra_tt\lowtundra_tt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -399,8 +399,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\tundrawindow_tt\tundrawindow_tt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 북극곰과 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 스타일 울타리는 북극곰과 펭귄 같은 툰드라 동물을 위한 우리를 만들 때 가장 잘 어울립니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라 울타리로 툰드라 우리 옆의 관람객 구역을 같은 테마로 꾸밀 수도 있습니다. 관람객은 특정 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>

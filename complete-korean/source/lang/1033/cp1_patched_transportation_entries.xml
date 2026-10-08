@@ -9,9 +9,9 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 주타이쿤 2에는 관람객이 동물원 곳곳으로 이동할 수 있도록 돕는 다양한 이동 시설이 등장합니다.
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 왼쪽 목록에서 이동 시설 아이템을 클릭하면 자세한 정보가 표시됩니다.  
                </font></color>
             </cell>
@@ -27,8 +27,8 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
-관람객이 </font><a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 를 타고 내리는 곳입니다. </font><a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">도로</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 노선이 끊김 없이 순환하도록 완성하면 지프 탑승장이 개장되어 차량을 구입할 수 있습니다.
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+관람객이 </font><a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 를 타고 내리는 곳입니다. </font><a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">도로</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 노선이 끊김 없이 순환하도록 완성하면 지프 탑승장이 개장되어 차량을 구입할 수 있습니다.
      </font></color>
     </cell>
    </cell>
@@ -43,8 +43,8 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
-투어를 위해 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 을 출발한 </font><a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 가 달리는 길입니다. 도로를 건설해 끊김 없이 순환하는 지프 투어 노선을 완성하면 탑승장이 개장됩니다. 모든 도로는 일방통행로임을 잊지 마세요!
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+투어를 위해 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 을 출발한 </font><a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 가 달리는 길입니다. 도로를 건설해 끊김 없이 순환하는 지프 투어 노선을 완성하면 탑승장이 개장됩니다. 모든 도로는 일방통행로임을 잊지 마세요!
      </font></color>
     </cell>
    </cell>
@@ -59,7 +59,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 지프가 지나갈 수 있도록 관람객의 보행을 막는 시설로서 인도와 차도의 교차 지점에 설치합니다. 지프가 건널목에 도착하기 전에 차단기가 내려와 보행자가 길을 건너지 못하도록 막고 지프가 지나가면 다시 차단기가 올라갑니다.
      </font></color>
     </cell>
@@ -78,8 +78,8 @@
        <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64" />        
        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64" />
       
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
-관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
      </font></color>
     </cell>
    </cell>
@@ -96,9 +96,9 @@
        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64" />
        <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64" />         
        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64" />       
-       <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
-관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다. 
-</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+       <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다. 
+</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 투어 운영 2단계상을 수상하면 멋진 그림이 그려진 사파리 지프를 사용할 수 있습니다.
       </font></color>
      </cell>
@@ -115,9 +115,9 @@
         <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64" />
        <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64" />         
         <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64" />        
-        <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
- 관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
- </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+        <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
+ 관람객을 태우고 </font><a href="zoopedia:zoopedia_groundstation:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">지프 탑승장</font></color></u></a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0"> 사이를 오갑니다. 4인승 지프에는 3명, 5인승 지프에는 4명, 7인승 지프에는 6명의 관람객이 탑승할 수 있습니다.
+ </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
  아프리카 지프는 특별히 아프리카 스타일로 꾸며진 지프입니다. 아프리카 생태 동물원 최고 경영자 상을 수상하면 아프리카 지프를 사용할 수 있습니다.
        </font></color>
       </cell>
@@ -133,7 +133,7 @@
          <cell width="600" padx="20" pady="20">
             <color r="60" g="54" b="38">
                <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-            <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 우리에 달린 차량 출입문으로 지프가 드나듭니다. 동물이 우리에서 나오지 못하도록 지프가 지나가고 나면 자동으로 닫힙니다.
             </font></color>
          </cell>

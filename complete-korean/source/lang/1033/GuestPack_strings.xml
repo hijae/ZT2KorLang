@@ -26,7 +26,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">식수대는 동물원에 수입을 가져다주지는 않지만 관람객들은 시원한 물로 갈증을 풀 수 있어 늘 고마워합니다.
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">식수대는 동물원에 수입을 가져다주지는 않지만 관람객들은 시원한 물로 갈증을 풀 수 있어 늘 고마워합니다.
                </font></color>
             </cell>
          </cell>

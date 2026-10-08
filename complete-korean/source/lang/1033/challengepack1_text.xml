@@ -223,12 +223,12 @@
    </ChallengePack1Text>
    <awards>
       <ChildrensReaderPhotoAward_name>
-         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="Gulim" size="10" shadowx="-1" shadowy="1" shadowa="32">
             <b>어린이 독서 사진상</b>
          </font>
       </ChildrensReaderPhotoAward_name>
       <ChildrensReaderPhotoAward_pre_ltt>
-         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="Gulim" size="10" shadowx="-1" shadowy="1" shadowa="32">
             <b>어린이 독서 사진 찍기 챌린지를 완료하면 </b>
             <color r="255" g="255" b="0" a="255">
                <b>어린이 독서 사진상을 받습니다.</b>
@@ -236,7 +236,7 @@
          </font>
       </ChildrensReaderPhotoAward_pre_ltt>
       <ChildrensReaderPhotoAward_post_ltt>
-         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="Gulim" size="10" shadowx="-1" shadowy="1" shadowa="32">
             <b>축하합니다! </b>
             <color r="255" g="255" b="0" a="255">
                <b>어린이 독서 사진상을 받았습니다.</b>

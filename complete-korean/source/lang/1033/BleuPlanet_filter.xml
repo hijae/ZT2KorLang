@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="FilterText:format">
-         <font name="Malgun Gothic" size="8" shadowx="-1" shadowy="1">
+         <font name="Gulim" size="8" shadowx="-1" shadowy="1">
             <b>Blue Planet 항목</b>
          </font>
       </LOC_STRING>

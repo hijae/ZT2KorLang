@@ -1441,7 +1441,7 @@
                            <UIAspect locid="options:enablemouselook">
                               <default image="">
                                  <BFColor r="255" g="255" b="255" a="255" />
-                                 <BFFont name="Malgun Gothic" size="16" />
+                                 <BFFont name="Gulim" size="16" />
                               </default>
                            </UIAspect>
                            <UIHotKeys />
@@ -1533,7 +1533,7 @@
                            <UIAspect locid="options:enablemotd">
                               <default image="">
                                  <BFColor r="255" g="255" b="255" a="255" />
-                                 <BFFont name="Malgun Gothic" size="16" />
+                                 <BFFont name="Gulim" size="16" />
                               </default>
                            </UIAspect>
                            <UIHotKeys />

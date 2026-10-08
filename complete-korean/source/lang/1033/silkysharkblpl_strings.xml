@@ -48,10 +48,10 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                        <color r="255" g="255" b="255"><font name="Gulim" size="10">
                       Low Risk
                         </font></color>
                      </color>                  
@@ -59,16 +59,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Pelagic and Reef</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Pelagic and Reef</font><br /></color>
      <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Worldwide</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Worldwide</font><br /></color> 
      <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: </font><i><font name="Malgun Gothic" size="10">(Chondricthyes)</font></i><br /><font name="Malgun Gothic" size="10">Order: Ground Sharks</font><i><font name="Malgun Gothic" size="10">(Carcharhiniformes)</font></i><br /><font name="Malgun Gothic" size="10">Family: Requiem sharks  </font><i><font name="Malgun Gothic" size="10">(Carcharhinidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Carcharhinus</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">Falciformis</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: </font><i><font name="Gulim" size="10">(Chondricthyes)</font></i><br /><font name="Gulim" size="10">Order: Ground Sharks</font><i><font name="Gulim" size="10">(Carcharhiniformes)</font></i><br /><font name="Gulim" size="10">Family: Requiem sharks  </font><i><font name="Gulim" size="10">(Carcharhinidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Carcharhinus</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">Falciformis</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -85,7 +85,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Silky Shark Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Silky Shark Facts</font>
     </color>
    </cell>
    <p />
@@ -95,7 +95,7 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
 
 </font></color>
     </cell>
@@ -103,35 +103,35 @@
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>        
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The maximum size is 3.3 m, but the length is usually not more than 2.4 m. </font></color>    
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The maximum size is 3.3 m, but the length is usually not more than 2.4 m. </font></color>    
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Silky Shark in challenge or campaign games, you must earn a 4 1/2 star zoo fame rating for your zoo. 
    </font></color>
-   <p /><font name="Malgun Gothic" size="10">   The silky shark, Carcharhinus falciformis, is a large pelagic shark of tropical and warm temperate seas.
+   <p /><font name="Gulim" size="10">   The silky shark, Carcharhinus falciformis, is a large pelagic shark of tropical and warm temperate seas.
 
 
-   </font><p /><font name="Malgun Gothic" size="10">  This species is found worldwide in tropical and warm temperate seas. It is usually pelagic, but sometimes approaches the coast, especially at remote offshore islands. It is found to depths of at least 500 m.
-   </font><p /><font name="Malgun Gothic" size="10">  This shark has a large typical shark body, slender with silky smooth skin. It is brown grey dorsally and white below with no special markings. It can be distinguished from other sharks by the second dorsal fin, which has a very long free tip at the rear, about two and a half times the fin height. The first dorsal fin is also farther back than on any other carcharhiniform, beginning behind the pectoral fins.
+   </font><p /><font name="Gulim" size="10">  This species is found worldwide in tropical and warm temperate seas. It is usually pelagic, but sometimes approaches the coast, especially at remote offshore islands. It is found to depths of at least 500 m.
+   </font><p /><font name="Gulim" size="10">  This shark has a large typical shark body, slender with silky smooth skin. It is brown grey dorsally and white below with no special markings. It can be distinguished from other sharks by the second dorsal fin, which has a very long free tip at the rear, about two and a half times the fin height. The first dorsal fin is also farther back than on any other carcharhiniform, beginning behind the pectoral fins.
 The maximum size is 3.3 m, but the length is usually not more than 2.4 m.
 
 
-   </font><p /><font name="Malgun Gothic" size="10">  The silky shark is a predator. It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.
+   </font><p /><font name="Gulim" size="10">  The silky shark is a predator. It feeds mainly on inshore and pelagic bony fishes, but also eats squid and pelagic crab.
 
 
-   </font><p /><font name="Malgun Gothic" size="10">  The silky shark is more active, yet less aggressive than the other two big pelagic sharks, the blue shark and oceanic whitetip. It may be more common close to shore than the blue and oceanic whitetip sharks, but it is still a pelagic shark, and quite rarely seen close to shore. The silky shark will most likely be found on reefs which have deep dropoffs.
+   </font><p /><font name="Gulim" size="10">  The silky shark is more active, yet less aggressive than the other two big pelagic sharks, the blue shark and oceanic whitetip. It may be more common close to shore than the blue and oceanic whitetip sharks, but it is still a pelagic shark, and quite rarely seen close to shore. The silky shark will most likely be found on reefs which have deep dropoffs.
 
 
-   </font><p /><font name="Malgun Gothic" size="10">  Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
+   </font><p /><font name="Gulim" size="10">  Silky sharks are not generally dangerous to divers, but in the presence of speared fish or if approached directly they can become aggressive, and therefore should be considered a potentially dangerous shark.
 
 
  
@@ -143,8 +143,8 @@ The maximum size is 3.3 m, but the length is usually not more than 2.4 m.
 </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Made by </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">Dennis1991</font></color>
+  <cell width="620"><font name="Gulim" size="10">
+   Made by </font><color r="255" g="231" b="135"><font name="Gulim" size="10">Dennis1991</font></color>
   </cell>
  </text>
 </zoopedia_silkysharkblpl>

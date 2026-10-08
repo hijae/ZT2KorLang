@@ -37,8 +37,8 @@ class FontBuildTests(unittest.TestCase):
 
     def test_default_has_only_system_font(self):
         faces = Counter(face for _, data in self.verified for face in font_faces(data))
-        self.assertGreater(faces['Malgun Gothic'], 0)
-        self.assertEqual(set(faces), {'Malgun Gothic'})
+        self.assertGreater(faces['Gulim'], 0)
+        self.assertEqual(set(faces), {'Gulim'})
 
     def test_pretendard_changes_only_font_attributes(self):
         selected = builder.select_font(self.verified, 'pretendard')
@@ -62,6 +62,32 @@ class FontBuildTests(unittest.TestCase):
                 continue
             if faces:
                 self.assertIn(path.relative_to(root).as_posix().casefold(), names)
+
+    def test_combined_archive_preserves_original_files_and_overrides(self):
+        combined = dict(builder.merge_base_sources(self.verified, self.manifest))
+        overlay = {n.casefold(): data for n, data in self.verified}
+        self.assertEqual(len(combined), 414)
+        self.assertEqual(len({n.casefold() for n in combined}), 414)
+        for name, data in self.verified:
+            self.assertEqual(combined[name], data)
+        for record in self.manifest['base_files']:
+            if record['path'].casefold() not in overlay:
+                self.assertEqual(combined[record['path']],
+                                 (builder.REPOSITORY / record['path']).read_bytes().replace(b'\r\n', b'\n'))
+
+    def test_changed_original_xml_baseline_is_rejected(self):
+        manifest = json.loads(json.dumps(self.manifest))
+        manifest['base_files'][0]['sha256'] = '0' * 64
+        with self.assertRaises(ValueError):
+            builder.merge_base_sources(self.verified, manifest)
+
+    def test_release_filename_matches_upstream_and_requested_date(self):
+        self.assertEqual(builder.release_filename('2026-10-08', 'system'),
+                         'ZZZZZZKorlang2026-10-08.z2f')
+        self.assertEqual(builder.release_filename('2026-10-08', 'pretendard'),
+                         'ZZZZZZKorlang2026-10-08-Pretendard.z2f')
+        with self.assertRaises(ValueError):
+            builder.release_filename('../2026-10-08', 'system')
 
     def test_official_titles_and_generic_dinosaur_sentence(self):
         files = dict(self.verified)

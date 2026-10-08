@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="mainmenu:legalcopy1" version="3">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             <b>© &amp; (p) 2006 마이크로소프트 코퍼레이션. 모든 권리를 보유합니다.</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy2" version="3">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             본 제품은 마이크로소프트 코퍼레이션을 위하여 블루 팽 게임즈가 개발하였습니다.
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy3" version="3">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             이 프로그램은 미국 및 국제 저작권법의 보호를 받습니다.
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy4" version="3">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             자세한 내용은 도움말/정보에 명시되어 있습니다.
          </font>
       </LOC_STRING>

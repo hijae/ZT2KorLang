@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="mapdata:map_info_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                지도 정보
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:map_select_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                지도 선택
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:map_scenario_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                시나리오 선택
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:map_list_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                지도 선택
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:map_location_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                지도 유형 선택
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:select_campaign_label">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                캠페인 선택
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:biome">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             서식 환경
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:play">
-         <font name="Malgun Gothic" size="16">
+         <font name="Gulim" size="16">
             게임하기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:back">
-         <font name="Malgun Gothic" size="16">
+         <font name="Gulim" size="16">
             돌아가기
          </font>
       </LOC_STRING>
@@ -61,14 +61,14 @@
       <LOC_STRING _locID="mapdata:freeformheading">자유 게임 모드</LOC_STRING>
       <LOC_STRING _locID="mapdata:campaignheading">캠페인 모드</LOC_STRING>
       <LOC_STRING _locID="mapdata:modeheading">
-         <font name="Malgun Gothic" size="16" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:unlimited">
-         <font name="Malgun Gothic" size="14">현금 무제한</font>
+         <font name="Gulim" size="14">현금 무제한</font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:play_button_stt">게임하기</LOC_STRING>
       <LOC_STRING _locID="mapdata:play_button_ltt">
@@ -85,30 +85,30 @@
          <br>취소하고 주 메뉴로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:posformat">
-         <font name="Malgun Gothic" size="14" shadowx="-1" shadowy="1" shadowa="255">
+         <font name="Gulim" size="14" shadowx="-1" shadowy="1" shadowa="255">
             <color r="0" g="255" b="0">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:campaign_name">
-         <font name="Malgun Gothic" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="14" image="ui\font\color_mainmenu.tga">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapdata:campaign_names">
-         <font name="Malgun Gothic" size="12" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="12" image="ui\font\color_mainmenu.tga">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapname" version="7" />
       <LOC_STRING _locID="mapname:format" version="7">
-         <font name="Malgun Gothic" size="12" shadowx="1" shadowy="1">
+         <font name="Gulim" size="12" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mapname:largeformat" version="7">
-         <font name="Malgun Gothic" size="12" shadowx="1" shadowy="1">
+         <font name="Gulim" size="12" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
@@ -172,27 +172,27 @@
       <LOC_STRING _locID="mapsize:medium">중형</LOC_STRING>
       <LOC_STRING _locID="mapsize:large">대형</LOC_STRING>
       <LOC_STRING _locID="mapsize:header">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             지도 크기:
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="maplocation:format">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="maplocation:header">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             위치
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="difficulty:format">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="difficulty:header">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1">
             난이도:
          </font>
       </LOC_STRING>
@@ -200,21 +200,21 @@
       <LOC_STRING _locID="difficulty:medium">보통</LOC_STRING>
       <LOC_STRING _locID="difficulty:hard">고급</LOC_STRING>
       <LOC_STRING _locID="globe_label:format">
-         <font name="Malgun Gothic" size="15" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="15" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                세계 지도
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="map_name_field:format">
-         <font name="Malgun Gothic" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="map_other_field:format">
-         <font name="Malgun Gothic" size="14" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
                <b>%text%</b>
             </color>

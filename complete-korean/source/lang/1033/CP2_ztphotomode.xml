@@ -2,21 +2,21 @@
 <ZT2Strings>
       <LOC_STRING _locID="ZTPhotoMode" version="9" />
       <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="9">
-         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="60">
+         <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="60">
             <color r="255" g="255" b="255" a="100">
                <b>화살표 키를 사용하여 걸어 다니고, 마우스 오른쪽 단추를 클릭하여 마우스 포인터와 메뉴 단추를 표시하세요.</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="9">
-         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="60">
+         <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="60">
             <color r="255" g="255" b="255" a="100">
                <b>마우스 오른쪽 단추를 클릭하여 사진 모드로 들어가세요.</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:go_to_game_mode" version="9">
-         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="60">
+         <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="60">
             <color r="255" g="255" b="255" a="100">
                <b>마우스 오른쪽 단추를 클릭하여 메뉴 단추를 숨기고 게임으로 돌아가세요.</b>
             </color>

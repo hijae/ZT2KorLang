@@ -44,7 +44,7 @@
          <UIRegion x="24" y="3" w="447" h="25" xalign="min" yalign="min" walign="len" halign="len" />
          <UIAspect locid="options:downloadlabel">
             <default>
-               <BFFont name="Malgun Gothic" bold="1" size="10">
+               <BFFont name="Gulim" bold="1" size="10">
                   <BFColor r="63" g="100" b="74" a="255" />
                </BFFont>
             </default>

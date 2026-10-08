@@ -9,7 +9,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/ironbar_df/ironbar_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -50,7 +50,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/chainlink_df/chainlink_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -80,7 +80,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/plexiglass_df/plexiglass_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -120,7 +120,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/postrail_df/postrail_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -157,7 +157,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/woodslat_df/woodslat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -175,7 +175,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -194,7 +194,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -226,7 +226,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/woodslatwindow_df/woodslatwindow_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -267,7 +267,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/brickwall_df/brickwall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/fences/brickwall_df/lowbrickwall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   보통 높이와 낮은 높이의 벽돌 울타리는 모두 동물들을 가둬놓는 우리용 울타리로도 좋고 길을 꾸미는 장식용으로도 훌륭합니다.
 				
                
@@ -294,7 +294,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/hedge_df/hedge_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -334,7 +334,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/lowpostrope_df/lowpostrope_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -372,7 +372,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/whitepicket_df/whitepicket_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -412,7 +412,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/stonewall_df/stonewall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -430,7 +430,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -452,7 +452,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/bamboo_st/bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -488,7 +488,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/junglefence_jt/junglefence_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -530,7 +530,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/staffgate_df/staffgate_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -571,7 +571,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/fences/concrete_df/concrete_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

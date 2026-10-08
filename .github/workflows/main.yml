@@ -13,30 +13,21 @@ jobs:
     
     - name: Get current date
       id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      run: echo "date=$(TZ=Asia/Seoul date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
  
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@main
-      with:
-        type: 'zip'
-        filename: 'ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f'
-        path: 'lang config'
-        
-
-    - name: Validate Korean supplement
+    - name: Validate Korean patch
       run: python3 -m unittest discover -s complete-korean -v
 
-    - name: Build Korean supplement (Windows system font)
-      run: python3 complete-korean/build_patch.py
+    - name: Build Korean patch (original Gulim font)
+      run: python3 complete-korean/build_patch.py --date "${{ steps.date.outputs.date }}"
 
-    - name: Build Korean supplement (optional Pretendard)
-      run: python3 complete-korean/build_patch.py --font pretendard
+    - name: Build Korean patch (optional Pretendard)
+      run: python3 complete-korean/build_patch.py --font pretendard --date "${{ steps.date.outputs.date }}"
 
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,complete-korean/ZZZZZZZZ_Korlang_Complete_20261007.z2f,complete-korean/ZZZZZZZZ_Korlang_Complete_Pretendard_20261008.z2f"
+        artifacts: "complete-korean/ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,complete-korean/ZZZZZZKorlang${{ steps.date.outputs.date }}-Pretendard.z2f"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ver-${{ steps.date.outputs.date }}
         name: ZT2 Korean Patch ${{ steps.date.outputs.date }}

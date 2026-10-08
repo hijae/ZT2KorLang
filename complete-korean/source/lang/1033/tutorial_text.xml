@@ -947,14 +947,14 @@
 주 메뉴로 돌아가려면 X 단추를 누르세요.	
       	</LOC_STRING>
       <LOC_STRING _locID="Tutoriallabels:textformat">
-         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="128">
+         <font name="Gulim" size="10" shadowx="-1" shadowy="1" shadowa="128">
             <color r="255" g="255" b="255" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="Tutoriallabels:labelformat">
-         <font name="Malgun Gothic" size="12">
+         <font name="Gulim" size="12">
             <color r="255" g="248" b="178" a="255">
                <b>%text%</b>
             </color>

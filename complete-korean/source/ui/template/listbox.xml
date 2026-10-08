@@ -3,7 +3,7 @@
    <UIAspect>
       <default image="">
          <BFRect x="32" y="32" w="448" h="448" />
-         <BFFont name="Malgun Gothic" size="15" />
+         <BFFont name="Gulim" size="15" />
       </default>
    </UIAspect>
 </UIListBox>

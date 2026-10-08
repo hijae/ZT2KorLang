@@ -48,10 +48,10 @@
                      <img src="ui/zoopedia/Critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="100" g="50" b="50"><font name="Malgun Gothic" size="10">
+                        <color r="100" g="50" b="50"><font name="Gulim" size="10">
                       Critical
                         </font></color>
                      </color>                  
@@ -59,16 +59,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Scrub</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Scrub</font><br /></color>
      <img src="ui/icon_biomes/icon_Scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Mexico</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Mexico</font><br /></color> 
      <img src="ui/icon_maplocations/Scrub_Mexico.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Mammals </font><i><font name="Malgun Gothic" size="10">(Mammalia)</font></i><br /><font name="Malgun Gothic" size="10">Order: Carnivorans </font><i><font name="Malgun Gothic" size="10">(Carnivora)</font></i><br /><font name="Malgun Gothic" size="10">Family: Canids </font><i><font name="Malgun Gothic" size="10">(Canidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Canis</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">C. lupus baileyi</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Mammals </font><i><font name="Gulim" size="10">(Mammalia)</font></i><br /><font name="Gulim" size="10">Order: Carnivorans </font><i><font name="Gulim" size="10">(Carnivora)</font></i><br /><font name="Gulim" size="10">Family: Canids </font><i><font name="Gulim" size="10">(Canidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Canis</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">C. lupus baileyi</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -85,7 +85,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Mexican Wolf</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the Mexican Wolf</font>
     </color>
    </cell>
    <p />
@@ -95,19 +95,19 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year.</font></color>     
     </cell>
   </cell>
   </cell>
@@ -115,17 +115,17 @@
    <color r="255" g="248" b="178">
   
    </color>
-  <p /><font name="Malgun Gothic" size="10"> The Mexican Wolf (Canis lupus baileyi) is a mammal and belongs to the family of canids. The Mexican Wolf is a subspecies from the Gray wolf (Canis lupus). The scientific name for Canis lupus baileyi comes from the man Vernon Bailey who almost destroyed the whole population. The Mexican wolf is the most endangered wolf in the world.
-</font><p /><font name="Malgun Gothic" size="10"> The Mexican Gray Wolf is the smallest grey wolf subspecies present in North America, reaching an overall length no greater than 135 centimetres (53 inches) and a maximum height of about 80 cm (31 in). Weight ranges from 27 to 45 kilograms (60 to 100 pounds). They have long paws and a streamlined body, so they can move faster.
-</font><p /><font name="Malgun Gothic" size="10"> Mexican wolves have long manes and a rich coloured coat. Their coat is black, white, grey and brown, their tale, paws and ears are black.
-</font><p /><font name="Malgun Gothic" size="10"> The average age of a Mexican wolf in captivity is 15 years.
-</font><p /><font name="Malgun Gothic" size="10"> The Mexican wolf is driven from their natural habitat and only lives in reservations. The wolves prefer oaks and fir tree forrests, mountains, meadows and shrubs.
-</font><p /><font name="Malgun Gothic" size="10"> To mark their territory they urinate with a lifted paw, but only the dominant wolf can do that.
-</font><p /><font name="Malgun Gothic" size="10"> The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.
-</font><p /><font name="Malgun Gothic" size="10"> Wolves communicate with their bodies, but also woth sounds like howling. Wolves can communicate visually through a wide variety of expressions and moods ranging from subtle signals, such as a slight shift in weight, to more obvious ones, such as rolling on their backs to indicate complete submission. They mainly communicate with their own pack, but sometimes also with other wolves. Howling has several meanings. Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. The Wolf uses howling most often during the twilight hours, preceding the adults' departure to the hunt and following their return or to protect something like a fresh kill or their territory.  Some scientists speculate that such group sessions strengthen the wolves' social bonds
-</font><p /><font name="Malgun Gothic" size="10"> Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year. Their social hierarchies determines who eats first and who is allowed to mate.
-</font><p /><font name="Malgun Gothic" size="10"> Only the alpha pair is allow to reproduce. They mate in February or March and the pups are born in May or April. The gestation period lasts between 60 and 63 days (2 months) and the average litter size is about 4 to 6 pups. Every member of the pack takes care of the pups.
-</font><p /><font name="Malgun Gothic" size="10"> The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist. 
+  <p /><font name="Gulim" size="10"> The Mexican Wolf (Canis lupus baileyi) is a mammal and belongs to the family of canids. The Mexican Wolf is a subspecies from the Gray wolf (Canis lupus). The scientific name for Canis lupus baileyi comes from the man Vernon Bailey who almost destroyed the whole population. The Mexican wolf is the most endangered wolf in the world.
+</font><p /><font name="Gulim" size="10"> The Mexican Gray Wolf is the smallest grey wolf subspecies present in North America, reaching an overall length no greater than 135 centimetres (53 inches) and a maximum height of about 80 cm (31 in). Weight ranges from 27 to 45 kilograms (60 to 100 pounds). They have long paws and a streamlined body, so they can move faster.
+</font><p /><font name="Gulim" size="10"> Mexican wolves have long manes and a rich coloured coat. Their coat is black, white, grey and brown, their tale, paws and ears are black.
+</font><p /><font name="Gulim" size="10"> The average age of a Mexican wolf in captivity is 15 years.
+</font><p /><font name="Gulim" size="10"> The Mexican wolf is driven from their natural habitat and only lives in reservations. The wolves prefer oaks and fir tree forrests, mountains, meadows and shrubs.
+</font><p /><font name="Gulim" size="10"> To mark their territory they urinate with a lifted paw, but only the dominant wolf can do that.
+</font><p /><font name="Gulim" size="10"> The Mexican Wolf feeds on deer, peccary, pronghorn, elk and smaller mammals like rabbits, mice and squirrels.
+</font><p /><font name="Gulim" size="10"> Wolves communicate with their bodies, but also woth sounds like howling. Wolves can communicate visually through a wide variety of expressions and moods ranging from subtle signals, such as a slight shift in weight, to more obvious ones, such as rolling on their backs to indicate complete submission. They mainly communicate with their own pack, but sometimes also with other wolves. Howling has several meanings. Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. The Wolf uses howling most often during the twilight hours, preceding the adults' departure to the hunt and following their return or to protect something like a fresh kill or their territory.  Some scientists speculate that such group sessions strengthen the wolves' social bonds
+</font><p /><font name="Gulim" size="10"> Wolves are very social animals and they live in a pack. The pack consists of a breeding alpha pair and their offspring from the current year. Their social hierarchies determines who eats first and who is allowed to mate.
+</font><p /><font name="Gulim" size="10"> Only the alpha pair is allow to reproduce. They mate in February or March and the pups are born in May or April. The gestation period lasts between 60 and 63 days (2 months) and the average litter size is about 4 to 6 pups. Every member of the pack takes care of the pups.
+</font><p /><font name="Gulim" size="10"> The only enemie of the Mexican Wolf has always been the human. Because of the human, the Mexican Wolf almost got extinct, but thanks to breeding programs it seems that this species can continue to exist. 
 
 
 
@@ -133,8 +133,8 @@
 </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Information from: wikipedia.org</font><color r="255" g="231" b="135" /><font name="Malgun Gothic" size="10"> Made by Dennis1991!
+  <cell width="620"><font name="Gulim" size="10">
+   Information from: wikipedia.org</font><color r="255" g="231" b="135" /><font name="Gulim" size="10"> Made by Dennis1991!
   </font></cell>
  </text>
 </zoopedia_mexicansewolf>

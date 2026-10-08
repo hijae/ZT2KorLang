@@ -2,22 +2,22 @@
 <ZT2Strings>
       <LOC_STRING _locID="mainmenu" version="9" />
       <LOC_STRING _locID="mainmenu:legalcopy1" version="9">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             © &amp; (p) 2007 마이크로소프트 코퍼레이션. 모든 권리를 보유합니다.
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy2" version="9">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             본 제품은 마이크로소프트 코퍼레이션을 위하여 블루 팽 게임즈가 개발하였습니다.
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy3" version="9">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             이 프로그램은 미국 및 국제 저작권법의 보호를 받습니다.
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy4" version="9">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0">
             자세한 내용은 도움말/정보에 명시되어 있습니다.
          </font>
       </LOC_STRING>
@@ -29,21 +29,21 @@
          <br>Extinct Animals 확장팩이 설치되었습니다. </br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9">
-         <font name="Malgun Gothic" size="20" image="ui\font\color_mainmenu.tga">
+         <font name="Gulim" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                주타이쿤 2: Extinct Animals 게임 방법을 배우시겠습니까?
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1">
-         <font name="Malgun Gothic" size="9">
+         <font name="Gulim" size="9">
             <color r="92" g="255" b="64">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2">
-         <font name="Malgun Gothic" size="9">
+         <font name="Gulim" size="9">
             <color r="255" g="92" b="64">
                <b>%text%</b>
             </color>
@@ -53,7 +53,7 @@
       목표 :
       </LOC_STRING>
       <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3">
-         <font name="Malgun Gothic" size="12">
+         <font name="Gulim" size="12">
             <color r="210" g="50" b="0">
                <b>%text%</b>
             </color>
@@ -66,7 +66,7 @@
       목표가 멀리 떨어져 있습니다! 
       </LOC_STRING>
       <LOC_STRING _locID="cloningfeedback:animal_format">
-          <font name="Malgun Gothic" size="12">
+          <font name="Gulim" size="12">
             <color r="92" g="255" b="64">
                <b>%text%</b>
             </color>
@@ -94,7 +94,7 @@
       스캔 라인이 화면의 아이콘에 닿으면 마우스를 클릭하거나 화살표 키를 누르세요.
       </LOC_STRING>
       <LOC_STRING _locID="puzzlefeedback:animal_format">
-          <font name="Malgun Gothic" size="12">
+          <font name="Gulim" size="12">
             <color r="200" g="192" b="168">
                <b>%text%</b>
             </color>
@@ -107,7 +107,7 @@
       <LOC_STRING _locID="fpfossildisplay:next_level_unlocked">화석 탐지기가 업그레이드되었습니다. 이제 더 많은 화석을 찾을 수 있습니다!</LOC_STRING>
       <LOC_STRING _locID="fpfossildisplay:next_level_unavailable">화석 탐지기를 업그레이드하려면 동물원 명성을 높이세요!</LOC_STRING>
       <LOC_STRING _locID="minigameHelp:minigameHelp_format">
-         <font name="Malgun Gothic" size="9" shadowx="1" shadowy="1">
+         <font name="Gulim" size="9" shadowx="1" shadowy="1">
             <color r="250" g="250" b="200">
                <b>%text%</b>
             </color>

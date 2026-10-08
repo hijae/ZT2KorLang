@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                      Conservation Status:
                      </font><br />
-                        <color r="0" g="0" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="0" g="0" b="0"><font name="Gulim" size="10">
                       Vulnerable
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Wetlands</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Wetlands</font><br /></color>
      <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Indonesia</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Indonesia</font><br /></color> 
      <img src="ui/icon_maplocations/Wetlands_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Reptiles </font><i><font name="Malgun Gothic" size="10">(Reptilia)</font></i><br /><font name="Malgun Gothic" size="10">Order: Lizards </font><i><font name="Malgun Gothic" size="10">(Sauria)</font></i><br /><font name="Malgun Gothic" size="10">Family: Monitor </font><i><font name="Malgun Gothic" size="10">(Varanidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Varanus</font></i><br /><font name="Malgun Gothic" size="10">Species: Salvator (onofficial)
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Reptiles </font><i><font name="Gulim" size="10">(Reptilia)</font></i><br /><font name="Gulim" size="10">Order: Lizards </font><i><font name="Gulim" size="10">(Sauria)</font></i><br /><font name="Gulim" size="10">Family: Monitor </font><i><font name="Gulim" size="10">(Varanidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Varanus</font></i><br /><font name="Gulim" size="10">Species: Salvator (onofficial)
      </font></color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Water monitor Facts</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Water monitor Facts</font>
     </color>
    </cell>
    <p />
@@ -106,43 +106,43 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Water monitors are aggressive even though they can be tamed in captivity.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Water monitors are aggressive even though they can be tamed in captivity.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">They use both their tail and jaw when fighting.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">They use both their tail and jaw when fighting.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. </font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. </font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     To unlock the Water Monitor in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo.
    </font></color>
-<p /><font name="Malgun Gothic" size="10"> The Water monitor Varanus salvator is a member of the monitor lizard family. They are large lizards growing up to 3 meters (9.8 ft) in length, but most adults are 1.5 meters (4.9 ft) long at most, and are close in size to the Komodo Dragon. Maximum weight of Varanus salvator can be over 75 kg, but most are half that size. Their body is muscular with a long powerful tail. Water monitors are perhaps the most ubiquitous monitor lizards in Asia, and range from Sri Lanka, India, Indochina, the Malay Peninsula and various islands of Malaysia living in tropical forested areas.
+<p /><font name="Gulim" size="10"> The Water monitor Varanus salvator is a member of the monitor lizard family. They are large lizards growing up to 3 meters (9.8 ft) in length, but most adults are 1.5 meters (4.9 ft) long at most, and are close in size to the Komodo Dragon. Maximum weight of Varanus salvator can be over 75 kg, but most are half that size. Their body is muscular with a long powerful tail. Water monitors are perhaps the most ubiquitous monitor lizards in Asia, and range from Sri Lanka, India, Indochina, the Malay Peninsula and various islands of Malaysia living in tropical forested areas.
 
-</font><p /><font name="Malgun Gothic" size="10"> Water monitors are very opportunistic in their feeding, eating small mammals (like rats and monkeys), birds, reptiles,fish, insects and carrion.Large adults can also attack small deer.
+</font><p /><font name="Gulim" size="10"> Water monitors are very opportunistic in their feeding, eating small mammals (like rats and monkeys), birds, reptiles,fish, insects and carrion.Large adults can also attack small deer.
 
-</font><p /><font name="Malgun Gothic" size="10"> Water monitors are aggressive even though they can be tamed in captivity. They use both their tail and jaw when fighting. They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. 
+</font><p /><font name="Gulim" size="10"> Water monitors are aggressive even though they can be tamed in captivity. They use both their tail and jaw when fighting. They are excellent swimmers, using their raised fin located on their tails to steer through fresh and salt water. 
 They lay 15 to 30 eggs. 
 
 
-</font><p /><font name="Malgun Gothic" size="10"> In Hong Kong, it is a protected species under Wild Animals Protection Ordinance Cap 170.
+</font><p /><font name="Gulim" size="10"> In Hong Kong, it is a protected species under Wild Animals Protection Ordinance Cap 170.
 
 
 
-</font><p /><font name="Malgun Gothic" size="10"> In Thailand, the word water monitor or actually local word hia is used as an insulting word for bad and evil things including a bad person. Its name is also considered a word bringing a bad luck, so some people prefer to call them silver and gold in Thai to avoid the jinx.
+</font><p /><font name="Gulim" size="10"> In Thailand, the word water monitor or actually local word hia is used as an insulting word for bad and evil things including a bad person. Its name is also considered a word bringing a bad luck, so some people prefer to call them silver and gold in Thai to avoid the jinx.
 
 
 
-</font><p /><font name="Malgun Gothic" size="10"> A water monitor portrayed a Komodo Dragon in the 1990 movie, The Freshman.
+</font><p /><font name="Gulim" size="10"> A water monitor portrayed a Komodo Dragon in the 1990 movie, The Freshman.
 
 
 
@@ -157,8 +157,8 @@ They lay 15 to 30 eggs.
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Gemaakt door </font><color r="0" g="0" b="0"><font name="Malgun Gothic" size="10">Dennis1991!</font></color>
+  <cell width="620"><font name="Gulim" size="10">
+   Gemaakt door </font><color r="0" g="0" b="0"><font name="Gulim" size="10">Dennis1991!</font></color>
   </cell>
  </text>
 </zoopedia_watervaraande>

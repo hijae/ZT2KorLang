@@ -2,7 +2,7 @@
 <ZT2Strings>
       <LOC_STRING _locID="FilterText" version="2" />
       <LOC_STRING _locID="FilterText:format" version="2">
-         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1">
+         <font name="Gulim" size="10" shadowx="-1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>

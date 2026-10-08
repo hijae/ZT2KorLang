@@ -1,10 +1,11 @@
-"""검증된 번역 XML만 묶는 주타이쿤 2 한국어 보충 패치 빌더.
+"""기존 번역과 검증된 보완 XML을 묶는 주타이쿤 2 한국어 패치 빌더.
 
 Python 3.9 이상과 표준 라이브러리만 사용합니다. 게임이나 네트워크에는
 접근하지 않습니다. manifest.json은 검토 완료된 source 파일의 기준입니다.
 """
 
 import argparse
+from datetime import date
 import hashlib
 import json
 from pathlib import Path, PurePosixPath
@@ -15,13 +16,17 @@ import zipfile
 
 
 PACKAGE = Path(__file__).resolve().parent
-OUTPUT_NAME = "ZZZZZZZZ_Korlang_Complete_20261007.z2f"
-PRETENDARD_OUTPUT_NAME = "ZZZZZZZZ_Korlang_Complete_Pretendard_20261008.z2f"
-FONT_FAMILIES = {"system": "Malgun Gothic", "pretendard": "Pretendard"}
+REPOSITORY = PACKAGE.parent
+RELEASE_DATE = "2026-10-08"
+OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + ".z2f"
+PRETENDARD_OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + "-Pretendard.z2f"
+FONT_FAMILIES = {"system": "Gulim", "pretendard": "Pretendard"}
 EXPECTED_FILES = 359
 EXPECTED_LANGUAGE_FILES = 332
 EXPECTED_UI_FILES = 26
 EXPECTED_CONFIG_FILES = 1
+EXPECTED_BASE_FILES = 364
+EXPECTED_ARCHIVE_FILES = 414
 FIXED_TIMESTAMP = (2026, 10, 7, 12, 0, 0)
 TOKEN_PATTERN = re.compile(
     r"%[A-Za-z_][A-Za-z0-9_]*%|%(?:\d+\$)?[-+#0]*\d*(?:\.\d+)?[sdifugx]|\{\d+\}"
@@ -166,7 +171,7 @@ def select_font(verified, font):
     result = []
     for name, data in verified:
         # source uses double-quoted XML attributes, validated by manifest.
-        changed = re.sub(rb'\b(name|font|fontName)="Malgun Gothic"',
+        changed = re.sub(rb'\b(name|font|fontName)="Gulim"',
                          lambda match: match[1] + b'="' + family.encode('ascii') + b'"', data)
         before, after = ET.fromstring(data), ET.fromstring(changed)
         for old, new in zip(before.iter(), after.iter()):
@@ -181,8 +186,50 @@ def select_font(verified, font):
     return result
 
 
-def build_patch(verified, font="system"):
-    output_name = OUTPUT_NAME if font == "system" else PRETENDARD_OUTPUT_NAME
+def merge_base_sources(verified, manifest):
+    """원 저장소 XML을 보존하고 보완 XML을 같은 가상 경로에 덮어씁니다."""
+    records = manifest.get('base_files', [])
+    if len(records) != EXPECTED_BASE_FILES:
+        raise ValueError('기존 XML 기준은 정확히 364개이어야 합니다.')
+    actual = {path.relative_to(REPOSITORY).as_posix()
+              for folder in ('lang', 'config')
+              for path in (REPOSITORY / folder).rglob('*.xml')}
+    names = [r['path'] for r in records]
+    if actual != set(names) or len({n.casefold() for n in names}) != len(names):
+        raise ValueError('기존 XML 파일 목록이 기준과 다릅니다.')
+    merged = {}
+    for record in records:
+        name = record['path']
+        path = PurePosixPath(name)
+        if (path.is_absolute() or '..' in path.parts or str(path) != name
+                or '\\' in name or ':' in name or path.suffix != '.xml'
+                or path.parts[0] not in ('lang', 'config')):
+            raise ValueError('기존 XML 경로가 허용되지 않습니다: ' + name)
+        source = REPOSITORY.joinpath(*path.parts)
+        if source.is_symlink() or not source.resolve().is_relative_to(REPOSITORY.resolve()):
+            raise ValueError('기존 XML 경로가 저장소 밖으로 나갑니다: ' + name)
+        # Git checkout line endings differ between Windows and Linux.
+        # Normalize only CRLF; original XML text and attributes are preserved.
+        data = source.read_bytes().replace(b'\r\n', b'\n')
+        if sha256(data) != record['sha256']:
+            raise ValueError('기존 XML 해시가 기준과 다릅니다: ' + name)
+        merged[name.casefold()] = (name, data)
+    for name, data in verified:
+        merged[name.casefold()] = (name, data)
+    if len(merged) != EXPECTED_ARCHIVE_FILES:
+        raise ValueError('통합 배포에는 XML 414개가 필요합니다.')
+    return sorted(merged.values())
+
+
+def release_filename(release_date, font):
+    if date.fromisoformat(release_date).isoformat() != release_date:
+        raise ValueError('릴리스 날짜는 YYYY-MM-DD 형식이어야 합니다.')
+    suffix = '' if font == 'system' else '-Pretendard'
+    return 'ZZZZZZKorlang' + release_date + suffix + '.z2f'
+
+
+def build_patch(verified, font="system", release_date=RELEASE_DATE):
+    output_name = release_filename(release_date, font)
     destination = PACKAGE / output_name
     temporary = PACKAGE / (output_name + ".tmp")
     try:
@@ -213,15 +260,18 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true", help="검증만 하고 패치를 생성하지 않습니다.")
     parser.add_argument("--font", choices=tuple(FONT_FAMILIES), default="system",
-                        help="기본값 system: Windows 맑은 고딕. pretendard: 별도 설치 필요.")
+                        help="기본값 system: 기존 한국어 패치의 굴림. pretendard: 별도 설치 필요.")
+    parser.add_argument('--date', default=RELEASE_DATE, help='릴리스 파일명 날짜: YYYY-MM-DD')
     args = parser.parse_args()
     try:
         manifest, verified = validate_sources()
         print("검증 완료: XML %d개, LOC_STRING %d개" % (len(verified), manifest["loc_string_count"]))
         verified = select_font(verified, args.font)
         print("글꼴: " + FONT_FAMILIES[args.font])
+        verified = merge_base_sources(verified, manifest)
+        print("통합 배포: 기존 XML과 보완 XML을 합친 %d개" % len(verified))
         if not args.check:
-            destination = build_patch(verified, args.font)
+            destination = build_patch(verified, args.font, args.date)
             print("생성 완료: " + destination.name)
             print("SHA256: " + sha256(destination.read_bytes()))
     except (OSError, ValueError, KeyError, ET.ParseError, zipfile.BadZipFile) as error:

@@ -9,7 +9,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -17,7 +17,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

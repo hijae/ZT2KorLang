@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="zoopedia_label:label">
-         <font name="Malgun Gothic" size="16" image="ui\font\color_mainmenu.dds" shadowx="0" shadowy="0" shadowa="0">
+         <font name="Gulim" size="16" image="ui\font\color_mainmenu.dds" shadowx="0" shadowy="0" shadowa="0">
             <color r="255" g="250" b="200">
                주피디아
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="text_format:body_text">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             <color r="74" g="74" b="74">
                %text%
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="text_format:zoopedia_entity_label">
-         <font name="Malgun Gothic" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0" shadowa="0">
+         <font name="Gulim" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0" shadowa="0">
             <color r="255" g="250" b="200">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="text_format:zoopedia_secondary_label">
-         <font name="Malgun Gothic" size="11" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0" shadowa="0">
+         <font name="Gulim" size="11" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0" shadowa="0">
             <color r="225" g="225" b="165">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoopedia_toc:format">
-         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+         <font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
             <b>%text%</b>
          </font>
       </LOC_STRING>
@@ -41,7 +41,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -61,7 +61,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -70,7 +70,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -90,7 +90,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -98,7 +98,7 @@
              
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -106,7 +106,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -114,7 +114,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -134,7 +134,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -142,7 +142,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -162,7 +162,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -170,7 +170,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -190,7 +190,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -198,7 +198,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -218,7 +218,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -226,7 +226,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -246,7 +246,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -254,7 +254,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -274,7 +274,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -294,7 +294,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -302,7 +302,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -322,7 +322,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -330,7 +330,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -350,7 +350,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -358,7 +358,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -378,7 +378,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -386,7 +386,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -406,7 +406,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -414,7 +414,7 @@
 			
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -434,7 +434,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -442,7 +442,7 @@
              
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -462,7 +462,7 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 주타이쿤 2의 저작권 정보를 보려면 왼쪽의 목록에서 항목 이름을 클릭하세요.              

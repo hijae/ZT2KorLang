@@ -59,10 +59,10 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">
+                     <color r="255" g="255" b="255"><font name="Gulim" size="10">
                       Conservation Status:
                      </font><br />
-                        <color r="0" g="255" b="0"><font name="Malgun Gothic" size="10">
+                        <color r="0" g="255" b="0"><font name="Gulim" size="10">
                       Low Risk
                         </font></color>
                      </color>                  
@@ -70,16 +70,16 @@
                </cell>   
    
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Deep sea</font><br /></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Deep sea</font><br /></color>
      <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Arctic North</font><br /></color> 
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Arctic North</font><br /></color> 
      <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
     </cell>
     <br />
     <cell width="284" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Class: Mammals </font><i><font name="Malgun Gothic" size="10">(Mammalia)</font></i><br /><font name="Malgun Gothic" size="10">Order: Whales </font><i><font name="Malgun Gothic" size="10">(Cetacea)</font></i><br /><font name="Malgun Gothic" size="10">Family: Dolphins </font><i><font name="Malgun Gothic" size="10">(Delphinidae)</font></i><br /><font name="Malgun Gothic" size="10">Genus: </font><i><font name="Malgun Gothic" size="10">Lagenorhynchus</font></i><br /><font name="Malgun Gothic" size="10">Species: </font><i><font name="Malgun Gothic" size="10">L. albirostris</font></i>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Class: Mammals </font><i><font name="Gulim" size="10">(Mammalia)</font></i><br /><font name="Gulim" size="10">Order: Whales </font><i><font name="Gulim" size="10">(Cetacea)</font></i><br /><font name="Gulim" size="10">Family: Dolphins </font><i><font name="Gulim" size="10">(Delphinidae)</font></i><br /><font name="Gulim" size="10">Genus: </font><i><font name="Gulim" size="10">Lagenorhynchus</font></i><br /><font name="Gulim" size="10">Species: </font><i><font name="Gulim" size="10">L. albirostris</font></i>
      </color>
     </cell>
     <cell width="256" pady="10">
@@ -96,7 +96,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="Malgun Gothic" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the White-beaked Dolphin</font>
+     <font name="Gulim" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Facts about the White-beaked Dolphin</font>
     </color>
    </cell>
    <p />
@@ -106,37 +106,37 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">Adult males can weigh about 300 kg. en can grow to be about 3 m. long.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">Adult males can weigh about 300 kg. en can grow to be about 3 m. long.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">They can dive for a maximum of 5 minutes, but usually they take a breath every 20 seconds.</font></color>
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">They can dive for a maximum of 5 minutes, but usually they take a breath every 20 seconds.</font></color>
     </cell>
 	<cell width="32" pady="10">
 		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
 	</cell>            
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255"><font name="Malgun Gothic" size="10">White-beaked Dolphin lives in a group of 2 to 6 dolphins.</font></color>     
+     <color r="255" g="255" b="255"><font name="Gulim" size="10">White-beaked Dolphin lives in a group of 2 to 6 dolphins.</font></color>     
     </cell>
   </cell>
   </cell>
   <cell width="340">
-   <color r="255" g="248" b="178"><font name="Malgun Gothic" size="10">
+   <color r="255" g="248" b="178"><font name="Gulim" size="10">
     In Challenge and Campaign mode the White-beaked Dolphin will be available when your zoo has reached 2 stars.
    </font></color>
-   <p /><font name="Malgun Gothic" size="10"> The White-beaked Dolphin (Lagenorhynchus albirostris) is a dolphin species.</font><p /><font name="Malgun Gothic" size="10"> The White-beaked Dolphin Lagenorhynchus albirostris is a mid sized, heavy build dolphin. The curved dorsal fin is large and is striking. Characteristic is the light grey back and the light grey stripe under the dorsal fin that goes to the blow hole. White-beaked Dolphins have a short, white (sometimes grey) snout, their fins are black and their tale is also black. Adults have an average lenght of 2.40 m. (minimum 1.2 m. and maximum 3 m.) When they are born they are already 1 m.
-</font><p /><font name="Malgun Gothic" size="10"> White-beaked Dolphins usually live in a group of 2 to 6 dolphins. On a rear occasion larger groups have been seen and it is very unusual that there are over a 100 dolphins. Those groups often have some other dolphins like the related Atlantic White-sided Dolphin, but they are not together very long. The behaviour is very different. The fast swimming White-beaked Dolphin swim very fast through the water, so the water turns into foam, while their curved dorsal fin is shown. Fast swimming varies with slow swimming, where they move to every where they can. There dorsal fin is turned to the  surface and their white back and stripe under the dorsal fin are more noticeable. White-beaked Dolphins like to swim with boats, but just for a couple of minutes. Fishers and yachts sooner or later find a group of White-beaked Dolphins. White-beaked Dolphins like to breach (vertical jumps out of the water). Some land on their back, belly or side of their body, but they al want to make the biggest splash. Usually they make 3 or 4 jumps, then to go back to swimming. Regularly, horizontal jumps, like fast swimming Bottlenose dolphins or Common dolphins, are not seen with the White-beaked Dolphin.
- </font><p /><font name="Malgun Gothic" size="10"> Because of their white drawing on their side they are mis-identified as the Atlantic White-sided Dolphin. They only have a somewhat same name, but a confusion between the Common dolphin and the Atlantic White-sided Dolphin is more likely.
-</font><p /><font name="Malgun Gothic" size="10"> The White-beaked Dolphin is a very social dolphin and hunt in groups for shoalfish like the herring or mackerel. The size of the groups varies from 10 to 1000s.
-</font><p /><font name="Malgun Gothic" size="10"> They live in the Northern Hemisphere in waters with temperatures between 6 and 20 degrees Celsius. Mainly the water depth is about 60 to 100s metres. In the North Sea the White-beaked Dolphin is the most common dolphin, the most numbers are found in the Scotish waters. Also in the Dutch North Sea the White-beaked Dolphin is after the Harbour Porpoise the most common whalelike. Unfortunately these dolphins rarely or never show themselves on shores, but fishers or sailingyachts are more likely to see a group of dolphins when they are 10 km. off shore. Lately there are 10s of sightings collected.
+   <p /><font name="Gulim" size="10"> The White-beaked Dolphin (Lagenorhynchus albirostris) is a dolphin species.</font><p /><font name="Gulim" size="10"> The White-beaked Dolphin Lagenorhynchus albirostris is a mid sized, heavy build dolphin. The curved dorsal fin is large and is striking. Characteristic is the light grey back and the light grey stripe under the dorsal fin that goes to the blow hole. White-beaked Dolphins have a short, white (sometimes grey) snout, their fins are black and their tale is also black. Adults have an average lenght of 2.40 m. (minimum 1.2 m. and maximum 3 m.) When they are born they are already 1 m.
+</font><p /><font name="Gulim" size="10"> White-beaked Dolphins usually live in a group of 2 to 6 dolphins. On a rear occasion larger groups have been seen and it is very unusual that there are over a 100 dolphins. Those groups often have some other dolphins like the related Atlantic White-sided Dolphin, but they are not together very long. The behaviour is very different. The fast swimming White-beaked Dolphin swim very fast through the water, so the water turns into foam, while their curved dorsal fin is shown. Fast swimming varies with slow swimming, where they move to every where they can. There dorsal fin is turned to the  surface and their white back and stripe under the dorsal fin are more noticeable. White-beaked Dolphins like to swim with boats, but just for a couple of minutes. Fishers and yachts sooner or later find a group of White-beaked Dolphins. White-beaked Dolphins like to breach (vertical jumps out of the water). Some land on their back, belly or side of their body, but they al want to make the biggest splash. Usually they make 3 or 4 jumps, then to go back to swimming. Regularly, horizontal jumps, like fast swimming Bottlenose dolphins or Common dolphins, are not seen with the White-beaked Dolphin.
+ </font><p /><font name="Gulim" size="10"> Because of their white drawing on their side they are mis-identified as the Atlantic White-sided Dolphin. They only have a somewhat same name, but a confusion between the Common dolphin and the Atlantic White-sided Dolphin is more likely.
+</font><p /><font name="Gulim" size="10"> The White-beaked Dolphin is a very social dolphin and hunt in groups for shoalfish like the herring or mackerel. The size of the groups varies from 10 to 1000s.
+</font><p /><font name="Gulim" size="10"> They live in the Northern Hemisphere in waters with temperatures between 6 and 20 degrees Celsius. Mainly the water depth is about 60 to 100s metres. In the North Sea the White-beaked Dolphin is the most common dolphin, the most numbers are found in the Scotish waters. Also in the Dutch North Sea the White-beaked Dolphin is after the Harbour Porpoise the most common whalelike. Unfortunately these dolphins rarely or never show themselves on shores, but fishers or sailingyachts are more likely to see a group of dolphins when they are 10 km. off shore. Lately there are 10s of sightings collected.
 
   </font></cell>
   <p />
   <cell width="260" />
-  <cell width="620"><font name="Malgun Gothic" size="10">
-   Information from: </font><color r="255" g="231" b="135"><font name="Malgun Gothic" size="10">http://nl.wikipedia.org/wiki/Witsnuitdolfijn</font></color><font name="Malgun Gothic" size="10"> Made by Dennis1991!</font><br />
+  <cell width="620"><font name="Gulim" size="10">
+   Information from: </font><color r="255" g="231" b="135"><font name="Gulim" size="10">http://nl.wikipedia.org/wiki/Witsnuitdolfijn</font></color><font name="Gulim" size="10"> Made by Dennis1991!</font><br />
   </cell>
  </text>
 </zoopedia_whitebeakeddolph>

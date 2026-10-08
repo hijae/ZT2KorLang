@@ -3,35 +3,35 @@
       <LOC_STRING _locID="ZTPhotoMode" version="0" />
       <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat">%02d / %02d</LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label">
-         <font name="Malgun Gothic" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+         <font name="Gulim" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
                사진 찍기 챌린지
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat">
-         <font name="Malgun Gothic" size="12" shadowx="1" shadowy="1" shadowa="64">
+         <font name="Gulim" size="12" shadowx="1" shadowy="1" shadowa="64">
             <color r="0" g="255" b="0">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat">
-         <font name="Malgun Gothic" size="12" shadowx="1" shadowy="1" shadowa="64">
+         <font name="Gulim" size="12" shadowx="1" shadowy="1" shadowa="64">
             <color r="255" g="8" b="8">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode">
-         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="60">
+         <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="60">
             <color r="255" g="255" b="255" a="100">
                마우스 커서를 보이거나 숨기려면 마우스 오른쪽 단추를 클릭하세요.
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode">
-         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="60">
+         <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="60">
             <color r="255" g="255" b="255" a="100">
                사진 찍기 모드로 전환하려면 마우스 오른쪽 단추를 클릭하세요.
             </color>

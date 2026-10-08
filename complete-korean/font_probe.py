@@ -14,7 +14,7 @@ import sys
 import xml.etree.ElementTree as ET
 
 
-FAMILIES = {'system': 'Malgun Gothic', 'pretendard': 'Pretendard'}
+FAMILIES = {'system': 'Gulim', 'pretendard': 'Pretendard'}
 
 
 def probe(family, weight, text):
@@ -51,7 +51,7 @@ def probe(family, weight, text):
             raise ctypes.WinError(ctypes.get_last_error())
         missing = ['U+%04X' % ord(char) for char, glyph in zip(text, glyphs) if glyph == 0xffff]
         match = selected.value.casefold() == family.casefold()
-        if family == 'Malgun Gothic' and selected.value == '맑은 고딕':
+        if family == 'Gulim' and selected.value == '굴림':
             match = True
         return {'requested_family': family, 'selected_family': selected.value,
                 'weight': weight, 'family_matches': match,

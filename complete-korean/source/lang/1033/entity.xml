@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="entityname:format">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1" shadowa="32">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1" shadowa="32">
             <b>%text%</b>
          </font>
       </LOC_STRING>

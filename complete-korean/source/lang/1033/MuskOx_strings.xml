@@ -71,10 +71,10 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                      보존 상태:
                      </font><br />
-                        <color r="170" g="255" b="0"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                        <color r="170" g="255" b="0"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                      비교적 양호
                         </font></color>
                      </color>                  
@@ -82,16 +82,16 @@
                </cell>   
             
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라</font><br /></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">툰드라</font><br /></color>
                   <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
                </cell>
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">북극</font><br /></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">북극</font><br /></color>
                   <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
                </cell>
                <br />
                <cell width="284" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">강: 포유류 (Mammalia)</font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">목: 소목 (Artiodactyla)</font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">과: 소과 (Bovidae)</font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Ovibos</font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">종: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">moschatus</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">강: 포유류 (Mammalia)</font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">목: 소목 (Artiodactyla)</font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">과: 소과 (Bovidae)</font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">Ovibos</font><br /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">종: </font><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">moschatus</font></color>
                </cell>
                <cell width="256" pady="10">
                   <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
@@ -107,7 +107,7 @@
             </cell>
             <cell width="176">
                <color r="40" g="36" b="25">
-                  <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
                </color>
             </cell>
             <p />
@@ -117,49 +117,49 @@
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">수컷 사향소는 눈 아래에 분비샘이 있으며, 덤불이나 나무의 가지에 비비면 사향 냄새가 남습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">수컷 사향소는 눈 아래에 분비샘이 있으며, 덤불이나 나무의 가지에 비비면 사향 냄새가 남습니다.</font></color>
                </cell>
                <br />
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 마지막 빙하기부터 지구에서 살아왔으며, 수천 년 전에는 털매머드와 함께 살았습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 마지막 빙하기부터 지구에서 살아왔으며, 수천 년 전에는 털매머드와 함께 살았습니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소의 속털인 키비우트는 캐시미어만큼 부드러우며, 세계에서 가장 따뜻한 섬유로 여겨집니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소의 속털인 키비우트는 캐시미어만큼 부드러우며, 세계에서 가장 따뜻한 섬유로 여겨집니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">에스키모인들은 사향소를 "수염이 난 동물"이라는 뜻의 "우밍막"이라고 불렀습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">에스키모인들은 사향소를 "수염이 난 동물"이라는 뜻의 "우밍막"이라고 불렀습니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 10~20마리씩 무리 지어 다니며, 위험을 느끼면 새끼를 둘러싸고 원을 만듭니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 10~20마리씩 무리 지어 다니며, 위험을 느끼면 새끼를 둘러싸고 원을 만듭니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소의 발굽은 얼음을 깨고 신선한 물을 마실 수 있도록 잘 적응되어 있습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소의 발굽은 얼음을 깨고 신선한 물을 마실 수 있도록 잘 적응되어 있습니다.</font></color>
                </cell>
             </cell>
          </cell>
          <cell width="340">
-         <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 게임이나 캠페인 게임에서 사향소를 입양하려면 동물원 명성이 별 1/2개에 도달해야 합니다.</font></color>
-         <p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 긴 짙은 갈색 털을 가진 반추 동물로, 염소와 양의 가까운 친척입니다. 캐나다 북부와 그린란드에 살며, 알래스카를 비롯한 다른 북쪽 지역에도 도입되었습니다. 다 자란 수컷의 평균 몸길이는 1.9~2.3 m (6.2~7.5 ft), 어깨 높이는 1.2~1.5 m (3.9~5 ft)입니다. 긴 뿔은 아래로 휘어 있고 날카로운 끝부분은 위로 향합니다. 암컷은 훨씬 작습니다. 암수 모두 추위를 막아 주는 촘촘한 속털과 발목까지 내려오는 겉털을 갖고 있습니다. 수컷은 발정기에 강한 사향 냄새를 풍기며, 사향소라는 이름도 여기에서 유래했습니다.
-         </font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 10~100마리의 무리를 이루어 다닙니다. 가죽과 고기를 얻으려는 인간의 사냥으로 개체 수가 급격히 줄고 분포 범위도 좁아졌습니다. 그러나 종을 보존하려는 노력이 이어졌으며, 현재는 캐나다에서 보호받고 있습니다. 무리가 위협을 받으면 다 자란 사향소들이 바깥쪽을 향해 원을 만들고 새끼들을 가운데에 둡니다.
+         <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 게임이나 캠페인 게임에서 사향소를 입양하려면 동물원 명성이 별 1/2개에 도달해야 합니다.</font></color>
+         <p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 긴 짙은 갈색 털을 가진 반추 동물로, 염소와 양의 가까운 친척입니다. 캐나다 북부와 그린란드에 살며, 알래스카를 비롯한 다른 북쪽 지역에도 도입되었습니다. 다 자란 수컷의 평균 몸길이는 1.9~2.3 m (6.2~7.5 ft), 어깨 높이는 1.2~1.5 m (3.9~5 ft)입니다. 긴 뿔은 아래로 휘어 있고 날카로운 끝부분은 위로 향합니다. 암컷은 훨씬 작습니다. 암수 모두 추위를 막아 주는 촘촘한 속털과 발목까지 내려오는 겉털을 갖고 있습니다. 수컷은 발정기에 강한 사향 냄새를 풍기며, 사향소라는 이름도 여기에서 유래했습니다.
+         </font></color><p /><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사향소는 10~100마리의 무리를 이루어 다닙니다. 가죽과 고기를 얻으려는 인간의 사냥으로 개체 수가 급격히 줄고 분포 범위도 좁아졌습니다. 그러나 종을 보존하려는 노력이 이어졌으며, 현재는 캐나다에서 보호받고 있습니다. 무리가 위협을 받으면 다 자란 사향소들이 바깥쪽을 향해 원을 만들고 새끼들을 가운데에 둡니다.
          </font></color></cell>
          <p />
          <cell width="260" />
-         <cell width="620"><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">자료 제공: </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 참고 자료 라이브러리 2004.</font></color></u></a><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">© 1993-2003 마이크로소프트사. 모든 권리를 보유합니다.
+         <cell width="620"><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">자료 제공: </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 참고 자료 라이브러리 2004.</font></color></u></a><color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">© 1993-2003 마이크로소프트사. 모든 권리를 보유합니다.
          </font></color></cell>
       </text>
    </zoopedia_muskox>
@@ -175,10 +175,10 @@
                   <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
                </cell>
                <cell pady="15" width="400">
-               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무는 목본성 꽃식물로 이루어진 작은 과와, 이 과의 대표적인 속에 속하는 일부 나무를 가리키는 일반적인 이름입니다. 버드나무과에는 사시나무류와 미루나무류를 포함하여 버드나무와 포플러 약 435종이 속합니다. 포플러 항목도 참고하세요. 이 과의 식물은 보통 습한 서식지, 범람원 및 강둑에서 삽니다. 성장이 빠르며, 흔히 새로운 지역에 먼저 자리 잡는 선구 식물이 됩니다. 목재는 여러 용도로 쓰이고 잎은 야생 동물의 먹이가 됩니다. 일부 종은 관상용으로 기릅니다. 버드나무과에는 버드나무속과 포플러속의 두 속이 있습니다. 두 속 모두 북반구에 널리 분포하며, 일부 종은 남반구에도 나타납니다. 약 35종의 포플러는 교목이고, 약 400종의 버드나무 중 대부분은 관목입니다. 버드나무는 북극의 툰드라에 특히 많으며 중요한 역할을 합니다. 이곳에서는 키가 작고 바닥에 깔린 매트처럼 자랍니다. 산의 수목 한계선 위에서도 발견됩니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무와 포플러는 수꽃과 암꽃이 각각 다른 개체에 달립니다. 꽃은 매우 단순하며 꽃받침과 꽃잎이 모두 없습니다. 봄에 새잎이 돋기 전이나 돋는 동안, 미상꽃차례라고 하는 빽빽한 꽃 무리로 나타납니다. 포플러의 미상꽃차례는 아래로 늘어지고 꿀을 만들지 않으며, 바람을 통해 수분합니다. 반면 버드나무의 미상꽃차례는 곧게 서고 향기로운 꿀을 풍부하게 만듭니다. 이 꿀은 곤충, 특히 벌과 나방을 끌어들이며, 이들이 수분을 돕습니다. 단순한 버드나무 꽃이 곤충을 통해 수분하는 것은 복잡하고 화려한 꽃을 가진 식물만 곤충이 꽃가루를 옮겨 준다는 식물계의 일반적인 경향에서 벗어난 사례입니다. 하지만 다른 꽃이 대부분 아직 피지 않은 이른 봄에는 곤충들이 버드나무 미상꽃차례의 꿀에 먹이를 의존합니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무와 포플러의 열매는 많은 씨앗이 들어 있는 작은 삭과입니다. 씨앗마다 낙하산처럼 작용하는 솜털 같은 실이 달려 있어 바람을 타고 퍼지는 데 도움이 됩니다. 씨앗이 알맞고 습한 흙에 내려앉으면 하루나 이틀 안에 싹이 틉니다. 대부분의 버드나무와 포플러는 빨리 자라며 몇 년 안에 꽃을 피울 나이가 되지만, 수명은 짧아서 일부는 20년밖에 살지 못합니다.
-               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무과 식물의 경제적 중요성은 다양합니다. 흔히 볼 수 있는 바구니버드나무는 바구니를 엮는 데 쓸 가지를 얻기 위해 재배합니다. 다른 버드나무의 가볍고 잘 찌그러지지 않는 목재는 의족, 나막신 및 크리켓 배트를 만드는 데 쓰입니다. 버드나무 껍질에는 여러 민간요법에 쓰이는 활성 성분인 살리신이 들어 있습니다. 아스피린은 살리실산의 유도체이며, 살리실산은 버드나무 껍질의 유도체에서 처음 합성되었습니다. 수양버들과 갯버들 같은 일부 버드나무는 원예 식물로도 중요합니다.
+               <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무는 목본성 꽃식물로 이루어진 작은 과와, 이 과의 대표적인 속에 속하는 일부 나무를 가리키는 일반적인 이름입니다. 버드나무과에는 사시나무류와 미루나무류를 포함하여 버드나무와 포플러 약 435종이 속합니다. 포플러 항목도 참고하세요. 이 과의 식물은 보통 습한 서식지, 범람원 및 강둑에서 삽니다. 성장이 빠르며, 흔히 새로운 지역에 먼저 자리 잡는 선구 식물이 됩니다. 목재는 여러 용도로 쓰이고 잎은 야생 동물의 먹이가 됩니다. 일부 종은 관상용으로 기릅니다. 버드나무과에는 버드나무속과 포플러속의 두 속이 있습니다. 두 속 모두 북반구에 널리 분포하며, 일부 종은 남반구에도 나타납니다. 약 35종의 포플러는 교목이고, 약 400종의 버드나무 중 대부분은 관목입니다. 버드나무는 북극의 툰드라에 특히 많으며 중요한 역할을 합니다. 이곳에서는 키가 작고 바닥에 깔린 매트처럼 자랍니다. 산의 수목 한계선 위에서도 발견됩니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무와 포플러는 수꽃과 암꽃이 각각 다른 개체에 달립니다. 꽃은 매우 단순하며 꽃받침과 꽃잎이 모두 없습니다. 봄에 새잎이 돋기 전이나 돋는 동안, 미상꽃차례라고 하는 빽빽한 꽃 무리로 나타납니다. 포플러의 미상꽃차례는 아래로 늘어지고 꿀을 만들지 않으며, 바람을 통해 수분합니다. 반면 버드나무의 미상꽃차례는 곧게 서고 향기로운 꿀을 풍부하게 만듭니다. 이 꿀은 곤충, 특히 벌과 나방을 끌어들이며, 이들이 수분을 돕습니다. 단순한 버드나무 꽃이 곤충을 통해 수분하는 것은 복잡하고 화려한 꽃을 가진 식물만 곤충이 꽃가루를 옮겨 준다는 식물계의 일반적인 경향에서 벗어난 사례입니다. 하지만 다른 꽃이 대부분 아직 피지 않은 이른 봄에는 곤충들이 버드나무 미상꽃차례의 꿀에 먹이를 의존합니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무와 포플러의 열매는 많은 씨앗이 들어 있는 작은 삭과입니다. 씨앗마다 낙하산처럼 작용하는 솜털 같은 실이 달려 있어 바람을 타고 퍼지는 데 도움이 됩니다. 씨앗이 알맞고 습한 흙에 내려앉으면 하루나 이틀 안에 싹이 틉니다. 대부분의 버드나무와 포플러는 빨리 자라며 몇 년 안에 꽃을 피울 나이가 되지만, 수명은 짧아서 일부는 20년밖에 살지 못합니다.
+               </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">버드나무과 식물의 경제적 중요성은 다양합니다. 흔히 볼 수 있는 바구니버드나무는 바구니를 엮는 데 쓸 가지를 얻기 위해 재배합니다. 다른 버드나무의 가볍고 잘 찌그러지지 않는 목재는 의족, 나막신 및 크리켓 배트를 만드는 데 쓰입니다. 버드나무 껍질에는 여러 민간요법에 쓰이는 활성 성분인 살리신이 들어 있습니다. 아스피린은 살리실산의 유도체이며, 살리실산은 버드나무 껍질의 유도체에서 처음 합성되었습니다. 수양버들과 갯버들 같은 일부 버드나무는 원예 식물로도 중요합니다.
             </font></cell>
             </cell>
             <p />

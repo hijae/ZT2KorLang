@@ -6,7 +6,7 @@
       <LOC_STRING _locID="ZTDownloadMode:Status">상태</LOC_STRING>
       <LOC_STRING _locID="ZTDownloadMode:ClickHere">클릭하세요</LOC_STRING>
       <LOC_STRING _locID="ZTDownloadMode:HeaderFormat">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1" shadowa="64">
+         <font name="Gulim" size="10" shadowx="1" shadowy="1" shadowa="64">
             <b>%text%</b>
          </font>
       </LOC_STRING>

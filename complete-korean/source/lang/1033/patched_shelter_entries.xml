@@ -10,7 +10,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                                     <img src="entities/objects/shelters/BeaverLodge_Shelter/BeaverLodge_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                                    <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                                    <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -28,9 +28,9 @@
                   
                   </font><a href="zoopedia:zoopedia_beaver:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">비버</font></color>
+                        <color r="60" g="54" b="38"><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">비버</font></color>
                      </u>
-                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                    는 헤엄을 쳐서 비버 오두막으로 들어갑니다.
                
@@ -54,7 +54,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/GroundNest_Shelter/GroundNest_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                                  
                
                   
@@ -79,7 +79,7 @@
                   
                   
                   
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

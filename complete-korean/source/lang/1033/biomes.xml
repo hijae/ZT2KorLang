@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="biometype:format">
-         <font name="Malgun Gothic" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
+         <font name="Gulim" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="biometype:alpine">고산</LOC_STRING>
       <LOC_STRING _locID="biometype:alpine_ltt">

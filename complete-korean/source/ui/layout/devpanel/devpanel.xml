@@ -78,7 +78,7 @@
          <UIRegion x="610" y="50" w="1024" h="30" />
          <UIAspect>
             <default>
-               <BFFont shadowx="0" shadowy="0" font="Malgun Gothic" size="14">
+               <BFFont shadowx="0" shadowy="0" font="Gulim" size="14">
                   <BFColor r="255" g="83" b="66" a="255" />
                </BFFont>
             </default>

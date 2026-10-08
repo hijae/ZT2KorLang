@@ -8,9 +8,9 @@
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 주타이쿤 2: Marine Mania에서는 해양 동물들이 살게 되는 우리인 수조를 건설할 수 있습니다.
-                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 수조 아이템에 대한 정보를 보려면 왼쪽 목록에서 해당 아이템의 이름을 클릭하세요.  
                </font></color>
             </cell>
@@ -25,7 +25,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 아크릴 수조 벽은 투명한 합성수지로 만든 벽입니다. 수조에 있는 동물을 관람객들이 볼 수 있게 하려면 이 벽을 사용하세요.
      </font></color>
     </cell>
@@ -40,7 +40,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 불투명 수조 벽은 단단한 콘크리트 판으로 만든 벽으로 관람객들이 안쪽을 볼 수 없습니다. 아크릴 수조 벽과 혼합해서 수조를 만들면 동물들이 관람객의 시선을 피할 수 있는 공간을 마련해 줄 수 있습니다.
      </font></color>
     </cell>
@@ -56,7 +56,7 @@
      <color r="60" g="54" b="38">
       <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64" />
       <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 해양 테마 수조 벽은 수조를 재미있게 꾸밀 수 있는 벽으로 투명형과 불투명형이 있습니다. 공연 연출 1등상을 수상하면 해양 테마 수조 벽을 설치할 수 있습니다.    
      </font></color>
     </cell>
@@ -72,7 +72,7 @@
      <color r="60" g="54" b="38">
       <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64" />
       <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 공연 수조 벽을 이용하면 공연 수조를 멋있게 꾸밀 수 있습니다. 공연 수조 벽으로 우리를 건설하면 무대와 수조 연결문을 설치하라는 안내가 자동으로 나타납니다.
      </font></color>
     </cell>
@@ -87,7 +87,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 수조 입구가 없으면 사육사들이 수조에 있는 동물을 돌볼 수 없으며, 조련사도 동물을 훈련시킬 수 없습니다. 수조 입구는 수조 벽에만 설치할 수 있다는 점을 명심하세요.
      </font></color>
     </cell>
@@ -102,7 +102,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 정수 필터는 일반 수조 및 공연 수조에 있는 쓰레기와 불순물을 청소해줍니다. 수조의 물이 깨끗하면 동물들이 건강하고 행복한 상태를 유지할 수 있습니다. 정수 필터는 관리원이 정기적으로 점검해야 합니다. 1인칭 시점에서는 직접 수리할 수도 있습니다. 
      </font></color>
     </cell>

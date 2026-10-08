@@ -19,7 +19,7 @@
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64" />                    
-                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사료 더미는 나무 조각, 나뭇잎, 자른 풀, 작은 나뭇가지, 클로버, 민들레 등의 유기물에 과일, 상추, 건초, 풀, 나뭇가지, 대나무, 뿌리, 곤충까지 섞어 만든 것입니다.</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">많은 동물은 사료 더미에서 먹이를 찾는 행동을 즐기며, 이런 활동은 먹이를 먹는 데 대한 관심을 높여 줍니다.</font></color>
+                  <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">사료 더미는 나무 조각, 나뭇잎, 자른 풀, 작은 나뭇가지, 클로버, 민들레 등의 유기물에 과일, 상추, 건초, 풀, 나뭇가지, 대나무, 뿌리, 곤충까지 섞어 만든 것입니다.</font><p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">많은 동물은 사료 더미에서 먹이를 찾는 행동을 즐기며, 이런 활동은 먹이를 먹는 데 대한 관심을 높여 줍니다.</font></color>
             </cell>
          </cell>
       </LOC_STRING>

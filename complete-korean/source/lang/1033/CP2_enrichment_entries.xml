@@ -9,7 +9,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities/objects/enrichment/Glacier/Glacier_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
       빙하는 얼음과 압축된 눈으로 이루어진 거대한 덩어리입니다. 툰드라, 고산 지대, 북방림 서식 환경의 동물들은 야생에서 빙하와 함께 사는 데 익숙하며, 빙하기 동물들도 마찬가지입니다! 따뜻한 기후의 서식 환경에 있는 동물원에는 빙하를 배치하여 이런 동물들이 더 편안하게 지내도록 해 주세요.
      </font></color>
     </cell>
@@ -24,7 +24,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities/objects/enrichment/tarpit/tarpit_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 	타르 웅덩이는 뜨거운 아스팔트가 부글거리는 웅덩이입니다. 사막, 관목림, 사바나 서식 환경의 동물들은 때때로 야생에서 이런 웅덩이를 만납니다. 추운 기후의 서식 환경에 있는 동물원에는 타르 웅덩이를 배치하여 이런 동물들이 더 편안하게 지내도록 해 주세요.
      </font></color>
     </cell>
@@ -39,7 +39,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities/objects/enrichment/MistyWaterfall/MistyWaterfall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 	안개 샘은 열대우림, 습지대, 초원 서식 환경의 동물들이 좋아하는 완만하게 흐르는 물줄기입니다. 건조한 기후의 서식 환경에 있는 동물원에는 안개 샘을 배치하여 이런 동물들이 더 편안하게 지내도록 해 주세요.
      </font></color>
     </cell>
@@ -54,7 +54,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities/objects/enrichment/DodoRock/DodoRock_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 	오늘날의 많은 새처럼 도도도 소화를 돕기 위해 돌 조각을 삼켰습니다. 도도는 상당히 큰 새였으므로 아주 작은 돌 조각보다는 작은 돌멩이를 삼켰습니다. 동물원의 도도는 주먹 크기의 도도 돌을 좋아합니다.
      </font></color>
     </cell>
@@ -69,7 +69,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities/objects/enrichment/ElephantLog_df/ElephantLog_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Gulim" size="10" shadowx="0" shadowy="0" shadowa="0">
 	아주 작은 코끼리 통나무는 몸집이 작은 시칠리아난쟁이코끼리에게 안성맞춤입니다. 이 동물은 코로 통나무를 들어 우리 안에서 가지고 다니는 것을 좋아합니다.
      </font></color>
     </cell>
