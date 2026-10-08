@@ -28,10 +28,10 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                      보존 상태:
                      </font><br />
-                        <color r="170" g="255" b="0"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                        <color r="170" g="255" b="0"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                      비교적 양호
                         </font></color>
                      </color>                  
@@ -39,46 +39,46 @@
                </cell>             
 
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">온대림</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">온대림</font></color>
                   <br />
                   <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
                </cell>
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아시아</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">아시아</font></color>
                   <br />
                   <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
                </cell>
                <br />
                <cell width="284" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      강:  	조류                                                        
                      
                      (Aves)
-                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      목:		닭목                                                        
                      
                      (Galliformes)
-                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      과:		꿩과(메추라기, 반시, 자고, 목도리뇌조, 	                                                       
                      
-                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      뇌조, 칠면조                                                        
                      
                      (Phasianidae)
-                     </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      속:		                                                       
                      
-                     </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Pavo</font>
-                     <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Pavo</font>
+                     <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
                      종:	                                                       
                      
-                     </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">cristatus</font>
+                     </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">cristatus</font>
                   </color>   
                </cell>
                <cell width="256" pady="10">
@@ -95,7 +95,7 @@
             </cell>
             <cell width="176">
                <color r="40" g="36" b="25">
-                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">      						재미있는 사실      					</font>
+                  <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="0">      						재미있는 사실      					</font>
                </color>
             </cell>
             <p />
@@ -105,21 +105,21 @@
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">			수컷 공작과 암컷 공작은 잡식성으로서 벌레, 곤충, 작은 뱀, 씨앗 등을 주식으로 합니다.		</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">			수컷 공작과 암컷 공작은 잡식성으로서 벌레, 곤충, 작은 뱀, 씨앗 등을 주식으로 합니다.		</font></color>
                </cell>
             </cell>
          </cell>
          <cell width="340">
-            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
             챌린지 또는 캠페인 게임에서 공작을 입양하려면 동물원 명성을 별 반 개까지 올려야 합니다.
             </font></color>
-            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
             
                                                   공작은 꿩과에 속하는 세 가지 종을 통칭하는 이름입니다. 영어로는 흔히 "피콕"이라고 하는데, 이는 사실 수컷을 일컫는 말이고 암컷은 "피헨"이라고 합니다. 공작(인도 공작)과 녹색 공작, 두 종은 아시아에 서식합니다. 세 번째 종인 콩고 공작은 콩고(콩고민주공화국, 예전의 자이르)에서만 서식하는 것으로 알려져 있습니다. 아시아 공작은 상대적으로 짧은 꽁지깃을 덮고 있는 윗꽁지덮깃이 매우 아름다운 것으로 유명합니다. 공작은 이 윗꽁지덮깃을 세워서 펼쳐 자태를 뽐냅니다. 깃털은 대개 무지개 빛깔의 녹색과 금색이며 "공작 청색"이라는 풍부한 색감의 눈 모양의 장식으로 꾸며져 있습니다. 공작의 머리, 목, 가슴, 볏에도 이러한 청색이 나타나며 녹색 공작은 머리, 목, 복부가 녹색입니다. 암컷 공작은 아름다운 꼬리가 없으며 색깔도 수컷에 비해 단조롭습니다. 공작은 지면이나 낮은 나뭇가지에 보금자리를 짓습니다. 잡식성으로서 벌레, 곤충, 작은 뱀, 씨앗 등을 주식으로 합니다.                                    
            
 
-            </font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
             
                                                 공작은 세계 각지에서 길들여서 사육되고 있으며 하와이 섬에는 야생 공작도 있습니다. 품종 개량을 통해 흰색 공작도 생겨났습니다.                           
@@ -129,7 +129,7 @@
          </font></color></cell>
          <p />
          <cell width="260" />
-         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+         <cell width="620"><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
             
                                                  내용 출처                         
@@ -137,9 +137,9 @@
             
             </font></color><a href="zoopedia:zoopedia_encarta:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트 ® 엔카르타 ® 참고 자료 라이브러리 2004.</font></color>
                </u>
-            </a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
             
                                                               © 1993-2003 마이크로소프트 코퍼레이션. 모든 권리 보유.                           

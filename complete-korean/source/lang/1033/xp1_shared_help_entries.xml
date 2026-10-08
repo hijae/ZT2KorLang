@@ -7,7 +7,7 @@
             <p />
             <cell width="260" />
             <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
-               <cell width="600" padx="20" pady="20"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <cell width="600" padx="20" pady="20"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 동물원 관람객 100명 유치, 멸종 위기 동물 번식시키기 등 정해진 목표를 달성하면 상을 받게 됩니다. 상의 종류를 모두 확인하려면 [동물원 명성]을 클릭하고 [수상 내역] 탭을 클릭합니다.                            
                </font></cell>
             </cell>

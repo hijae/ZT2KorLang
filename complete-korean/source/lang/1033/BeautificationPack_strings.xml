@@ -200,7 +200,7 @@
                   <img src="entities\objects\fences\tropicalfence_df\tropicalfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\fences\tundrafence_df\tundrafence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" /> 
                   <img src="entities\objects\fences\wetlandsfence_df\wetlandsfence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">서식 환경 테마 난간 울타리는 강도가 보통 수준이지만 여러 동물을 위한 보기 좋은 우리 울타리로 사용할 수 있습니다. 
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">서식 환경 테마 난간 울타리는 강도가 보통 수준이지만 여러 동물을 위한 보기 좋은 우리 울타리로 사용할 수 있습니다. 
                </font></color>
             </cell>
          </cell>
@@ -217,8 +217,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\cablefence_df\cablefence_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">케이블 울타리는 고무 같은 플라스틱으로 코팅한 강철 케이블로 만들어져 저렴하고 튼튼합니다.
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">하지만 케이블 울타리를 타고 올라갈 수 있는 동물이 많습니다. 침팬지 우리에는 사용하지 마세요!
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">케이블 울타리는 고무 같은 플라스틱으로 코팅한 강철 케이블로 만들어져 저렴하고 튼튼합니다.
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">하지만 케이블 울타리를 타고 올라갈 수 있는 동물이 많습니다. 침팬지 우리에는 사용하지 마세요!
                </font></color>
             </cell>
          </cell>

@@ -232,7 +232,7 @@
                      <UIState active="normal" visible="normal" />
                      <UIAspect locid="shell:ingameoptions_save">
                         <default image="">
-                           <BFFont name="Pretendard" size="16" align="center" />
+                           <BFFont name="Malgun Gothic" size="16" align="center" />
                         </default>
                         <standard>
                            <normal>
@@ -265,7 +265,7 @@
                      <UIState active="normal" visible="hidden" />
                      <UIAspect locid="shell:ingameoptions_save">
                         <default image="">
-                           <BFFont name="Pretendard" size="16" align="center" />
+                           <BFFont name="Malgun Gothic" size="16" align="center" />
                         </default>
                         <standard>
                            <normal>
@@ -314,7 +314,7 @@
                            <UIState active="normal" visible="normal" />
                            <UIAspect locid="shell:ingameoptions_exit">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -343,7 +343,7 @@
                            <UIState active="normal" visible="hidden" />
                            <UIAspect locid="shell:ingameoptions_exit">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -423,7 +423,7 @@
                            <UIState active="normal" visible="hidden" />
                            <UIAspect locid="shell:ingameoptions_mainmenu">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" underline="0" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" underline="0" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -471,7 +471,7 @@
                            <UIState active="normal" visible="normal" />
                            <UIAspect locid="shell:ingameoptions_load">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -500,7 +500,7 @@
                            <UIState active="normal" visible="hidden" />
                            <UIAspect locid="shell:ingameoptions_load">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -550,7 +550,7 @@
                            <UIState active="normal" visible="normal" />
                            <UIAspect locid="shell:ingameoptions_exit">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -579,7 +579,7 @@
                            <UIState active="normal" visible="hidden" />
                            <UIAspect locid="shell:ingameoptions_exit">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" align="center" />
                               </default>
                               <standard>
                                  <normal>
@@ -659,7 +659,7 @@
                            <UIState active="normal" visible="hidden" />
                            <UIAspect locid="shell:ingameoptions_mainmenu">
                               <default image="">
-                                 <BFFont name="Pretendard" size="16" underline="0" align="center" />
+                                 <BFFont name="Malgun Gothic" size="16" underline="0" align="center" />
                               </default>
                               <standard>
                                  <normal>

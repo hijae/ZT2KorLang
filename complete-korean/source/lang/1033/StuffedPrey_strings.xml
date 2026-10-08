@@ -24,8 +24,8 @@
                <color r="60" g="54" b="38">
                   <p />
                   <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">먹잇감 모형은 짚과 삼베로 만든 가젤 모양의 모형으로, 굵은 코일 스프링 위에 고정되어 있습니다.
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">육식 동물은 모형을 물거나 앞발로 쳐서 공격을 연습하는 것을 좋아합니다. 공격을 받으면 모형이 튀어 오르기 때문입니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">먹잇감 모형은 짚과 삼베로 만든 가젤 모양의 모형으로, 굵은 코일 스프링 위에 고정되어 있습니다.
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">육식 동물은 모형을 물거나 앞발로 쳐서 공격을 연습하는 것을 좋아합니다. 공격을 받으면 모형이 튀어 오르기 때문입니다.
                </font></color>
             </cell>
          </cell>

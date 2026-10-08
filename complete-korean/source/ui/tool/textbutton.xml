@@ -5,17 +5,17 @@
    <UIAspect string="글자 단추">
       <default image="" />
       <normal>
-         <BFFont name="Pretendard" size="16">
+         <BFFont name="Malgun Gothic" size="16">
             <BFColor r="255" g="255" b="255" a="255" />
          </BFFont>
       </normal>
       <activated>
-         <BFFont name="Pretendard" size="16" underline="1">
+         <BFFont name="Malgun Gothic" size="16" underline="1">
             <BFColor r="194" g="194" b="0" a="255" />
          </BFFont>
       </activated>
       <highlighted>
-         <BFFont name="Pretendard" size="16" underline="1">
+         <BFFont name="Malgun Gothic" size="16" underline="1">
             <BFColor r="255" g="255" b="0" a="255" />
          </BFFont>
       </highlighted>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
-      <LOC_STRING _locID="worldlocation:cp1africa">아프리카 대탐험</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:cp1africa">African Adventure</LOC_STRING>
       <LOC_STRING _locID="worldlocation:africa_asia">아프리카 및 아시아</LOC_STRING>
       <LOC_STRING _locID="worldlocation:africa_asia_ltt">
          <color r="255" g="248" b="178">

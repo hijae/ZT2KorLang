@@ -324,8 +324,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\desert_et\desert_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
-               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -339,8 +339,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\lowdesert_et\lowdesert_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
-               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -354,8 +354,8 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\desertwindow_et\desertwindow_et_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
-               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
+               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 스타일의 울타리는 낙타와 같은 사막 동물들이 사는 우리에 가장 잘 어울립니다.
+               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사막 우리 주변의 공용 구역을 사막 테마로 꾸미는 데 사용해도 좋습니다. 관람객들은 테마로 꾸민 구역을 방문하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>

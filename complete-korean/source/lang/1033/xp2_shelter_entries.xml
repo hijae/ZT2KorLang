@@ -9,7 +9,7 @@
 				<cell width="600" padx="20" pady="20">
 					<color r="60" g="54" b="38">
 						<img src="entities/objects/shelters/KelpBed_Shelter/KelpBed_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-						<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">해달은 해조 침대에서 쉬는 것을 좋아합니다. 해달은 잠을 자기 전에 해초로 몸을 감아서 파도에 떠내려가는 것을 막습니다!
+						<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">해달은 해조 침대에서 쉬는 것을 좋아합니다. 해달은 잠을 자기 전에 해초로 몸을 감아서 파도에 떠내려가는 것을 막습니다!
 					</font></color>
 				</cell>
 			</cell>
@@ -23,7 +23,7 @@
 				<cell width="600" padx="20" pady="20">
 					<color r="60" g="54" b="38">
 						<img src="entities/objects/shelters/DesertIsland/DesertIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-						<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">무인도는 수조를 꾸며주기도 하지만 푸른바다거북이 여기서 알을 낳거나 휴식을 취하기도 합니다.
+						<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">무인도는 수조를 꾸며주기도 하지만 푸른바다거북이 여기서 알을 낳거나 휴식을 취하기도 합니다.
 					</font></color>
 				</cell>
 			</cell>
@@ -37,7 +37,7 @@
 				<cell width="600" padx="20" pady="20">
 					<color r="60" g="54" b="38">
 						<img src="entities/objects/shelters/RockIsland/RockIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-						<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강화 플라스틱으로 만든 바위섬은 캘리포니아바다사자, 태평양바다코끼리, 해달 및 록호퍼펭귄의 쉼터가 됩니다.
+						<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">강화 플라스틱으로 만든 바위섬은 캘리포니아바다사자, 태평양바다코끼리, 해달 및 록호퍼펭귄의 쉼터가 됩니다.
 					</font></color>
 				</cell>
 			</cell>

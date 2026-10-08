@@ -199,7 +199,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_DinoMeat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">이 거대한 고깃덩어리는 재미있는 공룡 모양으로 만들어졌습니다. 티라노사우루스 렉스나 카르노타우루스 같은 육식 공룡에게 완벽한 먹이가 됩니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">이 거대한 고깃덩어리는 재미있는 공룡 모양으로 만들어졌습니다. 티라노사우루스 렉스나 카르노타우루스 같은 육식 공룡에게 완벽한 먹이가 됩니다.
                </font></color>
             </cell>
          </cell>
@@ -213,7 +213,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Terrain/Terrain_CycadLeaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   소철 같은 소철류 식물은 공룡 시대에 가장 흔한 식물 종류 중 하나였습니다. 소철 잎은 스티라코사우루스와 트리케라톱스 같은 초식 공룡의 먹이에서 큰 비중을 차지했을 것으로 보입니다.  
                </font></color>
             </cell>
@@ -228,7 +228,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\fences\dino_fence\dinofence_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-               <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강화 강철로 만든 공룡 울타리는 강력한 선사 시대의 거대한 동물도 우리에서 탈출하지 못하게 할 만큼 튼튼합니다. 티라노사우루스 렉스 같은 큰 공룡이 넘어가지 못하도록 울타리 위쪽에는 전기도 흐릅니다.
+               <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">강화 강철로 만든 공룡 울타리는 강력한 선사 시대의 거대한 동물도 우리에서 탈출하지 못하게 할 만큼 튼튼합니다. 티라노사우루스 렉스 같은 큰 공룡이 넘어가지 못하도록 울타리 위쪽에는 전기도 흐릅니다.
                </font></color>
             </cell>
          </cell>
@@ -242,7 +242,7 @@
 				<cell width="600" padx="20" pady="20">
 					<color r="60" g="54" b="38">
 						<img src="entities\objects\eggs\Dinosaur_Nest\DinosaurNest_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-						<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">오늘날의 많은 파충류와 날지 못하는 새처럼, 많은 공룡도 알을 낳기 위해 땅에 둥지를 만들었습니다. 공룡 둥지의 첫 화석 증거는 1923년 고비 사막에서 발견되었습니다.
+						<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">오늘날의 많은 파충류와 날지 못하는 새처럼, 많은 공룡도 알을 낳기 위해 땅에 둥지를 만들었습니다. 공룡 둥지의 첫 화석 증거는 1923년 고비 사막에서 발견되었습니다.
 					</font></color>
 				</cell>
 			</cell>
@@ -257,9 +257,9 @@
                <color r="60" g="54" b="38">
                   <p />
                   <img src="entities\objects\enrichment\Dino_Prey_Dummy\DinoPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 먹잇감 모형은 매트 재료와 인장력을 견디는 강철 골조로 만든 공룡 모양의 모형입니다.
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">이 모형은 공격에 반응하여 움직이므로 육식 동물은 물거나 할퀴며 공격 연습을 하는 것을 즐깁니다.
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스와 트리케라톱스처럼 영역을 지키는 공룡은 뿔로 모형을 들이받는 것을 즐깁니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 먹잇감 모형은 매트 재료와 인장력을 견디는 강철 골조로 만든 공룡 모양의 모형입니다.
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">이 모형은 공격에 반응하여 움직이므로 육식 동물은 물거나 할퀴며 공격 연습을 하는 것을 즐깁니다.
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스와 트리케라톱스처럼 영역을 지키는 공룡은 뿔로 모형을 들이받는 것을 즐깁니다.
                </font></color>
             </cell>
          </cell>

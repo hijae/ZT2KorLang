@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="tools:tooltypeformat">
-         <font name="Pretendard" size="8" shadowx="0" shadowy="0">%text%</font>
+         <font name="Malgun Gothic" size="8" shadowx="0" shadowy="0">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:toolcomponentformat">
-         <font name="Pretendard" size="9" shadowx="0" shadowy="0">%text%</font>
+         <font name="Malgun Gothic" size="9" shadowx="0" shadowy="0">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:inheritanceformat">
-         <font name="Pretendard" size="9" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="9" shadowx="0" shadowy="0">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:selectedtypeformat">
-         <font name="Pretendard" size="14" shadowx="0" shadowy="0" shadowa="64">
+         <font name="Malgun Gothic" size="14" shadowx="0" shadowy="0" shadowa="64">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:selectedcomponentformat">
-         <font name="Pretendard" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+         <font name="Malgun Gothic" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:toolheadingformat">
-         <font name="Pretendard" size="14">
+         <font name="Malgun Gothic" size="14">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:toolsubheadingformat">
-         <font name="Pretendard" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+         <font name="Malgun Gothic" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlnodeformat">
-         <font name="Pretendard" size="14">
+         <font name="Malgun Gothic" size="14">
             <color r="255" g="255" b="50" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlnodeformatdisabled">
-         <font name="Pretendard" size="14">
+         <font name="Malgun Gothic" size="14">
             <color r="255" g="255" b="50" a="150">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlattributenameformat">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             <b>
                <color r="255" g="255" b="50" a="255">%text%</color>
             </b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlattributenameformatdisabled">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             <b>
                <color r="255" g="255" b="50" a="150">%text%</color>
             </b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlattributevalueformat">
-         <font name="Pretendard" size="12" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0">
             <color r="255" g="255" b="50" a="255">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlattributevalueformatdisabled">
-         <font name="Pretendard" size="12" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0">
             <color r="255" g="255" b="50" a="150">%text%</color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:xmlattributeequalformat">
-         <font name="Pretendard" size="12" shadowx="-1" shadowy="1">%text%</font>
+         <font name="Malgun Gothic" size="12" shadowx="-1" shadowy="1">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:savelogformat">
-         <font name="Pretendard" size="12" shadowa="0">%text%</font>
+         <font name="Malgun Gothic" size="12" shadowa="0">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:noshadow">
          <font shadowx="0" shadowy="0">%text%</font>
@@ -265,7 +265,7 @@
          <br>부모 바인더의 값을 상속합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="tools:nosavewarning">
-         <font name="Pretendard" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+         <font name="Malgun Gothic" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
             저장하지 않은 바인더 변경 내용이 있습니다!
          </font>
       </LOC_STRING>
@@ -299,7 +299,7 @@
       <LOC_STRING _locID="tools:addnewentitytypeparent">새 개체 유형이 상속할 부모 개체 유형을 입력하세요:</LOC_STRING>
       <LOC_STRING _locID="tools:addnewentitytypechild">새 개체 유형의 이름:</LOC_STRING>
       <LOC_STRING _locID="tools:tapobjectselect">
-         <font name="Pretendard" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
+         <font name="Malgun Gothic" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:taptool">편집기 및 탭 도구</LOC_STRING>
       <LOC_STRING _locID="tools:taptool_stt">편집기 및 탭 도구 실행</LOC_STRING>
@@ -313,7 +313,7 @@
       <LOC_STRING _locID="tools:taptooltest_stt">선택된 탭을 실행합니다.</LOC_STRING>
       <LOC_STRING _locID="tools:taptoolreload_stt">선택된 탭과 연관된 개체를 다시 불러옵니다.</LOC_STRING>
       <LOC_STRING _locID="tools:colorlabelformat">
-         <font name="Pretendard" size="14" shadowa="32">
+         <font name="Malgun Gothic" size="14" shadowa="32">
             <b>%text%</b>
          </font>
       </LOC_STRING>
@@ -356,7 +356,7 @@
          <br>편집 상자에 불러올 조명 파일 이름을 입력합니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="tools:gt_label">
-         <font name="Pretendard" size="10" shadowx="-1" shadowy="1">
+         <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1">
             동작 생성 도구
          </font>
       </LOC_STRING>
@@ -368,22 +368,22 @@
       <LOC_STRING _locID="tools:undo_stt">동작 취소</LOC_STRING>
       <LOC_STRING _locID="tools:delete_stt">삭제</LOC_STRING>
       <LOC_STRING _locID="tools:load_gesture_label">
-         <font name="Pretendard" size="11" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="11" shadowx="0" shadowy="0">
             동작 불러오기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:save_gesture_label">
-         <font name="Pretendard" size="11" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="11" shadowx="0" shadowy="0">
             동작 저장하기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:overwrite_gesture_label">
-         <font name="Pretendard" size="20" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="20" shadowx="0" shadowy="0">
             동작을 덮어쓰시겠습니까?
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:insert_label">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             노드 삽입
          </font>
       </LOC_STRING>
@@ -391,7 +391,7 @@
       <LOC_STRING _locID="tools:insert_text_middle_stt">노드 삽입(중간)</LOC_STRING>
       <LOC_STRING _locID="tools:insert_text_end_stt">노드 삽입(끝)</LOC_STRING>
       <LOC_STRING _locID="tools:insert_event_label">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             이벤트 삽입
          </font>
       </LOC_STRING>
@@ -402,79 +402,79 @@
       <LOC_STRING _locID="tools:decrease_stt">감소</LOC_STRING>
       <LOC_STRING _locID="tools:event_window_stt">이벤트 창 크기를 변경합니다.</LOC_STRING>
       <LOC_STRING _locID="tools:view_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스플라인 보기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:test_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스플라인 테스트
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:score_size_stt">스코어링 두께를 변경합니다.</LOC_STRING>
       <LOC_STRING _locID="tools:spline_size_stt">스플라인 두께를 변경합니다.</LOC_STRING>
       <LOC_STRING _locID="tools:event_window_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             이벤트 크기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:spline_thickness_label">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             스플라인 크기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:scoring_prox_label">
-         <font name="Pretendard" size="10" shadowx="0" shadowy="0">
+         <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0">
             스코어링 근사값
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:node_start_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             시작 부분에 노드 삽입
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:node_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             중간 부분에 노드 삽입
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:node_end_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             끝 부분에 노드 삽입
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:event_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             이벤트 삽입
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:event_size_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             이벤트 창 크기 변경
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:score_size_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스코어링 근사값 변경
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:spline_size_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스플라인 두께 변경
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:new_spline_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             새 스플라인 만들기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:load_spline_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스플라인 불러오기
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="tools:delete_spline_label">
-         <font name="Pretendard" size="9" shadowx="-1" shadowy="2">
+         <font name="Malgun Gothic" size="9" shadowx="-1" shadowy="2">
             스플라인 불러오기
          </font>
       </LOC_STRING>

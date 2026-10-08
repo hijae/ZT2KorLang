@@ -1,39 +1,87 @@
 {
   "schema_version": 1,
-  "status": "passed_static_validation",
   "version": "2026-10-08",
-  "reviewed_candidate_sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
-  "language_xml_files": 287,
+  "status": "passed_static_and_offscreen_gdi_validation",
+  "reviewed_candidate_sha256": "d3058ef6017945993181f215513ec6932f1fc71f36c250d9e05e5f1c6b53a2e2",
+  "builds": {
+    "ZZZZZZZZ_Korlang_Complete_20261007.z2f": "d3058ef6017945993181f215513ec6932f1fc71f36c250d9e05e5f1c6b53a2e2",
+    "ZZZZZZZZ_Korlang_Complete_Pretendard_20261008.z2f": "f279ed10e03b185881378ea2875b31d171d34feff07b9a7552a6c9968decabbb"
+  },
+  "total_xml_files": 359,
+  "language_xml_files": 332,
   "ui_xml_files": 26,
   "config_xml_files": 1,
-  "total_xml_files": 314,
-  "loc_string_count": 15449,
-  "font_family": "Pretendard",
-  "font_reference_count": 7174,
-  "current_revision_changes": {
-    "baseline_sha256": "188dccbb239f9c0adb5ce24fd670c41265e154b9f2694fd295e9bcfa3c56c0dd",
-    "corrected_text_fields": 2217,
-    "changed_language_files": 186,
-    "added_ui_files": 2,
-    "added_ui_font_face_changes": 12,
-    "approved_native_token_order_corrections": 1,
-    "zoopedia_color_changes": 10650,
-    "zoopedia_color_nodes": 3550,
-    "zoopedia_text_color": "#3C3626"
+  "loc_string_count": 17141,
+  "default_font": "Malgun Gothic",
+  "optional_font": "Pretendard",
+  "font_reference_count": 8951,
+  "maintainer_requested_changes": {
+    "no_pretendard_dependency_in_default_xml": true,
+    "existing_font_coverage_files_added": 45,
+    "product_name_corrected_text_fields": 71,
+    "base_lang_and_config_unchanged": true,
+    "existing_unofficial_prose_changed": false
   },
-  "fresh_source_comparison": {
-    "leaf_records": 15875,
-    "ui_and_story_pairs": 7909,
-    "encyclopedia_pairs": 2041,
-    "entity_long_tooltips": 1220,
-    "entity_canonical_names": 1231,
-    "credits_legal_pairs": 683,
-    "names_domain_records": 360,
-    "notes": [
-      "Entity short variants checked against canonical names and duplicate-source groups.",
-      "Personal name pools checked for labels, structure, and nonempty localized members; every invented name was not literally retranslated.",
-      "Source-era population/status statements retained unless a documented source error was corrected."
+  "static_validation": {
+    "xml_crc_manifest": "passed",
+    "two_variants_differ_only_in_font_attributes": true,
+    "baseline_ids_tokens_references_preserved": true,
+    "existing_unofficial_layout_text_style_preserved": true,
+    "unit_tests_passed": 10,
+    "negative_builder_checks": [
+      "invalid_xml",
+      "unregistered_file",
+      "path_traversal",
+      "id",
+      "format_token",
+      "reference"
+    ],
+    "repeat_build_byte_identical": true
+  },
+  "offscreen_font_validation": {
+    "api": "Windows GDI",
+    "scope": "not a game or clean-PC test",
+    "character_set": "Hangul syllables and ASCII used in XML text",
+    "characters": 1351,
+    "weights": [
+      400,
+      700
+    ],
+    "default_selected_family": "맑은 고딕",
+    "optional_selected_family": "Pretendard",
+    "missing_glyphs": 0,
+    "missing_font_control_selected_family": "굴림",
+    "system_fonts_modified": false
+  },
+  "runtime_validation": {
+    "current_candidate_tested": false,
+    "clean_pc_without_pretendard_tested": false,
+    "not_tested": [
+      "In-game original/unofficial page font equality",
+      "All page wrapping and scrolling",
+      "All gameplay and campaign objectives",
+      "Save/load on this candidate"
     ]
+  },
+  "previous_revision": {
+    "sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
+    "total_xml_files": 314,
+    "loc_string_count": 15449,
+    "runtime_tested": false,
+    "source_comparison": {
+      "leaf_records": 15875,
+      "ui_and_story_pairs": 7909,
+      "encyclopedia_pairs": 2041,
+      "entity_long_tooltips": 1220,
+      "entity_canonical_names": 1231,
+      "credits_legal_pairs": 683,
+      "names_domain_records": 360,
+      "notes": [
+        "Entity short variants checked against canonical names and duplicate-source groups.",
+        "Personal name pools checked for labels, structure, and nonempty localized members; every invented name was not literally retranslated.",
+        "Source-era population/status statements retained unless a documented source error was corrected."
+      ]
+    }
   },
   "download_packs": [
     {
@@ -91,52 +139,14 @@
       "language_files": []
     }
   ],
-  "static_validation": {
-    "archive_crc": "passed",
-    "exact_reviewed_changes": "passed",
-    "xml_structure_id_attribute_reference_preservation": "passed; only reviewed Zoopedia RGB attributes and new UI font faces intentionally changed",
-    "format_tokens": "preserved except one native-source role-order correction",
-    "functional_save_directory": "Saved",
-    "functional_temporary_directory": "tmp",
-    "public_rebuild": "byte-identical to reviewed candidate",
-    "public_rebuild_sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
-    "negative_builder_checks": {
-      "invalid_xml": true,
-      "unregistered_file": true,
-      "path_traversal": true,
-      "id": true,
-      "format_token": true,
-      "reference": true
-    },
-    "private_path_or_credential_marker_hits": 0
-  },
-  "runtime_validation": {
-    "current_candidate_tested": false,
-    "previous_baseline_user_confirmation": {
-      "sha256": "188dccbb239f9c0adb5ce24fd670c41265e154b9f2694fd295e9bcfa3c56c0dd",
-      "scope": [
-        "Panda scientific name looked clear",
-        "Basic and tundra large restroom tooltips matched"
-      ]
-    },
-    "not_tested": [
-      "All gameplay and campaign objectives",
-      "All encyclopedia scrolling and layout",
-      "Save/load on this new candidate"
-    ]
-  },
-  "distribution": [
-    "XML source, documentation and Python builder only",
-    "No executables, DLLs, font binaries, personal settings, saves, private paths, or diagnostics"
-  ],
   "known_limits": [
-    "Not every external mod is translated.",
-    "Some inconsistent native messages are preserved pending runtime evidence.",
-    "XML patch alone does not replace font names hard-coded in every executable."
+    "Executable hard-coded font names are not modified.",
+    "External UI mods can override XML files and require a separate color/layout compatibility patch.",
+    "The 45 existing font-coverage files retain their original untranslated text.",
+    "Two pre-existing invalid XML files remain in the untouched original lang tree; neither contains font tags."
   ],
-  "installation_verification": {
-    "status": "installed_file_hash_verified",
-    "sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
-    "runtime_tested": false
-  }
+  "distribution": [
+    "XML source, documentation, standard-library Python scripts only",
+    "No executables, DLLs, font binaries, personal settings, saves, private paths or RR assets"
+  ]
 }

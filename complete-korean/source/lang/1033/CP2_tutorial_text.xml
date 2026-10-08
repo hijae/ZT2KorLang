@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="cp2_tutorial1:welcomeTutorialOne">
-      주타이쿤 2: 멸종 동물에 오신 것을 환영합니다! 이 연습 게임에서는 멸종 동물 연구소에서 화석을 찾고 조립한 다음 멸종 동물을 되살려 내는 법을 배웁니다! 질병을 치료하는 완전히 새로운 방식으로 동물을 돌보세요.
+      주타이쿤 2: Extinct Animals에 오신 것을 환영합니다! 이 연습 게임에서는 멸종 동물 연구소에서 화석을 찾고 조립한 다음 멸종 동물을 되살려 내는 법을 배웁니다! 질병을 치료하는 완전히 새로운 방식으로 동물을 돌보세요.
       <p />
       확인 단추를 클릭하면 멸종 동물에서의 모험을 시작할 수 있습니다!
       </LOC_STRING>
@@ -457,7 +457,7 @@
       잘했습니다! 관람객들이 발굴 체험장에서 찾은 뼈를 가져오고 있습니다! 곧 멋진 멸종 동물 골격을 완성할 것입니다!
       </LOC_STRING>
       <LOC_STRING _locID="cp2_tutorial3:TutorialThreeComplete">
-      이 연습 게임은 여기까지입니다. 주타이쿤 2: 멸종 동물의 재미있고 멋진 기능을 다시 알아보고 싶다면 언제든 돌아오세요! 메인 메뉴로 돌아가 멋진 멸종 동물 동물원을 만들려면 X 단추를 클릭하세요!
+      이 연습 게임은 여기까지입니다. 주타이쿤 2: Extinct Animals의 재미있고 멋진 기능을 다시 알아보고 싶다면 언제든 돌아오세요! 메인 메뉴로 돌아가 멋진 멸종 동물 동물원을 만들려면 X 단추를 클릭하세요!
       </LOC_STRING>
       <LOC_STRING _locID="Tutoriallabels:cp2_campaignname">멸종 동물 연습 게임</LOC_STRING>
       <LOC_STRING _locID="Tutoriallabels:cp2_T1">멸종 동물 연구소</LOC_STRING>

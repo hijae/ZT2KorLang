@@ -21,7 +21,7 @@
                      <UIState active="normal" visible="normal" />
                      <UIAspect locid="gesture:wait_tracer_label">
                         <default image="" sound="">
-                           <BFFont font="Pretendard" size="12" align="center">
+                           <BFFont font="Malgun Gothic" size="12" align="center">
                               <BFColor r="255" g="248" b="178" a="255" />
                            </BFFont>
                         </default>
@@ -55,7 +55,7 @@
                      <UIState active="normal" visible="normal" />
                      <UIAspect locid="gesture:click_tracer_label_format">
                         <default image="" sound="">
-                           <BFFont font="Pretendard" size="12" align="center">
+                           <BFFont font="Malgun Gothic" size="12" align="center">
                               <BFColor r="255" g="248" b="178" a="255" />
                            </BFFont>
                         </default>

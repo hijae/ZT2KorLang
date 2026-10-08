@@ -9,7 +9,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Apple/Apple_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -46,7 +46,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -95,7 +95,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Ball/Ball_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -144,7 +144,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/RattleBall/RattleBall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -183,9 +183,9 @@
                   
                   </font><a href="zoopedia:zoopedia_elephant:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -235,7 +235,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -274,9 +274,9 @@
                   
                   </font><a href="zoopedia:zoopedia_chimp:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -314,9 +314,9 @@
                   
                   </font><a href="zoopedia:zoopedia_gorilla:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">고릴라</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -354,9 +354,9 @@
                   
                   </font><a href="zoopedia:zoopedia_panda:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -405,7 +405,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/BeefShank/BeefShank_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -443,7 +443,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -493,7 +493,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Bone/Bone_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -543,7 +543,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/CarTire/CarTire_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -581,19 +581,19 @@
                   
                   </font><a href="zoopedia:zoopedia_lion:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">사자, </font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">사자, </font></color>
                      </u>
                   </a>
                   <a href="zoopedia:zoopedia_tiger:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">호랑이, </font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">호랑이, </font></color>
                      </u>
                   </a>
                   <a href="zoopedia:zoopedia_grizzly:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">곰</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">곰</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -631,9 +631,9 @@
                   
                   </font><a href="zoopedia:zoopedia_elephant:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">코끼리</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -683,7 +683,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Carrot/Carrot_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -733,7 +733,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Easel/Easel_idle_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -783,7 +783,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/Figs/Figs_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -835,7 +835,7 @@
                <color r="60" g="54" b="38">
                   <p />
                   <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -891,7 +891,7 @@
                   <img src="entities\objects\food\HollowLog\HollowLog_Honey_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\food\HollowLog\HollowLog_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\food\HollowLog\HollowLog_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -922,13 +922,13 @@
                   <img src="entities/objects/enrichment/IceBlock/IceBlock_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/enrichment/IceBlock/IceBlock_BeefShank_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/enrichment/IceBlock/IceBlock_Carrots_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
             얼음 조각은 물에 사는 포유류, 특히 물에 떠다니는 조각을 가지고 노는 것을 좋아하는 
                   </font><a href="zoopedia:zoopedia_polarbear:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">북극곰</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">북극곰</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
             에게 인기가 많은 아이템입니다. 먹이를 얼음에 얼린 채로 줄 경우 더욱 좋아하는 
             동물들도 많습니다.
                </font></color>
@@ -945,9 +945,9 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/IceFloe/IceFloe_Large_icon.dds" sx="0" sy="0" sw="64" sh="64">
                      <p />
-                  </img><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </img><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
             대형 얼음 덩어리는 매우 크고 평평한 얼음 덩어리로 극지방 동물들이 사는 곳에서 흔히 볼 수 있습니다.
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 	    얼음 위에 기어오르거나 얼음 덩어리를 타고 물 위에 떠다니는 것을 좋아하는 펭귄과 북극곰에게 
 	    아주 인기가 높습니다.
                </font></color>
@@ -964,9 +964,9 @@
                <color r="60" g="54" b="38">
                <img src="entities/objects/enrichment/IceFloe/IceFloe_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64">
                   <p />
-               </img><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </img><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 얼음 덩어리는 평평한 얼음 덩어리로 극지방 동물들이 사는 곳에서 흔히 볼 수 있습니다.
-               </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                    얼음 위에 기어오르거나 얼음 덩어리를 타고 물 위에 떠다니는 것을 좋아하는 펭귄과 북극곰에게 아주 인기가 높습니다.
                    </font></color>
             </cell>
@@ -981,7 +981,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/LookoutPost/LookoutPost_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1000,7 +1000,7 @@
                   
                   
                   
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1040,7 +1040,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/MonkeyBars/MonkeyBars_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1089,7 +1089,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/PeanutFeeder/PeanutFeeder_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1138,7 +1138,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1172,7 +1172,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/PlasticBarrel/PlasticBarrel_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1218,7 +1218,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/PursuitBall/PursuitBall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1254,7 +1254,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1303,7 +1303,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/RubberToy/RubberToy_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1342,7 +1342,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/ScratchPost/ScratchPost_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1400,7 +1400,7 @@
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/SubstratePile/SubstratePile_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   사료는 나무 조각, 나뭇잎, 자른 풀, 작은 막대, 클로버, 민들레와 유기물을 섞은 다음 필요에 따라 나무 열매, 상추, 건초, 풀, 나뭇가지, 대나무잎, 벌레 등을 넣은 것입니다. 
@@ -1414,7 +1414,7 @@
                
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   많은 동물들은 자연 상태에서 행동하는 것처럼 사료 더미에서 먹이를 찾는 행동을 즐깁니다. 동물들은 사료 더미를 뒤지면서 먹이를 찾는 과정에서 흥미를 느낍니다.
@@ -1436,7 +1436,7 @@
                   <img src="entities\objects\food\TermiteMound\TermiteMound_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\food\TermiteMound\TermiteMound_Honey_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\food\TermiteMound\TermiteMound_Insects_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1463,7 +1463,7 @@
                <color r="60" g="54" b="38">
                   <p />
                   <img src="entities\objects\enrichment\ShelterMaterials\ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1487,13 +1487,13 @@
                <color r="60" g="54" b="38">
                   <p />
                   <img src="entities\objects\enrichment\PoleRope\PoleRope_IceBlock_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   얼음 그네는 기둥 끝에 얼음 조각이 매달린 밧줄이 붙어 있는 시설입니다.
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   동물들은 얼음 조각을 붙잡으려고 하거나 줄을 타고 올라가거나 줄에 매달려 노는 것을 좋아합니다.

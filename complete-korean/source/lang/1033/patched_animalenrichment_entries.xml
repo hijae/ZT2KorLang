@@ -10,7 +10,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/ShelterMaterials/ShelterMaterials_Leaves_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -49,9 +49,9 @@
                   
                   </font><a href="zoopedia:zoopedia_chimp:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">침팬지</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -89,9 +89,9 @@
                   
                   </font><a href="zoopedia:zoopedia_gorilla:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마운틴고릴라</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마운틴고릴라</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -129,9 +129,9 @@
                   
                   </font><a href="zoopedia:zoopedia_panda:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">자이언트 팬더</font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -181,7 +181,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/enrichment/MonkeyBars/MonkeyBars_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   구름다리는 막대를 수평과 수직 방향으로 엮어 놓은 구조물로 흔하고 인기 있는 놀이 시설입니다. 침팬지 같은 영장류 동물은 구름다리에 매달려 노는 것을 좋아합니다.
                </font></color>
             </cell>

@@ -9,38 +9,38 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 멸종 동물 연구소는 화석 뼈를 찾고 조립하여 흥미로운 멸종 동물을 다시 만들어 내는 여정을 시작하는 동물원 건물입니다! 첫 단계는 화석을 찾는 것입니다. 필요한 모든 정보는 주피디아의 
 	    </font><a href="zoopedia:zoopedia_fossilfinding:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지 </font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지 </font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 항목에서 확인할 수 있습니다. 
-</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 충분한 조각을 찾았다면 멸종 동물 연구소로 가서 작업을 시작하세요! 이 과정을 진행하는 데에는 
 	    </font><a href="zoopedia:zoopedia_fossilbuilding:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조립 </font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">화석 조립 </font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 항목이 도움이 됩니다. 
-</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">            
+</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">            
 화석을 조립하여 동물을 해제하면 멸종 동물 연구소의 
 	    </font><a href="zoopedia:zoopedia_cloning:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동물 생성 </font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">동물 생성 </font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미니게임을 할 수 있습니다. 시작하려면 멸종 동물 연구소의 정보 패널에서 동물 생성 탭을 선택하세요. 그런 다음 조립한 화석 목록에서 만들 동물을 선택하세요. 연구소의 동물 생성실로 이동하면 탐지선이 컴퓨터 화면의 신호를 지나갈 때 그 신호의 순서를 맞춰야 합니다. 아주 잘하면 선택한 동물의 특별한 개체를 얻습니다. 이런 동물은 가장 행복하고 건강하며 힘이 세고, 관람객들에게도 가장 인기가 있습니다. 어느 정도 잘하면 선택한 멸종 동물의 일반 개체를 얻습니다. 실패하면 아무도 본 적 없는 동물이 나올 수도 있습니다!
-</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미니게임을 할 수 있습니다. 시작하려면 멸종 동물 연구소의 정보 패널에서 동물 생성 탭을 선택하세요. 그런 다음 조립한 화석 목록에서 만들 동물을 선택하세요. 연구소의 동물 생성실로 이동하면 탐지선이 컴퓨터 화면의 신호를 지나갈 때 그 신호의 순서를 맞춰야 합니다. 아주 잘하면 선택한 동물의 특별한 개체를 얻습니다. 이런 동물은 가장 행복하고 건강하며 힘이 세고, 관람객들에게도 가장 인기가 있습니다. 어느 정도 잘하면 선택한 멸종 동물의 일반 개체를 얻습니다. 실패하면 아무도 본 적 없는 동물이 나올 수도 있습니다!
+</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 이제 동물원을 위한 멋진 멸종 동물을 찾고, 화석을 조립하고, 동물을 생성하는 방법을 알게 되었습니다!
-</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 때로는 동물에게 질병이 생길 수도 있습니다. 걱정하지 마세요! 멸종 동물 연구소는 이런 문제도 해결합니다. 동물원의 질병을 확인하고 연구하고 치료하는 방법은 주피디아의 
 	    </font><a href="zoopedia:zoopedia_diseaseresearch:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">질병 치료 </font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">질병 치료 </font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 항목에서 알아보세요.
 </font><p />    
    </color>
@@ -56,7 +56,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\CavePaintingHall\CavePaintingHall_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 동굴 벽화관은 건물보다는 동굴에 가깝습니다. 내부 벽에는 선사 시대의 동굴 벽화가 가득합니다. 선사 시대 사람들이 야생 동물을 어떻게 그렸는지 살펴보면 관람객들이 흥미를 느끼고 배울 수 있습니다.
      </font></color>
     </cell>
@@ -71,13 +71,13 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\StageEntertainerExtinct\StageEntertainerExtinct_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 이 무대는 
 	    </font><a href="zoopedia:zoopedia_entertainer:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공연자</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공연자</font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 가 공연하는 곳입니다. 무대가 없어도 관람객을 즐겁게 할 수 있지만, 무대에서는 멋진 묘기를 제대로 선보일 수 있습니다!
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 가 공연하는 곳입니다. 무대가 없어도 관람객을 즐겁게 할 수 있지만, 무대에서는 멋진 묘기를 제대로 선보일 수 있습니다!
      </font></color>
     </cell>
    </cell>
@@ -91,24 +91,24 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\FossilEducationCenter\FossilEducationCenter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 멸종 동물 교육관은 관람객이 멸종 동물을 직접 체험하며 배우는 곳입니다.
 
-	</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+	</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 
 	관람객은 멸종 동물 교육관에서 실물 크기의 멸종 동물 골격을 조립합니다. 먼저
 	    </font><a href="zoopedia:zoopedia_fossildigpit:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">발굴 체험장</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">발굴 체험장</font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 	에서 동물의 뼈를 찾습니다. 그런 다음 멸종 동물 교육관으로 가져와 각 동물의 골격이 완성되는 모습을 볼 수 있습니다. 전체 골격을 조립해 보세요!
   
-        </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+        </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
         멸종 동물 교육관은 동물 교육자와 고생물학자가 관람객에게 멸종 동물과 화석에 대해 가르치는 곳이기도 합니다. 이곳은 
   	    </font><a href="zoopedia:zoopedia_educator_podium:entry">
                  <u>
-                    <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">동물 교육자의 연단과 매우 비슷합니다.</font></color>
+                    <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">동물 교육자의 연단과 매우 비슷합니다.</font></color>
                  </u>
             </a>
   
@@ -125,13 +125,13 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\FossilDigPit\FossilDigPit_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 발굴 체험장에서 관람객은 직접 흙을 파며 멸종 동물의 뼈를 찾습니다. 하지만 언제나 화석을 찾는 것은 아닙니다. 가끔은 뜻밖의 물건이 나오기도 합니다! 화석이 된 뼈를 찾으면 
 	    </font><a href="zoopedia:zoopedia_fossileducationcenter:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 교육관</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 교육관</font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 	으로 가져가 멸종 동물의 골격을 조립합니다.	     
      </font></color>
     </cell>
@@ -146,7 +146,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\SizeMural\SizeMural_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-	<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+	<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 	크기 비교 벽화에서는 현재의 사람과 크기를 비교하여 일부 멸종 동물이 얼마나 거대했는지 알아볼 수 있습니다. 이 기발한 벽화는 관람객에게 교육과 즐거움을 동시에 제공합니다.
 	     </font></color>
     </cell>
@@ -162,9 +162,9 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/buildings/giftcart_xt/giftcart_xt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		멸종 동물 테마의 기념품 수레에서는 관람객이 멸종 동물과 함께한 즐거운 하루를 기억할 기념품을 구입합니다.
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		관람객이 동물원을 떠나기 전에 기념품 구입을 잊지 않도록 사람이 많이 다니는 곳에 수레를 배치하세요!
                </font></color>
             </cell>
@@ -179,27 +179,27 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\dinorecoverybuilding\DinoRecoveryBuilding_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
         공룡 생포 팀 벙커는 
 	    </font><a href="zoopedia:zoopedia_drt_gun:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
         이 일하는 비밀 지하 건물입니다. 동물원에 공룡을 기르려면 공룡 생포 팀 벙커를 갖추는 것이 좋습니다. 공룡은 가끔 제멋대로 행동하며 동물원을 돌아다니면서 난동을 부립니다. 그럴 때에는 
 	    </font><a href="zoopedia:zoopedia_drt_gun:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
                </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 	을 불러 동물원의 질서를 되찾으세요.  
-      </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
         관람객은 필요할 때 즉시 출동할 공룡 전문가들의 비밀 조직이 있다는 사실을 모릅니다. 공룡 생포 팀 벙커는 장난치는 두 공룡의 조각상 아래에 숨어 있습니다. 작동시키면 벙커가 지상으로 올라오고 동물원의
             </font><a href="zoopedia:zoopedia_drt_gun:entry">
 	               <u>
-	                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
+	                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀</font></color>
 	               </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
         이 즉시 행동에 나섭니다.    
      </font></color>
     </cell>
@@ -215,9 +215,9 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/Playground_BrachiosaurusSlide/BrachiosaurusSlide_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		어린이들은 브라키오사우루스 미끄럼틀에 올라 동물원을 높은 곳에서 바라본 다음, 신나는 나선형 미끄럼틀을 타고 내려오는 것을 좋아합니다!
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		이 미끄럼틀은 실제 브라키오사우루스와 거의 같은 크기입니다. 이런 거대한 동물이 동물원을 돌아다니는 모습을 상상할 수 있나요? 우리 안에 가둘 수도 없을 것입니다!  
                </font></color>
             </cell>
@@ -233,18 +233,18 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="UI/minigames/fossilmarker_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		이 지점들은 땅속에서 흥미로운 것을 찾으려면 어디를 파야 하는지 알려 줍니다. 이 표시는 
 		</font><a href="zoopedia:zoopedia_fossilfinding:entry">
 	               <u>
-	                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지</font></color>
+	                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">화석 탐지</font></color>
 	               </u>
-                </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 미니게임에서 화석이 있을 만한 지점을 발견하면 자동으로 배치됩니다. 자세한 내용은 </font><a href="zoopedia:zoopedia_cloningcenter:entry">
+                </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 미니게임에서 화석이 있을 만한 지점을 발견하면 자동으로 배치됩니다. 자세한 내용은 </font><a href="zoopedia:zoopedia_cloningcenter:entry">
 	               <u>
-	                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color>
+	                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소</font></color>
 	               </u>
-            </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 항목을 참조하세요.  
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+            </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 항목을 참조하세요.  
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		고생물학자들도 동물원을 돌아다니며 이런 지점에 깃발을 꽂아 줍니다. 사육사 일을 잠시 쉬는 동안 직접 발굴해 볼 수 있습니다.
                </font></color>
             </cell>

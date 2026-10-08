@@ -7,7 +7,7 @@
          <cell width="260" />
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
-               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
             관람객은 쓰레기가 널려 있는 모습을 싫어합니다. 관리원은 바닥에 버려진 쓰레기를 치우며, 쓰레기통은 관람객이 쓰레기를 적절한 장소에 버릴 수 있게 해 줍니다.
 				</font></color>
             </cell>
@@ -23,7 +23,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/trashcan_df/trashcan_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -72,7 +72,7 @@
                   <br />
                   <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -81,7 +81,7 @@
             관람객은 길에 쓰레기를 버립니다. 동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.  
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -102,7 +102,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/recyclingbin_df/recyclingbin_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -151,7 +151,7 @@
                   <img src="entities/objects/scenery/donationbox_df/donationbox_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\DonationBox_Jt\DonationBox_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\DonationBox_St\DonationBox_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -199,7 +199,7 @@
                   <br />
                   <br />
                   <img src="entities/objects/scenery/lamp_df/lamp_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -246,7 +246,7 @@
                   <br />
                   <img src="entities\objects\scenery\lamp_jt\lamp_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\lamp_st\lamp_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -258,7 +258,7 @@
 				
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -294,7 +294,7 @@
                   <img src="entities/objects/scenery/viewingarea_steel/viewingarea_steel_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/viewingarea_stone/viewingarea_stone_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/viewingarea_wood/viewingarea_wood_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -335,7 +335,7 @@
                   <br />
                   <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -343,7 +343,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 그늘 지붕을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -365,7 +365,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/picnictable_df/picnictable_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -413,7 +413,7 @@
                   <img src="entities/objects/scenery/Fountain_Elephant/Fountain_Elephant_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/Fountain_Lion/Fountain_Lion_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/Fountain_Tiger/Fountain_Tiger_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -460,7 +460,7 @@
                   <br />
                   <img src="entities\objects\scenery\Fountain_Jt\Fountain_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\Fountain_St\Fountain_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -468,7 +468,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -491,7 +491,7 @@
                   <br />
                   <img src="entities/objects/scenery/Statue_PolarBear/Statue_PolarBear_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/Statue_Rhino/Statue_Rhino_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -538,7 +538,7 @@
                   <br />
                   <img src="entities\objects\scenery\Statue_Jt\Statue_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\Statue_St\Statue_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -546,7 +546,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -568,7 +568,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/zoomap_df/zoomap_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -601,7 +601,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -648,7 +648,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/bench_df/bench_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -696,7 +696,7 @@
                   <br />
                   <img src="entities\objects\scenery\bench_jt\bench_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\bench_st\bench_st_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -705,7 +705,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -729,7 +729,7 @@
                   <img src="entities/objects/scenery/PathArch_df/PathArch_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/PathArch_Stone_df/PathArch_Stone_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/PathArch_Wood_df/PathArch_Wood_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -776,7 +776,7 @@
                   <br />
                   <img src="entities\objects\scenery\PathArch_Jt\PathArch_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\PathArch_St\PathArch_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -784,7 +784,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -806,7 +806,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/binoculars_df/binoculars_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -855,7 +855,7 @@
                   <img src="entities/objects/scenery/MusicalRock_df/MusicalRock_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/MusicalRock_jt/MusicalRock_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/scenery/MusicalRock_St/MusicalRock_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -889,7 +889,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/gazebo_df/gazebo_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -936,7 +936,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/umbrellatable_df/umbrellatable_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -972,7 +972,7 @@
                   <br />
                   <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -981,7 +981,7 @@
                동물 우리를 즐겁게 관람한 관람객은 그 우리와 비슷한 테마의 주변 조경 시설물을 특히 좋아합니다.
                
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
 		숨겨진 테마 시설물을 사용할 수 있게 하려면 챌린지 모드에서 5개의 챌린지를 완료하고 사진 찍기 챌린지 5개를 
@@ -1003,7 +1003,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/Statue_Sundial_df/Statue_Sundial_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1034,7 +1034,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1079,7 +1079,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/flowerpost_df/flowerpost_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1124,7 +1124,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/Statue_Globe_df/Statue_Globe_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1169,7 +1169,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/scenery/GildedStatue_df/GildedStatue_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -1213,7 +1213,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities\objects\scenery\PathArch_Flower_df\PathArch_Flower_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   꽃장식 아치형 입구는 길에 설치하면 좋은 시설물입니다. 벤치가 많이 설치되어 있는 야외 쉼터 입구에 설치하면 더욱 좋습니다.

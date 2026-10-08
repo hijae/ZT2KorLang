@@ -10,16 +10,16 @@
      <cell width="150">
       <img src="entities/objects/foliage/AgaveCactus/AgaveCactus_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
-용설란속인 </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Agave</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 서반구의 사막 지역이 원산지인 식물의 한 속입니다. 가장 잘 알려진 종은 미국용설란 또는 센추리플랜트이며, 다음 알로에속과 가까운 관계가 있는 것은 아닙니다: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> . 보통 10~25년 사이에 단 한 번 꽃을 피웁니다. 꽃이 피기 직전에 긴 꽃줄기가 빠르게 위로 자라 최고 8 m (25 ft)에 이릅니다. 크고 녹색을 띤 꽃은 꽃줄기 위쪽 절반에서 뻗어 나온 짧은 수평 가지를 덮습니다. 두껍고 늘 푸른 잎은 상당한 양의 물을 저장할 수 있습니다. 커다란 잎은 끝에 가시가 있으며 길이가 약 2 m (6 ft)까지 자라 식물의 밑부분 주위에 모여 납니다.
-</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+용설란속인 </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Agave</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 서반구의 사막 지역이 원산지인 식물의 한 속입니다. 가장 잘 알려진 종은 미국용설란 또는 센추리플랜트이며, 다음 알로에속과 가까운 관계가 있는 것은 아닙니다: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> . 보통 10~25년 사이에 단 한 번 꽃을 피웁니다. 꽃이 피기 직전에 긴 꽃줄기가 빠르게 위로 자라 최고 8 m (25 ft)에 이릅니다. 크고 녹색을 띤 꽃은 꽃줄기 위쪽 절반에서 뻗어 나온 짧은 수평 가지를 덮습니다. 두껍고 늘 푸른 잎은 상당한 양의 물을 저장할 수 있습니다. 커다란 잎은 끝에 가시가 있으며 길이가 약 2 m (6 ft)까지 자라 식물의 밑부분 주위에 모여 납니다.
+</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 여러 용설란 종은 경제적으로 중요합니다. 서인도제도가 원산지이지만 현재 멕시코와 유라시아의 여러 열대 국가에서도 재배하는 사이잘삼에서는 밧줄을 만드는 사이잘 섬유를 얻습니다. 일부 종의 뿌리에서는 젖으면 거품이 나는 물질을 얻어 비누로 사용합니다.
 
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -34,12 +34,12 @@
       <img src="entities/objects/foliage/aloevera/aloevera_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
      <cell pady="15" width="400">
-     <font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 150종 이상을 포함하는 식물의 한 속으로, 대부분 남아프리카가 원산지입니다. 대개 살이 많고 뾰족한 잎이 짧은 줄기 주위에 빽빽하게 모여 장미 모양을 이룹니다. 빨간색이나 노란색의 관 모양 꽃은 </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 에 빽빽하게 모여 핍니다. 종에 따라 높이가 몇 cm에서 9 m (30 ft) 이상까지 다양하며, 많은 품종은 의약품의 원료로 상업적 가치가 높습니다.
+     <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 150종 이상을 포함하는 식물의 한 속으로, 대부분 남아프리카가 원산지입니다. 대개 살이 많고 뾰족한 잎이 짧은 줄기 주위에 빽빽하게 모여 장미 모양을 이룹니다. 빨간색이나 노란색의 관 모양 꽃은 </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Aloe</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 에 빽빽하게 모여 핍니다. 종에 따라 높이가 몇 cm에서 9 m (30 ft) 이상까지 다양하며, 많은 품종은 의약품의 원료로 상업적 가치가 높습니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -53,15 +53,15 @@
      <cell width="150">
       <img src="entities/objects/foliage/boxelder/boxelder_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      네군도단풍나무는 단풍나무와 같은 속에 속하는 작은 나무의 일반명입니다. 겹잎은 물푸레나무의 잎과 다소 비슷합니다. 미국에서는 뉴잉글랜드 동부를 제외하고 로키산맥 동쪽 전역에서 발견됩니다. 좋지 않은 환경에서도 빨리 자라지만 수명이 짧고 바람과 곤충에 쉽게 손상됩니다. 보통은 작지만 물이 충분하고 토양이 비옥한 계곡에서는 높이가 18 m (60 ft)에 이를 수 있습니다. 목재는 부드럽고 가벼워 목제품과 펄프를 만드는 데 알맞습니다. 그늘을 드리우는 좋은 나무이며 방풍림으로 널리 사용되었습니다.
-     </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      네군도단풍나무에는 씨가 하나씩 들어 있는 가느다란 날개 열매가 많이 열립니다. 땅으로 떨어질 때 펄럭이는 모습 때문에 "헬리콥터 씨앗"이라는 이름으로 더 잘 알려져 있습니다. 
     </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>  
    </color>
   </LOC_STRING>
@@ -75,13 +75,13 @@
      <cell width="150">
       <img src="entities/objects/foliage/Daisy/Daisy_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      데이지는 국화과에 속하는 여러 꽃 피는 초본 식물을 가리킵니다. 진정한 데이지에는 노란 가운데 부분과 작은 흰색 또는 분홍색 꽃잎을 지닌 잉글리시데이지와 보라색 또는 자주색 꽃잎을 지닌 미국 서부의 데이지가 있습니다. 아프리카 데이지 같은 종도 있습니다. 미국의 검은눈천인국은 짙은 갈색 가운데 부분과 노란 꽃잎을 지닌 친척 야생화입니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -95,13 +95,13 @@
      <cell width="150">
       <img src="entities/objects/foliage/dwarfazalea/dwarfazalea_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      진달래는 철쭉과 가까운 꽃 피는 관목입니다. 잎이 떨어지는 종류도 있고 늘 푸른 종류도 있습니다. 땅 가까이 낮게 자라는 식물에서 작은 나무까지 크기가 다양합니다. 꽃은 분홍색, 보라색, 흰색, 노란색 또는 주황색이며, 향기가 나는 경우도 있습니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -115,13 +115,13 @@
      <cell width="150">
       <img src="entities/objects/foliage/edelweiss/edelweiss_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      털이 빽빽하게 난 이 여러해살이풀은 아시아와 유럽의 고지대에서 발견됩니다. 눈에 잘 띄지 않는 꽃이 머리 모양으로 모여 피고, 그 주위를 꽃잎처럼 생긴 털 많은 잎이 둘러쌉니다. 유럽과 미국의 정원에서 쉽게 재배하며, 거칠고 모래가 섞인 양토에서 가장 잘 자랍니다. 스위스를 상징하는 꽃입니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -136,13 +136,13 @@
       <img src="entities/objects/foliage/monkeypuzzletree/monkeypuzzletree_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
      <cell pady="15" width="400">
-     <font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Araucaria</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 남아메리카와 오스트랄라시아가 원산지인 상록수의 한 속입니다. 칠레소나무를 비롯한 여러 종이 상업적으로 중요합니다. 칠레의 안데스산맥이 원산지인 칠레소나무는 높이가 45 m (150 ft)까지 자라며 목재로 가치가 높습니다. 줄기는 곧고 옹이가 없으며, 무늬가 아름다운 황백색의 단단한 목재와 풍부한 수지를 제공합니다. 많은 소나무처럼 어린 나무는 줄기 밑부분부터 가지가 나지만, 오래된 나무는 가지가 없는 높은 줄기 꼭대기에 가지가 모여 납니다.
+     <font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Araucaria</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 남아메리카와 오스트랄라시아가 원산지인 상록수의 한 속입니다. 칠레소나무를 비롯한 여러 종이 상업적으로 중요합니다. 칠레의 안데스산맥이 원산지인 칠레소나무는 높이가 45 m (150 ft)까지 자라며 목재로 가치가 높습니다. 줄기는 곧고 옹이가 없으며, 무늬가 아름다운 황백색의 단단한 목재와 풍부한 수지를 제공합니다. 많은 소나무처럼 어린 나무는 줄기 밑부분부터 가지가 나지만, 오래된 나무는 가지가 없는 높은 줄기 꼭대기에 가지가 모여 납니다.
      </font><p />
      </cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -156,13 +156,13 @@
      <cell width="150">
       <img src="entities/objects/foliage/saguarocactus/saguarocactus_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
      사후아로라고도 불리는 사와로선인장은 다 자라면 거대한 나무만큼 커지는 인상적인 선인장입니다. 천천히 자라 수직 줄기에서 첫 번째 가지가 돋기까지 최고 75년이 걸릴 수 있지만, 높이가 약 15 m (약 50 ft)에 이르며 200년 이상 살 수 있습니다. 표면에는 날카로운 가시가 나 있습니다. 크림빛 흰 꽃은 줄기 꼭대기에 모여 핍니다. 열매는 먹을 수 있습니다. 딱따구리와 쇠청딱따구리, 올빼미 같은 작은 새와 다른 사막 동물들은 줄기나 가지에 집을 만들기도 합니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -176,16 +176,16 @@
      <cell width="150">
       <img src="entities/objects/foliage/speargrass/speargrass_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
       깃털풀 또는 바늘풀이라고도 부르는 이 장식용 벼과 식물은 높이가 약 90 cm (3 ft)까지 자랍니다. 원추꽃차례라고 부르는 화려한 꽃무리 때문에 재배됩니다. 좁은 원추꽃차례에는 섬세한 깃털 모양의 털이 있으며, 길이가 30 cm (1 ft)에 이르기도 합니다. 장식용으로 말려 쓰는 경우가 많습니다.
-      </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
       오스트레일리아의 깃털바늘풀은 북아메리카에 도입되었습니다. 이른 봄부터 가을까지 피는 성기고 깃털 같은 원추꽃차례 때문에 자주 재배됩니다. 잎은 높이가 90 cm (3 ft)까지 자랍니다. 가뭄에 강하며 모래가 많은 토양에서 잘 자랍니다.
       </font><p />
     </cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>
@@ -199,13 +199,13 @@
      <cell width="150">
       <img src="entities/objects/foliage/tallgoldenrod/tallgoldenrod_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128" />
      </cell>
-     <cell pady="15" width="400"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
-     미역취는 국화과의 서로 가까운 일부 식물들을 부르는 일반명입니다. 미국에 널리 퍼진 이 가을꽃들은 숲과 초원, 언덕과 바위 지대 등 다양한 서식지에서 자랍니다. 미역취는 막대 같은 줄기와 잎자루 없는 잎을 지닌 여러해살이풀입니다. 보통 높이는 약 1.2 m (4 ft)이지만, 환경과 종에 따라 30 cm~2 m (1~6 ft)까지 다양합니다. 노란 꽃은 우아한 꽃무리를 이룹니다. 미역취는 다음 속에 속합니다: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Solidago</font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">. 약 100종이 있으며 대부분 북아메리카에 분포합니다. 흔한 종의 하나인 캐나다미역취는 중간 정도 크기이며, 작은 노란 꽃이 커다란 원추꽃차례를 이룹니다. 더 작은 스위트미역취의 잎은 아니스 향이 나서 허브차를 만드는 데 사용됩니다. 낮게 자라는 리스미역취는 그늘진 곳에서 발견됩니다. 노벰버미역취는 가장 키가 큰 미역취이며 털이 많은 커다란 원추꽃차례를 맺습니다. 유럽이 원산지인 것은 유럽미역취뿐입니다.
+     <cell pady="15" width="400"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+     미역취는 국화과의 서로 가까운 일부 식물들을 부르는 일반명입니다. 미국에 널리 퍼진 이 가을꽃들은 숲과 초원, 언덕과 바위 지대 등 다양한 서식지에서 자랍니다. 미역취는 막대 같은 줄기와 잎자루 없는 잎을 지닌 여러해살이풀입니다. 보통 높이는 약 1.2 m (4 ft)이지만, 환경과 종에 따라 30 cm~2 m (1~6 ft)까지 다양합니다. 노란 꽃은 우아한 꽃무리를 이룹니다. 미역취는 다음 속에 속합니다: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Solidago</font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">. 약 100종이 있으며 대부분 북아메리카에 분포합니다. 흔한 종의 하나인 캐나다미역취는 중간 정도 크기이며, 작은 노란 꽃이 커다란 원추꽃차례를 이룹니다. 더 작은 스위트미역취의 잎은 아니스 향이 나서 허브차를 만드는 데 사용됩니다. 낮게 자라는 리스미역취는 그늘진 곳에서 발견됩니다. 노벰버미역취는 가장 키가 큰 미역취이며 털이 많은 커다란 원추꽃차례를 맺습니다. 유럽이 원산지인 것은 유럽미역취뿐입니다.
      </font></cell>
     </cell>
     <p />
     <cell width="260" />
-    <cell width="620"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
+    <cell width="620"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 1993–2005 마이크로소프트 코퍼레이션. 모든 권리 보유.
     </font></cell>
    </color>
   </LOC_STRING>

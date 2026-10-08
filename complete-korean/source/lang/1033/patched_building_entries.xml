@@ -11,7 +11,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/buildings/restaurant/restaurant_family_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                    아이들에게 알맞도록 재미있게 꾸며져 있으며 여러 관람객이 한 곳에서 배고픔과 갈증을 해결할 수 있는 장소입니다.
                </font></color>
             </cell>

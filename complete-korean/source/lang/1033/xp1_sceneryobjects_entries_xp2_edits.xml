@@ -10,9 +10,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\scenery\zoopedia_redwoodtunnel\RedwoodTunnel_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 세쿼이아 나무 둥치가 터널 모양으로 벌어져 있어 지프를 타고 그 사이를 지나갈 수 있습니다. 
-      </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 세쿼이아 나무 터널은 관람물의 하나로서 투어 중인 관람객이 이 관람물을 보면 해당 관람객의 투어 등급과 투어 기부금이 올라갑니다.
      </font></color>
     </cell>

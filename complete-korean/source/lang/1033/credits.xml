@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="credits:headingxtralarge">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="40">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="40">
             <color r="255" g="187" b="68" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headinglarge">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="36">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="36">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingmedium">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="28">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="28">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingsmall">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="20">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="20">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingname">
-         <font name="Pretendard" size="28">
+         <font name="Malgun Gothic" size="28">
             <color r="255" g="217" b="98" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingnamemedium">
-         <font name="Pretendard" size="24">
+         <font name="Malgun Gothic" size="24">
             <color r="255" g="217" b="98" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:headingnamesmall">
-         <font name="Pretendard" size="15">
+         <font name="Malgun Gothic" size="15">
             <color r="255" g="217" b="98" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingxtralarge">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="40">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="40">
             <color r="210" g="215" b="210" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headinglarge">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="36">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="36">
             <color r="210" g="215" b="210" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingmedium">
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="28">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="28">
             <color r="210" g="215" b="210" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingsmall">  
-         <font name="Pretendard" image="ui/font/color_mainmenu.tga" size="20">
+         <font name="Malgun Gothic" image="ui/font/color_mainmenu.tga" size="20">
             <color r="210" g="215" b="210" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingname">
-         <font name="Pretendard" size="28">
+         <font name="Malgun Gothic" size="28">
  				<color r="227" g="184" b="102" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingnamemedium">
-         <font name="Pretendard" size="24">
+         <font name="Malgun Gothic" size="24">
  				<color r="227" g="184" b="102" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="credits:xp2headingnamesmall">
-         <font name="Pretendard" size="15">
+         <font name="Malgun Gothic" size="15">
  				<color r="227" g="184" b="102" a="255">
                <b>%text%</b>
             </color>
@@ -227,7 +227,7 @@
       <LOC_STRING _locID="credits:artintern">미술 인턴</LOC_STRING>
       <LOC_STRING _locID="credits:appengineeringlead">수석 응용 프로그램 기술 담당자</LOC_STRING>
       <LOC_STRING _locID="credits:coreengineeringlead">수석 핵심 기술 담당자</LOC_STRING>
-      <LOC_STRING _locID="credits:xp2miles">주타이쿤 2: 해양 동물은 마일스 사운드 시스템을 사용합니다. 저작권 © 1991 - 2006 래드 게임 툴스사.</LOC_STRING>
+      <LOC_STRING _locID="credits:xp2miles">주타이쿤 2: Marine Mania는 마일스 사운드 시스템을 사용합니다. 저작권 © 1991 - 2006 래드 게임 툴스사.</LOC_STRING>
       <LOC_STRING _locID="devteamnames:jr_surprenant">제이알 서프르낭</LOC_STRING>
       <LOC_STRING _locID="devteamnames:adam_levesque">애덤 레베크</LOC_STRING>
       <LOC_STRING _locID="devteamnames:jason_barlow">제이슨 발로</LOC_STRING>

@@ -7,8 +7,9 @@
 | 원문·개념 | 표시 용어 |
 |---|---|
 | Zoo Tycoon 2 | 주타이쿤 2 |
-| Endangered Species / African Adventure | 멸종 위기 동물 / 아프리카 대탐험 |
-| Marine Mania / Extinct Animals / Dino Danger | 해양 동물 / 멸종 동물 / 위험한 공룡 팩 |
+| Endangered Species / African Adventure | Endangered Species / African Adventure |
+| Marine Mania / Extinct Animals / Dino Danger Pack | Marine Mania / Extinct Animals / Dino Danger Pack |
+| Zookeeper Collection | Zookeeper Collection |
 | Zoopedia / Guest / Exhibit / Zoo Fame | 주피디아 / 관람객 / 우리 / 동물원 명성 |
 | Guest Mode / Biome | 1인칭 시점 / 서식 환경 |
 | Free-form Fence Placement / Freeform Game | 자유 울타리 모드 / 자유 게임 모드 |
@@ -23,6 +24,8 @@
 | Travel Tycoon / Tour Tycoon Level 1–3 | 이동 시설 운영 / 투어 운영 1·2·3단계상 |
 
 Microsoft Encarta의 일반 백과사전 설명은 주피디아와 구분합니다. 같은 영어 제목의 밧줄 울타리와 놀이용 그네, 일반 우리와 은신처도 서로 다른 객체입니다. 테마 시설의 실제 가격·판매 품목·효과 차이와 시대별 게임 분류는 해당 원문을 따릅니다.
+
+확장팩·컬렉션의 제품 이름은 고유명사로서 영어 표기를 유지합니다. 설치 알림·제품 필터·튜토리얼·제품 및 상표 고지에도 같은 이름을 사용합니다. 영어 게임 리소스의 `FilterText:s_Product_*`와 `mainmenu:*_installed_*`를 대조했으며, Dino Danger의 실제 제품 필터 이름은 **Dino Danger Pack**입니다. 일반 문장의 "위험한 공룡", 동물 분류의 "멸종 동물"·"해양 동물", 시설 이름의 "멸종 동물 연구소" 등은 제품 이름과 구별하여 한국어로 유지합니다.
 
 ## 신생대 시대 표기
 

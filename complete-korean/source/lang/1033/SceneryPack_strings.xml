@@ -98,8 +98,8 @@
 	            <cell width="600" padx="20" pady="20">
 	               <color r="60" g="54" b="38">
 	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-	                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
-	                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리와 일반 벽돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
+	                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+	                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">벽돌 창문 울타리와 일반 벽돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
 	               </font></color>
 	            </cell>
 	         </cell>
@@ -115,8 +115,8 @@
 		            <cell width="600" padx="20" pady="20">
 		               <color r="60" g="54" b="38">
 		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-		                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
-		                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리와 일반 돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
+		                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+		                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">돌 창문 울타리와 일반 돌 울타리를 함께 사용하면 아름답고 튼튼한 우리를 만들 수 있습니다.
 		               </font></color>
 		            </cell>
 		         </cell>
@@ -132,8 +132,8 @@
 		            <cell width="600" padx="20" pady="20">
 		               <color r="60" g="54" b="38">
 		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-		                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">정글 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
-		                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">정글 스타일 울타리는 호랑이, 고릴라, 침팬지 같은 정글과 열대우림 동물을 위한 우리를 만들 때 가장 잘 어울립니다. 관람객은 특정 테마로 꾸민 시설을 좋아합니다.
+		                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">정글 창문 울타리는 관람객이 동물을 잘 볼 수 있게 해주는 동시에 동물의 탈출을 막아줍니다.
+		                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">정글 스타일 울타리는 호랑이, 고릴라, 침팬지 같은 정글과 열대우림 동물을 위한 우리를 만들 때 가장 잘 어울립니다. 관람객은 특정 테마로 꾸민 시설을 좋아합니다.
 		               </font></color>
 		            </cell>
 		         </cell>
@@ -150,7 +150,7 @@
                <color r="60" g="54" b="38">
                <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />               
                   <p />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">어린이는 알록달록한 공기 주입식 거북의 등 위로 올라가 트램펄린에서 높이 뛰어오르는 것을 좋아합니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">어린이는 알록달록한 공기 주입식 거북의 등 위로 올라가 트램펄린에서 높이 뛰어오르는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -166,7 +166,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">소형 분수대는 공간을 많이 차지하지 않으면서 동물원을 아름답게 꾸미기에 좋습니다. 관람객은 동물원의 분수대를 구경하는 것을 좋아합니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">소형 분수대는 공간을 많이 차지하지 않으면서 동물원을 아름답게 꾸미기에 좋습니다. 관람객은 동물원의 분수대를 구경하는 것을 좋아합니다.
                </font></color>
             </cell>
          </cell>
@@ -182,7 +182,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">물놀이 분수대는 어린이가 안으로 뛰어들어 시원하고 상쾌한 물에서 놀 수 있도록 설계되었습니다.
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">물놀이 분수대는 어린이가 안으로 뛰어들어 시원하고 상쾌한 물에서 놀 수 있도록 설계되었습니다.
                </font></color>
             </cell>
          </cell>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
-      <LOC_STRING _locID="xp2_tutorial1:welcome">주타이쿤 2: 해양 동물을 익힐 수 있는 연습 게임입니다! 이 연습 게임에서는 기본적인 수조 건설, 서식 환경 변경, 해양 동물 추가, 정수 필터 설치 방법 등을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:welcome">주타이쿤 2: Marine Mania를 익힐 수 있는 연습 게임입니다! 이 연습 게임에서는 기본적인 수조 건설, 서식 환경 변경, 해양 동물 추가, 정수 필터 설치 방법 등을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelHeading">건설 패널</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel">이제 수조를 만들어 보겠습니다! 건설 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelCompleted">null</LOC_STRING>
@@ -141,7 +141,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial3:welcome">이번 연습 게임에서는 해양 동물들에게 관람객들이 좋아하는 묘기를 가르치는 두 가지 방법을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial3:trainingIntroHeading">동물 훈련시키기</LOC_STRING>
-      <LOC_STRING _locID="xp2_tutorial3:trainingIntro">주타이쿤 2: 해양 동물에서는 특정 해양 동물에게 공연에서 선보일 묘기를 가르칠 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntro">주타이쿤 2: Marine Mania에서는 특정 해양 동물에게 공연에서 선보일 묘기를 가르칠 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial3:trainingIntroCompleted">수조 입구와 훈련장을 갖춘 수조만 있으면 동물을 훈련시킬 수 있습니다. 하지만 모든 동물이 훈련을 받을 수 있는 것은 아닙니다. 백상아리가 그 대표적인 예죠. 반면에 돌고래는 모든 종류의 묘기를 금방 익힐 수 있는 동물입니다. 이제 수조에 있는 병코돌고래에게 점프 묘기를 가르치도록 하겠습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial3:selectDolphinHeading">돌고래 선택하기</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial3:selectDolphin">수조에서 병코돌고래인 비키를 찾은 다음 클릭해서 선택하세요.</LOC_STRING>
@@ -290,7 +290,7 @@
          
          
          
-			다음 연습 게임을 시작하려면 계속하기 단추를 클릭하세요. 다음 연습 게임에서는 주타이쿤 2: 해양 동물의 새로운 기능들을 배울 차례입니다.
+			다음 연습 게임을 시작하려면 계속하기 단추를 클릭하세요. 다음 연습 게임에서는 주타이쿤 2: Marine Mania의 새로운 기능들을 배울 차례입니다.
          
          
          
@@ -303,7 +303,7 @@
       
       
       </LOC_STRING>
-      <LOC_STRING _locID="xp2_tutorial5:welcome">이번 연습 게임에서는 스포이드 도구, 지형 필터, 돌고래와 함께 헤엄치는 방법, 그 밖의 주타이쿤 2: 해양 동물의 새로운 기능을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:welcome">이번 연습 게임에서는 스포이드 도구, 지형 필터, 돌고래와 함께 헤엄치는 방법, 그 밖의 주타이쿤 2: Marine Mania의 새로운 기능을 익힙니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:openLandscapingHeading">조경</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:openLandscaping">조경도 새로운 방법으로 할 수 있게 되었습니다. 예를 들어 나무, 식물, 바위 등을 다른 방법으로 심거나 놓을 수 있죠. 새로운 방법을 배우려면 조경 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:openLandscapingCompleted">사막 서식 환경이 선택되어 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
@@ -317,7 +317,7 @@
       <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwo">잘했습니다! 이제 모래를 좀 더 덮으세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwoCompleted">바위 필터가 켜져 있기 때문에 바위가 추가됩니다. 이렇게 지형 필터를 이용하면 조경에 어떤 개체를 추가하거나 제외할지 더 세밀하게 조절할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectTreeHeading">나무 선택하기</LOC_STRING>
-      <LOC_STRING _locID="xp2_tutorial5:selectTree">주타이쿤 2: 해양 동물에는 멋진 기능이 많이 추가되었습니다. 그 중에 하나가 스포이드 도구죠. 스포이드 도구를 이용하면 게임에 등장하는 거의 모든 개체를 쉽고 빠르게 복제해서 똑같은 개체를 추가할 수 있습니다. 햄버거 판매대 옆에 있는 발삼전나무를 대상으로 시험해 보겠습니다. 발삼전나무를 찾아서 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTree">주타이쿤 2: Marine Mania에는 멋진 기능이 많이 추가되었습니다. 그 중에 하나가 스포이드 도구죠. 스포이드 도구를 이용하면 게임에 등장하는 거의 모든 개체를 쉽고 빠르게 복제해서 똑같은 개체를 추가할 수 있습니다. 햄버거 판매대 옆에 있는 발삼전나무를 대상으로 시험해 보겠습니다. 발삼전나무를 찾아서 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectTreeCompleted">null</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:copyTreeHeading">스포이드 도구</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:copyTree">스포이드 도구를 클릭하세요. 커서가 클릭한 발삼전나무와 완전히 똑같은 모습으로 바뀐 게 보이시죠? 이제 원하는 곳을 클릭해서 발삼전나무를 심어보세요.</LOC_STRING>
@@ -335,7 +335,7 @@
       <LOC_STRING _locID="xp2_tutorial5:closeRecommendations">사육사 조언 단추를 클릭해서 사육사 조언 패널을 닫으세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:closeRecommendationsCompleted">null</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:openQuickStatsHeading">동물원 요약 통계</LOC_STRING>
-      <LOC_STRING _locID="xp2_tutorial5:openQuickStats">주타이쿤 2: 해양 동물에는 동물원에 대한 정보를 얻는 새로운 방법도 추가되었습니다. 동물원 요약 통계 단추를 클릭해서 요약 통계 패널을 여세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStats">주타이쿤 2: Marine Mania에는 동물원에 대한 정보를 얻는 새로운 방법도 추가되었습니다. 동물원 요약 통계 단추를 클릭해서 요약 통계 패널을 여세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:openQuickStatsCompleted">요약 통계 패널에는 건물 정보 탭과 기부함 정보 탭이 새롭게 추가되었습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectBuildingTabHeading">건물 정보</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectBuildingTab">건물 목록을 이용하면 동물원에 있는 모든 건물에 대한 정보를 쉽게 볼 수 있습니다. 여기서 알 수 있는 정보는 건물 개장 기간, 총 수익 및 월평균 수익입니다. 건물 정보 탭을 클릭해서 건물 목록을 여세요.</LOC_STRING>
@@ -344,7 +344,7 @@
       <LOC_STRING _locID="xp2_tutorial5:closeQuickStats">X 단추를 클릭해서 요약 통계 패널을 닫으세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:closeQuickStatsCompleted">null</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectDolphinHeading">돌고래 선택하기</LOC_STRING>
-      <LOC_STRING _locID="xp2_tutorial5:selectDolphin">병코돌고래를 비롯한 여러 해양 동물과 함께 수영을 할 수 있는 기능은 주타이쿤 2: 해양 동물에서 가장 돋보이는 추가 기능 중 하나입니다. 이제 돌고래와 함께 수영을 해 보겠습니다! 우선 돌고래가 있는 수조를 찾아서 돌고래를 클릭하세요.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphin">병코돌고래를 비롯한 여러 해양 동물과 함께 수영을 할 수 있는 기능은 주타이쿤 2: Marine Mania에서 가장 돋보이는 추가 기능 중 하나입니다. 이제 돌고래와 함께 수영을 해 보겠습니다! 우선 돌고래가 있는 수조를 찾아서 돌고래를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:selectDolphinCompleted">동물과 함께 수영하기 기능을 이용하면 병코돌고래의 우리로 들어가서 이 멋진 동물과 함께 수영을 할 수 있습니다. 다음 단계로 넘어가려면 계속하기 단추를 클릭하세요.</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:clickSwimButtonHeading">동물과 함께 수영하기</LOC_STRING>
       <LOC_STRING _locID="xp2_tutorial5:clickSwimButton">동물과 함께 수영하기 단추를 클릭해서 병코돌고래와 함께 수영을 즐기세요!</LOC_STRING>
@@ -359,7 +359,7 @@
          
          
          
-         축하합니다! 주타이쿤 2: 해양 동물의 모든 연습 게임을 완료했습니다! 이제 신나는 해양 공연과 멋진 동물원을 만들 준비는 모두 끝났습니다. 새롭게 추가된 20종의 동물, 20개의 챌린지, 2개의 캠페인 및 다수의 아이템도 눈여겨보세요. 그럼 신나는 바다 탐험을 즐기시기 바랍니다!
+         축하합니다! 주타이쿤 2: Marine Mania의 모든 연습 게임을 완료했습니다! 이제 신나는 해양 공연과 멋진 동물원을 만들 준비는 모두 끝났습니다. 새롭게 추가된 20종의 동물, 20개의 챌린지, 2개의 캠페인 및 다수의 아이템도 눈여겨보세요. 그럼 신나는 바다 탐험을 즐기시기 바랍니다!
 			
          
          

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="awards:ExtinctCampaign_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 캠페인 보상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctCampaign_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 캠페인을 완료하면 </b>
         <b />
         <color r="255" g="255" b="0" a="255">
@@ -15,7 +15,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctCampaign_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! 멸종 동물 캠페인을 완료하여 </b>
         <color r="255" g="255" b="0" a="255">
           <b>멸종 동물 테마 건물과 기구를 사용할 수 있게 되었습니다.</b>
@@ -23,12 +23,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctCampaign2_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 탐험 캠페인 보상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctCampaign2_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 탐험 캠페인을 완료하면 </b>
         <b />
         <color r="255" g="255" b="0" a="255">
@@ -37,7 +37,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctCampaign2_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>축하합니다! 멸종 동물 탐험 캠페인을 완료하여 </b>
         <color r="255" g="255" b="0" a="255">
           <b>브라키오사우르스 미끄럼틀을 사용할 수 있게 되었습니다!</b>
@@ -45,12 +45,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:CraftyCloning_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>능숙한 동물 생성상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:CraftyCloning_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>능숙한 동물 생성 챌린지를 완료하면 </b>
         <b />
         <color r="255" g="255" b="0" a="255">
@@ -59,7 +59,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:CraftyCloning_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! 능숙한 동물 생성 챌린지를 완료하여 </b>
         <color r="255" g="255" b="0" a="255">
           <b>능숙한 동물 생성상을 받았습니다.</b>
@@ -67,12 +67,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctRelease_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 야생 방사상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctRelease_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물을 모든 종에서 한 마리씩 야생으로 돌려보내면 </b>
         <b />
         <color r="255" g="255" b="0" a="255">
@@ -82,7 +82,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:ExtinctRelease_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! 멸종 동물을 모든 종에서 한 마리씩 야생으로 돌려보내어 </b>
         <color r="255" g="255" b="0" a="255">
           <b>콰가를</b>
@@ -91,12 +91,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationOne_name">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관상 - 황제매머드</b>
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationOne_pre_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관에서 황제매머드 골격을 완성하면 </b>
               <b />
               <color r="255" g="255" b="0" a="255">
@@ -106,7 +106,7 @@
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationOne_post_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>잘했습니다! 황제매머드 골격을 완성할 때마다 </b>
               <color r="255" g="255" b="0" a="255">
                  <b>황제매머드 골격 조각상이</b>
@@ -115,12 +115,12 @@
            </font>
       </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationTwo_name">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관상 - 메갈로케로스</b>
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationTwo_pre_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관에서 메갈로케로스 골격을 완성하면 </b>
               <b />
               <color r="255" g="255" b="0" a="255">
@@ -130,7 +130,7 @@
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationTwo_post_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>축하합니다! 메갈로케로스 골격을 완성할 때마다 </b>
               <color r="255" g="255" b="0" a="255">
                  <b>메갈로케로스 골격 조각상이</b>
@@ -139,12 +139,12 @@
            </font>
       </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationThree_name">
-                 <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                 <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
                     <b>멸종 동물 교육관상 - 티라노사우루스 렉스</b>
                  </font>
               </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationThree_pre_ltt">
-                 <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                 <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
                     <b>멸종 동물 교육관에서 티라노사우루스 렉스 골격을 완성하면 </b>
                     <b />
                     <color r="255" g="255" b="0" a="255">
@@ -154,7 +154,7 @@
                  </font>
               </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationThree_post_ltt">
-                 <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+                 <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
                     <b>잘했습니다! 티라노사우루스 렉스 골격을 완성할 때마다 </b>
                     <color r="255" g="255" b="0" a="255">
                        <b>티라노사우루스 렉스 골격 조각상이</b>
@@ -163,12 +163,12 @@
                  </font>
       </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationFour_name">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관상 - 프테라노돈</b>
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationFour_pre_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>멸종 동물 교육관에서 프테라노돈 골격을 완성하면 </b>
               <b />
               <color r="255" g="255" b="0" a="255">
@@ -178,7 +178,7 @@
            </font>
         </LOC_STRING>
       <LOC_STRING _locID="awards:FossilEducationFour_post_ltt">
-           <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+           <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
               <b>잘했습니다! 프테라노돈 골격을 완성할 때마다 </b>
               <color r="255" g="255" b="0" a="255">
                  <b>프테라노돈 골격 조각상이</b>
@@ -187,12 +187,12 @@
            </font>
       </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchOne_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>첫 슈퍼 동물상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchOne_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 슈퍼 동물을 만들면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>첫 슈퍼 동물상을 받습니다.</b>
@@ -200,7 +200,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchOne_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>첫 슈퍼 동물상</b>
@@ -209,12 +209,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchTwo_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>열정적인 연구상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchTwo_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 슈퍼 동물 10마리를 만들면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>열정적인 연구상을 받습니다.</b>
@@ -222,7 +222,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchTwo_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>축하합니다! 슈퍼 동물 10마리를 만들어 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>열정적인 연구상을 받았습니다.</b>
@@ -230,12 +230,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchThree_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>슈퍼 과학자상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchThree_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 슈퍼 동물 25마리를 만들면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>슈퍼 과학자상을 받습니다.</b>
@@ -243,7 +243,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:GeneticResearchThree_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! 슈퍼 동물 25마리를 만들어 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>슈퍼 과학자상을 받았습니다.</b>
@@ -251,12 +251,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingOne_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>양동이와 삽상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingOne_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>첫 단계의 화석 조각을 모두 찾으면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>양동이와 삽상을 받습니다.</b>
@@ -264,7 +264,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingOne_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>양동이와 삽상</b>
@@ -273,12 +273,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingTwo_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>끈기 있는 발굴자상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingTwo_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>3단계 화석 조각을 모두 찾으면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>끈기 있는 발굴자상을 받습니다.</b>
@@ -286,7 +286,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingTwo_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>축하합니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>끈기 있는 발굴자상</b>
@@ -295,12 +295,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingThree_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>완벽한 고생물학자상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingThree_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>모든 멸종 동물의 화석 조각을 찾으면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>완벽한 고생물학자상을 받습니다.</b>
@@ -308,7 +308,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilFindingThree_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>완벽합니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>완벽한 고생물학자상</b>
@@ -317,12 +317,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingOne_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>초보 화석 조립가</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingOne_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 첫 화석을 조립하는 데 성공하면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>초보 화석 조립가상을 받습니다.</b>
@@ -330,7 +330,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingOne_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멋집니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>초보 화석 조립가상</b>
@@ -339,12 +339,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingTwo_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>전문 화석 조립가</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingTwo_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 화석 10개를 조립하면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>전문 화석 조립가상을 받습니다.</b>
@@ -352,7 +352,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingTwo_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>훌륭합니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>전문 화석 조립가상</b>
@@ -361,12 +361,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingThree_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>화석 조립의 달인</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingThree_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>멸종 동물 연구소에서 화석 25개를 조립하는 데 성공하면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>화석 조립의 달인상을 받습니다.</b>
@@ -374,7 +374,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:FossilBuildingThree_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>대단한 솜씨입니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>화석 조립의 달인상</b>
@@ -383,12 +383,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:MedicalMarvel_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>놀라운 의학</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:MedicalMarvel_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>세 가지 질병의 치료제를 찾으면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>놀라운 의학상을 받습니다.</b>
@@ -396,7 +396,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:MedicalMarvel_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>훌륭합니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>놀라운 의학상</b>
@@ -405,12 +405,12 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:DinoSafety_name">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>공룡 안전상</b>
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:DinoSafety_pre_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>마취총으로 공룡의 난동을 멈추면 </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>공룡 안전상을 받습니다.</b>
@@ -419,7 +419,7 @@
       </font>
     </LOC_STRING>
       <LOC_STRING _locID="awards:DinoSafety_post_ltt">
-      <font name="Pretendard" size="10" shadowx="-1" shadowy="1" shadowa="32">
+      <font name="Malgun Gothic" size="10" shadowx="-1" shadowy="1" shadowa="32">
         <b>잘했습니다! </b>
         <color r="255" g="255" b="0" a="255">
 	        <b>공룡 안전상</b>

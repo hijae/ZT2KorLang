@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ZT2Strings>
       <LOC_STRING _locID="confirm:cancel_dl_button_label">
-         <font name="Pretendard" size="18" image="ui\font\color_mainmenu.tga">
+         <font name="Malgun Gothic" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
                <text>
                   <br />

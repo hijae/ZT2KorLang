@@ -10,7 +10,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/food/Carcass/Carcass_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/Carcass/Carcass_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -22,7 +22,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -48,7 +48,7 @@
                   <img src="entities/objects/food/BrowseHolder/BrowseHolder_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/BrowseHolder/BrowseHolder_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/BrowseHolder/BrowseHolder_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -60,9 +60,9 @@
                   
                   </font><a href="zoopedia:zoopedia_giraffe:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">기린 </font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">기린 </font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -89,7 +89,7 @@
                   <img src="entities/objects/food/ElevatedDish/ElevatedDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/ElevatedDish/ElevatedDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/ElevatedDish/ElevatedDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -124,7 +124,7 @@
                   <img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -152,7 +152,7 @@
                   <img src="entities/objects/food/MetalTrough/MetalTrough_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/MetalTrough/MetalTrough_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/MetalTrough/MetalTrough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -182,7 +182,7 @@
                   <img src="entities/objects/food/Trough/Trough_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/Trough/Trough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/food/Trough/Trough_branches_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

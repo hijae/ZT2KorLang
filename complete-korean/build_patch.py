@@ -16,8 +16,10 @@ import zipfile
 
 PACKAGE = Path(__file__).resolve().parent
 OUTPUT_NAME = "ZZZZZZZZ_Korlang_Complete_20261007.z2f"
-EXPECTED_FILES = 314
-EXPECTED_LANGUAGE_FILES = 287
+PRETENDARD_OUTPUT_NAME = "ZZZZZZZZ_Korlang_Complete_Pretendard_20261008.z2f"
+FONT_FAMILIES = {"system": "Malgun Gothic", "pretendard": "Pretendard"}
+EXPECTED_FILES = 359
+EXPECTED_LANGUAGE_FILES = 332
 EXPECTED_UI_FILES = 26
 EXPECTED_CONFIG_FILES = 1
 FIXED_TIMESTAMP = (2026, 10, 7, 12, 0, 0)
@@ -100,7 +102,7 @@ def validate_sources():
         raise ValueError("지원하지 않는 매니페스트입니다.")
     records = manifest.get("files", [])
     if len(records) != EXPECTED_FILES:
-        raise ValueError("검증 대상은 정확히 314개 XML이어야 합니다.")
+        raise ValueError("검증 대상은 정확히 359개 XML이어야 합니다.")
     names = [record["path"] for record in records]
     source_names = [record.get("source_path", record["path"]) for record in records]
     if len(set(names)) != len(names) or len(set(name.casefold() for name in names)) != len(names):
@@ -114,7 +116,7 @@ def validate_sources():
     config_count = sum(name == "config/imeui.xml" for name in names)
     if (language_count != EXPECTED_LANGUAGE_FILES or ui_count != EXPECTED_UI_FILES
             or config_count != EXPECTED_CONFIG_FILES):
-        raise ValueError("언어 XML 287개, UI XML 26개와 IME XML 1개가 필요합니다.")
+        raise ValueError("언어 XML 332개, UI XML 26개와 IME XML 1개가 필요합니다.")
     if (manifest.get("language_xml_files") != language_count
             or manifest.get("ui_xml_files") != ui_count
             or manifest.get("config_xml_files") != config_count
@@ -156,9 +158,33 @@ def validate_sources():
     return manifest, verified
 
 
-def build_patch(verified):
-    destination = PACKAGE / OUTPUT_NAME
-    temporary = PACKAGE / (OUTPUT_NAME + ".tmp")
+def select_font(verified, font):
+    """글꼴 선택은 검증된 XML의 글꼴 속성만 변경합니다."""
+    family = FONT_FAMILIES[font]
+    if font == "system":
+        return verified
+    result = []
+    for name, data in verified:
+        # source uses double-quoted XML attributes, validated by manifest.
+        changed = re.sub(rb'\b(name|font|fontName)="Malgun Gothic"',
+                         lambda match: match[1] + b'="' + family.encode('ascii') + b'"', data)
+        before, after = ET.fromstring(data), ET.fromstring(changed)
+        for old, new in zip(before.iter(), after.iter()):
+            allowed = {"font": {"name"}, "BFFont": {"name", "font"},
+                       "appearance": {"fontName"}, "textEdit": {"fontName"}}.get(old.tag, set())
+            for key in set(old.attrib) | set(new.attrib):
+                if old.get(key) != new.get(key):
+                    if not (key in allowed and old.get(key) == FONT_FAMILIES['system']
+                            and new.get(key) == family):
+                        raise ValueError("글꼴 외의 속성이 변경되었습니다: " + name)
+        result.append((name, changed))
+    return result
+
+
+def build_patch(verified, font="system"):
+    output_name = OUTPUT_NAME if font == "system" else PRETENDARD_OUTPUT_NAME
+    destination = PACKAGE / output_name
+    temporary = PACKAGE / (output_name + ".tmp")
     try:
         with zipfile.ZipFile(temporary, "w", compression=zipfile.ZIP_DEFLATED,
                              compresslevel=9) as archive:
@@ -186,12 +212,16 @@ def build_patch(verified):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true", help="검증만 하고 패치를 생성하지 않습니다.")
+    parser.add_argument("--font", choices=tuple(FONT_FAMILIES), default="system",
+                        help="기본값 system: Windows 맑은 고딕. pretendard: 별도 설치 필요.")
     args = parser.parse_args()
     try:
         manifest, verified = validate_sources()
         print("검증 완료: XML %d개, LOC_STRING %d개" % (len(verified), manifest["loc_string_count"]))
+        verified = select_font(verified, args.font)
+        print("글꼴: " + FONT_FAMILIES[args.font])
         if not args.check:
-            destination = build_patch(verified)
+            destination = build_patch(verified, args.font)
             print("생성 완료: " + destination.name)
             print("SHA256: " + sha256(destination.read_bytes()))
     except (OSError, ValueError, KeyError, ET.ParseError, zipfile.BadZipFile) as error:

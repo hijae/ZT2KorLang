@@ -25,38 +25,38 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                      보존 상태:
                      </font><br />
-                        <color r="170" g="255" b="0"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                        <color r="170" g="255" b="0"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                      비교적 양호
                         </font></color>
                      </color>                  
                   </cell>
                </cell>                        
 				 <cell width="128">
-				  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">관목림</font><br /></color>
+				  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">관목림</font><br /></color>
 				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
 				 </cell>	
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카 남부</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카 남부</font></color>
                   <br />
                   <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
                </cell>
                <br />
                <cell width="284" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   강: 포유류 (Mammalia)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   목: 식육목 (Carnivora)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   과: 사향고양이과 (Viverridae)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
-                  속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Suricata</font>
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
-                  종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">suricatta</font>
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
-                  아종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">suricata</font>                  
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  속: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Suricata</font>
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  종: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">suricatta</font>
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  아종: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">suricata</font>                  
                   </color>
                </cell>
 				 <cell width="256" pady="10">
@@ -73,7 +73,7 @@
             </cell>
             <cell width="176">
                <color r="40" g="36" b="25">
-                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
                </color>
             </cell>
             <p />
@@ -83,53 +83,53 @@
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 사회성이 강한 동물로, 무리를 이뤄 생활하고, 공동 화장실을 사용하며 공동으로 새끼를 키웁니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 사회성이 강한 동물로, 무리를 이뤄 생활하고, 공동 화장실을 사용하며 공동으로 새끼를 키웁니다.</font></color>
                </cell>
                <br />
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 보통 5에서 30마리 정도의 무리를 형성하는데 이 무리를 "몹"이라고 부릅니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 보통 5에서 30마리 정도의 무리를 형성하는데 이 무리를 "몹"이라고 부릅니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">손쉬운 먹잇감으로 항상 맹수들의 위협에 시달리는 미어캣은 동료들이 잠을 자거나 식사를 할 때 항상 한 마리가 망을 봅니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">손쉬운 먹잇감으로 항상 맹수들의 위협에 시달리는 미어캣은 동료들이 잠을 자거나 식사를 할 때 항상 한 마리가 망을 봅니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 딱정벌레, 거미, 지네, 귀뚜라미, 전갈을 먹이로 합니다. 전갈의 독에 대해서는 면역력을 가지고 있습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 딱정벌레, 거미, 지네, 귀뚜라미, 전갈을 먹이로 합니다. 전갈의 독에 대해서는 면역력을 가지고 있습니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>               
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 꼬리로 균형을 잡고 동료들과 의사소통을 합니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 꼬리로 균형을 잡고 동료들과 의사소통을 합니다.</font></color>
                </cell>                   
             </cell>
          </cell>
          <cell width="340">
-            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 미어캣을 입양하려면 동물원 명성을 별 3개 반까지 올려야 합니다.</font></color>
-            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">"슈리케이트"로 불리기도 하는 미어캣은 몽구스과 중에서도 작은 편에 속하며 주로 아프리카 남부에 서식합니다. 이들은 앞발을 들고 서 있는 독특한 자세와 뛰어난 사회성으로 유명합니다.
+            <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 미어캣을 입양하려면 동물원 명성을 별 3개 반까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">"슈리케이트"로 불리기도 하는 미어캣은 몽구스과 중에서도 작은 편에 속하며 주로 아프리카 남부에 서식합니다. 이들은 앞발을 들고 서 있는 독특한 자세와 뛰어난 사회성으로 유명합니다.
 
-</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">건조한 개활지나 사바나 지역에 주로 서식하는 미어캣은 앙골라 남서부에서 남아프리카에 걸친 지역에서 발견됩니다. 사회성이 높은 이들은 땅굴을 팔 수 있는 모래가 있는 곳에서 집단 생활을 합니다.
+</font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">건조한 개활지나 사바나 지역에 주로 서식하는 미어캣은 앙골라 남서부에서 남아프리카에 걸친 지역에서 발견됩니다. 사회성이 높은 이들은 땅굴을 팔 수 있는 모래가 있는 곳에서 집단 생활을 합니다.
 
-</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">꼬리를 제외한 몸길이가 25에서 35cm 정도이며 다른 몽구스에 비해 날씬합니다. 입은 뾰족하고 털은 은빛을 띤 갈색이며, 궁둥이 부분에는 불규칙한 짙은색 줄무늬가 있습니다. 얼굴은 흰색이며 귀와 눈 주위는 짙은색입니다. 각 발에 5개의 발가락을 갖는 다른 몽구스와는 달리 미어캣의 발가락은 4개입니다.
+</font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">꼬리를 제외한 몸길이가 25에서 35cm 정도이며 다른 몽구스에 비해 날씬합니다. 입은 뾰족하고 털은 은빛을 띤 갈색이며, 궁둥이 부분에는 불규칙한 짙은색 줄무늬가 있습니다. 얼굴은 흰색이며 귀와 눈 주위는 짙은색입니다. 각 발에 5개의 발가락을 갖는 다른 몽구스와는 달리 미어캣의 발가락은 4개입니다.
 
-</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 오직 낮에만 먹이를 찾아다니며 주로 딱정벌레, 거미, 노래기와 같은 곤충을 먹습니다. 경우에 따라서는 작은 척추동물, 알, 식물 뿌리를 먹기도 합니다. 미어캣은 11주의 임신 기간을 거쳐 가을이나 초겨울에 2에서 4마리의 새끼를 낳습니다. 새끼를 보호하고 양육하는 일은 암수 모두가 합니다.
+</font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 오직 낮에만 먹이를 찾아다니며 주로 딱정벌레, 거미, 노래기와 같은 곤충을 먹습니다. 경우에 따라서는 작은 척추동물, 알, 식물 뿌리를 먹기도 합니다. 미어캣은 11주의 임신 기간을 거쳐 가을이나 초겨울에 2에서 4마리의 새끼를 낳습니다. 새끼를 보호하고 양육하는 일은 암수 모두가 합니다.
 
-</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 뒷다리나 심지어는 뒷발가락으로 똑바로 서서 바람에 실려 오는 맹수의 냄새를 맡고 자신을 공격해오는 맹금류를 살핍니다. 시각이 매우 발달해서 멀리까지 볼 수 있으며 10가지 이상의 소리를 낼 수 있습니다.
+</font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 뒷다리나 심지어는 뒷발가락으로 똑바로 서서 바람에 실려 오는 맹수의 냄새를 맡고 자신을 공격해오는 맹금류를 살핍니다. 시각이 매우 발달해서 멀리까지 볼 수 있으며 10가지 이상의 소리를 낼 수 있습니다.
 
-</font></color><p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 광견병을 옮길 수 있다는 이유로 사람들에게 사냥되거나 땅굴에 가스를 주입해 제거되기도 했습니다만, 개체수가 심각하게 줄어들지는 않았습니다. 남아프리카에서는 귀엽고 쉽게 길들일 수 있다는 특징 때문에 미어캣을 애완용으로 기르기도 합니다.
+</font></color><p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">미어캣은 광견병을 옮길 수 있다는 이유로 사람들에게 사냥되거나 땅굴에 가스를 주입해 제거되기도 했습니다만, 개체수가 심각하게 줄어들지는 않았습니다. 남아프리카에서는 귀엽고 쉽게 길들일 수 있다는 특징 때문에 미어캣을 애완용으로 기르기도 합니다.
 
          </font></color></cell>
          <p />
          <cell width="260" />
-         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> © 마이크로소프트 1993-2005. 모든 권리 보유.
+         <cell width="620"><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처 </font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> © 마이크로소프트 1993-2005. 모든 권리 보유.
          </font></color></cell>         
       </LOC_STRING>
       <LOC_STRING _locID="zoopedia_birdsecretary" version="9" />
@@ -157,27 +157,27 @@
                      <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
-                     <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">보존 상태:</font><br />
-                        <color r="170" g="255" b="0"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">비교적 양호</font></color>
+                     <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">보존 상태:</font><br />
+                        <color r="170" g="255" b="0"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">비교적 양호</font></color>
                      </color>                  
                   </cell>
                </cell>                        
                <cell width="128">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">초원</font><br /></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">초원</font><br /></color>
                   <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
                </cell>
 					<cell width="128">
-						<color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카</font></color>
+						<color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">아프리카</font></color>
 						<br />
 						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
 					</cell>
                <br />
                <cell width="284" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">강: 조류 (Aves)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">목: 매목 (Falconiformes)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">과: 수리과 (Sagittariidae)
-                  </font><br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">Sagittarius</font>
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">종: </font><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">serpentarius</font>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">강: 조류 (Aves)
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">목: 매목 (Falconiformes)
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">과: 수리과 (Sagittariidae)
+                  </font><br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">속: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">Sagittarius</font>
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">종: </font><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">serpentarius</font>
                   </color>
                </cell>
                <cell width="256" pady="10">
@@ -194,7 +194,7 @@
             </cell>
             <cell width="176">
                <color r="40" g="36" b="25">
-                  <font name="Pretendard" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Malgun Gothic" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
                </color>
             </cell>
             <p />
@@ -204,41 +204,41 @@
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 때때로 긴 다리로 걸어서 하루에 최대 32km를 이동합니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 때때로 긴 다리로 걸어서 하루에 최대 32km를 이동합니다.</font></color>
                </cell>
                <br />
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">남아프리카에서는 뱀과 쥐를 잡는 뱀잡이수리를 애완용으로 기르기도 합니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">남아프리카에서는 뱀과 쥐를 잡는 뱀잡이수리를 애완용으로 기르기도 합니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뱀은 뱀잡이수리가 가장 좋아하는 먹이입니다. 뱀잡이수리는 발가락으로 뱀을 잡아 땅에 내리치면서, 뱀이 물지 못하도록 날개로 막습니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">뱀은 뱀잡이수리가 가장 좋아하는 먹이입니다. 뱀잡이수리는 발가락으로 뱀을 잡아 땅에 내리치면서, 뱀이 물지 못하도록 날개로 막습니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 한번 짝을 지은 상대와 죽을 때까지 함께 살며, 같은 둥지에서 오래 생활합니다. 많은 시간을 혼자서 보내지만, 일반적으로 짝과 멀리 떨어지지 않은 곳에서 생활합니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 한번 짝을 지은 상대와 죽을 때까지 함께 살며, 같은 둥지에서 오래 생활합니다. 많은 시간을 혼자서 보내지만, 일반적으로 짝과 멀리 떨어지지 않은 곳에서 생활합니다.</font></color>
                </cell>
                <cell width="32" pady="10">
                   <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
                </cell>               
                <cell width="202" pady="10">
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 거의 소리를 내지 않습니다. 이 새가 내는 유일한 소리는 짝짓기 상대에게 과시할 때 내는 까악까악거리는 소리입니다.</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 거의 소리를 내지 않습니다. 이 새가 내는 유일한 소리는 짝짓기 상대에게 과시할 때 내는 까악까악거리는 소리입니다.</font></color>
                </cell>                   
             </cell>
          </cell>
          <cell width="340">
-            <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 뱀잡이수리를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</font></color>
-            <p /><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 사하라 사막 남쪽의 아프리카에 서식하는 대형 맹금류입니다. 몸길이는 1m 이상이며, 다리와 꼬리가 매우 길고, 갈고리 모양의 부리는 매우 강력합니다. 많은 책에서 이 새의 영어 이름(세크리터리 버드)은 귀 뒤쪽에 있는 긴 깃털로 이루어진 볏이 마치 깃털 달린 펜이 잔뜩 붙어 있는 것과 닮아서 지어졌다고 기술하고 있습니다. 하지만 실제로는 이 새의 아랍어 이름을 잘못 발음해서 굳어진 것입니다. 색깔은 보통 푸르스름한 회색이며 첫째날개깃과 넓적다리, 꼬리의 무늬는 검은색입니다. 먹이는 작은 동물이나 파충류이며, 특히 뱀을 좋아하고, 일반적으로 먹이에 몰래 접근해서 잡아먹습니다. 뱀잡이수리는 날아다니는 경우가 드뭅니다. 둥지는 나뭇가지를 이용해서 크고 단단하게 지으며, 알은 한 번에 2개씩 낳습니다.</font></color></cell>
+            <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">챌린지 또는 캠페인 게임에서 뱀잡이수리를 입양하려면 동물원 명성을 별 3개까지 올려야 합니다.</font></color>
+            <p /><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">뱀잡이수리는 사하라 사막 남쪽의 아프리카에 서식하는 대형 맹금류입니다. 몸길이는 1m 이상이며, 다리와 꼬리가 매우 길고, 갈고리 모양의 부리는 매우 강력합니다. 많은 책에서 이 새의 영어 이름(세크리터리 버드)은 귀 뒤쪽에 있는 긴 깃털로 이루어진 볏이 마치 깃털 달린 펜이 잔뜩 붙어 있는 것과 닮아서 지어졌다고 기술하고 있습니다. 하지만 실제로는 이 새의 아랍어 이름을 잘못 발음해서 굳어진 것입니다. 색깔은 보통 푸르스름한 회색이며 첫째날개깃과 넓적다리, 꼬리의 무늬는 검은색입니다. 먹이는 작은 동물이나 파충류이며, 특히 뱀을 좋아하고, 일반적으로 먹이에 몰래 접근해서 잡아먹습니다. 뱀잡이수리는 날아다니는 경우가 드뭅니다. 둥지는 나뭇가지를 이용해서 크고 단단하게 지으며, 알은 한 번에 2개씩 낳습니다.</font></color></cell>
          <p />
          <cell width="260" />
-         <cell width="620"><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처</font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">© 마이크로소프트 1993-2005. 모든 권리 보유.</font></color></cell>         
+         <cell width="620"><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">내용 출처</font></color><a href="zoopedia:zoopedia_encarta:entry"><u><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">마이크로소프트® 엔카르타® 2006.</font></color></u></a><color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">© 마이크로소프트 1993-2005. 모든 권리 보유.</font></color></cell>         
       </LOC_STRING>
 
 </ZT2Strings>

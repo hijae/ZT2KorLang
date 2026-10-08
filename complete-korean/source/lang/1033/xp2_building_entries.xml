@@ -9,9 +9,9 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 흰수염고래 전시관은 지구에서 가장 큰 동물인 흰수염고래에 관한 큰 박물관입니다. 이 박물관은 관람객들에게 즐거움과 교육적 정보를 동시에 제공합니다. 흰수염고래 전시관을 관람한 관람객의 교육 기부금은 일시적으로 증가합니다.
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 해양 동물 캠페인을 완료하면 흰수염고래 전시관을 건설할 수 있습니다.
      </font></color>
     </cell>
@@ -27,7 +27,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/buildings/giftcart_mm/giftcart_mm_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <br /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <br /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 해양 동물 관련 기념품을 파는 가판대입니다. 수조나 공연장 주변에 설치하면 관람객들이 좋아하는 동물과 관련한 기념품을 쉽게 구입할 수 있습니다.         
                </font></color>
             </cell>
@@ -43,7 +43,7 @@
                <color r="60" g="54" b="38">
                   <br />
                   <img src="entities/objects/buildings/sharkphotobooth_mm/sharkphotobooth_mm_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 상어 기념사진 촬영소는 관람객들이 진짜 같은 상어 인형과 함께 기념사진을 찍을 수 있는 곳입니다. 어떤 관람객은 상어 인형과 사진 찍기를 즐기지만, 다른 관람객은 조금 무서워합니다.             
                </font></color>
             </cell>
@@ -58,7 +58,7 @@
     <cell width="600" padx="20" pady="20">
      <color r="60" g="54" b="38">
       <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-      <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+      <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 터치풀은 소라, 투구게, 불가사리, 해삼 등의 작은 해양 동물들을 직접 만져볼 수 있어서 관람객들에 인기가 높습니다.
      </font></color>
     </cell>

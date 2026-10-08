@@ -7,7 +7,7 @@
          <cell width="260" />
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
-               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -25,9 +25,9 @@
                   
                   </font><a href="zoopedia:zoopedia_beaver:entry">
                      <u>
-                        <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">비버 </font></color>
+                        <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">비버 </font></color>
                      </u>
-                  </a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                    는 헤엄을 쳐서 비버 오두막으로 들어갑니다.
                
@@ -50,7 +50,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/CubbingDen_Shelter/CubbingDen_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -80,7 +80,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/ElephantHouse_Shelter/ElephantHouse_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -116,7 +116,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/ElevatedNestBox_Shelter/ElevatedNestBox_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -152,7 +152,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/GiraffeHouse_Shelter/GiraffeHouse_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -186,7 +186,7 @@
          <cell width="260" />
          <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
             <cell width="600" padx="20" pady="20">
-               <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+               <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -209,7 +209,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -244,7 +244,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/HollowTreeStump_Shelter/HollowTreeStump_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -281,7 +281,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SmallConcrete_Shelter/SmallConcrete_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/shelters/LargeConcrete_Shelter/LargeConcrete_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -318,7 +318,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SmallRockCave_Shelter/SmallRockCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/shelters/LargeRockCave_Shelter/LargeRockCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -357,7 +357,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SmallSnowCave_Shelter/SmallSnowCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/shelters/LargeSnowCave_Shelter/LargeSnowCave_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -394,7 +394,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SmallStable_Shelter/SmallStable_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/shelters/LargeStable_Shelter/LargeStable_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -408,7 +408,7 @@
                   
                   
                   
-                  </font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  </font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -431,7 +431,7 @@
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SmallWooden_Shelter/SmallWooden_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/objects/shelters/LargeWooden_Shelter/LargeWooden_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -467,7 +467,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/RaisedSleepingPlatform_Shelter/RaisedSleepingPlatform_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -503,7 +503,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/ShadeStructure_Shelter/ShadeStructure_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   
@@ -532,7 +532,7 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/objects/shelters/SleepingBasket_Shelter/SleepingBasket_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64" />
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
                   
                   
                   

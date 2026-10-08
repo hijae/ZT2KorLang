@@ -12,15 +12,15 @@
                   <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64" />                  
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 화려한 옷을 입은 이 직원들은 춤, 농담, 인형극 등 다양한 공연으로 관람객을 즐겁게 합니다. 공연할 장소를 꼭 마련해 주세요! 	    
 		</font><a href="zoopedia:zoopedia_entertainerstage:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공연 무대</font></color>
-               </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 
-           	</font></a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공연 무대</font></color>
+               </u><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0"> 는 
+           	</font></a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
   특유의 재능을 뽐내기에 좋은 곳입니다.            	
-						</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+						</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 공연자도 직원이므로 매월 첫날 동물원 계좌에서 급여가 지급된다는 것을 기억하세요.			
                </font></color>
             </cell>
@@ -36,22 +36,22 @@
                <color r="60" g="54" b="38">
                   <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64" />
                   <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64" />                
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 똑똑하고 강인한 이 직원들은 멸종 동물에 대해 모두 알고 있습니다. 관람객에게 먼 과거에 살던 동물의 모든 면을 가르치며, 
 		</font><a href="zoopedia:zoopedia_fossileducationcenter:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 교육관</font></color>
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 교육관</font></color>
                </u> 
            	</a>
 		
-<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">		
+<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">		
 에서 가르치는 것을 좋아합니다. 또한 화석을 찾고 발굴하여 도움을 줄 수 있습니다. 그 화석을 조립하는 곳은  	    
 		</font><a href="zoopedia:zoopedia_cloningcenter:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소입니다</font></color>
-               </u><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">. 
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">멸종 동물 연구소입니다</font></color>
+               </u><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">. 
            	</font></a>
-<p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+<p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 고생물학자도 직원이므로 매월 첫날 동물원 계좌에서 급여가 지급된다는 것을 기억하세요.
                </font></color>
             </cell>
@@ -66,15 +66,15 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64" />          
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		강인하고 민첩한 이 공룡 생포 팀 요원은 뛰어난 사격수입니다. 각종 장비에 능숙한 이 직원이 난동을 부리는 공룡을 마취하면 포획 전문가가 상자에 가둡니다.  
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		난동 경보가 울리는 곳인 
 		</font><a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
                </u>
-           	</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+           	</a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		에서 신호가 오면 팀이 즉시 행동에 나섭니다.
                </font></color>
             </cell>
@@ -89,15 +89,15 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64" />          
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		이 공룡 생포 팀 요원은 위험한 일을 담당하며 팀의 대장입니다. 마취 전문가가 난동을 부리는 공룡을 진정시키면 포획 전문가가 접이식 원격 동물 임시 우리를 발사하는 상자총으로 공룡을 가둡니다.  
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		난동 경보가 울리는 곳인 
 		</font><a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
                </u>
-           	</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+           	</a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		에서 신호가 오면 팀이 즉시 행동에 나섭니다.
                </font></color>
             </cell>
@@ -112,15 +112,15 @@
             <cell width="600" padx="20" pady="20">
                <color r="60" g="54" b="38">
                   <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64" />          
-                  <p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+                  <p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		대부분의 공룡은 시력이 좋지 않으며, 공룡 생포 팀은 이 점을 이용합니다. 어떻게 할까요? 점멸등과 사이렌을 갖춘 로봇 미끼를 보내 난동을 부리는 공룡의 주의를 돌립니다. 공룡이 로봇에 집중하는 동안 팀이 공룡을 마취합니다. 유기 물질로 만든 이 로봇은 공룡에게 해를 끼치지 않습니다.
-		</font><p /><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+		</font><p /><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		난동 경보가 울리는 곳인 
 		</font><a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
                <u>
-                  <color r="60" g="54" b="38"><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
+                  <color r="60" g="54" b="38"><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">공룡 생포 팀 벙커</font></color> 
                </u>
-           	</a><font name="Pretendard" size="10" shadowx="0" shadowy="0" shadowa="0">
+           	</a><font name="Malgun Gothic" size="10" shadowx="0" shadowy="0" shadowa="0">
 		에서 신호가 오면 팀이 즉시 행동에 나섭니다.
                </font></color>
             </cell>
