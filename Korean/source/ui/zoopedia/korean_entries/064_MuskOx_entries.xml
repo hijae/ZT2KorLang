@@ -1,0 +1,10 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000297" entry="zoopedia_muskox"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000511" entry="zoopedia_foliage">
+         <BFHelpEntry entry="zoopedia_diamondleafwillow" order="zoopedia_ko_000177"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

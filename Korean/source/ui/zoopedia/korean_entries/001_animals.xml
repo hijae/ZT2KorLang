@@ -1,0 +1,36 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000245" entry="zoopedia_tiger"/>
+         <BFHelpEntry order="zoopedia_ko_000411" entry="zoopedia_elephant"/>
+         <BFHelpEntry order="zoopedia_ko_000397" entry="zoopedia_beaver"/>
+         <BFHelpEntry order="zoopedia_ko_000018" entry="zoopedia_rhino"/>
+         <BFHelpEntry order="zoopedia_ko_000518" entry="zoopedia_cheetah"/>
+         <BFHelpEntry order="zoopedia_ko_000520" entry="zoopedia_chimp"/>
+         <BFHelpEntry order="zoopedia_ko_000053" entry="zoopedia_peafowl"/>
+         <BFHelpEntry order="zoopedia_ko_000424" entry="zoopedia_zebra"/>
+         <BFHelpEntry order="zoopedia_ko_000117" entry="zoopedia_camel"/>
+         <BFHelpEntry order="zoopedia_ko_000642" entry="zoopedia_penguin"/>
+         <BFHelpEntry order="zoopedia_ko_000023" entry="zoopedia_gemsbok"/>
+         <BFHelpEntry entry="zoopedia_panda" order="zoopedia_ko_000468"/>
+         <BFHelpEntry order="zoopedia_ko_000547" entry="zoopedia_flamingo"/>
+         <BFHelpEntry entry="zoopedia_grizzly" order="zoopedia_ko_000643"/>
+         <BFHelpEntry order="zoopedia_ko_000611" entry="zoopedia_hippo"/>
+         <BFHelpEntry order="zoopedia_ko_000479" entry="zoopedia_jaguar"/>
+         <BFHelpEntry order="zoopedia_ko_000291" entry="zoopedia_lion"/>
+         <BFHelpEntry order="zoopedia_ko_000182" entry="zoopedia_moose"/>
+         <BFHelpEntry order="zoopedia_ko_000180" entry="zoopedia_gorilla"/>
+         <BFHelpEntry order="zoopedia_ko_000098" entry="zoopedia_croc"/>
+         <BFHelpEntry order="zoopedia_ko_000444" entry="zoopedia_okapi"/>
+         <BFHelpEntry order="zoopedia_ko_000554" entry="zoopedia_ostrich"/>
+         <BFHelpEntry entry="zoopedia_polarbear" order="zoopedia_ko_000255"/>
+         <BFHelpEntry order="zoopedia_ko_000266" entry="zoopedia_kangaroo"/>
+         <BFHelpEntry entry="zoopedia_redpanda" order="zoopedia_ko_000267"/>
+         <BFHelpEntry order="zoopedia_ko_000070" entry="zoopedia_giraffe"/>
+         <BFHelpEntry order="zoopedia_ko_000632" entry="zoopedia_lemur"/>
+         <BFHelpEntry order="zoopedia_ko_000112" entry="zoopedia_leopard"/>
+         <BFHelpEntry order="zoopedia_ko_000569" entry="zoopedia_gazelle"/>
+         <BFHelpEntry order="zoopedia_ko_000399" entry="zoopedia_ibex"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

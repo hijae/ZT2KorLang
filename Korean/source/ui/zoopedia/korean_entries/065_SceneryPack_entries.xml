@@ -1,0 +1,14 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000450" entry="zoopedia_fences">
+         <BFHelpEntry order="zoopedia_ko_000247" entry="zoopedia_brickwindow"/>
+         <BFHelpEntry order="zoopedia_ko_000140" entry="zoopedia_stonewindow"/>
+         <BFHelpEntry order="zoopedia_ko_000486" entry="zoopedia_junglewindow"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000387" entry="zoopedia_scenery">
+         <BFHelpEntry order="zoopedia_ko_000326" entry="zoopedia_fountainsmall"/>
+         <BFHelpEntry order="zoopedia_ko_000211" entry="zoopedia_fountainsplash"/>
+         <BFHelpEntry entry="zoopedia_tortoisetrampoline" order="zoopedia_ko_000012"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

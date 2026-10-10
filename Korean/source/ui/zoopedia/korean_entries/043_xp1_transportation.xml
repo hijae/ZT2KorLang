@@ -1,0 +1,19 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000459" entry="zoopedia_transportation">
+         <BFHelpEntry entry="zoopedia_groundstation" order="zoopedia_ko_000500"/>
+         <BFHelpEntry order="zoopedia_ko_000173" entry="zoopedia_skystation"/>
+         <BFHelpEntry order="zoopedia_ko_000172" entry="zoopedia_skytrampole"/>
+         <BFHelpEntry entry="zoopedia_groundtrack" order="zoopedia_ko_000133"/>
+         <BFHelpEntry order="zoopedia_ko_000013" entry="zoopedia_crossinggate"/>
+         <BFHelpEntry entry="zoopedia_gondola" order="zoopedia_ko_000171"/>
+         <BFHelpEntry entry="zoopedia_gondolaupgrade" order="zoopedia_ko_000390"/>
+         <BFHelpEntry order="zoopedia_ko_000499" entry="zoopedia_groundvehicle"/>
+         <BFHelpEntry order="zoopedia_ko_000296" entry="zoopedia_groundvehicleupgrade"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000080" entry="zoopedia_paths">
+         <BFHelpEntry order="zoopedia_ko_000113" entry="zoopedia_elevatedpath"/>
+         <BFHelpEntry order="zoopedia_ko_000115" entry="zoopedia_elevatedpathrailing"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

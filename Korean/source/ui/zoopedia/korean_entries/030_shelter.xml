@@ -1,0 +1,21 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000152" entry="zoopedia_shelters">
+         <BFHelpEntry order="zoopedia_ko_000272" entry="zoopedia_beaverlodge"/>
+         <BFHelpEntry order="zoopedia_ko_000516" entry="zoopedia_cubbingden"/>
+         <BFHelpEntry order="zoopedia_ko_000533" entry="zoopedia_elephanthouse"/>
+         <BFHelpEntry order="zoopedia_ko_000090" entry="zoopedia_nestbox"/>
+         <BFHelpEntry order="zoopedia_ko_000077" entry="zoopedia_giraffehouse"/>
+         <BFHelpEntry order="zoopedia_ko_000249" entry="zoopedia_groundnest"/>
+         <BFHelpEntry entry="zoopedia_treestump" order="zoopedia_ko_000327"/>
+         <BFHelpEntry order="zoopedia_ko_000540" entry="zoopedia_concreteshelter"/>
+         <BFHelpEntry order="zoopedia_ko_000227" entry="zoopedia_rockcave"/>
+         <BFHelpEntry order="zoopedia_ko_000110" entry="zoopedia_snowyrockcave"/>
+         <BFHelpEntry order="zoopedia_ko_000176" entry="zoopedia_stable"/>
+         <BFHelpEntry order="zoopedia_ko_000091" entry="zoopedia_woodenshelter"/>
+         <BFHelpEntry order="zoopedia_ko_000231" entry="zoopedia_raisedsleepingplatform"/>
+         <BFHelpEntry order="zoopedia_ko_000067" entry="zoopedia_shadestructure"/>
+         <BFHelpEntry order="zoopedia_ko_000096" entry="zoopedia_sleepingbasket"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

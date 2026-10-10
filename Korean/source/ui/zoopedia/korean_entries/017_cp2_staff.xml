@@ -1,0 +1,11 @@
+﻿<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000502" entry="zoopedia_staff">
+			<BFHelpEntry order="zoopedia_ko_000052" entry="zoopedia_entertainer" />
+			<BFHelpEntry order="zoopedia_ko_000037" entry="zoopedia_paleontologist" />
+			<BFHelpEntry order="zoopedia_ko_000045" entry="zoopedia_drt_gun" />
+			<BFHelpEntry order="zoopedia_ko_000047" entry="zoopedia_drt_crate" />
+			<BFHelpEntry order="zoopedia_ko_000044" entry="zoopedia_drt_robot" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

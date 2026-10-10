@@ -66,8 +66,8 @@ class FontBuildTests(unittest.TestCase):
     def test_combined_archive_preserves_original_files_and_overrides(self):
         combined = dict(builder.merge_base_sources(self.verified, self.manifest))
         overlay = {n.casefold(): data for n, data in self.verified}
-        self.assertEqual(len(combined), 414)
-        self.assertEqual(len({n.casefold() for n in combined}), 414)
+        self.assertEqual(len(combined), 485)
+        self.assertEqual(len({n.casefold() for n in combined}), 485)
         for name, data in self.verified:
             self.assertEqual(combined[name], data)
         for record in self.manifest['base_files']:
@@ -97,6 +97,50 @@ class FontBuildTests(unittest.TestCase):
                          'Dino Danger Pack')
         text = ''.join(ET.fromstring(files['lang/1033/CP2_gameplay_entries.xml']).itertext())
         self.assertIn('위험한 공룡을 마취', text)
+
+    def test_font_scaling_and_existing_save_setting(self):
+        locale = ET.fromstring(dict(self.verified)['config/locale.xml'])
+        self.assertEqual(locale.get('MaxFontScalingResolution'), '20000')
+        self.assertEqual(locale.get('disableTextEditExtension'), 'true')
+
+    def test_toc_has_one_directory_and_consistent_download_nodes(self):
+        files = dict(self.verified)
+        config = ET.fromstring(files['ui/zoopedia/config.xml'])
+        self.assertEqual([n.get('name') for n in config.iter('dir')],
+                         ['ui/zoopedia/korean_entries'])
+        toc = [(n, b) for n, b in self.verified if '/korean_entries/' in n]
+        self.assertEqual(len(toc), 69)
+        orders = {}
+        for _, data in toc:
+            for node in ET.fromstring(data).iter('BFHelpEntry'):
+                entry = node.get('entry')
+                order = node.get('order', entry)
+                self.assertEqual(orders.setdefault(entry, order), order)
+        self.assertEqual(orders['zoopedia_home'], 'zoopedia_home')
+        self.assertEqual(len(orders), 668)
+        for entry in ('zoopedia_elephantasian', 'zoopedia_leopardblack',
+                      'zoopedia_muskox'):
+            self.assertTrue(orders[entry].startswith('zoopedia_ko_'))
+
+    def test_heading_breaks_title_position_and_tooltip_terms(self):
+        files = dict(self.verified)
+        headings = []
+        for name, data in self.verified:
+            if not name.startswith('lang/'):
+                continue
+            for font in ET.fromstring(data).iter('font'):
+                br = font.find('br')
+                if br is not None and br.tail == '재밌는 사실':
+                    self.assertTrue(font.text.endswith('에 대한'))
+                    headings.append(font.text)
+        self.assertEqual(len(headings), 177)
+        self.assertIn('흰코뿔소에 대한', headings)
+        self.assertNotIn('동물원 백과사전', files['lang/1033/aa_ui.xml'].decode('utf-8'))
+        layout = ET.fromstring(files['ui/layout/zoopedia.xml'])
+        label = next(n for n in layout.iter('UIText')
+                     if n.get('name') == 'zoopedia_label')
+        self.assertEqual(label.find('UIRegion').get('y'), '16')
+        self.assertEqual(label.find('./UIAspect/default/BFFont').get('align'), 'center')
 
 
 class ManifestRejectionTests(unittest.TestCase):

@@ -1,0 +1,8 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000152" entry="zoopedia_shelters">
+         <BFHelpEntry order="zoopedia_ko_000513" entry="zoopedia_burrow_grassland"/>
+         <BFHelpEntry entry="zoopedia_largeextinctshelter_shelter" order="zoopedia_ko_000230"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

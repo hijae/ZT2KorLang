@@ -17,17 +17,17 @@ import zipfile
 
 PACKAGE = Path(__file__).resolve().parent
 REPOSITORY = PACKAGE.parent
-RELEASE_DATE = "2026-10-08"
+RELEASE_DATE = "2026-10-10"
 OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + ".z2f"
 PRETENDARD_OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + "-Pretendard.z2f"
 FONT_FAMILIES = {"system": "Gulim", "pretendard": "Pretendard"}
-EXPECTED_FILES = 359
+EXPECTED_FILES = 431
 EXPECTED_LANGUAGE_FILES = 332
-EXPECTED_UI_FILES = 26
-EXPECTED_CONFIG_FILES = 1
+EXPECTED_UI_FILES = 97
+EXPECTED_CONFIG_FILES = 2
 EXPECTED_BASE_FILES = 364
-EXPECTED_ARCHIVE_FILES = 414
-FIXED_TIMESTAMP = (2026, 10, 7, 12, 0, 0)
+EXPECTED_ARCHIVE_FILES = 485
+FIXED_TIMESTAMP = (2026, 10, 10, 0, 0, 0)
 TOKEN_PATTERN = re.compile(
     r"%[A-Za-z_][A-Za-z0-9_]*%|%(?:\d+\$)?[-+#0]*\d*(?:\.\d+)?[sdifugx]|\{\d+\}"
 )
@@ -96,7 +96,7 @@ def validate_path(name):
     if path.suffix != ".xml":
         raise ValueError("XML 파일만 허용합니다: " + name)
     if not (name.startswith("lang/1033/") or path.parts[0].lower() == "ui"
-            or name == "config/imeui.xml"):
+            or name in ("config/imeui.xml", "config/locale.xml")):
         raise ValueError("언어/UI 폴더와 지정된 IME 글꼴 XML만 허용합니다: " + name)
     return path
 
@@ -107,7 +107,7 @@ def validate_sources():
         raise ValueError("지원하지 않는 매니페스트입니다.")
     records = manifest.get("files", [])
     if len(records) != EXPECTED_FILES:
-        raise ValueError("검증 대상은 정확히 359개 XML이어야 합니다.")
+        raise ValueError("검증 대상은 정확히 431개 XML이어야 합니다.")
     names = [record["path"] for record in records]
     source_names = [record.get("source_path", record["path"]) for record in records]
     if len(set(names)) != len(names) or len(set(name.casefold() for name in names)) != len(names):
@@ -118,10 +118,10 @@ def validate_sources():
         validate_path(name)
     language_count = sum(name.startswith("lang/1033/") for name in names)
     ui_count = sum(PurePosixPath(name).parts[0].lower() == "ui" for name in names)
-    config_count = sum(name == "config/imeui.xml" for name in names)
+    config_count = sum(name.startswith("config/") for name in names)
     if (language_count != EXPECTED_LANGUAGE_FILES or ui_count != EXPECTED_UI_FILES
             or config_count != EXPECTED_CONFIG_FILES):
-        raise ValueError("언어 XML 332개, UI XML 26개와 IME XML 1개가 필요합니다.")
+        raise ValueError("언어 XML 332개, UI XML 97개와 설정 XML 2개가 필요합니다.")
     if (manifest.get("language_xml_files") != language_count
             or manifest.get("ui_xml_files") != ui_count
             or manifest.get("config_xml_files") != config_count
@@ -217,7 +217,7 @@ def merge_base_sources(verified, manifest):
     for name, data in verified:
         merged[name.casefold()] = (name, data)
     if len(merged) != EXPECTED_ARCHIVE_FILES:
-        raise ValueError('통합 배포에는 XML 414개가 필요합니다.')
+        raise ValueError('통합 배포에는 XML 485개가 필요합니다.')
     return sorted(merged.values())
 
 

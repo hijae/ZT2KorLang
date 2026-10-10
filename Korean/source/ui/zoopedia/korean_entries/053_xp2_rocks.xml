@@ -1,0 +1,9 @@
+﻿<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000225" entry="zoopedia_rocks">
+			<BFHelpEntry order="zoopedia_ko_000622" entry="zoopedia_benthicrocks" />
+			<BFHelpEntry order="zoopedia_ko_000435" entry="zoopedia_coastalrocks" />
+			<BFHelpEntry order="zoopedia_ko_000419" entry="zoopedia_reefrocks" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

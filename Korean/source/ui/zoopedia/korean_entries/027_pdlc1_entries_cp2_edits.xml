@@ -1,0 +1,10 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000357" entry="zoopedia_super_styracosaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000365" entry="zoopedia_super_carnotaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000370" entry="zoopedia_super_triceratops" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000371" entry="zoopedia_super_tyrannosaurusrex" hidden="true"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

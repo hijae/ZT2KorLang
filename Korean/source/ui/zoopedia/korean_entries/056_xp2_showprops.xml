@@ -1,0 +1,20 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000049" entry="zoopedia_showprops">
+         <BFHelpEntry entry="zoopedia_basketballhoop_mm" order="zoopedia_ko_000123"/>
+         <BFHelpEntry entry="zoopedia_basketballhoop_small_mm" order="zoopedia_ko_000325"/>
+         <BFHelpEntry order="zoopedia_ko_000645" entry="zoopedia_hoop_mm"/>
+         <BFHelpEntry order="zoopedia_ko_000100" entry="zoopedia_horns_mm"/>
+         <BFHelpEntry entry="zoopedia_largeball" order="zoopedia_ko_000544"/>
+         <BFHelpEntry entry="zoopedia_smallball" order="zoopedia_ko_000472"/>
+         <BFHelpEntry entry="zoopedia_pileofrocks" order="zoopedia_ko_000226"/>
+         <BFHelpEntry entry="zoopedia_sealslide" order="zoopedia_ko_000213"/>
+         <BFHelpEntry entry="zoopedia_sealseat" order="zoopedia_ko_000118"/>
+         <BFHelpEntry entry="zoopedia_sealswing" order="zoopedia_ko_000065"/>
+         <BFHelpEntry order="zoopedia_ko_000651" entry="zoopedia_shakertoy"/>
+         <BFHelpEntry order="zoopedia_ko_000558" entry="zoopedia_tetherball_mm"/>
+         <BFHelpEntry order="zoopedia_ko_000580" entry="zoopedia_trampoline"/>
+         <BFHelpEntry entry="zoopedia_slidingplatform" order="zoopedia_ko_000582"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

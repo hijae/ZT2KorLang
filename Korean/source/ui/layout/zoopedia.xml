@@ -1,0 +1,345 @@
+<UILayout name="zoopedia layout">
+   <UIState active="normal" visible="normal"/>
+   <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len"/>
+   <UIAspect>
+      <default/>
+   </UIAspect>
+   <children>
+      <ZTZoopediaComponent name="ztzoopedia" modal="true">
+         <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len"/>
+         <UIState active="normal" visible="hidden"/>
+         <UIAspect>
+            <default>
+               <BFColor r="153" g="204" b="153" a="128"/>
+            </default>
+         </UIAspect>
+         <UIHotKeys>
+            <file name="UI/hotkeys/hotkeys.xml" node="escreturn"/>
+         </UIHotKeys>
+         <show>
+            <event msg="UI_SEND_NAMED_EVENTS" data="BFString" string="pause"/>
+         </show>
+         <hide>
+            <event msg="UI_SEND_NAMED_EVENTS" data="BFString" string="unpause"/>
+         </hide>
+         <children>
+            <UILayout name="zoopedia background">
+               <UIRegion x="0" y="0" w="1024" h="768" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="normal" visible="normal"/>
+               <UIAspect>
+                  <default/>
+               </UIAspect>
+               <children>
+                  <UIStatic name="background image">
+                     <UIRegion x="0" y="0" w="512" h="512" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_A_512.dds">
+                           <BFRect x="0" y="0" w="512" h="512"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="background image2">
+                     <UIRegion x="512" y="0" w="512" h="512" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_B_512.dds">
+                           <BFRect x="0" y="0" w="512" h="512"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="background image3">
+                     <UIRegion x="0" y="512" w="256" h="256" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_C_256.dds">
+                           <BFRect x="0" y="0" w="256" h="256"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="background image4">
+                     <UIRegion x="256" y="512" w="256" h="256" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_D_256.dds">
+                           <BFRect x="0" y="0" w="256" h="256"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="background image5">
+                     <UIRegion x="512" y="512" w="256" h="256" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_E_256.dds">
+                           <BFRect x="0" y="0" w="256" h="256"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIStatic name="background image6">
+                     <UIRegion x="768" y="512" w="256" h="256" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect>
+                        <default image="ui\zoopedia\back_F_256.dds">
+                           <BFRect x="0" y="0" w="256" h="256"/>
+                           <BFColor r="255" g="255" b="255" a="255"/>
+                        </default>
+                     </UIAspect>
+                  </UIStatic>
+                  <UIText name="zoopedia_label">
+                     <UIRegion x="12" y="16" w="272" h="25" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect locid="zoopedia_label:label">
+                        <default>
+                           <BFFont align="center"/>
+                        </default>
+                     </UIAspect>
+                  </UIText>
+               </children>
+            </UILayout>
+            <UIListBox name="text" template="listbox" rows="-1">
+               <UIRegion x="18" y="48" w="986" h="670" xalign="min" yalign="min" walign="len" halign="len"/>
+               <children>
+                  <UIText name="entry name">
+                     <UIRegion x="325" y="75" w="615" h="40" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect locid="">
+                        <default>
+                           <BFFont align="left">
+                              <BFColor r="255" g="255" b="255" a="255"/>
+                           </BFFont>
+                        </default>
+                     </UIAspect>
+                     <text format="text_format:zoopedia_entity_label"/>
+                  </UIText>
+                  <UIText name="entry text page 1" autosize="true">
+                     <UIRegion x="40" y="0" w="900" h="100" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <UIState active="normal" visible="normal"/>
+                     <UIAspect locid="">
+                        <default>
+                           <BFFont align="left"/>
+                        </default>
+                     </UIAspect>
+                     <text format="text_format:body_text" type="multi"/>
+                  </UIText>
+               </children>
+            </UIListBox>
+            <ZTZoopediaTOC name="TOC" template="panel">
+               <UIRegion x="12" y="122" w="260" h="598" xalign="min" yalign="min" walign="len" halign="len"/>
+               <entry>
+                  <UITreeElement rows="-1">
+                     <UIRegion x="8" y="0" w="220" h="0" xalign="min" yalign="min" walign="len" halign="len"/>
+                     <children>
+                        <UILayout name="heading">
+                           <UIRegion x="0" y="0" w="200" h="12" xalign="min" yalign="min" walign="len" halign="len"/>
+                           <children>
+                              <UIToggleButton name="expander" toggle="1">
+                                 <UIState active="disabled" visible="normal"/>
+                                 <UIRegion x="0" y="-6" w="12" h="12" xalign="min" yalign="mid" walign="len" halign="len"/>
+                                 <UIAspect alwayshit="true">
+                                    <standard>
+                                       <normal image="ui/tool/close.tga">
+                                          <BFRect x="0" y="0" w="16" h="16"/>
+                                       </normal>
+                                       <highlighted image="ui/tool/close.tga">
+                                          <BFRect x="16" y="0" w="16" h="16"/>
+                                       </highlighted>
+                                       <activated image="ui/tool/close.tga">
+                                          <BFRect x="0" y="16" w="16" h="16"/>
+                                       </activated>
+                                       <disabled image="ui/shared/white1x1.dds">
+                                          <BFColor r="0" g="0" b="0" a="0"/>
+                                       </disabled>
+                                    </standard>
+                                    <alternate>
+                                       <normal image="ui/tool/open.tga">
+                                          <BFRect x="0" y="0" w="16" h="16"/>
+                                       </normal>
+                                       <highlighted image="ui/tool/open.tga">
+                                          <BFRect x="16" y="0" w="16" h="16"/>
+                                       </highlighted>
+                                       <activated image="ui/tool/open.tga">
+                                          <BFRect x="0" y="16" w="16" h="16"/>
+                                       </activated>
+                                       <disabled image="ui/shared/white1x1.dds">
+                                          <BFColor r="0" g="0" b="0" a="0"/>
+                                       </disabled>
+                                    </alternate>
+                                 </UIAspect>
+                                 <on>
+                                    <event msg="UI_EXPAND"/>
+                                 </on>
+                                 <off>
+                                    <event msg="UI_COLLAPSE"/>
+                                 </off>
+                              </UIToggleButton>
+                              <UIButton name="action" autosize="true">
+                                 <UIRegion x="18" y="0" w="180" h="30" xalign="min" yalign="min" walign="len" halign="len"/>
+                                 <UIAspect>
+                                    <standard>
+                                       <normal>
+                                          <BFFont>
+                                             <BFColor r="255" g="197" b="78" a="255"/>
+                                          </BFFont>
+                                       </normal>
+                                       <highlighted>
+                                          <BFFont>
+                                             <BFColor r="255" g="255" b="201" a="255"/>
+                                          </BFFont>
+                                       </highlighted>
+                                    </standard>
+                                 </UIAspect>
+                                 <text type="multi" format="zoopedia_toc:format"/>
+                              </UIButton>
+                           </children>
+                        </UILayout>
+                     </children>
+                  </UITreeElement>
+               </entry>
+            </ZTZoopediaTOC>
+            <UIButton name="back">
+               <UIRegion x="65" y="46" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="disabled" visible="normal"/>
+               <UIHelpInfo name="" short="" long="" help="" ids="zoopedia:prev_topic_button"/>
+               <UIAspect string="">
+                  <default image="ui\zoopedia\backButton.dds" sound="">
+                     <BFRect x="0" y="0" w="64" h="64"/>
+                  </default>
+                  <standard>
+                     <normal>
+                        <BFRect x="0" y="0" w="64" h="64"/>
+                     </normal>
+                     <highlighted>
+                        <BFRect x="0" y="64" w="64" h="64"/>
+                     </highlighted>
+                     <activated sound="album_prev_page">
+                        <BFRect x="64" y="0" w="64" h="64"/>
+                     </activated>
+                     <disabled>
+                        <BFRect x="64" y="64" w="64" h="64"/>
+                     </disabled>
+                  </standard>
+               </UIAspect>
+               <activate>
+                  <event msg="ZT_ZOOPEDIA_BACK"/>
+               </activate>
+            </UIButton>
+            <UIButton name="forward">
+               <UIRegion x="172" y="46" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="disabled" visible="normal"/>
+               <UIHelpInfo name="" short="" long="" help="" ids="zoopedia:next_topic_button"/>
+               <UIAspect string="">
+                  <default image="ui\zoopedia\forwardButton.dds" sound="">
+                     <BFRect x="0" y="0" w="64" h="64"/>
+                  </default>
+                  <standard>
+                     <normal>
+                        <BFRect x="0" y="0" w="64" h="64"/>
+                     </normal>
+                     <highlighted>
+                        <BFRect x="0" y="64" w="64" h="64"/>
+                     </highlighted>
+                     <activated sound="album_prev_page">
+                        <BFRect x="64" y="0" w="64" h="64"/>
+                     </activated>
+                     <disabled>
+                        <BFRect x="64" y="64" w="64" h="64"/>
+                     </disabled>
+                  </standard>
+               </UIAspect>
+               <activate>
+                  <event msg="ZT_ZOOPEDIA_FORWARD"/>
+               </activate>
+            </UIButton>
+            <UIButton name="help home">
+               <UIRegion x="115" y="42" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="normal" visible="normal"/>
+               <UIHelpInfo name="" short="" long="" help="" ids="zoopedia:toc_button"/>
+               <UIAspect string="">
+                  <default image="ui\zoopedia\homeButton.dds" sound="">
+                     <BFRect x="0" y="0" w="64" h="64"/>
+                     <BFColor r="255" g="255" b="255" a="255"/>
+                  </default>
+                  <standard>
+                     <normal>
+                        <BFRect x="0" y="0" w="64" h="64"/>
+                     </normal>
+                     <highlighted>
+                        <BFRect x="0" y="64" w="64" h="64"/>
+                     </highlighted>
+                     <activated sound="album_next_page">
+                        <BFRect x="64" y="0" w="64" h="64"/>
+                     </activated>
+                     <disabled>
+                        <BFRect x="64" y="64" w="56" h="56"/>
+                     </disabled>
+                  </standard>
+               </UIAspect>
+               <activate>
+                  <event msg="UI_HYPERLINK" data="BFString" string="zoopedia:zoopedia_home:entry"/>
+               </activate>
+               <UIHotKeys/>
+            </UIButton>
+            <UIButton name="return">
+               <UIRegion x="940" y="3" w="64" h="64" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="normal" visible="normal"/>
+               <UIHelpInfo name="" short="" long="" help="" ids="zoopedia:exit_button"/>
+               <UIAspect string="">
+                  <default image="ui\zoopedia\closeButton.dds" sound="">
+                     <BFRect x="0" y="0" w="64" h="64"/>
+                     <BFColor r="255" g="255" b="255" a="255"/>
+                  </default>
+                  <standard>
+                     <normal>
+                        <BFRect x="0" y="0" w="64" h="64"/>
+                     </normal>
+                     <highlighted>
+                        <BFRect x="0" y="64" w="64" h="64"/>
+                     </highlighted>
+                     <activated sound="album_next_page">
+                        <BFRect x="64" y="0" w="64" h="64"/>
+                     </activated>
+                     <disabled>
+                        <BFRect x="64" y="64" w="64" h="64"/>
+                     </disabled>
+                  </standard>
+               </UIAspect>
+               <UIHotKeys/>
+               <activate>
+                  <event msg="UI_CHILD" data="UIChildData" name="ztzoopedia">
+                     <child msg="UI_HIDE"/>
+                  </event>
+               </activate>
+            </UIButton>
+            <UIText name="entry prev name">
+               <UIRegion x="23" y="747" w="260" h="25" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="normal" visible="normal"/>
+               <UIAspect locid="">
+                  <default>
+                     <BFFont align="left">
+                        <BFColor r="255" g="255" b="255" a="255"/>
+                     </BFFont>
+                  </default>
+               </UIAspect>
+               <text format="text_format:zoopedia_secondary_label"/>
+            </UIText>
+            <UIText name="entry next name">
+               <UIRegion x="750" y="747" w="260" h="25" xalign="min" yalign="min" walign="len" halign="len"/>
+               <UIState active="normal" visible="normal"/>
+               <UIAspect locid="">
+                  <default>
+                     <BFFont align="right">
+                        <BFColor r="255" g="255" b="255" a="255"/>
+                     </BFFont>
+                  </default>
+               </UIAspect>
+               <text format="text_format:zoopedia_secondary_label"/>
+            </UIText>
+         </children>
+      </ZTZoopediaComponent>
+   </children>
+</UILayout>
