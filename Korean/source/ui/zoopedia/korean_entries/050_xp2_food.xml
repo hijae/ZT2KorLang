@@ -1,0 +1,12 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000187" entry="zoopedia_food">
+         <BFHelpEntry order="zoopedia_ko_000217" entry="zoopedia_chum"/>
+         <BFHelpEntry order="zoopedia_ko_000629" entry="zoopedia_jellyfish"/>
+         <BFHelpEntry order="zoopedia_ko_000628" entry="zoopedia_seaweed"/>
+         <BFHelpEntry order="zoopedia_ko_000489" entry="zoopedia_shellfish"/>
+         <BFHelpEntry order="zoopedia_ko_000443" entry="zoopedia_squid"/>
+         <BFHelpEntry entry="zoopedia_plankton" order="zoopedia_ko_000147"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

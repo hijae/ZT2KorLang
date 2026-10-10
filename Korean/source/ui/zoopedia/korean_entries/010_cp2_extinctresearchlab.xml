@@ -1,0 +1,10 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_cloningcenter" order="zoopedia_ko_000198">
+         <BFHelpEntry entry="zoopedia_cloning" order="zoopedia_ko_000197" version="9"/>
+         <BFHelpEntry order="zoopedia_ko_000504" entry="zoopedia_diseaseresearch" version="9"/>
+         <BFHelpEntry entry="zoopedia_fossilfinding" order="zoopedia_ko_000639" version="9"/>
+         <BFHelpEntry entry="zoopedia_fossilbuilding" order="zoopedia_ko_000638" version="9"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

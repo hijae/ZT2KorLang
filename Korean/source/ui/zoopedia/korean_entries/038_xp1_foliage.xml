@@ -1,0 +1,29 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000511" entry="zoopedia_foliage">
+         <BFHelpEntry entry="zoopedia_alpineseaholly" order="zoopedia_ko_000393"/>
+         <BFHelpEntry entry="zoopedia_bigbluestem" order="zoopedia_ko_000546"/>
+         <BFHelpEntry entry="zoopedia_evergreenoak" order="zoopedia_ko_000304"/>
+         <BFHelpEntry entry="zoopedia_giantsequoia" order="zoopedia_ko_000467"/>
+         <BFHelpEntry entry="zoopedia_joshuatree" order="zoopedia_ko_000492"/>
+         <BFHelpEntry entry="zoopedia_ladyfern" order="zoopedia_ko_000168"/>
+         <BFHelpEntry entry="zoopedia_pinkladyslipper" order="zoopedia_ko_000263"/>
+         <BFHelpEntry entry="zoopedia_puyaplant" order="zoopedia_ko_000600"/>
+         <BFHelpEntry entry="zoopedia_buroak" order="zoopedia_ko_000005"/>
+         <BFHelpEntry entry="zoopedia_feathertopwiregrass" order="zoopedia_ko_000593"/>
+         <BFHelpEntry entry="zoopedia_goldenbarrelcactus" order="zoopedia_ko_000072"/>
+         <BFHelpEntry entry="zoopedia_redoatgrass" order="zoopedia_ko_000328"/>
+         <BFHelpEntry entry="zoopedia_shepardstree" order="zoopedia_ko_000320"/>
+         <BFHelpEntry entry="zoopedia_yellowipetree" order="zoopedia_ko_000440"/>
+         <BFHelpEntry entry="zoopedia_ladyfern" order="zoopedia_ko_000168"/>
+         <BFHelpEntry entry="zoopedia_pricklypearcactus" order="zoopedia_ko_000606"/>
+         <BFHelpEntry entry="zoopedia_scythianlamb" order="zoopedia_ko_000377"/>
+         <BFHelpEntry entry="zoopedia_duriantree" order="zoopedia_ko_000157"/>
+         <BFHelpEntry entry="zoopedia_lingonberry" order="zoopedia_ko_000175"/>
+         <BFHelpEntry entry="zoopedia_greenpitcherplant" order="zoopedia_ko_000108"/>
+         <BFHelpEntry entry="zoopedia_labradortea" order="zoopedia_ko_000165"/>
+         <BFHelpEntry entry="zoopedia_sydneybluegum" order="zoopedia_ko_000385"/>
+         <BFHelpEntry entry="zoopedia_perepattree" order="zoopedia_ko_000594"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

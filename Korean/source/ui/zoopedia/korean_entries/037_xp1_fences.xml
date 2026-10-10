@@ -1,0 +1,11 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000450" entry="zoopedia_fences">
+         <BFHelpEntry order="zoopedia_ko_000202" entry="zoopedia_endangeredanimalsfence"/>
+         <BFHelpEntry order="zoopedia_ko_000252" entry="zoopedia_conservationfences"/>
+         <BFHelpEntry entry="zoopedia_vehiclegate" order="zoopedia_ko_000505"/>
+         <BFHelpEntry entry="zoopedia_vehiclegate_reward" order="zoopedia_ko_000478"/>
+         <BFHelpEntry order="zoopedia_ko_000477" entry="zoopedia_wroughtiron"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

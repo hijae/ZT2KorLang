@@ -1,0 +1,30 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000475" entry="zoopedia_animalenrichment">
+         <BFHelpEntry order="zoopedia_ko_000277" entry="zoopedia_apple"/>
+         <BFHelpEntry order="zoopedia_ko_000471" entry="zoopedia_ball"/>
+         <BFHelpEntry order="zoopedia_ko_000236" entry="zoopedia_ballwithrattle"/>
+         <BFHelpEntry order="zoopedia_ko_000474" entry="zoopedia_beddingmaterial"/>
+         <BFHelpEntry order="zoopedia_ko_000030" entry="zoopedia_beefshank"/>
+         <BFHelpEntry order="zoopedia_ko_000274" entry="zoopedia_bone"/>
+         <BFHelpEntry order="zoopedia_ko_000552" entry="zoopedia_cartire"/>
+         <BFHelpEntry order="zoopedia_ko_000120" entry="zoopedia_carrot"/>
+         <BFHelpEntry order="zoopedia_ko_000069" entry="zoopedia_easel"/>
+         <BFHelpEntry order="zoopedia_ko_000208" entry="zoopedia_fig"/>
+         <BFHelpEntry order="zoopedia_ko_000103" entry="zoopedia_heatedrock"/>
+         <BFHelpEntry order="zoopedia_ko_000427" entry="zoopedia_iceblock"/>
+         <BFHelpEntry order="zoopedia_ko_000124" entry="zoopedia_icefloatlrg"/>
+         <BFHelpEntry order="zoopedia_ko_000426" entry="zoopedia_icefloatmed"/>
+         <BFHelpEntry order="zoopedia_ko_000183" entry="zoopedia_lookoutpost"/>
+         <BFHelpEntry order="zoopedia_ko_000163" entry="zoopedia_peanutfeeder"/>
+         <BFHelpEntry entry="zoopedia_pileofleaves" order="zoopedia_ko_000097"/>
+         <BFHelpEntry order="zoopedia_ko_000608" entry="zoopedia_plasticbarrel"/>
+         <BFHelpEntry order="zoopedia_ko_000543" entry="zoopedia_pursuitball"/>
+         <BFHelpEntry order="zoopedia_ko_000033" entry="zoopedia_rubbertoy"/>
+         <BFHelpEntry order="zoopedia_ko_000526" entry="zoopedia_scratchingpost"/>
+         <BFHelpEntry order="zoopedia_ko_000063" entry="zoopedia_monkeybars"/>
+         <BFHelpEntry entry="zoopedia_stickpile" order="zoopedia_ko_000095"/>
+         <BFHelpEntry order="zoopedia_ko_000425" entry="zoopedia_polewithiceblock"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

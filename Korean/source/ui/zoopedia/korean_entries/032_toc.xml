@@ -1,0 +1,9 @@
+<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000502" entry="zoopedia_staff">
+			<BFHelpEntry order="zoopedia_ko_000415" entry="zoopedia_animaleducator" />
+			<BFHelpEntry order="zoopedia_ko_000058" entry="zoopedia_maintworker" />
+			<BFHelpEntry order="zoopedia_ko_000289" entry="zoopedia_zookeeper" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

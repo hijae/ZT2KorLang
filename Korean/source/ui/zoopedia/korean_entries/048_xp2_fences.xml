@@ -1,0 +1,9 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000450" entry="zoopedia_fences">
+         <BFHelpEntry order="zoopedia_ko_000618" entry="zoopedia_marinefence"/>
+         <BFHelpEntry order="zoopedia_ko_000619" entry="zoopedia_marinewindowfence"/>
+         <BFHelpEntry order="zoopedia_ko_000616" entry="zoopedia_showfence"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

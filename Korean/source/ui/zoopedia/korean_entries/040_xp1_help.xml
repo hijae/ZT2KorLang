@@ -1,0 +1,12 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_welcome" order="zoopedia_ko_000001">
+         <BFHelpEntry order="zoopedia_ko_000251" entry="zoopedia_conservationarea"/>
+         <BFHelpEntry order="zoopedia_ko_000597" entry="zoopedia_rewardobjects"/>
+         <BFHelpEntry order="zoopedia_ko_000501" entry="zoopedia_layingdownroads"/>
+         <BFHelpEntry order="zoopedia_ko_000174" entry="zoopedia_layingdownskytramcable"/>
+         <BFHelpEntry order="zoopedia_ko_000114" entry="zoopedia_creatingelevatedpaths"/>
+         <BFHelpEntry order="zoopedia_ko_000575" entry="zoopedia_tours"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

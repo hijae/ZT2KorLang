@@ -1,163 +1,51 @@
 {
   "schema_version": 1,
-  "version": "2026-10-08",
-  "status": "passed_static_and_offscreen_gdi_validation",
-  "reviewed_candidate_sha256": "7de0f7fea8370d8ebb136b7b8138fe937a4aa9551b2f675c1e51875069ff768f",
-  "builds": {
-    "ZZZZZZKorlang2026-10-08.z2f": "7de0f7fea8370d8ebb136b7b8138fe937a4aa9551b2f675c1e51875069ff768f",
-    "ZZZZZZKorlang2026-10-08-Pretendard.z2f": "080098da68b02dc086de4364ecb0f1c6fabd39fcc228c4db6874bb1f3b5713bc"
+  "version": "2026-10-10",
+  "status": "passed_static_validation_runtime_partially_confirmed",
+  "artifacts": {
+    "ZZZZZZKorlang2026-10-10.z2f": "cc88c5693eda81471d5ab433f4b68de71e7495056200d6bd4ef3768b4fdd869f",
+    "ZZZZZZKorlang2026-10-10-Pretendard.z2f": "feeb1c2dd86b04cce5b7cf21a70972b7a4468cd6dea78661d6b729de1e8690de"
   },
-  "total_xml_files": 359,
+  "total_xml_files": 431,
   "language_xml_files": 332,
-  "ui_xml_files": 26,
-  "config_xml_files": 1,
+  "ui_xml_files": 97,
+  "config_xml_files": 2,
+  "archive_files": 485,
   "loc_string_count": 17141,
   "default_font": "Gulim",
   "optional_font": "Pretendard",
-  "font_reference_count": 8951,
-  "maintainer_requested_changes": {
-    "no_pretendard_dependency_in_default_xml": true,
-    "existing_font_coverage_files_added": 45,
-    "product_name_corrected_text_fields": 71,
-    "base_lang_and_config_unchanged": true,
-    "existing_unofficial_prose_changed": false,
-    "original_gulim_default_restored": true,
-    "default_font_updated_source_files": 202,
-    "default_font_updated_attributes": 8951
+  "changes": {
+    "font_scaling_resolution": 20000,
+    "tooltip_terms_corrected": 8,
+    "toc_files": 69,
+    "official_download_toc_files": 9,
+    "unique_toc_entry_ids": 668,
+    "fact_headings_with_name_and_explicit_line_break": 177,
+    "zoopedia_title_region": {
+      "x": 12,
+      "y": 16,
+      "width": 272,
+      "align": "center"
+    }
   },
   "static_validation": {
-    "xml_crc_manifest": "passed",
+    "unit_tests_passed": 16,
     "two_variants_differ_only_in_font_attributes": true,
-    "baseline_ids_tokens_references_preserved": true,
-    "existing_unofficial_layout_text_style_preserved": true,
-    "unit_tests_passed": 13,
-    "negative_builder_checks": [
-      "invalid_xml",
-      "unregistered_file",
-      "path_traversal",
-      "id",
-      "format_token",
-      "reference",
-      "original_xml_hash"
-    ],
     "repeat_build_byte_identical": true,
-    "default_font_only_change_from_previous_submission": true,
-    "optional_reviewed_xml_byte_identical_to_previous_submission": true,
-    "original_base_files_git_index_hashes_verified": 364,
-    "base_merged_archive_crc_and_contents": "passed"
-  },
-  "offscreen_font_validation": {
-    "api": "Windows GDI",
-    "scope": "not a game or clean-PC test",
-    "character_set": "Hangul syllables and ASCII used in XML text",
-    "characters": 1351,
-    "weights": [
-      400,
-      700
-    ],
-    "default_selected_family": "굴림",
-    "optional_selected_family": "Pretendard",
-    "missing_glyphs": 0,
-    "missing_font_control_selected_family": "굴림",
-    "system_fonts_modified": false
+    "archive_crc_and_bytes": "passed",
+    "existing_base_xml_preserved": true
   },
   "runtime_validation": {
-    "current_candidate_tested": false,
-    "clean_pc_without_pretendard_tested": false,
-    "not_tested": [
-      "In-game original/unofficial page font equality",
-      "All page wrapping and scrolling",
-      "All gameplay and campaign objectives",
-      "Save/load on this candidate"
-    ]
+    "pretendard_scaling_fix": "user_confirmed_sharp",
+    "toc_single_tree_and_horizontal_title_centering": "user_screenshot_confirmed",
+    "vertical_centering_and_two_line_headings": "installed_and_statically_checked; final screenshot not supplied",
+    "gulim_variant": "same XML changes; final rendering not separately confirmed"
   },
-  "previous_revision": {
-    "sha256": "a25c2953174225b7dd00ffb4f8850e101fd40c07f2bfe28255a4b26108431171",
-    "total_xml_files": 314,
-    "loc_string_count": 15449,
-    "runtime_tested": false,
-    "source_comparison": {
-      "leaf_records": 15875,
-      "ui_and_story_pairs": 7909,
-      "encyclopedia_pairs": 2041,
-      "entity_long_tooltips": 1220,
-      "entity_canonical_names": 1231,
-      "credits_legal_pairs": 683,
-      "names_domain_records": 360,
-      "notes": [
-        "Entity short variants checked against canonical names and duplicate-source groups.",
-        "Personal name pools checked for labels, structure, and nonempty localized members; every invented name was not literally retranslated.",
-        "Source-era population/status statements retained unless a documented source error was corrected."
-      ]
-    }
-  },
-  "download_packs": [
-    {
-      "name": "LeopardAndDummy.z2f",
-      "language_files": [
-        "lang/1033/LeopardBlack_strings.xml",
-        "lang/1033/StuffedPrey_strings.xml"
-      ]
-    },
-    {
-      "name": "HolidayPack.z2f",
-      "language_files": [
-        "lang/1033/HolidayPack_strings.xml"
-      ]
-    },
-    {
-      "name": "TundraAndMuskOx.z2f",
-      "language_files": [
-        "lang/1033/TundraTheme_strings.xml",
-        "lang/1033/MuskOx_strings.xml"
-      ]
-    },
-    {
-      "name": "ChallengePack1.z2f",
-      "language_files": [
-        "lang/1033/challengepack1_text.xml"
-      ]
-    },
-    {
-      "name": "SceneryPack.z2f",
-      "language_files": [
-        "lang/1033/SceneryPack_strings.xml"
-      ]
-    },
-    {
-      "name": "ElephantAsian_050505.z2f",
-      "language_files": [
-        "lang/1033/ElephantAsian_strings.xml"
-      ]
-    },
-    {
-      "name": "BeautificationPack_061305.z2f",
-      "language_files": [
-        "lang/1033/BeautificationPack_strings.xml"
-      ]
-    },
-    {
-      "name": "GuestPack.z2f",
-      "language_files": [
-        "lang/1033/GuestPack_strings.xml"
-      ]
-    },
-    {
-      "name": "PDLC1_2.z2f",
-      "language_files": []
-    }
+  "limitations": [
+    "Custom mod Zoopedia TOC additions outside the bundled 69 entry files are not automatically included.",
+    "Inherited malformed lang/1033/aa_entity_foliage_rr.xml is unchanged.",
+    "No executable, DLL, TTF, save files, or private settings are distributed.",
+    "No claim of all pages, campaigns, save/load, or separate-PC runtime validation."
   ],
-  "known_limits": [
-    "Executable hard-coded font names are not modified.",
-    "External UI mods can override XML files and require a separate color/layout compatibility patch.",
-    "The 45 existing font-coverage files retain their original untranslated text.",
-    "Two pre-existing invalid XML files remain in the untouched original lang tree; one (lang/1033/aa_entity_foliage_rr.xml) is retained without repair in the combined archive."
-  ],
-  "distribution": [
-    "Combined original and reviewed XML, documentation, standard-library Python scripts only",
-    "No executables, DLLs, font binaries, personal settings, saves, private paths or RR assets"
-  ],
-  "archive_xml_files": 414,
-  "preserved_original_only_xml_files": 55,
-  "release_filename": "ZZZZZZKorlang2026-10-08.z2f"
+  "ai_assistance": "Codex assisted XML edits, terminology review, build and automated verification; user checked stated game screens."
 }
