@@ -18,11 +18,16 @@ https://cafe.naver.com/newzootycooncafe/187
 
 ## 공식 콘텐츠 번역 보완 패치
 
-기존 한글판의 표현을 바탕으로 본편·공식 확장팩·공식 다운로드 문구를 보완한 [Korean](Korean) 모듈입니다. 같은 동물·시설의 용어와 설명을 맞추며 확장팩 이름은 영어 고유명사로 유지합니다. 원래 번역 소스는 그대로 두고 배포할 때 기존 XML과 보완 XML을 한 파일로 합칩니다.
+[Korean](Korean)은 본편·공식 확장팩·공식 다운로드의 문구와 UI를 보완하는 선택판입니다. 기존 패치와 별도로 만듭니다.
 
-1. 이전 한국어 패치와 보충 파일을 백업 후 설치 폴더에서 제거합니다.
-2. 기본판 `ZZZZZZKorlang2026-10-08.z2f` 하나를 설치 폴더에 넣습니다. 기본 글꼴은 기존 한국어 패치의 **굴림(Gulim)** 입니다.
-3. Pretendard를 원하면 [정적 TTF Regular·Bold](https://github.com/orioncactus/pretendard)를 설치하고 기본판 대신 `ZZZZZZKorlang2026-10-08-Pretendard.z2f`를 사용합니다. **두 판을 동시에 설치하지 마십시오.**
-4. 게임을 다시 실행합니다.
+| 종류 | 파일명 (날짜는 빌드 날짜) | 용도 |
+|---|---|---|
+| 기존 패치 | `ZZZZZZKorlang2026-10-11.z2f` | 현재 lang/config를 경로 안전 검사만 하고 그대로 묶음. 보완판 UI 미포함 |
+| 공식 콘텐츠 보완판·굴림 | `ZZZZZZKorlang2026-10-11-Complete-Gulim.z2f` | 기존 번역 + 공식 콘텐츠 보완 + 제한된 메뉴 굵기 보정 |
+| 공식 콘텐츠 보완판·프리텐다드 | `ZZZZZZKorlang2026-10-11-Complete-Pretendard.z2f` | 같은 보완 콘텐츠, Pretendard 글꼴 사용 |
 
-파일명은 기존 `ZZZZZZKorlang[YYYY-MM-DD].z2f` 규칙을 따릅니다. 게임 실행 파일이나 글꼴 파일은 포함하지 않습니다. 기본판은 `python Korean/build_patch.py`, 선택판은 `python Korean/build_patch.py --font pretendard`로 빌드합니다. 수정 범위·검증 상태와 상세 설치법은 [패치 안내](Korean/README.md), 용어 기준은 [용어표](Korean/TERMINOLOGY.md)를 확인하십시오.
+게임을 종료하고 이전 한글패치·보충 파일을 백업 후 빼 둔 다음, **세 파일 중 하나만** 설치 폴더에 넣습니다. 보완판에는 기존 번역이 이미 포함되어 있어 기존판과 함께 설치할 필요가 없습니다. 함께 넣었을 때 로드 순서에 의존하는 설치는 지원하지 않습니다.
+
+Pretendard판은 [정적 TTF Regular·Bold](https://github.com/orioncactus/pretendard)를 별도로 설치해야 합니다. 굴림판은 Windows 굴림을 사용합니다. 보완판의 목차는 포함된 공식 팩 기준으로 구성되므로, 외부 모드의 추가 목차나 UI와 자동으로 호환되는 것은 아닙니다. 기존 패치도 모든 모드와의 호환성을 보장하지 않습니다.
+
+수정 범위와 검증 한계는 [패치 안내](Korean/README.md), 용어 기준은 [용어표](Korean/TERMINOLOGY.md)를 확인하십시오. 로컬 검증용 산출물은 아직 새 릴리즈로 게시하지 않았습니다.

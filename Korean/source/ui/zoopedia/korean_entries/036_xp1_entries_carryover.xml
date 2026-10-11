@@ -1,0 +1,12 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000387" entry="zoopedia_scenery">
+         <BFHelpEntry order="zoopedia_ko_000602" entry="zoopedia_balloonbouquet" version="6"/>
+         <BFHelpEntry entry="zoopedia_zooattendance" order="zoopedia_ko_000055" version="6"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000014" entry="zoopedia_buildings">
+         <BFHelpEntry order="zoopedia_ko_000595" entry="zoopedia_facepaintingkiosk" version="6"/>
+         <BFHelpEntry order="zoopedia_ko_000458" entry="zoopedia_headphonekiosk" version="6"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

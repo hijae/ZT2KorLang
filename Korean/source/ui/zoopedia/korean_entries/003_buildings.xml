@@ -1,0 +1,38 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000014" entry="zoopedia_buildings">
+         <BFHelpEntry entry="zoopedia_adultresto" order="zoopedia_ko_000167"/>
+         <BFHelpEntry order="zoopedia_ko_000074" entry="zoopedia_animalphotobooth"/>
+         <BFHelpEntry order="zoopedia_ko_000631" entry="zoopedia_atm"/>
+         <BFHelpEntry order="zoopedia_ko_000517" entry="zoopedia_cheesecake"/>
+         <BFHelpEntry order="zoopedia_ko_000527" entry="zoopedia_coffee"/>
+         <BFHelpEntry order="zoopedia_ko_000573" entry="zoopedia_compost"/>
+         <BFHelpEntry order="zoopedia_ko_000329" entry="zoopedia_cottoncandy"/>
+         <BFHelpEntry entry="zoopedia_familyrestroom" order="zoopedia_ko_000126"/>
+         <BFHelpEntry order="zoopedia_ko_000151" entry="zoopedia_frontgate"/>
+         <BFHelpEntry order="zoopedia_ko_000310" entry="zoopedia_fruitcup"/>
+         <BFHelpEntry order="zoopedia_ko_000075" entry="zoopedia_giftcart"/>
+         <BFHelpEntry order="zoopedia_ko_000317" entry="zoopedia_giftshop"/>
+         <BFHelpEntry entry="zoopedia_gourmetresto" order="zoopedia_ko_000028"/>
+         <BFHelpEntry order="zoopedia_ko_000630" entry="zoopedia_hamburger"/>
+         <BFHelpEntry order="zoopedia_ko_000612" entry="zoopedia_hotdog"/>
+         <BFHelpEntry order="zoopedia_ko_000400" entry="zoopedia_icecream"/>
+         <BFHelpEntry entry="zoopedia_kidsresto" order="zoopedia_ko_000591"/>
+         <BFHelpEntry order="zoopedia_ko_000590" entry="zoopedia_popcorn"/>
+         <BFHelpEntry order="zoopedia_ko_000604" entry="zoopedia_pretzel"/>
+         <BFHelpEntry order="zoopedia_ko_000640" entry="zoopedia_restroom"/>
+         <BFHelpEntry order="zoopedia_ko_000309" entry="zoopedia_salad"/>
+         <BFHelpEntry order="zoopedia_ko_000084" entry="zoopedia_shish"/>
+         <BFHelpEntry order="zoopedia_ko_000457" entry="zoopedia_soda"/>
+         <BFHelpEntry entry="zoopedia_sparklingwater" order="zoopedia_ko_000313"/>
+         <BFHelpEntry order="zoopedia_ko_000057" entry="zoopedia_staffcenter"/>
+         <BFHelpEntry order="zoopedia_ko_000308" entry="zoopedia_substand"/>
+         <BFHelpEntry order="zoopedia_ko_000512" entry="zoopedia_sushi"/>
+         <BFHelpEntry order="zoopedia_ko_000668" entry="zoopedia_zebrabars"/>
+         <BFHelpEntry entry="zoopedia_educator_podium" order="zoopedia_ko_000434"/>
+         <BFHelpEntry order="zoopedia_ko_000039" entry="zoopedia_insect_house"/>
+         <BFHelpEntry order="zoopedia_ko_000588" entry="zoopedia_reptile_house"/>
+         <BFHelpEntry order="zoopedia_ko_000319" entry="zoopedia_shetland_pony_ride"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

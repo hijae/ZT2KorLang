@@ -1,0 +1,10 @@
+﻿<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000314" entry="zoopedia_biomes">
+			<BFHelpEntry order="zoopedia_ko_000623" entry="zoopedia_benthic" />
+			<BFHelpEntry order="zoopedia_ko_000436" entry="zoopedia_coastal" />
+			<BFHelpEntry order="zoopedia_ko_000452" entry="zoopedia_pelagic" />
+			<BFHelpEntry order="zoopedia_ko_000420" entry="zoopedia_reef" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

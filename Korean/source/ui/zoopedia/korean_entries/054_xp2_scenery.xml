@@ -1,0 +1,16 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000387" entry="zoopedia_scenery">
+         <BFHelpEntry entry="zoopedia_drinkingfountain_mm" order="zoopedia_ko_000422"/>
+			<BFHelpEntry order="zoopedia_ko_000271" entry="zoopedia_koi"/>
+			<BFHelpEntry order="zoopedia_ko_000655" entry="zoopedia_seahorseride"/>
+			<BFHelpEntry entry="zoopedia_fountain_splash_mm" order="zoopedia_ko_000658"/>
+			<BFHelpEntry entry="zoopedia_cannon" order="zoopedia_ko_000624"/>
+         <BFHelpEntry order="zoopedia_ko_000625" entry="zoopedia_pirate_mast"/>
+         <BFHelpEntry order="zoopedia_ko_000626" entry="zoopedia_pirate_ship"/>
+         <BFHelpEntry order="zoopedia_ko_000250" entry="zoopedia_treasure_chest"/>
+         <BFHelpEntry order="zoopedia_ko_000159" entry="zoopedia_gazebo_mm"/>
+         <BFHelpEntry entry="zoopedia_marinetrainingstatue" order="zoopedia_ko_000621"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

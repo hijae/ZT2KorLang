@@ -1,0 +1,12 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000475" entry="zoopedia_animalenrichment">
+         <BFHelpEntry order="zoopedia_ko_000156" entry="zoopedia_durianfruit"/>
+         <BFHelpEntry order="zoopedia_ko_000321" entry="zoopedia_saltlick"/>
+         <BFHelpEntry order="zoopedia_ko_000290" entry="zoopedia_feederball"/>
+         <BFHelpEntry order="zoopedia_ko_000534" entry="zoopedia_elephantlog"/>
+         <BFHelpEntry order="zoopedia_ko_000553" entry="zoopedia_tireswing"/>
+         <BFHelpEntry order="zoopedia_ko_000633" entry="zoopedia_catclimber"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

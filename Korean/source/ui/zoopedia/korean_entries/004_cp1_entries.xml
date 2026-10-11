@@ -1,0 +1,43 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000162" entry="zoopedia_aardvark"/>
+         <BFHelpEntry entry="zoopedia_apebarbary" order="zoopedia_ko_000223"/>
+         <BFHelpEntry order="zoopedia_ko_000105" entry="zoopedia_bongo"/>
+         <BFHelpEntry order="zoopedia_ko_000408" entry="zoopedia_buffaloafrican"/>
+         <BFHelpEntry order="zoopedia_ko_000521" entry="zoopedia_caracal"/>
+         <BFHelpEntry order="zoopedia_ko_000022" entry="zoopedia_gelada"/>
+         <BFHelpEntry order="zoopedia_ko_000019" entry="zoopedia_gerenuk"/>
+         <BFHelpEntry order="zoopedia_ko_000178" entry="zoopedia_giraffemasai"/>
+         <BFHelpEntry order="zoopedia_ko_000421" entry="zoopedia_hippopotamuspygmy"/>
+         <BFHelpEntry order="zoopedia_ko_000495" entry="zoopedia_hyenastriped"/>
+         <BFHelpEntry order="zoopedia_ko_000185" entry="zoopedia_mandrill"/>
+         <BFHelpEntry order="zoopedia_ko_000214" entry="zoopedia_meerkat"/>
+         <BFHelpEntry order="zoopedia_ko_000099" entry="zoopedia_monitornile"/>
+         <BFHelpEntry order="zoopedia_ko_000164" entry="zoopedia_ratel"/>
+         <BFHelpEntry order="zoopedia_ko_000662" entry="zoopedia_rhinoceroswhite"/>
+         <BFHelpEntry order="zoopedia_ko_000406" entry="zoopedia_tortoiseafricanspurred"/>
+         <BFHelpEntry order="zoopedia_ko_000634" entry="zoopedia_warthog"/>
+         <BFHelpEntry entry="zoopedia_birdsecretary" order="zoopedia_ko_000238"/>
+         <BFHelpEntry order="zoopedia_ko_000109" entry="zoopedia_wildebeest"/>
+         <BFHelpEntry order="zoopedia_ko_000430" entry="zoopedia_wolfethiopian"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000475" entry="zoopedia_animalenrichment">
+         <BFHelpEntry order="zoopedia_ko_000462" entry="zoopedia_heatlamp"/>
+         <BFHelpEntry entry="zoopedia_meerkatburrow_shelter" order="zoopedia_ko_000215"/>
+         <BFHelpEntry order="zoopedia_ko_000321" entry="zoopedia_saltlick"/>
+         <BFHelpEntry order="zoopedia_ko_000276" entry="zoopedia_squeakytoy"/>
+         <BFHelpEntry entry="zoopedia_livelizard" order="zoopedia_ko_000302"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000152" entry="zoopedia_shelters">
+         <BFHelpEntry order="zoopedia_ko_000473" entry="zoopedia_kopje"/>
+         <BFHelpEntry order="zoopedia_ko_000587" entry="zoopedia_reptilepool"/>
+         <BFHelpEntry entry="zoopedia_secretarybird_nest" order="zoopedia_ko_000239"/>
+         <BFHelpEntry order="zoopedia_ko_000285" entry="zoopedia_burrow_savannah"/>
+         <BFHelpEntry order="zoopedia_ko_000059" entry="zoopedia_burrow_scrub"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000187" entry="zoopedia_food">
+         <BFHelpEntry entry="zoopedia_terrain_insects" order="zoopedia_ko_000038"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

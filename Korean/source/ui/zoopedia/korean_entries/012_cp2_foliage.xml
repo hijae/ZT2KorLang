@@ -1,0 +1,16 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000511" entry="zoopedia_foliage">
+         <BFHelpEntry entry="zoopedia_agavecactus" order="zoopedia_ko_000447" />
+         <BFHelpEntry entry="zoopedia_aloevera" order="zoopedia_ko_000418"/>
+         <BFHelpEntry entry="zoopedia_boxelder" order="zoopedia_ko_000106"/>
+         <BFHelpEntry entry="zoopedia_daisy" order="zoopedia_ko_000130"/>
+         <BFHelpEntry entry="zoopedia_dwarfazalea" order="zoopedia_ko_000101"/>
+         <BFHelpEntry entry="zoopedia_edelweiss" order="zoopedia_ko_000428"/>
+         <BFHelpEntry entry="zoopedia_monkeypuzzletree" order="zoopedia_ko_000519"/>
+         <BFHelpEntry entry="zoopedia_saguarocactus" order="zoopedia_ko_000288"/>
+         <BFHelpEntry entry="zoopedia_speargrass" order="zoopedia_ko_000221"/>
+         <BFHelpEntry entry="zoopedia_tallgoldenrod" order="zoopedia_ko_000548"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

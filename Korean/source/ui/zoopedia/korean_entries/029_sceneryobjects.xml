@@ -1,0 +1,41 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000387" entry="zoopedia_scenery">
+         <BFHelpEntry order="zoopedia_ko_000391" entry="zoopedia_trash"/>
+         <BFHelpEntry order="zoopedia_ko_000392" entry="zoopedia_trashcan"/>
+         <BFHelpEntry entry="zoopedia_themedtrashcan" order="zoopedia_ko_000564"/>
+         <BFHelpEntry order="zoopedia_ko_000480" entry="zoopedia_recyclebin"/>
+         <BFHelpEntry order="zoopedia_ko_000078" entry="zoopedia_donationbox"/>
+         <BFHelpEntry order="zoopedia_ko_000003" entry="zoopedia_lamp"/>
+         <BFHelpEntry entry="zoopedia_themedlamp" order="zoopedia_ko_000559"/>
+         <BFHelpEntry order="zoopedia_ko_000066" entry="zoopedia_viewingareas"/>
+         <BFHelpEntry entry="zoopedia_themedviewingareas" order="zoopedia_ko_000560"/>
+         <BFHelpEntry order="zoopedia_ko_000567" entry="zoopedia_picnictable"/>
+         <BFHelpEntry order="zoopedia_ko_000261" entry="zoopedia_fountains"/>
+         <BFHelpEntry entry="zoopedia_themedfountains" order="zoopedia_ko_000563"/>
+         <BFHelpEntry order="zoopedia_ko_000155" entry="zoopedia_statue"/>
+         <BFHelpEntry entry="zoopedia_themedstatue" order="zoopedia_ko_000561"/>
+         <BFHelpEntry order="zoopedia_ko_000150" entry="zoopedia_zoomap"/>
+         <BFHelpEntry order="zoopedia_ko_000243" entry="zoopedia_bench"/>
+         <BFHelpEntry entry="zoopedia_themedbench" order="zoopedia_ko_000562"/>
+         <BFHelpEntry order="zoopedia_ko_000402" entry="zoopedia_arch"/>
+         <BFHelpEntry entry="zoopedia_themedarch" order="zoopedia_ko_000565"/>
+         <BFHelpEntry order="zoopedia_ko_000184" entry="zoopedia_binoculars"/>
+         <BFHelpEntry entry="zoopedia_soundrock" order="zoopedia_ko_000322"/>
+         <BFHelpEntry order="zoopedia_ko_000340" entry="zoopedia_gazebo"/>
+         <BFHelpEntry order="zoopedia_ko_000585" entry="zoopedia_umbrellatable"/>
+         <BFHelpEntry entry="zoopedia_themedumbrellatable" order="zoopedia_ko_000566"/>
+         <BFHelpEntry order="zoopedia_ko_000614" entry="zoopedia_sundialstatue"/>
+         <BFHelpEntry order="zoopedia_ko_000085" entry="zoopedia_flowerpost"/>
+         <BFHelpEntry order="zoopedia_ko_000497" entry="zoopedia_globe"/>
+         <BFHelpEntry order="zoopedia_ko_000641" entry="zoopedia_gildedstatue"/>
+         <BFHelpEntry order="zoopedia_ko_000654" entry="zoopedia_hipporide"/>
+         <BFHelpEntry order="zoopedia_ko_000652" entry="zoopedia_kangarooride"/>
+         <BFHelpEntry order="zoopedia_ko_000653" entry="zoopedia_rhinoride"/>
+         <BFHelpEntry order="zoopedia_ko_000649" entry="zoopedia_lionride"/>
+         <BFHelpEntry order="zoopedia_ko_000076" entry="zoopedia_giraffeslide"/>
+         <BFHelpEntry order="zoopedia_ko_000032" entry="zoopedia_gorillaclimbingbars"/>
+         <BFHelpEntry entry="zoopedia_flowerarch" order="zoopedia_ko_000086"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

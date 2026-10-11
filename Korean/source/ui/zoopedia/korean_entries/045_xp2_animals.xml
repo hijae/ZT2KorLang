@@ -1,0 +1,26 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000657" entry="zoopedia_beluga"/>
+         <BFHelpEntry order="zoopedia_ko_000248" entry="zoopedia_dolphinbottlenose"/>
+         <BFHelpEntry order="zoopedia_ko_000523" entry="zoopedia_manateewestindian"/>
+         <BFHelpEntry order="zoopedia_ko_000510" entry="zoopedia_marlinblue"/>
+         <BFHelpEntry order="zoopedia_ko_000461" entry="zoopedia_narwhal"/>
+         <BFHelpEntry order="zoopedia_ko_000613" entry="zoopedia_ottersea"/>
+         <BFHelpEntry order="zoopedia_ko_000169" entry="zoopedia_penguinrockhopper"/>
+         <BFHelpEntry order="zoopedia_ko_000496" entry="zoopedia_raymanta"/>
+         <BFHelpEntry order="zoopedia_ko_000524" entry="zoopedia_sealioncalifornia"/>
+         <BFHelpEntry order="zoopedia_ko_000034" entry="zoopedia_sharkgoblin"/>
+         <BFHelpEntry entry="zoopedia_sharkhammerheadscalloped" order="zoopedia_ko_000635"/>
+         <BFHelpEntry entry="zoopedia_sharkreefblacktip" order="zoopedia_ko_000647"/>
+         <BFHelpEntry order="zoopedia_ko_000031" entry="zoopedia_sharkwhale"/>
+         <BFHelpEntry entry="zoopedia_sharkwhite" order="zoopedia_ko_000237"/>
+         <BFHelpEntry order="zoopedia_ko_000476" entry="zoopedia_turtleleatherback"/>
+         <BFHelpEntry entry="zoopedia_turtleseagreen" order="zoopedia_ko_000599"/>
+         <BFHelpEntry order="zoopedia_ko_000556" entry="zoopedia_walruspacific"/>
+         <BFHelpEntry entry="zoopedia_whalefalsekiller" order="zoopedia_ko_000241"/>
+         <BFHelpEntry entry="zoopedia_whalepilotshortfinned" order="zoopedia_ko_000158"/>
+         <BFHelpEntry entry="zoopedia_whaleorca" order="zoopedia_ko_000240"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

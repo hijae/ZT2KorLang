@@ -1,0 +1,18 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000187" entry="zoopedia_food">
+         <BFHelpEntry order="zoopedia_ko_000121" entry="zoopedia_bamboo"/>
+         <BFHelpEntry order="zoopedia_ko_000218" entry="zoopedia_bananas"/>
+         <BFHelpEntry order="zoopedia_ko_000094" entry="zoopedia_branches"/>
+         <BFHelpEntry order="zoopedia_ko_000311" entry="zoopedia_fish"/>
+         <BFHelpEntry order="zoopedia_ko_000601" entry="zoopedia_grass"/>
+         <BFHelpEntry order="zoopedia_ko_000016" entry="zoopedia_hay"/>
+         <BFHelpEntry order="zoopedia_ko_000306" entry="zoopedia_lettuce"/>
+         <BFHelpEntry order="zoopedia_ko_000029" entry="zoopedia_meat"/>
+         <BFHelpEntry order="zoopedia_ko_000209" entry="zoopedia_water"/>
+         <BFHelpEntry order="zoopedia_ko_000656" entry="zoopedia_termitemound"/>
+         <BFHelpEntry order="zoopedia_ko_000278" entry="zoopedia_substratepile"/>
+         <BFHelpEntry order="zoopedia_ko_000571" entry="zoopedia_hollowlog"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

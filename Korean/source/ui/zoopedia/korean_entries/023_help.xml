@@ -1,0 +1,31 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_welcome" order="zoopedia_ko_000001">
+         <BFHelpEntry entry="zoopedia_f1help" order="zoopedia_ko_000493"/>
+         <BFHelpEntry order="zoopedia_ko_000666" entry="zoopedia_f1help2"/>
+         <BFHelpEntry order="zoopedia_ko_000507" entry="zoopedia_challenge"/>
+         <BFHelpEntry order="zoopedia_ko_000465" entry="zoopedia_freeform"/>
+         <BFHelpEntry entry="zoopedia_options" order="zoopedia_ko_000021"/>
+         <BFHelpEntry order="zoopedia_ko_000525" entry="zoopedia_campaign"/>
+         <BFHelpEntry order="zoopedia_ko_000116" entry="zoopedia_downloads"/>
+         <BFHelpEntry order="zoopedia_ko_000481" entry="zoopedia_loadgame"/>
+         <BFHelpEntry order="zoopedia_ko_000020" entry="zoopedia_exitgame"/>
+         <BFHelpEntry order="zoopedia_ko_000293" entry="zoopedia_photosafari"/>
+         <BFHelpEntry order="zoopedia_ko_000388" entry="zoopedia_changingviews"/>
+         <BFHelpEntry order="zoopedia_ko_000002" entry="zoopedia_zooguestmode"/>
+         <BFHelpEntry order="zoopedia_ko_000148" entry="zoopedia_basicofzoolayout"/>
+         <BFHelpEntry order="zoopedia_ko_000192" entry="zoopedia_buildinggreatexhibits"/>
+         <BFHelpEntry order="zoopedia_ko_000451" entry="zoopedia_layingdownfences"/>
+         <BFHelpEntry order="zoopedia_ko_000081" entry="zoopedia_creatingpaths"/>
+         <BFHelpEntry order="zoopedia_ko_000015" entry="zoopedia_placingbuidings"/>
+         <BFHelpEntry order="zoopedia_ko_000149" entry="zoopedia_zoofamescores"/>
+         <BFHelpEntry order="zoopedia_ko_000145" entry="zoopedia_caringforanimals"/>
+         <BFHelpEntry order="zoopedia_ko_000054" entry="zoopedia_keepingguestshappy"/>
+         <BFHelpEntry order="zoopedia_ko_000138" entry="zoopedia_makingmoney"/>
+         <BFHelpEntry order="zoopedia_ko_000315" entry="zoopedia_biomedef"/>
+         <BFHelpEntry order="zoopedia_ko_000153" entry="zoopedia_animalenrichmentdef"/>
+         <BFHelpEntry entry="zoopedia_encarta" order="zoopedia_ko_000432"/>
+         <BFHelpEntry order="zoopedia_ko_000303" entry="zoopedia_awards"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

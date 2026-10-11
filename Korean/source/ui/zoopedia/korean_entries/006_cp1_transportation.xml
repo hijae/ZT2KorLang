@@ -1,0 +1,15 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000450" entry="zoopedia_fences">
+         <BFHelpEntry entry="zoopedia_vehiclegate" order="zoopedia_ko_000505" version="2"/>
+      </BFHelpEntry>
+      <BFHelpEntry order="zoopedia_ko_000459" entry="zoopedia_transportation">
+         <BFHelpEntry entry="zoopedia_groundstation" order="zoopedia_ko_000500" version="2"/>
+         <BFHelpEntry entry="zoopedia_groundtrack" order="zoopedia_ko_000133" version="2"/>
+         <BFHelpEntry order="zoopedia_ko_000013" entry="zoopedia_crossinggate" version="2"/>
+         <BFHelpEntry order="zoopedia_ko_000499" entry="zoopedia_groundvehicle" version="2"/>
+         <BFHelpEntry entry="zoopedia_groundvehicleupgrade" order="zoopedia_ko_000296" version="2"/>
+			<BFHelpEntry order="zoopedia_ko_000410" entry="zoopedia_groundvehicleafrica" />
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

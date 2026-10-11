@@ -1,0 +1,22 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000450" entry="zoopedia_fences">
+         <BFHelpEntry order="zoopedia_ko_000330" entry="zoopedia_ironbar"/>
+         <BFHelpEntry order="zoopedia_ko_000509" entry="zoopedia_chainlink"/>
+         <BFHelpEntry entry="zoopedia_plexiglass" order="zoopedia_ko_000405"/>
+         <BFHelpEntry entry="zoopedia_postrail" order="zoopedia_ko_000572"/>
+         <BFHelpEntry order="zoopedia_ko_000093" entry="zoopedia_woodenslat"/>
+         <BFHelpEntry order="zoopedia_ko_000092" entry="zoopedia_woodslatwindow"/>
+         <BFHelpEntry order="zoopedia_ko_000246" entry="zoopedia_brick"/>
+         <BFHelpEntry order="zoopedia_ko_000062" entry="zoopedia_hedge"/>
+         <BFHelpEntry order="zoopedia_ko_000235" entry="zoopedia_postrope"/>
+         <BFHelpEntry entry="zoopedia_picket" order="zoopedia_ko_000659"/>
+         <BFHelpEntry order="zoopedia_ko_000139" entry="zoopedia_stonewall"/>
+         <BFHelpEntry order="zoopedia_ko_000669" entry="zoopedia_zoowall"/>
+         <BFHelpEntry order="zoopedia_ko_000295" entry="zoopedia_safarifence"/>
+         <BFHelpEntry order="zoopedia_ko_000485" entry="zoopedia_junglefence"/>
+         <BFHelpEntry entry="zoopedia_fencegate" order="zoopedia_ko_000503"/>
+         <BFHelpEntry order="zoopedia_ko_000539" entry="zoopedia_concretefence"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

@@ -1,0 +1,12 @@
+<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000189" entry="zoopedia_foodcontainer">
+			<BFHelpEntry order="zoopedia_ko_000008" entry="zoopedia_animalcarcass" />
+			<BFHelpEntry order="zoopedia_ko_000089" entry="zoopedia_browseholder" />
+			<BFHelpEntry order="zoopedia_ko_000087" entry="zoopedia_elevateddish" />
+			<BFHelpEntry order="zoopedia_ko_000068" entry="zoopedia_fooddish" />
+			<BFHelpEntry order="zoopedia_ko_000508" entry="zoopedia_metaltrough" />
+			<BFHelpEntry order="zoopedia_ko_000190" entry="zoopedia_trough" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

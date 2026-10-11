@@ -1,0 +1,9 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000152" entry="zoopedia_shelters">
+         <BFHelpEntry order="zoopedia_ko_000627" entry="zoopedia_kelpbed"/>
+         <BFHelpEntry order="zoopedia_ko_000207" entry="zoopedia_desertisland"/>
+         <BFHelpEntry order="zoopedia_ko_000228" entry="zoopedia_rockisland"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

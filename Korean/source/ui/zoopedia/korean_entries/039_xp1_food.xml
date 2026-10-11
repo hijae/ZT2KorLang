@@ -1,0 +1,8 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000187" entry="zoopedia_food">
+         <BFHelpEntry order="zoopedia_ko_000298" entry="zoopedia_berries"/>
+         <BFHelpEntry order="zoopedia_ko_000454" entry="zoopedia_eucalyptus"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

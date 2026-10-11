@@ -68,9 +68,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">흰돌고래에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -186,9 +186,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">병코돌고래에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -298,9 +298,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">카리브바다소에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -407,9 +407,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">청새치에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -507,9 +507,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">일각돌고래에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -616,9 +616,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">해달에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -726,9 +726,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">록호퍼펭귄에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -831,9 +831,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">쥐가오리에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -941,9 +941,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">캘리포니아바다사자에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1055,9 +1055,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">흑기흉상어에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1159,9 +1159,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">고블린상어에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1259,9 +1259,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">홍살귀상어에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1365,9 +1365,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">고래상어에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1472,9 +1472,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">백상아리에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1578,9 +1578,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">장수거북에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1681,9 +1681,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">푸른바다거북에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1792,9 +1792,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">태평양바다코끼리에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -1906,9 +1906,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">범고래붙이에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -2007,9 +2007,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">범고래에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />
@@ -2119,9 +2119,9 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
-                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">재미있는 사실</font>
+                  <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">들쇠고래에 대한<br />재밌는 사실</font>
                </color>
             </cell>
             <p />

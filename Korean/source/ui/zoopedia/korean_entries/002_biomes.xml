@@ -1,0 +1,16 @@
+<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000314" entry="zoopedia_biomes">
+			<BFHelpEntry order="zoopedia_ko_000438" entry="zoopedia_tropicalrainforest" />
+			<BFHelpEntry order="zoopedia_ko_000287" entry="zoopedia_savannah" />
+			<BFHelpEntry order="zoopedia_ko_000036" entry="zoopedia_alpine" />
+			<BFHelpEntry order="zoopedia_ko_000260" entry="zoopedia_boreal" />
+			<BFHelpEntry order="zoopedia_ko_000283" entry="zoopedia_desert" />
+			<BFHelpEntry order="zoopedia_ko_000515" entry="zoopedia_grassland" />
+			<BFHelpEntry order="zoopedia_ko_000061" entry="zoopedia_scrub" />
+			<BFHelpEntry order="zoopedia_ko_000446" entry="zoopedia_temperate" />
+			<BFHelpEntry order="zoopedia_ko_000578" entry="zoopedia_tundra" />
+			<BFHelpEntry order="zoopedia_ko_000382" entry="zoopedia_wetland" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

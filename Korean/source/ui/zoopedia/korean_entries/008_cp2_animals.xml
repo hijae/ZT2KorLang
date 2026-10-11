@@ -1,0 +1,69 @@
+<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000416" entry="zoopedia_ankylosaurus"/>
+         <BFHelpEntry order="zoopedia_ko_000394" entry="zoopedia_bearshortfaced"/>
+         <BFHelpEntry order="zoopedia_ko_000431" entry="zoopedia_birdelephant"/>
+         <BFHelpEntry order="zoopedia_ko_000586" entry="zoopedia_bluebuck"/>
+         <BFHelpEntry order="zoopedia_ko_000584" entry="zoopedia_camelgiant"/>
+         <BFHelpEntry order="zoopedia_ko_000376" entry="zoopedia_catsabertoothed"/>
+         <BFHelpEntry entry="zoopedia_cowauroch" order="zoopedia_ko_000442"/>
+         <BFHelpEntry order="zoopedia_ko_000429" entry="zoopedia_deerbushantlered"/>
+         <BFHelpEntry order="zoopedia_ko_000128" entry="zoopedia_deinonychus"/>
+         <BFHelpEntry order="zoopedia_ko_000129" entry="zoopedia_deinosuchus"/>
+         <BFHelpEntry order="zoopedia_ko_000160" entry="zoopedia_dimetrodon"/>
+         <BFHelpEntry order="zoopedia_ko_000161" entry="zoopedia_diprotodon"/>
+         <BFHelpEntry order="zoopedia_ko_000132" entry="zoopedia_dodo"/>
+         <BFHelpEntry order="zoopedia_ko_000134" entry="zoopedia_doedicurus"/>
+         <BFHelpEntry order="zoopedia_ko_000102" entry="zoopedia_elephantdwarfsicilian"/>
+         <BFHelpEntry order="zoopedia_ko_000073" entry="zoopedia_gigantopithecus"/>
+         <BFHelpEntry order="zoopedia_ko_000530" entry="zoopedia_kentrosaurus"/>
+         <BFHelpEntry order="zoopedia_ko_000142" entry="zoopedia_lioncave"/>
+         <BFHelpEntry order="zoopedia_ko_000179" entry="zoopedia_mastodonamerican"/>
+         <BFHelpEntry order="zoopedia_ko_000605" entry="zoopedia_protarchaeopteryx"/>
+         <BFHelpEntry order="zoopedia_ko_000541" entry="zoopedia_quagga" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000538" entry="zoopedia_rhinoceroswooly"/>
+         <BFHelpEntry order="zoopedia_ko_000386" entry="zoopedia_sivatherium"/>
+         <BFHelpEntry order="zoopedia_ko_000193" entry="zoopedia_slothgroundgiant"/>
+         <BFHelpEntry order="zoopedia_ko_000378" entry="zoopedia_stegosaurus"/>
+         <BFHelpEntry order="zoopedia_ko_000379" entry="zoopedia_stokesosaurus"/>
+         <BFHelpEntry order="zoopedia_ko_000555" entry="zoopedia_thylacine"/>
+         <BFHelpEntry order="zoopedia_ko_000455" entry="zoopedia_utahraptor"/>
+         <BFHelpEntry order="zoopedia_ko_000244" entry="zoopedia_velociraptor"/>
+         <BFHelpEntry order="zoopedia_ko_000598" entry="zoopedia_warrah"/>
+         <BFHelpEntry order="zoopedia_ko_000194" entry="zoopedia_warthoggiant"/>
+         <BFHelpEntry order="zoopedia_ko_000360" entry="zoopedia_super_ankylosaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000359" entry="zoopedia_super_bearshortfaced" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000362" entry="zoopedia_super_birdelephant" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000373" entry="zoopedia_super_bluebuck" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000372" entry="zoopedia_super_camelgiant" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000354" entry="zoopedia_super_catsabertoothed" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000363" entry="zoopedia_super_cowauroch" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000361" entry="zoopedia_super_deerbushantlered" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000343" entry="zoopedia_super_deinonychus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000344" entry="zoopedia_super_deinosuchus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000348" entry="zoopedia_super_dimetrodon" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000349" entry="zoopedia_super_diprotodon" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000345" entry="zoopedia_super_dodo" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000346" entry="zoopedia_super_doedicurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000342" entry="zoopedia_super_elephantdwarfsicilian" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000341" entry="zoopedia_super_gigantopithecus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000366" entry="zoopedia_super_kentrosaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000347" entry="zoopedia_super_lioncave" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000350" entry="zoopedia_super_mastodonamerican" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000375" entry="zoopedia_super_protarchaeopteryx" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000368" entry="zoopedia_super_quagga" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000367" entry="zoopedia_super_rhinoceroswooly" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000358" entry="zoopedia_super_sivatherium" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000351" entry="zoopedia_super_slothgroundgiant" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000355" entry="zoopedia_super_stegosaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000356" entry="zoopedia_super_stokesosaurus" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000369" entry="zoopedia_super_thylacine" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000364" entry="zoopedia_super_utahraptor" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000353" entry="zoopedia_super_velociraptor" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000374" entry="zoopedia_super_warrah" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000352" entry="zoopedia_super_warthoggiant" hidden="true"/>
+         <BFHelpEntry order="zoopedia_ko_000549" entry="zoopedia_penguinkiller" hidden="true"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

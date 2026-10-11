@@ -1,0 +1,16 @@
+<entries>
+	<BFHelpEntry entry="zoopedia_home">
+		<BFHelpEntry order="zoopedia_ko_000225" entry="zoopedia_rocks">
+			<BFHelpEntry order="zoopedia_ko_000286" entry="zoopedia_savannahrocks" />
+			<BFHelpEntry order="zoopedia_ko_000437" entry="zoopedia_rainforestrocks" />
+			<BFHelpEntry order="zoopedia_ko_000259" entry="zoopedia_borealrocks" />
+			<BFHelpEntry order="zoopedia_ko_000035" entry="zoopedia_alpinerocks" />
+			<BFHelpEntry order="zoopedia_ko_000060" entry="zoopedia_scrubrocks" />
+			<BFHelpEntry order="zoopedia_ko_000280" entry="zoopedia_desertrocks" />
+			<BFHelpEntry order="zoopedia_ko_000383" entry="zoopedia_wetlandrocks" />
+			<BFHelpEntry order="zoopedia_ko_000576" entry="zoopedia_tundrarocks" />
+			<BFHelpEntry order="zoopedia_ko_000514" entry="zoopedia_grasslandrocks" />
+			<BFHelpEntry order="zoopedia_ko_000445" entry="zoopedia_temperaterocks" />
+		</BFHelpEntry>
+	</BFHelpEntry>
+</entries>

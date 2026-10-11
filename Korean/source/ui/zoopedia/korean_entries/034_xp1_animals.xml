@@ -1,0 +1,26 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000143" entry="zoopedia_animals">
+         <BFHelpEntry order="zoopedia_ko_000592" entry="zoopedia_foxfennec"/>
+         <BFHelpEntry order="zoopedia_ko_000414" entry="zoopedia_bearspectacled"/>
+         <BFHelpEntry order="zoopedia_ko_000396" entry="zoopedia_bisonamerican"/>
+         <BFHelpEntry order="zoopedia_ko_000064" entry="zoopedia_oryxscimitarhorned"/>
+         <BFHelpEntry order="zoopedia_ko_000609" entry="zoopedia_pantherflorida"/>
+         <BFHelpEntry order="zoopedia_ko_000463" entry="zoopedia_rhinocerosjavan"/>
+         <BFHelpEntry order="zoopedia_ko_000242" entry="zoopedia_tapirbairds"/>
+         <BFHelpEntry order="zoopedia_ko_000338" entry="zoopedia_caribou"/>
+         <BFHelpEntry order="zoopedia_ko_000466" entry="zoopedia_antelopesablegiant"/>
+         <BFHelpEntry order="zoopedia_ko_000449" entry="zoopedia_wolverine"/>
+         <BFHelpEntry order="zoopedia_ko_000537" entry="zoopedia_koala"/>
+         <BFHelpEntry order="zoopedia_ko_000644" entry="zoopedia_wolfgray"/>
+         <BFHelpEntry order="zoopedia_ko_000441" entry="zoopedia_orangutan"/>
+         <BFHelpEntry order="zoopedia_ko_000170" entry="zoopedia_wilddogafrican"/>
+         <BFHelpEntry order="zoopedia_ko_000607" entry="zoopedia_horseprzewalskiswild"/>
+         <BFHelpEntry order="zoopedia_ko_000381" entry="zoopedia_lynxspanish"/>
+         <BFHelpEntry order="zoopedia_ko_000536" entry="zoopedia_komododragon"/>
+         <BFHelpEntry order="zoopedia_ko_000181" entry="zoopedia_markhor"/>
+         <BFHelpEntry order="zoopedia_ko_000079" entry="zoopedia_gibboncrested"/>
+         <BFHelpEntry order="zoopedia_ko_000007" entry="zoopedia_tortoisegalapagos"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

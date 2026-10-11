@@ -1,0 +1,19 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000387" entry="zoopedia_scenery" version="9">
+         <BFHelpEntry order="zoopedia_ko_000232" entry="zoopedia_batcave"/>
+         <BFHelpEntry order="zoopedia_ko_000229" entry="zoopedia_rockpool"/>
+         <BFHelpEntry entry="zoopedia_dormant_volcano" version="9" order="zoopedia_ko_000637"/>
+         <BFHelpEntry order="zoopedia_ko_000006" entry="zoopedia_geyser" version="9"/>
+         <BFHelpEntry entry="zoopedia_redwoodtunnel" order="zoopedia_ko_000318"/>
+         <BFHelpEntry order="zoopedia_ko_000464" entry="zoopedia_mineraldeposit"/>
+         <BFHelpEntry order="zoopedia_ko_000412" entry="zoopedia_fogmachine"/>
+         <BFHelpEntry order="zoopedia_ko_000488" entry="zoopedia_snowmachine" version="9"/>
+         <BFHelpEntry order="zoopedia_ko_000602" entry="zoopedia_balloonbouquet"/>
+         <BFHelpEntry order="zoopedia_ko_000332" entry="zoopedia_crystaltunnel"/>
+         <BFHelpEntry order="zoopedia_ko_000127" entry="zoopedia_tropicalbouncehouse"/>
+         <BFHelpEntry entry="zoopedia_zooattendance" order="zoopedia_ko_000055"/>
+        <BFHelpEntry entry="zoopedia_animalbabies" order="zoopedia_ko_000307"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

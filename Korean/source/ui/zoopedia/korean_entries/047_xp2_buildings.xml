@@ -1,0 +1,12 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000014" entry="zoopedia_buildings">
+         <BFHelpEntry order="zoopedia_ko_000337" entry="zoopedia_aquarium"/>
+         <BFHelpEntry order="zoopedia_ko_000557" entry="zoopedia_touchpool_mm"/>
+         <BFHelpEntry order="zoopedia_ko_000661" entry="zoopedia_bluewhalehall_mm"/>
+         <BFHelpEntry order="zoopedia_ko_000661" entry="zoopedia_bluewhalehall_mm"/>
+         <BFHelpEntry order="zoopedia_ko_000305" entry="zoopedia_sharkphotobooth"/>
+         <BFHelpEntry entry="zoopedia_giftcart_mm" order="zoopedia_ko_000617"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

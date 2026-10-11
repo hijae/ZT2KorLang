@@ -113,12 +113,12 @@
             판매 물품
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="buyinfo:zoopedia_button_stt">동물원 백과사전 보기</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:zoopedia_button_stt">주피디아 보기</LOC_STRING>
       <LOC_STRING _locID="buyinfo:zoopedia_button_ltt">
          <color r="255" g="248" b="178">
-            동물원 백과사전 보기
+            주피디아 보기
          </color>
-         <br>해당 정보를 볼 수 있는 동물원 백과사전이 열립니다.</br>
+         <br>해당 정보를 볼 수 있는 주피디아가 열립니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="buyinfo:research_button_stt">개체 연구</LOC_STRING>
       <LOC_STRING _locID="buyinfo:research_button_ltt">
@@ -1111,11 +1111,11 @@
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:zoopedia_button_ltt">
          <color r="255" g="248" b="178">
-            동물원 백과사전 보기
+            주피디아 보기
          </color>
-         <br>동물원 백과사전에서 자세한 내용을 봅니다.</br>
+         <br>주피디아에서 자세한 내용을 봅니다.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="entityinfo:zoopedia_button_stt">동물원 백과사전 보기</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:zoopedia_button_stt">주피디아 보기</LOC_STRING>
       <LOC_STRING _locID="entityinfo:pickup_guest_button_stt">집어 올리기</LOC_STRING>
       <LOC_STRING _locID="entityinfo:pickup_guest_button_ltt">
          <color r="255" g="248" b="178">
@@ -4264,12 +4264,12 @@
             사진을 찍으려면 스페이스바를 누르세요.
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="photom:photo_zoopedia_button_stt">동물원 백과사전 보기</LOC_STRING>
+      <LOC_STRING _locID="photom:photo_zoopedia_button_stt">주피디아 보기</LOC_STRING>
       <LOC_STRING _locID="photom:photo_zoopedia_button_ltt">
          <color r="255" g="248" b="178">
-            동물원 백과사전 보기
+            주피디아 보기
          </color>
-         <br>동물원 백과사전을 열고 사진 찍기에 대한 정보를 봅니다.</br>
+         <br>주피디아를 열고 사진 찍기에 대한 정보를 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photom:help_button_stt">닫으려면 클릭합니다.</LOC_STRING>
       <LOC_STRING _locID="photom:help_button_ltt">
@@ -5732,7 +5732,7 @@
          <color r="255" g="248" b="178">
             게임으로 돌아가기
          </color>
-         <br>동물원 백과사전을 닫고 게임으로 돌아갑니다.</br>
+         <br>주피디아를 닫고 게임으로 돌아갑니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoopedia:next_topic_button_stt">다음</LOC_STRING>
       <LOC_STRING _locID="zoopedia:next_topic_button_ltt">
@@ -5753,7 +5753,7 @@
          <color r="255" g="248" b="178">
             목차
          </color>
-         <br>동물원 백과사전의 목차를 봅니다.</br>
+         <br>주피디아의 목차를 봅니다.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:animalslabel">동물</LOC_STRING>
       <LOC_STRING _locID="zoomap:buildingslabel">건물</LOC_STRING>

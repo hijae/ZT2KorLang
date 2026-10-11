@@ -1,0 +1,15 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry order="zoopedia_ko_000511" entry="zoopedia_foliage">
+         <BFHelpEntry entry="zoopedia_coral" order="zoopedia_ko_000299"/>
+         <BFHelpEntry entry="zoopedia_featherstar" order="zoopedia_ko_000011"/>
+         <BFHelpEntry entry="zoopedia_giantbarrelsponge" order="zoopedia_ko_000125"/>
+         <BFHelpEntry entry="zoopedia_greenseaanemone" order="zoopedia_ko_000107"/>
+         <BFHelpEntry entry="zoopedia_kelpforest" order="zoopedia_ko_000531"/>
+         <BFHelpEntry entry="zoopedia_phaeophyta" order="zoopedia_ko_000009"/>
+         <BFHelpEntry entry="zoopedia_seafan" order="zoopedia_ko_000253"/>
+         <BFHelpEntry entry="zoopedia_seastar" order="zoopedia_ko_000264"/>
+         <BFHelpEntry entry="zoopedia_tussacgrass" order="zoopedia_ko_000574"/>
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>
