@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "package_name": "주타이쿤 2 한국어 번역 보충 패키지",
-  "version": "2026-10-10",
-  "output_name": "ZZZZZZKorlang2026-10-10.z2f",
-  "reviewed_candidate_sha256": "cc88c5693eda81471d5ab433f4b68de71e7495056200d6bd4ef3768b4fdd869f",
+  "version": "2026-10-11",
+  "output_name": "ZZZZZZKorlang2026-10-11-Complete-Gulim.z2f",
+  "reviewed_candidate_sha256": "c1ffab07acbfd6c166a39388634c90a6d3f500f4f92e19369162dd3098b98c26",
   "upstream": "https://github.com/hijae/ZT2KorLang/releases/tag/ver-2024-12-22",
   "language_xml_files": 332,
   "ui_xml_files": 97,
@@ -87,13 +87,13 @@
       "path": "lang/1033/CP1_animal_entries.xml",
       "source_path": "lang/1033/CP1_animal_entries.xml",
       "bytes": 175065,
-      "sha256": "c79f58d663c1fc8899d73e4a914ca7e6b3a1cef01fb55520ae49526b498269d5",
+      "sha256": "ccde460a366cd093ca2e760e811806b1fa01b4ac7e76dcd321756af23f749eb8",
       "node_count": 2100,
       "loc_string_count": 40,
       "id_signature_sha256": "df009e372ccfd65edbe58e9af712af95464e7be1684bfb21b62f2c0770113afd",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "0b4074a978d2da2893f1dd23b4b56fbdfff9397a990cca5fc0ef2b1571635c6e",
-      "structure_attribute_signature_sha256": "97543b8895f860552b2bd818b87e2fb2bf8f919a53d79b5f7ac5cd9528419f73"
+      "structure_attribute_signature_sha256": "81e31e4602a377b9fc34d87a0e542cdac28a8ec13ae8ca312319ed1813c0db8c"
     },
     {
       "path": "lang/1033/CP1_campaign1.xml",
@@ -207,13 +207,13 @@
       "path": "lang/1033/CP2_animal_entries.xml",
       "source_path": "lang/1033/CP2_animal_entries.xml",
       "bytes": 521896,
-      "sha256": "ddc6bc1be7f79cb606fb1c3d493f2ac3381cca74c621118de663caae1137717c",
+      "sha256": "693abb07c4ab9660004e96144c501cdc510b816105d57572116cba74d7b2708d",
       "node_count": 6487,
       "loc_string_count": 126,
       "id_signature_sha256": "593a4af14fba17e319ece1a7afa5defadad545aee6c586561d51f1e254072f38",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "fd748de2cf7fa35c15363a0bb18de74ad6808897f354685715cbcdcdaf278fc2",
-      "structure_attribute_signature_sha256": "80c985ab40c9a239f6e3f7d14b7ba2110e57a71a5e1983d694ec4da0666f1b06"
+      "structure_attribute_signature_sha256": "cd8aac564c2443e15229d1caa60207f582c313c64f54db1f69e8f3ed4d191ea5"
     },
     {
       "path": "lang/1033/CP2_animal_thoughts.xml",
@@ -567,13 +567,13 @@
       "path": "lang/1033/ElephantAsian_strings.xml",
       "source_path": "lang/1033/ElephantAsian_strings.xml",
       "bytes": 23758,
-      "sha256": "dc475672ec97788197c1d074d627bd3f206eb7d0d1de7dce769c1c4b7336b384",
+      "sha256": "59e70791138df661c37141ac6a467563bb4f57d3f5c9ffe8c7658b1624979612",
       "node_count": 206,
       "loc_string_count": 0,
       "id_signature_sha256": "0d918fc750ccb955e7bff6b17e73a402a6b05776d4e5b328330fbc9dddd87c53",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "5d0597f1f0dc2ed07029342d39c9efb1f9559bad30929038f7afd04378cca4f5",
-      "structure_attribute_signature_sha256": "f28d431a53d0a43a5a413803740ac9734d99038e826669365b3c0678faa4806c"
+      "structure_attribute_signature_sha256": "0360b6df260db6986b76341ae9d90148a675be9a3d10b5a3704ec3296cca29a1"
     },
     {
       "path": "lang/1033/GuestPack_strings.xml",
@@ -603,25 +603,25 @@
       "path": "lang/1033/LeopardBlack_strings.xml",
       "source_path": "lang/1033/LeopardBlack_strings.xml",
       "bytes": 8963,
-      "sha256": "9efd4bab3a5b0e2213c17793133d756142c5274360bd99d40ceffc456f4b83e9",
+      "sha256": "9a5ed7645da5057fb50561be8e0f36a28daf811c005f2931be900394996bcf59",
       "node_count": 121,
       "loc_string_count": 0,
       "id_signature_sha256": "ca73f7e2f7a509597bd9b00a73f2f39f80fd91de790a771937f71454d4f1e17f",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "00f57c9715f835ff31fdc8d097ac1c3c1c40466d7cea1f2c02c9bde468bab83b",
-      "structure_attribute_signature_sha256": "18ae48ff01a9c103773a59d522d174deda71ef00d899376416895277a5ba18c0"
+      "structure_attribute_signature_sha256": "f6b2ae2a5d0bdc7b5de4e1015a907a18b46bc1f43875a410d56a63dec7d7c6af"
     },
     {
       "path": "lang/1033/MuskOx_strings.xml",
       "source_path": "lang/1033/MuskOx_strings.xml",
       "bytes": 15474,
-      "sha256": "9ab2a59e3fbbe859c30dd85ed4da9223c325b3b75d51766e44469bde2c14d2f1",
+      "sha256": "3292ae0521e3be0883aa3ebf12d2f39b054e1ee1c20250e49d4a81c5d4e71cb2",
       "node_count": 167,
       "loc_string_count": 0,
       "id_signature_sha256": "b7230ab163c702814081ba340705e83e705d9f4ca9ce71b37865db96ba4b86f3",
       "format_token_signature_sha256": "f89390da507460c07c4e19833532b1d7e11a5062c9ddd44dc26b6c39c6b47bb8",
       "reference_signature_sha256": "84390ec0715e0232006ffef6ca8e10632e30bb550422124fc4090654663ad110",
-      "structure_attribute_signature_sha256": "9aa373486ec6b5cff1c3a907559f0847719351bef2fc0ee934b01562c41ce020"
+      "structure_attribute_signature_sha256": "8dda76aaed1f260955d5299bc73f734a000143c963b00ceb73a87ee5686ba1f7"
     },
     {
       "path": "lang/1033/PDLC1_strings.xml",
@@ -723,61 +723,61 @@
       "path": "lang/1033/animal_entries.xml",
       "source_path": "lang/1033/animal_entries.xml",
       "bytes": 342366,
-      "sha256": "24190ac9d0b0017576042c0b5ea2043a6f1134163a85b2665c8e45b067f1cd96",
+      "sha256": "2bfd1bb70b90ee63cbb20a4eb7be7536553fec6d52541382865c8a12d1ed14d3",
       "node_count": 3418,
       "loc_string_count": 60,
       "id_signature_sha256": "82519e440c14774328a9c31ab9347e17100be33aa6fadffab2de5bcc8728c5fc",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "4775c2589c8b5b0d847577a954324d0b06e8610fd0077775bda0fbd286846504",
-      "structure_attribute_signature_sha256": "2305d0b74fb91f71c19e7302bf71c4672792588550897e16475636b78153fa26"
+      "structure_attribute_signature_sha256": "30a0a6b74cf731377f6b70cd3ab6b7165bfdf6a7113938ff4e97ab7437aba6a4"
     },
     {
       "path": "lang/1033/animal_entries_CP2_edits.xml",
       "source_path": "lang/1033/animal_entries_CP2_edits.xml",
       "bytes": 10633,
-      "sha256": "01433fb20df53b9672ee4972b08c680d8d43c15469576128876e7c3cb956f34d",
+      "sha256": "1529821997eb42dcf6c371d897c3c2250e63d13beb29d209777c5a07d22e6924",
       "node_count": 131,
       "loc_string_count": 3,
       "id_signature_sha256": "c74e9d27398b6ab5bca72a7686942d8be5af2130c655a26c12763cac7088bc35",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "0d5af6a4432e7dd6705a98af78001ceff2760118c38e1ef024d367c85cbf8f31",
-      "structure_attribute_signature_sha256": "ccec4db40050718a97a4ca12ae2eecaf5fa296fa22f2bfb948b14d8ed67c8d46"
+      "structure_attribute_signature_sha256": "1ac46eba78a3f5cdb5af53c8b56a2293ff73387bd3fc2f19e31d44ebcb51b430"
     },
     {
       "path": "lang/1033/animal_entries_PDLC1_CP2_edits.xml",
       "source_path": "lang/1033/animal_entries_PDLC1_CP2_edits.xml",
       "bytes": 80539,
-      "sha256": "f60d8457ba1aa4deb8fb94df3de6617f473531195d4bfd8d31890e1613eab87b",
+      "sha256": "bcf8d856ce4ac9ff0660e6f3fd7ee35ca5fd53921025f0bdf8a69daea47df995",
       "node_count": 883,
       "loc_string_count": 20,
       "id_signature_sha256": "e0d9241db19893e36bfb8d949f85c478e61e8ba856df4cb89c9714dead4c2617",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "e07b4d63ab22e27a77a406c66b5ea8cb8a1336ea4722d3d20bc17a1fd535debf",
-      "structure_attribute_signature_sha256": "d833f901bd5b552cb6c48a4d142a7b41e174a56e3fb15df0d8064f301dd48768"
+      "structure_attribute_signature_sha256": "fac9f63642784bf3a58716524419785e39a13443fa1fd56097f557daaee2fb51"
     },
     {
       "path": "lang/1033/animal_entries_p2edits.xml",
       "source_path": "lang/1033/animal_entries_p2edits.xml",
       "bytes": 8979,
-      "sha256": "e004e16c1262b806cd46bd92624e298869a7a73499a9c94b12ee5577f185b87a",
+      "sha256": "aabbddc7ac6997f3cbdda6d14fc593e658844d1191dfb3326d7273134db267a9",
       "node_count": 94,
       "loc_string_count": 3,
       "id_signature_sha256": "1c8b4a36392d8747dab76655b12d4b2f047e4a0f135f3b470b35390228bf8e39",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "4cabbd88b0969b553c82703a1949249290c9ac08bc06325222995267ff65f779",
-      "structure_attribute_signature_sha256": "cb967f0f36efbccced5b7032004540d94a3407ff9d79b28c70f0a24c32661029"
+      "structure_attribute_signature_sha256": "fd648bf636251f5f88d4b450209a25dd7609883968b1f7d4d9ef3ae4496d7cc5"
     },
     {
       "path": "lang/1033/animal_entries_xp2_edits.xml",
       "source_path": "lang/1033/animal_entries_xp2_edits.xml",
       "bytes": 23954,
-      "sha256": "12e6e5946434406fafd36f844d94d642a5fac145117548b402fd5b3179789356",
+      "sha256": "5788be0d95caf95e8a3836bcf558664beddea94c922043766e733591ac625601",
       "node_count": 228,
       "loc_string_count": 6,
       "id_signature_sha256": "e8829811d52a9b1c9908ab289022e901ac78e360eacc21f91a133488a4e3b162",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "b02c7046251cff70c1f6c1620093face28650114e67d0e955a4dad23b434290c",
-      "structure_attribute_signature_sha256": "d8c4b40e218a5ed156ba459740ddf62db9019bd77aa39e541ddc57d409c47a78"
+      "structure_attribute_signature_sha256": "1a30faec7e09beaa2736582c5f137c606a0bd01a7d8c1310ab6ceb51c8a18b17"
     },
     {
       "path": "lang/1033/animal_thoughts.xml",
@@ -1071,13 +1071,13 @@
       "path": "lang/1033/cp1_animal_entries_cp2_edits.xml",
       "source_path": "lang/1033/cp1_animal_entries_cp2_edits.xml",
       "bytes": 19222,
-      "sha256": "bd877638109df3ef29dda7361e7b75c54df3e27a61df043897fc2eb21a3893da",
+      "sha256": "c5acfa835c92fef0a2de009174a5733044e5cf6bc9d96c0ecd855a31fb88e49a",
       "node_count": 233,
       "loc_string_count": 6,
       "id_signature_sha256": "ab8831ca660b39118db572b382b0801ebcfc24d418f40c225b5df27bd518fdf4",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "d747a247557e22340466b999ddac58bc5106933880873313b798cc4abf047de7",
-      "structure_attribute_signature_sha256": "90e5d391e56f71459b7e3d561c4dc315c09bb9ad369f9ef64c68df139e321cc8"
+      "structure_attribute_signature_sha256": "9b71f081fd10ad2a4e9e14b573127515576aa7e21378fffbd6bdd7a369d76c26"
     },
     {
       "path": "lang/1033/cp1_awards.xml",
@@ -2223,13 +2223,13 @@
       "path": "lang/1033/pdlc1_animal_entries.xml",
       "source_path": "lang/1033/pdlc1_animal_entries.xml",
       "bytes": 38980,
-      "sha256": "026491019ed3961d010c08c943347ec2283f1d0e76815c98f8ec2a3c73f8326a",
+      "sha256": "74c816b29d2dbf132f94b185bd852722d060100a857fb0196a421b1571e5fe73",
       "node_count": 429,
       "loc_string_count": 8,
       "id_signature_sha256": "4a199022f72bb1ec7f699c1edffa8dd956df74eb402499eb510247f65b07844b",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "6e5d1f2f9b66df50c4e870407b61ed1dc64a54beae526ce1a854023aa5706bf5",
-      "structure_attribute_signature_sha256": "1fca46849900356519040b222d82663922c8262982805db359e46a576c2f6020"
+      "structure_attribute_signature_sha256": "1db5a2f04b35d66a2f4c13931c419a895deb6aebb2727e92899d23e34eabca4e"
     },
     {
       "path": "lang/1033/pdlc1_campaign1.xml",
@@ -2859,25 +2859,25 @@
       "path": "lang/1033/xp1_animal_entries.xml",
       "source_path": "lang/1033/xp1_animal_entries.xml",
       "bytes": 205910,
-      "sha256": "3f8bae6b36864c658e9093b8f05ac25cd12a63645b6c8b94d27f7905cb0a82f1",
+      "sha256": "1d3f4383776c066d4fe8b25c58f43e7dc2f7d70fd1ee1d33bef0e4d2a92e97b6",
       "node_count": 2479,
       "loc_string_count": 40,
       "id_signature_sha256": "51f89165d0911d7e518b862ddb96aa4f41e0e57078e3b6fabf366c019ed1f51f",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "4843e0d8f9bcbd458271d16f13d0bcee5018a00de78398d24bb05a390227324c",
-      "structure_attribute_signature_sha256": "0b8ee3a7087deecdf8f26cd42e69f488129b6ea2a3396f0daec56b4c812ac285"
+      "structure_attribute_signature_sha256": "41da90d7d8fb739ef10200241033505fd07e80d66aa386061baa89f5d0e1b58b"
     },
     {
       "path": "lang/1033/xp1_animal_entries_p2edits.xml",
       "source_path": "lang/1033/xp1_animal_entries_p2edits.xml",
       "bytes": 10461,
-      "sha256": "ac6fc34eeeda6564648205c8cee953a48ba0e68ba17661c3660fd0e0397ac7a6",
+      "sha256": "82db13a78dae1ec32e116137b8056e3ea903fa35a9100d611f1dd2264caf9e59",
       "node_count": 128,
       "loc_string_count": 3,
       "id_signature_sha256": "854771dcc47727a2bdbe8720995a4ea630e02926320d96139d12c4dbebca939e",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "55adc12b79dcb0d6a6b0eeb784965ff8312dc7b7cf634b2111081b835b472986",
-      "structure_attribute_signature_sha256": "3a5e100eb853cec8096e66c2dbb541d7a28ea30decca07bf3c93671157341bf7"
+      "structure_attribute_signature_sha256": "e4d73db879527b48fc1791668809e9be5022bba9f234c24e09d66b320bd9eff4"
     },
     {
       "path": "lang/1033/xp1_awards.xml",
@@ -3351,25 +3351,25 @@
       "path": "lang/1033/xp2_animal_entries.xml",
       "source_path": "lang/1033/xp2_animal_entries.xml",
       "bytes": 169013,
-      "sha256": "85d88dcefefe93d0468b2436b94262d958e8f165f9ae06d693e4b7b27e03c107",
+      "sha256": "9e8e6a679ea7991f5e6bb8341e82df2468d5c5acbdfacbc8a8a40d147955d627",
       "node_count": 1978,
       "loc_string_count": 40,
       "id_signature_sha256": "58bb211c8166375c70a24ebd21cb00c42e938a87699741b56ef3d29bd2aac975",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "50545a94dbddfc9d2772046dcaf9b241abb781dcb4699682c11674190142e523",
-      "structure_attribute_signature_sha256": "e6a6401538a00ebdbef9d76d0a661274108320e652b8f33b69a4acee8893d392"
+      "structure_attribute_signature_sha256": "0a138b66bc73fe7cff7006166fe26175639b0ed65404d33ec959da4273f0e95b"
     },
     {
       "path": "lang/1033/xp2_animal_entries_cp2_edits.xml",
       "source_path": "lang/1033/xp2_animal_entries_cp2_edits.xml",
       "bytes": 16335,
-      "sha256": "387163397f6e3c034790550840d374bb9d4d95d8c3a6196b15fcacf9d95cb61e",
+      "sha256": "4273453e290acc965f41b6fa1e11f9c522385400befd6432f851d13ee275e0d7",
       "node_count": 205,
       "loc_string_count": 6,
       "id_signature_sha256": "ce2e9b464c9386c71b04784ae86616005535a80a6a321cce74dc21edc85448ec",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "037dc48bf67da518a96cea2a1fbfa74344c5b363a81df45124947fd200ec4df4",
-      "structure_attribute_signature_sha256": "4daab4a051a9927a12fec11746dfae36288384dfa7d510ae2500dad4fefbca3a"
+      "structure_attribute_signature_sha256": "f4f337958792c4cd91894a778f8da83c787810842c07f3feec0853fd74338414"
     },
     {
       "path": "lang/1033/xp2_awards.xml",
@@ -4167,13 +4167,13 @@
       "path": "ui/layout/zoopedia.xml",
       "source_path": "ui/layout/zoopedia.xml",
       "bytes": 17545,
-      "sha256": "9d813e000bed523d9b2535b40d64022f79d96e910ff0f72a26e2de35deb61265",
+      "sha256": "c3b09d9d60974daeec4c12fecd7f72fb69d1f3b680aabe4e0acbea74001e3ba3",
       "node_count": 230,
       "loc_string_count": 0,
       "id_signature_sha256": "af57a173bbdd3f3f09559721ca167a1ce2ece180de3bfb1ac0b11accd4031073",
       "format_token_signature_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "reference_signature_sha256": "49227ff97a81dfa48c157556f11601ee6c7a9a68aadffce0f5e2bf295d405e1e",
-      "structure_attribute_signature_sha256": "f00369b14019b5e96f3b29e0c0e33bdc39bca10dc20144791c34a8c254cddc6d"
+      "structure_attribute_signature_sha256": "975eb103237744fe6a0dea6b7a9c50cca4b2b15396c4477dec4e933bd7cd099c"
     },
     {
       "path": "ui/template/listbox.xml",

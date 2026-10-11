@@ -72,7 +72,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">스티라코사우루스에 대한<br />재밌는 사실</font>
                </color>
@@ -186,7 +186,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">트리케라톱스에 대한<br />재밌는 사실</font>
                </color>
@@ -313,7 +313,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">티라노사우루스 렉스에 대한<br />재밌는 사실</font>
                </color>
@@ -455,7 +455,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">카르노타우루스에 대한<br />재밌는 사실</font>
                </color>
@@ -568,7 +568,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">슈퍼 스티라코사우루스에 대한<br />재밌는 사실</font>
                </color>
@@ -681,7 +681,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">슈퍼 트리케라톱스에 대한<br />재밌는 사실</font>
                </color>
@@ -807,7 +807,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">슈퍼 티라노사우루스 렉스에 대한<br />재밌는 사실</font>
                </color>
@@ -948,7 +948,7 @@
             <cell width="64">
                <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
             </cell>
-            <cell width="176">
+            <cell width="236">
                <color r="40" g="36" b="25">
                   <font name="Gulim" size="12" shadowx="0" shadowy="0" shadowa="0">슈퍼 카르노타우루스에 대한<br />재밌는 사실</font>
                </color>

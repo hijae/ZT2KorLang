@@ -1,7 +1,7 @@
 """기존 번역과 검증된 보완 XML을 묶는 주타이쿤 2 한국어 패치 빌더.
 
 Python 3.9 이상과 표준 라이브러리만 사용합니다. 게임이나 네트워크에는
-접근하지 않습니다. manifest.json은 검토 완료된 source 파일의 기준입니다.
+접근하지 않습니다. manifest.json은 보완판 source 파일의 기준이며 기존판은 사용하지 않습니다.
 """
 
 import argparse
@@ -17,9 +17,9 @@ import zipfile
 
 PACKAGE = Path(__file__).resolve().parent
 REPOSITORY = PACKAGE.parent
-RELEASE_DATE = "2026-10-10"
-OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + ".z2f"
-PRETENDARD_OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + "-Pretendard.z2f"
+RELEASE_DATE = "2026-10-11"
+OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + "-Complete-Gulim.z2f"
+PRETENDARD_OUTPUT_NAME = "ZZZZZZKorlang" + RELEASE_DATE + "-Complete-Pretendard.z2f"
 FONT_FAMILIES = {"system": "Gulim", "pretendard": "Pretendard"}
 EXPECTED_FILES = 431
 EXPECTED_LANGUAGE_FILES = 332
@@ -186,8 +186,43 @@ def select_font(verified, font):
     return result
 
 
-def merge_base_sources(verified, manifest):
-    """원 저장소 XML을 보존하고 보완 XML을 같은 가상 경로에 덮어씁니다."""
+def load_legacy_sources():
+    """현재 lang/config의 일반 파일을 경로만 검사하고 바이트 그대로 읽습니다.
+
+    매니페스트, 파일 개수, 해시, XML 구문 및 줄바꿈 변환에 의존하지 않습니다.
+    디렉터리 링크도 순회 전에 거부하여 저장소 밖 파일이나 순환을 방지합니다.
+    """
+    repository = REPOSITORY.resolve()
+    files = []
+    seen = set()
+
+    def visit(source):
+        if (source.is_symlink() or getattr(source, 'is_junction', lambda: False)()
+                or not source.resolve().is_relative_to(repository)):
+            raise ValueError('기존판 경로가 링크이거나 저장소 밖입니다: ' + str(source))
+        name = source.relative_to(REPOSITORY).as_posix()
+        path = PurePosixPath(name)
+        if (path.is_absolute() or '..' in path.parts or str(path) != name
+                or '\\' in name or ':' in name or path.parts[0] not in ('lang', 'config')):
+            raise ValueError('기존판 경로가 허용되지 않습니다: ' + name)
+        if source.is_dir():
+            for child in sorted(source.iterdir()):
+                visit(child)
+        elif source.is_file():
+            if name.casefold() in seen:
+                raise ValueError('기존판에 중복 경로가 있습니다: ' + name)
+            seen.add(name.casefold())
+            files.append((name, source.read_bytes()))
+        else:
+            raise ValueError('기존판 경로가 일반 파일/폴더가 아닙니다: ' + name)
+
+    for folder in ('lang', 'config'):
+        visit(REPOSITORY / folder)
+    return sorted(files)
+
+
+def load_base_sources(manifest):
+    """기존 lang/config만 검증하여 읽습니다. UI 보완은 포함하지 않습니다."""
     records = manifest.get('base_files', [])
     if len(records) != EXPECTED_BASE_FILES:
         raise ValueError('기존 XML 기준은 정확히 364개이어야 합니다.')
@@ -214,6 +249,11 @@ def merge_base_sources(verified, manifest):
         if sha256(data) != record['sha256']:
             raise ValueError('기존 XML 해시가 기준과 다릅니다: ' + name)
         merged[name.casefold()] = (name, data)
+    return sorted(merged.values())
+
+
+def merge_base_sources(verified, manifest):
+    merged = {n.casefold(): (n, d) for n, d in load_base_sources(manifest)}
     for name, data in verified:
         merged[name.casefold()] = (name, data)
     if len(merged) != EXPECTED_ARCHIVE_FILES:
@@ -221,15 +261,54 @@ def merge_base_sources(verified, manifest):
     return sorted(merged.values())
 
 
-def release_filename(release_date, font):
+def apply_ui_weight(files, font):
+    """굴림 메뉴 UI만 보정합니다. 기존 강조를 유지하고 동적 서식의 중첩을 피합니다.
+
+    소스 매니페스트 검증 후 수행되는 재현 가능한 변환입니다.
+    주피디아 본문 및 패키지 밖 게임 UI의 전체 굵기 보정은 아닙니다.
+    """
+    if font != 'system':
+        return files
+    def bf(match):
+        tag = match.group()
+        if re.search(rb'\bbold="[^"]*"', tag):
+            return re.sub(rb'\bbold="[^"]*"', b'bold="1"', tag)
+        return tag.replace(b'<BFFont', b'<BFFont bold="1"', 1)
+    def rich(match):
+        body = match.group(1)
+        # Existing partial emphasis must retain its scope. Runtime substitutions
+        # may themselves contain markup, so do not wrap their enclosing font.
+        if re.search(rb'<b(?:\s|>)|<font\b|%[A-Za-z_][A-Za-z0-9_]*%', body):
+            return match.group()
+        opening = match.group().index(b'>') + 1
+        return match.group()[:opening] + b'<b>' + body + b'</b></font>'
+    result = []
+    for name, data in files:
+        lower = name.replace('\\', '/').lower()
+        if lower.startswith('ui/') and lower.endswith('.xml'):
+            data = re.sub(rb'<BFFont\b[^>]*>', bf, data)
+        elif lower.startswith('lang/') and (lower.endswith('/ui.xml') or lower.endswith('_ui.xml')):
+            data = re.sub(rb'<font\b[^>]*>(.*?)</font>', rich, data, flags=re.S)
+        result.append((name, data))
+    return result
+
+
+def release_filename(release_date, font, edition='complete'):
     if date.fromisoformat(release_date).isoformat() != release_date:
         raise ValueError('릴리스 날짜는 YYYY-MM-DD 형식이어야 합니다.')
-    suffix = '' if font == 'system' else '-Pretendard'
+    if edition not in ('legacy', 'complete') or font not in FONT_FAMILIES:
+        raise ValueError('지원하지 않는 배포판 또는 글꼴입니다.')
+    if edition == 'legacy':
+        if font != 'system':
+            raise ValueError('기존판에는 글꼴 변환을 적용하지 않습니다.')
+        suffix = ''
+    else:
+        suffix = '-Complete-Gulim' if font == 'system' else '-Complete-Pretendard'
     return 'ZZZZZZKorlang' + release_date + suffix + '.z2f'
 
 
-def build_patch(verified, font="system", release_date=RELEASE_DATE):
-    output_name = release_filename(release_date, font)
+def build_patch(verified, font="system", release_date=RELEASE_DATE, edition="complete"):
+    output_name = release_filename(release_date, font, edition)
     destination = PACKAGE / output_name
     temporary = PACKAGE / (output_name + ".tmp")
     try:
@@ -262,16 +341,22 @@ def main():
     parser.add_argument("--font", choices=tuple(FONT_FAMILIES), default="system",
                         help="기본값 system: 기존 한국어 패치의 굴림. pretendard: 별도 설치 필요.")
     parser.add_argument('--date', default=RELEASE_DATE, help='릴리스 파일명 날짜: YYYY-MM-DD')
+    parser.add_argument("--edition", choices=("legacy", "complete"), default="complete",
+                        help="legacy: 원본 lang/config, complete: 공식 콘텐츠 보완 통합판")
     args = parser.parse_args()
     try:
-        manifest, verified = validate_sources()
-        print("검증 완료: XML %d개, LOC_STRING %d개" % (len(verified), manifest["loc_string_count"]))
-        verified = select_font(verified, args.font)
-        print("글꼴: " + FONT_FAMILIES[args.font])
-        verified = merge_base_sources(verified, manifest)
-        print("통합 배포: 기존 XML과 보완 XML을 합친 %d개" % len(verified))
+        release_filename(args.date, args.font, args.edition)
+        if args.edition == 'legacy':
+            verified = load_legacy_sources()
+        else:
+            manifest, verified = validate_sources()
+            print("검증 완료: XML %d개, LOC_STRING %d개" % (len(verified), manifest["loc_string_count"]))
+            verified = select_font(verified, args.font)
+            verified = merge_base_sources(verified, manifest)
+            verified = apply_ui_weight(verified, args.font)
+        print("배포판: %s, 파일 %d개" % (args.edition, len(verified)))
         if not args.check:
-            destination = build_patch(verified, args.font, args.date)
+            destination = build_patch(verified, args.font, args.date, args.edition)
             print("생성 완료: " + destination.name)
             print("SHA256: " + sha256(destination.read_bytes()))
     except (OSError, ValueError, KeyError, ET.ParseError, zipfile.BadZipFile) as error:

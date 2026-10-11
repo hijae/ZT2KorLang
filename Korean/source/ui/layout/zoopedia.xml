@@ -135,7 +135,7 @@
                      <UIRegion x="8" y="0" w="220" h="0" xalign="min" yalign="min" walign="len" halign="len"/>
                      <children>
                         <UILayout name="heading">
-                           <UIRegion x="0" y="0" w="200" h="12" xalign="min" yalign="min" walign="len" halign="len"/>
+                           <UIRegion x="0" y="0" w="220" h="16" xalign="min" yalign="min" walign="len" halign="len"/>
                            <children>
                               <UIToggleButton name="expander" toggle="1">
                                  <UIState active="disabled" visible="normal"/>
@@ -178,7 +178,7 @@
                                  </off>
                               </UIToggleButton>
                               <UIButton name="action" autosize="true">
-                                 <UIRegion x="18" y="0" w="180" h="30" xalign="min" yalign="min" walign="len" halign="len"/>
+                                 <UIRegion x="18" y="0" w="200" h="16" xalign="min" yalign="min" walign="len" halign="len"/>
                                  <UIAspect>
                                     <standard>
                                        <normal>

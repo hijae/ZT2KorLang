@@ -2,32 +2,106 @@ name: Create Archive
 on:
   push:
     branches:
-      main
+      - main
+
+permissions:
+  contents: read
+
+# Serialize release updates from different pushes; never cancel a running release.
+concurrency:
+  group: korean-release-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  build:
+  release_date:
+    runs-on: ubuntu-latest
+    outputs:
+      date: ${{ steps.date.outputs.date }}
+    steps:
+      - name: Get shared release date
+        id: date
+        run: echo "date=$(TZ=Asia/Seoul date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+  legacy_release:
+    needs: release_date
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build original patch (no complete-edition validation)
+        run: python3 Korean/build_patch.py --edition legacy --date "${{ needs.release_date.outputs.date }}"
+      - name: Publish original patch
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: Korean/ZZZZZZKorlang${{ needs.release_date.outputs.date }}.z2f
+          artifactErrorsFailBuild: true
+          allowUpdates: true
+          removeArtifacts: false
+          replacesArtifacts: true
+          omitBodyDuringUpdate: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit: ${{ github.sha }}
+          tag: ver-${{ needs.release_date.outputs.date }}
+          name: ZT2 Korean Patch ${{ needs.release_date.outputs.date }}
+
+  complete_build:
+    needs: release_date
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    
-    - name: Get current date
-      id: date
-      run: echo "date=$(TZ=Asia/Seoul date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
- 
-    - name: Validate Korean patch
-      run: python3 -m unittest discover -s Korean -v
+      - uses: actions/checkout@v4
+      - name: Validate complete Korean patch
+        run: python3 -m unittest discover -s Korean -v
+      - name: Build complete Korean patch (Gulim)
+        run: python3 Korean/build_patch.py --date "${{ needs.release_date.outputs.date }}"
+      - name: Build complete Korean patch (Pretendard)
+        run: python3 Korean/build_patch.py --font pretendard --date "${{ needs.release_date.outputs.date }}"
+      - name: Stage complete artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: complete-patches
+          if-no-files-found: error
+          path: |
+            Korean/ZZZZZZKorlang${{ needs.release_date.outputs.date }}-Complete-Gulim.z2f
+            Korean/ZZZZZZKorlang${{ needs.release_date.outputs.date }}-Complete-Pretendard.z2f
+      - name: Explain complete-edition failure
+        if: ${{ failure() }}
+        run: |
+          echo '::warning::lang 변경됨, 매니페스트 갱신 필요'
+          {
+            echo '## 보완판 빌드 실패'
+            echo 'lang 변경됨, 매니페스트 갱신 필요'
+            echo '위 문구는 점검 안내입니다. 정확한 실패 원인은 앞선 테스트·빌드·업로드 로그를 확인하세요.'
+            echo '기존판 빌드·릴리즈는 legacy_release job에서 독립적으로 진행됩니다.'
+          } >> "$GITHUB_STEP_SUMMARY"
 
-    - name: Build Korean patch (original Gulim font)
-      run: python3 Korean/build_patch.py --date "${{ steps.date.outputs.date }}"
-
-    - name: Build Korean patch (optional Pretendard)
-      run: python3 Korean/build_patch.py --font pretendard --date "${{ steps.date.outputs.date }}"
-
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
-      with:
-        artifacts: "Korean/ZZZZZZKorlang${{ steps.date.outputs.date }}.z2f,Korean/ZZZZZZKorlang${{ steps.date.outputs.date }}-Pretendard.z2f"
-        token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ver-${{ steps.date.outputs.date }}
-        name: ZT2 Korean Patch ${{ steps.date.outputs.date }}
+  complete_release:
+    # Only the upload waits for the original release, avoiding release-creation races.
+    needs: [release_date, legacy_release, complete_build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: complete-patches
+          path: complete-artifacts
+      - name: Add complete editions to the original release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: complete-artifacts/*.z2f
+          artifactErrorsFailBuild: true
+          allowUpdates: true
+          removeArtifacts: false
+          replacesArtifacts: true
+          omitBodyDuringUpdate: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit: ${{ github.sha }}
+          tag: ver-${{ needs.release_date.outputs.date }}
+          name: ZT2 Korean Patch ${{ needs.release_date.outputs.date }}
+      - name: Explain complete-edition upload failure
+        if: ${{ failure() }}
+        run: |
+          echo '::warning::lang 변경됨, 매니페스트 갱신 필요'
+          echo 'lang 변경됨, 매니페스트 갱신 필요 (점검 안내; 업로드 오류의 실제 원인은 로그를 확인하세요.)' >> "$GITHUB_STEP_SUMMARY"
+          echo '보완판 업로드가 실패했습니다. 기존판 릴리즈는 유지됩니다. 다운로드·업로드 로그를 확인하세요.' >> "$GITHUB_STEP_SUMMARY"

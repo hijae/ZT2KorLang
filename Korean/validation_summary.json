@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
-  "version": "2026-10-10",
-  "status": "passed_static_validation_runtime_partially_confirmed",
+  "version": "2026-10-11",
+  "status": "static_checks_passed_user_accepted_local_layout_pending_upstream_release",
   "artifacts": {
-    "ZZZZZZKorlang2026-10-10.z2f": "cc88c5693eda81471d5ab433f4b68de71e7495056200d6bd4ef3768b4fdd869f",
-    "ZZZZZZKorlang2026-10-10-Pretendard.z2f": "feeb1c2dd86b04cce5b7cf21a70972b7a4468cd6dea78661d6b729de1e8690de"
+    "ZZZZZZKorlang2026-10-11.z2f": "8a253521d45bed3229c211fb6ec0b00139223cf4f6529b4d914688b46569f051",
+    "ZZZZZZKorlang2026-10-11-Complete-Gulim.z2f": "c1ffab07acbfd6c166a39388634c90a6d3f500f4f92e19369162dd3098b98c26",
+    "ZZZZZZKorlang2026-10-11-Complete-Pretendard.z2f": "6df90edad8ab2fca280b50b8f7173ba55037384f5071a52c7030caf754e1f751"
   },
   "total_xml_files": 431,
   "language_xml_files": 332,
@@ -26,26 +27,116 @@
       "y": 16,
       "width": 272,
       "align": "center"
+    },
+    "shared_aspect_layout_trial": {
+      "fact_heading_width": 236,
+      "fact_column_width": 300,
+      "fact_icon_width": 64,
+      "toc_row_height": 16,
+      "toc_action_width": 200,
+      "welcome_toc_label": "주타이쿤 2의 세계에 오신 것을 환영합니다."
     }
   },
   "static_validation": {
-    "unit_tests_passed": 16,
-    "two_variants_differ_only_in_font_attributes": true,
+    "unit_tests_passed": 22,
     "repeat_build_byte_identical": true,
     "archive_crc_and_bytes": "passed",
-    "existing_base_xml_preserved": true
+    "existing_base_xml_preserved": true,
+    "new_static_nested_bold_tags": 0,
+    "gulim_weight_changed_files": 25,
+    "weight_changed_paths": [
+      "UI/layout/freeformselection.xml",
+      "UI/tool/gesturetool.xml",
+      "lang/1033/CP2_ui.xml",
+      "lang/1033/aa_ui.xml",
+      "lang/1033/cp1_ui.xml",
+      "lang/1033/p2_ui.xml",
+      "lang/1033/pdlc1_ui.xml",
+      "lang/1033/ui.xml",
+      "ui/layout/animaltraining/newtrickmessageitem.xml",
+      "ui/layout/counttimer.xml",
+      "ui/layout/debugstring.xml",
+      "ui/layout/devpanel/devpanel.xml",
+      "ui/layout/downloads.xml",
+      "ui/layout/ingameoptions.xml",
+      "ui/layout/options.xml",
+      "ui/layout/soundtest.xml",
+      "ui/layout/thoughtitem.xml",
+      "ui/layout/zoopedia.xml",
+      "ui/template/listbox.xml",
+      "ui/template/water/waterRGBAslider.xml",
+      "ui/template/water/waterRGBslider.xml",
+      "ui/template/water/waterXYslider.xml",
+      "ui/template/water/waterslider.xml",
+      "ui/template/water/watertextedit.xml",
+      "ui/tool/textbutton.xml"
+    ],
+    "legacy_raw_bytes_match_current_lang_config": true,
+    "legacy_build_independent_of_manifest": true,
+    "legacy_no_fixed_file_count_or_content_hash": true,
+    "workflow_dependency_checks": "YAML parsed; legacy independent of complete build; complete publication waits for legacy and complete success; failure notices checked. Live Actions execution pending merge."
   },
   "runtime_validation": {
     "pretendard_scaling_fix": "user_confirmed_sharp",
     "toc_single_tree_and_horizontal_title_centering": "user_screenshot_confirmed",
     "vertical_centering_and_two_line_headings": "installed_and_statically_checked; final screenshot not supplied",
-    "gulim_variant": "same XML changes; final rendering not separately confirmed"
+    "gulim_variant": "Non-nesting Gulim build and shared layout installed; user supplied 1024x768 screenshot and accepted later layout trial.",
+    "low_resolution": "User reports thinness similar across tested resolutions; no complete low-resolution clipping inspection.",
+    "aspect_ratio_trial": "User accepted local common-layout trial. Exhaustive per-page 4:3 and 16:9 validation is not claimed. Original welcome wording restored afterward."
   },
   "limitations": [
     "Custom mod Zoopedia TOC additions outside the bundled 69 entry files are not automatically included.",
     "Inherited malformed lang/1033/aa_entity_foliage_rr.xml is unchanged.",
     "No executable, DLL, TTF, save files, or private settings are distributed.",
-    "No claim of all pages, campaigns, save/load, or separate-PC runtime validation."
+    "No claim of all pages, campaigns, save/load, or separate-PC runtime validation.",
+    "Gulim weight change only covers packaged BFFont and eligible ui.xml/*_ui.xml rich fonts. Existing emphasis and dynamic substitutions are preserved. Other game UI and Zoopedia body coverage is not claimed."
   ],
-  "ai_assistance": "Codex assisted XML edits, terminology review, build and automated verification; user checked stated game screens."
+  "ai_assistance": "Codex assisted XML edits, terminology review, build and automated verification; user checked stated game screens.",
+  "artifact_validation": {
+    "ZZZZZZKorlang2026-10-11.z2f": {
+      "entries": 364,
+      "static_nested_b": 0,
+      "repeat_build_identical": true,
+      "crc_and_bytes_match": true,
+      "inherited_invalid_xml": [
+        {
+          "file": "lang/1033/aa_entity_foliage_rr.xml",
+          "error": "mismatched tag: line 2, column 8",
+          "unchanged_original": true
+        },
+        {
+          "file": "lang/1033/speciessurvival_entries_cp2_edits.xml",
+          "error": "duplicate attribute: line 3, column 88",
+          "unchanged_original": true
+        }
+      ],
+      "content_policy": "All current regular files under lang/config, raw bytes; path safety only; no manifest or XML validation."
+    },
+    "ZZZZZZKorlang2026-10-11-Complete-Gulim.z2f": {
+      "entries": 485,
+      "static_nested_b": 0,
+      "repeat_build_identical": true,
+      "crc_and_bytes_match": true,
+      "inherited_invalid_xml": [
+        {
+          "file": "lang/1033/aa_entity_foliage_rr.xml",
+          "error": "mismatched tag: line 2, column 8",
+          "unchanged_original": true
+        }
+      ]
+    },
+    "ZZZZZZKorlang2026-10-11-Complete-Pretendard.z2f": {
+      "entries": 485,
+      "static_nested_b": 0,
+      "repeat_build_identical": true,
+      "crc_and_bytes_match": true,
+      "inherited_invalid_xml": [
+        {
+          "file": "lang/1033/aa_entity_foliage_rr.xml",
+          "error": "mismatched tag: line 2, column 8",
+          "unchanged_original": true
+        }
+      ]
+    }
+  }
 }
